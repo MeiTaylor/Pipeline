@@ -1,0 +1,65 @@
+video_id,article_url,article_rating,pipeline_answer,是否判断正确,,分析
+1915109,https://www.snopes.com/fact-check/marine-attack-blm-claim/,Mixture,FALSE,Yes,,
+2041706,https://www.snopes.com/fact-check/marine-axed-trump-rally/,Mostly True,TRUE,Yes,,
+2078702,https://www.snopes.com/fact-check/secret-service-limo-video/,FALSE,FALSE,Yes,,
+2169702,https://www.snopes.com/fact-check/walmart-gelatin-water-video/,FALSE,FALSE,Yes,,
+3756606,https://www.snopes.com/fact-check/kraken-google-earth-sail-rock/,FALSE,FALSE,Yes,,
+46481709,https://www.snopes.com/fact-check/ben-shapiro-tweet-marriage-sexual-satisfaction/,FALSE,FALSE,Yes,,
+46481806,https://www.snopes.com/fact-check/novo-kakhovka-admin-center-dam-collapse/,TRUE,TRUE,Yes,,
+46481921,https://www.snopes.com/fact-check/aids-created-by-cia/,FALSE,FALSE,Yes,,
+46482902,https://www.snopes.com/fact-check/canadian-wildfires-helicopters/,Miscaptioned,FALSE,Yes,,
+46483213,https://www.snopes.com/fact-check/trump-classified-above-law/,Correct Attribution,TRUE,Yes,,
+46483500,https://www.snopes.com/fact-check/ukrainian-armed-forces-bollywood/,TRUE,TRUE,Yes,,
+46484505,https://www.snopes.com/fact-check/fabio-hit-goose-rollercoaster/,Mixture,TRUE,No,,"明明已经找到本人原话说了“我从未被鹅撞到”，但最终还是把这个关键的地方遗漏了
+
+关键点在于根据snippet找原文这一部分，没有找到真正的原句，导致没有找到最准确的句子，所以最终出错"
+46484809,https://www.snopes.com/fact-check/maga-militia-video-trump/,Miscaptioned,FALSE,Yes,,
+46485903,https://www.snopes.com/fact-check/biden-ocean-train/,Correct Attribution,FALSE,No,,"没有在线搜索寻找相关内容，而是直接根据视频的语音转文字判断
+
+判断的依据是虽然确实说过这件事，但是这件事本身是存疑的，也就是这个claim确实说了“a new railroad was planned to be built across the Indian Ocean”，但是实际上这座桥会不会被修建是存疑的。
+snope中只是考虑了是否说了这件事，所以是True的rationg；gpt是进一步分析了这件事的真假，导致最终给出了False的rating"
+46486319,https://www.snopes.com/fact-check/ufo-in-kazakhstan/,Miscaptioned,FALSE,Yes,,
+46486701,https://www.snopes.com/fact-check/bus-ticket-20-squats/,Mostly True,TRUE,Yes,,
+46487502,https://www.snopes.com/fact-check/biden-gay-marriage-2006/,Correct Attribution,TRUE,Yes,,
+46488106,https://www.snopes.com/fact-check/simpsons-predict-titanic-submersible/,FALSE,TRUE,No,,"虽然找到的证据确实表明，两件事情之间相似，但是相似却不能说明就是预测啊？
+感觉gpt忽略了预测这个词的深层含义，导致判断失误
+
+也就是说问题还是claim中某一个细节的单词，可能就是错误的关键"
+46488516,https://www.snopes.com/fact-check/doctors-smoke-camels/,TRUE,TRUE,Yes,,
+46489001,https://www.snopes.com/fact-check/wwii-mickey-mouse-gas-mask/,TRUE,TRUE,Yes,,
+46489301,https://www.snopes.com/fact-check/tesla-on-fire/,Miscaptioned,TRUE,No,,"Miscaption 的错误，确实不容易被我们这个系统发现，因为我们这个系统的问题就是本身对于视频的分析是有限的，能力也有限，问答也有限。
+
+所以如果是claim正确，video大体内容跟claim一致，但是细节部分不一致，就很有可能无法发现错误
+
+也就是说我们现在的这个系统，说是针对视频，但是视频的作用不是很明显"
+46489513,https://www.snopes.com/fact-check/elton-john-american-concerts/,FALSE,FALSE,Yes,,
+46490103,https://www.snopes.com/fact-check/biden-sold-a-lot-of-state-secrets/,Correct Attribution,FALSE,No,,这个也存疑，感觉这个claim确实是有问题的，我本人觉得再snopoes中把claim视为false也没问题
+46493808,https://www.snopes.com/fact-check/titan-sub-transcript/,FALSE,FALSE,Yes,,
+46495021,https://www.snopes.com/fact-check/a-113-meaning/,FALSE,FALSE,Yes,,
+46495704,https://www.snopes.com/fact-check/barbie-from-wisconsin/,TRUE,TRUE,Yes,,
+46496906,https://www.snopes.com/fact-check/pence-water-balloon/,Miscaptioned,FALSE,Yes,,
+46497905,https://www.snopes.com/fact-check/hobby-lobby-mark-of-the-beast/,FALSE,FALSE,Yes,,
+46502114,https://www.snopes.com/fact-check/us-passport-holders-visa-eu-region/,Mixture,TRUE,No,,"snopes中也说明了，错误的原因是细节分析的一个点，ETIAS 和签证有所区别。
+
+但是实际上，根据视频的音频转文字，""New requirements on the horizon for travelers heading to Europe. The European Union set to require folks with a US passport to fill out a visa before jumping across the pond.""
+说的也还是visa，所以这么看来其实根据claim+videoinformation分析的也是正确的，只不过是没有在网上搜集相关消息，而不知道 ETIAS 这件事"
+46503700,https://www.snopes.com/fact-check/japan-ad-stop-zelenskyy/,Fake,FALSE,Yes,,
+46507610,https://www.snopes.com/fact-check/british-pm-rishi-sunak-partying-ibiza/,FALSE,FALSE,Yes,,
+46508108,https://www.snopes.com/fact-check/anne-hathaway-jon-stewart/,Fake,FALSE,Yes,,
+46509900,https://www.snopes.com/fact-check/not-direct-energy-weapon-attack-maui/,Miscaptioned,FALSE,Yes,,
+46516910,https://www.snopes.com/fact-check/pastor-trump-codefendant-georgia-election-case/,TRUE,TRUE,Yes,,
+46517416,https://www.snopes.com/fact-check/arthur-roberts-joe-bidens-body-double/,FALSE,FALSE,Yes,,
+46518002,https://www.snopes.com/fact-check/explosion-on-moon/,Fake,FALSE,Yes,,
+46525005,https://www.snopes.com/fact-check/biden-one-sexy-kid/,Fake,FALSE,Yes,,
+46525200,https://www.snopes.com/fact-check/idiocracy-crocs/,TRUE,TRUE,Yes,,
+46527104,https://www.snopes.com/fact-check/astronaut-jack-fischers-amazing-view-earth/,TRUE,TRUE,Yes,,
+46553301,https://www.snopes.com/fact-check/palestinian-grave-israel-jerusalem/,TRUE,TRUE,Yes,,
+46553703,https://www.snopes.com/fact-check/vintage-window-baby-cages-for-toddlers-fresh-air/,TRUE,TRUE,Yes,,
+46586902,https://www.snopes.com/fact-check/ribbon-worm-video/,TRUE,FALSE,No,,这个纯粹就是跟VideoDescriptoe部分的能力有关，导致的错误了
+46589906,https://www.snopes.com/fact-check/car-keys-locking-range-boost/,TRUE,TRUE,Yes,,
+46593605,https://www.snopes.com/fact-check/jo-koy-taylor-swift/,Miscaptioned,TRUE,No,,视频内容显示艾玛·斯通的玩笑话对象是泰勒·斯威夫特，而非乔·科伊，但是目标视频中把taylor swift的对话都裁剪掉了，导致gpt判断失误
+46601802,https://www.snopes.com/fact-check/ice-helix-polar-vortex-video/,Fake,FALSE,Yes,,
+46607608,https://www.snopes.com/fact-check/biden-wear-hardhat-backwards/,TRUE,TRUE,Yes,,
+46620002,https://www.snopes.com/fact-check/putin-prefers-biden/,TRUE,TRUE,Yes,,
+46635900,https://www.snopes.com/fact-check/cher-trump-unattractive-man/,Misattributed,TRUE,No,,视频是被剪辑过的，如果只依靠claim和视频确实会以为是真，视频有明显的拼接痕迹，人眼很容易看出来，但是LMM不容易看出来。
+46640505,https://www.snopes.com/fact-check/north-korea-internet-video/,TRUE,FALSE,No,,忽略了Claim中的一个单词 pretend假装 ，也就是说“这件事不是真的”这个说法是真的；但是由于大模型忽略了claim中的关键动词，所以出错了
