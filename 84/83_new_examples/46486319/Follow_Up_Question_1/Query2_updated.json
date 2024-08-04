@@ -1,0 +1,797 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - UFO sighting Kazakhstan Baikonur Cosmodrome video identification",
+                "totalResults": "2880",
+                "searchTerms": "UFO sighting Kazakhstan Baikonur Cosmodrome video identification",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - UFO sighting Kazakhstan Baikonur Cosmodrome video identification",
+                "totalResults": "2880",
+                "searchTerms": "UFO sighting Kazakhstan Baikonur Cosmodrome video identification",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.285845,
+        "formattedSearchTime": "0.29",
+        "totalResults": "2880",
+        "formattedTotalResults": "2,880"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Kate Rubins - NASA",
+                "htmlTitle": "Kate Rubins - NASA",
+                "link": "https://www.nasa.gov/people/kate-rubins/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "Kate Rubins was selected by NASA in 2009. Rubins completed her first spaceflight on Expedition 48/49, where she became the first person to sequence DNA in\u00a0...",
+                "htmlSnippet": "Kate Rubins was selected by NASA in 2009. Rubins completed her first <b>space</b>flight on Expedition 48/49, where she became the first person to sequence DNA in&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/people/kate-rubins/",
+                "htmlFormattedUrl": "https://www.nasa.gov/people/kate-rubins/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQse75Abj4i0kX1IzkhEh_QrsPwWx11s5HmhPhw5etNRyg7bpXeGQgTYYA&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2016/02/jsc2018e066417_alt.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "people",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "Rachael Whitefield",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "Kate Rubins was selected by NASA in 2009.\u00a0 Rubins completed her first spaceflight on Expedition 48/49, where she became the first person to sequence DNA",
+                            "searchgov_custom1": "1::129836",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2016/02/jsc2018e066417_alt.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2016/02/jsc2018e066417_alt.jpg",
+                            "parsely-type": "index",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/people/kate-rubins/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2016/02/jsc2018e066417_alt.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "Humans in Space",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "article:section": "Astronauts",
+                            "og:image:alt": "NASA Astronaut Kate Rubins",
+                            "twitter:title": "Kate Rubins - NASA",
+                            "og:title": "Kate Rubins - NASA",
+                            "og:image:height": "1280",
+                            "og:updated_time": "2024-05-13T10:51:13-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "Kate Rubins",
+                            "parsely-pub-date": "2016-02-22T00:20:05Z",
+                            "parsely-tags": "Humans in Space,Astronauts,Kathleen Rubins",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Kate Rubins was selected by NASA in 2009.\u00a0 Rubins completed her first spaceflight on Expedition 48/49, where she became the first person to sequence DNA",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/people/kate-rubins/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://science.nasa.gov/wp-content/uploads/2024/07/nicer-studio-12.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Highlights\n 2 min read ### NASA Ames to Host Supercomputing Resources for UC Berkeley Researchers article 10 hours ago] 11 min read ### Former Space Communications, Navigation Interns Pioneer NASA\u2019s Future article 1 week ago] 3 min read ### NASA Releases First Integrated Ranking of Civil Space Challenges article 1 week ago]\n### Featured\n 3 min read ### Three NASA Interns Expand Classroom Access to NASA Data article 1 week ago]\n### Featured\n 4 min read ### NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo article 8 hours ago] 3 min read ### NASA\u2019s First-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman\u2019s Take on Dorothy Vaughan article 2 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farr\u00e9s-Basiana article 9 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\n!\nKate Rubins\n===========\nNASA Astronaut\nFollow Kate\n-----------\n*   \nContents\n--------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nSummary\n-------\nKate Rubins was selected by NASA in 2009.\u00a0 Rubins completed her first spaceflight on Expedition 48/49, where she became the first person to sequence DNA in space. She holds a Bachelor of Science in Molecular Biology from the University of California, San Diego and a Ph.D. in Cancer Biology from Stanford University Medical School Biochemistry Department and Microbiology and Immunology Department.\u00a0 Dr. Rubins conducted her undergraduate research on HIV-1 integration in the Infectious Diseases Laboratory at the Salk Institute for Biological Studies.\u00a0 She worked as a Fellow/Principal Investigator at the Whitehead Institute for Biomedical Research and headed 14 researchers studying viral diseases that primarily affect Central and West Africa. Rubins most recently served aboard the International Space Station as flight engineer for Expedition 63/64. Across her two flights, she has spent a total of 300 days in space, the fourth most days in space by a U.S. female astronaut, and performed four spacewalks.\nPersonal\n--------\nBorn in 1978 in Farmington, Connecticut, and raised in Napa, California, where her father, Jim, still resides. Her mother, Ann Hallisey...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "NASA (National Aeronautics and Space Administration) is a prominent and credible source of information about space and aeronautics. It maintains rigorous standards for accuracy and scientific integrity. NASA publishes research and findings that are peer-reviewed and widely accepted by the scientific community. Its historical accuracy in reporting about aerospace phenomena makes it a reliable source in the context of UFOs and related discussions."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses Kate Rubins, a NASA astronaut, and does not provide any information related to Baikonur Cosmodrome or UFO sightings in Kazakhstan. It's irrelevant to the specific question about the video's location."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Russians add new twist to old UFO myth",
+                "htmlTitle": "Russians add new twist to old <b>UFO</b> myth",
+                "link": "https://www.nbcnews.com/id/wbna5686713",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Aug 12, 2004 ... Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth.",
+                "htmlSnippet": "Aug 12, 2004 <b>...</b> <b>Reports</b> from Russia link a 1908 cosmic explosion with purported <b>alien</b> artifacts, resurrecting an enduring <b>space</b> myth.",
+                "formattedUrl": "https://www.nbcnews.com/id/wbna5686713",
+                "htmlFormattedUrl": "https://www.nbcnews.com/id/wbna5686713",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrJGNwDuqjf9728Aefq0hEuNGcvOoWNO67uQPRVzC7m5ROGUvBSoYxTrC&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Russians add new twist to old UFO myth",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "branch:deeplink:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Russians add new twist to old UFO myth",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "og:title": "Russians add new twist to old UFO myth",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/id/wbna5686713",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A flurry of reports from Russia about the discovery of fragments of an alien spaceship at the site of the 1908 Tunguska explosion may be nothing more than wish fulfillment by devotees of a half-century-old Russian space myth, or they may actually have been based on genuine spacecraft fragments \u2014 but of Russian origin.\nEither way, or even in the highly unlikely event the reports turn out to be credible, these stories reflect the way the century-old Tunguska blast continues to resonate in the human psyche.\nExpedition leader Yuri Lavbin prefers the alien technology interpretation. That\u2019s the theory he admits he started with, even before he got to the area. But other space experts have pointed out that the region is a drop zone for discarded rocket stages launched into space from Russia\u2019s Baikonur base, and in fact was the crash site of one prototype manned space capsule at the very dawn of the space age.\nOn June 30, 1908, residents of southern Siberia spotted a dazzling fireball crossing the sky, followed by a flare brighter than the sun. Minutes later, a shock wave knocked many of those residents off their feet. When later expeditions reached the nearly inaccessible swamps where the explosion had occurred, they found trees flattened down in a pattern pointing away from ground zero \u2014 but no crater, and no meteorite fragments.\nThe first Soviet expedition was sent to the site in 1927, in hopes of finding metallic ore. Although a series of natural theories followed over the years, a Russian scientist and science-fiction author...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "NBC News is a mainstream media outlet recognized for its journalistic standards and integrity. It has a track record of factual reporting and has mechanisms in place to correct misinformation. While it can have occasional biases, it generally provides well-researched news coverage. Its investigative journalism contributes to the understanding of phenomena like UFOs, increasing its credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2004-08-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This article relates to historical UFO myths involving Russia and mentions the Baikonur area tangentially. However, it does not verify any details regarding the video's location or its evidential purposes."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "International Space Station - NASA",
+                "htmlTitle": "International <b>Space</b> Station - NASA",
+                "link": "https://www.nasa.gov/international-space-station/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "The International Space Station Program brings together international flight crews, multiple launch vehicles, globally distributed launch and flight operations.",
+                "htmlSnippet": "The International <b>Space</b> Station Program brings together international flight crews, multiple <b>launch</b> vehicles, globally distributed <b>launch</b> and flight operations.",
+                "formattedUrl": "https://www.nasa.gov/international-space-station/",
+                "htmlFormattedUrl": "https://www.nasa.gov/international-space-station/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAFHWtV32PMgjsp_lhXxza8bSB2XrPmY1j_stTKuu_PmzwXAmXJNQqjM8&s",
+                            "width": "301",
+                            "height": "167"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2023/02/International-Space-Station-in-2021.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "topic",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "Mark A. Garcia",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "To view more images, visit the Space Station Gallery.",
+                            "searchgov_custom1": "1::179420",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2023/02/International-Space-Station-in-2021.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2023/02/International-Space-Station-in-2021.jpg",
+                            "parsely-type": "index",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/international-space-station/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2023/02/International-Space-Station-in-2021.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "Missions",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "article:section": "International Space Station (ISS)",
+                            "og:image:alt": "This mosaic depicts the International Space Station pictured from the SpaceX Crew Dragon Endeavour during a fly around of the orbiting lab that took place following its undocking from the Harmony module\u2019s space-facing port on Nov. 8, 2021.",
+                            "twitter:title": "International Space Station - NASA",
+                            "og:title": "International Space Station - NASA",
+                            "og:image:height": "569",
+                            "og:updated_time": "2024-07-22T18:14:27-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "International Space Station",
+                            "parsely-pub-date": "2023-02-27T22:43:55Z",
+                            "parsely-tags": "NASA Directorates,Space Operations Mission Directorate,International Space Station Division,International Space Station (ISS)",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "To view more images, visit the Space Station Gallery.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/international-space-station/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2023/02/International-Space-Station-in-2021.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n 4 min read ### NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo article 15 hours ago] 3 min read ### NASA\u2019s First-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman\u2019s Take on Dorothy Vaughan article 3 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farr\u00e9s-Basiana article 17 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\nISS\n*   \n*   Overview\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Station Topics\n    *   \n    *   \n    *   \n    *   \n*   Multimedia\n    *   \n    *   \n*   \n*   \n!\nInternational Space Station\n===========================\n25\n#### Years in Orbit\n270+\n#### Astronauts Visited\n### INTERNATIONAL SPACE STATION\nAbout the International Space Station\n-------------------------------------\nThe station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s.\nThe International Space Station Program brings together international flight crews, multiple launch vehicles, globally distributed launch and flight operations, training, engineering, and development facilities, communications networks, and the international scientific research community.\n!\nBackdropped by Earth\u2019s horizon and the blackness of space, the International Space Station is featured in this image photographed by an STS-130 crew member as space shuttle Endeavour and the station approach each other during rendezvous and docking activities. Docking occurred at 11:06 p.m. (CST) on Feb. 9, 2010, delivering the Tranquility node and its Cupola.\nExpedition 71\n-------------\nExpedition 71 began on April 5, 2024 and ends in September 2024. This crew will explore neuro-degenerative diseases and therapies, space botany, space-caused fluid shifts, and algae-based life support systems.\n!\nNASA Blog\nSpace Station Daily Blog Update\n-------------------------------\nDaily updates from the orbiting laboratory\n!\nOn Dec. 24, 2013, NASA astronaut Mike Hopkins, Expedition 38 Flight Engineer, participates in the second of two spacewalks, spread over a four-day period, which were designed to allow the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "NASA (National Aeronautics and Space Administration) is a prominent and credible source of information about space and aeronautics. It maintains rigorous standards for accuracy and scientific integrity. NASA publishes research and findings that are peer-reviewed and widely accepted by the scientific community. Its historical accuracy in reporting about aerospace phenomena makes it a reliable source in the context of UFOs and related discussions."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While this gives insight into the International Space Station's operations, it lacks specific details about the Baikonur Cosmodrome or any connections to the video in question. Its relevance is minimal."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "How Crazy Am I to Think I Know Where MH370 Is? -- NYMag",
+                "htmlTitle": "How Crazy Am I to Think I Know Where MH370 Is? -- NYMag",
+                "link": "http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html",
+                "displayLink": "nymag.com",
+                "snippet": "Feb 23, 2015 ... Malaysia Airlines announced that a plane from Kuala Lumpur bound for Beijing, Flight 370, had disappeared over the South China Sea in the middle of the night.",
+                "htmlSnippet": "Feb 23, 2015 <b>...</b> Malaysia Airlines announced that a plane from Kuala Lumpur bound for Beijing, Flight 370, had disappeared over the South China Sea in the middle of the night.",
+                "formattedUrl": "http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html",
+                "htmlFormattedUrl": "http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xv8mvu0o6mVNOz_HQ1_OkYpVPomPrvEYr26qhA4PruCWs1QzlHhGlq-_&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/01-pingring.w529.h352.jpg",
+                            "caption": "Fig. 3. Photo: Government of Malaysia"
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/02-fire-bottle-2.w529.h352.jpg",
+                            "caption": "Fig. 5. A mysterious metal orb found on a beach in the Maldives became internet-famous and spawned speculation the plane had wound up there."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/03-Courtney-Loves-Facebook-Mar-18.w245.h368.jpg",
+                            "caption": "Fig. 6."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/04-MH370-families-text-message.w245.h368.jpg",
+                            "caption": "Fig. 7. Making matters worse, the Malaysians informed some of the passengers by text message."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/05-TPL.w529.h529.jpg",
+                            "caption": "Fig. 8. Photo: Government of Malaysia"
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/06-Bluefin21.nocrop.w529.h182.jpg",
+                            "caption": "Fig. 9. Photo: Bluefin Robotics"
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/07-duncansteelsubsat.w245.h368.jpg",
+                            "caption": "Fig. 10. It was Steel who very early on realized that the satellite that MH370 was communicating with, 3F-1, was not truly geostationary but wobbled in its orbit, a crucial detail upon which..."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/08-pakistan.w529.h352.jpg",
+                            "caption": "Fig. 21. In particular, the flight path skirts the border of China and just misses the disputed and much-watched India-Pakistan border."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/09-baikonur.w529.h352.jpg",
+                            "caption": "Fig. 22. Photo: Jeff Wise"
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/11-ukrainians.nocrop.w529.h258.jpg",
+                            "caption": "Fig. 27. I was later able to confirm that they worked for Nika-Mebel, an Odessa furniture company that sells online only, accepts only cash payment, provides no landline number or address,..."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/12-brodsky.w529.h529.jpg",
+                            "caption": "Fig. 28."
+                        },
+                        {
+                            "contenturl": "https://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/malaysia/13-seatchart.nocrop.w529.h361.jpg",
+                            "caption": "Fig. 29. At position B. The Ukrainians were at D and C\u2014underneath the satellite antenna. Photo: Seatguru.com"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Jeff Wise",
+                            "sameas": "http://nymag.com/author/Jeff%20Wise/"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Intelligencer",
+                            "sameas": "http://nymag.com/daily/intelligencer/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Intelligencer",
+                            "msapplication-tilecolor": "#000",
+                            "og:image": "http://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/22-malaysia.w1200.h630.jpg",
+                            "twitter:title": "How Crazy Am I to Think I Know Where MH370 Is?",
+                            "twitter:card": "summary",
+                            "og:type": "article",
+                            "article:published_time": "2015-02-23T19:37:00.000Z",
+                            "og:site_name": "Intelligencer",
+                            "topics": "topics-test, mh370, malaysia airlines, new york magazine, flight 370, jeff wise, theories, conspiracy theories",
+                            "og:title": "How Crazy Am I to Think I Actually Know Where That Malaysia Airlines Plane Is?",
+                            "apple-mobile-web-app-title": "Intelligencer",
+                            "msapplication-tileimage": "https://cache.nymag.com/media/di/icon.144x144.png",
+                            "og:description": "In the year since the vanishing of MH370, I appeared on CNN more than 50 times, watched my spouse\u2019s eyes glaze over at dinner, and fell in with a group of borderline-obsessive amateur aviation",
+                            "twitter:image": "http:https://cache.nymag.com/media/di/icon.1500x1500.png",
+                            "article:publisher": "https://www.facebook.com/NewYorkMag",
+                            "article:tag": "mh370,malaysia airlines,new york magazine,flight 370,jeff wise,theories,conspiracy theories",
+                            "fb:app_id": "120608177953522",
+                            "twitter:site": "@intelligencer",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "In the year since the vanishing of MH370, I appeared on CNN more than 50 times, watched my spouse\u2019s eyes glaze over at dinner, and fell in with a group of borderline-obsessive amateur aviation",
+                            "og:url": "http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://pixel.nymag.com/imgs/daily/intelligencer/2015/02/19/magazine/22-malaysia.w1200.h630.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "How crazy am I to think I actually know where that Malaysia Airlines plane is?* * Kinda crazy. (But also maybe right?) In the year since the vanishing of MH370, I appeared on CNN more than...",
+                            "articlesection": "theories",
+                            "description": "In the year since the vanishing of MH370, I appeared on CNN more than 50 times, watched my spouse&rsquo;s eyes glaze over at dinner, and fell in with a group of borderline-obsessive amateur...",
+                            "headline": "How Crazy Am I to Think I Actually Know Where That Malaysia Airlines Plane Is?",
+                            "datepublished": "2015-02-23T19:37:00.000Z",
+                            "url": "http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html: 403 Client Error: Forbidden for url: https://r.jina.ai/http://nymag.com/daily/intelligencer/2015/02/jeff-wise-mh370-theory.html",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "New York Magazine (nymag.com) is known for its cultural commentary and reporting, including on science and technology subjects. However, it can lean towards sensationalism in its coverage. While it often provides accurate information, its editorial style may not always prioritize rigorous fact-checking as strictly as traditional news outlets. This slightly lowers its overall credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2015-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "The content addresses a completely different topic related to the disappearance of a plane and does not mention Kazakhstan or the Baikonur Cosmodrome at all. It is irrelevant."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "SECURITY IN SPACE",
+                "htmlTitle": "SECURITY IN <b>SPACE</b>",
+                "link": "https://www.dia.mil/Portals/110/Documents/News/Military_Power_Publications/Challenges_Security_Space_2022.pdf",
+                "displayLink": "www.dia.mil",
+                "snippet": "Apr 12, 2022 ... 91,92,93 The SSF forms the core of China's information warfare force, supports the entire PLA, and reports directly to the Central. Military\u00a0...",
+                "htmlSnippet": "Apr 12, 2022 <b>...</b> 91,92,93 The SSF forms the core of China&#39;s information warfare force, supports the entire PLA, and <b>reports</b> directly to the Central. Military&nbsp;...",
+                "formattedUrl": "https://www.dia.mil/Portals/110/.../Challenges_Security_Space_2022.pdf",
+                "htmlFormattedUrl": "https://www.dia.mil/Portals/110/.../Challenges_Security_Space_2022.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA48ZKeET9zm0-DhEQJIwgJ2W3ui3Nz_hFQ8ShlnjohAZC9llC4Lv0Z5l0&s",
+                            "width": "226",
+                            "height": "223"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20220406122735-04'00'",
+                            "creationdate": "D:20220406122701-04'00'",
+                            "creator": "Adobe InDesign CC 13.1 (Macintosh)",
+                            "producer": "Adobe PDF Library 15.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///0d78da1183ae1d24123d9940aa9bd85bc02ca0c4dabdb3dab8fbb18c09055460"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... changes probably will be \nre fl ected in published national space strategy docu -\nments, through space policy actions, and in programs \nenacted by political and military leadership. \nThe PLA views space superiority, the ability to con -\ntrol the space-enabled information sphere and to \ndeny adversaries their own space-based informa -\ntion gathering and communication capabilities, as \na critical component to conduct modern \u201cinforma -\ntized warfare.\u201d 79,80,81,82 China\u2019s first public mention of \nspace and counterspace capabilities came as early \nas 1971, largely from academics reviewing foreign \npublications on ASAT technologies. However, Chi -\nnese science and technology efforts on space began \nto accelerate in the 1980s, most likely as a result of \nthe U.S. space-focused Strategic Defense Initiative \nto defend against the former Soviet Union\u2019s nuclear \nweapons. 83 Subsequently, after observing the U.S. \nmilitary\u2019s performance during the 1991 Gulf War \nthrough actions in Kosovo, Afghanistan, and the \nsecond Iraq War, the PLA embarked on an effort \nto modernize weapon systems, across all domains \nincluding space, and update its doctrine to focus \non using and countering adversary information-en -\nabled warfare. 84 \nChina\u2019s perceptions of the importance of space-en -\nabled operations to the United States and its allies \nhas shaped integral components of PLA military \nplanning and campaigns. In addition, space is a crit -\nical enabler of beyond-line-of-sight operations for \ndeployed Chinese forces, and the PLA probably sees \ncounterspace operations as a means to deter and \ncounter a U.S. intervention during a regional mili -\ntary conflict. 85,86 China has claimed that \u201cdestroying \nor capturing satellites and other sensors\u201d would \nmake it difficult for the U.S. and allied militaries to \nuse precision-guided weapons. 87 Moreover, Chi -\nnese defense academics suggest that reconnais -\nsance, communication, navigation, and early warn -\ning satellites could be among the targets of attacks \ndesigned to \u201cblind and deafen the enemy.\u201d 88 \n## Military Strategic Guidelines \nIn 2015, Beijing\u2019s official release of China\u2019s Military Strategy directed the PLA to research and give priority to \nstrategies to win \u201cinformatized local wars\u201d and emphasized \u201cmaritime military struggle.\u201d 74 Chinese military \nstrategy documents also emphasize the growing importance of offensive air, long-distance mobility, and \nspace and cyberspace operations. China expects its future wars to be...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Defense Intelligence Agency (DIA) is a crucial component of the intelligence community, providing assessments that impact national security. Information about unidentified aerial phenomena (UAPs) from the DIA is taken seriously due to their access to classified information. However, the nature of intelligence reporting means that information is often limited and selective, affecting its capacity to provide comprehensive public insights."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-04-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This document pertains to Chinese military strategy and space security and has no connection to Kazakhstan, Baikonur Cosmodrome, or UFO discussions. It provides no relevant information to the question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Is NASA hiding UFO evidence? - CSMonitor.com",
+                "htmlTitle": "Is NASA hiding <b>UFO</b> evidence? - CSMonitor.com",
+                "link": "https://www.csmonitor.com/Science/2016/0714/Is-NASA-hiding-UFO-evidence",
+                "displayLink": "www.csmonitor.com",
+                "snippet": "Jul 14, 2016 ... Is NASA covering up for aliens? Rumors fly after video feed on the International Space Station cuts out at critical time.",
+                "htmlSnippet": "Jul 14, 2016 <b>...</b> Is NASA covering up for <b>aliens</b>? Rumors fly after <b>video</b> feed on the International <b>Space</b> Station cuts out at critical time.",
+                "formattedUrl": "https://www.csmonitor.com/Science/2016/.../Is-NASA-hiding-UFO-evidenc...",
+                "htmlFormattedUrl": "https://www.csmonitor.com/Science/2016/.../Is-NASA-hiding-<b>UFO</b>-evidenc...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR5iL4P5JZZaSYI9AoX4nw3v2rDwjyK0-UvC7EhIAl6uKwb6c8DfD6JSI&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.csmonitor.com/csm/2016/07/992061_1_0714-iss-aliens-proof_standard.jpg?alias=standard_900x600",
+                            "copyright": "The Christian Science Monitor",
+                            "og:image:width": "900",
+                            "article:published_time": "2016-07-14T16:45-05",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Christian Science Monitor",
+                            "csm.content.body": "https://www.csmonitor.com/layout/set/rssfull/Science/2016/0714/Is-NASA-hiding-UFO-evidence",
+                            "csm.date": "2016-07-14",
+                            "csm.author": "Christina Beck",
+                            "og:description": "Is NASA covering up for aliens? Rumors fly after video feed on the International Space Station cuts out at critical time.",
+                            "twitter:image": "https://images.csmonitor.com/csm/2016/07/992061_1_0714-iss-aliens-proof_standard.jpg?alias=standard_380x253",
+                            "twitter:site": "@csmonitor",
+                            "csm.image.credit": "Shamil Zhumatov/REUTERS",
+                            "csm.tags": "section-science,class-article,storysource-monitor",
+                            "id": "82000ae68624b89dcb20d2e084fa1fdd",
+                            "csm.content.id": "82000ae68624b89dcb20d2e084fa1fdd",
+                            "og:type": "article",
+                            "article:section": "Science",
+                            "twitter:title": "Is NASA hiding UFO evidence?",
+                            "author": "The Christian Science Monitor",
+                            "og:title": "Is NASA hiding UFO evidence?",
+                            "og:image:height": "600",
+                            "fb:pages": "14660729657",
+                            "dc.date.issued": "2016-07-14T16:45:09-04:00",
+                            "fb:app_id": "179793002061452",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Is NASA covering up for aliens? Rumors fly after video feed on the International Space Station cuts out at critical time.",
+                            "og:url": "https://www.csmonitor.com/Science/2016/0714/Is-NASA-hiding-UFO-evidence",
+                            "csm.image.std": "https://images.csmonitor.com/csm/2016/07/992061_1_0714-iss-aliens-proof_standard.jpg?alias=standard_380x253"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.csmonitor.com/csm/2016/07/992061_1_0714-iss-aliens-proof_standard.jpg?alias=standard_900x600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... thoughtfully curated selection of our most popular news stories and podcasts.\nEvery Monday, Wednesday, and Friday\n AnnouncementsHear about special editorial projects, new product information, and upcoming events.\nOccasional\n PoliticsAn update on major political events, candidates, and parties twice a week.\nTwice a Week\n Science & NatureStay informed about the latest scientific discoveries & breakthroughs.\nEvery Tuesday\n CommentaryA weekly digest of Monitor views and insightful commentary on major events.\nEvery Thursday\n BooksLatest book reviews, author interviews, and reading trends.\nEvery Friday\n Culture & LearningA weekly update on music, movies, cultural trends, and education solutions.\nEvery Thursday\n Christian Science PerspectiveThe three most recent Christian Science articles with a spiritual perspective.\nEvery Monday\nClose\n\u00d7\nIs NASA hiding UFO evidence?\n============================\nIs NASA covering up for aliens? Rumors fly after video feed on the International Space Station cuts out at critical time.\n    !\n|\nShamil Zhumatov/REUTERS\nThe Soyuz MS spacecraft carrying the crew of Kate Rubins of the U.S., Anatoly Ivanishin of Russia and Takuya Onishi of Japan blasts off to the International Space Station (ISS) from the launchpad at the Baikonur cosmodrome, Kazakhstan, in July.\nLoading...\n*   !\n    By  Staff\nJuly 14, 2016\nIt happened on July 9. Just as a video feed from the International Space Station (ISS), posted by NASA, showed an unidentified bright spot near the corner of the stream, the , prompting rumors that NASA is once again trying to cover up the existence of UFOs.\nNASA\u2019s reassurances that the video feed interruption is a common occurrence have failed to placate everyone. UFO believers say that the US government\u2019s long history of cover-ups make it easy to believe that this might just be one more.\n\u201cNASA seems like the agency people love to hate,\u201d Dr. Seth Shostak of the Search for Extraterrestrial Intelligence (SETI) and NASA\u00a0told the Christian Science Monitor by phone. \u201cThey love to look at new photos of Pluto, but every time a camera cuts out, they are convinced there are aliens and a cover-up involved.\u201d\nDr. Shostak says video interruptions happen all the time. The ISS often moves out of range of the Tracking and Data Relay Satellites, cutting off the video feed, creating the same sort of scenario that happened last week.\nAs for the blip on the screen right before the feed cut off, it was most likely a small object,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Christian Science Monitor is known for its commitment to impartial journalism. It focuses on thoughtful reporting and analysis rather than sensationalism, thus making it a reliable source for news. While it may not have the wide reach of larger outlets, its quality reporting enhances its credibility concerning truthfulness and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This article mentions Baikonur Cosmodrome in the context of NASA and space missions, which somewhat relates to the location aspect, but it does not provide any specific confirmation of details in the video concerning Kazakhstan. Therefore, its relevance is limited."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "National Aeronautics and Space Administration (NASA) emails from ...",
+                "htmlTitle": "National Aeronautics and <b>Space</b> Administration (NASA) emails from ...",
+                "link": "https://www.governmentattic.org/43docs/NASAemailAACetkindUAP-2021.pdf",
+                "displayLink": "www.governmentattic.org",
+                "snippet": "Nov 30, 2021 ... Over the past few years, UAP (Unidentified Aerial Phenomena, more commonly known as Unidentified Flying Objects or UFOs) have been reported in\u00a0...",
+                "htmlSnippet": "Nov 30, 2021 <b>...</b> Over the past few years, UAP (Unidentified Aerial Phenomena, more commonly known as Unidentified <b>Flying</b> Objects or <b>UFOs</b>) have been reported in&nbsp;...",
+                "formattedUrl": "https://www.governmentattic.org/.../NASAemailAACetkindUAP-2021.pdf",
+                "htmlFormattedUrl": "https://www.governmentattic.org/.../NASAemailAACetkindUAP-2021.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn8kNaZjuNfmya8yLtTuPM5HR3WlaBSSeet-s93AGTFId0NyCy0N_2YXxj&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20211202065114-08'00'",
+                            "creationdate": "D:20211130115758-08'00'",
+                            "creator": "Acrobat PDFMaker 17 for Word",
+                            "sourcemodified": "D:20211130195752",
+                            "author": "NASA / governmentattic.org",
+                            "subject": "National Aeronautics and Space Administration (NASA) emails from Associate Administrator of Communications Marc Etkind containing the word \u201cUAP\u201d or the phrase \u201cUnidentified Aerial Phenomena,\u201d May 26, 2021 - July 18, 2021",
+                            "producer": "Adobe PDF Library 17.11.238",
+                            "company": "Valued Customer",
+                            "title": "National Aeronautics and Space Administration (NASA) emails from Associate Administrator of Communications Marc Etkind containing the word \u201cUAP\u201d or the phrase \u201cUnidentified Aerial Phenomena,\u201d May 26, 2021 - July 18, 2021"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///a027b0f4366d3f0e366ee8ee4fc25ecb556ac4ad8242da8781b9c91ffcd18bef"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... the envelope and letter of appeal should be clearly marked \"Appeal under the Freedom of Information Act.\" You must also include copies of your initial request, this correspondence, and any other correspondence with the FOIA office. In order to expedite the appellate process and ensure full consideration of your appeal, your appeal should also contain a brief statement of the reasons you believe this initial determination should be reversed. \nAssistance and Dispute Resolution Services \nFor further assistance and to discuss any aspect of your request, you may contact NASA's ChiefFOIA Public Liaison, Stephanie Fox, via telephone at 202-358-1553 or via e-mail at Stephanie. K. Fox@NASA.gov. You may also send correspondence to Ms. Fox at the following address: National Aeronautics and Space Administration (NASA) Freedom of Information Act Unit NASA Headquarters Attn: Stephanie Fox ChiefFOIA Public Liaison300 E Street, S.W., 5P32 Washington D.C. 20546 (Fax) 202- 358-4332 Additionally, you may contact the Office of Government Information Services (OGIS) at the National Archives and Records Administration to inquire about the FOIA mediation services it offers. The contact information for OGIS is as follows: 2 l-HQ-F-00562 Office of Government Information Services National Archives and Records Administration 8601 Adelphi Road-OGIS College Park, Maryland 20740-6001 Email: ogis@nara.gov Telephone: (202) 741-5770 Toll free: 1-877-684-6448 Fax: (202) 741-5769 \nInwortant: Please note that contacting any agency official including the undersigned, NASA's Chief FOIA Public Liaison, and/or OGIS is not an alternative to filing an administrative appeal and does not stop the 90 day appeal clock. \nIfl can be of further assistance, please contact me at 202-358-0680 or Mireya.P.Nyirenda@nasa. go v. Sincerely,  \n> Digitally signed by\n## # ~---L Mireya Nyirenda \nJ!'ua- J~ ,U,U,# Date: 2021.11.30 09:38:32 -05'00' \nMIREYA P. NYIRENDA FOIA Public Liaison Officer \n> 4\n> 2 l-HQ-F-00562\nUpcoming in wapo oped \nFrom: To: Sent: Received: Etkind, Marc R. (HQ-NA000) <marc.r.etkind@nasa.gov...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Government Attic is a website that publishes various government documents obtained through freedom of information requests. While it can provide important insights and transparency, the absence of contextual analysis or editorial oversight may lead to misinterpretation of the data. Its reliability depends heavily on the quality of the sourced documents."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-11-30"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses UAP (UFO) reports but does not specify any connection to Kazakhstan or the Baikonur Cosmodrome. It is completely irrelevant to the question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Reference guide to the International Space Station",
+                "htmlTitle": "Reference guide to the International <b>Space</b> Station",
+                "link": "https://nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf",
+                "displayLink": "nasa.gov",
+                "snippet": "Baikonur Cosmodrome. The Baikonur Cosmodrome, in Kazakhstan, is the chief launch center for both piloted and unpiloted space vehicles. It supports the Soyuz\u00a0...",
+                "htmlSnippet": "<b>Baikonur Cosmodrome</b>. The <b>Baikonur Cosmodrome</b>, in <b>Kazakhstan</b>, is the chief launch center for both piloted and unpiloted space vehicles. It supports the Soyuz&nbsp;...",
+                "formattedUrl": "https://nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf",
+                "htmlFormattedUrl": "https://nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWsxiS6nXYih6TOZil9L1B9Zfo0nQ-s6JOr7lCEizCERznQglc6_6GLt8&s",
+                            "width": "223",
+                            "height": "226"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20101201133843-05'00'",
+                            "creationdate": "D:20101112084138-05'00'",
+                            "creator": "Adobe InDesign CS4 (6.0.6)",
+                            "producer": "Adobe PDF Library 9.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///f40d6c48ea7ab76fd92546392a386b14afc7dbdf34914e0dacd7af87f7dec39b"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]...15, 2001 \nProgress M \n4R \nZenith Docking \nSystem (male) \nand Hatch \nEntrance to \nService Module \nRefueling \nHydraulic Valves \nNadir Docking \nSystem and Hatch \nPort for Soyuz or \nProgress \nEVA Hatch 1 \nHigh-Gain \nKurs Antenna \nDocking \nSystem \nProbe \nInterior \nOrlan \nStorage \nPressure and Deposit \nMonitoring Unit \nInterior \nControl Console \nWide-Beam \nAntenna \nMovable Handrail \nEVA Hatch 2 \nHigh-Gain \nKurs Antenna \nDrain Valve \nAttitude Control \nAntenna \nPirs serves as a docking port for the Russian Segment. Pirs also provides the capability for \nextravehicular activity (EVA) using Russian Orlan spacesuits. Additionally, Pirs provides \nsystems for servicing and refurbishing the Orlan spacesuits. The nadir Docking System \non Pirs provides a port for the docking of Soyuz and Progress vehicles. When the final \nRussian science module arrives, Pirs will be deorbited. \nCosmonaut Maxim Suraev poses with two Orlan \nspacesuits inside Pirs. \nDC in preparation for launch. \nAttitude Control \nand Wide-Beam \nAntenna \nCover Over \nRefueling \nHydraulic \nValves \nEVA \nHatch 2 \nNadir Docking \nSystem and Hatch \nPort for Soyuz or \nProgress \nHigh-Gain \nKurs Antenna \nStela Manipulator \nBoom for Moving \nCrew and Cargo \nView of the nadir end of the DC. \nPirs Module location at Service Module nadir. \n# Docking Compartment (DC) \n# Pirs (Pier) \nRussian Federal Space Agency (Roscosmos)/S.P. Korolev \nRocket and Space Corporation Energia (RSC Energia) \nPosition of Crew While \nPreparing for EVA \n58 \nREFERENCE GUIDE TO THE ISS \nHOW IT \u2019S PUT TOGETHER \nDOCKING COMPARTMENT (DC) Poisk, also known as the MRM2, is almost identical to the Pirs Docking Compartment. \nPoisk provides the capability for extravehicular activity (EVA) using Russian Orlan spacesuits. \nAdditionally, Poisk provides systems for servicing and refurbishing the Orlan spacesuits. \nThe zenith docking system on Poisk provides a port for the docking of Soyuz and Progress \nvehicles...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "NASA (National Aeronautics and Space Administration) is a prominent and credible source of information about space and aeronautics. It maintains rigorous standards for accuracy and scientific integrity. NASA publishes research and findings that are peer-reviewed and widely accepted by the scientific community. Its historical accuracy in reporting about aerospace phenomena makes it a reliable source in the context of UFOs and related discussions."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This reference provides specific information confirming Baikonur Cosmodrome's location within Kazakhstan. It helps establish the geographical context of the video\u2019s claim thoroughly, making it highly relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "2020 Country Reports on Human Rights Practices: Kazakhstan",
+                "htmlTitle": "2020 Country <b>Reports</b> on Human Rights Practices: <b>Kazakhstan</b>",
+                "link": "https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/",
+                "displayLink": "www.state.gov",
+                "snippet": "On April 13, the KNB in Karaganda arrested Arman Hasenov on charges of insulting First President Nazarbayev with the posting of a video in which he criticized\u00a0...",
+                "htmlSnippet": "On April 13, the KNB in Karaganda arrested Arman Hasenov on charges of insulting First President Nazarbayev with the posting of a <b>video</b> in which he criticized&nbsp;...",
+                "formattedUrl": "https://www.state.gov/reports/2020-country-reports-on.../kazakhstan/",
+                "htmlFormattedUrl": "https://www.state.gov/reports/2020-country-reports-on.../<b>kazakhstan</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr9FJr0yWLaLz9ocYVsYjEDLErzG8vmFFqBp6ZJrsfY9WHmc7xkMN3Tk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2019/04/31322529505_0257775f82_o-e1556309578824.jpg",
+                            "og:type": "article",
+                            "og:image:width": "3000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "United States Department of State",
+                            "og:title": "Kazakhstan - United States Department of State",
+                            "og:image:height": "1687",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png",
+                            "msapplication-tap-highlight": "no",
+                            "article:modified_time": "2023-12-07T20:40:31+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.state.gov/reports/2020-country-reports-on-human-rights-practices/kazakhstan/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2019/04/31322529505_0257775f82_o-e1556309578824.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629DeutschEnglishEspa\u00f1olFran\u00e7aisItaliano\u65e5\u672c\u8a9eNederlandsPortugu\u00easT\u00fcrk\u00e7e\u4e2d\u6587",
+                    "content_tokens": 199
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The U.S. Department of State's website offers official information about U.S. foreign policy, international affairs, and issues related to science and technology. While its focus is more on policy than on phenomena like UFOs, the information provided is generally accurate and reflects the official positions of the U.S. government, enhancing its credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This report references human rights practices in Kazakhstan without offering relevant specifics regarding Baikonur or identifying characteristics of the UFO from the video. It has minimal relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Soyuz orbits the French CSO-2 Earth observation satellite on ...",
+                "htmlTitle": "Soyuz orbits the French CSO-2 Earth observation satellite on ...",
+                "link": "https://www.arianespace.com/mission-update/soyuz-orbits-the-french-cso-2-earth-observation-satellite-on-arianespaces-10th-launch-of-2020/",
+                "displayLink": "www.arianespace.com",
+                "snippet": "Dec 29, 2020 ... ... Space Center in South America; Kazakhstan's Baikonur Cosmodrome; and Vostochny Cosmodrome in Russia. Today's mission, designated Flight VS25\u00a0...",
+                "htmlSnippet": "Dec 29, 2020 <b>...</b> ... Space Center in South America; <b>Kazakhstan&#39;s Baikonur Cosmodrome</b>; and Vostochny Cosmodrome in Russia. Today&#39;s mission, designated Flight VS25&nbsp;...",
+                "formattedUrl": "https://www.arianespace.com/.../soyuz-orbits-the-french-cso-2-earth-observ...",
+                "htmlFormattedUrl": "https://www.arianespace.com/.../soyuz-orbits-the-french-cso-2-earth-observ...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjfINcrck_0DLfUFoDo0iRz0LZ6WqIKnibOj7Enru9JXobZh44xBgto8D2&s",
+                            "width": "306",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://origin.arianespace.com/wp-content/uploads/2020/12/vs25-vert2.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Arianespace",
+                            "og:title": "Soyuz orbits the French CSO-2 Earth observation satellite on Arianespace\u2019s 10th launch of 2020 - Arianespace",
+                            "twitter:label1": "Est. reading time",
+                            "og:description": "Arianespace\u2019s workhorse Soyuz was back in action today, delivering the French CSO-2 Earth observation satellite into Sun-synchronous orbit from the Spaceport.",
+                            "twitter:data1": "3 minutes",
+                            "twitter:site": "@Arianespace",
+                            "article:modified_time": "2021-01-04T18:29:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.arianespace.com/mission-update/soyuz-orbits-the-french-cso-2-earth-observation-satellite-on-arianespaces-10th-launch-of-2020/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.arianespace.com/wp-content/uploads/cache/2020/12/12-29-2020-vs25-pano1/932188032.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... CSO-2 satellite payload on Arianespace\u2019s Flight VS25.\nArianespace\u2019s workhorse Soyuz was back in action today, delivering the French CSO-2 Earth observation satellite into Sun-synchronous orbit from the Spaceport.\nThis afternoon\u2019s launch, which began at the exact liftoff time of 1:42:07 p.m. in French Guiana, deployed the spacecraft passenger during a mission lasting just under one hour.\nIt was Arianespace\u2019s 10th and final flight of 2020 \u2013 and the fifth this year using the medium-lift vehicle \u2013 coming just 11 days after another Soyuz was launched by the company and its Starsem affiliate from Russia\u2019s Vostochny Cosmodrome to deliver 36 satellites for the OneWeb constellation.\n**Soyuz brings exceptional flexibility to Arianespace**\n-------------------------------------------------------\n!During 2020, Arianespace conducted Soyuz missions from three different launch sites, including the Spaceport in French Guiana, where Flight VS25 was performed today to orbit France\u2019s CSO-2 satellite.\nThe 2020 operations with Soyuz underscored the medium-lift launcher\u2019s exceptional flexibility for Arianespace\u2019s launch services offering, having been utilized during the year from three different facilities: the Guiana Space Center in South America; Kazakhstan\u2019s Baikonur Cosmodrome; and Vostochny Cosmodrome in Russia.\nToday\u2019s mission, designated Flight VS25 in Arianespace\u2019s launcher family numbering system, utilized a Soyuz ST-A version and was performed for the French CNES space agency and the DGA defense procurement agency. The CSO-2 satellite will be operated on behalf of the French armed forces and the country\u2019s Space Command.\nCSO-2 serves the defense and security needs of France, as well as the requirements of several partner countries, acquiring very-high-resolution images in the visible and infrared wavelengths \u2013 day or night and in fair weather \u2013 using a variety of imaging modes to meet a broad range of operational needs.\n**Arianespace\u2019s second launch for the French CSO program**\n----------------------------------------------------------\nFrance\u2019s Optical Space Component (CSO \u2013 Composante Spatiale Optique) program is composed of three satellites serving two mission requirements: reconnaissance for CSO-1 and CSO-3; identification for CSO-2. The initial satellite in this system, CSO-1, was orbited by Arianespace on a Soyuz mission in December 2018 that also was performed from the Spaceport in French Guiana.\nAirbus Defence and Space France is prime contractor for the CSO satellites, while Thales Alenia Space France supplies the optical imaging...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Arianespace is a commercial launch service provider for space missions. While it offers reliable and accurate information about its services and launches, it may not provide comprehensive context or fact-checking on broader topics like UFOs. However, its role in the space industry lends it some credibility in discussions related to aerial phenomena."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-12-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "Similar to evidence 7, it mentions Baikonur Cosmodrome and links this to space missions. This contributes to the understanding of the claim's geographical context and the validity related to space endeavors associated primarily with Kazakhstan."
+                }
+            }
+        }
+    ]
+}

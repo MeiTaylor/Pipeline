@@ -1,0 +1,598 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Rishi Sunak location August 2023 events itinerary",
+                "totalResults": "252000",
+                "searchTerms": "Rishi Sunak location August 2023 events itinerary",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Rishi Sunak location August 2023 events itinerary",
+                "totalResults": "252000",
+                "searchTerms": "Rishi Sunak location August 2023 events itinerary",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.243209,
+        "formattedSearchTime": "0.24",
+        "totalResults": "252000",
+        "formattedTotalResults": "252,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Musk to visit Israel next week, tour Gaza border towns - report | The ...",
+                "htmlTitle": "Musk to visit Israel next week, <b>tour</b> Gaza border towns - report | The ...",
+                "link": "https://www.timesofisrael.com/musk-to-visit-israel-next-week-tour-gaza-border-towns-report/",
+                "displayLink": "www.timesofisrael.com",
+                "snippet": "Nov 24, 2023 ... ... X (formerly Twitter) CEO Elon Musk attends an ... Rishi Sunak in London on November 2, 2023. (Kirsty Wigglesworth ...",
+                "htmlSnippet": "Nov 24, 2023 <b>...</b> ... X (formerly Twitter) CEO Elon Musk attends an ... <b>Rishi Sunak</b> in London on <b>November</b> 2, <b>2023</b>. (Kirsty Wigglesworth&nbsp;...",
+                "formattedUrl": "https://www.timesofisrael.com/musk-to-visit-israel-next-week-tour-gaza-bor...",
+                "htmlFormattedUrl": "https://www.timesofisrael.com/musk-to-visit-israel-next-week-tour-gaza-bor...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3RQkoEbviA1kdgnE2YnEUb8CQVajpCtWzqxN398ILEQAWZxcOB31n-Qg&s",
+                            "width": "284",
+                            "height": "177"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://static.timesofisrael.com/www/uploads/2023/11/33ZT7X7-highres-e1700812646554.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "og:image:width": "2048",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Musk to visit Israel next week, tour Gaza border towns – report",
+                            "og:title": "Musk to visit Israel next week, tour Gaza border towns – report",
+                            "og:image:height": "1280",
+                            "msapplication-tileimage": "https://static.timesofisrael.com/www/uploads/2018/11/toi_icon_512-400x400.png",
+                            "og:description": "Tech mogul, who held a live conversation with Netanyahu in California weeks before war broke out, set to arrive as he battles allegations of antisemitism",
+                            "twitter:image": "https://static.timesofisrael.com/www/uploads/2023/11/33ZT7X7-highres-e1700812646554.jpg",
+                            "fb:app_id": "123142304440875",
+                            "twitter:site": "timesofisrael",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Tech mogul, who held a live conversation with Netanyahu in California weeks before war broke out, set to arrive as he battles allegations of antisemitism",
+                            "cf:user-agent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.182 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+                            "og:url": "https://www.timesofisrael.com/musk-to-visit-israel-next-week-tour-gaza-border-towns-report/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.timesofisrael.com/www/uploads/2023/11/33ZT7X7-highres-e1700812646554.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ISRAEL AT WAR - DAY 302\nsearch\nInput search  Clear search input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   Get the Daily Edition\n         submit\n    *   Follow us\n    *   © 2024 The Times of Israel , All Rights Reserved\n*   \nInput search  Clear search input\nAdvertisement\nHomepage\nMusk to visit Israel next week, tour Gaza border towns – report\n===============================================================\nTech mogul, who held a live conversation with Netanyahu in California weeks before war broke out, set to arrive as he battles allegations of antisemitism\n---------------------------------------------------------------------------------------------------------------------------------------------------------\nBy  24 November 2023, 10:47 am \n*   \n*   \n*   \n*   (javascript:window.print\\(\\);)\n*   \n]\nX (formerly Twitter) CEO Elon Musk attends an in-conversation event with Britain's Prime Minister Rishi Sunak in London on November 2, 2023. (Kirsty Wigglesworth / POOL / AFP)\nTech billionaire Elon Musk is expected to visit Israel next week, Hebrew media reported Thursday.\nMusk plans to meet Prime Minister Benjamin Netanyahu and President Isaac Herzog, and tour Gaza border communities ravaged by the Hamas terror group’s devastating onslaught, Channel 12 reported.\n held a live discussion in September at the Tesla factory in Fremont, California, that touched on a range of issues including antisemitism on social media and its implications for freedom of speech, the Iranian threat, the consequences of artificial intelligence, and his coalition’s controversial judicial overhaul legislation.\nThe reported visit comes as Musk faces accusations of tolerating antisemitic messaging on the platform, with the content on X coming under increased scrutiny amid the war between Israel and Hamas, which began on October 7 when the terror group carried out a devastating attack that killed over 1,200 people, most of them civilians.\nAmid the controversy, Musk  Tuesday that X would be “donating all revenue from advertising & subscriptions associated with the war in Gaza to hospitals in Israel,” and to a humanitarian organization operating in Gaza.\nGet The Times of Israel's Daily Edition by email and never miss our top stories\nNewsletter email address  Get it\nBy signing up, you agree to the \nIn replies to his own tweet, he seemed unsure how he could route money to the group without inadvertently funneling it into Hamas,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak, Fumio Kishida, Tony Blair, Presented at ASEAN-BAC ...",
+                "htmlTitle": "<b>Rishi Sunak</b>, Fumio Kishida, Tony Blair, Presented at ASEAN-BAC ...",
+                "link": "https://asean2023.id/en/news/rishi-sunak-fumio-kishida-tony-blair-presented-at-asean-bac-indonesias-summit-week-2023",
+                "displayLink": "asean2023.id",
+                "snippet": "Aug 29, 2023 ... Jakarta, 28 August 2023 – Arsjad Rasjid, Chair of the ASEAN Business Advisory Council (ASEAN-BAC), expressed the participants' high ...",
+                "htmlSnippet": "Aug 29, 2023 <b>...</b> Jakarta, <b>28 August 2023</b> – Arsjad Rasjid, Chair of the ASEAN Business Advisory Council (ASEAN-BAC), expressed the participants&#39; high&nbsp;...",
+                "formattedUrl": "https://asean2023.id/.../rishi-sunak-fumio-kishida-tony-blair-presented-at-as...",
+                "htmlFormattedUrl": "https://asean<b>2023</b>.id/.../<b>rishi</b>-<b>sunak</b>-fumio-kishida-tony-blair-presented-at-as...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSICqPhhO5gccFp1fFgR37SGSf03tGRhMvPAaYF-u1KLanjJpUn8a3N1p_X&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://asean2023.id/storage/news/rishi-sunak-fumio-kishida-tony-blair-presented-at-asean-bac-indonesias-summit-week-2023-64eda963e4742.JPG",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "csrf-token": "NIQbL1fVCHeSMjmqMdzBsSf4ZWPqigUSVnSmH9ye",
+                            "og:title": "Rishi Sunak, Fumio Kishida, Tony Blair, Presented at ASEAN-BAC Indonesia's Summit Week 2023",
+                            "og:locale": "en",
+                            "og:url": "https://asean2023.id/",
+                            "og:description": "Keketuaan Indonesia di ASEAN Tahun 2023\r\nIndonesia’s 2023 ASEAN Chairmanship"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://asean2023.id/storage/news/rishi-sunak-fumio-kishida-tony-blair-presented-at-asean-bac-indonesias-summit-week-2023-64eda963e4742.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Jakarta, 28 August 2023** – Arsjad Rasjid, Chair of the ASEAN Business Advisory Council (ASEAN-BAC), expressed the participants' high enthusiasm as the ASEAN-BAC Indonesia's Summit Week 2023 approaches, which is now just 3 days away and has become the most anticipated event within the ASEAN business community in the region this year. This series of events will take place from 1 - 6 September 2023.\n\"As we approach ASEAN-BAC Indonesia's Summit Week 2023, we find ourselves at the pinnacle position to engage in transformative collaboration among ASEAN nations and it’s partnership allies. This event stands as a testament to the strength of unity between governments and the business sector in the region. By bringing together prominent leaders, entrepreneurs, thinkers, and innovators, our aim is to forge a new trajectory for sustainable growth and prosperity in the ASEAN region,\" said Arsjad.\nAmong the prominent figures set to attend the ASEAN-BAC Indonesia's Summit Week 2023 are world leaders including:\n1.    Rishi Sunak, the Prime Minister of the United Kingdom  \n2.    Fumio Kishida, the Prime Minister of Japan  \n3.    Pham Minh Chinh, the Prime Minister of Vietnam  \n4.    Tony Blair, the former Prime Minister of the United Kingdom  \n5.    Sonexay Siphadone, the Prime Minister of Laos  \n6.    Louise \"Liza\" Ar...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "CNN Site Map (Articles) for August - 2023",
+                "htmlTitle": "CNN Site Map (Articles) for <b>August</b> - <b>2023</b>",
+                "link": "https://edition.cnn.com/article/sitemap-2023-8.html",
+                "displayLink": "edition.cnn.com",
+                "snippet": "CNN Site Map (Articles) for August - 2023. DateTitle. 2023-08-31Russia claims several Ukrainians killed and detained ...",
+                "htmlSnippet": "CNN Site Map (Articles) for <b>August</b> - <b>2023</b>. DateTitle. <b>2023-08-31</b>Russia claims several Ukrainians killed and detained&nbsp;...",
+                "formattedUrl": "https://edition.cnn.com/article/sitemap-2023-8.html",
+                "htmlFormattedUrl": "https://edition.cnn.com/article/sitemap-<b>2023</b>-8.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "fb:app_id": "80401312489",
+                            "theme-color": "#000000",
+                            "og:site_name": "CNN",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+                            "fb:pages": "5550296508,18793419640"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "DateTitle\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-31\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-30\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-29\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-28\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-27\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-26\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-25\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-24\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-23\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-22\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-21\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-20\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-19\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-18\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-17\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-16\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-15\n*   2023-08-14\n*   2023-08-14\n*   2023-08-14\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-13\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-12\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-11\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-10\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-09\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-08\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-08-07\n*   2023-...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Prime Minister's Office, 10 Downing Street - GOV.UK",
+                "htmlTitle": "Prime Minister&#39;s Office, 10 Downing Street - GOV.UK",
+                "link": "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street",
+                "displayLink": "www.gov.uk",
+                "snippet": "Prime Minister Keir Starmer's statement in Downing Street: 1 August · PM call ... We're changing the way the Minimum Wage is set so it keeps in line with the cost ...",
+                "htmlSnippet": "Prime Minister Keir Starmer&#39;s statement in Downing Street: 1 <b>August</b> &middot; PM call ... We&#39;re changing the way the Minimum Wage is set so it keeps in line with the cost&nbsp;...",
+                "formattedUrl": "https://www.gov.uk/government/.../prime-ministers-office-10-downing-stre...",
+                "htmlFormattedUrl": "https://www.gov.uk/government/.../prime-ministers-office-10-downing-stre...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "govuk:content-id": "705dbea4-8bd7-422e-ba9c-254557f77f81",
+                            "og:image": "https://www.gov.uk/assets/static/govuk-opengraph-image-03837e1cec82f217cf32514635a13c879b8c400ae3b1c207c5744411658c7635.png",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "govuk:rendering-app": "collections",
+                            "theme-color": "#0b0c0c",
+                            "og:site_name": "GOV.UK",
+                            "govuk:rendering-application": "collections",
+                            "govuk:primary-publishing-organisation": "Prime Minister's Office, 10 Downing Street",
+                            "govuk:format": "organisation",
+                            "og:title": "Prime Minister's Office, 10 Downing Street",
+                            "govuk:components_gem_version": "41.0.0",
+                            "og:description": "10 Downing Street is the official residence and the office of the British Prime Minister. The office helps the Prime Minister to establish and deliver the government’s overall strategy and policy priorities, and to communicate the government’s policies to Parliament, the public and international audiences.",
+                            "govuk:public-updated-at": "2024-07-16T15:02:40+01:00",
+                            "govuk:publishing-app": "whitehall",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "govuk:updated-at": "2024-08-02T13:17:36+01:00",
+                            "govuk:first-published-at": "2013-03-12T14:15:18+00:00",
+                            "govuk:analytics:organisations": "<OT532>",
+                            "og:url": "https://www.gov.uk/government/organisations/prime-ministers-office-10-downing-street",
+                            "govuk:schema-name": "organisation"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... cookies. You can  at any time.\nYou have rejected additional cookies. You can  at any time.\nAccept additional cookies Reject additional cookies \nHide this message\nNavigation menu\n---------------\n Menu\nSearch GOV.UK × \n### Services and information\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n### Government activity\n*   Departments, agencies and public bodies\n*   News stories, speeches, letters and notices\n*   Detailed guidance, regulations and rules\n*   Reports, analysis and official statistics\n*   Consultations and strategy\n*   Data, Freedom of Information releases and corporate reports\n### Search\nSearch GOV.UK\nSearch\n1.  \n2.  \nPrime Minister's Office, 10 Downing Street\n==========================================\nPrime Minister's Office  \n10 Downing Street\n*   \n*   \n*   \n*   \nLatest news\n-----------\n-------------------------------------------------------------------------------------------------------------------------\n!\n*   \n*   \n*   \n*   \nFeatured\n--------\n### \n30 July 2024 — News story\nWe’re changing the way the Minimum Wage is set so it keeps in line with the cost of living.\n!\n### \n25 July 2024 — News story\nGreat British Energy will be a company owned by the British people, to deliver power back to the British people.\n!\n### \n17 July 2024 — News story\nFind out what the King’s Speech means for you.\n!\n### \n15 July 2024 — News story\nEverything you need to know about the State Opening of Parliament.\n!\n### \n10 July 2024 — News story\nWe’ll make an immediate impact on people’s lives with our six first steps for change.\n!\nVideos\n------\n### President Zelenskyy addresses the British Cabinet\n*   \n*   \n*   \nMeet the Prime Minister\n-----------------------\nKeir Starmer became Prime Minister on 5 July 2024.  \n*   \n*   \n*   \n!\nHistory\n-------\n10 Downing Street, the locale of British prime ministers since 1735, vies with the White House as being the most important political building anywhere in the world in the modern era. Behind its black door have been taken the most important decisions affecting Britain for the last 275 years.\n*   \n*   \n!\nContact Number 10\n-----------------\n### Prime Minister's Office enquiries\nEmails can be sent to the Prime Minister’s Office using the link above. If you are emailing about an issue relating to the responsibilities of another Government Department or public authority then you should contact them directly.  \nDue to the exceptionally high volumes of emails being received at this time, the Prime Minister’s Office is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak to skip UN world leader event becoming first PM in a ...",
+                "htmlTitle": "<b>Rishi Sunak</b> to skip UN world leader <b>event</b> becoming first PM in a ...",
+                "link": "https://www.independent.co.uk/news/uk/politics/rishi-sunak-james-cleverly-un-united-nations-b2399998.html",
+                "displayLink": "www.independent.co.uk",
+                "snippet": "Aug 26, 2023 ... A No 10 spokesperson pointed to the Prime Minister's busy schedule for the autumn, noting that he will meet counterparts at the G20 leaders' ...",
+                "htmlSnippet": "Aug 26, 2023 <b>...</b> A No 10 spokesperson pointed to the Prime Minister&#39;s busy <b>schedule</b> for the autumn, noting that he will meet counterparts at the G20 leaders&#39;&nbsp;...",
+                "formattedUrl": "https://www.independent.co.uk/.../rishi-sunak-james-cleverly-un-united-nati...",
+                "htmlFormattedUrl": "https://www.independent.co.uk/.../<b>rishi</b>-<b>sunak</b>-james-cleverly-un-united-nati...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDcPPtgSnf6QLU4n_47wRVjaAgtrZ46QmV8FUGMbxmRX0Is4wzxsE0rIs&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2023-08-26T20:24:52.000Z",
+                            "og:image": "https://static.independent.co.uk/2023/08/26/20/ea0ee28aa8f8cca4d90b2fda46dce327Y29udGVudHNlYXJjaGFwaSwxNjkyOTc4ODc0-2.73338601.jpg?quality=75&width=1200&auto=webp",
+                            "article:published_time": "2023-08-26T20:24:52.000Z",
+                            "theme-color": "#f7f7f7",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Independent",
+                            "article:image_count": "2",
+                            "og:description": "Sunak will miss the annual UN General Assembly in New York",
+                            "twitter:image": "https://static.independent.co.uk/2023/08/26/20/ea0ee28aa8f8cca4d90b2fda46dce327Y29udGVudHNlYXJjaGFwaSwxNjkyOTc4ODc0-2.73338601.jpg?quality=75&width=1200&auto=webp",
+                            "og:image:secure_url": "https://static.independent.co.uk/2023/08/26/20/ea0ee28aa8f8cca4d90b2fda46dce327Y29udGVudHNlYXJjaGFwaSwxNjkyOTc4ODc0-2.73338601.jpg?quality=75&width=1200&auto=webp",
+                            "article:embed_count": "2",
+                            "twitter:site": "@Independent",
+                            "article:modified_time": "2023-08-26T20:24:52.000Z",
+                            "article:author_name": "Sophie Wingate",
+                            "sitename": "The Independent",
+                            "page type": "Article",
+                            "article:section": "News",
+                            "twitter:title": "Sunak to skip UN leader event becoming first PM in a decade to not attend summit",
+                            "og:type": "article",
+                            "page path": "/news/uk/politics",
+                            "article:word_count": "540",
+                            "article:video_count": "1",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:title": "Sunak to skip UN leader event becoming first PM in a decade to not attend summit",
+                            "og:updated_time": "2023-08-26T20:24:52.000Z",
+                            "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+                            "fb:app_id": "235586169789578",
+                            "article:content_type": "story",
+                            "adpagetype": "Article Page",
+                            "article:internal_link_count": "5",
+                            "viewport": "width=device-width,initial-scale=1,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                            "article:subsection": "UK",
+                            "twitter:description": "Sunak will miss the annual UN General Assembly in New York",
+                            "og:locale": "en_GB",
+                            "category": "UK Politics",
+                            "og:url": "https://www.independent.co.uk/news/uk/politics/rishi-sunak-james-cleverly-un-united-nations-b2399998.html",
+                            "google-signin-client_id": "329250492844-uqochn2f1j5ljkshuap5gc7qphf1refj.apps.googleusercontent.com",
+                            "article:external_link_count": "0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.independent.co.uk/2023/08/26/20/ea0ee28aa8f8cca4d90b2fda46dce327Y29udGVudHNlYXJjaGFwaSwxNjkyOTc4ODc0-2.73338601.jpg?quality=75&width=1200&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.independent.co.uk/news/uk/politics/rishi-sunak-james-cleverly-un-united-nations-b2399998.html: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.independent.co.uk/news/uk/politics/rishi-sunak-james-cleverly-un-united-nations-b2399998.html",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak promised big on his AI summit. He's running out of time ...",
+                "htmlTitle": "<b>Rishi Sunak</b> promised big on his AI summit. He&#39;s running out of time ...",
+                "link": "https://www.politico.eu/article/uk-pm-rishi-sunak-promise-big-ai-summit-but-running-out-of-time/",
+                "displayLink": "www.politico.eu",
+                "snippet": "August 15, 2023 4:00 am CET. By Tom Bristow, Gian Volpicelli and Laurie Clarke. LONDON — When Rishi Sunak announced in June that Britain would host the ...",
+                "htmlSnippet": "<b>August</b> 15, <b>2023</b> 4:00 am CET. By Tom Bristow, Gian Volpicelli and Laurie Clarke. LONDON — When <b>Rishi Sunak</b> announced in June that Britain would host the&nbsp;...",
+                "formattedUrl": "https://www.politico.eu/.../uk-pm-rishi-sunak-promise-big-ai-summit-but-ru...",
+                "htmlFormattedUrl": "https://www.politico.eu/.../uk-pm-<b>rishi</b>-<b>sunak</b>-promise-big-ai-summit-but-ru...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTzWw3nG4RpQseVNigsfhbb-74HjDC9XaMjK7GlZqS1bWWM2COv_oeQ4HY&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "website": [
+                        {
+                            "query-input": "readonly value",
+                            "target": "https://www.politico.eu/?s={s}"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/09/GettyImages-1550746125-scaled.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "article:published_time": "2023-08-15T02:00:00+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "POLITICO",
+                            "apple-mobile-web-app-title": "POLITICO Europe",
+                            "og:title": "Rishi Sunak promised big on his AI summit. He’s running out of time to deliver",
+                            "og:image:height": "630",
+                            "section": "technology,technology-uk",
+                            "parsely-metadata": "{\"post_id\":3429897}",
+                            "og:description": "Despite the appointment of two special representatives on Thursday, the world’s ‘first major global summit on AI safety’ is still missing a date and an invite list.",
+                            "article:publisher": "https://www.facebook.com/POLITICOeu",
+                            "twitter:image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/09/GettyImages-1550746125-scaled.jpg",
+                            "twitter:text:title": "Rishi Sunak promised big on his AI summit. He’s running out of time to deliver",
+                            "article:modified_time": "2023-08-22T10:03:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.politico.eu/article/uk-pm-rishi-sunak-promise-big-ai-summit-but-running-out-of-time/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2023/08/09/GettyImages-1550746125-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   Opinion\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n    *   \n        *   \n        *   \n*   *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \nEurope\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n1.  \n2.  \nRishi Sunak promised big on his AI summit. He’s running out of time to deliver\n==============================================================================\nDespite the appointment of two special representatives on Thursday, the world’s ‘first major global summit on AI safety’ is still missing a date and an invite list.\nListen\nShare\n*   Share options\n*   \n*   \n*   \n*   \n*   \n!\nAllies want the U.K. to get a move on, according to officials from four countries | Pool photo by Ben Birchall via WPA/Getty Images\nAugust 15, 2023 4:00 am CET\nBy ,  and \nLONDON — When Rishi Sunak  in June that Britain would host the world’s “first major global summit” on AI safety later this year, it was meant to signal the U.K.’s leadership in the race to agree global standards for this powerful new technology.\nThe U.K., he said, the following week, wanted to become the \"geographical home\" of global AI safety.\nBut with the summit promised before the end of 2023, diplomats and industry figures say the guest list hasn’t been finalized, key details are yet to be announced and western allies are unclear about how it fits with existing work on setting global rules.\nAdvertisement\nAdvertisement\nCrucial questions remain, including an actual date for the summit and whether China will be invited.\nNow, allies want the U.K. to get a move on, according to officials from four countries.\n### Tight timelines\nThe summit, initially slated for “autumn,” is fast approaching, but officials and diplomats are still unclear about when it will actually take place.\nDeputy Prime Minister Oliver Dowden previously said it would be held in December, but U.K. government officials told POLITICO the target month is in fact November.  \nTwo embassy officials from countries that have been in discussions said they had yet to receive any formal invitation, but one said they had been told it would take place in early November, which was “pretty vague.”\n“We haven’t been given much information yet,” they added. “And we’re getting quite close to the date now.”\nA senior European diplomat, granted anonymity to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "List of international prime ministerial trips made by Rishi Sunak ...",
+                "htmlTitle": "List of international prime ministerial trips made by <b>Rishi Sunak</b> ...",
+                "link": "https://en.wikipedia.org/wiki/List_of_international_prime_ministerial_trips_made_by_Rishi_Sunak",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "This is the list of international prime ministerial trips made by Rishi Sunak, who served as Prime Minister of the United Kingdom from 25 October 2022 until ...",
+                "htmlSnippet": "This is the list of international prime ministerial trips made by <b>Rishi Sunak</b>, who served as Prime Minister of the United Kingdom from 25 October 2022 until&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/.../List_of_international_prime_ministerial_trips_m...",
+                "htmlFormattedUrl": "https://en.wikipedia.org/.../List_of_international_prime_ministerial_trips_m...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/List_of_international_prime_ministerial_trips_made_by_Rishi_Sunak.svg/1200px-List_of_international_prime_ministerial_trips_made_by_Rishi_Sunak.svg.png",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "List of international prime ministerial trips made by Rishi Sunak - Wikipedia",
+                            "og:image:height": "609",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n]\nWorld map highlighting the 22 countries visited by Rishi Sunak during his premiershipUnited Kingdom\nOne visit\nTwo visits\nThis is the **list of international prime ministerial trips made by Rishi Sunak**, who served as  of the  from 25 October 2022 until his resignation on 5 July 2024.  made twenty four international trips to twenty two countries during his .\n]\nSunak with US President  at the , 8 June 2023\nThe number of visits per country where Sunak travelled are:\n*   **One**: , , , , , , , , , , , , , , , .\n*   **Two**: , , , , , .\n| # | Country | Location | Date | Details |\n| --- | --- | --- | --- | --- |\n| **1** |  ! |  | 6–7 November | Sunak attended the high level segment of .] |\n| **2** |  ! |  | 14–16 November | Sunak attended the .] |\n| **3** |  ! |  | 19 November | Sunak travelled to Kyiv to meet with President , and pledged £50 million in aid.] |\n| **4** |  ! |  | 19 December | Sunak attended a  leaders summit.] |\n|  ! |  | Sunak met with British troops.] |\n| # | Country | Location | Date | Details |\n| --- | --- | --- | ---...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Top 10: Must-Attend Sustainability Events 2023 | Sustainability ...",
+                "htmlTitle": "Top 10: Must-Attend Sustainability <b>Events 2023</b> | Sustainability ...",
+                "link": "https://sustainabilitymag.com/articles/top-10-must-attend-sustainability-events-2023",
+                "displayLink": "sustainabilitymag.com",
+                "snippet": "May 17, 2023 ... These events will take place over a span of time, accommodating the number and length of presentations. One of the conferences within this ...",
+                "htmlSnippet": "May 17, 2023 <b>...</b> These <b>events</b> will take <b>place</b> over a span of time, accommodating the number and length of presentations. One of the conferences within this&nbsp;...",
+                "formattedUrl": "https://sustainabilitymag.com/.../top-10-must-attend-sustainability-events-20...",
+                "htmlFormattedUrl": "https://sustainabilitymag.com/.../top-10-must-attend-sustainability-<b>events</b>-<b>20</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEqsfHWuV72P-0iGAJjiyVjzzCaU-iaN8th25t072nOCRe6iFYEPirtntn&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Sustainability Magazine",
+                            "og:image": "https://assets.bizclikmedia.net/1200/0bc0d289b8606691ed5f5397fd46c3a8:37bd1af977bb61e6e554b3196954db81/dsc08075.jpg.jpg",
+                            "theme-color": "[object Object]",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "og:image:alt": "Top 10: Must-Attend Sustainability Events 2023",
+                            "og:image:width": "668",
+                            "article:published_time": "2023-05-17T06:00:36Z",
+                            "og:title": "Top 10: Must-Attend Sustainability Events 2023",
+                            "og:image:height": "504",
+                            "og:description": "From SUSTAINABILITY LIVE London and COP28, see how each of the world’s most impactful sustainability events ranked this year",
+                            "article:author": "Lucy Buchholz",
+                            "article:tag": "Top 10",
+                            "next-head-count": "28",
+                            "twitter:site": "@SustainabltyMag",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "og:url": "https://sustainabilitymag.com/articles/top-10-must-attend-sustainability-events-2023"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.bizclikmedia.net/1200/0bc0d289b8606691ed5f5397fd46c3a8:37bd1af977bb61e6e554b3196954db81/dsc08075.jpg.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in a diverse range of conferences, bringing together leaders and experts from various industries and disciplines. Explore the forefront of product stewardship, ecological urbanism, climate technology, sustainable development, and more.\nFrom thought-provoking discussions on climate action to innovative solutions for a greener world, these events offer a platform to drive change and shape a sustainable tomorrow. Don't miss out on this unparalleled opportunity to connect, learn and make a lasting impact and see how this year’s list differs from the events that took place last year, in .\n10 \n------------------------------\n_Boston, US_\n_October 17-19, 2023_\nPSX events are dedicated to product stewardship, which aims to minimise the health, safety, and environmental effects of consumer goods across their entire lifecycle. These events have covered a range of topics in the past, such as translating compliance terminology for executives, implementing ESG disclosure in supply chains, and sharing insights on circular economy strategies. The focus is on promoting responsible and sustainable practices in the production and consumption of goods.\nRegistration opens  in late May.\n9 \n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n_Istanbul, Türkiye_\n_August 17-18, 2023_\nThe International Research Conference is a federated organisation that aims to gather a diverse range of scholarly events for presentation. These events will take place over a span of time, accommodating the number and length of presentations. One of the conferences within this organisation is the International Conference on Ecological Urbanism and Sustainable Development, which seeks to bring together leading scientists, researchers and scholars to exchange experiences and research findings in the field. It serves as an interdisciplinary platform for discussing innovations, trends, concerns, challenges and solutions related to Ecological Urbanism and Sustainable Development.\nRegister .\n8  \n------------------------------------------------------\n_California, US_\n_October 24-26, 2023_\nVERGE 23 is a prominent event in climate technology that is dedicated to accelerating solutions for the urgent challenges of our time. It serves as a hub for the climate community, bringing together leaders from various sectors such as business, government, solution providers, and startups, all working collaboratively to tackle the climate crisis. The event's key programme focuses on seizing these opportunities in areas such as buildings, carbon, energy, food, startups, and transport.\nRegister .\n!\n7  \n--------------------------------------------------------------------------------\nSantander, Spain\nJune 14-16, 2023\nWith delegates from over 40 nations coming together, this conference offers a vibrant platform for presenting cutting-edge research and exploring its practical implications for business, society...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Israel-Hamas war updates and latest news on Gaza",
+                "htmlTitle": "Israel-Hamas war updates and latest news on Gaza",
+                "link": "https://www.cnbc.com/2023/10/16/israel-hamas-war-updates-latest-news-on-gaza.html",
+                "displayLink": "www.cnbc.com",
+                "snippet": "Oct 15, 2023 ... U.S Secretary of State Antony Blinken (L) meets Israeli Prime Minister Benjamin Netanyahu (R) in Tel Aviv, Israel on October 12, 2023. GPO | ...",
+                "htmlSnippet": "Oct 15, 2023 <b>...</b> U.S Secretary of State Antony Blinken (L) meets Israeli Prime Minister Benjamin Netanyahu (R) in Tel Aviv, Israel on October 12, <b>2023</b>. GPO |&nbsp;...",
+                "formattedUrl": "https://www.cnbc.com/2023/.../israel-hamas-war-updates-latest-news-on-ga...",
+                "htmlFormattedUrl": "https://www.cnbc.com/<b>2023</b>/.../israel-hamas-war-updates-latest-news-on-ga...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_x2YJa1g9N71Th0BSWZyhMXIDqTZPFC4Gzwgxki4cKaEXMayPJI6zDOR&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "foundingdate": "'1989-04-17'",
+                            "name": "CNBC",
+                            "url": "https://www.cnbc.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659&w=1920&h=1080",
+                            "apple-itunes-app": "app-id=398018310",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-10-16T08:54:49+0000",
+                            "og:site_name": "CNBC",
+                            "twitter:url": "https://www.cnbc.com/2023/10/16/israel-hamas-war-updates-latest-news-on-gaza.html",
+                            "tp:preferredformats": "M3U,MPEG4",
+                            "og:description": "Israel is on its 10th day of an aerial bombardment campaign of the Gaza Strip as it readies for a potential ground invasion.",
+                            "twitter:creator": "amanda_m_macias",
+                            "parsely-metadata": "{\"nodeid\":107317616,\"originalImage\":\"https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659\"}",
+                            "twitter:image": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659&w=1920&h=1080",
+                            "article:publisher": "https://www.facebook.com/cnbc",
+                            "al:ios:app_store_id": "398018310",
+                            "pagenodeid": "107317616",
+                            "twitter:site": "@CNBC",
+                            "article:modified_time": "2023-11-02T13:08:50+0000",
+                            "news_keywords": "Catastrophe,Joe Biden,Egypt,United States,Environment,Government and politics,Israel,Gaza,Breaking news,War,Foreign policy,Politics,Defense,Breaking News: Middle East,Breaking News: Politics,Benjamin Netanyahu,Antony Blinken,business news",
+                            "tp:preferredruntimes": "universal",
+                            "tp:initialize": "false",
+                            "assettype": "live_story",
+                            "og:type": "article",
+                            "twitter:title": "Biden will visit Israel on Wednesday; 2,000 U.S. troops prep for possible deployment to Middle East",
+                            "article:section": "Politics",
+                            "al:ios:app_name": "CNBC Business News and Finance",
+                            "author": "Amanda Macias,Emma Kinery,Ruxandra Iordache,Natasha Turak",
+                            "og:title": "Biden will visit Israel on Wednesday; 2,000 U.S. troops prep for possible deployment to Middle East",
+                            "article:author": "https://www.facebook.com/CNBC",
+                            "twitter:image:src": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659&w=1920&h=1080",
+                            "article:tag": "Catastrophe",
+                            "viewport": "initial-scale=1.0, width=device-width",
+                            "twitter:description": "Israel is on its 10th day of an aerial bombardment campaign of the Gaza Strip as it readies for a potential ground invasion.",
+                            "og:url": "https://www.cnbc.com/2023/10/16/israel-hamas-war-updates-latest-news-on-gaza.html",
+                            "format-detection": "telephone=no",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "image": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659&w=1920&h=1080",
+                            "contentrating": "NR",
+                            "specialty": "Catastrophe,Joe Biden,Egypt,United States,Environment,Government and politics,Israel,Gaza,Breaking news,War,Foreign policy,Politics,Defense,Breaking News: Middle East,Breaking News: Politics,Benjam...",
+                            "primaryimageofpage": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659",
+                            "datemodified": "2023-11-02T13:08:50+0000",
+                            "inlanguage": "en-US",
+                            "keywords": "Catastrophe,Joe Biden,Egypt,United States,Environment,Government and politics,Israel,Gaza,Breaking news,War,Foreign policy,Politics,Defense,Breaking News: Middle East,Breaking News: Politics,Benjam...",
+                            "lastreviewed": "2023-11-02T13:08:50+0000",
+                            "name": "Israel-Hamas war updates and latest news on Gaza",
+                            "description": "Israel is on its 10th day of an aerial bombardment campaign of the Gaza Strip as it readies for a potential ground invasion.",
+                            "datecreated": "2023-10-16T08:54:49+0000"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://image.cnbcfm.com/api/v1/image/107317726-1697459261210-gettyimages-1726469052-AFP_33Y98BJ.jpeg?v=1697519659&w=1920&h=1080"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... clashes between Israeli Security forces and Palestinian protesters along the Israel-Gaza border, east of Gaza city, Gaza Strip, 27 July 2018. Photo: Wissam Nassar/dpa (Photo by Wissam Nassar/picture alliance via Getty Images)\nPicture Alliance | Picture Alliance | Getty Images\nGAZA CITY, GAZA - OCTOBER 14: Palestinians line up in front of a bakery to buy bread as Israeli airstrikes continue on the 8th day in Gaza City, Gaza on October 14, 2023. Palestinians are trying to survive in an area without electricity, water, food and fuel. (Photo by Abed Rahim Khatib/Anadolu via Getty Images)\nAbed Rahim Khatib | Anadolu Agency | Getty Images\nPalestinian Jamil Abu Asi distributes soup to people who lost their homes in Israeli airstrikes and take shelter at schools in Khan Yunis, Gaza on October 15, 2023.\nMustafa Hassona | Anadolu Agency | Getty Images\n— _Riya Bhattacharjee_\nMon, Oct 16 20238:14 PM EDT\nBiden will travel to Israel on Wednesday\n----------------------------------------\nU.S. President Joe Biden waves as he boards Air Force One for return travel to Washington, at Dover Air Force Base in Dover, Delaware, January 23, 2023.\nKen Cedeno | Reuters\nPresident J to meet with Israeli Prime Minister Benjamin Netanyahu as the conflict intensifies.\n\"He's coming here at a critical moment for Israel, for the region and for the world,\" Secretary of State Antony Blinken announced during a brief press conference at the U.S. Embassy in Tel Aviv.\nBlinken said that Biden will receive security briefings and coordinate with regional partners to mitigate the expansion of the war.\nBiden will also work to implement a plan that will allow for humanitarian aid and resources to safely enter Gaza Strip.\n_— Amanda Macias_\nMon, Oct 16 20237:51 PM EDT\nBlinken holds nearly eight hour meeting with Israel's Netanyahu\n---------------------------------------------------------------\nU.S Secretary of State Antony Blinken (L) meets Israeli Prime Minister Benjamin Netanyahu (R) in Tel Aviv, Israel on October 12, 2023.\nGPO | Anadolu Agency | Getty Images\nSecretary of State Antony Blinken met with Israeli Prime Minister Benjamin Netanyahu for nearly eight hours in Tel Aviv.\nThe meeting, which included Netanyahu's war cabinet, was interrupted twice by air raid sirens. Blinken and Netanyahu were forced to take cover along with traveling press in a shelter during the alerts.\nBlinken has visited Israel twice since the start of the war on Oct. 7.\n_— Amanda Macias_\nMon...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Russia-Ukraine war: List of key events, day 504 | Russia-Ukraine ...",
+                "htmlTitle": "Russia-Ukraine war: List of key <b>events</b>, day 504 | Russia-Ukraine ...",
+                "link": "https://www.aljazeera.com/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jul 12, 2023 ... As the conflict enters its 504th day, these are the main developments. ... Here is the situation on Wednesday, July 12, 2023. NATO summit. NATO ...",
+                "htmlSnippet": "Jul 12, 2023 <b>...</b> As the conflict enters its 504th day, these are the main developments. ... Here is the situation on Wednesday, <b>July</b> 12, <b>2023</b>. NATO summit. NATO&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/.../2023/.../russia-ukraine-war-list-of-key-events-...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../<b>2023</b>/.../russia-ukraine-war-list-of-key-<b>events</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SmpyLmYXnwYbhvDl2yUA6VhrmSyej6ZtcdvDTcZFSzUL6f0lJnVo7zo&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-07T073014Z_1562279767_RC2YW1ADTA4F_RTRMADP_3_UKRAINE-CRISIS-FIGHTING-1689123216.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504",
+                            "pagesection": "News,Conflict,Military,NATO,Politics,Russia-Ukraine war,Weapons",
+                            "channel": "aje",
+                            "publisheddate": "2023-07-12T01:31:37",
+                            "postid": "2268064",
+                            "source": "Al Jazeera and news agencies",
+                            "og:description": "As the conflict enters its 504th day, these are the main developments.",
+                            "taxonomyterms": "News, Conflict, Military, NATO, Politics, Russia-Ukraine war, Weapons, Europe, Russia, Ukraine",
+                            "lastdate": "2023-07-12T01:31:37",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Russia-Ukraine war: List of key events, day 504",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Russia-Ukraine war: List of key events, day 504",
+                            "taxonomy-tags": "News, Conflict, Military, NATO, Politics, Russia-Ukraine war, Weapons",
+                            "topics": "News",
+                            "og:title": "Russia-Ukraine war: List of key events, day 504",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504",
+                            "tags": "Conflict, Military, NATO, Politics, Russia-Ukraine war, Weapons",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-07T073014Z_1562279767_RC2YW1ADTA4F_RTRMADP_3_UKRAINE-CRISIS-FIGHTING-1689123216.jpg?resize=1920%2C1440",
+                            "articleslug": "russia-ukraine-war-list-of-key-events-day-504",
+                            "postlink": "/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "As the conflict enters its 504th day, these are the main developments.",
+                            "pagetitle": "Russia-Ukraine war: List of key events, day 504",
+                            "og:url": "https://www.aljazeera.com/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2023/07/2023-07-07T073014Z_1562279767_RC2YW1ADTA4F_RTRMADP_3_UKRAINE-CRISIS-FIGHTING-1689123216.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.aljazeera.com/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.aljazeera.com/news/2023/7/12/russia-ukraine-war-list-of-key-events-day-504",
+                    "content_tokens": 0
+                }
+            }
+        }
+    ]
+}

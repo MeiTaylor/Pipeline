@@ -1,0 +1,178 @@
+{
+    "Question": "Did President Joe Biden actually claim to have sold state secrets during the meeting in June 2023?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The claim made by President Joe Biden about selling state secrets is significant and potentially controversial. To accurately answer the question, I need to find context, verify the statement, and check for any associated reactions or clarifications from reputable sources.",
+        "Queries": {
+            "Query1": {
+                "query": "Joe Biden sold state secrets June 2023 meeting",
+                "searching_goal": "Find specific instances where Joe Biden claimed to have sold state secrets, including details of the meeting and interpretations to understand the authenticity and context."
+            },
+            "Query2": {
+                "query": "Biden state secrets statement news reactions",
+                "searching_goal": "Gather responses from news outlets regarding Biden's statement about selling state secrets to cover media reactions, fact-checking efforts, and related implications."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+            "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+            "snippet": "Jun 23, 2023 ... We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we ...",
+            "content": {
+                "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:  Okay.  We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.  (Laughter.)\nNow, all kidding aside — look, we’re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.  And together, we’re lifting the private and public partners to make this possible, including launching a new program between India and America — American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- — taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We’ve got to keep it up, and we have to make sure we aim even higher.\nWe’re — we’re going to see more technol- — technological change — you’ve heard me say this a number of times — in the next 10 years than we saw in the last 50 years — and maybe in the next few years — the last 50 years.  And we need your help — and I’m talking to the CEOs around this table, Indian and American.  We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "The official website of the White House is a primary source for government information, including speeches and statements by President Joe Biden. It is highly credible and a reliable source for verifying official claims and events. However, as it is a government site that may present information from a specific perspective, it receives a slightly lower score."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-06-23"
+            },
+            "Relevance": {
+                "RelevanceScore": 10,
+                "Relevance Justification": "This evidence directly quotes President Biden's remarks during a meeting with Prime Minister Modi where he mentions selling state secrets. It provides the context and the exact excerpt from the meeting, supporting the claim that he did indeed make this statement. The quote itself confirms Biden did say those words, but it is essential to understand the context to evaluate the seriousness of the statement."
+            },
+            "total_score": 33
+        },
+        {
+            "title": "No kidding, Biden did not confess to selling state secrets - RMIT ...",
+            "link": "https://www.rmit.edu.au/news/factlab-meta/no--biden-did-not-confess-to-selling-state-secrets",
+            "snippet": "Jul 19, 2023 ... US President Joe Biden confessed to selling state secrets. Missing context. The video is edited to remove President Biden's remark that he ...",
+            "content": {
+                "content": "[Content truncated]... *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n!\nNo kidding, Biden did not confess to selling state secrets\n----------------------------------------------------------\n<table width=\"100%\" cellspacing=\"0\" cellpadding=\"1\" border=\"1\"><tbody><tr class=\"enable-hover-bg\"><td><h4><b>What was claimed</b></h4></td><td><h4><b>The verdict</b></h4></td></tr><tr><td><p>US President Joe Biden confessed to selling state secrets.</p></td><td><p>Missing context. The video is edited to remove President Biden’s remark that he was “kidding” directly after a tongue-in-cheek comment that he “has sold a lot of state secrets”.</p></td></tr></tbody></table>\n! US President Joe Biden jokes about selling \"state secrets\" during a meeting with Indian Prime Minister Narendra Modi\nBy Frank Algra-Maschio\nA video gaining traction on social media misleadingly claims to show US President Joe Biden confessing to selling state secrets and sharing confidential information.\nThe clip has been shared by several prominent figures, including Republican congresswoman Marjorie Taylor-G...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 6,
+                "justification": "RMIT University is an educational institution that may provide research and analysis on various topics, but it is not primarily a news source. While it can provide reliable academic insights, it may lack the direct news reporting needed for real-time verification and may not be equipped to specifically detect fake news."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-07-19"
+            },
+            "Relevance": {
+                "RelevanceScore": 9,
+                "Relevance Justification": "Similar to evidence 1, this evidence explains that Biden's statement was a joke. It emphasizes context by noting that the video was edited. This is critical for evaluating the intensity and implication of his claim about state secrets, indicating this was not a serious admission."
+            },
+            "total_score": 28
+        },
+        {
+            "title": "Marjorie Taylor Greene Touts Edited Video of Biden 'Admitting His ...",
+            "link": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-biden-admitting-crimes-1809149",
+            "snippet": "Jun 26, 2023 ... The deceptively-edited video shows Biden saying that he sold \"state secrets\" but cuts off right before the president said that he was ...",
+            "content": {
+                "content": "[Content truncated]...   \nShare\nCopy Link\n✓ Link copied to clipboard!\n*   \n*   \n*   \n*   \n*   \nMarjorie Taylor Greene Touts Edited Video of Biden 'Admitting His Crimes'\n=========================================================================\n**Published** Jun 26, 2023 at 9:00 PM EDT **Updated** Jun 26, 2023 at 11:09 PM EDT\nCLOSE X\nBy \nWriter\nShare\nCopy Link\n✓ Link copied to clipboard!\nRepublican Representative  of Georgia is one of several online touting a deceptively-edited video of President  supposedly \"admitting his crimes out loud.\"\nThe video, first  by the Republican National Committee (RNC) Research  account, shows the president saying at a press briefing last week that he had \"sold a lot of state secrets and a lot of very important things\" during a meeting with Indian Prime Minister .\nThe clip was edited to end just before Biden clearly said that he was \"kidding\" about his comments. Modi and others present during the briefing can also be seen and heard laughing in the  of the video.\nGreene opted to share the edited version of the video to her Twitter account on Monday while arguing that the clip was evidence that may support the impeachment of the president and calling it \"so insulting to America.\"\n!\nU.S. Rep. Marjorie Taylor Greene (R-GA) speaks at a press conference at the U.S. Capitol Building on May 18, 2023, in Washington, D.C. Greene is one of several online touting a deceptively-edited video of President... U.S. Rep. Marjorie Taylor Greene (R-GA) speaks at a press conference at the U.S. Capitol Building on May 18, 2023, in Washington, D.C. Greene is one of several online touting a deceptively-edited video of President Joe Biden supposedly \"admitting his crimes out loud.\" More Anna Moneymaker/Getty\n\"'I sold a lot state secrets and a lot of very important things,'\" Greene quoted Biden while  the RNC Research video. \"Joe Biden's brain is going and he's literally admitting his crimes out loud. Impeach Biden! It's unreal and so insulting to America.\"\n> “I sold a lot state secrets and a lot of very important things.”  \n>   \n> Joe Biden’s brain is going and he’s literally admitting his crimes out loud.  \n>   \n> Impeach Biden!  \n>   \n> It’s unreal and so insulting to America...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "Newsweek is a well-known news magazine that covers a broad range of topics. While it generally provides accurate information, it has experienced criticism regarding sensationalism in some areas. Its history of fluctuating in credibility and occasional biased reporting leads to a moderate score."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-06-26"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This evidence discusses how the video had been edited to make Biden's comments appear more serious than intended. It provides clarity on how the remarks were misrepresented, making it relevant for understanding the nature of the claim."
+            },
+            "total_score": 27
+        }
+    ],
+    "Query2": [
+        {
+            "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+            "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+            "snippet": "Jun 23, 2023 ... We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we ...",
+            "content": {
+                "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:  Okay.  We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.  (Laughter.)\nNow, all kidding aside — look, we’re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.  And together, we’re lifting the private and public partners to make this possible, including launching a new program between India and America — American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- — taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We’ve got to keep it up, and we have to make sure we aim even higher.\nWe’re — we’re going to see more technol- — technological change — you’ve heard me say this a number of times — in the next 10 years than we saw in the last 50 years — and maybe in the next few years — the last 50 years.  And we need your help — and I’m talking to the CEOs around this table, Indian and American.  We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "The official website of the White House provides information directly from the U.S. government, including press releases and statements from President Biden and other officials. It is a primary source of information regarding government policies and statements, making it highly credible. However, the inherent nature of government communication can sometimes lead to presentations that align closely with political objectives, hence not a perfect score."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-06-23"
+            },
+            "Relevance": {
+                "RelevanceScore": 10,
+                "Relevance Justification": "This evidence contains direct quotes from President Biden's remarks during a meeting in June 2023, where he explicitly states, 'I sold a lot of state secrets and a lot of very important things that we shared.' This directly addresses the claim and confirms that Biden did indeed make this statement. Therefore, it is highly relevant to assessing the truth of the original claim."
+            },
+            "total_score": 33
+        },
+        {
+            "title": "United States Department of State",
+            "link": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+            "snippet": "Jul 25, 2024 ... President Biden and Secretary ... MR PATEL: Yeah. QUESTION: — the peaceful protesters. So from the U.S. parliament, this statement – State ...",
+            "content": {
+                "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\nالعربيةDeutschEnglishEspañolFrançaisItaliano日本語NederlandsPortuguêsTürkçe中文",
+                "content_tokens": 199
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "The U.S. Department of State's official website is a credible source for U.S. foreign policy, diplomatic efforts, and statements from the Secretary of State. Its high-level information about international relations lends it credibility. However, like any government site, the presentation may favor the current administration's views."
+            },
+            "Newness": {
+                "NewnessScore": 9,
+                "Date": "2024-07-25"
+            },
+            "Relevance": {
+                "RelevanceScore": 1,
+                "Relevance Justification": "This evidence pertains to a Department of State press statement and does not relate to President Biden's claim regarding state secrets. Thus, it does not help evaluate the claim at hand."
+            },
+            "total_score": 20
+        },
+        {
+            "title": "US-China Relations in the Biden-Era: A Timeline - China Briefing ...",
+            "link": "https://www.china-briefing.com/news/us-china-relations-in-the-biden-era-a-timeline/",
+            "snippet": "Day 1191 to 1193 (April 24 to 26, 2024): Secretary of State Antony Blinken meets with President Xi Jinping and other senior Chinese officials in Beijing. US ...",
+            "content": {
+                "content": "[Content truncated]... to US individuals and businesses to these actions. It also found that the tariffs have had a “small negative impact” on the US economy, while they have positively impacted production in 10 sectors most directly affected by the tariffs.\nHowever, since China continues to impose policies related to technology transfer, according to the review, further action is needed to counteract them.\nThe recommendation by the USTR comes at the conclusion of a statutory review of the Section 301 Tariffs, which were first imposed by the Trump Administration in 2018. The USTR launched the statutory review in May 2022 in the lead-up to the four-year anniversary of the tariffs being implemented.\nAt the time, the Biden Administration  that the US may lift some tariffs on Chinese goods to fight inflation. The fact that it has now instead chosen to increase tariffs reflects how the trade relationship between China and the US has evolved in the last two years despite improvements in diplomatic dialogue, as well as the increasingly elevated position of renewables and high-end technologies as a consideration in national security.\nThe proposed tariff increases are as follows:\n*   Battery parts (non-lithium-ion batteries): Increase rate to 25 percent in 2024\n*   Electric vehicles: Increase rate to 100 percent in 2024\n*   Facemasks: Increase rate to 25 percent in 2024\n*   Lithium-ion electrical vehicle batteries: Increase rate to 25 percent in 2024\n*   Lithium-ion non-electrical vehicle batteries: Increase rate to 25 percent in 2026\n*   Medical gloves: Increase rate to 25 percent in 2026\n*   Natural graphite: Increase rate to 25 percent in 2026\n*   Other critical minerals: Increase rate to 25 percent in 2024\n*   Permanent magnets: Increase rate to 25 percent in 2026\n*   Semiconductors: Increase rate to 50 percent in 2025\n*   Ship-to-shore cranes: Increase rate to 25 percent in 2024\n*   Solar cells (whether or not assembled into modules): Increase rate to 50 percent in 2024\n*   Steel and aluminum products: Increase rate to 25 percent in 2024\n*   Syringes and needles: Increase rate to 50 percent in 2024\nIn addition to the tariff rises, the USTR also recommends establishing an “exclusion process” for machinery used in domestic manufacturing, targeting in particular solar manufacturing equipment.\nIn a regular press briefing, Chinese Foreign Spokesperson Wang Wenbin stated that “China opposes the...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 6,
+                "justification": "China Briefing provides insights and analysis regarding doing business in China, along with socio-economic information about the Chinese market. While it can be a good resource for business-related news, it may not be the most reliable source for evaluating U.S. political statements, especially as it focuses heavily on economic issues rather than political or diplomatic discourse."
+            },
+            "Newness": {
+                "NewnessScore": 10,
+                "Date": "2024-07-30"
+            },
+            "Relevance": {
+                "RelevanceScore": 1,
+                "Relevance Justification": "This evidence discusses US-China relations and updates on diplomatic engagements, which are not directly related to President Biden’s claim about selling state secrets. Thus, it is of no relevance."
+            },
+            "total_score": 18
+        }
+    ],
+    "RelevantEvidence": {
+        "Query1_evidence_1": {
+            "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+            "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+            "snippet": "Jun 23, 2023 ... We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we ...",
+            "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:  Okay.  We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.  (Laughter.)\nNow, all kidding aside — look, we’re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.  And together, we’re lifting the private and public partners to make this possible, including launching a new program between India and America — American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- — taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We’ve got to keep it up, and we have to make sure we aim even higher.\nWe’re — we’re going to see more technol- — technological change — you’ve heard me say this a number of times — in the next 10 years than we saw in the last 50 years — and maybe in the next few years — the last 50 years.  And we need your help — and I’m talking to the CEOs around this table, Indian and American.  We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]"
+        },
+        "Query2_evidence_1": {
+            "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+            "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+            "snippet": "Jun 23, 2023 ... We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we ...",
+            "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:  Okay.  We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.  (Laughter.)\nNow, all kidding aside — look, we’re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.  And together, we’re lifting the private and public partners to make this possible, including launching a new program between India and America — American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- — taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We’ve got to keep it up, and we have to make sure we aim even higher.\nWe’re — we’re going to see more technol- — technological change — you’ve heard me say this a number of times — in the next 10 years than we saw in the last 50 years — and maybe in the next few years — the last 50 years.  And we need your help — and I’m talking to the CEOs around this table, Indian and American.  We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]"
+        },
+        "Query1_evidence_2": {
+            "title": "No kidding, Biden did not confess to selling state secrets - RMIT ...",
+            "link": "https://www.rmit.edu.au/news/factlab-meta/no--biden-did-not-confess-to-selling-state-secrets",
+            "snippet": "Jul 19, 2023 ... US President Joe Biden confessed to selling state secrets. Missing context. The video is edited to remove President Biden's remark that he ...",
+            "content": "[Content truncated]... *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n!\nNo kidding, Biden did not confess to selling state secrets\n----------------------------------------------------------\n<table width=\"100%\" cellspacing=\"0\" cellpadding=\"1\" border=\"1\"><tbody><tr class=\"enable-hover-bg\"><td><h4><b>What was claimed</b></h4></td><td><h4><b>The verdict</b></h4></td></tr><tr><td><p>US President Joe Biden confessed to selling state secrets.</p></td><td><p>Missing context. The video is edited to remove President Biden’s remark that he was “kidding” directly after a tongue-in-cheek comment that he “has sold a lot of state secrets”.</p></td></tr></tbody></table>\n! US President Joe Biden jokes about selling \"state secrets\" during a meeting with Indian Prime Minister Narendra Modi\nBy Frank Algra-Maschio\nA video gaining traction on social media misleadingly claims to show US President Joe Biden confessing to selling state secrets and sharing confidential information.\nThe clip has been shared by several prominent figures, including Republican congresswoman Marjorie Taylor-G...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "Did President Joe Biden actually claim to have sold state secrets during the meeting in June 2023?",
+        "Answer": "Yes, President Joe Biden did make a statement that appeared to claim he sold state secrets during a meeting in June 2023. However, the context of that statement is crucial for understanding its true nature. In a meeting with Indian Prime Minister Narendra Modi, President Biden said, \"I sold a lot of state secrets and a lot of very important things that we shared.\" This remark was followed by laughter, suggesting it was intended to be humorous rather than serious. Importantly, Biden quickly clarified that he was \"kidding\" directly after this comment, hinting it was a light-hearted joke rather than an admission of wrongdoing or actual espionage. Moreover, fact-checking sources have noted that the video clip circulating on social media has been edited in a way that omits this crucial context, leading to a misunderstanding of the President's words. The edited videos often present his joking claim without the clarification that follows, which plays a significant role in properly interpreting his intent. In conclusion, while Biden did say he \"sold\" state secrets, the statement was made in a joking context and followed by laughter, making it clear that it was not a confession but rather a humorous comment.",
+        "Confidence": "85%"
+    }
+}

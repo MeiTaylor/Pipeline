@@ -1,0 +1,901 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - effects of directed energy weapons on fires real world",
+                "totalResults": "16100000",
+                "searchTerms": "effects of directed energy weapons on fires real world",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - effects of directed energy weapons on fires real world",
+                "totalResults": "16100000",
+                "searchTerms": "effects of directed energy weapons on fires real world",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.395171,
+        "formattedSearchTime": "0.40",
+        "totalResults": "16100000",
+        "formattedTotalResults": "16,100,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Science & Tech Spotlight: Directed Energy Weapons | U.S. GAO",
+                "htmlTitle": "Science &amp; Tech Spotlight: <b>Directed Energy Weapons</b> | U.S. GAO",
+                "link": "https://www.gao.gov/products/gao-23-106717",
+                "displayLink": "www.gao.gov",
+                "snippet": "May 25, 2023 ... These weapons use electromagnetic energy to cause effects ranging from deterrence to destruction. They offer capabilities that conventional\u00a0...",
+                "htmlSnippet": "May 25, 2023 <b>...</b> These <b>weapons</b> use electromagnetic <b>energy</b> to cause <b>effects</b> ranging from deterrence to destruction. They offer capabilities that conventional&nbsp;...",
+                "formattedUrl": "https://www.gao.gov/products/gao-23-106717",
+                "htmlFormattedUrl": "https://www.gao.gov/products/gao-23-106717",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJbw757NGN5ulLH6KAfUjOl4bnyykl5tVoNd-4py65JaLtVcnjdb2SyZq&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.gao.gov/assets/extracts/0b8929ada27613541e1914097f50b198/Fast_Facts_v1_105868-law_.png",
+                            "og:type": "Website",
+                            "og:image:width": "650",
+                            "og:image:alt": "Military laser weapon against a blue sky",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Science & Tech Spotlight: Directed Energy Weapons",
+                            "handheldfriendly": "true",
+                            "og:title": "Science & Tech Spotlight: Directed Energy Weapons",
+                            "og:image:height": "365",
+                            "og:image:type": "image/webp",
+                            "og:description": "Directed energy weapons\u2014such as lasers\u2014use energy fired at the speed of light. These weapons can produce force that ranges from deterrent, to damaging...",
+                            "twitter:creator": "@USGAO",
+                            "article:author": "U.S. Government Accountability Office",
+                            "twitter:image": "https://www.gao.gov/assets/extracts/0b8929ada27613541e1914097f50b198/Fast_Facts_v1_105868-law_.png",
+                            "twitter:site": "@USGAO",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Directed energy weapons\u2014such as lasers\u2014use energy fired at the speed of light. These weapons can produce force that ranges from deterrent, to damaging...",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.gao.gov/products/gao-23-106717"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.gao.gov/assets/extracts/0b8929ada27613541e1914097f50b198/Fast_Facts_v1_105868-law_.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Why This Matters\n----------------\nThere is a surge in interest in directed energy weapons from several nations\u2014including the U.S.\u2014primarily for counter drone missions. These weapons use electromagnetic energy to cause effects ranging from deterrence to destruction. They offer capabilities that conventional weapons may not, but challenges have so far prevented widespread operational use.\nThe Technology\n--------------\n**What is it?** Directed energy weapons (DEW) use concentrated electromagnetic energy to combat enemy forces and assets. These weapons include high energy lasers and other high power electromagnetics\u2014such as millimeter wave and high power microwave weapons. Unlike weapons that fire bullets or missiles, DEWs can respond to a threat in different ways. For example, they can temporarily degrade electronics on a drone or physically destroy it. See our 2022  for more information on counter-drone technology.\n**How does it work?** Each type of DEW uses a different region of the electromagnetic spectrum (see fig. 1). This spectrum describes all of the kinds of light\u2014including those the human eye cannot see\u2014and classifies them according to wavelength. Different types of electromagnetic energy have different properties. For example, the wavelength affects what the directed energy can penetrate\u2014such as metal or human skin.\n!\nFigure 1. Location of directed energy weapons on the electromagnetic spectrum.\nAll DEWs emit energy at the speed of light, and are often discussed in terms of their power output\u2014the amount of electromagnetic energy transferred over time...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The U.S. Government Accountability Office (GAO) is a highly credible source as a non-partisan agency that provides information to Congress about the financial implications of policy decisions. Their reports are fact-checked and based on thorough research. Although they do not focus solely on fake news detection, their commitment to transparency and factual accuracy earns them a high rating."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-05-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This resource discusses the general concept of directed energy weapons, including their capabilities and potential applications. It touches on factors like electromagnetic energy and operational challenges, but does not specifically address their visibility or direct effects in real-world fire incidents, which reduces its relevance to the current question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Directed Energy Weapons Are Real . . . And Disruptive > National ...",
+                "htmlTitle": "<b>Directed Energy Weapons</b> Are <b>Real</b> . . . And Disruptive &gt; National ...",
+                "link": "https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2053280/directed-energy-weapons-are-real-and-disruptive/",
+                "displayLink": "ndupress.ndu.edu",
+                "snippet": "Jan 9, 2020 ... While they are both part of the electromagnetic spectrum, laser and microwave weapons operate very differently and have very different effects.",
+                "htmlSnippet": "Jan 9, 2020 <b>...</b> While they are both part of the electromagnetic spectrum, <b>laser</b> and microwave <b>weapons</b> operate very differently and have very different <b>effects</b>.",
+                "formattedUrl": "https://ndupress.ndu.edu/.../directed-energy-weapons-are-real-and-disruptiv...",
+                "htmlFormattedUrl": "https://ndupress.ndu.edu/.../<b>directed</b>-<b>energy</b>-<b>weapons</b>-are-<b>real</b>-and-disruptiv...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUv16KwaiDgpQAHF1ZDDESD1YERzzmgJGbQBhR8sgF9FY2ALNiSZPHwC0&s",
+                            "width": "309",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.defense.gov/2020/Jan/09/2002232041/1920/1080/0/200109-D-BD104-009.JPG",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Directed Energy Weapons Are Real . . . And Disruptive",
+                            "og:type": "article",
+                            "og:site_name": "National Defense University Press",
+                            "og:title": "Directed Energy Weapons Are Real . . . And Disruptive",
+                            "rating": "GENERAL",
+                            "twitter:creator": "@ndupress",
+                            "og:description": "What exactly is a directed energy weapon? Are these weapons still science fiction, lab experiments, or are they real? How can they be used and how disruptive can they be? What are the challenges and",
+                            "twitter:image": "https://media.defense.gov/2020/Jan/09/2002232041/1920/1080/0/200109-D-BD104-009.JPG",
+                            "fb:app_id": "422911178092367",
+                            "twitter:site": "@ndupress",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "What exactly is a directed energy weapon? Are these weapons still science fiction, lab experiments, or are they real? How can they be used and how disruptive can they be? What are the challenges and",
+                            "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                            "host": "DMA Public Web",
+                            "resource-type": "DOCUMENT",
+                            "fb:article_style": "default",
+                            "og:url": "https%3A%2F%2Fndupress.ndu.edu%2FMedia%2FNews%2FNews-Article-View%2FArticle%2F2053280%2Fdirected-energy-weapons-are-real-and-disruptive%2F"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.defense.gov/2020/Jan/09/2002232041/1920/1080/0/200109-D-BD104-009.JPG"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "Download PDF Lieutenant General Henry \u201cTrey\u201d Obering, III, USAF (Ret.), is an Executive Vice President and Directed Energy Lead at Booz Allen Hamilton and the former Director of the Missile...",
+                            "headline": "Directed Energy Weapons Are Real . . . And Disruptive",
+                            "datepublished": "Jan. 9, 2020"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of directed energy weapons are depicted, from handheld light sabers to massive, spaceship-mounted laser cannons.\nWhat exactly is a directed energy weapon? Are these weapons still science fiction, lab experiments, or are they real? How can they be used and how disruptive can they be? What are the challenges and next steps? This article will examine answers to these questions.\nAccording to DOD\u2019s Joint Publication 3\u201313 Electronic Warfare, directed energy (DE) is described as an:\numbrella term covering technologies that produce a beam of concentrated electromagnetic energy or atomic or subatomic particles. A DE weapon is a system using DE primarily as a direct means to disable, damage or destroy adversary equipment, facilities, and personnel. DE warfare is military action involving the use of DE weapons, devices, and countermeasures to either cause direct damage or destruction of adversary equipment, facilities, and personnel, or to determine, exploit, reduce, or prevent hostile use of the electromagnetic spectrum (EMS) through damage, destruction, and disruption.1\nDE weapons include high-energy lasers, high-power radio frequency or microwave devices, and charged or neutral particle beam weapons.2 Microwaves and lasers are both part of the electromagnetic spectrum, which includes light energy and radio waves. The distinction between them is the wavelength/frequency of the energy. While they are both part of the electromagnetic spectrum, laser and microwave weapons operate very differently and have very different effects.\nThink of the difference between a laser pointer and a flashlight. The laser light is coherent in a single color, and the flashlight is broad-spectrum light. Because of its coherence, laser light can stay concentrated for very long distances\u2014even thousands of miles into space. But with laser weapons, instead of thinking in terms of a laser pointer, the mental image should be more like a powerful, long-range blowtorch!\nLasers can be categorized as gas, solid state, or a hybrid of the two. The lasers on the current path to weaponization include solid state combined fiber and crystal slab as well as hybrid lasers. Fiber lasers are lasers in which the active medium being used is an optical fiber that has been doped in rare elements, most often Erbium.3 Slab lasers represent one class of high-power solid-state lasers in which the laser crystal has the form of a slab.4 Hybrid lasers such as a diode pumped alkali laser use a combination of trace gas with semiconductor diode arrays for even higher power and efficiency.5\nThe destructive power of directed energy weapons (their lethality) derives from the amount of energy transferred to the target over time. This concentrated...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The National Defense University Press publishes scholarly research and articles relevant to defense and security issues. They are known for rigorous academic standards and factual reporting. However, their main focus is on military and defense studies, not specifically on fake news, thus slightly lowering their overall score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-01-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This article outlines the different types of directed energy weapons and their functions. It mentions how lasers can cause damage, but it does not directly analyze their visibility in terms of fire incidents. Still, it provides foundational knowledge that may inform discussions about their effects."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Directed Energy: The Focus on Laser Weapons Intensifies | RAND",
+                "htmlTitle": "<b>Directed Energy</b>: The Focus on <b>Laser Weapons</b> Intensifies | RAND",
+                "link": "https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html",
+                "displayLink": "www.rand.org",
+                "snippet": "Jan 25, 2024 ... DragonFire laser directed energy weapon fires during a trial of the weapon ... impacts on the real-world battlefields of today and tomorrow?",
+                "htmlSnippet": "Jan 25, 2024 <b>...</b> DragonFire laser <b>directed energy weapon fires</b> during a trial of the weapon ... <b>impacts</b> on the <b>real</b>-<b>world</b> battlefields of today and tomorrow?",
+                "formattedUrl": "https://www.rand.org/.../directed-energy-the-focus-on-laser-weapons-intens...",
+                "htmlFormattedUrl": "https://www.rand.org/.../<b>directed</b>-<b>energy</b>-the-focus-on-laser-<b>weapons</b>-intens...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "RAND Corporation"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4ZTakAF8TqimSrVRTC5-TlfBNiCcNjFuW24hv2tuWFofVQJZWYPph3I1&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/research_reports/RRA2721-1/_jcr_content/par/teaser.crop.308x173.ct.jpeg/1722277806213.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/perspectives/PEA739-1/_jcr_content/par/teaser.crop.308x173.cb.jpeg/1722350240991.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/commentary/2024/08/nato-bolsters-its-eastern-flank/_jcr_content/par/teaser.crop.308x173.ct.jpeg/1722559799109.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/commentary/2024/07/back-to-the-future-of-comms/_jcr_content/par/teaser.crop.308x173.ct.jpeg/1722384631564.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/presentations/PTA1890-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1722359091790.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/multimedia/podcasts/policy-currents/_jcr_content/par/teaser.crop.308x173.cm.png/1710506484913.png"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/about/people/c/courtney_william/_jcr_content/par/bio.crop.130x130.cm.jpeg/1626112002673.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/about/people/b/black_james/_jcr_content/par/bio.crop.130x130.cm.jpeg/1588257952544.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/capabilities/solutions/developing-strategies-for-summer-learning/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1666310927960.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/capabilities/solutions/improving-psychological-wellbeing-and-work-outcomes/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1626711171000.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/capabilities/solutions/planning-for-the-rising-costs-of-dementia/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1712161200762.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/capabilities/solutions/helping-coastal-communities-plan-for-climate-change/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1712161273352.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/about/people/m/mignano_jim/_jcr_content/par/bio.crop.130x130.cm.jpeg/1603244387735.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/about/people/v/villegas_carlos_a/_jcr_content/par/bio.crop.130x130.cm.jpeg/1603474506239.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies/_jcr_content/par/blogpost.crop.888x522.lt.jpeg/1706233235421.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/about/people/b/black_james/_jcr_content/par/bio.crop.56x56.cm.jpeg/1588257952544.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/research_reports/RRA1544-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1713812957232.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/research_reports/RRA654-1/_jcr_content/par/teaser.crop.308x173.cm.jpeg/1648166962702.jpeg"
+                        },
+                        {
+                            "contenturl": "https://www.rand.org/content/rand/pubs/commentary/2022/04/effective-use-of-nonlethal-weapons-could-require-combating/_jcr_content/par/teaser.crop.308x173.lt.jpeg/1686590573913.jpeg"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "location": "Santa Monica California"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://wwwassets.rand.org/content/rand/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies/jcr:content/par/teaser.crop.1200x900.lt.jpeg/1709142909482.jpeg",
+                            "twitter:card": "summary_large_image",
+                            "rand-teaser-description": "Directed energy weapons offer a more cost-efficient means of dealing with fast-proliferating threats. If the technology can be matured, such systems could tip both the military and economic calculus of modern warfare in their users' favor.",
+                            "rand-published-date": "20240125",
+                            "rand-content-type": "commentary",
+                            "og:description": "Directed energy weapons offer a more cost-efficient means of dealing with fast-proliferating threats. If the technology can be matured, such systems could tip both the military and economic calculus of modern warfare in their users' favor.",
+                            "twitter:image": "https://wwwassets.rand.org/content/rand/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies/jcr:content/par/teaser.crop.600x317.lt.jpeg/1709142909482.jpeg",
+                            "citation_online_date": "2024/1/25",
+                            "rand-teaser-image": "/content/rand/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies/jcr:content/par/teaser.crop.250x187.lt.jpeg/1709142909482.jpeg",
+                            "rand-date": "20240125",
+                            "division": "RAND Europe",
+                            "twitter:site": "@RANDCorporation",
+                            "dc.creator": "Black, James",
+                            "rand-content-category": "blog",
+                            "rand-teaser-image-alt": "DragonFire laser directed energy weapon fires during a trial of the weapon by the UK Ministry of Defense (MOD) at the MOD's Hebrides Range, January, 2024 , photo by UK Ministry of Defence/Open Government Licence",
+                            "title-terms": "Directed Energy: The Focus on Laser Weapons Intensifies",
+                            "rand-teaser-title": "Directed Energy: The Focus on Laser Weapons Intensifies",
+                            "twitter:title": "Directed Energy: The Focus on Laser Weapons Intensifies",
+                            "rand-teaser-type": "rand",
+                            "og:title": "Directed Energy: The Focus on Laser Weapons Intensifies",
+                            "rand-teaser-date": "20240125",
+                            "dc.contributor": "Black, James",
+                            "rand-domains": "{\"rand\":\"www.rand.org\",\"prgs\":\"www.pardeerand.edu\"}",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Directed energy weapons offer a more cost-efficient means of dealing with fast-proliferating threats. If the technology can be matured, such systems could tip both the military and economic calculus of modern warfare in their users' favor.",
+                            "rand-tag": "Directed Energy Weapons",
+                            "og:url": "https://www.rand.org/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://wwwassets.rand.org/content/rand/pubs/commentary/2024/01/directed-energy-the-focus-on-laser-weapons-intensifies/jcr:content/par/teaser.crop.1200x900.lt.jpeg/1709142909482.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *    explore threat assessment, military acquisition, technology, recruitment and personnel management, counterinsurgency, intelligence, and readiness. RAND is a world leader in terrorism research. Studies address such topics as terrorism financing and strategies to undermine violent extremism.\")\n    *   \n    *   \n    *   \n*   ### \n*   ### \n    #### By Research Area\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   ### \n    Drawing upon decades of experience, RAND provides research services, systematic analysis, and innovative thinking to a global clientele that includes government agencies, foundations, and private-sector firms.\n*   ### \n    #### Student Spotlight\n    *    ]\n        ##### \n        Assistant Policy Researcher, RAND; Ph.D. Student, Pardee RAND Graduate School\n    *    ]\n        ##### \n        Assistant Policy Researcher, RAND; Ph.D. Student, Pardee RAND Graduate School\n*   ### \n*   \n*   \n*   \n1.  \n2.  \n3.  \n4.  \nDirected Energy: The Focus on Laser Weapons Intensifies\n-------------------------------------------------------\n !\nDragonFire laser directed energy weapon fires during a trial of the weapon by the UK Ministry of Defense (MOD) at the MOD's Hebrides Range, January, 2024\nPhoto by UK Ministry of Defence/Open Government Licence\nThe robotic craft swoops in low, closing on its target. The enemy's sensors try to get a fix, as the planet surface races past below. In an instant, a beam reaches out from below at the speed of light, the high-powered laser burning through its target. This is not Star Wars: This is Scotland, last week, where the UK Ministry of Defence and its industry partners conducted the first successful firing of their DragonFire laser weapon against an aerial target.\nWith this trial, the culmination of \u00a3100 million of investment to date, the United Kingdom joined other nations racing to develop and deploy what are known in military parlance as directed energy weapons (DEW). Though the technology is yet to mature, the United States has begun to deploy early laser weapons on several of its naval destroyers, as well as testing ground- and air-based versions.\nFollowing the October 7 attacks by Hamas, Israel has sought to expedite development of its own Iron Beam laser weapon to help shoot down incoming rockets and drones, augmenting the kinetic interceptors of its Iron Dome missile defence system. China, Russia, France, India,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The RAND Corporation is a non-profit global policy think tank whose research is regarded as highly credible and extensive. Their reports on a wide array of issues, including technology and security, are well-regarded for their accuracy and thoroughness. Their commitment to evidence-based research supports their role in combating misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses ongoing developments in directed energy weapons, particularly from a military perspective. However, it lacks specific details about their effects or visibility in real-world fire contexts, making it less relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Directed-energy weapon - Wikipedia",
+                "htmlTitle": "<b>Directed</b>-<b>energy weapon</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Directed-energy_weapon",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Directed-energy weapon ... This article is about real uses of directed energy weapons. For fictional uses, see Raygun. \"DEW\" redirects here. For other uses, see\u00a0...",
+                "htmlSnippet": "<b>Directed</b>-<b>energy weapon</b> ... This article is about <b>real</b> uses of <b>directed energy weapons</b>. For fictional uses, see Raygun. &quot;DEW&quot; redirects here. For other uses, see&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Directed-energy_weapon",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Directed</b>-<b>energy</b>_weapon",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Warszawa%2C_Marsz_Niepodleg%C5%82o%C5%9Bci_2011_06.jpg/1200px-Warszawa%2C_Marsz_Niepodleg%C5%82o%C5%9Bci_2011_06.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Directed-energy weapon - Wikipedia",
+                            "og:image:height": "803",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "This article is about real uses of directed energy weapons. For fictional uses, see .\n]\nPolice car equipped with an \\-500X sonic weapon (Warsaw, Poland, 2011).\nA **directed-energy weapon** (**DEW**) is a  that damages its target with highly focused  without a solid projectile, including , , , and sound beams. Potential applications of this technology include weapons that target , , vehicles, and optical devices.]]\nIn the United States, , , the , , and the  are researching directed-energy weapons to counter , , and . These systems of missile defense are expected to come online no sooner than the mid to late-2020s.]\nChina,]]]] France,]]]] Germany,]] the United Kingdom,]] Russia,]]] India,]]] Israel,]]] and Pakistan]]] are also developing military-grade directed-energy weapons, while Iran]]]] and Turkey claim to have them in active service.]]] The first use of directed-energy weapons in combat between military forces was claimed to have occurred in Libya in August 2019 by Turkey, which claimed to use the  \"ALKA (DEWS)\").] After decades of , most directed-energy weapons are still at the experimental stage and it remains to be seen if or when they...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wikipedia can be a useful starting point for research due to its vast array of information; however, its open-editing model means that its content can be prone to inaccuracies and vandalism. While many articles are well-sourced, users should always verify information against primary and reputable sources. Its utility in detecting fake news is limited because of the variability in article quality, which earns it a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "The Wikipedia entry provides a broad overview of directed energy weapons, including their existence in various militaries. However, it does not provide insights into visible effects or real-world incidences of fire, limiting its utility for the current question."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Hawaii wildfires: 'Directed energy weapon' and other false claims go ...",
+                "htmlTitle": "Hawaii <b>wildfires</b>: &#39;<b>Directed energy weapon</b>&#39; and other false claims go ...",
+                "link": "https://www.bbc.com/news/world-us-canada-66457091",
+                "displayLink": "www.bbc.com",
+                "snippet": "Aug 16, 2023 ... ... fires were deliberately set or that their real cause is being hidden from the public. One post on X, the platform formerly known as Twitter\u00a0...",
+                "htmlSnippet": "Aug 16, 2023 <b>...</b> ... <b>fires</b> were deliberately set or that their <b>real</b> cause is being hidden from the public. One post on X, the platform formerly known as Twitter&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-66457091",
+                "htmlFormattedUrl": "https://www.bbc.com/news/<b>world</b>-us-canada-66457091",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq4wLJUR01YrMBQnR7ADNoPjrRUWovSVV9W32GUFx15-skQewnyFzFyb0&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/10C7A/production/_130803786_lahaina_firertr.jpg",
+                            "twitter:title": "Hawaii wildfires: 'Directed energy weapon' and other false claims go viral",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Lahaina fire",
+                            "theme-color": "#ffffff",
+                            "og:title": "Hawaii wildfires: 'Directed energy weapon' and other false claims go viral",
+                            "og:description": "Rumours that the disaster was orchestrated by elites with a laser have been seen by millions.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/10C7A/production/_130803786_lahaina_firertr.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Lahaina fire",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Rumours that the disaster was orchestrated by elites with a laser have been seen by millions."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/10C7A/production/_130803786_lahaina_firertr.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a viral clip shared on TikTok in May showing a transformer explosion in Chile.\nChilean TV network Chilevisi\u00f3n ran a report on the viral video, confirming the explosion was the result of a blown transformer caused by strong wind.\nAn image of a church on fire in Hawaii has been viewed 9 million times, with claims it shows a laser beam striking it. \nBut it has been digitally altered. The original image - of the Waiola Church in Lahaina in flames on 8 August - has no laser beam or ray of light visible.\nTwo other false images have been racking up huge numbers of views.\nOne shows a fireball and a bright streak of light rising up towards the night sky. It, too, has been accompanied by claims that wildfires are not a natural phenomenon. \nBut a search on the internet for previous versions of this image reveals the photo shows a controlled burn at an Ohio oil refinery and was first posted online in January 2018. The streak of light, known as a \"light pillar\", is an optical illusion formed by reflections off ice crystals on a cold day.\nA similar image claims to show a huge beam of light in Maui just before the wildfires. But it shows the launch of a SpaceX Falcon 9 rocket in California in May 2018.\nThere are claims circulating about videos from Maui showing some trees still standing while houses and vehicles have been burned, with people pointing to the pictures as \"evidence\" that the fires were deliberately set or that their real cause is being hidden from the public.\nOne post on X, the platform formerly known as Twitter, includes a video of the destruction and the message: \"Everything is burnt but the trees, but don't point that out or you're a conspiracy theorist.\" \nThat post - which has been seen more than 24 million times - has been challenged by X's Community Notes feature, where users add context and facts around viral content. \nDr Rory Hadden, senior lecturer and expert in fire investigations at the University of Edinburgh, told BBC Verify that it is common for trees to remain standing even after severe wildfires because \"burning through a large piece of wood takes a long time\", \"thick pieces of wood are usually not able to sustain burning on their own\" and \"the high moisture content of trees will also make them hard to burn\".\nSome plants, known as pyrophytes, have also adapted to survive wildfires due to thermal insulation or other means.\nAlongside the \"directed energy weapon\" rumours, speculation spread in viral posts that some of the island's rich inhabitants and second-home owners deliberately started the wildfires to grab valuable land in Lahaina.\nOne viral video includes claims by a podcaster that native landowners...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The BBC is a reputable international news organization known for its commitment to journalistic integrity and facts. It employs rigorous editorial standards and has a long history of reliable reporting. The BBC's investigations into misinformation surrounding events like the Maui wildfires enhance its credibility as a source for fact-checking and exposing fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This BBC article directly refutes claims about directed energy weapons influencing the Maui wildfires, detailing misinformation and providing insights from fire experts. It strongly addresses the visibility and misconceptions surrounding weapons in fire incidents, making it highly relevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Directed energy weapons making jump from sci-fi to real world",
+                "htmlTitle": "<b>Directed energy weapons</b> making jump from sci-fi to <b>real world</b>",
+                "link": "https://www.c4isrnet.com/battlefield-tech/2023/09/18/directed-energy-weapons-making-jump-from-sci-fi-to-real-world/",
+                "displayLink": "www.c4isrnet.com",
+                "snippet": "Sep 18, 2023 ... A handful of the warplanes break formation, ultimately bound for farther-flung targets, as volleys of neon green anti-aircraft fire erupt.",
+                "htmlSnippet": "Sep 18, 2023 <b>...</b> A handful of the warplanes break formation, ultimately bound for farther-flung targets, as volleys of neon green anti-aircraft <b>fire</b> erupt.",
+                "formattedUrl": "https://www.c4isrnet.com/.../directed-energy-weapons-making-jump-from-s...",
+                "htmlFormattedUrl": "https://www.c4isrnet.com/.../<b>directed</b>-<b>energy</b>-<b>weapons</b>-making-jump-from-s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJTOHtYQSzThDD4a7l6e0fvf2Ta_YfimJvBbplHcQ1AfIEgAndqCQUyg&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.c4isrnet.com/resizer/XWTv89UUUgFelgMv1g4_0QpWOUs=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/2GYBUHR63VCNLIPV2GRNFZQU3M.jpg",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "hsl(358deg, 71%, 49%)",
+                            "article:published_time": "2023-09-18T09:01:28.205Z",
+                            "og:site_name": "C4ISRNet",
+                            "canonicalurl": "https://www.c4isrnet.com/battlefield-tech/2023/09/18/directed-energy-weapons-making-jump-from-sci-fi-to-real-world/",
+                            "og:tags": "dn-dnr, directed-energy, halo, master-chief, spartan-laser, epirus, lockheed-martin, drone, thomas-withington, leonidas, pentagon, circulated-c4isrnet, circulated-defense-news, c4isrnet",
+                            "og:description": "The U.S. Army, Air Force and Navy are all, right now, attempting to fold directed-energy systems into offensive and defensive capabilities.",
+                            "circulated": "c4isrnet,defense-news",
+                            "twitter:site": "@c4isrnet",
+                            "article:modified_time": "2023-09-19T19:45:39.15Z",
+                            "datemodified": "2023-09-19T19:45:39.15Z",
+                            "articlesection": "Battlefield Tech",
+                            "datepublished": "2023-09-18T09:01:28.205Z",
+                            "iscanonical": "true",
+                            "sailthru.date": "September 18, 2023 5:01 AM",
+                            "article:section": "Battlefield Tech",
+                            "author": "Colin Demarest",
+                            "og:title": "Directed energy weapons making jump from sci-fi to real world",
+                            "canonical": "c4isrnet",
+                            "fb:pages": "291448617173, 25695254496, 61924502489, 83721537518, 65986997382, 248242239645, 70531852030, 525449530843973, 298378097222468",
+                            "site": "C4ISRNet",
+                            "fb:app_id": "544105185785696",
+                            "viewport": "width=device-width, initial-scale=1.00, maximum-scale=1.5, minimum-scale=1.0",
+                            "og:url": "https://www.c4isrnet.com/battlefield-tech/2023/09/18/directed-energy-weapons-making-jump-from-sci-fi-to-real-world/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "datemodified": "2023-09-19T19:45:39.15Z",
+                            "articlesection": "Battlefield Tech",
+                            "author": "Colin Demarest",
+                            "publisher": "https://www.c4isrnet.com/#publisher",
+                            "description": "The U.S. Army, Air Force and Navy are all, right now, attempting to fold directed-energy systems into offensive and defensive capabilities.",
+                            "headline": "Directed energy weapons making jump from sci-fi to real world",
+                            "datepublished": "2023-09-18T09:01:28.205Z"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.c4isrnet.com/resizer/XWTv89UUUgFelgMv1g4_0QpWOUs=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/2GYBUHR63VCNLIPV2GRNFZQU3M.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "author": "Jen Judson",
+                            "description": "The Army is grappling with how to fight with laser weapons, as well as how to easily repair them in the field and affordably make the systems.",
+                            "headline": "US Army working through challenges with laser weapons"
+                        },
+                        {
+                            "description": "The Air Force plans to field at least 1,000 of the drones by the late 2030s.",
+                            "headline": "Air Force picks five firms to build autonomy package for drone wingmen"
+                        },
+                        {
+                            "description": "The study could drive changes to future tranches of Space Development Agency and Space Systems Command satellites.",
+                            "headline": "Space Force mulling nuclear protection for missile-tracking satellites"
+                        },
+                        {
+                            "description": "The new undersecretary of defense would lead requirements development and integration efforts among the U.S. and its allies.",
+                            "headline": "Undersecretary for international cooperation needed, DOD advisers say"
+                        },
+                        {
+                            "description": "The Pentagon held its first GIDE industry day on Tuesday, an effort to solidify a process for companies to integrate C2 tools into future experiments.",
+                            "headline": "Pentagon to expand industry pool for CJADC2 experimentation"
+                        },
+                        {
+                            "description": "The Defense Acquisition Program Administration said it will deploy at least one anti-air laser weapons system \u2014 called \u201cBlock-I\u201d \u2014 this year.",
+                            "headline": "South Korea to deploy laser weapons to intercept North Korean drones"
+                        },
+                        {
+                            "headline": "What did the Gaza pier mission accomplish? | Defense News Weekly Full Episode 7.27.24"
+                        },
+                        {
+                            "headline": "Financial choices to consider before your child leaves for college \u2014 Money Minute"
+                        },
+                        {
+                            "headline": "Air Force pushes new aerial battle management platform forward"
+                        },
+                        {
+                            "headline": "The Gaza pier mission: was the joint Army-Navy aid effort worth it?"
+                        },
+                        {
+                            "headline": "Air Force picks five firms to build autonomy package for drone wingmen"
+                        },
+                        {
+                            "headline": "Space Force mulling nuclear protection for missile-tracking satellites"
+                        },
+                        {
+                            "headline": "Navigating fed cybersecurity: Strategies to achieve network compliance"
+                        },
+                        {
+                            "headline": "RTX cyber and intel business becomes Nightwing following sale"
+                        },
+                        {
+                            "headline": "Air Force, Space Force join Army for Bring-Your-Own-Device enrollment"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Featured:\nWASHINGTON \u2014 Five Pelican dropships and two Phantom troop carriers glide into view near snowcapped hills on a world with biomes similar to Earth\u2019s. A handful of the warplanes break formation, ultimately bound for farther-flung targets, as volleys of neon green anti-aircraft fire erupt.\nDespite some dodging, the fire proves accurate, and one of the Pelicans is hit. It veers violently forward and smacks into another just in front. A cry for help is heard; then, an explosion. A voice over the radio warns of the dicey disembark to come.\n\u201cBrace yourselves.\u201d\nAnd, as players of Bungie\u2019s smash-hit video game \u201cHalo 3\u2033 regain control of Master Chief Petty Officer John-117, the virtual super-soldier hoists to his shoulder what millions of gamers have affectionately nicknamed the \u201cSpartan Laser,\u201d a hulking, fearsome weapon powered by futuristic battery cells.\nAn E3 attendee wears Master Chief's helmet during an Xbox briefing. (Robyn Beck/AFP via Getty Images) \nWhen primed with a squeeze and hold of the controller\u2019s trigger, the device unleashes a blast of directed energy capable of devastating multiple targets, virtual infantry and armored opponents. Heat management forces downtime between shots, a nod to the realities that often limit fire in real weapons.\nWhile such immensely powerful devices have long been a staple of computer games, movies and science-fiction novels, success in fielding practical weapons that can zap targets on...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "C4ISRNET covers military and defense technology, related news, and analysis. While it provides informative content, its focused niche may limit its broader applicability to general misinformation detection. It is reasonably credible but isn\u2019t primarily focused on fake news, so it receives a decent score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article discusses the transition of directed energy weapons from theoretical to practical applications but does not focus specifically on their visibility or effects related to fire incidents, making it moderately relevant."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "TIL of the \"electrolaser\", a real world directed-energy weapon which ...",
+                "htmlTitle": "TIL of the &quot;electrolaser&quot;, a <b>real world directed</b>-<b>energy weapon</b> which ...",
+                "link": "https://www.reddit.com/r/todayilearned/comments/37wnp3/til_of_the_electrolaser_a_real_world/",
+                "displayLink": "www.reddit.com",
+                "snippet": "May 31, 2015 ... TIL of the \"electrolaser\", a real world directed-energy weapon which fires laser-guided lightning bolts. When fired, a laser forms a channel of\u00a0...",
+                "htmlSnippet": "May 31, 2015 <b>...</b> TIL of the &quot;electrolaser&quot;, a <b>real world directed</b>-<b>energy weapon</b> which <b>fires</b> laser-guided lightning bolts. When fired, a laser forms a channel of&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/.../37wnp3/til_of_the_electrolaser_a_real_world/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../37wnp3/til_of_the_electrolaser_a_<b>real</b>_<b>world</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV27vnMSSRf_a1PRIEwshZiMaehpgGf8fFkrRJHaqnYh8AXiaTsmsE0Uqk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/lPGkL2AF02e4Uvh5ZqPa1vqZJdqNKUMJHzYNFqmbrOo.jpg?auto=webp&s=a2c0a30f53a35250c224c074fe47a9b9c4a9ab8a",
+                            "theme-color": "#000000",
+                            "og:image:width": "702",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/todayilearned on Reddit: TIL of the \"electrolaser\", a real world directed-energy weapon which fires laser-guided lightning bolts. When fired, a laser forms a channel of supercharged plasma out of the surrounding air, creating a path for the lightning and also causing a sonic boom.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/todayilearned on Reddit: TIL of the \"electrolaser\", a real world directed-energy weapon which fires laser-guided lightning bolts. When fired, a laser forms a channel of supercharged plasma out of the surrounding air, creating a path for the lightning and also causing a sonic boom.",
+                            "og:image:height": "469",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/lookslikeyoureSOL - 307 votes and 36 comments",
+                            "twitter:image": "https://external-preview.redd.it/lPGkL2AF02e4Uvh5ZqPa1vqZJdqNKUMJHzYNFqmbrOo.jpg?auto=webp&s=a2c0a30f53a35250c224c074fe47a9b9c4a9ab8a",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/todayilearned/comments/37wnp3/til_of_the_electrolaser_a_real_world/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/lPGkL2AF02e4Uvh5ZqPa1vqZJdqNKUMJHzYNFqmbrOo.jpg?auto=webp&s=a2c0a30f53a35250c224c074fe47a9b9c4a9ab8a"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a social media platform that aggregates a wide variety of user-generated content. While it can be a source of community-driven information and sometimes truthful insights, it is not a reliable source for factual information due to the possibility of misinformation spreading and the lack of editorial oversight. Its usefulness in fake news detection is minimal, pushing its score lower."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2015-05-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This Reddit entry introduces an unusual theoretical weapon, which is not widely recognized or mentioned in the context of directed energy weapons affecting real-world fire incidents. Its relevance is minimal."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Pew Pew Lasers! What would directed energy weapons actually ...",
+                "htmlTitle": "Pew Pew Lasers! What would <b>directed energy weapons</b> actually ...",
+                "link": "https://worldbuilding.stackexchange.com/questions/33112/pew-pew-lasers-what-would-directed-energy-weapons-actually-sound-like",
+                "displayLink": "worldbuilding.stackexchange.com",
+                "snippet": "Jan 12, 2016 ... In space, no-one (else) can really hear your weapon fire, unless their ship's sensors can detect the weapon firing (by its electromagnetic\u00a0...",
+                "htmlSnippet": "Jan 12, 2016 <b>...</b> In space, no-one (else) can really hear your <b>weapon fire</b>, unless their ship&#39;s sensors can detect the <b>weapon</b> firing (by its electromagnetic&nbsp;...",
+                "formattedUrl": "https://worldbuilding.stackexchange.com/.../pew-pew-lasers-what-would-di...",
+                "htmlFormattedUrl": "https://<b>world</b>building.stackexchange.com/.../pew-pew-lasers-what-would-<b>di</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV78oW7IkhknrnqheoPzMzQytY2CqVgim5azW5bcwZwcxeSCUAexxT9VE&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/worldbuilding/Img/apple-touch-icon@2.png?v=763f4decb9a7",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/worldbuilding/Img/apple-touch-icon@2.png?v=763f4decb9a7",
+                            "name": "Pew Pew Lasers! What would directed energy weapons actually sound like?",
+                            "description": "Anybody who has consumed a space opera movie, tv show, or video games knows that energy weapons go pew-pew. I however want to do something more creative for my setting, and with truth being strange..."
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/worldbuilding/Img/apple-touch-icon.png?v=d99e410ec002",
+                            "upvotecount": "52",
+                            "commentcount": "17",
+                            "answercount": "5",
+                            "name": "Pew Pew Lasers! What would directed energy weapons actually sound like?",
+                            "datecreated": "2016-01-12T01:55:08",
+                            "text": "Anybody who has consumed a space opera movie, tv show, or video games knows that energy weapons go pew-pew. I however want to do something more creative for my setting, and with truth being...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "67",
+                            "commentcount": "5",
+                            "text": "In space, no-one (else) can really hear your weapon fire, unless their ship's sensors can detect the weapon firing (by its electromagnetic signature) and provide an artificial audible feedback....",
+                            "datecreated": "2016-01-12T02:25:32",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "32",
+                            "commentcount": "6",
+                            "text": "A laser weapon fired in the atmosphere will essentially create a crack of thunder as the beam heats the air in its path. The sudden expansion of the air will create a low pressure channel,...",
+                            "datecreated": "2016-01-12T02:39:43",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "16",
+                            "commentcount": "4",
+                            "text": "I pulled aside an old friend of mine who has a PhD in this stuff. He promptly explained that a laser this powerful will typically produce a phenomenon called self-focusing. Self-Focusing This...",
+                            "datecreated": "2016-01-12T03:49:33",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "6",
+                            "text": "This topic was a favourite amongst \"fellow Nerds\" at Be'er Shiva University, in Israel, many years ago. It was agreed almost universally that a laser-type or maser-type \"weapon\" would produce...",
+                            "datecreated": "2016-01-12T22:03:38",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "commentcount": "10",
+                            "text": "If the shot is supersonic and mass-less (laser or energy), then no sound would be made by the projectile. If the shot is supersonic and has mass, then the projectile will break the sound barrier...",
+                            "datecreated": "2016-01-12T02:10:49",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Trismegistus"
+                        },
+                        {
+                            "name": "Monty Wild"
+                        },
+                        {
+                            "name": "Thucydides"
+                        },
+                        {
+                            "name": "user6511"
+                        },
+                        {
+                            "name": "Fred Kerns"
+                        },
+                        {
+                            "name": "Gabe Willard"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/worldbuilding/Img/apple-touch-icon@2.png?v=763f4decb9a7",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Pew Pew Lasers! What would directed energy weapons actually sound like?",
+                            "og:site_name": "Worldbuilding Stack Exchange",
+                            "twitter:domain": "worldbuilding.stackexchange.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "Anybody who has consumed a space opera movie, tv show, or video games knows that energy weapons go pew-pew. I however want to do something more creative for my setting, and with truth being strange...",
+                            "og:url": "https://worldbuilding.stackexchange.com/questions/33112/pew-pew-lasers-what-would-directed-energy-weapons-actually-sound-like"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/worldbuilding/Img/apple-touch-icon@2.png?v=763f4decb9a7"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... cause a sound. $\\\\endgroup$\n    \u2013\u00a0\n    Commented Jan 12, 2016 at 10:41\n*   2\n    $\\\\begingroup$ An energy weapon of any sort probably has a built in high capacity capacitor. In the late '70s and '80s there was a trend to attach a little beeper to systems like that fro an audible feedback of them getting ready to use. That is the high pitched noise getting somewhat higher until it reaches a certain frequency. That is a sound an energy weapon could generate. $\\\\endgroup$\n    \u2013\u00a0\n    Commented Jan 12, 2016 at 12:05\n\u00a0|\u00a0 \n5 Answers 5\n-----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\n67\n$\\\\begingroup$\nIn space, no-one (else) can really _hear_ your weapon fire, unless their ship's sensors can detect the weapon firing (by its electromagnetic signature) and provide an artificial audible feedback. This could be anything from \"Pew\" or \"Zap\" or \"crack\" to \"Energy weapons fire detected bearing...\".\nIn an atmosphere, the audible signature of the weapon depends on the power of the weapon. Where the power of an energy weapon is high enough to ionise the air it passes through, the cessation of the beam results in the low-pressure ionised path it carved in the atmosphere collapsing with a crack or a bang, the loudness increasing and the pitch decreasing with the diameter of the ionised path.  in an atmosphere typically make a distinctive crack or bang with each pulse.\nThe weapon itself may be entirely silent, or it may make a quiet, high-pitched whine similar to the charging capacitors in a camera flash. Indeed, many solid rod lasers are pumped using flash tubes, so this high-energy capacitor whine would be entirely in-character.\nIt is possible that a weapon might whine quietly, the pitch increasing as charge accumulates, holding at a high pitch when full charge is reached and maintained, followed by a crack as the weapon is fired and a quiet, low, rising tone as the weapon charges again.\nFollow \nanswered Jan 12, 2016 at 2:25\n]\n\u2666Monty Wild\n63.5k1212 gold badges141141 silver badges318318 bronze badges\n$\\\\endgroup$\n5\n*   1\n    $\\\\begingroup$ What about plasma weapons, my instinctive answers was. Given that lightning is plasma, and that ball-lightning a stable bubble of plasma would hold the key to creating a plaSma bolt. That an actual...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This is a community-driven site focused on creative writing and world-building. While it excels in its niche, it doesn\u2019t contribute to reliability in factual news or misinformation detection. Users often create content based on fiction or hypothetical scenarios, resulting in potentially misleading conclusions about real-world events."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-01-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The content refers to sounds associated with directed energy weapons but does not address effects in fire incidents or their visibility, making it not very relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Visions for the next 40 years of U.S. Department of Defense Directed ...",
+                "htmlTitle": "Visions for the next 40 years of U.S. Department of Defense <b>Directed</b> ...",
+                "link": "https://www.afrl.af.mil/Portals/90/Documents/RD/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf",
+                "displayLink": "www.afrl.af.mil",
+                "snippet": "Jul 16, 2021 ... This document was authored by the Office of the U.S. Air Force's Chief Scientist for Directed. Energy, Air Force Research Laboratory,\u00a0...",
+                "htmlSnippet": "Jul 16, 2021 <b>...</b> This document was authored by the Office of the U.S. Air Force&#39;s Chief Scientist for <b>Directed</b>. <b>Energy</b>, Air Force Research Laboratory,&nbsp;...",
+                "formattedUrl": "https://www.afrl.af.mil/.../Directed_Energy_Futures_2060_Final29June21_...",
+                "htmlFormattedUrl": "https://www.afrl.af.mil/.../<b>Directed</b>_<b>Energy</b>_Futures_2060_Final29June21_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20210709085355-06'00'",
+                            "creationdate": "D:20210629095202-04'00'",
+                            "creator": "Adobe InDesign 16.2 (Windows)",
+                            "producer": "Adobe PDF Library 15.0"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Air Force Research Laboratory's site provides reliable research and information pertaining to air and space technology. While it provides facts about directed energy research, its potential usefulness outside of military technology contexts may limit its application in a general misinformation assessment. Nonetheless, it's a credible source."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-07-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This document discusses the future of directed energy weapons and their strategic implications, yet fails to deliver specific insights into the impact of such weapons on fire incidents, limiting its relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Video claiming to show a directed-energy weapon is actually an ...",
+                "htmlTitle": "Video claiming to show a <b>directed</b>-<b>energy weapon</b> is actually an ...",
+                "link": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-dew-explosion-russia-185319331205",
+                "displayLink": "apnews.com",
+                "snippet": "Aug 14, 2023 ... THE FACTS: In the aftermath of the deadly Maui wildfires, social media users have shared altered and miscaptioned images, falsely claiming\u00a0...",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> THE FACTS: In the aftermath of the deadly Maui <b>wildfires</b>, social media users have shared altered and miscaptioned images, falsely claiming&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-maui-hawaii-wildfires-dew-explosion-russ...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-maui-hawaii-wild<b>fires</b>-dew-explosion-russ...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQXqnLkhkJXmhKnOR41j_atC3woArOPtmxXW08tl2OOs6Hrxth7w7qFv8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-14T23:17:41.093",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "THE FACTS: In the aftermath of the deadly Maui wildfires, social media users have shared altered and miscaptioned images, falsely claiming they prove a baseless conspiracy theory that the fires were started by a directed-energy weapon.",
+                            "twitter:creator": "@melissa_goldin",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "twitter:image:alt": "AP News Verification",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-17T17:22:35.053",
+                            "brightspot.contentid": "00000189-f654-db3e-a7bf-f65c57470000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "og:image:alt": "AP News Verification",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Video claiming to show a directed-energy weapon is actually an edited clip of an explosion in Russia",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-08-14 19:17:41\",\n  \"dimension10\" : \"MELISSA GOLDIN\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Video claiming to show a directed-energy weapon is actually an edited clip of an explosion in Russia",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-14T19:17:41.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Video claiming to show a directed-energy weapon is actually an edited clip of an explosion in Russia\",\n  \"authors\" : [ \"MELISSA GOLDIN\" ]\n}",
+                            "article:author": "https://apnews.com/author/melissa-goldin",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "THE FACTS: In the aftermath of the deadly Maui wildfires, social media users have shared altered and miscaptioned images, falsely claiming they prove a baseless conspiracy theory that the fires were started by a directed-energy weapon.",
+                            "og:url": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-dew-explosion-russia-185319331205",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Video claiming to show a directed-energy weapon is actually an edited clip of an explosion in Russia\",\n  \"publication_date\" : \"2023-08-14 19:17:41\",\n  \"author\" : \"MELISSA GOLDIN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 3269,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/3e4f6a7/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2Fdd%2F5766495c4b7ead46b3c6d9f9a51f%2Fap-news-verification.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "A video of a laser beam starting an explosion",
+                            "url": "https://apnews.com/article/fact-check-maui-hawaii-wildfires-dew-explosion-russia-185319331205"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-maui-hawaii-wildfires-dew-explosion-russia-185319331205: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-maui-hawaii-wildfires-dew-explosion-russia-185319331205",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Associated Press is an internationally recognized news organization known for its factual reporting and journalistic integrity. It adheres to stringent fact-checking standards and reports on a broad spectrum of news topics. AP News is adept at identifying and correcting misinformation, which earns it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This AP News article provides a fact-check specifically refuting claims about directed energy weapons in Maui, discussing manipulated images and misinformation. It directly addresses the credibility of the claim, making it highly relevant to evaluating the overall accuracy of the claims presented in this context."
+                }
+            }
+        }
+    ]
+}

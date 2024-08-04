@@ -1,0 +1,178 @@
+{
+    "Question": "What scientific principles explain why holding a key fob to the head might increase its range?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question requires in-depth understanding of scientific principles that are not fully explained in the provided content, necessitating additional research.",
+        "Queries": {
+            "Query1": {
+                "query": "How do key fobs work and transmit signals?",
+                "searching_goal": "Provide detailed and specific explanations regarding the operation of key fobs, focusing on the technical aspects of their signal transmission."
+            },
+            "Query2": {
+                "query": "Does holding a device to the head amplify radio signals?",
+                "searching_goal": "Investigate the effects of human anatomy on radio signal amplification, exploring the principles behind any signal amplification caused by holding a key fob to the head."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Key fobs are constantly broadcasting a signal that communicates ...",
+            "link": "https://news.ycombinator.com/item?id=18608624",
+            "snippet": "In typical designs, the car continually transmits a low-frequency (e.g., 135 kHz) radio signal to wake up any wireless keys within range. When a key receives ...",
+            "content": {
+                "content": "Hacker News new | past | comments | ask | show | jobs | submit\tlogin\nsnarfy on Dec 5, 2018 | parent | context | favorite | on: Thieves boosting signal from key fobs inside homes...\n> Key fobs are constantly broadcasting a signal that communicates with a specific vehicle, he said, and when it comes into a close enough range, the vehicle will open and start.\nWhy is it transmitting without the user pressing a button? Is that a feature? As you walk up to the car it automatically starts like magic? I'm not familiar with these newer cars.\nwsh on Dec 5, 2018 | next \nYes, it’s a feature, so you don’t have to remove the key from a bag or pocket to enter or start the car.\nIn typical designs, the car continually transmits a low-frequency (e.g., 135 kHz) radio signal to wake up any wireless keys within range. When a key receives this signal, it replies with a VHF (e.g., 315 MHz) signal, and the car unlocks or starts when a door is opened or the start button is pressed.\nThe reply signal, at least, is uniquely coded to the car. The attack is to extend the range of the LF wake-up signal, causing a key stored away from the car to transmit a valid reply.\nIn some models, besides the transponder described above, the key also has a passive RFID tag, which works with a reader in the car to allow starting even if the battery in the key is dead.\n(The article is wrong about the broadcasts, by the way; if the key transmitted continually, its battery wouldn’t last long.)\nryandrake on Dec 5, 2018 | parent | next \nThis is insane. Please tell me this is an option that non-insane consumers can get their car without. Fortunately I drive an old car so this does not affect me—yet. If I ever have to replace mine, this looks like yet-another-misfeature I’ll have to look out for to avoid.\nwhyaduck on Dec 5, 2018...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "Hacker News is a social news website focusing primarily on computer science and entrepreneurship-related articles. It enables a wide variety of discussions and is frequented by informed users who often share credible information. While the community can provide valuable insights, much of the content is user-generated, making some discussions less reliable than professional journalism. The site is good for trends in technology, but specific automotive claims may need deeper verification."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This evidence discusses how key fobs communicate with vehicles using radio waves, specifically mentioning low-frequency wake-up signals from the car and the VHF reply from the fob. It implies the existence of a propagation mechanism, which could correlate with the claim that holding a fob to one's head increases its range by acting as an amplifier. It does not delve deeply into the mechanics but hints at the basic principles involved that could explain the phenomenon."
+            },
+            "total_score": 23
+        },
+        {
+            "title": "Stop car hacking by keeping your key fob in a metal (coffee) can",
+            "link": "https://www.freep.com/story/money/cars/2023/12/30/stop-car-hacking-by-keeping-your-key-fob-in-a-metal-coffee-can/72048564007/",
+            "snippet": "Dec 30, 2023 ... To prevent car theft. How it works ... A top global cybersecurity expert says the threat of car theft now is greater than ever and urges taking ...",
+            "content": {
+                "content": "A top global cybersecurity expert says the threat of car theft now is greater than ever and urges taking simple precautions to prevent car owners from becoming victims of tech-savvy criminals.\nThieves have perfected the art of stealing the code from that key fob sitting on a kitchen counter or hung on a hook by the door. And tools that make theft fast and easy can be purchased on the internet. Worse, the latest theft devices allow criminals to amplify a vehicle's radio signal so that thieves can better access and copy the key fob signal to steal a vehicle\n\"The problem is, this is not a story, it's reality,\" Moshe Shlisel, a veteran of the Israeli Air Force and now CEO of GuardKnox Cyber Technologies, told the Detroit Free Press by phone from his office in Ramla, Israel.\nThis whole situation revolves around \"smart\" key systems that use nonsecure commercial radio waves to signal when the key fob is near or inside the vehicle, he said. These key fobs allow car owners to unlock the door, start the engine or even open the trunk from far away. But that's not all.\n\"You may think of your car key as little more than a tool to start the car. But have you ever considered that it may also be the best tool to prevent your car from being stolen?\" says AAA on its .\n!\nHow thieves car-hack victims\n----------------------------\nCar thieves...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "The Detroit Free Press is a reputable news organization with a record of journalistic integrity. While they focus on local news, they cover a variety of topics, including automotive news, reflecting the industry's importance in the region. Articles are generally well-researched and fact-checked, making it a good source for credible information, including claims about key fobs."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-12-30"
+            },
+            "Relevance": {
+                "RelevanceScore": 5,
+                "Relevance Justification": "This source discusses issues related to key fob security that could indirectly relate to signal amplification. It suggests that the convenience of smart key fobs relies on their ability to transmit signals over a distance but does not specifically address the role of body position in increasing range."
+            },
+            "total_score": 23
+        },
+        {
+            "title": "How Do Key Fobs Work? - John M Jennings",
+            "link": "https://johnmjennings.com/how-do-key-fobs-work/",
+            "snippet": "Aug 16, 2019 ... Future generations won't know that we used to use actual keys to unlock and start our cars. Key fobs transmit a radio signal to the car and if ...",
+            "content": {
+                "content": "How Do Key Fobs Work? - John M Jennings\n=============== \n!     \n]\n*   \n    *   \n*   \n    *   \n*   \n    *   \n*   \n*   \n*   \n*   \n*   \nSelect Page\nHow Do Key Fobs Work?\n---------------------\nby  | Aug 16, 2019\n!\n!\n**Key fobs for remotely locking/unlocking car doors are standard equipment at this point** and **keyless ignitions using key fob recognition is now standard in over 60% of new car models** according to Edmonds. Future generations won’t know that we used to use actual keys to unlock and start our cars.\nKey fobs transmit a radio signal to the car and if the car recognizes the transmission as coming from the right fob(s) it will perform the command encoded in the radio transmission.\n**All key fobs of U.S. manufacturers use a radio signal frequency of 315 MHz** and foreign models us 433.92 MHz. Because all fobs use just one of two frequencies, **the security relies on both the fob (transmitter) and car electronics (receiver) knowing the same code which changes after every press of the key fob button** (or otherwise communicating with each other). Both the transmitter and receiver know the code numbers as they change because they are **programmed with the same code generating algorithm.** So, both the car and fob know what code number will be next due to sharing an algorithm.\nThe mathematics of the quasi-randomly generated codes is that it is **about a one-in-a-billion chance that a car would mistakenly unlock** because of a duplicate code transmission from a wrong fob.\n**What happens if you press the key fob button when you aren’t in range of the car?** Now the car receiver and fob transmitter are no longer in sync as the fob will move one code number ahead of the car receiver. This...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 5,
+                "justification": "This website appears to be a personal blog by author John M. Jennings, which focuses on various topics. The credibility and accuracy vary since it heavily depends on personal opinion and anecdotal evidence. Without professional standards or peer review, the information cannot be fully trusted, particularly for scientific or technical claims like those regarding key fob technology."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2019-08-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This source explains the frequencies used by key fobs and how they transmit signals to the car, but it does not provide scientific principles that would directly explain the claim about holding a fob to one’s head. It establishes a basic understanding of key fob functionality but stops short of clarifying any amplification effects."
+            },
+            "total_score": 18
+        }
+    ],
+    "Query2": [
+        {
+            "title": "Why does a remote car key work when held to your head/body ...",
+            "link": "https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body",
+            "snippet": "Mar 4, 2014 ... I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head.",
+            "content": {
+                "content": "[Content truncated]...   Put key next to my head (it worked)\n*   Put key on my chest (it worked)\n*   Put key on my leg (didn't work)\nSo first I thought it has to do with height of the transmitter. But I am out of range if I use the key at the same height as my head but not right next to my head. Same applies when my key is at the same height as my chest. So it has nothing to do with height (as it appears).\nThen I thought, my body is acting like an antenna, but how is that possible if I am holding the key? Why would it only amplify the signal if I hold it against my head and not if I simply hold it into my hand?\n.\n*   \n*   \n*   \n*   \nShare a link to this question\nCopy link\nCite\nFollow \nFollow this question to receive notifications\nYababaa\nasked Mar 4, 2014 at 15:12\n]\nYababaa\n2,23944 gold badges1818 silver badges2323 bronze badges\n7\n*   2\n      is some sort of explanation. \n    – \n*   8\n     You left your tin foil hat on? :-) \n    – \n*   7\n     Related:  \n    – \n*   4\n     If you really want an answer to this, you should , not a physicist. \n    – \n*   1\n     The skeptic answer, in the skeptics SE, is horrible :-( Armchair quoting from internet, plus standard blurb about confirmation bias. Tell about groupthinking to these guys. \n    – \n |  \n8 Answers 8\n-----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\nThis answer is useful\n127\nSave this answer.\nShow activity on this post.\nThis is a really interesting question. It turns out that your body is reasonably conductive (think salt water, more on that in the answer to ), and that it can couple to RF sources capacitively. Referring to the ; they typically operate at an RF frequency of 315 MHz315 MHz, the wavelength of which is about 1 m1 m. Effective antennas (ignoring ) typically have a length of λ2\\=12m≈1.5 ftλ2\\=12m≈1.5 ft.\nSo, the effect is probably caused by one or...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "This is a question-and-answer site focused specifically on physics and related mathematics. The community consists of scientists and enthusiasts who provide answers based on established scientific principles. Information is usually well-researched and cited, making it a credible source for evaluating claims that relate to physics, such as the effects of holding a key fob to the head as an amplifier."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2014-03-04"
+            },
+            "Relevance": {
+                "RelevanceScore": 9,
+                "Relevance Justification": "This Stack Exchange post provides a detailed explanation that links the human body and head acting as an effective antenna for RF signals due to its conductive properties. It directly addresses how the key fob's range can be improved when it is placed near the head, making it highly relevant to the question and claim."
+            },
+            "total_score": 28
+        },
+        {
+            "title": "Why does holding a key fob to your head increase its range ...",
+            "link": "https://news.ycombinator.com/item?id=38921441",
+            "snippet": "A more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.",
+            "content": {
+                "content": "Hacker News new | past | comments | ask | show | jobs | submit\tlogin\n\tWhy does holding a key fob to your head increase its range? (physics.stackexchange.com)\n\t603 points by jasonhansel 6 months ago | hide | past | favorite | 147 comments\nJohnythree 6 months ago | next \nA more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.\nIf however you tested it with the fob somewhat isolated it would then be out of tune.\neg in the factory it would be tuned at a set distance from a \"dummy body\".\nIt's the same with a walkie-talkie radio. The antenna must be tuned when held in the hand, as your body provides the missing earth or ground-plane.\nYou can easily demonstrate this. Mount an antenna on a ground-plane with a length of coax, a SWR meter and a transmitter. Tune the antenna so the SWR is 1:1 and then move you hand close to the antenna. Once your hand gets withing a wavelength or so, the effect of the \"detuning\" can be readily seen on the SWR meter.\njpk 6 months ago | parent | next \nThis reminds me of a class in college where one project was to make a waveguide WiFi antenna. You know the ones; often built out of a Pringles can.\nOn the day the project was due, we each demo'd our antennas and the instructor recorded their range, SNR, etc. Most in the class followed the Pringles...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "Although primarily a discussion platform for tech and startup news, the quality of discussions can vary widely. Users often share links to quality content, but the site primarily aggregates content rather than verifying it. While tech-savvy, it doesn’t offer dedicated checks for accuracy, so while you might find good insights, consider it more of a mixed bag."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 9,
+                "Relevance Justification": "This Hacker News post suggests that the transmitter of the key fob is likely tuned to output a stronger signal when near the body due to the effects of tuning and resonance. This explanation provides a scientific basis for the amplification effect, making it very relevant to the claim."
+            },
+            "total_score": 25
+        },
+        {
+            "title": "Tech Myth: Holding the Car Remote to Your Head Increases Its ...",
+            "link": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+            "snippet": "May 4, 2009 ... ... increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic?",
+            "content": {
+                "content": " This entry comes to you courtesy of the fact that I’ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car’s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic? \n Although it sounds absolutely bonkers when you first hear it (and actually it sounds just as crazy even after you do some research on it), this actually works. And for good reason, too: The oral cavity and fluids in your skull do some kind of crazy wizardry to the remote signal when you’re holding the key fob to your chin. It’s kind of like the reason why those ancient “rabbit ear” TV antennas gave you better reception when you were touching them. \n The New York Times asked a Silicon Valley radio engineer, Tim Pozar, for his take on how the trick turns your head into a DIY antenna. \n If you ask William Van Winkle, it’s a lot more than a few car lengths. He wrote this article for Tom’s Guide earlier this month and totally confirmed that it increased his car’s remote control effectiveness by about twice the length that it was before: \n Great trick! \n The home you love starts here\n The home you love starts here\nMore From Us\nFollow along\nNewsletter\nEnjoy a daily dose of house tours, before & afters, decorating hacks, and more.\n© 2024 Apartment Therapy, LLC / Terms of UsePrivacy PolicyEU and US State Data Subject Requests",
+                "content_tokens": 371
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "Apartment Therapy is a home and lifestyle website with a focus on design and tips for living spaces. While it offers tips and informative content, it may not focus on scientific accuracy or verification. It’s useful for lifestyle topics but should not be prioritized for assessing technical claims like the one regarding key fobs."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2009-05-04"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "The article discusses the idea of human anatomy acting as an amplifier for the remote signal, providing a plausible scientific angle similar to some others but does not elaborate much on the specifics. Nonetheless, it supports the concept that there may be a physical interaction, giving it a good relevance score."
+            },
+            "total_score": 24
+        }
+    ],
+    "RelevantEvidence": {
+        "Query2_evidence_1": {
+            "title": "Why does a remote car key work when held to your head/body ...",
+            "link": "https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body",
+            "snippet": "Mar 4, 2014 ... I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head.",
+            "content": "[Content truncated]...   Put key next to my head (it worked)\n*   Put key on my chest (it worked)\n*   Put key on my leg (didn't work)\nSo first I thought it has to do with height of the transmitter. But I am out of range if I use the key at the same height as my head but not right next to my head. Same applies when my key is at the same height as my chest. So it has nothing to do with height (as it appears).\nThen I thought, my body is acting like an antenna, but how is that possible if I am holding the key? Why would it only amplify the signal if I hold it against my head and not if I simply hold it into my hand?\n.\n*   \n*   \n*   \n*   \nShare a link to this question\nCopy link\nCite\nFollow \nFollow this question to receive notifications\nYababaa\nasked Mar 4, 2014 at 15:12\n]\nYababaa\n2,23944 gold badges1818 silver badges2323 bronze badges\n7\n*   2\n      is some sort of explanation. \n    – \n*   8\n     You left your tin foil hat on? :-) \n    – \n*   7\n     Related:  \n    – \n*   4\n     If you really want an answer to this, you should , not a physicist. \n    – \n*   1\n     The skeptic answer, in the skeptics SE, is horrible :-( Armchair quoting from internet, plus standard blurb about confirmation bias. Tell about groupthinking to these guys. \n    – \n |  \n8 Answers 8\n-----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\nThis answer is useful\n127\nSave this answer.\nShow activity on this post.\nThis is a really interesting question. It turns out that your body is reasonably conductive (think salt water, more on that in the answer to ), and that it can couple to RF sources capacitively. Referring to the ; they typically operate at an RF frequency of 315 MHz315 MHz, the wavelength of which is about 1 m1 m. Effective antennas (ignoring ) typically have a length of λ2\\=12m≈1.5 ftλ2\\=12m≈1.5 ft.\nSo, the effect is probably caused by one or...[Content truncated]"
+        },
+        "Query2_evidence_2": {
+            "title": "Why does holding a key fob to your head increase its range ...",
+            "link": "https://news.ycombinator.com/item?id=38921441",
+            "snippet": "A more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.",
+            "content": "Hacker News new | past | comments | ask | show | jobs | submit\tlogin\n\tWhy does holding a key fob to your head increase its range? (physics.stackexchange.com)\n\t603 points by jasonhansel 6 months ago | hide | past | favorite | 147 comments\nJohnythree 6 months ago | next \nA more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.\nIf however you tested it with the fob somewhat isolated it would then be out of tune.\neg in the factory it would be tuned at a set distance from a \"dummy body\".\nIt's the same with a walkie-talkie radio. The antenna must be tuned when held in the hand, as your body provides the missing earth or ground-plane.\nYou can easily demonstrate this. Mount an antenna on a ground-plane with a length of coax, a SWR meter and a transmitter. Tune the antenna so the SWR is 1:1 and then move you hand close to the antenna. Once your hand gets withing a wavelength or so, the effect of the \"detuning\" can be readily seen on the SWR meter.\njpk 6 months ago | parent | next \nThis reminds me of a class in college where one project was to make a waveguide WiFi antenna. You know the ones; often built out of a Pringles can.\nOn the day the project was due, we each demo'd our antennas and the instructor recorded their range, SNR, etc. Most in the class followed the Pringles...[Content truncated]"
+        },
+        "Query2_evidence_3": {
+            "title": "Tech Myth: Holding the Car Remote to Your Head Increases Its ...",
+            "link": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+            "snippet": "May 4, 2009 ... ... increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic?",
+            "content": " This entry comes to you courtesy of the fact that I’ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car’s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic? \n Although it sounds absolutely bonkers when you first hear it (and actually it sounds just as crazy even after you do some research on it), this actually works. And for good reason, too: The oral cavity and fluids in your skull do some kind of crazy wizardry to the remote signal when you’re holding the key fob to your chin. It’s kind of like the reason why those ancient “rabbit ear” TV antennas gave you better reception when you were touching them. \n The New York Times asked a Silicon Valley radio engineer, Tim Pozar, for his take on how the trick turns your head into a DIY antenna. \n If you ask William Van Winkle, it’s a lot more than a few car lengths. He wrote this article for Tom’s Guide earlier this month and totally confirmed that it increased his car’s remote control effectiveness by about twice the length that it was before: \n Great trick! \n The home you love starts here\n The home you love starts here\nMore From Us\nFollow along\nNewsletter\nEnjoy a daily dose of house tours, before & afters, decorating hacks, and more.\n© 2024 Apartment Therapy, LLC / Terms of UsePrivacy PolicyEU and US State Data Subject Requests"
+        }
+    },
+    "QA": {
+        "Question": "What scientific principles explain why holding a key fob to the head might increase its range?",
+        "Answer": "Holding a car's key fob to your head may increase its effective range due to several scientific principles related to how radio signals interact with the human body.\n\n1. **Body as an Antenna**: The human body can function analogously to an antenna due to its conductive properties. When you hold the key fob close to your head, your body enhances the transmission of the signal. This happens because the body can couple with radio frequency (RF) sources capacitively, effectively amplifying the output from the fob's transmitter. The frequency used by car key fobs (around 315 MHz) means the size and shape of the human body can improve the signal due to the body's dimensions being comparable to the wavelength of the signal.\n\n2. **Tuning of the Signal**: It's suggested that key fob transmitters are often optimized to work best when near a human body. The signal the key fob emits is tuned for the presence of a nearby body, which provides a reference ground or 'earth plane' that is necessary for the optimal performance of many antennas. This means that when distancing the key fob from the body, such as when it is held in hand, the signal may be less effective due to detuning.\n\n3. **Amplification Effects**: Holding the key fob at the head introduces a surface that can amplify the signal. The oral cavity and the fluids in your skull can create a resonance effect, somewhat akin to how certain TV antennas work better when physically contacted. Experts liken this to how “rabbit ear” antennas could pick up signals with better reception when touched.\n\nIn summary, the combination of the human body acting as an antenna and the tuning of the key fob's signal for use near the body creates a scenario where simply holding the key fob to the head can effectively increase the operating range of the device.",
+        "Confidence": "85%"
+    }
+}

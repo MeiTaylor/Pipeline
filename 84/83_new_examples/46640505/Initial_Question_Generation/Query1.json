@@ -1,0 +1,708 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - North Korea internet access video authenticity analysis",
+                "totalResults": "81900000",
+                "searchTerms": "North Korea internet access video authenticity analysis",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - North Korea internet access video authenticity analysis",
+                "totalResults": "81900000",
+                "searchTerms": "North Korea internet access video authenticity analysis",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.395507,
+        "formattedSearchTime": "0.40",
+        "totalResults": "81900000",
+        "formattedTotalResults": "81,900,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "North Koreans Want External Information, But Kim Jong-Un Seeks to ...",
+                "htmlTitle": "<b>North Koreans</b> Want External Information, But Kim Jong-Un Seeks to ...",
+                "link": "https://www.csis.org/analysis/north-koreans-want-external-information-kim-jong-un-seeks-limit-access",
+                "displayLink": "www.csis.org",
+                "snippet": "May 15, 2019 ... Ambassador Robert R. King discusses the importance of continuing efforts to increase access to outside information for the North Korean ...",
+                "htmlSnippet": "May 15, 2019 <b>...</b> Ambassador Robert R. King discusses the importance of continuing efforts to increase <b>access</b> to outside information for the <b>North Korean</b>&nbsp;...",
+                "formattedUrl": "https://www.csis.org/analysis/north-koreans-want-external-information-kim...",
+                "htmlFormattedUrl": "https://www.csis.org/<b>analysis</b>/<b>north</b>-<b>korea</b>ns-want-external-information-kim...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHHwyVBOUBj6JfE6m_7dk3FrBammuMltuFyHtkaJu1KBpM6y-yRfM3afg&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Wed, 05/15/2019 - 12:00",
+                            "og:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190515_north_korea_info.jpg",
+                            "citation_title": "North Koreans Want External Information, But Kim Jong-Un Seeks to Limit Access",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "North Koreans Want External Information, But Kim Jong-Un Seeks to Limit Access",
+                            "handheldfriendly": "true",
+                            "og:title": "North Koreans Want External Information, But Kim Jong-Un Seeks to Limit Access",
+                            "citation_author": "Robert R. King",
+                            "twitter:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/190515_north_korea_info.jpg",
+                            "twitter:site": "@CSIS",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Ambassador Robert R. King discusses the importance of continuing efforts to increase access to outside information for the North Korean people and the Kim Jong-un’s regime efforts to limit access to foreign news, information and culture.",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/styles/500_x_300/s3/publication/190515_north_korea_info.jpg?VersionId=UDqMREl0V6I4CPI4yf.ahHmPt5TqZ6Qn&h=266da715&itok=Fro7kmtY"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... is used principally at work or at school. Since the signature system works on devices with the Android operating system, foreign content has been less thoroughly policed on computers. North Korea’s Red Star computer operating system appears to be less effective in rooting out non-sanctioned files.\nIn addition to the digital monitoring carried out by security officials, North Korean security personnel of “Group 109” are commissioned to root out foreign media or foreign information content. Their methods involve physically inspecting digital media to find foreign media that may be stored which has not been eliminated by digital monitoring. Almost two-thirds of respondents to the InterMedia survey had personally experienced an inspection by Group 109. These unfriendly in-person encounters have no doubt increased the fear of foreign media consumption. As a result, more casual use of foreign media has been discouraged.\nThus, it appears that the aggressive digital and security personnel enforcement of the ban on foreign media has had some effect in discouraging access to sources of external information. It appears that foreign television viewership—via direct TV but more so through DVD and UBS programs—has continued to grow, but other types of foreign media consumption have not shown increases.\nThe intensity of North Korea’s struggle to limit access to foreign news, information, and culture reflects Kim Jong-un’s conviction that foreign media represents a significant challenge to his totalitarian regime. The influence of South Korean dramas, open media, K-Pop, fashion, and cosmetics in North Korea does represent a threat to one party rule. And that makes it all the more important that efforts continue to provide increased access to outside information for the people of North Korea.\n_Ambassador Robert R. King is a senior adviser in the Office of the Korea Chair at the Center for Strategic and International Studies in Washington, D.C. Previously, Ambassador King served as special envoy for North Korean human rights issues at the U.S. Department of State from November 2009 to January 2017._\n**_Commentary_** **is produced by the Center for Strategic and International Studies (CSIS), a private, tax-exempt institution focusing on international public policy issues. Its research is nonpartisan and nonproprietary. CSIS does not take specific policy positions. Accordingly, all views, positions, and conclusions expressed in this publication should be understood to be solely those of the author(s).**\n**© 2019 by the Center for Strategic and International Studies. All rights reserved.**",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "The Bizarre Reality of Getting Online in North Korea | WIRED",
+                "htmlTitle": "The Bizarre Reality of Getting Online in <b>North Korea</b> | WIRED",
+                "link": "https://www.wired.com/story/internet-reality-north-korea/",
+                "displayLink": "www.wired.com",
+                "snippet": "Jun 8, 2023 ... New testimony from defectors reveals pervasive surveillance and monitoring of limited internet connections. For millions of others, ...",
+                "htmlSnippet": "Jun 8, 2023 <b>...</b> New testimony from defectors reveals pervasive surveillance and monitoring of limited <b>internet connections</b>. For millions of others,&nbsp;...",
+                "formattedUrl": "https://www.wired.com/story/internet-reality-north-korea/",
+                "htmlFormattedUrl": "https://www.wired.com/story/<b>internet</b>-reality-<b>north</b>-<b>korea</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAu2LEXZv-iU2Rk0zE_Hs6iSB4280jpbUs4j5Mmh-N13j-5R7diJ3-Ck&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.wired.com/photos/6481274ada92561daff93b10/191:100/w_1280,c_limit/N_Korea_Surv_Final.jpg",
+                            "copyright": "Copyright (c) Condé Nast 2024",
+                            "article:published_time": "2023-06-08T05:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "WIRED",
+                            "parsely-metadata": "{\"description\":\"New testimony from defectors reveals pervasive surveillance and monitoring of limited internet connections. For millions of others, the internet simply doesn't exist.\",\"image-16-9\":\"https://media.wired.com/photos/6481274ada92561daff93b10/16:9/w_1000,c_limit/N_Korea_Surv_Final.jpg\",\"image-1-1\":\"https://media.wired.com/photos/6481274ada92561daff93b10/1:1/w_1000,c_limit/N_Korea_Surv_Final.jpg\"}",
+                            "og:description": "New testimony from defectors reveals pervasive surveillance and monitoring of limited internet connections. For millions of others, the internet simply doesn't exist.",
+                            "twitter:creator": "@wired",
+                            "twitter:image": "https://media.wired.com/photos/6481274ada92561daff93b10/191:100/w_1280,c_limit/N_Korea_Surv_Final.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@wired",
+                            "article:modified_time": "2023-06-08T05:00:00.000Z",
+                            "news_keywords": "censorship,north korea,surveillance,privacy",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "6481274a40f1b0ff578445e2",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "The Bizarre Reality of Getting Online in North Korea",
+                            "parsely-post-id": "6481274a40f1b0ff578445e2",
+                            "twitter:domain": "https://www.wired.com",
+                            "pinterest:image": "https://media.wired.com/photos/6481274ada92561daff93b10/2:3/w_1000,h_1500,c_limit/N_Korea_Surv_Final.jpg",
+                            "author": "Condé Nast",
+                            "og:title": "The Bizarre Reality of Getting Online in North Korea",
+                            "fb:pages": "19440638720",
+                            "article:author": "Matt Burgess",
+                            "fb:app_id": "719405864858490",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "New testimony from defectors reveals pervasive surveillance and monitoring of limited internet connections. For millions of others, the internet simply doesn't exist.",
+                            "og:url": "https://www.wired.com/story/internet-reality-north-korea/",
+                            "google-signin-client_id": "904266558061-dqllerrg1949kl0dfu2k64nhvhtqoee0.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.wired.com/photos/6481274ada92561daff93b10/191:100/w_1280,c_limit/N_Korea_Surv_Final.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "For 25 million North Koreans, the internet is an impossibility. Only a few thousand privileged members of the hermit kingdom’s society can access the global internet, while even the country’s heavily censored internal intranet is out of reach for the majority of the population. Getting access to free and open information isn’t an option.\nNew research from South Korea-based human rights organization People for Successful Corean Reunification (Pscore) details the reality for those who—in very limited circumstances—manage to get online in . The report reveals a days-long approval process to gain internet access, after which monitors sit next to people while they browse and approve their activities every five minutes. Even then, what can be accessed reveals little about the world outside North Korea’s borders.\nDocumentation from the NGO is being presented today at the human rights conference RightsCon and sheds light on the regime with the most limited internet freedoms, which fall far below the restrictive and surveilled internet access in  and . For millions of people in North Korea, the internet simply doesn’t exist.\n“I was taught about the World Wide Web, and even had to memorize it for an exam, but I only knew about the internet in theory,” one North Korean defector who left the country told Pscore researchers. “I knew it was a sort of network where you can search but didn’t actually know what it was.” Another said they didn’t “know the concept of Wi-Fi,” let alone have any clue about Google.\nGetting an accurate picture of what happens within Kim Jong Un’s sealed-off state is incredibly challenging. Officials control all information flows and present state propaganda to the world. Analysts turn to those who escape and defect, at great personal risk, for a glimpse of North Korean reality. Pscore’s internet freedom report is based on 24 face-to-face interviews with defectors and a survey of 158 others. All left North Korea between 2012 and 2022.\nThe report says North Korean researcher Kim Suk-Han—all defector names within the research are pseudonyms for safety reasons—used the internet five times when they were living in the country. They had used the internet while on a trip to China and so had high expectations, they told the researchers. Instead, they faced...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Cisco Annual Internet Report (2018–2023) White Paper",
+                "htmlTitle": "Cisco Annual <b>Internet</b> Report (2018–2023) White Paper",
+                "link": "https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html",
+                "displayLink": "www.cisco.com",
+                "snippet": "Quantitative projections are provided on the growth of Internet users, devices and connections as well as network performance and new application requirements.",
+                "htmlSnippet": "Quantitative projections are provided on the growth of <b>Internet</b> users, devices and <b>connections</b> as well as <b>network</b> performance and new application requirements.",
+                "formattedUrl": "https://www.cisco.com/c/en/us/...internet.../white-paper-c11-741490.html",
+                "htmlFormattedUrl": "https://www.cisco.com/c/en/us/...<b>internet</b>.../white-paper-c11-741490.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQFN8o9z7GNupz5LIwsjWetjY4XoChxmjUTjPoLs2QQN1aBgeLsFAZhI&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/products-services-optics.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/security-default-offer-card.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/cx-default-offer-card.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/networking-cloud.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/security-secure-access.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/webex.jpg",
+                            "caption": "webex"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/computing-intersight.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/application-performance-appdynamics.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/software-trials-demos.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/cx-default-offer-card.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/solutions-ai.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/solutions-rei-apps.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/solutions-default-secure-enterprise.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/managed-services.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/smb-free-trials.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-cisco-u.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/training-bootcamps-default.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/events-calendar-default.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-cisco-u.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/netacad-default.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-webinars.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-events.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-videos-l3-unite-the-edge.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/learn-hybrid-work.jpg"
+                        },
+                        {
+                            "contenturl": "https://www.cisco.com/content/dam/cisco-cdc/site/images/header/voc-industrial-iot-city.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "Sun Jan 23 09:14:08 PST 2022",
+                            "country": "US",
+                            "og:image": "https://www.cisco.com/web/fw/i/logo-open-graph.gif",
+                            "og:site_name": "Cisco",
+                            "iapath": "cisco.com#Networking Solutions#Executive Perspectives#Cisco Annual Internet Report",
+                            "concept": "Cisco Annual Internet Report",
+                            "accesslevel": "Customer",
+                            "language": "en",
+                            "title": "Cisco Annual Internet Report - Cisco Annual Internet Report (2018–2023) White Paper",
+                            "locale": "US",
+                            "og:description": "The Cisco Annual Internet Report is a global forecast/analysis that assesses digital transformation across various business segments (enterprise, small-to-medium business, public sector, and service provider). The report covers fixed broadband, Wi-Fi, and mobile (3G, 4G, 5G) networking. Quantitative projections are provided on the growth of Internet users, devices and connections as well as network performance and new application requirements.",
+                            "rei": "3/2/2022 10.39am est",
+                            "entitlementexpression": "contains( \"0,1,2,3,4,7\" , $profileField[3] )",
+                            "templatename": "eot-toc",
+                            "documentid": "1581982188726264",
+                            "ccid_page": "cc001784",
+                            "og:type": "website",
+                            "handheldfriendly": "True",
+                            "iocontentsource": "WEM",
+                            "og:title": "Cisco Annual Internet Report - Cisco Annual Internet Report (2018–2023) White Paper",
+                            "contenttype": "cisco.com#US#preSales",
+                            "doctype": "Networking Solutions White Paper",
+                            "fb:app_id": "156494687694418",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "320",
+                            "og:url": "https://www.cisco.com/c/en/us/solutions/collateral/executive-perspectives/annual-internet-report/white-paper-c11-741490.html",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cisco.com/web/fw/i/logo-open-graph.gif"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Solutions",
+                            "name": "Solutions",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Digital Transformation powered by Value Engineering",
+                            "name": "Digital Transformation powered by Value Engineering",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Cisco Annual Internet Report",
+                            "name": "Cisco Annual Internet Report",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Executive summary\nThe Cisco Annual Internet Report is a global forecast/analysis that assesses digital transformation across various business segments (enterprise, small-to-medium business, public sector, and service provider). The report covers fixed broadband, Wi-Fi, and mobile (3G, 4G, 5G) networking. Quantitative projections are provided on the growth of Internet users, devices and connections as well as network performance and new application requirements. Qualitative analyses and assessments are also provided in four strategic areas: applications, security, infrastructure transformation, and empowering employees and teams.\nGlobal Internet adoption and devices and connection\n**Internet users**\nNearly two-thirds of the global population will have Internet access by 2023. There will be 5.3 billion total Internet users (66 percent of global population) by 2023, up from 3.9 billion (51 percent of global population) in 2018.\n**Devices and connections**\n**The number of devices connected to IP networks will be more than three times the global population by 2023.** There will be 3.6 networked devices per capita by 2023, up from 2.4 networked devices per capita in 2018. There will be 29.3 billion networked devices by 2023, up from 18.4 billion in 2018.\n**M2M connections will be half of the global connected devices and connections by 2023.** The share of Machine-To-Machine (M2M) connections will grow from 33 percent in 2018 to 50 percent by 2023. There will be 14.7 billion M2M...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "10 Most Censored Countries - Committee to Protect Journalists",
+                "htmlTitle": "10 Most Censored Countries - Committee to Protect Journalists",
+                "link": "https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/",
+                "displayLink": "cpj.org",
+                "snippet": "Sep 10, 2019 ... Self-censorship is pervasive. In the top three countries–Eritrea, North Korea, and Turkmenistan–the media serves as a mouthpiece of the state, ...",
+                "htmlSnippet": "Sep 10, 2019 <b>...</b> Self-censorship is pervasive. In the top three countries–Eritrea, <b>North Korea</b>, and Turkmenistan–the media serves as a mouthpiece of the state,&nbsp;...",
+                "formattedUrl": "https://cpj.org/.../10-most-censored-eritrea-north-korea-turkmenistan-journ...",
+                "htmlFormattedUrl": "https://cpj.org/.../10-most-censored-eritrea-<b>north</b>-<b>korea</b>-turkmenistan-journ...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMSD3paFmT2kTOwKMERV9KjH9i2l31GCoHvAkBiiO4z35c144RQa3xnlU&s",
+                            "width": "355",
+                            "height": "142"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://cpj.org/wp-content/uploads/2020/05/rt_header_vietnam.jpg?fit=4096,4096&strip=all&quality=80",
+                            "msapplication-config": "https://cpj.org/wp-content/themes/cpj/icons/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1000",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Committee to Protect Journalists",
+                            "og:title": "10 Most Censored Countries - Committee to Protect Journalists",
+                            "og:image:height": "400",
+                            "twitter:label1": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://cpj.org/wp-content/themes/cpj/icons/mstile-150x150.png",
+                            "og:description": "Repressive governments use sophisticated digital censorship and surveillance alongside more traditional methods to silence independent media. A special report by the Committee to Protect Journalists. Published September 10, 2019 Eritrea is the world’s most censored country, according to a list compiled by the Committee to Protect Journalists. The list is based on CPJ’s research into the...",
+                            "article:publisher": "https://www.facebook.com/committeetoprotectjournalists/",
+                            "twitter:image": "https://cpj.org/wp-content/uploads/2020/05/rt_header_vietnam.jpg?fit=4096,4096&strip=all&quality=80",
+                            "twitter:data1": "15 minutes",
+                            "twitter:site": "@CPJAfrica",
+                            "article:modified_time": "2022-02-01T21:29:44+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://cpj.org/reports/2019/09/10-most-censored-eritrea-north-korea-turkmenistan-journalist/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cpj.org/wp-content/uploads/2020/05/rt_header_vietnam.jpg?fit=4096,4096&strip=all&quality=80"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "_Repressive governments use sophisticated digital censorship and surveillance alongside more traditional methods to silence independent media. **A special report by the Committee to Protect Journalists.**_\n**_Published September 10, 2019_**\nEritrea is the world’s most censored country, according to a list compiled by the Committee to Protect Journalists. The list is based on CPJ’s research into the use of tactics ranging from imprisonment and repressive laws to surveillance of journalists and restrictions on internet and social media access.\n* * *\n1.  \n2.  \n3.  \n4.  \n5.  \n6.  \n7.  \n8.  \n9.  \n10.  \nUnder  of the Universal Declaration of Human Rights, everyone has the right to seek and receive news and express opinions. These 10 countries flout the international standard by banning or severely restricting independent media and intimidating journalists into silence with imprisonment, digital and physical surveillance, and other forms of harassment. Self-censorship is pervasive.\nIn the top three countries–Eritrea, North Korea, and Turkmenistan–the media serves as a mouthpiece of the state, and any independent journalism is conducted from exile. The few foreign journalists permitted to enter are closely monitored.\nOther countries on the list use a combination of blunt tactics like harassment and arbitrary detention as well as sophisticated surveillance and targeted hacking to silence the independent press. Saudi Arabia, China, Vietnam, and Iran are especially adept at practicing these two brands of censorship: jailing and harassing journalists and their families, while also engaging in digital monitoring and censorship of the internet and social media.\nThe list addresses only those countries where the government tightly controls the media. The conditions for journalists and press freedom in states such as , , and  are also extremely difficult, but not necessarily attributable solely to government censorship. Rather, factors like violent conflict, insufficient infrastructure, and the role of non-state actors create conditions that are dangerous for the press.\n* * *\n*   \n*   \n*   \n*   \n* * *\n*   \n*   \n*   \n*   \n*   \n*   \n1\\. Eritrea\n-----------\n**Leadership:** President Isaias Afewerki, in power since 1993.\n**How censorship works:** The government  all independent media in 2001. Eritrea is the  in sub-Saharan Africa...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Digital 2023: Global Overview Report — DataReportal – Global ...",
+                "htmlTitle": "<b>Digital</b> 2023: Global Overview Report — DataReportal – Global ...",
+                "link": "https://datareportal.com/reports/digital-2023-global-overview-report",
+                "displayLink": "datareportal.com",
+                "snippet": "Jan 26, 2023 ... Rich insights into evolving social media platform preferences. Changes in the devices that people use to access digital content and services.",
+                "htmlSnippet": "Jan 26, 2023 <b>...</b> Rich insights into evolving social media platform preferences. Changes in the devices that people use to <b>access digital</b> content and <b>services</b>.",
+                "formattedUrl": "https://datareportal.com/reports/digital-2023-global-overview-report",
+                "htmlFormattedUrl": "https://datareportal.com/reports/digital-2023-global-overview-report",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevm9kPBmULabLfuVJTaxEYmO9nJYm7DwB9yAWGI9NO6Z2CtYdFu2Tb7I&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "a9c7c33c58b2c421889f929b0f7ce018",
+                            "og:image": "http://static1.squarespace.com/static/5b79011d266c077298791201/5b83a6bf8a922d0800280b26/63d109a9da1ef85549198aed/1675489160875/DataReportal+Digital+2023+Global+Overview+Report+Slide+.png?format=1500w",
+                            "og:type": "article",
+                            "og:image:width": "1500",
+                            "twitter:title": "Digital 2023: Global Overview Report — DataReportal – Global Digital Insights",
+                            "twitter:card": "summary",
+                            "og:site_name": "DataReportal – Global Digital Insights",
+                            "twitter:url": "https://datareportal.com/reports/digital-2023-global-overview-report",
+                            "og:title": "Digital 2023: Global Overview Report — DataReportal – Global Digital Insights",
+                            "og:image:height": "843",
+                            "og:latitude": "40.7207559",
+                            "og:description": "The complete guide to what people are really doing online in 2023: 400+ charts of global social media trends, ecommerce insights, and digital marketing stats.",
+                            "twitter:image": "http://static1.squarespace.com/static/5b79011d266c077298791201/5b83a6bf8a922d0800280b26/63d109a9da1ef85549198aed/1675489160875/DataReportal+Digital+2023+Global+Overview+Report+Slide+.png?format=1500w",
+                            "og:longitude": "-74.0007613",
+                            "viewport": "initial-scale=1",
+                            "twitter:description": "The complete guide to what people are really doing online in 2023: 400+ charts of global social media trends, ecommerce insights, and digital marketing stats.",
+                            "og:url": "https://datareportal.com/reports/digital-2023-global-overview-report"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://static1.squarespace.com/static/5b79011d266c077298791201/5b83a6bf8a922d0800280b26/63d109a9da1ef85549198aed/1675489160875/DataReportal+Digital+2023+Global+Overview+Report+Slide+.png?format=1500w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Over the past twelve months, the world’s digital behaviours have shown some of the most profound changes we’ve seen in years, even compared with “the pandemic years”.\nThe latest research reveals that these behaviours are evolving in a number of _unexpected_ ways, too.\nFortunately however, our huge new **Digital 2023 Global Overview Report** – produced in partnership with  and  – has all the data and insights you need to make sense of the latest trends.\nTop stories in Digital 2023\n---------------------------\nTop stories in our flagship Digital 2023 report include:\n*   A big change in global internet user numbers\n*   An intriguing decline in various aspects of online activity\n*   Rich insights into evolving social media platform preferences\n*   Changes in the devices that people use to access digital content and services\n*   Some unexpected changes in the world’s online search behaviours\n*   The startling growth of digital advertising\nThat’s barely a fraction of what you’ll find in the full report though, which is packed with 400+ charts exploring what people are _really_ doing on the internet, social media, mobile devices, and online shopping platforms.\nAnd in addition to the 10,000 words of rich context and insight that you’ll find in this article, we’ve also produced a selection of **deep-dive** articles to take you even further into this year’s data, so look out for links to those “bonus” resources throughout this analysis.\nThe ultimate compendium of digital stats\n----------------------------------------\nThis year’s report is by far the biggest collection of data and trends that we’ve ever published, and that increased breadth and depth is all thanks to the support of our amazing partners.\nFirst up, I’d like to say a very big thank you to , who’ve joined us as a headline Global Digital Reports partner this year. Meltwater is a global leader in social and media intelligence dedicated to helping businesses monitor, understand, and influence the world around them.\nI’d also like to thank  for continuing their support of the Global Digital Reports series into an impressive twelfth year. We Are Social is a socially led creative agency that puts social thinking at the centre of marketing.\nThese two partners make the  series possible, so please let them know on social media if you find these reports valuable:\n*   **We Are Social** on  and \n*   **Melt...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Internet Addiction Prevalence and Quality of (Real) Life: A Meta ...",
+                "htmlTitle": "<b>Internet</b> Addiction Prevalence and Quality of (<b>Real</b>) Life: A Meta ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267764/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Internet addiction (IA) has emerged as a universal issue, but its international estimates vary vastly. This multinational meta-analysis fills this gap by ...",
+                "htmlSnippet": "<b>Internet</b> addiction (IA) has emerged as a universal issue, but its international estimates vary vastly. This multinational meta-<b>analysis</b> fills this gap by&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267764/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267764/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Mary Ann Liebert, Inc.",
+                            "citation_publication_date": "2014/12/12",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Internet Addiction Prevalence and Quality of (Real) Life: A Meta-Analysis of 31 Nations Across Seven World Regions",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=CyberPsychology & Behavior; citation_title=Internet addiction: the emergence of a new clinical disorder; citation_author=KS Young; citation_volume=1; citation_publication_date=1998; citation_firstpage=237; citation_lastpage=244;",
+                            "citation_journal_title": "Cyberpsychology, Behavior and Social Networking",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC4267764/",
+                            "ncbi_phid": "939B42C51814BFA5000036FF58BC9B4C.1.m_2",
+                            "og:description": "Internet addiction (IA) has emerged as a universal issue, but its international estimates vary vastly. This multinational meta-analysis fills this gap by providing estimates of its global prevalence. Two hypotheses were formulated to explain the cross-national ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC4267764/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "25489876",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Internet Addiction Prevalence and Quality of (Real) Life: A Meta-Analysis of 31 Nations Across Seven World Regions",
+                            "citation_author": "Cecilia Cheng",
+                            "citation_abstract_html_url": "/pmc/articles/PMC4267764/?report=abstract",
+                            "dc.date": "2014 Dec 1",
+                            "citation_issue": "12",
+                            "dc.contributor": "Cecilia Cheng",
+                            "citation_firstpage": "755",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1089/cyber.2014.0317",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Internet Addiction Prevalence and Quality of (Real) Life: A Meta-Analysis of 31 Nations Across Seven World Regions",
+                            "ncbi_domain": "cyber",
+                            "dc.identifier": "10.1089/cyber.2014.0317",
+                            "citation_volume": "17",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267764/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   PMC4267764\nCyberpsychol Behav Soc Netw. 2014 Dec 1; 17(12): 755–760.\nAbstract\n--------\nInternet addiction (IA) has emerged as a universal issue, but its international estimates vary vastly. This multinational meta-analysis fills this gap by providing estimates of its global prevalence. Two hypotheses were formulated to explain the cross-national variations. The accessibility hypothesis predicts that IA prevalence is positively related to Internet penetration rate and GDP per capita, whereas the quality of (real) life hypothesis predicts that IA prevalence is inversely related to a global national index of life satisfaction and specific national indices of environmental quality. Multiple search strategies were used in an attempt to retrieve all empirical reports from 1996 to 2012 that adopted the Young Diagnostic Questionnaire or Internet Addiction Test for assessing generalized IA. The data set comprised 164 prevalence figures derived from 80 reports, including 89,281 participants from 31 nations across seven world regions. A random effects meta-analysis showed a global prevalence estimate of 6.0% \\, with moderate heterogeneity (_I_2\\=44%, _p_<0.0001). The highest prevalence was in the Middle East with 10.9% \\, and the lowest was in Northern and Western Europe with 2.6% \\. Moreover, IA prevalence was higher for nations with greater traffic time consumption, pollution, and dissatisfaction with life...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "North Korea - United States Department of State",
+                "htmlTitle": "<b>North Korea</b> - United States Department of State",
+                "link": "https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/north-korea/",
+                "displayLink": "www.state.gov",
+                "snippet": "EXECUTIVE SUMMARY. The Democratic People's Republic of Korea is an authoritarian state led by the Kim family since 1949. Kim Jong Un has ruled the country since ...",
+                "htmlSnippet": "EXECUTIVE <b>SUMMARY</b>. The Democratic People&#39;s Republic of <b>Korea</b> is an authoritarian state led by the Kim family since 1949. Kim Jong Un has ruled the country since&nbsp;...",
+                "formattedUrl": "https://www.state.gov/reports/2022-country-reports-on.../north-korea/",
+                "htmlFormattedUrl": "https://www.state.gov/reports/2022-country-reports-on.../<b>north</b>-<b>korea</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwr9FJr0yWLaLz9ocYVsYjEDLErzG8vmFFqBp6ZJrsfY9WHmc7xkMN3Tk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2019/04/31322529505_0257775f82_o-e1556309578824.jpg",
+                            "og:type": "article",
+                            "og:image:width": "3000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "United States Department of State",
+                            "og:title": "North Korea - United States Department of State",
+                            "og:image:height": "1687",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png",
+                            "msapplication-tap-highlight": "no",
+                            "article:modified_time": "2023-12-07T21:32:30+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/north-korea/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2019/04/31322529505_0257775f82_o-e1556309578824.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\nالعربيةDeutschEnglishEspañolFrançaisItaliano日本語NederlandsPortuguêsTürkçe中文",
+                    "content_tokens": 199
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Experts Say the 'New Normal' in 2025 Will Be Far More Tech-Driven ...",
+                "htmlTitle": "Experts Say the &#39;New Normal&#39; in 2025 Will Be Far More Tech-Driven ...",
+                "link": "https://www.pewresearch.org/internet/2021/02/18/experts-say-the-new-normal-in-2025-will-be-far-more-tech-driven-presenting-more-big-challenges/",
+                "displayLink": "www.pewresearch.org",
+                "snippet": "Feb 18, 2021 ... A new canvassing of experts in technology, communications and social change by Pew Research Center and Elon University's Imagining the Internet ...",
+                "htmlSnippet": "Feb 18, 2021 <b>...</b> A new canvassing of experts in technology, communications and social change by Pew Research Center and Elon University&#39;s Imagining the <b>Internet</b>&nbsp;...",
+                "formattedUrl": "https://www.pewresearch.org/internet/.../experts-say-the-new-normal-in-20...",
+                "htmlFormattedUrl": "https://www.pewresearch.org/<b>internet</b>/.../experts-say-the-new-normal-in-20...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTI5tukbLOzRJ6cyWeH2bv_W3weYz9L8FilFL8C1hcBz6o442XaYSoy6U&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2021/02/PI_21.02.18_NewNormal_featured-1.png?w=1200&h=628&crop=1",
+                            "article:published_time": "2021-02-18T14:04:00+00:00",
+                            "og:image:width": "1400",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Pew Research Center",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "parsely-author": "Janna Anderson",
+                            "og:image:type": "image/webp",
+                            "msapplication-tileimage": "https://www.pewresearch.org/wp-content/themes/prc-block-theme/assets/img/square.png",
+                            "og:description": "A plurality of experts think sweeping societal change will make life worse for most people. Still, a portion believe things will be better in a ‘tele-everything’ world.",
+                            "twitter:creator": "@pewresearch",
+                            "article:publisher": "https://www.facebook.com/pewresearch",
+                            "twitter:image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2021/02/PI_21.02.18_NewNormal_featured-1.png?w=1200&h=628&crop=1",
+                            "twitter:data1": "Janna Anderson, Lee Rainie and Emily A. Vogels",
+                            "twitter:data2": "89 minutes",
+                            "parsely-type": "post",
+                            "twitter:site": "@pewresearch",
+                            "article:modified_time": "2024-07-25T20:54:50+00:00",
+                            "parsely-link": "https://www.pewresearch.org/internet/2021/02/18/experts-say-the-new-normal-in-2025-will-be-far-more-tech-driven-presenting-more-big-challenges/",
+                            "og:type": "article",
+                            "author": "Janna Anderson, Lee Rainie and Emily A. Vogels",
+                            "og:title": "Experts Say the ‘New Normal’ in 2025 Will Be Far More Tech-Driven, Presenting More Big Challenges",
+                            "og:image:height": "789",
+                            "parsely-title": "Experts Say the ‘New Normal’ in 2025 Will Be Far More Tech-Driven, Presenting More Big Challenges",
+                            "article:author": "Janna Anderson, Lee Rainie and Emily A. Vogels",
+                            "parsely-pub-date": "2021-02-18T09:04:00-05:00",
+                            "parsely-tags": "Coronavirus (COVID-19),Emerging Technology,Future of the Internet (Project),Misinformation",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pewresearch.org/internet/2021/02/18/experts-say-the-new-normal-in-2025-will-be-far-more-tech-driven-presenting-more-big-challenges/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.pewresearch.org/wp-content/uploads/sites/20/2021/02/PI_21.02.18_NewNormal_featured-1.png?w=1200&h=628&crop=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... care and social activity improve \n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThis is the 12th “” canvassing Pew Research Center and  have conducted together to get expert views about important digital issues. In this case, the questions focused on the impact of the  of 2020 on the evolution of humans-plus-technology. This is a nonscientific canvassing based on a nonrandom sample; this broad array of opinions about where current trends may lead in the next few years represents only the points of view of the individuals who responded to the queries.\nPew Research Center and Elon’s Imagining the Internet Center built a database of experts to canvass from a wide range of fields, choosing to invite people from several sectors, including professionals and policy people based in government bodies, nonprofits and foundations, technology businesses, think tanks and in networks of interested academics and technology innovators. The predictions reported here came in response to a set of questions in an online canvassing conducted between June 30 and July 27, 2020. In all, 915 technology innovators and developers, business and policy leaders, researchers and activists responded to at least one of the questions covered in this report. More on the  can be found in the final section.\nWhen pandemics , they upend critical structures, such as  and , , socioeconomic  and , fundamental ,  and everyday . A new canvassing of experts in technology, communications and social change by Pew Research Center and Elon University’s Imagining the Internet Center finds that many expect similar impacts to emerge from the .\nAsked to consider what life will be like in 2025 in the wake of the outbreak of the global pandemic and other crises in 2020, some 915 innovators, developers, business and policy leaders, researchers and activists responded. Their broad and nearly universal view is that people’s relationship with technology will deepen as larger segments of the population come to rely more on digital connections for work, education, health care, daily commercial transactions and essential social interactions. A number describe this as a “tele-everything” world.\nNotable shares of these respondents foresee significant change that will:\n*   **worsen economic inequality** as those who are highly connected and the tech-savvy pull further ahead of those who have less access to digital tools and less training or aptitude for exploiting them and as technological change eliminates some jobs;\n*   **enhance the power of big technology firms** as they exploit their market advantages and mechanisms such as artificial intelligence (AI) in ways that seem likely to further erode the privacy and autonomy of their users;\n*   **multiply the spread of misinformation** as...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Update on Sony Investigation — FBI",
+                "htmlTitle": "Update on Sony Investigation — FBI",
+                "link": "https://www.fbi.gov/news/press-releases/update-on-sony-investigation",
+                "displayLink": "www.fbi.gov",
+                "snippet": "Dec 19, 2014 ... The FBI has determined that the intrusion into SPE's network consisted of the deployment of destructive malware and the theft of proprietary ...",
+                "htmlSnippet": "Dec 19, 2014 <b>...</b> The FBI has determined that the intrusion into SPE&#39;s <b>network</b> consisted of the deployment of destructive malware and the theft of proprietary&nbsp;...",
+                "formattedUrl": "https://www.fbi.gov/news/press-releases/update-on-sony-investigation",
+                "htmlFormattedUrl": "https://www.fbi.gov/news/press-releases/update-on-sony-investigation",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.description": "Today, the FBI would like to provide an update on the status of our investigation into the cyber attack targeting Sony Pictures Entertainment (SPE).",
+                            "theme-color": "#ffffff",
+                            "dc.format": "text/html",
+                            "dc.date.created": "2014-12-19T16:43:49+00:00",
+                            "distribution": "Global",
+                            "modificationdate": "2022-07-21T15:49:01+00:00",
+                            "expirationdate": "2499-12-31T00:00:00+00:00",
+                            "publicationdate": "2014-12-19T07:00:00+00:00",
+                            "dc.type": "Press Release",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "dc.date.valid_range": "2014/12/19 -",
+                            "dc.date.modified": "2022-07-21T15:49:01+00:00",
+                            "dc.subject": "Breaking News, Cyber Crimes, National"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n1.  \n2.  \n3.  \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Search FBI  \n FBIFederal Bureau of Investigation]\nUpdate on Sony Investigation\n============================\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nWashington, D.C.\nDecember 19, 2014\nUpdate on Sony Investigation\n============================\nToday, the FBI would like to provide an update on the status of our investigation into the cyber attack targeting Sony Pictures Entertainment (SPE). In late November, SPE confirmed that it was the victim of a cyber attack that destroyed systems and stole large quantities of personal and commercial data. A group calling itself the “Guardians of Peace” claimed responsibility for the attack and subsequently issued threats against SPE, its employees, and theaters that distribute its movies.\nThe FBI has determined that the intrusion into SPE’s network consisted of the deployment of destructive malware and the theft of proprietary information as well as employees’ personally identifiable information and confidential communications. The attacks also rendered thousands of SPE’s computers inoperable, forced SPE to take its entire computer network offline, and significantly disrupted the company’s business operations.\nAfter discovering the intrusion into its network, SPE requested the FBI’s assistance. Since then, the FBI has been working closely with the company throughout the investigation. Sony has been a great partner in the investigation, and continues to work closely with the FBI. Sony reported this incident within hours, which is what the FBI hopes all companies will do when facing a cyber attack. Sony’s quick reporting facilitated the investigators’ ability to do their jobs, and ultimately to identify the source of these attacks.\nAs a result of our investigation, and in close collaboration with other U.S. government departments and agencies, the FBI now has enough information to conclude that the North Korean government is responsible for these actions. While the need to protect sensitive sources and methods precludes us from sharing all of this information, our conclusion is based, in part, on the following:\n*   Technical analysis of the data deletion malware used in this attack revealed links to other malware that the FBI knows North Korean actors previously developed. For example, there were similarities in specific lines of code, encryption algorithms, data deletion methods, and compromised networks.\n*   The FBI also observed significant overlap between the infrastructure used in this attack and other malicious cyber activity the U.S. government has previously linked directly to North Korea. For example, the FBI discovered that several Internet protocol (IP) addresses associated with known North Korean infrastructure communicated with IP addresses that were hardcoded into the data deletion malware used in this attack.\n*   Separately, the tools used in...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "The carbon footprint of streaming video: fact-checking the headlines ...",
+                "htmlTitle": "The carbon footprint of streaming <b>video</b>: fact-checking the headlines ...",
+                "link": "https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines",
+                "displayLink": "www.iea.org",
+                "snippet": "Dec 11, 2020 ... Streaming services are associated with energy use and carbon emissions from devices, network infrastructure and data centres. Yet, contrary to a ...",
+                "htmlSnippet": "Dec 11, 2020 <b>...</b> Streaming <b>services</b> are associated with energy use and carbon emissions from devices, <b>network</b> infrastructure and data centres. Yet, contrary to a&nbsp;...",
+                "formattedUrl": "https://www.iea.org/.../the-carbon-footprint-of-streaming-video-fact-checki...",
+                "htmlFormattedUrl": "https://www.iea.org/.../the-carbon-footprint-of-streaming-<b>video</b>-fact-checki...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ288lMFmI2HqQn5fALbxWbgkCqTKYofoFM1WLC8Il-cQc5jf4v15ZdDvhW&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#000000",
+                            "og:image": "https://iea.org/assets/front/images/iea_open_graph.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The carbon footprint of streaming video: fact-checking the headlines – Analysis - IEA",
+                            "og:image:width": "1200",
+                            "copyright": "(c) 2024 IEA",
+                            "og:site_name": "IEA",
+                            "twitter:domain": "www.iea.org",
+                            "twitter:url": "https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines",
+                            "apple-mobile-web-app-title": "IEA",
+                            "og:title": "The carbon footprint of streaming video: fact-checking the headlines – Analysis - IEA",
+                            "og:image:height": "630",
+                            "msapplication-tileimage": "/assets/front/images/mstile-150x150.png",
+                            "twitter:creator": "IEA",
+                            "og:description": "The carbon footprint of streaming video: fact-checking the headlines - A commentary by George Kamiya",
+                            "version": "1d9edf77d3c12fb5ec5afe119e4806601838bc80",
+                            "twitter:image": "https://iea.org/assets/front/images/iea_open_graph.jpg",
+                            "twitter:site": "IEA",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The carbon footprint of streaming video: fact-checking the headlines - A commentary by George Kamiya",
+                            "og:url": "https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://iea.org/assets/front/images/iea_open_graph.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    Use, download and buy global energy data\n*   \n*   \n*   \n*   \nThe carbon footprint of streaming video: fact-checking the headlines\n--------------------------------------------------------------------\n#### Cite commentary\nIEA (2020), _The carbon footprint of streaming video: fact-checking the headlines_, IEA, Paris https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines\n#### Contrary to a slew of recent misleading media coverage, the climate impacts of streaming video remain relatively modest\n_A version of this commentary was originally published in Carbon Brief._\nEven before millions were confined to their homes by a global pandemic, improvements in internet connections and service offerings had led to an exponential increase in the use of streaming video around the world. With few options left for entertainment, streaming services are taking off. In this commentary, we examine the carbon footprint of these services.\nStreaming services are associated with energy use and carbon emissions from devices, network infrastructure and data centres. Yet, contrary to a slew of recent misleading media coverage, the climate impacts of streaming video remain relatively modest, particularly compared to other activities and sectors.\nDrawing on  and other credible sources, we expose the flawed assumptions in one widely reported estimate of the emissions from watching 30 minutes of Netflix. These exaggerate the actual climate impact by up 90 times.\nThe relatively low climate impact of streaming video today is thanks to rapid improvements in the energy efficiency of data centres, networks and devices. But slowing efficiency gains, rebound effects and new demands from emerging technologies, including  (AI) and , raise increasing concerns about the overall environmental impacts of the sector over the coming decades.\n**Update 11/12/2020:** The energy intensity figures for data centres and data transmission networks were updated to reflect more recent data and research. As a result, the central IEA estimate for one hour of streaming video in 2019 is now 36gCO2, down from 82gCO2 in the original analysis published in February 2020. The updated charts and comparisons also include the corrected values published by The Shift Project in June 2020, as...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,728 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - reaction billboard Stop Zelenskyy Japan news",
+                "totalResults": "20100",
+                "searchTerms": "reaction billboard Stop Zelenskyy Japan news",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - reaction billboard Stop Zelenskyy Japan news",
+                "totalResults": "20100",
+                "searchTerms": "reaction billboard Stop Zelenskyy Japan news",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.264796,
+        "formattedSearchTime": "0.26",
+        "totalResults": "20100",
+        "formattedTotalResults": "20,100"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video altered to show anti-Zelenskyy billboard in Japan | Fact check",
+                "htmlTitle": "Video altered to show anti-<b>Zelenskyy billboard</b> in <b>Japan</b> | Fact check",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 3, 2023 ... \"'Stop Zelensky, Stop War!' In Japan,\" reads the video's caption, which is describing a message that seems to appear on a digital billboard.",
+                "htmlSnippet": "Aug 3, 2023 <b>...</b> &quot;&#39;<b>Stop</b> Zelensky, <b>Stop</b> War!&#39; In <b>Japan</b>,&quot; reads the video&#39;s caption, which is describing a message that seems to appear on a digital <b>billboard</b>.",
+                "formattedUrl": "https://www.usatoday.com/.../news/...zelenskyy-billboard...japan.../705150...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>news</b>/...<b>zelenskyy</b>-<b>billboard</b>...<b>japan</b>.../705150...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgBZJJOmN81Fyl1DGtGGgcHkiEB5WolCTes3iv4mnpxJZilPnw4BCxcI6&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "1999",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of anti-Zelenskyy billboard in Japan is altered, predates Russia invasion | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of anti-Zelenskyy billboard in Japan is altered, predates Russia invasion | Fact check",
+                            "og:image:height": "1125",
+                            "google": "notranslate",
+                            "og:description": "The original video shows a different advertisement in place of the anti-Zelenskyy message. It also predates Russia's invasion of Ukraine.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Chris Mueller",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The original video shows a different advertisement in place of the anti-Zelenskyy message. It also predates Russia's invasion of Ukraine.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-03T19:42:44Z",
+                            "claimReviewed": "Video shows digital billboard in Japan with",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim: Video shows digital billboard in Japan with anti-Zelenskyy message\n-----------------------------------------------------------------------------\nA July 30 post (, ) on X, formerly Twitter, shows video of a crowd crossing a city street at night.\n\"'Stop Zelensky, Stop War!' In Japan,\" reads the video's caption, which is describing a message that seems to appear on a digital billboard.\nThe video was retweeted more than 9,000 times in four days. It was shared on Facebook more than 50 times, according to CrowdTangle, a social media analytics tool.\n**Follow us on Facebook!**\nOur rating: Altered\n-------------------\nThe video was altered to include the anti-Zelenskyy billboard. The original video shows a different advertisement in its place, and it was posted online more than a year before Russia's invasion of Ukraine.\nVideo edited to include anti-Zelenskyy display\n----------------------------------------------\nThe clip in the post was taken from a  uploaded to YouTube on Oct. 18, 2020, by a verified account called \"Virtual Japan,\" which posts  in Japan.\nIt shows the same buildings, vehicles and people as the clip in the post, but the digital billboard in question does not show a message critical of Ukrainian President Volodymyr Zelenskyy. Instead, it shows white Japanese writing on a pink background followed by images of people.\nAn image of the intersection in Shibuya City, Tokyo, taken in October 2022 can be seen on  . The billboard in that image does not show an anti-Zelenskyy billboard either.\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Tokyo video doctored to add anti-Zelensky billboard | Fact Check",
+                "htmlTitle": "<b>Tokyo</b> video doctored to add anti-Zelensky <b>billboard</b> | Fact Check",
+                "link": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Aug 1, 2023 ... A video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.\" But the clip has been doctored.",
+                "htmlSnippet": "Aug 1, 2023 <b>...</b> A video circulating online appears to show a prominent digital <b>billboard</b> in <b>Japan</b> saying, &quot;<b>Stop</b> war&quot; and &quot;<b>Stop Zelenskyy</b>.&quot; But the clip has been doctored.",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                "htmlFormattedUrl": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vFIlQ0dtRwc037HoinXNGF7AXOm8q8k8tuuYIApsI-y3cV97jpDo9_DJ&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//ccc961aa00364c9ca826443651d937be.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Tokyo video doctored to add anti-Zelensky billboard",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.\" But the clip has been doctored; the sign featured people -- not the anti-Ukraine message -- in otherwise matching footage posted to YouTube in 2020, prior to Russia's invasion."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//ccc961aa00364c9ca826443651d937be.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-01T21:49:00",
+                            "claimReviewed": "A video shows a billboard in Japan saying \"Stop",
+                            "name": "Tokyo video doctored to add anti-Zelensky billboard",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33QE3H2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nA video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.\" But the clip has been doctored; the sign featured people -- not the anti-Ukraine message -- in otherwise matching footage posted to YouTube in 2020, prior to Russia's invasion.\n\"Billboard that says 'Stop Zelensky, Stop War' in Japan,\" says a  from The Post Millennial, a conservative Canadian website that has previously spread .\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\n posts  the  video  across , which is rebranding as \"X,\" and other  such as ,  and .\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\nThe clip also spread in ,  and .\nBut  (archived ) from nearly three years ago shows the same digital billboard making no mention of the country's war with Russia or its leader, President Volodymyr Zelensky.\nAFP found the original video, titled \"Night Walk in Tokyo Shibuya,\" by conducting a  using . It was posted to YouTube on October...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Highlights from the 2024 presidential election campaign: July 9 | AP ...",
+                "htmlTitle": "Highlights from the 2024 presidential election campaign: July 9 | AP ...",
+                "link": "https://apnews.com/live/election-2024-campaign-biden-trump-updates",
+                "displayLink": "apnews.com",
+                "snippet": "Jul 9, 2024 ... Donald Trump has returned to the campaign trail for a rally in Miami, Florida. His opponent, President Joe Biden spoke to world leaders at ...",
+                "htmlSnippet": "Jul 9, 2024 <b>...</b> Donald Trump has returned to the campaign trail for a rally in Miami, Florida. His opponent, President Joe Biden spoke to world leaders at&nbsp;...",
+                "formattedUrl": "https://apnews.com/live/election-2024-campaign-biden-trump-updates",
+                "htmlFormattedUrl": "https://ap<b>news</b>.com/live/election-2024-campaign-biden-trump-updates",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRXqWJdSsvppJO6HazbhKRIaNOog2yv4W8r18nFvDy0_viQzqskVeAKowi&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec",
+                            "og:image:width": "1440",
+                            "og:image:alt": "President Joe Biden speaks during an event commemorating the 75th Anniversary of NATO at the Andrew W. Mellon Auditorium on the sidelines of the NATO summit in Washington on Tuesday, July 9, 2024. (AP Photo/Susan Walsh)",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Highlights from the 2024 presidential election campaign: July 9",
+                            "og:site_name": "AP News",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec",
+                            "ga-datalayer": "{ }",
+                            "og:title": "Highlights from the 2024 presidential election campaign: July 9",
+                            "og:image:height": "810",
+                            "og:image:type": "image/jpeg",
+                            "permutive-datalayer": "{\n  \"category\" : \"Politics\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"LiveUpdate\"\n  },\n  \"tags\" : [ \"Election 2024\", \"Donald Trump\", \"Joe Biden\" ],\n  \"page_type\" : \"LiveUpdate\",\n  \"publication_date\" : \"2024-07-09T06:00:00.000Z\",\n  \"item_id\" : null,\n  \"headline\" : null,\n  \"authors\" : [ \"CURTIS YEE\", \"LINDSAY WHITEHURST\", \"REBECCA SANTANA\" ]\n}",
+                            "og:description": "Donald Trump has returned to the campaign trail for a rally in Miami, Florida. His opponent, President Joe Biden spoke to world leaders at the NATO summit, delivering a lofty speech without referencing the domestic political drama swirling around him.",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec",
+                            "twitter:image:alt": "President Joe Biden speaks during an event commemorating the 75th Anniversary of NATO at the Andrew W. Mellon Auditorium on the sidelines of the NATO summit in Washington on Tuesday, July 9, 2024. (AP Photo/Susan Walsh)",
+                            "fb:app_id": "870613919693099",
+                            "twitter:site": "@AP",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "<i>Today's live coverage has ended. See what you missed below and find the latest on </i><a href=\"https://apnews.com/hub/election-2024\" target=\"_blank\" link-data=\"{&quot;cms.site.owner&quot;:{&quot;_ref&quot;:&quot;00000188-451c-db95-a9ec-457d1fcf0000&quot;,&quot;_type&quot;:&quot;ae3387cc-b875-31b7-b82d-63fd8d758c20&quot;},&quot;cms.content.publishDate&quot;:1720577083100,&quot;cms.content.publishUser&quot;:{&quot;_ref&quot;:&quot;0000018c-cb85-d5a4-af9f-dbf781730000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;cms.content.updateDate&quot;:1720577083100,&quot;cms.content.updateUser&quot;:{&quot;_ref&quot;:&quot;0000018c-cb85-d5a4-af9f-dbf781730000&quot;,&quot;_type&quot;:&quot;6aa69ae1-35be-30dc-87e9-410da9e1cdcc&quot;},&quot;link&quot;:{&quot;target&quot;:&quot;NEW&quot;,&quot;attributes&quot;:[],&quot;url&quot;:&quot;https://apnews.com/hub/election-2024&quot;,&quot;_id&quot;:&quot;00000190-9a62-dca0-a3b6-baeab7390001&quot;,&quot;_type&quot;:&quot;33ac701a-72c1-316a-a3a5-1",
+                            "brightspot.contentid": "00000190-9469-dca0-a3b6-b6eb0cd20001",
+                            "og:url": "https://apnews.com/live/election-2024-campaign-biden-trump-updates",
+                            "gtm-datalayer": "{\n  \"event\" : \"Live Blog Visited\",\n  \"tag_array\" : \"Election 2024,Joe Biden,Donald Trump,Politics\",\n  \"headline\" : \"Highlights from the 2024 presidential election campaign: July 9\",\n  \"publication_date\" : \"2024-07-09 06:00:00\",\n  \"author\" : \"CURTIS YEE,LINDSAY WHITEHURST,REBECCA SANTANA\",\n  \"lead_media\" : \"Video\",\n  \"page_type\" : \"Live Blog\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"NO\",\n  \"primary_section\" : \"Politics\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/c5a29d0/2147483647/strip/true/crop/4490x2526+0+234/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe2%2F3c%2F964300480b2fa5ad3d61aaaf0043%2F95301190ac9e404884fdddcbc06377ec"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/live/election-2024-campaign-biden-trump-updates: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/live/election-2024-campaign-biden-trump-updates",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "How Kamala Harris views the world: From Gaza and Russia to ...",
+                "htmlTitle": "How Kamala Harris views the world: From Gaza and Russia to ...",
+                "link": "https://www.aljazeera.com/news/2024/7/22/how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Jul 22, 2024 ... Ukrainian President Volodymyr Zelenskiy and U.S. Vice President Kamala Harris react at the end of a. Video Duration 03 minutes 31 seconds 03 ...",
+                "htmlSnippet": "Jul 22, 2024 <b>...</b> Ukrainian President Volodymyr Zelenskiy and U.S. Vice President Kamala Harris <b>react</b> at the <b>end</b> of a. Video Duration 03 minutes 31 seconds 03&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../how-kamala-harris-views-the-world-fro...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../how-kamala-harris-views-the-world-fro...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzTcrfWX-tfcG7MIFDA2_0swrgSrDfo9HuHl-DeezkGWRZmi-alrCdNGi&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/images/logo_aje_social.png",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "postlabel": "Explainer",
+                            "twitter:url": "https://www.aljazeera.com/news/2024/7/22/how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india",
+                            "pagesection": "Explainer,News,Elections,Israel-Palestine conflict,Joe Biden,Russia-Ukraine war,US Election 2024",
+                            "channel": "aje",
+                            "publisheddate": "2024-07-22T14:40:20",
+                            "postid": "3061740",
+                            "source": "Al Jazeera",
+                            "video": "1",
+                            "title": "US Election 2024 | How Harris views world | Today's latest from Al Jazeera",
+                            "pagelink": "/news/2024/7/22/how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india",
+                            "displayauthors": "Al Jazeera Staff",
+                            "og:description": "US candidate Harris is expected to remain consistent with Biden’s policies on China, Ukraine and Gaza for the most part.",
+                            "taxonomyterms": "News, Elections, Israel-Palestine conflict, Joe Biden, Russia-Ukraine war, US Election 2024, United States, US & Canada",
+                            "lastdate": "2024-07-22T14:50:14",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "How Kamala Harris views the world: From Gaza and Russia to China and India",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "internalreporting": "Break it down for me",
+                            "featuredmedia": "BC-6358778195112",
+                            "bcvideotitle": "Who is US Vice President Kamala Harris and can she beat Donald Trump?",
+                            "where": "United States, US & Canada",
+                            "primarytag": "US Election 2024",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Al Jazeera Staff",
+                            "og:type": "article",
+                            "twitter:title": "How Kamala Harris views the world: From Gaza and Russia to China and India",
+                            "taxonomy-tags": "News, Elections, Israel-Palestine conflict, Joe Biden, Russia-Ukraine war, US Election 2024",
+                            "topics": "News",
+                            "author": "Al Jazeera Staff",
+                            "og:title": "US Election 2024 | How Harris views world | Today's latest from Al Jazeera",
+                            "twitter:image:src": "https://www.aljazeera.com/images/logo_aje_social.png",
+                            "tags": "Elections, Israel-Palestine conflict, Joe Biden, Russia-Ukraine war, US Election 2024",
+                            "contenttype": "post",
+                            "articleslug": "how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india",
+                            "postlink": "/news/2024/7/22/how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "US candidate Harris is expected to remain consistent with Biden’s policies on China, Ukraine and Gaza for the most part.",
+                            "pagetitle": "How Kamala Harris views the world: From Gaza and Russia to China and India",
+                            "og:url": "https://www.aljazeera.com/news/2024/7/22/how-kamala-harris-views-the-world-from-gaza-and-russia-to-china-and-india/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/images/logo_aje_social.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... support for Israel’s security and self-defence, while expressing sympathy for Palestinian civilians in Gaza.\nHarris has  Israel’s . In December 2023, she said during a briefing “Israel has a right to defend itself. And we \\ will remain steadfast in that conviction” and “we support Israel’s legitimate military objectives to eliminate the threat of Hamas”.\nThis week, Harris is expected to meet Israeli Prime Minister Benjamin  during his visit to the US.\nAt the same time, in the December briefing, she said: “As Israel pursues its military objectives in Gaza, we believe Israel must do more to protect innocent civilians.”\nOn March 4, Harris  in Gaza, adding that Israel needs to improve the flow of humanitarian aid in the enclave.\n### Sign up for Al Jazeera\n#### Americas Coverage Newsletter\nUS politics, Canada’s multiculturalism, South America’s geopolitical rise—we bring you the stories that matter.\n> The death of seven humanitarian workers from World Central Kitchen in Gaza, including one American, is a devastating tragedy. The investigation must be swift, and steps must be taken to ensure this does not happen again.\n> \n> Israel must do more to protect aid workers who are…\n> \n> — Vice President Kamala Harris (@VP) \nOn April 14, Harris posted on X a day after , saying “Our support for Israel’s security is ironclad.”\n> President Biden and I met with our national security team following Iran’s attacks against Israel. Our support for Israel’s security is ironclad, and we stand with the people of Israel in defense against these attacks. \n> \n> — Vice President Kamala Harris (@VP) \nWhat about the Russia-Ukraine war?\n----------------------------------\nConsistent with Biden’s stance, Harris strongly backs Ukraine’s self-defence efforts against Russia. Harris has also been — just like Biden — a committed supporter of NATO.\nIn June, she met Ukrainian President Volodymyr Zelenskyy at the  in Switzerland.\n“Russia’s aggression is not only an attack on the lives and the freedom of the people of Ukraine, it is not only an attack on global food security and energy supplies,” she said at the summit’s opening plenary.\nAt the summit, Harris also announced that the US would disburse $1.5bn through the US Agency for International Development and the US Department of State, to strengthen Ukraine’s energy sector.\nAt the Munich Security Conference in February, she rebuked Russia’s war on Ukraine and pledged “ironclad...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "BTS Selfies at the 2022 Grammys: See All the Pictures",
+                "htmlTitle": "BTS Selfies at the 2022 Grammys: See All the Pictures",
+                "link": "https://www.billboard.com/music/awards/bts-selfies-photos-grammys-lady-gaga-1235055262/",
+                "displayLink": "www.billboard.com",
+                "snippet": "Apr 4, 2022 ... From Lady Gaga to Olivia Rodrigo, here are the musicians who BTS shared a moment on camera with at the Grammys.",
+                "htmlSnippet": "Apr 4, 2022 <b>...</b> From Lady Gaga to Olivia Rodrigo, here are the musicians who BTS shared a moment on camera with at the Grammys.",
+                "formattedUrl": "https://www.billboard.com/.../bts-selfies-photos-grammys-lady-gaga-12350...",
+                "htmlFormattedUrl": "https://www.<b>billboard</b>.com/.../bts-selfies-photos-grammys-lady-gaga-12350...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDAEKh1Njvk3uh4W73F0tEWccGcHE7FwiWOHKx2ZaJUe6_yshfxati1e3L&s",
+                            "width": "276",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "st:robots": "index, follow",
+                            "comment_count": "0",
+                            "msapplication-config": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/browserconfig.xml",
+                            "og:image": "https://www.billboard.com/wp-content/uploads/2022/04/bts-grammys-Credit-BIGHIT-MUSIC-2022-billboard-1548.jpg?w=1024",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2022-04-04T23:03:24+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Billboard",
+                            "msapplication-tileimage": "https://www.billboard.com/wp-content/themes/vip/pmc-billboard-2021/assets/app/icons/icon-144x144.png",
+                            "title": "All the Musicians Who Took Selfies With BTS at the 2022 Grammys",
+                            "body": "Korean boy band BTS brought their A-game to the Grammys with their James Bond-inspired “Butter” performance on Sunday night. The group earned their second Grammy nomination with the song for best pop duo/group performance, after their first for “Dynamite” in the same category last year.\r\n\r\nBut the real prize of the night might have been a selfie with the septet, judging by the A-list talent that lined up to take pictures with the superstar group. Below, find all the photos and selfies with BTS from Sunday night.\r\nLady Gaga\r\nLady Gaga took home her 13th Grammy last night, for best traditional pop vocal album, sharing the honor with Tony Bennett, for their Love for Sale album. She's pictured with BTS member V.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nChrissy Teigen, John Legend & daughter Luna\r\nIntroduced by Ukrainian president Volodymyr Zelenskyy, John Legend performed his song “Free” with three Ukrainian artists: Siuzanna Iglidan, Mika Newton and poet Lyuba Yakimchuk. With his wife Chrissy Teigen and ",
+                            "og:description": "From Lady Gaga to Olivia Rodrigo, here are the musicians who BTS shared a moment on camera with at the Grammys.",
+                            "twitter:image": "https://www.billboard.com/wp-content/uploads/2022/04/bts-grammys-Credit-BIGHIT-MUSIC-2022-billboard-1548.jpg?w=1024",
+                            "twitter:site": "@billboard",
+                            "content_type": "Article",
+                            "article:modified_time": "2022-04-05T18:53:06+00:00",
+                            "published_at": "2022-04-04 19:03:24",
+                            "msapplication-tilecolor": "#eff4ff",
+                            "image": "https://www.billboard.com/wp-content/uploads/2022/04/bts-grammys-Credit-BIGHIT-MUSIC-2022-billboard-1548.jpg?w=1024",
+                            "og:type": "article",
+                            "og:image:alt": "BTS",
+                            "twitter:title": "All the Musicians Who Took Selfies With BTS at the 2022 Grammys",
+                            "author": "Jude Zhu",
+                            "topics": "Awards",
+                            "og:title": "All the Musicians Who Took Selfies With BTS at the 2022 Grammys",
+                            "og:image:height": "677",
+                            "fb:pages": "75791669580",
+                            "tags": "Grammys",
+                            "fragment": "!",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "post_id": "1235055262",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "From Lady Gaga to Olivia Rodrigo, here are the musicians who BTS shared a moment on camera with at the Grammys.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.billboard.com/music/awards/bts-selfies-photos-grammys-lady-gaga-1235055262/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.billboard.com/wp-content/uploads/2022/04/bts-grammys-Credit-BIGHIT-MUSIC-2022-billboard-1548.jpg?w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "BTS Selfies at the 2022 Grammys: See All the Pictures\n===============\n*   \n*   \n*   \n*   \n*   \n*   \nLOGIN Login\nClick to Expand Search Input\nSearch for:  \nAccount\n*   \n*   Log Out\nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n04/4/2022\nAll the Musicians Who Took Selfies With BTS at the 2022 Grammys\n===============================================================\nThe real prize of the night might have been a selfie with the septet, judging by the A-list talent that lined up to take pictures with the superstar group.\nBy \n### \neditor\n#### More Stories by Jude\n*   \n*   \n*   \n04/4/2022\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   (whatsapp://send?text=All%20the%20Musicians%20Who%20Took%20Selfies%20With%20BTS%20at%20the%202022Grammys%20-%20https://www.billboard.com/music/awards/bts-selfies-photos-grammys-lady-gaga-1235055262/)\n*   \n*   Print this article\n*   \n*   \nKorean boy band  brought their A-game to the  with their  on Sunday night. The group earned their second Grammy nomination with the song for best pop duo/group performance, after their first for “Dynamite” in the same category last year.\n### Explore\nSee latest videos, charts and news\n]\n### \n]\n### \n]\n### \nSee latest videos, charts and news\nBut the real prize of the night might have been a selfie with the septet, judging by the A-list talent that lined up to take pictures with the superstar group. Below, find all the photos and selfies with BTS from Sunday night.\n### Related\n ### BTS Merch That's Actually Worth Buying: 21 Collectibles K-Pop Lovers Won't Be Able to Pass Up 06/23/2022]\n### Lady Gaga\n took home her 13th Grammy last night, for best traditional pop...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "World reacts to Russia's attack on Ukraine | Russia-Ukraine war News",
+                "htmlTitle": "World <b>reacts</b> to Russia&#39;s attack on Ukraine | Russia-Ukraine war <b>News</b>",
+                "link": "https://www.aljazeera.com/news/2022/2/24/world-reaction-putin-orders-military-operation-in-ukraine",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Feb 24, 2022 ... The world can and must stop Putin. The time to act is now,” he tweeted. Speaking at an emergency UN Security Council meeting, Ukrainian ...",
+                "htmlSnippet": "Feb 24, 2022 <b>...</b> The world can and must <b>stop</b> Putin. The time to act is now,” he tweeted. Speaking at an emergency UN Security Council meeting, Ukrainian&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../world-reaction-putin-orders-military-op...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../world-<b>reaction</b>-putin-orders-military-op...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtkqNrRVu2PTbY-lF0DqXvUP4ZwlpwSGUTiE1CAICTVuPptjYOHikfPRY&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2022/02/000_323T6PA.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2022/2/24/world-reaction-putin-orders-military-operation-in-ukraine",
+                            "pagesection": "News,Russia-Ukraine war",
+                            "channel": "aje",
+                            "publisheddate": "2022-02-24T05:54:12",
+                            "postid": "1650765",
+                            "source": "Al Jazeera and news agencies",
+                            "og:description": "President Putin has given approval to a ‘special military operation’ in the Donbas region.",
+                            "taxonomyterms": "News, Russia-Ukraine war, Europe, Russia, Ukraine",
+                            "lastdate": "2022-02-24T20:35:53",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "World reacts to Russia’s attack on Ukraine",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "where": "Europe, Russia, Ukraine",
+                            "primarytag": "Russia-Ukraine war",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "World reacts to Russia’s attack on Ukraine",
+                            "taxonomy-tags": "News, Russia-Ukraine war",
+                            "topics": "News",
+                            "og:title": "World reacts to Russia’s attack on Ukraine",
+                            "tags": "Russia-Ukraine war",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2022/02/000_323T6PA.jpg?resize=1920%2C1440",
+                            "articleslug": "world-reaction-putin-orders-military-operation-in-ukraine",
+                            "postlink": "/news/2022/2/24/world-reaction-putin-orders-military-operation-in-ukraine",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "President Putin has given approval to a ‘special military operation’ in the Donbas region.",
+                            "pagetitle": "World reacts to Russia’s attack on Ukraine",
+                            "og:url": "https://www.aljazeera.com/news/2022/2/24/world-reaction-putin-orders-military-operation-in-ukraine"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2022/02/000_323T6PA.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Russian President Vladimir Putin’s  in eastern Ukraine has been swiftly condemned by several nations.\nThe authorisation by Putin was made at the same time as the United Nations Security Council met late on Wednesday for its second emergency meeting this week to urge de-escalation and return to diplomatic talks.\nRussian media reported quoting Putin he had given approval to the operation in the Donbas region of Ukraine, where Moscow earlier  in Luhansk and Donetsk and said they had asked for its “help”.\nHere is how the world is reacting:\nUkraine\n-------\nUkraine’s Foreign Minister Dmytro Kuleba said Putin had “launched a full-scale invasion of Ukraine” and that peaceful cities were “under strikes”.\n“This is a war of aggression. Ukraine will defend itself and will win. The world can and must stop Putin. The time to act is now,” he tweeted.\nSpeaking at an emergency UN Security Council meeting, Ukrainian Ambassador Sergiy Kyslytsya said it was too late to talk about de-escalation. “I call on every one of you to do everything possible to stop the war,” he said.\n!\nA Ukrainian soldier talks with her comrades sitting in a shelter at the line of separation between Ukraine-held territory and rebel-held territory near Svitlodarsk, eastern Ukraine \\\nUnited States\n-------------\nPresident Joe Biden has condemned Russia for an “unprovoked and unjustified attack” on Ukraine while promising that his country and its allies “will hold Russia accountable”.\n“President Putin has chosen a premeditated war that will bring a catastrophic loss of life and human suffering. Russia alone is responsible for the death and destruction this attack will bring, and the United States and its allies and partners will respond in a united and decisive way. The world will hold Russia accountable,” he said.\n> Tomorrow, I will be meeting with the Leaders of the G7, and the United States and our Allies and partners will be imposing severe sanctions on Russia.\n> \n> We will continue to provide support and assistance to Ukraine and the Ukrainian people.\n> \n> — President Biden (@POTUS...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "American Public Support for Assistance to Ukraine Has Waned, But ...",
+                "htmlTitle": "American Public Support for Assistance to Ukraine Has Waned, But ...",
+                "link": "https://globalaffairs.org/research/public-opinion-survey/american-public-support-assistance-ukraine-has-waned-still",
+                "displayLink": "globalaffairs.org",
+                "snippet": "Oct 4, 2023 ... While many Republicans believe that the United States should urge Kyiv to negotiate with Russia to end the war, half of them still support ...",
+                "htmlSnippet": "Oct 4, 2023 <b>...</b> While many Republicans believe that the United States should urge Kyiv to negotiate with Russia to <b>end</b> the war, half of them still support&nbsp;...",
+                "formattedUrl": "https://globalaffairs.org/.../american-public-support-assistance-ukraine-has-...",
+                "htmlFormattedUrl": "https://globalaffairs.org/.../american-public-support-assistance-ukraine-has-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDSW6um0ip5NPK_3hxXdKwafSjSLlnUPM9FsU0DClklMoZ-tEwoYNBS0&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://globalaffairs.org/sites/default/files/styles/wide_lrg/public/2023-09/Ukraine-Washington.jpg?h=f7680093&itok=3DG6EZO4",
+                            "msapplication-config": "/themes/custom/ccga/frontend/static-html/favicons/browserconfig.xml?v=2.0.0",
+                            "article:published_time": "Wed, 10/04/2023 - 05:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#efecea",
+                            "dcterms.title": "American Public Support for Assistance to Ukraine Has Waned, But Still Considerable",
+                            "dcterms.subject": "US Foreign Policy,Public Opinion",
+                            "og:description": "Six in 10 continue to support providing economic aid and sending additional arms and military supplies to the Ukrainian government, down slightly from a year ago.",
+                            "twitter:image": "https://globalaffairs.org/sites/default/files/styles/wide_lrg/public/2023-09/Ukraine-Washington.jpg?h=f7680093&itok=3DG6EZO4",
+                            "twitter:site": "@ChicagoCouncil",
+                            "dcterms.publisher": "The Chicago Council on Global Affairs",
+                            "msapplication-tilecolor": "#efecea",
+                            "twitter:title": "American Public Support for Assistance to Ukraine Has Waned, But Still Considerable",
+                            "handheldfriendly": "true",
+                            "dcterms.type": "Research",
+                            "og:title": "American Public Support for Assistance to Ukraine Has Waned, But Still Considerable",
+                            "dcterms.creator": "Dina Smeltz,Lama El Baz",
+                            "dcterms.description": "Six in 10 continue to support providing economic aid and sending additional arms and military supplies to the Ukrainian government, down slightly from a year ago.",
+                            "dcterms.date": "2023-10-04T10:00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Six in 10 continue to support providing economic aid and sending additional arms and military supplies to the Ukrainian government, down slightly from a year ago.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobileoptimized": "width",
+                            "mobile-web-app-capable": "yes",
+                            "dcterms.relation": "Lester Crown Center on US Foreign Policy"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://globalaffairs.org/sites/default/files/styles/wide_lrg/public/2023-09/Ukraine-Washington.jpg?h=f7680093&itok=3DG6EZO4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Six in 10 continue to support providing economic aid and sending additional arms and military supplies to the Ukrainian government, down slightly from a year ago.\nContinued economic support and military assistance to Ukraine was one of the most contentious issues during the budget showdown on Capitol Hill last week. Congress avoided a government shutdown by passing a  that will fund the government through mid-November but the omission of aid to Ukraine was notable. This happened, in part, because there is a  on the United States’ continued support for Ukraine and a  to oppose any stopgap measures or bills that allocate additional funding for Kyiv.\nA September 7-18 survey by the Chicago Council on Global Affairs shows that majorities of Americans support continued US economic assistance and military transfers to Ukraine, but those majorities have narrowed since last November. A slim majority also say the  has been worth the cost. While many Republicans believe that the United States should urge Kyiv to negotiate with Russia to end the war, half of them still support continuing US financial and military assistance.\nKey Findings\n------------\n*   Majorities of Americans continue to support providing economic assistance (61%) and sending additional arms and military supplies to the Ukrainian government (63%), down slightly from a year ago. About half of Republicans agree.\n*   A narrow majority of Americans say that the $43 billion in weapons, equipment and training that the United States has provided to Ukraine has been worth the cost (53% vs. 45% not worth the cost). Six in 10 Republicans say it has not been worth it.\n*   As in November 2022, about half the public thinks the United States should support Ukraine for as long as it takes even if it means higher prices for US households (47%). The other half prefers that the United States encourage Ukraine to negotiate even if it loses territory (49%). A majority of Republicans say that the United States should encourage negotiation (66%).\n*   But in response to a separate question that does not explicitly mention the costs to US households, nearly six in 10 Americans say the United States should continue to provide arms and military supplies to Ukraine until it has reclaimed all of its territory (57%). Four in 10 overall (and 50% of Republicans) prefer to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Ukraine: New attack on Crimea, Poland stops supplying arms ...",
+                "htmlTitle": "Ukraine: New attack on Crimea, Poland <b>stops</b> supplying arms ...",
+                "link": "https://www.euronews.com/2023/09/21/ukraine-poland-stops-supplying-arms-russian-missiles-hit-ukrainian-cities-zelenskyy-meets-",
+                "displayLink": "www.euronews.com",
+                "snippet": "Sep 21, 2023 ... Ukraine hits Crimea air base · Tough times loom for Ukraine, cautions Kyiv · Russian missiles rain down on Ukrainian cities · Poland to stop ...",
+                "htmlSnippet": "Sep 21, 2023 <b>...</b> Ukraine hits Crimea air base &middot; Tough <b>times</b> loom for Ukraine, cautions Kyiv &middot; Russian missiles rain down on Ukrainian cities &middot; Poland to <b>stop</b>&nbsp;...",
+                "formattedUrl": "https://www.euronews.com/.../ukraine-poland-stops-supplying-arms-russian...",
+                "htmlFormattedUrl": "https://www.euro<b>news</b>.com/.../ukraine-poland-<b>stop</b>s-supplying-arms-russian...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxdaZzeVOjqGE4R8XmMBmFwWkKFVJJEiXc1pCwSV85WBPvLRfjKhUMU34&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.euronews.com/articles/stories/07/90/96/56/1200x675_cmsv2_c9da88ed-1862-5c2d-bf11-c761020ba3a1-7909656.jpg",
+                            "msapplication-config": "browserconfig.xml",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "adv:branded": "no",
+                            "og:site_name": "euronews",
+                            "apple-mobile-web-app-title": "Euronews.com",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "All the latest developments from the war in Ukraine.",
+                            "twitter:image": "https://static.euronews.com/articles/stories/07/90/96/56/1200x675_cmsv2_c9da88ed-1862-5c2d-bf11-c761020ba3a1-7909656.jpg",
+                            "twitter:image:alt": "Ukraine: New attack on Crimea, Poland stops supplying arms, Zelenskyy meets Biden",
+                            "twitter:site": "@euronews",
+                            "news_keywords": "Poland,United Nations,Volodymyr Zelenskiy",
+                            "article:theme": "news",
+                            "application-name": "Euronews.com",
+                            "msapplication-tilecolor": "#0172F0",
+                            "msapplication-starturl": "./",
+                            "og:type": "article",
+                            "og:image:alt": "Ukraine: New attack on Crimea, Poland stops supplying arms, Zelenskyy meets Biden",
+                            "twitter:title": "Poland stops sending arms as Ukraine strikes Crimea air base",
+                            "msapplication-window": "width=1280;height=1024",
+                            "article:vertical": "news",
+                            "og:title": "Poland stops sending arms as Ukraine strikes Crimea air base",
+                            "og:image:height": "675",
+                            "sponsored": "no",
+                            "date.updated": "2023-09-21 15:03:29",
+                            "fb:pages": "101402598109",
+                            "msapplication-navbutton-color": "#0172F0",
+                            "program.url": "world",
+                            "wire": "no",
+                            "og:locale:alternate": "en-GB",
+                            "twitter:description": "All the latest developments from the war in Ukraine.",
+                            "apple-mobile-web-app-capable": "no",
+                            "og:locale:alternate:url": "https://www.euronews.com/2023/09/21/ukraine-poland-stops-supplying-arms-russian-missiles-hit-ukrainian-cities-zelenskyy-meets-",
+                            "adv:featured": "no",
+                            "og:locale": "en-GB",
+                            "mobile-web-app-capable": "no",
+                            "date.available": "2023-09-21 09:23:35 +02:00",
+                            "adv:premium": "yes",
+                            "og:url": "https://www.euronews.com/2023/09/21/ukraine-poland-stops-supplying-arms-russian-missiles-hit-ukrainian-cities-zelenskyy-meets-",
+                            "date.modified": "2023-09-21 15:03:29 +02:00",
+                            "date.created": "2023-09-21 09:23:35"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.euronews.com/articles/stories/07/90/96/56/1200x675_cmsv2_c9da88ed-1862-5c2d-bf11-c761020ba3a1-7909656.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... at  to send pitches or submissions and be part of the conversation._\nShare this article \nYou might also like\n-------------------\n### \n### \n### \n! ADVERTISEMENT\nTop stories\n-----------\n]\nNow playing Next\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n]\nNow playing Next\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n]\nNow playing Next\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n]\nNow playing Next\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n]\nNow playing Next\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n! ADVERTISEMENT\nMost read\n---------\n### \n### \n### \n### \n### \n! ADVERTISEMENT\nUkraine: New attack on Crimea, Poland stops supplying arms, Zelenskyy meets Biden\n=================================================================================\n!\n_FILE - emergency services personnel work to extinguish a fire following a Russian attack in Lviv, Ukraine, Tuesday, Sept. 19, 2023. \\- Copyright AP/Ukrainian Emergency Service via AP_\nCopyright AP/Ukrainian Emergency Service via AP\nBy **Euronews** with **AFP**\nPublished on 21/09/2023 - 9:23 GMT+2•Updated 15:03\nShare this article\nShare this article!\nFacebook!]Twitter!]Flipboard!]Send!]Reddit!]Messenger!]Linkedin!]VK!]\nCopy/paste the article video embed link below:!Copied\nAll the latest developments from the war in Ukraine.\nUkraine hits Crimea air base\n----------------------------\n!ADVERTISEMENT\nThe Ukrainian army claimed on Thursday to have struck a Russian military airfield near the Crimean town of Saky, in yet another attack by Kyiv on this Ukrainian peninsula annexed by Moscow and used as a base for its invasion of Ukraine.\n\"Ukrainian defence forces carried out a combined strike against a military airfield of the occupiers near the town of Saky\" on Wednesday night, the army's communications centre said on Telegram, without giving further details.\n!\nA source in the Ukrainian Security Service (SBU) said it was a joint operation by the SBU and naval forces using drones and Ukrainian-made Neptune cruise missiles.\nThe strike comes just a day after Crimea's Russian-installed authorities announced that they had foiled Ukrainian missile and drone strikes targeting Sevastopol and the area around its major port, a crucial facility for the Russian navy.\nAccording to Sevastopol governor Mikhail Razvojaev, Ukrainian forces had targeted the city with missiles and two neighbouring towns, Kacha and Verkhnessadovoye, with drones.\nOn September 13, a strike damaged two ships...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Putin to host Kremlin ceremony annexing parts of Ukraine - The ...",
+                "htmlTitle": "Putin to host Kremlin ceremony annexing parts of Ukraine - The ...",
+                "link": "https://www.japantimes.co.jp/news/2022/09/30/world/kremlin-ceremony-ukraine-annexation/",
+                "displayLink": "www.japantimes.co.jp",
+                "snippet": "Sep 30, 2022 ... \"It can still be stopped. But to stop it we have to stop that person in Russia who wants war more than life. Your lives, citizens of Russia,\" ...",
+                "htmlSnippet": "Sep 30, 2022 <b>...</b> &quot;It can still be <b>stopped</b>. But to <b>stop</b> it we have to <b>stop</b> that person in Russia who wants war more than life. Your lives, citizens of Russia,&quot;&nbsp;...",
+                "formattedUrl": "https://www.japantimes.co.jp/news/.../kremlin-ceremony-ukraine-annexatio...",
+                "htmlFormattedUrl": "https://www.<b>japan</b>times.co.jp/<b>news</b>/.../kremlin-ceremony-ukraine-annexatio...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfHKjjdfZsoBXeO8Nx9gkO_KPJFJxZ96PwQ6ZQ12g57OtzOMb6NFbvjSZp&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "article",
+                            "og:image": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg",
+                            "copyright": "The Japan Times",
+                            "article:published_time": "2022-09-30T11:01:39+09:00",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "600",
+                            "og:site_name": "The Japan Times",
+                            "language": "en",
+                            "og:description": "United Nations chief Antonio Guterres has issued a warning, saying the planned annexations were a 'dangerous escalation' and jeopardize prospects for peace.",
+                            "twitter:image": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg",
+                            "og:image:secure_url": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg",
+                            "cxenseparse:author": "No Author",
+                            "datemodified": "2022-09-30 03:27:28",
+                            "article:modified_time": "2022-09-30T11:01:39+09:00",
+                            "article:expiration_time": "2023-09-30T11:01:39+09:00",
+                            "datepublished": "2022-09-30 11:01:39",
+                            "og:type": "article",
+                            "article:section": "WORLD",
+                            "twitter:title": "Putin to host Kremlin ceremony annexing parts of Ukraine",
+                            "cxenseparse:pageclass": "article",
+                            "inlanguage": "en",
+                            "author": "No Author",
+                            "og:title": "Putin to host Kremlin ceremony annexing parts of Ukraine",
+                            "og:image:height": "315",
+                            "cxenseparse:jat-post-type": "News",
+                            "og:updated_time": "2022-09-30T11:01:39+09:00",
+                            "fb:pages": "6321018343",
+                            "article:author": "/author/int-no_author",
+                            "article:tag": "Vladimir Putin",
+                            "fb:app_id": "119406745111",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                            "cxenseparse:articleid": "4775",
+                            "cxenseparse:jat-stickies": "Home Module Lead Story,Home Module Secondary Story",
+                            "twitter:description": "United Nations chief Antonio Guterres has issued a warning, saying the planned annexations were a 'dangerous escalation' and jeopardize prospects for peace.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.japantimes.co.jp/news/2022/09/30/world/kremlin-ceremony-ukraine-annexation/",
+                            "format-detection": "telephone=no",
+                            "cxenseparse:jat-credit": "REUTERS",
+                            "thumbnailurl": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "pagetype": "article",
+                            "image": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg",
+                            "identifier": "4775",
+                            "datemodified": "2022-09-30 03:27:28",
+                            "inlanguage": "en",
+                            "articlesection": "WORLD",
+                            "author": "No Author",
+                            "publisher": "The Japan Times",
+                            "headline": "Putin to host Kremlin ceremony annexing parts of Ukraine",
+                            "datepublished": "2022-09-30 11:01:39"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2022/09/np_file_185367.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   (javascript:void\\(0\\) \"Logout\")\n!\nPutin to host Kremlin ceremony annexing parts of Ukraine\n========================================================\n Screens and banners dedicated to the results of referendums on the joining of four Ukrainian self-proclaimed regions to Russia, on a bridge near the Kremlin and Red Square in central Moscow on Thursday. | REUTERS]\nREUTERS\nSHARE\n    Print\nSep 30, 2022\nRussian President Vladimir Putin was set to host a Kremlin ceremony on Friday annexing four regions of Ukraine, while his Ukrainian counterpart said Putin would have to be stopped for Russia to avoid the most damaging consequences of the war.\nThere was a warning too from United Nations chief Antonio Guterres who said the planned annexations were a \"dangerous escalation\" and jeopardize prospects for peace.\nPutin has doubled down on the invasion he ordered in February despite suffering a major reversal on the battlefield this month and discontent in Russia over a widely criticized  to fight in Ukraine.\n*   \n*   \n*   \nIn a time of both misinformation and too much information,  \nquality journalism is more crucial than ever.  \nBy subscribing, you can help us get the story right.\nUndo\nUndo\nUndo\nLearn more\nUndo\nUndo\nSearch Now\nUndo\n##### In your social network\nStay up to date with us on your social media platform of choice.\n]\n##### In your inbox\nGet updates, insights and more via our newsletters.\n  SIGN ME UP]\n*   products & services\n*   \n*   \n*   \n*   \n*   \n*   \n*   help & support\n*   \n*   \n*   \n*   \n*   \n*   about us\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   our sites\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   our activities\n*   \n*   \n*   \n*   \n##### In your social network\nStay up to date with us on your social media platform of choice...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "'Chemtrail' conspiracy theorists: The people who think governments ...",
+                "htmlTitle": "&#39;Chemtrail&#39; conspiracy theorists: The people who think governments ...",
+                "link": "https://www.bbc.com/news/blogs-trending-42195511",
+                "displayLink": "www.bbc.com",
+                "snippet": "Jan 30, 2018 ... This awakening truly changed my life,\" she says. Suzanne Maher Suzanne Maher in front of a Bye Bye Blue Sky billboard in Toronto Suzanne Maher.",
+                "htmlSnippet": "Jan 30, 2018 <b>...</b> This awakening truly changed my life,&quot; she says. Suzanne Maher Suzanne Maher in front of a Bye Bye Blue Sky <b>billboard</b> in Toronto Suzanne Maher.",
+                "formattedUrl": "https://www.bbc.com/news/blogs-trending-42195511",
+                "htmlFormattedUrl": "https://www.bbc.com/<b>news</b>/blogs-trending-42195511",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNeutpIoOJ0GBlUq7hrjpgB41nhVYjlvMtfBf8kNj6jzzGnybw7ejwzrY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/0314/production/_99188700_suzanne_maher_billboard.jpg",
+                            "twitter:title": "'Chemtrail' conspiracy theorists: The people who think governments control the weather",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Chemtrails billboard",
+                            "theme-color": "#ffffff",
+                            "og:title": "'Chemtrail' conspiracy theorists: The people who think governments control the weather",
+                            "og:description": "The first part of the BBC's series on online conspiracy theories: why some people think chemicals are dropping from the sky.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/0314/production/_99188700_suzanne_maher_billboard.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Chemtrails billboard",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The first part of the BBC's series on online conspiracy theories: why some people think chemicals are dropping from the sky."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/0314/production/_99188700_suzanne_maher_billboard.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of Harvard University, is among the most prominent scientists calling for further research.  he knows of only two instances where one of the most controversial proposals has been tested in the field. It's called solar geo-engineering and involves atmospheric aerosol injection of tiny reflective particles to reduce the amount of sunlight reaching the earth and thus cool the planet.\nSimilarly, successful weather modification efforts have been localised - and certainly not on the grand scale some conspiracy theorists claim.\nNonetheless, \"chemtrail\" and geo-engineering conspiracy theorists flood social media with speculation, questions and images of contrail cross-hatched skies.  suggested almost 17% of respondents thought chemtrail conspiracy theories true or partly true.\nSuzanne says she first became aware of the subject six years ago.\n\"I was actually on a website. It was a very young girl, she wasn't even ten years old. She talked about the spraying going on in our skies and the fact she was so sad because she didn't want to go outside and the skies were no longer blue and we were being sprayed. Why would such a young child be sharing this information if it wasn't truthful?\n\"Her words disturbed me and intrigued me so I began looking into this topic and doing extensive research. This awakening truly changed my life,\" she says.\n!Suzanne Maher\nSuzanne Maher in front of a Bye Bye Blue Sky billboard in Toronto\nThat research led Suzanne to create Bye Bye Blue Sky. She runs a closed group on Facebook, where around 5,000 fellow believers can discuss the theory, as well as raising money to buy billboard advertising. She closely vets the group's members.\n\"We don't debate that it's happening in this group,\" she says. \"We all realise that it is happening.\"\n'Information bubbles'\n---------------------\nClosed groups of like-minded people - the type common on social media and the internet - are one of the big reasons why conspiracy theories solidify online. Professor Karen Douglas, from the University of Kent, researches the psychology of conspiracy theories.\n\"People tend to share information but also consume information that's consistent with what they already believe,\" she says.\n\"People end up living in these information bubbles, or echo chambers, where they share ideas with other people who believe what they believe. And they read information which confirms what they believe.\n\"Information doesn't necessarily spread indiscriminately the way people think it does on the internet and social media. People tend to share it with people who kind of think the same way as they do about these issues in the first place,\" she says.\n'I taste and smell it'\n----------------------\nRuss Tanner runs...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

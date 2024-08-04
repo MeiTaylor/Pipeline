@@ -1,0 +1,748 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Trump Georgia election overturn case details",
+                "totalResults": "1200000",
+                "searchTerms": "Trump Georgia election overturn case details",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Trump Georgia election overturn case details",
+                "totalResults": "1200000",
+                "searchTerms": "Trump Georgia election overturn case details",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.353168,
+        "formattedSearchTime": "0.35",
+        "totalResults": "1200000",
+        "formattedTotalResults": "1,200,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Ex-Trump allies detail efforts to overturn election in Georgia plea ...",
+                "htmlTitle": "Ex-<b>Trump</b> allies <b>detail</b> efforts to <b>overturn election</b> in <b>Georgia</b> plea ...",
+                "link": "https://www.washingtonpost.com/national-security/2023/11/13/trump-georgia-case-videos-overturn-2020-election/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Nov 13, 2023 ... The Post obtained recordings of statements made by four of Trump's co-defendants who pleaded guilty in the case in Fulton County, Ga.",
+                "htmlSnippet": "Nov 13, 2023 <b>...</b> The Post obtained recordings of statements made by four of <b>Trump&#39;s</b> co-defendants who pleaded guilty in the <b>case</b> in Fulton County, <b>Ga</b>.",
+                "formattedUrl": "https://www.washingtonpost.com/.../trump-georgia-case-videos-overturn-2...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../<b>trump</b>-<b>georgia</b>-<b>case</b>-videos-<b>overturn</b>-2...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSxJV6fbvcD2INrHDWmgJMx26Tlb2GHVC5h5w4bIWV3S7_2DMhGwf1pMfw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "The Post obtained recordings of statements made by four of Trump’s co-defendants who pleaded guilty in the case in Fulton County, Ga.",
+                            "article_modified_time": "2023-11-16T17:50:35.244Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-14-2023/t_864ee1194b734e6ba9241baeaa36e8cc_name_20231113_EllisPowellHall_LOOP_STILL.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/national-security/2023/11/13/trump-georgia-case-videos-overturn-2020-election/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-11-14T00:23:39.188Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Ex-Trump allies detail efforts to overturn election in Georgia plea videos",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/national-security/2023/11/13/trump-georgia-case-videos-overturn-2020-election/",
+                            "og:description": "The Post obtained recordings of statements made by four of Trump’s co-defendants who pleaded guilty in the case in Fulton County, Ga.",
+                            "article_published_time": "2023-11-14T00:23:39.188Z",
+                            "next-head-count": "85",
+                            "article_section": "National Security",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-11-16T17:50:35.244Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "The Post obtained recordings of statements made by four of Trump’s co-defendants who pleaded guilty in the case in Fulton County, Ga.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Ex-Trump allies detail efforts to overturn election in Georgia plea videos",
+                            "last_updated_date": "2023-11-16T17:50:35.244Z",
+                            "og:type": "article",
+                            "twitter:title": "Ex-Trump allies detail efforts to overturn election in Georgia plea videos",
+                            "article:section": "National Security",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Ex-Trump allies detail efforts to overturn election in Georgia plea videos",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-14-2023/t_864ee1194b734e6ba9241baeaa36e8cc_name_20231113_EllisPowellHall_LOOP_STILL.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Post obtained recordings of statements made by four of Trump’s co-defendants who pleaded guilty in the case in Fulton County, Ga.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/national-security/2023/11/13/trump-georgia-case-videos-overturn-2020-election/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/11-14-2023/t_864ee1194b734e6ba9241baeaa36e8cc_name_20231113_EllisPowellHall_LOOP_STILL.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A former attorney for  has told Georgia prosecutors that a top presidential aide said to her in December 2020 that “the boss” did not plan to leave the White House “under any circumstances,” according to a video recording obtained by The Washington Post.\nJenna Ellis, a onetime Trump lawyer who  to lesser charges in exchange for her testimony in the Fulton County, Ga., case, told prosecutors in the video that Dan Scavino, Trump’s deputy chief of staff at the time, was unfazed by her view that the president was running out of options to challenge Joe Biden’s victory.\nFormer Trump attorney Jenna Ellis recounted an exchange with then-White House aide Dan Scavino regarding the president’s intent not to leave office. (Video: Obtained by The Washington Post)\n“And he said to me, you know, in a kind of excited tone, ‘Well, we don’t care, and we’re not going to leave,’” Ellis said in the video.\nThe description comes from recordings obtained by The Post of the statements of the four defendants who have accepted plea deals in the Georgia case — recordings that they were required to make under the terms of their deals and that were intended to lay out what they know that could be used against the other defendants in the case.\nAlthough some of the recordings were garbled, the portions of the four statements that The Post was able to review — from Ellis, lawyers Kenneth Chesebro and Sidney Powell, and Georgia bail bondsman Scott Hall — offered many previously undisclosed details about the effort by Trump and his allies to reverse his defeat.\n disclosed in his recorded statement that at a previously unreported White House meeting, he briefed Trump on election challenges in Arizona and summarized a memo in which he offered advice on assembling alternate slates of electors in key battlegrounds to cast ballots for Trump despite Biden’s victories in those states.\nChesebro’s recollection could provide evidence that Trump was aware of the elector plan.\nProsecutors repeatedly pressed Powell on why Trump was leaning on her for legal advice, ignoring the counsel of White House attorneys and others who told him that he had lost the election.\nAsked why she thought Trump did that, Powell replied, “Because we were the only ones willing to support his effort to sustain the White House. I mean, everybody else was telling him to pack up and go.”\nThe , unsealed in August, accuses Trump and 18 other defendants — including Rudy Giuliani, his former personal attorney; Mark Meadows, his former chief of staff; former...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Timeline: Criminal probe into Trump's efforts to overturn Georgia ...",
+                "htmlTitle": "Timeline: Criminal probe into <b>Trump&#39;s</b> efforts to <b>overturn Georgia</b> ...",
+                "link": "https://abcnews.go.com/Politics/timeline-criminal-probe-trumps-efforts-overturn-georgia-election/story?id=98504895",
+                "displayLink": "abcnews.go.com",
+                "snippet": "Here's a look at how Fulton County District Attorney Fani Willis' investigation into efforts to overturn the 2020 election results in Georgia has unfolded.",
+                "htmlSnippet": "Here&#39;s a look at how Fulton County District Attorney Fani Willis&#39; investigation into efforts to <b>overturn</b> the 2020 <b>election</b> results in <b>Georgia</b> has unfolded.",
+                "formattedUrl": "https://abcnews.go.com/Politics/...trumps...overturn-georgia-election/story?...",
+                "htmlFormattedUrl": "https://abcnews.go.com/Politics/...<b>trump</b>s...<b>overturn</b>-<b>georgia</b>-<b>election</b>/story?...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScMGx0QDHycvXuWlJDADXKr5s3gzuVklVAUCBYRLChkQErJIK-zuLql5I&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.abcnewsfe.com/a/36028d7a-9010-4603-81c6-f81f77ca5ace/donald-trump-ap-jef-230411_1681231890277_hpMain_16x9.jpg?w=1600",
+                            "twitter:app:url:iphone": "abcnewsiphone://link/prism-story,98504895",
+                            "twitter:app:id:googleplay": "com.abc.abcnews",
+                            "copyright": "2024 ABC News",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ABC News",
+                            "twitter:url": "https://abcnews.go.com/Politics/timeline-criminal-probe-trumps-efforts-overturn-georgia-election/story?id=98504895",
+                            "twitter:app:url:ipad": "abcnewsipad://link/prism-story,98504895",
+                            "twitter:image:height": "360",
+                            "al:ipad:app_store_id": "380520716",
+                            "twitter:app:name:googleplay": "ABC News",
+                            "twitter:app:id:iphone": "300255638",
+                            "og:description": "Here's a look at how Fulton County District Attorney Fani Willis' investigation into efforts to overturn the 2020 election results in Georgia has unfolded.",
+                            "twitter:creator": "ABC News",
+                            "twitter:image": "https://i.abcnewsfe.com/a/36028d7a-9010-4603-81c6-f81f77ca5ace/donald-trump-ap-jef-230411_1681231890277_hpMain_16x9.jpg?w=1600",
+                            "lastpublisheddate": "2024-07-16T20:49:50Z",
+                            "al:iphone:app_name": "ABC News - Breaking US & World News",
+                            "twitter:site": "@ABC",
+                            "twitter:image:width": "640",
+                            "fb:admins": "704409894",
+                            "article:content_tier": "free",
+                            "fb_title": "Timeline: Criminal probe into Trump's efforts to overturn Georgia election results",
+                            "og:type": "article",
+                            "twitter:title": "Timeline: Criminal probe into Trump's efforts to overturn Georgia election results",
+                            "author": "ABC News",
+                            "og:title": "Timeline: Criminal probe into Trump's efforts to overturn Georgia election results",
+                            "twitter:app:id:ipad": "306934135",
+                            "fb:pages": "86680728811",
+                            "al:iphone:url": "abcnewsiphone://link/prism-story,98504895",
+                            "fb:app_id": "4942312939",
+                            "twitter:app:url:googleplay": "https://abcnews.go.com/Politics/timeline-criminal-probe-trumps-efforts-overturn-georgia-election/story?id=98504895",
+                            "al:ipad:url": "abcnewsipad://link/prism-story,98504895",
+                            "twitter:app:name:ipad": "ABC News",
+                            "viewport": "initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "Here's a look at how Fulton County District Attorney Fani Willis' investigation into efforts to overturn the 2020 election results in Georgia has unfolded.",
+                            "al:iphone:app_store_id": "300255638",
+                            "og:locale": "en_US",
+                            "og:url": "https://abcnews.go.com/Politics/timeline-criminal-probe-trumps-efforts-overturn-georgia-election/story?id=98504895",
+                            "twitter:app:name:iphone": "ABC News",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.abcnewsfe.com/a/36028d7a-9010-4603-81c6-f81f77ca5ace/donald-trump-ap-jef-230411_1681231890277_hpMain_16x9.jpg?w=1600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... \"systemic fraud\" that would change the outcome.\nRaffensperger and Kemp recertify the state's election results after a recount requested by Trump confirms once again that Biden won the state. The audit found that Biden won by a margin of 11,779 votes.\nMark Meadows, the White House chief of staff at the time, visits Georgia's Cobb County to observe a signature match audit.\nAmid the signature match audit in Cobb County, Trump phones a chief investigator in Raffensperger's office to discuss the audit, telling the investigator they would be praised for finding errors in the vote count, according to an individual familiar with the call.\nIn an hourlong phone call obtained by ABC News, Trump calls Raffensperger and falsely claims that it was \"not possible\" for him to have lost and asks the secretary to \"find 11,780 votes\" -- the exact number Trump needed to win Georgia.\n\"The people of Georgia are angry. The people of the country are angry, and there's nothing wrong with saying that, you know, that you've recalculated,\" Trump says on the call. \"All I want to do is this: I just want to find 11,780 votes, which is one more than we have. ... Fellas, I need 11,000 votes, give me a break.\"\nMeadows was also heard speaking on the call.\nRaffensperger challenged the president's allegations, saying the data Trump is citing about tens of thousands of illegal votes \"is wrong.\"\nFulton County District Attorney Fani Willis notifies Kemp that her office has launched an investigation into efforts by Trump and his allies to overturn the results of the 2020 election, according to a letter obtained by ABC News.\nThe letter asked state officials to preserve any documents potentially related to the 2020 general election, \"with particular care given to set aside and preserve those that may be evidence of attempts to influence the actions of persons who were administering\" it, which would include Trump's phone call with Raffensperger.\nWillis requests to seat a special grand jury in her probe, according to a letter obtained by ABC News. In the letter to Fulton County Chief Judge Christopher Brasher, Willis wrote that the move is needed because \"a significant number of witnesses and prospective witnesses have refused to cooperate with the investigation absent a subpoena requiring their testimony.\"\nTwenty-six jurors are selected for a special grand jury in Willis' investigation.\nThe special grand jury does not have the ability to return an indictment and can only make recommendations concerning criminal prosecution. Should charges be recommended, it would then be up to Willis to determine whether or not to pursue them.\nNew...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Trump and 18 allies charged in Georgia election meddling | AP News",
+                "htmlTitle": "<b>Trump</b> and 18 allies charged in <b>Georgia election</b> meddling | AP News",
+                "link": "https://apnews.com/article/trump-georgia-election-investigation-grand-jury-willis-d39562cedfc60d64948708de1b011ed3",
+                "displayLink": "apnews.com",
+                "snippet": "Aug 15, 2023 ... Donald Trump and 18 allies have been indicted in Georgia over efforts to overturn his 2020 election loss in the state.",
+                "htmlSnippet": "Aug 15, 2023 <b>...</b> Donald <b>Trump</b> and 18 allies have been indicted in <b>Georgia</b> over efforts to <b>overturn</b> his 2020 <b>election</b> loss in the state.",
+                "formattedUrl": "https://apnews.com/.../trump-georgia-election-investigation-grand-jury-willi...",
+                "htmlFormattedUrl": "https://apnews.com/.../<b>trump</b>-<b>georgia</b>-<b>election</b>-investigation-grand-jury-willi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlS9JZfTnbs4xozmMbyJhH7ETAAmyRWD2f6ziA2vXbV7UsKWWEGYlvhJY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-08-14T16:22:43",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Donald Trump and 18 allies have been indicted in Georgia over efforts to overturn his 2020 election loss in the state.",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973",
+                            "twitter:image:alt": "Fulton County District Attorney Fani Willis speaks in the Fulton County Government Center during a news conference, Monday, Aug. 14, 2023, in Atlanta. Donald Trump and several allies have been indicted in Georgia over efforts to overturn his 2020 election loss in the state. (AP Photo/John Bazemore)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-12-04T22:18:17.3",
+                            "brightspot.contentid": "653254cf-a564-38ea-a5a5-fdf39e769ee3",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973",
+                            "og:image:alt": "Fulton County District Attorney Fani Willis speaks in the Fulton County Government Center during a news conference, Monday, Aug. 14, 2023, in Atlanta. Donald Trump and several allies have been indicted in Georgia over efforts to overturn his 2020 election loss in the state. (AP Photo/John Bazemore)",
+                            "og:type": "article",
+                            "article:section": "Politics",
+                            "twitter:title": "Trump and 18 allies charged in Georgia election meddling as former president faces 4th criminal case",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973",
+                            "ga-datalayer": "{\n  \"dimension1\" : \"d39562cedfc60d64948708de1b011ed3\",\n  \"dimension15\" : \"Donald Trump,General news,Indictments,Elections,Georgia,Washington News,U.S. News,Politics\",\n  \"dimension9\" : \"2023-08-14 12:22:43\",\n  \"dimension10\" : \"KATE BRUMBACK,ERIC TUCKER\"\n}",
+                            "ntv-kv": "Georgia,DonaldTrump,Elections,Indictments,Generalnews,a,U.S.DepartmentofJustice,p,n,Politics,FaniWillis,Voting,U.S.news,Fraud,Washingtonnews,MarkMeadows,RudolphGiuliani,U.S.News,WashingtonNews",
+                            "og:title": "Trump and 18 allies charged in Georgia election meddling as former president faces 4th criminal case",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"Politics\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"a\", \"Donald Trump\", \"U.S. News\", \"U.S. Department of Justice\", \"Fraud\", \"n\", \"Washington news\", \"p\", \"Elections\", \"Fani Willis\", \"Voting\", \"Rudolph Giuliani\", \"U.S. news\", \"Mark Meadows\", \"General news\", \"Politics\", \"Georgia\", \"Washington News\", \"Indictments\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-08-14T12:22:43.000Z\",\n  \"item_id\" : \"d39562cedfc60d64948708de1b011ed3\",\n  \"headline\" : \"Trump and 18 allies charged in Georgia election meddling as former president faces 4th criminal case\",\n  \"authors\" : [ \"KATE BRUMBACK\", \"ERIC TUCKER\" ]\n}",
+                            "article:author": "https://apnews.com/author/eric-tucker",
+                            "article:tag": "Donald Trump",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "Donald Trump and 18 allies have been indicted in Georgia over efforts to overturn his 2020 election loss in the state.",
+                            "og:url": "https://apnews.com/article/trump-georgia-election-investigation-grand-jury-willis-d39562cedfc60d64948708de1b011ed3",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"d39562cedfc60d64948708de1b011ed3\",\n  \"Tag_CMS\" : \"Donald Trump,General news,Indictments,Elections,Georgia,Washington News,U.S. News,Politics\",\n  \"item_ID\" : \"d39562cedfc60d64948708de1b011ed3\",\n  \"tag_array\" : \"Donald Trump,General news,Indictments,Elections,Georgia,Washington News,U.S. News,Politics\",\n  \"headline\" : \"Trump and 18 allies charged in Georgia election meddling as former president faces 4th criminal case\",\n  \"publication_date\" : \"2023-08-14 12:22:43\",\n  \"author\" : \"KATE BRUMBACK,ERIC TUCKER\",\n  \"linked_video\" : \"YES\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Video\",\n  \"page_type\" : \"Article\",\n  \"slug_line\" : \"AP-US--Georgia Election Investigation, 22nd Ld-Writethru\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 8694,\n  \"primary_section\" : \"Politics\",\n  \"secondary_sections\" : \"Washington News,U.S. News\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/4a03479/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ff4%2Fc9%2F6e3ed4695f2f77842a0c27b7c269%2Ff9fdf62f4d104947a2ae83458038b973"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/trump-georgia-election-investigation-grand-jury-willis-d39562cedfc60d64948708de1b011ed3: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/trump-georgia-election-investigation-grand-jury-willis-d39562cedfc60d64948708de1b011ed3",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Trump Georgia Election Case - The New York Times",
+                "htmlTitle": "<b>Trump Georgia Election Case</b> - The New York Times",
+                "link": "https://www.nytimes.com/news-event/trump-georgia-election-case",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Fani T. Willis, the Fulton County district attorney, could be disqualified from prosecuting Donald Trump and 14 allies over efforts to overturn the 2020 ...",
+                "htmlSnippet": "Fani T. Willis, the Fulton County district attorney, could be disqualified from prosecuting Donald <b>Trump</b> and 14 allies over efforts to <b>overturn</b> the 2020&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/news-event/trump-georgia-election-case",
+                "htmlFormattedUrl": "https://www.nytimes.com/news-event/<b>trump</b>-<b>georgia</b>-<b>election</b>-<b>case</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrEFd9dMV6ZEdLynnRAHAETMJuqcmVYo2BhO9L1d7zeE92oK6AIO_Lb8Q&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+                            "collection:language": "en",
+                            "twitter:card": "summary_large_image",
+                            "pt": "collection",
+                            "twitter:url": "https://www.nytimes.com/news-event/trump-georgia-election-case",
+                            "nyt-collection:identifier": "trump-georgia-election-case",
+                            "pdate": "20231116",
+                            "asset_id": "100000009184650",
+                            "og:description": "U.S.",
+                            "twitter:image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+                            "nyt-collection:display-name": "U.S.",
+                            "twitter:site": "@nytimes",
+                            "news_keywords": "U.S.",
+                            "ptime": "20231116133408",
+                            "slug": "trump-georgia-election-case",
+                            "collection:section": "U.S.",
+                            "nyt-collection:type": "news_eventcollection",
+                            "twitter:title": "Trump Georgia Election Case",
+                            "og:type": "article",
+                            "utime": "20240709105526",
+                            "og:title": "Trump Georgia Election Case",
+                            "slack-app-id": "A0121HXPPTQ",
+                            "cn": "trump-georgia-election-case",
+                            "color-scheme": "light",
+                            "applicationname": "collection",
+                            "ct": "column",
+                            "fb:app_id": "9869919170",
+                            "collection:parentsection": "U.S.",
+                            "nyt-collection:uri": "/news-event/trump-georgia-election-case",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "nyt-collection:url": "https://www.nytimes.com/news-event/trump-georgia-election-case",
+                            "og:url": "https://www.nytimes.com/news-event/trump-georgia-election-case"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Trump Georgia Election Case\nThe Supreme Court decision granting former presidents broad protection from prosecution kicked to the trial court key rulings about how much of Donald Trump’s indictment on election charges can stand.\n By Alan Feuer\nDetermining which of the alleged acts that Donald Trump is being prosecuted for in the state were official conduct, and which were not, could delay the case for months.\n By Danny Hakim\nThe order means the prosecution of Donald J. Trump in Georgia is effectively frozen, at least through the presidential election.\n By Richard Fausset\nThe decision to hear the appeal reopens the possibility that Fani T. Willis, the Fulton County district attorney, could be disqualified from prosecuting Donald Trump and 14 allies over efforts to overturn the 2020 election.\n By Richard Fausset\nFact-Checking Trump’s Defenses in His Court Cases\nThe former president has trotted out a host of false and misleading claims to defend his conduct, attack judges and prosecutors and portray himself as a victim of political persecution.\n By Linda Qiu\nProsecutions of Fake Electors for Trump Gain Ground in Swing States\nGeorgia, Michigan and Nevada have already brought charges against people who posed as electors for Donald Trump, and Arizona and Wisconsin have active investigations.\n By Danny Hakim\nGeorgia’s Lieutenant Governor to Face Inquiry for Role as Fake Trump Elector\nFani T. Willis, the district attorney of Fulton County, Ga., had been disqualified from pursuing the case against Lt. Gov. Burt Jones, but another prosecutor said he would now take it over.\n By Richard Fausset and Danny Hakim\nTrump Seeks to Appeal Ruling Allowing Prosecutor to Keep Georgia Case\nBecause the defendants want to pursue an appeal now, ahead of any trial, Georgia law requires them to get permission from the judge who wrote the ruling.\n By Richard Fausset and Danny Hakim\nJudge Rules D.A. Can Stay on Trump...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Jenna Ellis pleads guilty in Georgia Trump election case | AP News",
+                "htmlTitle": "Jenna Ellis pleads guilty in <b>Georgia Trump election case</b> | AP News",
+                "link": "https://apnews.com/article/jenna-ellis-plea-deal-georgia-election-case-c4dbacd3e4bbb5415ebd3d42d8fa3128",
+                "displayLink": "apnews.com",
+                "snippet": "Oct 24, 2023 ... Jenna Ellis pleaded guilty on Tuesday to a felony charge over efforts to overturn Donald Trump's 2020 election loss in Georgia.",
+                "htmlSnippet": "Oct 24, 2023 <b>...</b> Jenna Ellis pleaded guilty on Tuesday to a felony charge over efforts to <b>overturn</b> Donald <b>Trump&#39;s</b> 2020 <b>election</b> loss in <b>Georgia</b>.",
+                "formattedUrl": "https://apnews.com/.../jenna-ellis-plea-deal-georgia-election-case-c4dbacd3...",
+                "htmlFormattedUrl": "https://apnews.com/.../jenna-ellis-plea-deal-<b>georgia</b>-<b>election</b>-<b>case</b>-c4dbacd3...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR84EUjUc8QzlDoIcsto3UDQRnakwHa3LIhyeLl2yCQkjzs0Sv9mL2wu-Po&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-10-24T13:45:39",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Jenna Ellis pleaded guilty on Tuesday to a felony charge over efforts to overturn Donald Trump’s 2020 election loss in Georgia.",
+                            "twitter:creator": "@apwillweissert",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441",
+                            "twitter:image:alt": "Jenna Ellis speaks with her attorney Franklin Hogue after Ellis plead guilty to a felony count of aiding and abetting false statements and writings, inside Fulton Superior Court Judge Scott McAfee's Fulton County Courtroom, Tuesday, Oct. 24, 2023, in Atlanta. Ellis, an attorney and prominent conservative media figure, reached a deal with prosecutors Tuesday, Oct. 24, 2023, and pleaded guilty to a reduced charge over efforts to overturn Donald Trump's 2020 election loss in Georgia.(AP Photo/John Bazemore, Pool)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2024-02-02T18:50:13.675",
+                            "brightspot.contentid": "aef8e474-3858-3204-bcc9-ab57e4f1c184",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441",
+                            "og:image:alt": "Jenna Ellis speaks with her attorney Franklin Hogue after Ellis plead guilty to a felony count of aiding and abetting false statements and writings, inside Fulton Superior Court Judge Scott McAfee's Fulton County Courtroom, Tuesday, Oct. 24, 2023, in Atlanta. Ellis, an attorney and prominent conservative media figure, reached a deal with prosecutors Tuesday, Oct. 24, 2023, and pleaded guilty to a reduced charge over efforts to overturn Donald Trump's 2020 election loss in Georgia.(AP Photo/John Bazemore, Pool)",
+                            "og:type": "article",
+                            "article:section": "U.S. News",
+                            "twitter:title": "Jenna Ellis becomes latest Trump lawyer to plead guilty over efforts to overturn Georgia's election",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441",
+                            "ga-datalayer": "{\n  \"dimension1\" : \"c4dbacd3e4bbb5415ebd3d42d8fa3128\",\n  \"dimension15\" : \"Donald Trump,General news,Georgia state government,Elections,Georgia,Trump Investigations,Washington News,Politics,U.S. News\",\n  \"dimension9\" : \"2023-10-24 09:45:39\",\n  \"dimension10\" : \"WILL WEISSERT,KATE BRUMBACK\"\n}",
+                            "ntv-kv": "Georgiastategovernment,Georgia,DonaldTrump,Elections,Generalnews,TrumpInvestigations,p,Politics,Washingtonnews,n,Legalproceedings,JoeBiden,FaniWillis,Indictments,a,U.S.news,WashingtonNews",
+                            "og:title": "Jenna Ellis becomes latest Trump lawyer to plead guilty over efforts to overturn Georgia's election",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"U.S. News\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Trump Investigations\", \"a\", \"Donald Trump\", \"Georgia state government\", \"Joe Biden\", \"Washington news\", \"n\", \"p\", \"Elections\", \"Fani Willis\", \"Legal proceedings\", \"U.S. news\", \"General news\", \"Politics\", \"Georgia\", \"Washington News\", \"Indictments\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-10-24T09:45:39.000Z\",\n  \"item_id\" : \"c4dbacd3e4bbb5415ebd3d42d8fa3128\",\n  \"headline\" : \"Jenna Ellis becomes latest Trump lawyer to plead guilty over efforts to overturn Georgia's election\",\n  \"authors\" : [ \"WILL WEISSERT\", \"KATE BRUMBACK\" ]\n}",
+                            "article:author": "https://apnews.com/author/will-weissert",
+                            "article:tag": "Donald Trump",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "Attorney and prominent conservative media figure Jenna Ellis has pleaded guilty to a felony charge over efforts to overturn Donald Trump’s 2020 election loss in Georgia.",
+                            "og:url": "https://apnews.com/article/jenna-ellis-plea-deal-georgia-election-case-c4dbacd3e4bbb5415ebd3d42d8fa3128",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"c4dbacd3e4bbb5415ebd3d42d8fa3128\",\n  \"Tag_CMS\" : \"Donald Trump,General news,Georgia state government,Elections,Georgia,Trump Investigations,Washington News,Politics,U.S. News\",\n  \"item_ID\" : \"c4dbacd3e4bbb5415ebd3d42d8fa3128\",\n  \"tag_array\" : \"Donald Trump,General news,Georgia state government,Elections,Georgia,Trump Investigations,Washington News,Politics,U.S. News\",\n  \"headline\" : \"Jenna Ellis becomes latest Trump lawyer to plead guilty over efforts to overturn Georgia's election\",\n  \"publication_date\" : \"2023-10-24 09:45:39\",\n  \"author\" : \"WILL WEISSERT,KATE BRUMBACK\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Gallery\",\n  \"page_type\" : \"Article\",\n  \"slug_line\" : \"AP-US-Georgia-Election-Indictment-Ellis, 12th Ld-Writethru\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 6687,\n  \"primary_section\" : \"U.S. News\",\n  \"secondary_sections\" : \"Washington News,Politics\",\n  \"seo_title"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/e72467a/2147483647/strip/true/crop/2902x1632+0+151/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F62%2F97%2F1f4327ba43445c297ed4c7822114%2F02e6159353f44ca9abf0448f97e8c441"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/jenna-ellis-plea-deal-georgia-election-case-c4dbacd3e4bbb5415ebd3d42d8fa3128: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/jenna-ellis-plea-deal-georgia-election-case-c4dbacd3e4bbb5415ebd3d42d8fa3128",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "How Trump Tried to Overturn the 2020 Election Results in Georgia ...",
+                "htmlTitle": "How <b>Trump</b> Tried to <b>Overturn</b> the 2020 <b>Election</b> Results in <b>Georgia</b> ...",
+                "link": "https://www.nytimes.com/2023/08/14/us/trump-georgia-election-results.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Aug 24, 2023 ... The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the ...",
+                "htmlSnippet": "Aug 24, 2023 <b>...</b> The <b>Georgia case</b> offers a vivid reminder of the extraordinary lengths Mr. <b>Trump</b> and his allies went to in the Southern state to reverse the&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/08/14/.../trump-georgia-election-results.htm...",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/08/14/.../<b>trump</b>-<b>georgia</b>-<b>election</b>-results.htm...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeU9gs8iZhXOuZbXtud4tQUnAHlYY7nVnRlxRE5ZaLDTC9opi9MJdLH10o&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/08/13/multimedia/00nat-georgia-reconstruct-trump-fljm/00nat-georgia-reconstruct-trump-fljm-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/93ea4125-cdc6-5767-b8b0-2844ef5ed87f",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-14T07:00:23.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/08/14/us/trump-georgia-election-results.html",
+                            "pdate": "20230814",
+                            "articleid": "100000008867229",
+                            "og:description": "The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/08/13/multimedia/00nat-georgia-reconstruct-trump-fljm/00nat-georgia-reconstruct-trump-fljm-videoSixteenByNine3000.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "Former President Trump in the White House briefing room after making a statement on Nov. 5, 2020.",
+                            "article:modified_time": "2023-08-24T21:12:12.217Z",
+                            "news_keywords": "Georgia,Voter Fraud;Electoral Fraud,2020 Election,Donald Trump,Fani Willis,Donald Trump Jr,Republicans,Kenneth Chesebro,Jeffrey Clark,Rudolph W Giuliani,John C Eastman,Ruby Freeman,Shaye Moss;Wandrea Moss,Brian Kemp,Ronna Romney McDaniel,Mark Meadows,Brad Raffensperger,Cobb County,Atlanta,Coffee County,Fulton County, Ga.,RNC,Georgia Criminal Case Against Trump",
+                            "article:content_tier": "metered",
+                            "image": "https://static01.nyt.com/images/2023/08/13/multimedia/00nat-georgia-reconstruct-trump-fljm/00nat-georgia-reconstruct-trump-fljm-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Former President Trump in the White House briefing room after making a statement on Nov. 5, 2020.",
+                            "twitter:title": "Two Months in Georgia: How Trump Tried to Overturn the Vote",
+                            "article:section": "U.S.",
+                            "cg": "us",
+                            "pubp_event_id": "pubp://event/e4a56117f18748429e73379dae26d1a0",
+                            "og:title": "Two Months in Georgia: How Trump Tried to Overturn the Vote",
+                            "article:tag": "Georgia",
+                            "byl": "By Danny Hakim and Richard Fausset",
+                            "twitter:description": "The Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.",
+                            "og:url": "https://www.nytimes.com/2023/08/14/us/trump-georgia-election-results.html",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/08/13/multimedia/00nat-georgia-reconstruct-trump-fljm/00nat-georgia-reconstruct-trump-fljm-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nTwo Months in Georgia: How Trump Tried to Overturn the Vote\n-----------------------------------------------------------\nThe Georgia case offers a vivid reminder of the extraordinary lengths Mr. Trump and his allies went to in the Southern state to reverse the election.\n!\nFormer President Trump in the White House briefing room after making a statement on Nov. 5, 2020.Credit...Doug Mills/The New York Times\nPublished Aug. 14, 2023Updated Aug. 24, 2023\nWhen President Donald J. Trump’s eldest son took the stage outside the Georgia Republican Party headquarters two days after the 2020 election, he likened what lay ahead to mortal combat.\n“Americans need to know this is not a banana republic!” Donald Trump Jr. shouted, claiming that Georgia and other swing states had been overrun by wild electoral shenanigans. He described tens of thousands of ballots that had “magically” shown up around the country, all marked for Joseph R. Biden Jr., and others dumped by Democratic officials into “one big box” so their authenticity could not be verified.\nMr. Trump told his father’s supporters at the news conference — who broke into chants of “Stop the steal!” and “Fraud! Fraud!” — that “the number one thing that Donald Trump can do in this election is fight each and every one of these battles, to the death!”\nOver the two months that followed, a vast effort unfolded on behalf of the lame-duck...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Read the full Georgia indictment against Trump and 18 allies | PBS ...",
+                "htmlTitle": "Read the full <b>Georgia</b> indictment <b>against Trump</b> and 18 allies | PBS ...",
+                "link": "https://www.pbs.org/newshour/politics/read-the-full-georgia-indictment-against-trump-and-18-allies",
+                "displayLink": "www.pbs.org",
+                "snippet": "Aug 15, 2023 ... Former President Donald Trump was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, Georgia.",
+                "htmlSnippet": "Aug 15, 2023 <b>...</b> Former President Donald <b>Trump</b> was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, <b>Georgia</b>.",
+                "formattedUrl": "https://www.pbs.org/.../read-the-full-georgia-indictment-against-trump-and-...",
+                "htmlFormattedUrl": "https://www.pbs.org/.../read-the-full-<b>georgia</b>-indictment-against-<b>trump</b>-and-...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Hannah Grabenstein"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuF1YgHYuxuHGb9JTBqlHzaHPWjNfBizyu3vDSxhHVSJxMN7w3JIzojKx&s",
+                            "width": "279",
+                            "height": "181"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "name": "PBS News"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "600",
+                            "url": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/pbsnews-logo-600w.png",
+                            "height": "130"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Hannah Grabenstein"
+                        },
+                        {
+                            "name": "Hannah Grabenstein"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1610291770-1024x663.jpg",
+                            "msapplication-config": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "article:published_time": "2023-08-15T00:28:07-04:00",
+                            "article:section": "Politics",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Read the full Georgia indictment against Trump and 18 allies",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "PBS News",
+                            "og:title": "Read the full Georgia indictment against Trump and 18 allies",
+                            "og:image:height": "663",
+                            "og:description": "Former President Donald Trump was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, Georgia.",
+                            "fb:pages": "6491828674",
+                            "article:publisher": "https://www.facebook.com/newshour/",
+                            "twitter:image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1610291770-1024x663.jpg",
+                            "article:tag": "donald trump news, fani willis, fulton county, georgia, trump indictments, vote 2020",
+                            "fb:app_id": "114150878604116",
+                            "twitter:site": "@newshour",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "news_keywords": "donald trump news, fani willis, fulton county, georgia, trump indictments, vote 2020, politics",
+                            "twitter:description": "Former President Donald Trump was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, Georgia.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pbs.org/newshour/politics/read-the-full-georgia-indictment-against-trump-and-18-allies"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1610291770-1024x663.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1610291770-1024x663.jpg",
+                            "articlebody": "Former President Donald Trump was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, Georgia, the result of a more than two-year investigation by...",
+                            "datemodified": "2023-08-15T00:28:07-04:00",
+                            "articlesection": "Politics",
+                            "headline": "Read the full Georgia indictment against Trump and 18 allies",
+                            "datepublished": "2023-08-15T00:28:07-04:00",
+                            "thumbnailurl": "https://d3i6fh83elv35t.cloudfront.net/static/2023/08/GettyImages-1610291770-1024x663.jpg",
+                            "mainentityofpage": "true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\nHannah Grabenstein\n\n\n                    Hannah Grabenstein\n                \n\nLeave your feedback\nFormer President Donald Trump was indicted Monday on racketeering, conspiracy and other charges by a grand jury in Fulton County, Georgia, the result of a more than two-year investigation by District Attorney Fani Willis into potential 2020 election interference in that state. \nEighteen other people, including Trump’s former lawyer Rudy Giuliani and former White House chief of staff Mark Meadows, were also indicted, accused of joining Trump in efforts to unlawfully change the outcome of the election.   \nRead the full indictment by clicking the document below.\n\nThe indictment describes those charged  as part of a criminal organization that violated the state’s racketeering (or RICO) law. Other charges include making false statements and writings, impersonating a public officer, filing false documents, influencing witnesses, conspiracy to defraud the state and perjury, among others. \nWATCH: Fulton County aistrict attorney gives briefing after Trump indicted in Georgia case\n“Trump and the other defendants charged in this indictment refused to accept that Trump lost, and they knowingly and willfully joined a conspiracy to unlawfully change the outcome of the election in favor of Trump,” Willis said in a news conference late Monday.\nAmong the offenses named in the indictment was a request from Trump to then-Georgia Secretary of State Brad Raffensperger to alter votes. In the early January 2021 phone call, recorded and later released, Trump asked Raffensperger to “find 11,780 votes,”...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Backgrounder: Fulton County, Georgia, charges against Trump and ...",
+                "htmlTitle": "Backgrounder: Fulton County, <b>Georgia</b>, charges <b>against Trump</b> and ...",
+                "link": "https://statesuniteddemocracy.org/resources/backgrounder-fulton-county-georgia-charges/",
+                "displayLink": "statesuniteddemocracy.org",
+                "snippet": "Backgrounder: Fulton County, Georgia, charges against Trump and 18 others for 2020 presidential election interference, explained. The 98-page indictment laying ...",
+                "htmlSnippet": "Backgrounder: Fulton County, <b>Georgia</b>, charges <b>against Trump</b> and 18 others for 2020 presidential <b>election</b> interference, explained. The 98-page indictment laying&nbsp;...",
+                "formattedUrl": "https://statesuniteddemocracy.org/.../backgrounder-fulton-county-georgia-c...",
+                "htmlFormattedUrl": "https://statesuniteddemocracy.org/.../backgrounder-fulton-county-<b>georgia</b>-c...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHt1slEqqqkzIZZBXBgECdRcrG9R2yAvlfwBWt2fhEfgigflyYZ0SdJw&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://statesuniteddemocracy.org/wp-content/uploads/2023/08/GettyImages-1246123003-1-scaled.jpg",
+                            "og:type": "article",
+                            "og:image:width": "2560",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Backgrounder: Fulton County Georgia charges against Trump and 18 others for 2020 presidential election interference explained",
+                            "og:site_name": "States United Democracy Center",
+                            "og:title": "Backgrounder: Fulton County Georgia charges against Trump and 18 others for 2020 presidential election interference explained",
+                            "og:image:height": "1920",
+                            "twitter:label1": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "On August 14, 2023, a grand jury convened by District Attorney Fani Willis in Fulton County, Georgia, indicted former President Donald Trump and 18 of his allies on violations of 16 Georgia statutes.",
+                            "article:publisher": "https://www.facebook.com/statesunited",
+                            "twitter:image": "https://statesuniteddemocracy.org/wp-content/uploads/2023/08/GettyImages-1246123003-1-scaled.jpg",
+                            "twitter:data1": "12 minutes",
+                            "facebook-domain-verification": "twuyudvemxhcgq1oe6qqncxs4lhocd",
+                            "twitter:site": "@statesunited",
+                            "article:modified_time": "2024-04-04T18:15:25+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                            "twitter:description": "On August 14, 2023, a grand jury convened by District Attorney Fani Willis in Fulton County, Georgia, indicted former President Donald Trump and 18 of his allies on violations of 16 Georgia statutes.",
+                            "og:locale": "en_US",
+                            "og:url": "https://statesuniteddemocracy.org/resources/backgrounder-fulton-county-georgia-charges/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://statesuniteddemocracy.org/wp-content/uploads/2023/08/GettyImages-1246123003-1-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n### Key Takeaways\n1.  On August 14, 2023, a grand jury convened by District Attorney Fani Willis in Fulton County, Georgia, indicted former President Donald Trump and 18 of his allies on violations of 16 Georgia statutes. These charges include violations of Georgia’s Racketeer Influenced and Corrupt Organizations Act, or RICO.\n2.  All 19 defendants have surrendered at the Fulton County jail and entered a not guilty plea.\n3.  Defendants Sidney Powell and Kenneth Chesebro exercised their speedy trial rights and their trials were set for October 23, 2023, in Fulton County Court. In the days leading up to trial, both pled guilty and were sentenced for their offenses. Jenna Ellis has also pled guilty and was sentenced for her offenses. Several defendants have filed various pre-trial motions (regarding removal, discovery, and dismissal).\n4.  The 98-page indictment laying out 161 actions in furtherance of the conspiracy tells a clear story: Donald Trump and his allies attempted to undermine the will of the American people in an effort to overturn the 2020 presidential election.\n5.  Long after recounts and litigation confirmed that he lost the election, Trump and his allies pressured Georgia officials to overturn the election results to keep Trump in power.\nDetails on the Fulton County Election Interference Indictments\nThe  in Fulton County, Georgia lays out charges against , including Trump, for violations of 16 Georgia statutes. These charges include violations of Georgia’s Racketeer Influenced and Corrupt Organizations Act, or  law, which allows prosecutors to jointly charge a group of people acting in concert when their crimes were in support of a common objective. In this instance, that objective was overturning the results of the 2020 presidential election in Georgia, and the individuals charged are referred to as a “criminal organization” in the indictment.\nOther charges included in the indictment are:\n*   making false statements and writings;\n*   solicitation of violation of oath of public officer;  \n*   impersonating a public officer and conspiring to impersonate;\n*   forgery and conspiracy to commit forgery;\n*   filing false documents;\n*   criminal attempt to influence witnesses;\n*   conspiracy to commit election fraud;\n*   conspiracy to commit computer theft and computer trespass;\n*   conspiracy to commit computer invasion of privacy;\n*   conspiracy to defraud the state; and\n*   perjury.\nThe  spells out 161 separate acts that prosecutors say were taken to further the alleged criminal conspiracy, including:\n*   Phone calls that Trump and his allies made...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "What are the charges in Trump's Georgia indictment?",
+                "htmlTitle": "What are the charges in <b>Trump&#39;s Georgia</b> indictment?",
+                "link": "https://www.bbc.com/news/world-us-canada-66503668",
+                "displayLink": "www.bbc.com",
+                "snippet": "Aug 24, 2023 ... Former US President Donald Trump has been arrested on 13 charges in Georgia for his alleged efforts to overturn his 2020 election loss in the state.",
+                "htmlSnippet": "Aug 24, 2023 <b>...</b> Former US President Donald <b>Trump</b> has been arrested on 13 charges in <b>Georgia</b> for his alleged efforts to <b>overturn</b> his 2020 <b>election</b> loss in the state.",
+                "formattedUrl": "https://www.bbc.com/news/world-us-canada-66503668",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-us-canada-66503668",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTbyXokM2k4lM9Axbe6ADtn-tgUxQpnqwU-7LTIXnXVh8NrZq6CLX80nw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/6CCA/production/_130805872_gettyimages-1594396639.jpg",
+                            "twitter:title": "What are the charges in Trump's Georgia indictment?",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Donald Trump indicted in Georgia",
+                            "theme-color": "#ffffff",
+                            "og:title": "What are the charges in Trump's Georgia indictment?",
+                            "og:description": "This is the former president's fourth criminal indictment - he faces 78 charges from three other cases.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/6CCA/production/_130805872_gettyimages-1594396639.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Donald Trump indicted in Georgia",
+                            "viewport": "width=device-width",
+                            "twitter:description": "This is the former president's fourth criminal indictment - he faces 78 charges from three other cases."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/6CCA/production/_130805872_gettyimages-1594396639.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!!Getty Images\n**Former US President Donald Trump has been arrested on 13 charges in Georgia for his alleged efforts to overturn his 2020 election loss in the state.**\nThe 98-page indictment, issued on 14 August, claims that Mr Trump \"unlawfully conspired\" to change the election outcome while participating in a \"criminal enterprise\".\nOther charges include false claims of election fraud and solicitation of violation of oath.\nHe denies all the charges against him.\nMr Trump said the indictment, which contains 18 additional defendants, including his former lawyer Rudy Giuliani, is politically motivated and a \"massive fraud\".\nIt is the fourth criminal case brought against him in as many months.\n*   \n*   \nFulton County District Attorney Fani Willis, who launched the investigation, said Mr Trump and the other 18 defendants have until noon local time on 25 August to \"voluntarily surrender\".\nHere are some of the charges Donald Trump is facing in the Peach State:\n*   **Violating Georgia's racketeering act:** The indictment alleges that Mr Trump, \"while associated with an enterprise, unlawfully conspired\" through a pattern of fraudulent activity to change the outcome of the election. This falls under the federal Racketeer Influenced and Corrupt Organizations (Rico) Act, which has been used to bring down mafia bosses like John Gotti\n*   **Solicitation of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Georgia indicts Trump, 18 allies on RICO charges in election ...",
+                "htmlTitle": "<b>Georgia</b> indicts <b>Trump</b>, 18 allies on RICO charges in <b>election</b> ...",
+                "link": "https://www.cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                "displayLink": "www.cbsnews.com",
+                "snippet": "Aug 15, 2023 ... Trump, the first former president in U.S. history to face criminal charges, has now been charged in four separate cases involving allegations ...",
+                "htmlSnippet": "Aug 15, 2023 <b>...</b> <b>Trump</b>, the first former president in U.S. history to face criminal charges, has now been charged in four separate <b>cases</b> involving allegations&nbsp;...",
+                "formattedUrl": "https://www.cbsnews.com/.../trump-charges-fulton-county-georgia-election...",
+                "htmlFormattedUrl": "https://www.cbsnews.com/.../<b>trump</b>-charges-fulton-county-<b>georgia</b>-<b>election</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcNUU1TcWEpodsLqIHvy_US4t2x_Q-aHWkH3kjv57OTl9I9GZhn920LBDU&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/07/542e2756-b176-432f-b198-48fbf0ccf78c/thumbnail/1200x630g3/5c89ac17ae92d0f6737c0a459c076f49/gettyimages-1497494358.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d",
+                            "og:image:width": "1200",
+                            "twitter:card": "player",
+                            "twitter:app:url:ipad": "cbsnewsapp://cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "og:description": "The Georgia grand jury investigating former President Donald Trump returned the indictments on election fraud, racketeering and other charges.",
+                            "article:publisher": "https://www.facebook.com/CBSNews/",
+                            "twitter:player": "https://www.cbsnews.com/video/georgia-grand-jury-indicts-trump-18-allies-in-election-interference-case/?embed=1&ftag=CNM-00-10aag7j",
+                            "twitter:player:stream:content_type": "application/x-mpegURL",
+                            "twitter:app:country": "US",
+                            "twitter:player:stream": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/2023/08/15/2255187011595/2207944_hls/master.m3u8",
+                            "og:video:type": "application/x-mpegURL",
+                            "og:video:height": "1080",
+                            "al:ios:app_name": "CBS News",
+                            "twitter:app:id:ipad": "334256223",
+                            "fb:pages": "131459315949",
+                            "og:video:width": "1920",
+                            "twitter:app:name:ipad": "CBS News",
+                            "al:android:app_name": "CBS News",
+                            "twitter:app:name:iphone": "CBS News",
+                            "twitter:app:url:iphone": "cbsnewsapp://cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "twitter:app:id:googleplay": "com.treemolabs.apps.cbsnews",
+                            "theme-color": "#101010",
+                            "al:android:package": "com.treemolabs.apps.cbsnews",
+                            "twitter:app:name:googleplay": "CBS News",
+                            "al:ios:url": "cbsnewsapp://cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "twitter:app:id:iphone": "334256223",
+                            "al:ios:app_store_id": "334256223",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/07/542e2756-b176-432f-b198-48fbf0ccf78c/thumbnail/1200x630g3/5c89ac17ae92d0f6737c0a459c076f49/gettyimages-1497494358.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d",
+                            "twitter:player:height": "360",
+                            "twitter:site": "@CBSPolitics",
+                            "news_keywords": "Georgia, Donald Trump, Fani Willis",
+                            "article:content_tier": "free",
+                            "og:video:url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/2023/08/15/2255187011595/2207944_hls/master.m3u8",
+                            "og:type": "article",
+                            "twitter:title": "Georgia indicts Trump, 18 allies on RICO charges in election interference case. Here are the details.",
+                            "og:title": "Georgia indicts Trump, 18 allies on RICO charges in election interference case. Here are the details.",
+                            "og:image:height": "630",
+                            "color-scheme": "only light",
+                            "al:web:url": "https://www.cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "og:video:secure_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/2023/08/15/2255187011595/2207944_hls/master.m3u8",
+                            "al:android:url": "cbsnewsapp://cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "fb:app_id": "1536620209892267",
+                            "twitter:app:url:googleplay": "cbsnewsapp://cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0",
+                            "twitter:description": "The Georgia grand jury investigating former President Donald Trump returned the indictments on election fraud, racketeering and other charges.",
+                            "og:url": "https://www.cbsnews.com/news/trump-charges-fulton-county-georgia-election-investigation/",
+                            "twitter:player:width": "640",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/07/542e2756-b176-432f-b198-48fbf0ccf78c/thumbnail/1200x630g3/5c89ac17ae92d0f6737c0a459c076f49/gettyimages-1497494358.jpg?v=5710b2ed1cee1bdfd30cb9c02455b43d"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A grand jury in Fulton County, Georgia, has indicted former President Donald Trump and more than a dozen of his associates for election fraud, racketeering and other charges related to alleged efforts to overturn the 2020 election.\nTrump, the first former president in U.S. history to face criminal charges, has now been charged in four separate cases involving allegations that bookend his presidency.\nDistrict attorney comments on charges\n-------------------------------------\nFulton County District Attorney Fani Willis said at a news conference Monday night that arrest warrants have been issued for all the defendants in the case, and that they have  to turn themselves in.\n\"The state's role in this process is essential to the functioning of our democracy,\" Willis said.\n\"Georgia, like every state, has laws that allow those who believe that results of the election are wrong, whether because of intentional wrongdoing, or unintentional error to challenge those results in state courts,\" she said. But rather than abiding by Georgia's legal process for election challenges, she said, the defendants \"engaged in a criminal racketeering enterprise to overturn Georgia's presidential election result subsequent to the indictment.\"\nAccording to Georgia code, anyone convicted of a RICO offense can be imprisoned, fined, or both. The law says anyone found guilty of a RICO offense is \"guilty of a felony and shall be punished by not less than five nor more than 20 years' imprisonment or the fine specified in subsection (b) of this Code section, or both.\"\nWillis said the racketeering charges have \"time that you have to serve, so it's not a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,784 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Christopher Marquez McDonald's assault news reports",
+                "totalResults": "159000",
+                "searchTerms": "Christopher Marquez McDonald's assault news reports",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Christopher Marquez McDonald's assault news reports",
+                "totalResults": "159000",
+                "searchTerms": "Christopher Marquez McDonald's assault news reports",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.380553,
+        "formattedSearchTime": "0.38",
+        "totalResults": "159000",
+        "formattedTotalResults": "159,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Marine Bronze Star recipient from iconic Fallujah photo attacked at a ...",
+                "htmlTitle": "Marine Bronze Star recipient from iconic Fallujah photo <b>attacked</b> at a ...",
+                "link": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/16/marine-bronze-star-recipient-from-iconic-fallujah-photo-attacked-at-a-d-c-mcdonald-s/",
+                "displayLink": "www.marinecorpstimes.com",
+                "snippet": "Feb 16, 2016 ... ... Christopher Marquez told Marine Corps Times. \"It's very ironic: being attacked by the people you're there to serve,\" Christopher Marquez\u00a0...",
+                "htmlSnippet": "Feb 16, 2016 <b>...</b> ... <b>Christopher Marquez</b> told Marine Corps Times. &quot;It&#39;s very ironic: being <b>attacked</b> by the people you&#39;re there to serve,&quot; <b>Christopher Marquez</b>&nbsp;...",
+                "formattedUrl": "https://www.marinecorpstimes.com/news/.../marine-bronze-star-recipient-fr...",
+                "htmlFormattedUrl": "https://www.marinecorpstimes.com/<b>news</b>/.../marine-bronze-star-recipient-fr...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRicyq29yAjg1HHGtx5aIhRFsHTUIycoWAH1OnUl_MVMhTqYWc7_H4G8Z&s",
+                            "width": "189",
+                            "height": "266"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.marinecorpstimes.com/resizer/A1rs4QPBri9UP_qE8UMLjum0crk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "hsl(4deg, 55%, 52%)",
+                            "article:published_time": "2016-02-16T22:31:26Z",
+                            "og:site_name": "Marine Corps Times",
+                            "canonicalurl": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/16/marine-bronze-star-recipient-from-iconic-fallujah-photo-attacked-at-a-d-c-mcdonald-s/",
+                            "og:tags": "circulated-marine-corps-times, marine-corps-times",
+                            "og:description": "Police in Washington, D.C., are looking for at least four people in connection with the assault and robbery of a former Marine sergeant and recipient of the Bronze Star with \u201cV\u201d device, who was one of two Marines who helped carry then 1st Sgt.",
+                            "circulated": "marine-corps-times",
+                            "twitter:site": "@marinetimes",
+                            "article:modified_time": "2022-08-18T15:46:33.551Z",
+                            "datemodified": "2022-08-18T15:46:33.551Z",
+                            "articlesection": "Your Marine Corps",
+                            "datepublished": "2016-02-16T22:31:26Z",
+                            "iscanonical": "true",
+                            "sailthru.date": "February 16, 2016 5:31 PM",
+                            "article:section": "Your Marine Corps",
+                            "author": "Jeff Schogol",
+                            "og:title": "Marine Bronze Star recipient from iconic Fallujah photo attacked at a D.C. McDonald's",
+                            "canonical": "marine-corps-times",
+                            "fb:pages": "291448617173, 25695254496, 61924502489, 83721537518, 65986997382, 248242239645, 70531852030, 525449530843973, 298378097222468",
+                            "site": "Marine Corps Times",
+                            "fb:app_id": "713617942039294",
+                            "viewport": "width=device-width, initial-scale=1.00, maximum-scale=1.5, minimum-scale=1.0",
+                            "og:url": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/16/marine-bronze-star-recipient-from-iconic-fallujah-photo-attacked-at-a-d-c-mcdonald-s/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "datemodified": "2022-08-18T15:46:33.551Z",
+                            "articlesection": "Your Marine Corps",
+                            "publisher": "https://www.marinecorpstimes.com/#publisher",
+                            "description": "Police in Washington, D.C., are looking for at least four people in connection with the assault and robbery of a former Marine sergeant and recipient of the Bronze Star with \u201cV\u201d device,...",
+                            "headline": "Marine Bronze Star recipient from iconic Fallujah photo attacked at a D.C. McDonald's",
+                            "datepublished": "2016-02-16T22:31:26Z"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.marinecorpstimes.com/resizer/A1rs4QPBri9UP_qE8UMLjum0crk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "description": "A report Tuesday suggested Denis McDonough would step down after the election, which is Nov. 5.",
+                            "headline": "VA secretary to remain in role through end of term in January"
+                        },
+                        {
+                            "description": "At least some dogs will be able to fly with their U.S.-bound owners.",
+                            "headline": "More dogs allowed: Lufthansa reopens options for some flying to US"
+                        },
+                        {
+                            "description": "Five men, including four with military experience, have been convicted in the plot.",
+                            "headline": "Two former Marines to serve prison time for neo-Nazi power grid plot"
+                        },
+                        {
+                            "description": "Some airlines are no longer allowing dogs to be shipped on the same flight with their owners back to the states due to new U.S. CDC rules.",
+                            "headline": "Military families overseas scrambling as U.S. dog travel rules change"
+                        },
+                        {
+                            "description": "\u201cDon\u2019t think that the TR-3 problems are over,\u201d said Gen. James Hecker, commander of U.S. Air Forces in Europe.",
+                            "headline": "F-35 deliveries resume, but upgrade delays have ripple effects"
+                        },
+                        {
+                            "headline": "What did the Gaza pier mission accomplish? | Defense News Weekly Full Episode 7.27.24"
+                        },
+                        {
+                            "headline": "Financial choices to consider before your child leaves for college \u2014 Money Minute"
+                        },
+                        {
+                            "headline": "Air Force pushes new aerial battle management platform forward"
+                        },
+                        {
+                            "headline": "The Gaza pier mission: was the joint Army-Navy aid effort worth it?"
+                        },
+                        {
+                            "headline": "Marines hit operational status with second carrier-capable F35-C unit"
+                        },
+                        {
+                            "headline": "Marine Corps veteran Paul Whelan freed in US-Russia prisoner swap"
+                        },
+                        {
+                            "headline": "Marine dies in Humvee rollover at California combat training center"
+                        },
+                        {
+                            "headline": "Gear cracks, pilot decision led to Japan Osprey crash, Air Force says"
+                        },
+                        {
+                            "headline": "Pentagon report shows what military jobs have highest suicide rates"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n*   \n#### \nMarine Bronze Star recipient from iconic Fallujah photo attacked at a D.C. McDonald's\n=====================================================================================\nBy Jeff\u00a0Schogol\n\u00a0Feb\u00a016, 2016\n!:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg)\nPolice in Washington, D.C., are looking for at least four people in connection with the assault and robbery of a veteran former Marine sergeant and recipient of the Bronze Star with \"V\" recipient device, who was one of two Marines who helped carry then-1st Sgt. Bradley Kasal out of Fallujah\u2019s infamous \"Hell House.\"\n\"Coming back here and being attacked by the people that we're supposed to protect \u2013 it's kind of ironic, I guess,\" Christopher Marquez told Marine Corps Times.\n\"It's very ironic: being attacked by the people you're there to serve,\" Christopher Marquez told Marine Corps Times.\nChristopher Marquez, who served in the Marine Corps from 2003 to 2011, told police he was assaulted on Friday around 10:30 p.m.\u00a0eb. 12 while eating at a McDonald's, according to a Metropolitan Police Department report of the incident. The suspects took Marquez\u2019 wallet, identification, credit cards, debit card and about $400 in cash, the report says.\n\"When we\u2019re in the military, we\u2019re there for our country,\" Marquez told Marine Corps Times. \"...It\u2019s very ironic: being attacked by the people you're\u00a0\\ there to serve.\"\nMarquez said told Marine Corps Times that he believes the attack was racially motivated. He remembers being accosted at the McDonald's in Washington's Chinatown neighborhood by five people between 16 and 21 years old. Most were men or boys. One may have been female.\n\"The kids were asking me if I think that black lives mattered,\" Marquez said on Monday. \"I was ignoring them, just because I felt intimidated. I felt how they approached me, it was very hostile. I felt they were really trying to intimidate me and just trying to start a confrontation with me.\"\nThe police report does not include a description of the four people involved with the incident, which was first reported by . One of the suspects...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "As a reputable publication that focuses on Marine Corps news, Marine Corps Times is generally considered a reliable source for military-related stories, events, and veteran affairs. The site is known for journalistic standards and often features articles that are well-researched and accurate. However, it is less known for covering broader news stories outside military context, which slightly limits its broader news credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This source provides a detailed account of the incident, including Marquez's perspective on the alleged racial motivations of the attack and the description of the assailants. It directly correlates with the question regarding corroborating evidence and eyewitness accounts since Marquez himself is an eyewitness and offers a narrative that includes the actions and words of the suspected assailants in connection with the claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Former US marine attacked at McDonald's. Was it racially motivated ...",
+                "htmlTitle": "Former US marine <b>attacked</b> at <b>McDonald&#39;s</b>. Was it racially motivated ...",
+                "link": "https://www.csmonitor.com/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                "displayLink": "www.csmonitor.com",
+                "snippet": "Feb 18, 2016 ... Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young\u00a0...",
+                "htmlSnippet": "Feb 18, 2016 <b>...</b> <b>Christopher Marquez</b>, a former US Marine, says the <b>assault</b> last Friday night at a <b>McDonald&#39;s</b> in Washington, D.C., came after a group of young&nbsp;...",
+                "formattedUrl": "https://www.csmonitor.com/.../Former-US-marine-attacked-at-McDonald-s...",
+                "htmlFormattedUrl": "https://www.csmonitor.com/.../Former-US-marine-attacked-at-McDonald-s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhUSgMaQBd7S5x57v2t4c-lZT_PxqVNwGArQ_6udvgjB7vz_AZu1zNyAX&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_900x600",
+                            "copyright": "The Christian Science Monitor",
+                            "og:image:width": "900",
+                            "article:published_time": "2016-02-18T09:10-05",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Christian Science Monitor",
+                            "csm.content.body": "https://www.csmonitor.com/layout/set/rssfull/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                            "csm.date": "2016-02-18",
+                            "csm.author": "Max Lewontin",
+                            "og:description": "Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'",
+                            "twitter:image": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_380x253",
+                            "twitter:site": "@csmonitor",
+                            "csm.image.credit": "KGTV - San Diego, CA",
+                            "csm.tags": "section-law-&amp;-courts,section-usa,class-article,storysource-monitor,storykicker-first-look",
+                            "id": "e9e3ddbf22665813470dedbe1fbd2713",
+                            "csm.content.id": "e9e3ddbf22665813470dedbe1fbd2713",
+                            "og:type": "article",
+                            "article:section": "Law &amp; Courts",
+                            "twitter:title": "Former US marine attacked at McDonald's. Was it racially motivated?",
+                            "author": "The Christian Science Monitor",
+                            "og:title": "Former US marine attacked at McDonald's. Was it racially motivated?",
+                            "og:image:height": "600",
+                            "fb:pages": "14660729657",
+                            "dc.date.issued": "2016-02-18T09:10:24-05:00",
+                            "fb:app_id": "179793002061452",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'",
+                            "og:url": "https://www.csmonitor.com/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                            "csm.image.std": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_380x253"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_900x600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Deepen your worldview  \nwith **Monitor Highlights.**\nSee our other .\nYour email address  \nBy signing up, you agree to our .\nAlready a subscriber? .\n### Select free newsletters:\n Monitor HighlightsA thoughtfully curated selection of our most popular news stories and podcasts.\nEvery Monday, Wednesday, and Friday\n AnnouncementsHear about special editorial projects, new product information, and upcoming events.\nOccasional\n PoliticsAn update on major political events, candidates, and parties twice a week.\nTwice a Week\n Science & NatureStay informed about the latest scientific discoveries & breakthroughs.\nEvery Tuesday\n CommentaryA weekly digest of Monitor views and insightful commentary on major events.\nEvery Thursday\n BooksLatest book reviews, author interviews, and reading trends.\nEvery Friday\n Culture & LearningA weekly update on music, movies, cultural trends, and education solutions.\nEvery Thursday\n Christian Science PerspectiveThe three most recent Christian Science articles with a spiritual perspective.\nEvery Monday\nClose\n\u00d7\nFormer US marine attacked at McDonald's. Was it racially motivated?\n===================================================================\nChristopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'\n    !\n|\nKGTV - San Diego, CA\nFormer US Marine Christopher Marquez says he was attacked at a McDonald's in Washington, D.C.\nLoading...\n*   By  Staff\nFebruary 18, 2016\nA former US Marine who was assaulted at a McDonald\u2019s in downtown Washington, D.C., last Friday says the attack was racially motivated, but questions persist about motivations for the assault, local police said this week.\nChristopher Marquez, who served in Iraq and  and now attends American University,  that the attack, which he said was unprovoked, occurred after several black teenagers and young men asked him whether \u201cblack lives matter\u201d and then called him racist.\nAccording to a D.C. police report, Mr. Marquez, who is Hispanic, told officers that one young man hit him in the face with a handgun and stole bank cards and his wallet, which had $400 inside, the Post reports. Dustin Sternbeck, the chief D.C. police spokesman told the Post that detectives were reviewing surveillance video of the incident but it wasn\u2019t immediately clear what it showed.\nA  in the conservative website the Daily Caller based primarily on Marquez\u2019s account of the assault led to several reports that concluded that the men involved in the assault were affiliated with the Black Lives Matter movement.\nBut D.C. police told the Post and the  they could not verify the identities of the men or the motive described by Marquez. One officer told Snopes that there was no indication that any of the individuals in the altercation were involved with or mentioned Black Lives Matter.\nSnopes also noted that Marquez had told the Daily Caller his memory of the incident was fuzzy after sustaining a blow to the back of the head and that he said some details of the incident were provided to him the next day by...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Christian Science Monitor is known for its balanced and in-depth reporting. It has a strong reputation for journalistic integrity and often fact-checks its information rigorously. CS Monitor has won multiple journalism awards and is generally seen as a reliable source of news. Their rigorous editorial standards help in detecting and exposing fake news effectively."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This article presents both Marquez's claims about the racial motivation of the incident and discusses the ambiguity surrounding the claims about the attackers being affiliated with Black Lives Matter. It factors in the police's inability to verify the suspects' identities related to the movement, thereby providing a balanced view relevant to the query about corroboration and eyewitness accounts."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                "htmlTitle": "Decorated Marine <b>attacked</b> by group of teens outside D.C. <b>McDonald&#39;s</b>",
+                "link": "https://www.usatoday.com/story/news/nation-now/2016/02/17/decorate-marine-veteran-attacked-teens-mcdonalds/80492568/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Feb 17, 2016 ... Veteran Marine Sgt. Christopher Marquez, shown here in South Korea, was recently assaulted. A veteran Marine sergeant was assaulted and robbed\u00a0...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> Veteran Marine Sgt. <b>Christopher Marquez</b>, shown here in South Korea, was recently <b>assaulted</b>. A veteran Marine sergeant was <b>assaulted</b> and robbed&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/story/news/nation...mcdonalds/80492568/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/<b>news</b>/nation...<b>mcdonalds</b>/80492568/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlbiPWRrdGwEK4_IliKHFlZOQv_xL_11zVNMTVONDo0dCjXZp5rny7QHD&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "533",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                            "og:image:height": "301",
+                            "google": "notranslate",
+                            "og:description": "A veteran Marine sergeant was assaulted and robbed at a McDonald's in Washington D.C. last week, in an attack the victim says was racially charged, according to police.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Jeff Schogol",
+                            "twitter:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=266&fit=crop&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A veteran Marine sergeant was assaulted and robbed at a McDonald's in Washington D.C. last week, in an attack the victim says was racially charged, according to police.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/nation-now/2016/02/17/decorate-marine-veteran-attacked-teens-mcdonalds/80492568/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\ufffdn\ufffdgy\ufffd\ufffd|\ufffd\ufffd\ufffd\ufffd\ufffdL\u036d\ufffd\u000b\ufffd\ufffd`\ufffd@H\ufffd\ufffdVp\ufffd\ufffdx=?*\ufffdm\u0004B\ufffd\ufffdJ\ufffdsN42\ufffde\ufffdH\ufffdr\ufffd\ufffd\ufffd\ufffd\ufffdJ`\ufffd$\ufffdB\u00f0\ufffd\u00006m\ufffd7<\u001e\ufffd\ufffd\ufffd\u0005\ufffd\u02b6\t\ufffd~9\ufffd}\ufffd;\ufffd\ufffd\ufffdn\ufffd\ufffdB\ufffd\ufffd\u0007\r\u0003\u0357\ufffdw\u000f'\ufffd\ufffdz\ufffdi\ufffd\t\ufffd\ufffd\uae9f\ufffd\ufffd\ufffd\ufffd|S!\ufffd\ufffd< m\ufffd\u0010\ufffd\ufffd\ufffd\u0002\ufffd\ufffd\ufffd\u001b\u075e\ufffdI\b`!\ufffdo\ufffd\u0016\u0019\ufffdkA\ufffdG,k\ufffd\ufffd-\u0003\ufffdS\r~A\u02ee\u0000^+T&\ufffde\ufffdn=\u001a\ufffd\ufffdE\ufffd\u001ftM\ufffd\u01fd\r\ufffd\ufffdIf\r\u0005\ufffd\u0005~\ufffd^\ufffdq\u001ec\u000f0\ufffd\fU\ufffd\u0002\ufffd\u0013a{\n\ufffd5\ufffdk6\ufffdx\ufffdl\u0018J\ufffd\ufffd\ufffdZvC\ufffd6\ufffd&\ufffdP\ufffd5;c\u00025\ufffd\ufffdo\ufffd\ufffd\f`\ufffd\r.k\ufffd\ufffd\ufffd V\ufffdE#\ufffdXe\tav\ufffd\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffds\ufffd\ufffd\u0019\ufffd`\ufffd\u001e\ufffd\ufffd7\ufffd1\ufffd\ufffd_n\ufffd\ufffd\ufffdern\u001f\ufffd\ufffd>\ufffd!\ufffd,\ufffd\ufffd)BmBL8;\ufffd\ufffdE6pn]\u0015\u0269\ufffdj4\ufffd\u0005N\u000e\u0012\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffd\ufffd\u0001\ufffd\ufffd\\\u0016\u001c\ufffd\ufffd%/\ufffd(\ufffdy$d\ufffd\ufffdb\ufffdR.\ufffd5v\u0010\u0012h\ufffd\ufffd\ufffd\ufffd\ufffdw\ufffd8\u001e\ufffdu\ufffdE\ufffdO\u001c3\ufffd&\ufffdf\u00072\u0019\u00165x\u0012\ufffdmj^\u000b\u0019\u0000\ufffd\ufffd\ufffdfV\ufffdc\u065d\ufffd\ufffd\u0011\ufffd$x\u0015\ufffdU,^Y\ufffd\u047e\ufffd\ufffd\ufffdk\u0004\ufffd|\ufffd-R\u0011\ufffd\t\ufffdH*Nj+>a\ufffd\u0004,\ufffd\ufffd;0\ufffdG\ufffdf\ufffd\u0014\ufffd\f\ufffd:\u000f\ufffd\ufffd\ufffd~p\ufffd\ufffd>\u000f\ufffd\ufffd\u0005\ufffdH\ufffd_YV\ufffd3*\ufffd\ufffd\ufffd\ufffdS\u0000\ufffd\ufffdT2\ufffd\u0331H\ufffd\ufffd8\u0002\u0018\ufffdY~\ufffd|\ufffd\ufffd\u001d\ufffd\ufffdzPnz\ufffd\ufffd!\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001b{\u007f\ufffd\ufffd\u019c\ufffd\ufffd\ufffd\ufffd|\ufffd\ufffdm^3C\ufffd\u0011XJy\ufffd\ufffdN#!0\ufffd\ufffd\ufffd\ufffd\ufffd\u07cdm\u0004\ufffdK\ufffd\u00000vH\bf\ufffd\ufffd\ufffd\ufffdp\ufffddEbIK \ufffd:\ufffd-eBD\ufffd\u001b8ym\u023d\ufffd\ufffd\u00045/\ufffd\ufffdF\u0019LA\ufffd^_6.\ufffd9P\ufffde*w\u03d7}^>\ufffdD\ufffdKy\ufffd%\ufffd\ufffdM\u0016?g\ufffd.V\u0003\ufffd\ufffd\ufffd\ufffd\ufffd[\ufffd]\ufffd\ufffdS \ufffd\ufffdX\ufffd\b\ufffd\u0002\u007f\ufffd\ufffd\ufffd\ufffd\n~\u0007M\u037f\ufffd\ufffd\ufffd\u000b\ufffd}\ufffd\u0017A\ufffd/\ufffd\ufffd\u0015\"0\ufffd\ufffd\ufffdK@\ufffd\ufffds\ufffd>\ufffd\u0018\ufffd\ufffd\u0011\ufffd\ufffdG\b8\ufffdC\ufffd?\baQp\ufffd\ufffd\u0721P\ufffd\u001a[\ufffd\ufffd3H\ufffdcW\ufffd\ufffd\ufffd\u0000\u00155\ufffdC\ufffd\ufffd\ufffd\rB\u0007\u001fj \ufffdG\ufffde)A\ufffd&\u001f\ufffd\r\uaedeA\ufffd(\u0016\ufffd\u02c7X!\u001c\ufffd\ufffd\ufffdV\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd~\ufffd\ufffdA\ufffd\u0717\ufffd8\ufffd_\ufffd\u001b\ufffdsHQ\ufffd\u0011&\ufffdRp\ufffdb\ufffdr\ufffd\ufffdh\ufffdqP\fR\ufffd8\ufffdB\ufffd\ufffdN\u0018C\ufffd\ufffd$\u0013kB\f\ufffd\ufffd-\u001e\ufffd\ufffdV\ufffd\ufffd\u0002\ufffd0n\u0011\u05b8\u001bF\ufffd\ufffdf&3xc\ufffduC\ufffd\u0002\ufffd\ufffdf\ufffdG\ufffdB\u0016\ufffdU\ufffda\ufffd\ufffd'\ufffd.QXp\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r\ufffd\u0014\u0016\ufffd\bW\b\ufffd<{zS\nr\ufffd\ufffd\u001e*\ufffdx|\ufffd2\ufffd\b\ufffdK\ufffdJ\ufffd\ufffdQ~A\ufffdB\ufffd\u001apqup\ufffd\ufffd<^g\ufffd|\ufffd\bl\ufffd7\u057c\ufffd+\ufffd\u07e7\ufffd\ufffd\b^P\ufffd\ufffd\ufffd\ufffd\u0006\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\\u03fbD\ufffd\ufffd\u0016,\u000e\ufffd\ufffd\ufffd\u0015rP\u70d95\u0016(\ufffd\ufffd\u000b\ufffdyg\ufffd\ufffd\ufffd\u03324\ufffdZH\ufffd\u06c9\ufffd\ufffd\ufffdF\ufffd\ufffdc\ufffd\ufffd\ufffd\u001e\u001d\ufffdM\ufffdo\ufffduF'c\ufffd\ufffd;{\ufffd\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd\ufffd\ufffd,\ufffd\ufffd\ufffd\ufffd\u001f\ufffd\u001dA0\ufffd>f\ufffdw\ufffd\u000b\ufffd~\ufffd\u0640\t|\ufffd,\u001c\u000f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u05b8MS\b\ufffd\u0001\ufffda\u0005\ufffd]\ufffd\u0467\ufffd\ufffd\u0003\u0012\ufffd\u001c7\ufffd\ufffdf8\u000e\u001d\ufffd\ufffd\ufffdM\u0010R\uee72qh\ufffd\f\ufffd*X\u0007O\ufffd\ufffd?\ufffd$h\u0019(w\ufffd\u0015\ufffdU\ufffd6:\u001d\u0007\ufffd)g\ufffd\ufffds03\ufffd\ufffd0zZ\u0483\ufffd7PI<\ufffdV\ufffd\ufffd\u7138n\ufffd\ufffdKJB\ufffd\u07eb\\\ufffd\ufffd\u001c\ufffd@:\ufffd\ufffd\u001b\u0014\ufffdX\ufffd\ufffd\u000b\ufffd>\ufffd]\ufffd\ufffdw;7\ufffd\ufffd[\u0016Q\ufffd\ufffd\u0772\ufffd0\ufffd0\ufffd\ufffd\ufffd\ufffdR\u007f\ufffd\ufffd\u0002)\ufffd#\ufffd\ufffd?\ufffd\ufffd\ufffdC\ufffdw#\ufffd\ufffd\ufffd\ufffdP#|A8G\ufffd\ufffd\ufffd\u0019K\ufffd\ufffd\u007fE\ufffd \ufffd\ufffdbMS\u03d9I\ufffd2%|B\ufffd\ufffd\ufffdF\u0013\ufffd\ufffd~\ufffd\u001blN\ufffd\ufffd\u0005\ufffd_\ufffd\ufffdJ\ufffd\ufffd:=y\ufffd\ufffdF\ufffd\ufffd\ufffdy\u0004*\ufffd\ufffd\u0013L\ufffd\n\ufffd\ufffd\ufffd\ufffd\ufffd5\ufffd\ufffd\ufffd\ufffd\u000b\ufffdC\ufffd\ufffd\ufffd;\u0001\ufffd\ufffdBs\ufffd]\ufffd\ufffd~>\ufffd8V!\ufffd\ufffdKd\u0005\ufffd\ufffd\u0012(^I\ufffd\ufffdc\u000f_\ufffd5&}?-\u04f1\ufffd2\ufffd\ufffd\ufffdhb\ufffd\ufffdIK\ufffds\ufffd\ufffd\ufffd\ufffdia\ufffdy\u00af\ufffd1\ufffdS\ufffd\u000fm\ufffdq\ufffd\u001fG\ufffdQ\ufffd\ufffd&\ufffdda\ufffd/\ufffd\u000e\ufffd\ufffd\u042co\ufffdA\ufffd[\ufffd\ufffd\u001e\ufffd\ufffd\bPhEB\ufffdI\ufffd\ufffd\u001d\ufffd\ufffd\ufffd\rH\ufffd\ufffd\ufffd\ufffd9S\ufffd\ufffd3\ufffdO\ufffdL\r~S\u03fc\ufffd\ufffd\ufffd\ufffdJ\u001e\ufffd\ufffdL\u001b\ufffd<\u001e{\ufffd\ufffd\ufffd-\ufffd\ufffd\ufffd\ufffd1V\ufffd\ufffd\ufffd\ufffd\ufffdehRj\u0013i\u000b#\ufffdz.Gb\ufffdA\ufffd\u0016\ufffd\f\ufffdv\u03b4\ufffdW/sP\ufffdmE\ufffds\ufffd]\ufffdxh\ufffd\ufffdO\ufffd\ufffd\ufffd\u00144\u0003\u000eX\ufffd9>!'\ufffd\u001eL\ufffdY\ufffd\ufffd1\ufffd\ufffd4\ufffd\ufffd<\u001e\u001bO\ufffd\"fe\ufffdNHV\ufffd\ufffd\ufffd\ufffd\u0007\ufffd\ufffd\ufffd\ufffd\u04cds\ufffd\ufffd\ufffdN\ufffdB\u03cbX\t\u06f5gF\\\ufffd\ufffd\u0011o\u0004\ufffdc\u07fc\ufffd91\u00a2\u0010\ufffd\u007fF(\ufffd\ufffd;\u037cW\ufffdr>\t+N\b\ufffd\u0003\ufffd\u0006\u02cd\ufffd\ufffd\ufffd%\u0000\ufffd\u0002\ufffd.\ufffdRIH\ufffd\ufffd\u0010\ufffd\ufffd5\ufffd\ufffd@\ufffd\"\ufffd\ufffdf6\ufffdl\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\r\ufffdA\ufffd\ufffd\ufffd\ufffdxx5\ufffd\ufffd#h.!\ufffds\ufffd\u001d\ufffd+\u0016eI\u0005\u001b\ued1ec\r{zXd\u0531R\u000b\ufffdV\ufffd\ufffd96-\ufffd\u0013\ufffd\ufffdK3\ufffd\ufffd\ufffd\u07d3\ufffd\ufffd\u001c4\ufffdV\u000e\ufffdx\u001a\ufffdnE\ufffd\ufffd\u0011\ufffdVD\ufffd\b\ufffdZN\ufffdu2P^sG\u050aB\u0002\ufffd\ufffd0yr \ufffd\ufffd\u0013~\ufffdoV\u0017e\ufffdO\ufffd^i$\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001c\ufffd{B\ufffdni\ufffda\ufffdSk\ufffd\ufffdX9_\ufffd\ufffd\u001b}\u0015G\u0012-\ufffd\ufffd/4\ufffd\ufffdA\\`Vx<\ufffd\ufffd\ufffdV\u0010B\ufffd\u000f\ufffdC\ufffd\u0013*\ufffd\ufffd\u0167pa(\u0002\ufffd4\ufffd\ufffdc\u0002\ufffddBg\u0017aW\ufffd\ufffd3d\ufffdw@*>.O6\ufffd\ufffd\ufffd~\ufffd\ufffd4\u0013\ufffd\ufffdg\ufffd\ufffd\ufffd\u05eb\ufffd:!\ufffd\b\u000e\u0018 !'\u02fb\u0004\ufffdU\b\ufffd\ufffd\u0002\ufffd\ufffdM\ufffd\u0558\ufffd?Z\ufffdj\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdQy\ufffd$\ufffdC(\ufffd\u0002\ufffd\ufffdb\u0004\ufffd\ufffd\ufffd\ufffd\ufffdI\ufffd\ufffd^\ufffd\u0003l\u0007\ufffd\u0015q\ufffd@U\ufffd\ufffd\u0016*\ufffd\ufffd\u007f\u000f\ufffdV\ufffd!\ufffd\u0006\ufffd\u001cK\ufffd*\ufffd\ufffd\ufffd\ufffd\ufffdI\ufffd[\ufffdV\ufffd\ufffd\ufffd\f\ufffd\u001b\nFt\ufffd0\ufffd<\ufffdg\ufffd\ufffd\ufffd/'b\ufffd]\ud2b8\ufffd\u000f~S\ufffd\u0228\u0019y\ufffd\ufffd\u043b\u0572\u015984\ufffd(\ufffdMh\r\ufffd\ufffdL\ufffdY|+\ufffd6\ufffd\ufffd\u0000\ufffd\ufffd\u001e\u0012\ufffd+\ufffd\ufffd\ufffd\ufffdW5\ufffdNcc{ a\u00079B3\ufffd\ufffd\ufffd_?\ufffd#\ufffd\u0013\u0002\ufffdB\t\ufffd'\ufffd\ufffd\ufffd D\ufffd[gRl\ufffdQ\bQ\ufffd<\ufffdH\u0013e%\ufffd3\ufffd7\u000fJ4/M\ufffd\ufffd(\ufffd\ufffd\u001c\ufffd'\ufffd\ufffd\ufffd0:=_\ufffd\ufffd\u007f\ufffd\u0019\ufffdY}\ufffd7\ufffd\u01c6\ufffd\u0001\ufffd\u000f\ufffdx\r\ufffd;\ufffdA\ufffd\ufffd\u0018\ufffdeq\ufffd\ufffd\ufffd\ufffdh[\ufffd\ufffdx\ufffd\ufffd\u001e/\ufffd\u077e}\ufffdd\t&\ufffd\u0018\ufffd>o\u0010o\ufffd\ufffdB)F\ufffdOb\ufffd\ufffd\ufffd~\u0005(\u0010\ufffd'\u00072\ufffd\b'g\ufffd=\ufffd\u000e\ufffd\ufffdf\ufffd\t\ufffdA\ufffd\ufffdTm\ufffd\ubc5b\ufffd4\ufffd\ufffd\ufffd\ufffd=Pok\u0744e\u0010\ufffd\ufffd\u001dS\ufffd\ufffdt\ufffd\ufffd\f~\ufffd\ufffd\ufffdV,\ufffd\ufffd\ufffd\ufffd&\u0019\ufffd\u04c3\ufffd\ufffd\t\ufffd\ufffd\ufffd\ufffd\r\ufffd\ufffdn>\ufffd5~\u007f\u06b1\u001dD\ufffd\u07cc\ufffd\u04ff)|\ufffd\ufffd\ufffd\u001cj\ufffd\u001b\u02ba\ufffd;V\ufffduK\ufffd\u0011\ufffdo\ufffd\ufffd\u001d\ufffd\ufffd\u01b7\ufffdv\u01e3\ufffdW\ufffd\ufffd2\ufffd/C/\ufffd\ufffd\ufffd\ufffd\ufffdh\ufffd\ufffd\ufffdMr\ufffd\u0017\ufffd\ufffd\ufffd\ufffdn)732Mb\ufffdv097\ufffd\ufffdv1\u0003\u0007\ufffd\ufffd\ufffdQ\ufffd\u04aaq\ufffdE\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001cE$M\u0016\ufffd\ufffdRD\ufffd1(\ufffdS,L\u0004\u001aDd\ufffd\u000f\ufffd&oZCE\u0014\ufffd\ufffd\u0324N\u0010\u0019\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdo\ufffdD\ufffd\u001f\ufffd\ufffd\ufffd\b\u0002y\u001ch*\ufffdn|\u001a\u0017\ufffdi|\ufffd\ufffd\ufffd\ufffd\u000f\ufffd\ufffd/\ufffd\u000f\ufffd\u000b\ufffd\ufffd\ufffd\u001e\ufffd\ufffd\ufffdO\ufffd4\ufffd\ufffdJ\ufffd6H\ufffd\f\u01e2\u0016N\u0010\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u000e\u0005\u96c8sr\ufffdJZh\ufffd\u0018\ufffd\ufffdL\ufffd/h\u007f\ufffd\ufffd\u001ck\u0631h\ufffd\u020f\ufffd4o\u001e\ufffd~\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\">\ufffd.:\u0011\ufffd\u0013*\ufffd%\ufffd\ufffd\ufffd\ufffd\ufffd\u0014U\ufffdk\nQ\u001c\ufffd?D$}\u0019\u0002k\ufffd\fj\ufffd\ufffd0\u0012F >R\ufffdx\u0003\ufffd\ufffd\ufffdhs\ufffduK\ufffd7?(\ufffdv\fU-\ufffd\u007f\ufffd\ufffd\u06f1\ufffd\u0017\u0011\ufffd}o\ufffd|\u0007\ufffd\u0000\ufffd!\ufffd\u7eb7c\ufffd\ufffd\ufffd\u2632\ufffd\u017a\ufffdM;\ufffd\u045c\ufffdu\ufffd\u001c\ufffd;L;\ufffd{.\ufffd:\ufffdf,\ufffdOO\ufffd,\ufffd3L\ufffd}\ufffd\ufffdQ\u0007z\ufffd;\u0002\ufffd\ufffd.\ufffd-\ufffd\ufffdg\ufffdI#B3\ufffd`\u0004\ufffdZ\u001b\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd%\ufffd@=\ufffdL\ufffd\u0015U\ufffd\ufffd\u014a\"\ufffd0\ufffd9?AH\ufffd \ufffd\ufffdQh\u0015R\ufffd\u0014\ufffd<\ufffdy\ufffd\u0000i#C\u06cd\ufffd\ufffd+\u001d\ufffd5#v\ufffd\ufffd\ufffd\ufffd)f\ufffdg\ufffd\ufffd\u0005zte^\ufffd\ufffd]-\ufffdxT\ufffd\ufffd(kJ\ufffd\ufffd\u0002f\u0003\u00000D\u0015\ufffdi\ufffd\ufffd\u0002\ufffd\ufffd\ufffdv\ufffd\ufffdF>;\ufffd^\ufffd{\ufffdK\ufffd\u000fT\ufffd\u0002\u001dz\ufffd\ufffd\ufffd`\ufffdJ\ufffd7\ufffd0s\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdxhI\ufffd\ufffdN\u001d,]\ufffd\ufffd\u000e\ufffd\ufffd6\ufffd\u001f\ufffd$;EB\ufffdJ\ufffd\ufffd\u00010\u0006_>\ufffd\ufffd\u000f\u001dV\ufffdh$\ufffdg\ufffdZ}\ufffd\u0005!\ufffd0\ufffd\ufffd5\ufffd\ufffdc\ufffd{wC\ufffd\u0006\ufffd&i:\u0011\ufffd*\ufffd\u0019\ufffdEf\ufffd\b\ufffdU+]\ufffd\u0007\ufffd=\u001b\ufffd'+\ufffd.$_\ufffd\u0007\f\ufffd\ufffd\ufffd\ufffd\ufffd\n\ufffd\ufffd\ufffd\ufffd*\ufffd G>+S\ufffd\ufffdmm}qi\ufffd\ufffd\u05d1\ufffd\ufffdZ\ufffd\ufffd|8\ufffdz\u0018Zf\ufffd2eW\ufffd\u007fL?\ufffd\u01e4\ufffd\ufffd\ufffd\ufffd\ufffd\b#\u0014\u0007\u001ciB\ufffd(25a=\ufffd\ufffd\ufffd\r\ufffd\ufffd\ufffd7\ufffd\ufffd\ufffds\ufffd\u000b%4\ufffd\u0010\ufffd[\ufffd\ufffd\u0019Kxa\ufffd\u0691\ufffd,Z`\ufffd\u001e\u000f\ufffd\u0632\ufffd\u0017n\ufffd\ufffdwJh\ufffdin\ufffd9,F\u0003T}H\ufffd\u0015\ufffd%:U\ufffd\u00169\u0796\ufffdo[\ufffd\ufffd\ufffdS\ufffd\ufffd\ufffd\ufffd.\u007f1\ufffd\ufffd\u0014\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd_\ufffdq\ufffd,7\ufffd\u0300\ufffdSO\ufffd1\ufffd\u0007\ufffdc\ufffd\ufffd\ufffdcY\u0010\u000b\u0014\u0017D\u001eY\ufffd\u079b\ufffd$\u0012\ufffd\ufffd\ufffd\ufffd.4)\ufffd\u0005Q\u0001\ufffdB\ufffd\u0007\ufffdVrN\ufffd\ufffd\u070e\ufffd\ufffdK\u046e\\\ufffdK\u0017n=\uf2b5q\ufffd\ufffd?'\u001bU\u0010NTA\ufffd\ufffd}h\ufffdm\ufffd\ufffd\ufffd\"\ufffd\u001c\ufffd\ufffdG\ufffdE\ufffd\ufffd\u000b\u000b\u0407`wMv\ufffdV\ufffd\ufffd$D\ufffd\ufffdd\"\\\ufffd\ufffd(\ufffdf\ufffd\ufffd\ufffd\ufffd\ufffd,\ufffd\ufffd\u05ddo@+j\ufffd\u716c\u0416\ufffd\ufffd*\u014a\ufffd\ufffd[b\ufffd\ufffdt\u0000)hv\ufffd\u0326\ufffd\ufffd\ufffd> \ufffd\ufffd\u0016J\ufffd\ufffdS\u0010\ufffdT\u0010\ufffdF\u0007\u007f\ufffded\u0012\ufffd\ufffdqM\u044e\ufffd4q\ufffdI>\u001d\ufffdD\ufffdY\ufffd\u000f\ufffd\u001eHS\ufffd9L|\ufffd^\ufffd{\ufffd\ua2d4f5\ufffd\ufffd\ufffdc\u001b\ufffd\ufffd\ufffd\ufffd\u000f\ufffdz\u000f\ufffd\u0001U@;\ufffd\ufffd\ufffd\ufffd\u0010j\"\ufffdv\ufffd\ufffd\u0007\ufffd\ufffd$\ufffdl\u0015\ufffd\ufffd$\ufffdO8\u0012H\ufffd\ufffd\ufffd\ufffdU\ufffd\ufffdHJp\ufffd\ufffdb\ufffd`BA\ufffd\ufffd(`\ufffd\ufffds\u001e\ufffd3m\ufffd\ufffd\ufffd\b!pn\ufffd`\ufffd\ufffd@K\u0699!\ufffdi\ufffd\ufffd\ufffdZ\f\ufffd\ufffdl;\ufffdl$\u0014m\u3882J}@A|L\ufffdu:\u076e\u0005qsY\ufffddM3\ufffd~\u001d\u0003\ufffd\ufffd\u000f<\u0005PFR\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd\ufffd\"b\t \ufffd\ufffdb\ufffd\u001d\ufffdJDL\ufffd\ufffdC\\45\u0011<\ufffdG\u001b\ufffd\u0016\t\ufffd\u0005\u0015\ufffd\ufffd\ufffd\ufffd-\ufffdF~\ufffd\ufffd\u000f\u0017\ufffd\ufffd\ud8a8\udd4b\ufffd\ufffd&=\ufffd\u000eTW\ufffd\ufffd=\ufffd0V4S\ufffd\ufffdy\u0001\ufffd\ufffd\ufffd\ufffd\ufffdy!\u0218\ufffd7\u0011\ufffdUiR\ufffd\u0015Iy\ufffd\u0600\u0004\ufffd\\\ufffdj\u0010@\ufffd0(\ufffd_\ufffdT\u01e3\ufffd\ufffd{\ufffd\u9ccb\ufffd\ufffd\ufffd\ufffdS\ufffd\r\ufffd\ufffd90\ufffd\ufffd\ufffdA\u000eq\ufffdJ\u0011\ufffd\ufffdw\ufffd\ufffd=\ufffd\ufffd\u0012\u0019d\ufffdUrXt\"c.\ufffd\u05bbA\ufffd\ufffdd\t\nE\ufffd\ufffdxXi]`b\u000e\ufffd,)\ufffdn\ufffd\ufffdm\ufffd>\u001e\ufffd\ufffd:k\ufffd2\ufffd$\ufffd\ufffd3\u011f?\ufffd>(\ufffd<7\u0001\ufffd\ufffd\ufffd^\ufffdz>zw\ufffd\u007fJ\ufffdg]7E\ufffd\ufffd\f=\u0004s\ufffd&\ufffd\u0011+\ufffd\ufffd\ufffd\ufffd:i\u01c8\ufffdd!\u0017$Ls\ufffd\ufffd\f\ufffdQ?&K\u0011\ufffdh\ufffdN\ufffd2\ufffd\ufffd\ufffd\ufffd\rFtT\ufffd@7LM[\ufffd\ufffd\ufffd\f\ufffd\ufffd\ufffd\ufffd\ufffdR\u001c\ufffd\u001c0\ufffdZome\ufffd|h~y-\ufffdsV\ufffd5\\6\u0013 \ufffdv\u0015x\ufffd1\ufffdV\u0012\ufffd1K\ufffd]z\ufffd?\ufffdw\ufffd\u07de\u0007\ufffd\u007fw\ufffd&\ufffd?\ufffd.\ufffd\ufffdT\u001e\ufffd0\ufffd\u001f\u077f;\ufffd\ufffd\r\u0006\u00044\ufffd\ufffd\u0012\ufffd\ufffd\ufffd~\u000b\ufffd NL\ufffd\ufffd\u0002\\\ufffdZ\u0004\ufffd\ufffdb\ufffd\ufffd\ufffd\ufffdI\ufffd5\ufffd|B\ufffd\ufffd\ufffdWE\ufffd\ufffd*j\ufffdO\ufffd\ufffd\ufffd\ufffdD\ufffd\ufffd\ufffd.Ep\ufffdPt\ufffd\ufffd\ufffd\ufffdP\ufffd\ufffd\r\n\ufffdX\u0011\ufffd^m\u0018\ufffda\u001c\ufffd)H\ufffd\u0003\t@R\ufffd\u0002\ufffd\ufffd_\ufffd\u0010\ufffd\ufffdG^\ufffd\u0003\u0016+\ufffd\ufffd:hD\ufffdv\ufffd\ufffd\ufffd}\u0459\ufffdA\ufffd:\ufffd^\ufffdI\ufffd@\ufffd9!\ufffd\u0002\ufffdj\ufffd\ufffd\ufffdWC>\ufffd\u001aR(\ufffd\u0001\ufffd\u0005\ufffdSAB\u0006>\ufffdw\u0556F=\ufffd\ufffd\ufffd\ufffd\ufffd\u0171\ufffdH\u02aa\ufffd\b\ufffd7/\ufffd\ufffd\ufffd\ufffd\ufffdd\ufffd\ufffd\ufffd{\ufffd\ufffds\ufffd\ufffd2\ufffdP\ufffd\ufffd5\u0001ve\r\ufffdn\ufffd\u00136S\ufffdr\ufffdt\u001a\ufffd8\ufffdU\ufffd\u0007\ufffd)p\f\ufffd\ufffd\ufffd6AWG\ufffd\u0535}\ufffd-\u000e\ufffd\ufffd\ufffd`\ufffdG\ufffd\r\ufffd\ufffdjnA\ufffd\u0016|\ufffdtd\ufffdn~3?D\u0706\ufffd\"\ufffd5\ufffd[-t\ufffd\ufffd\ufffd\u0007\ufffdQ\ufffd;\u000e\fc\ufffd\u0004\ufffd\ufffd\ufffd\ufffdd\ufffd\ufffdd\ufffd[\ufffd\u000328\ufffd6\ufffd#\ufffd|\ufffdk\ufffd\ufffdo\u000f\ufffd\u001e\u07fe\u0011P\ufffd\u000f8\u02a3\ufffdB\u037f\u001b\ufffdrZ\ufffd\u0003\u001e1\ufffdN\r(j\ufffd|\u0004\ufffd\ufffdC\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\u000b\ufffd\ufffd\ufffdt+\u0757\ufffd\ufffdC\ufffdI\ufffd2\ufffd\ufffdC\u0006\ufffd\ufffdzb\r\ufffd\u0012\ufffd:\ufffd\u001e\ufffd@\ufffd\ufffdEZ|\ufffdm\ufffdz\ufffd2Yt\ufffd\ufffdZ$\ufffd\ufffds\u0006\ufffd\ufffd\u0010\ufffd\ufffd\ufffd\ufffd\ufffd6\n\ufffd\ufffdl0\\0/e\u06ce;\u001d\ufffd&\ufffdVl\"7\ufffd\ufffd\ufffd6\ufffdF\f\ufffd\u0019\ufffd\ufffd;\ufffd\ufffd\ufffd\ufffd/q8\u001eN\u001d\u01d9\ufffd\ufffd\ufffd\ufffdU`$\ufffd\ufffd#\ufffd\ufffd<%\ufffd\n\ufffd\ufffd-7\fch\ufffd\ufffd2I\u001d|,l\ufffd\ufffd\ufffd\u0015\ufffd\ufffd\ufffd,\ufffd\u0fa9\ufffdh\ufffd\ufffd*\u0011K\ufffd\ufffd\ufffd\ufffdx\ufffd\ufffd{\ufffdw\ufffd\ufffd~|\ufffd\n\u04af\ufffd\ufffdkT\ufffd\ufffd\u0017A\ufffdbc\ufffds\ufffd\u007fe\ufffd\b\ufffd\ufffd\u0019\ufffd+\ufffdz\ufffd\b\ufffd\ufffdk\b\ufffd\ufffd\"\ufffd\ufffd\u0011\ufffd\ufffd\ufffd\ufffd`\ufffd\ufffd\ufffd\ufffd\t\ufffd\u001c\u0014\ufffdk\u0106\ufffdV\ufffd\ufffdD\ufffd\ufffd\ufffdD\ufffd\ufffd\ufffd\ufffdBqf\u0018\ufffd\ufffd\u0012\u0682\ufffd\u001b\ufffd\ufffdv\u0012\u0128\u0005\ufffd;\ufffd\ufffdB\ufffd\rI\u0010R\ufffd\f\ufffd^\ufffd\ufffd\u0016l\ufffd>\u001e\ufffd3\ufffd\ufffd0\ufffd\ufffd\u05e7n\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\\ufffdQ\ufffdD\ufffd\ufffd\ufffd\ufffd\ufffd\u000fj\ufffd\ufffd\u0001\ufffd\ufffdzK\\\ufffd`(\ufffd@eg\ufffdE\u0014\ufffdE\u0017\ufffd\ufffd\ufffd\ufffd\ufffdu\ufffd}\ufffd,\ufffd\u001a*\ufffd\u0488z\u03cf\ufffd\ufffd\ufffd\u0011\ufffd\u001fc\u007f#\u0015\ufffd\u0000\u000b_\ufffd\ufffd\ufffdW8c\ufffd\ufffd\ufffd{\u8645I\ufffd\ufffd\u042b\u000e\ufffd\n-\ufffd\ufffd\ufffd\ufffd|X\ufffd\u001bv]=\u0014\ufffd\ufffdr\ufffd\u0004[\\\ufffde\u001b\ufffd\u0015X\u0613\ufffd)\ufffd,\ufffdC\u050d=\ufffd\ufffd#d\ufffd#\ufffd\u0002\ufffd6Kj\ufffd\u001a\ufffd\u0013\ufffd9h\ufffd\ufffd[4\ufffd\ufffd*\ufffd\ufffd\ufffdf\ufffdl\ufffd\ufffd4\u001e\ufffd\ufffd:`\ufffd\ufffd\ufffd\ufffd\u000fL\ufffdE~x\\O\ufffd_\ufffd\ufffd\ufffd\u0015P\ufffd\ufffd\u0721L&\ufffdR\u02f6Zo\ufffd\u0019\n\ufffd1\u0004^r\ufffdQq\ufffdV\ufffd&\ufffd5\ufffd\ufffd.*\ufffd\ufffd\u007fe\ufffd\ufffd\ufffd\u000b%\ufffd\ufffda>\ufffdy\u00de$S\t\u00027\u0019Vu\ufffd\u0017N|\ufffdJ\ufffdyX\ufffd\ufffd\ufffd8\u0010&[\ufffd\ufffd\ufffdBh\ufffd\ufffdJ\u0000\ufffdfu\ufffd{r7\ufffd\u0002\u0014L)\ufffd\u0010-,\ufffds \ufffd\ufffd\ufffd\ufffdUfJ=\ufffdD\ufffdWk9\ufffd\ufffd\ufffdV\"\ufffd\u001ex\ufffd\u001a\u0017\ufffd*\u0437\ufffdZ$!\ufffd\ufffdY\ufffdx\ufffd\u001c\ufffd\u0019\ufffd\ufffdU\u0019\u0016U\u0004\ufffd\u0017\ufffd\u001e\u000b\ufffd,\ufffdW\ufffd\ufffd\ufffd\ufffd\u0017\ufffd\ufffd\ufffd\u0000\ufffd\ufffd\u0014k\ufffdD4g4V{\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffd\u023e\ufffd\ufffd5\ufffd\u0210hAk\ufffdO.?%\ufffd~\ufffd\u0011-\ufffd\ufffdD\ufffdFfdT\ufffd\ufffd\ufffd{\r/\u0011\ufffd\ufffd\ufffdfB\ufffd\u0012\ufffdp\ufffd\ufffd>\ufffdV\ufffd-E\ufffdUy\ufffd\ufffd7]\ufffd\ufffd\ufffd6\ufffd\nC0S\ufffd\ufffdI\ufffd\u000f+,\ufffd\ufffd\u0019j\ufffd\ufffd\ufffd/\ufffd\u0018i\u001f\ufffdo\u0227\ufffd.\u0002\ufffdR\ufffd\u0018\ufffdl\u00130\ufffdN\ufffd\"\ufffdfX\u0016+\ufffd\ufffd< \ufffdA}\ufffd=\u0014\ufffd8W\ufffdk\u0010\ufffd\u0459\ufffd7\u0015\ufffd@?\ufffd\u0019\ufffd\ufffd8\ufffd%k\ufffd\ufffd\ufffd/\ufffd\tz\f\ufffd\ufffdJ\ufffdZ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd1\u00186\ufffd\u0006\ufffd|\ufffd\ufffd\ufffdyc\u0018P\ufffd\u02dbDB\ufffd>d\ufffd\ufffd\u000bsU\ufffd\ufffdRTF-\ufffd\ufffd\ufffd\u015a\ufffd\u000b\ufffdfeN\ufffd\u001a\ufffd:$\ufffd\ufffd\"6\ufffdM\u0016\ufffd\ufffd\ufffdMMWJ7\ufffdV\u000fb\ufffdy@\ufffd\u0683\u0305\ufffd^%\ufffd\ufffd\ufffda\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffd\ufffd9\u001e\ufffd?\ufffd\ufffd\ufffdI\ufffd\ufffd\ufffdu/\u0003\ufffd\ufffd\ufffdk6.\ufffd0a\ufffd\ufffdw\ufffd[\ufffd\ufffd\ufffd\ufffdkZ\ufffd\ufffd\u0003\ufffd\u0001\ufffdI!\ufffd.oP\\\ufffdHh\ufffd@\u0018=\u000fftd\u001e\ufffdx\ufffd\u0016\ufffdHK,\ufffdm\u0019\u0256\ufffdt/\ufffd\ufffd\ufffdg@Ba\ufffdt%q\u001a\u0012\n\ufffd\u07b1t=\u001f\ufffd<~\ufffd\ufffd\u06fex{\ufffd\ufffd\ufffd \ufffdg\u001e\ufffd\u0000\ufffd\ufffd\"!\ufffd>\ufffd\ufffd\u016d\ufffd\ufffd\ufffdB\ufffd\ufffd\ufffdumX\ufffdJ\ufffd\u001e\ufffd\ufffdP\ufffd\ufffd\u0015\ufffd\ufffd\u0016\ufffd\ufffd4;\ufffd\u000f>~\ufffd\u001b\ufffd\u0001\ufffd\ufffdHg\ufffd*:\b\u0007\ufffd\ufffd\ufffd\u0504\u06b3\ufffd&\ufffdn\ufffd\ufffdKT,N\ufffdU\u0011\ufffd\\\ufffd\ufffd\ufffdcPY\u0479\u0005\ufffd\ufffd\u0010\u0013\ufffd\ufffd\ufffd\ufffd]\ufffd9\ufffd\u0004\ufffd\ufffd\u037e\ufffd\ufffd\u0011\t{f\u0019[\ufffd\u0733y\ufffd\ufffd$\ufffd\ufffd\u001d\ufffd x\ufffd\ufffd\ufffd\fa\ufffd:#\ufffd\ufffd\ufffdR\u000e^\ufffd\ufffd}\ufffd\u0006\ufffds\ufffdd\ufffd@v^\ufffd\ufffd\ufffds\ufffd\ufffdE\ufffd\ufffd'\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd=\ufffd$}\t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffd\ufffdk,\ufffd\ufffd\u03779\ufffd\ufffd\ufffd\ufffd#\ufffd\ufffdJ\ufffdV<[3\ufffd\ufffd\ufffd\u0014\ufffd`\u007f\ufffd\ufffd{3\ufffd@\ufffd\u0014\ufffd\ufffd\ufffd\ufffd<\ufffd\ufffd\u000e\ufffd=\"\u0004*\u0007\t\ufffdt\ufffd\ufffd?f\ufffd\u001d\ufffd\ufffd\ufffd\ufffd\ufffd>\u04e0\ufffd\ufffd\ufffdW]yf\rWj\ufffd\ufffd~\ufffd5\"\ufffd\ufffdq\u0000\ufffd\u0014\ufffd-\u0011w\u0016\ufffd(\f\ufffdP\ufffd\ufffd\ufffd<\ufffd\ufffd\ufffd\u001f\n\u001e\ufffd\ufffdk\n\ufffd\r\ufffdH\ufffd\ufffd\ufffd\ufffd.\u0018t\ufffd\u000e\u0006#\ufffd\u0015$\ufffddT\ufffd\ufffd\ufffd\ufffdu\u0000d!OY\u0001\u0005\ufffd\u0003\ufffd\ufffdA\ufffdy\ufffd(\u001e7\ufffdX\ufffd]\ufffd>j\ufffd\ufffd\ufffd\ufffd\ufffd#A4\ufffdK\"\ufffd\ufffd\ufffd\u0001\ufffd\u0756\ufffd\ufffduCY\ufffd\ufffdhc\ufffdH\ufffd\u0010\ufffd\ufffd\u0014\u001e\ufffd\u0000>\ufffdE\ufffd{\ufffdG\ufffdi\ufffd~Qh\u001b\ufffd]sH\ufffdqGd-\ufffd\u0016\ufffdpR\ufffd\ufffdh\ufffd\ufffd;\u0003Ob\ufffd\ufffdT\ufffd\ufffd\u0016b\ufffd0V\u001a\ufffdE\ufffdlY{P\ufffd\ufffdO\ufffde/D[\ufffdZ\u05af0;C\ufffd'J?\u0002xb\ufffd\ufffd\ufffdN*\ufffdf\ufffdz\ufffdN\ufffd\ufffd\ufffdu#\u0599[\ufffdL\ufffd\ufffd\ufffd\ufffd\u03ce\ufffd\ufffd\u001a\ufffd\ufffd\u001c}O\ufffdR_\ufffdP\uaf76M\ufffd\ufffd\ufffd/\ufffd\ufffdEc\ufffdu\ufffd6W@\u001d\ufffd4tqJ\ufffd:o\ufffd%\bA\u001ai\ufffd*V1{\f]\ufffd\ufffd\ufffd\u0002\u001d.HE\u001d\ufffd\ufffd\ufffd\ufffd0n\ufffd\ufffd^giC\u0019\ufffd+\ufffd\ufffdD\ufffd]\u0006\ufffd\ufffd\ufffdo K\ufffdP\ufffd\ufffd\ufffd\u001f\u0017\ufffd/\ufffd8\ufffdT\ufffd:j:\ufffd\u0006\ufffd6\ufffd\u07b7\ufffd\u001aZv?O\ufffd\u0004\u0786\ufffd\ufffd,H\ufffd^J\ufffd'\ufffd\u001f\u00176\u000b\ufffd\ufffd_\ufffd\ufffd\ufffd\u000fJ}\u007f\n\ufffd\ufffd\ufffd\ufffd\ufffdm\ufffd\ufffd+.\ufffd\u0006#\u0007\ufffdc\ufffd]\u0016S\ufffd\ufffd\u0088(X\u007f\u0006\f\ufffd\u001df\ufffd3\ufffd\u0019[\ufffdp\ufffd\ufffd\ufffdX[B\ufffd@\u0114\u001f\ufffd^\ufffd\ufffd\ufffd?^\ufffd7ONwe\ufffd)O\ufffd\ufffd\ufffdH\ufffdk\u0017]<\ufffd\u007f\ufffd\u04c9\ufffdS:w\ufffd4n\u0018V\ufffd)0\ufffd\ufffd\u000b\ufffdY\u000e,,u\ufffd\ufffd\ufffd$\ufffdp\ufffd\ufffdRO\ufffd\ufffd\ufffdq*\ufffdZ/\ufffd~\ufffd\u0011\\2\u0018\u0010\ufffd\ufffd\u0001b@\ufffd\u0012\ufffd\u0197\t\u0010V\u05fe\u0006f\ufffd\ufffdS\u0003\ufffd\ufffd\ufffd\be\ufffd#I\ufffd\u0006Z\ufffd\ufffdU\ufffd\ufffdY\"\ufffd\ufffdf\ufffd\ufffd\ufffd\ufffd.q\ufffdwSY'O\ufffd\ufffdv=\ufffd\ufffd\ufffd\ufffdp\ufffd^\ufffd\u05a0\rD\u001bd\u0006%xe#l:\u000b\ufffd\ufffd\ufffd\ufffd\u001b\u00f8\ufffdT\ufffd\ufffda\u0013\t\ufffd\ufffd(E\ufffd\ufffd\ufffd\ufffdu\ufffd$\ufffd\n\ufffd\u05a8\ufffd\ufffd\ufffdH\ufffd\ufffd\ufffdD\ufffd\ufffd\ufffd\u000f:\ufffdN\ufffdq\u0003&W,\ufffdU\ufffd>\ufffdPd+2\b\ufffdx>\u000f\nT\ufffd$\ufffd\u0012\ufffd \ufffd\u000b\ufffd\ufffd\ufffdJ\u0005\ufffd`\u0533j\ufffdX\ufffd\ufffd\ufffd7:\f+\u025e\u001a\u000evP\ufffd\u0000\u0006\u0002u\u001b@\ufffd.\ufffd\ufffd\ufffd`d\ufffd\u000f\nh\u001b\ufffd\u001c\ufffdi\u0001oJ\ufffdd\ufffdI\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd[\u001c\ufffd\ufffdb\ufffd\ufffd\u001bK,;\n\ufffd\u0001\ufffdx\u0005\ufffd\u00046\u000f\ufffd\ufffd\ufffd\ufffd\ufffd\u0019Y\ufffd\ufffdUA\ufffd...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "USA Today is one of the largest national newspapers in the U.S. While it provides a wide range of news coverage, its reporting sometimes prioritizes brevity over depth. It's considered fairly reliable but has faced criticism for sensationalism in some cases. They have a fact-checking team but can occasionally fall into the trap of clickbait headlines, which affects their credibility slightly."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence reports on the incident and reiterates the details of the assault. While it identifies Marquez as a victim, it offers less depth on eyewitness accounts or corroborating evidence beyond summarizing the incident compared to the first two pieces. Thus, it carries moderate relevance."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "2 teens arrested in attack on Marine at D.C. McDonald's | kare11.com",
+                "htmlTitle": "2 teens arrested in <b>attack</b> on Marine at D.C. <b>McDonald&#39;s</b> | kare11.com",
+                "link": "https://www.kare11.com/article/news/2-teens-arrested-in-attack-on-marine-at-dc-mcdonalds/89-52868207",
+                "displayLink": "www.kare11.com",
+                "snippet": "Feb 23, 2016 ... Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> Two teens have been arrested in connection to the <b>assault</b> and robbery of a veteran Marine sergeant, D.C. police said.",
+                "formattedUrl": "https://www.kare11.com/article/news/2...in...mcdonalds/89-52868207",
+                "htmlFormattedUrl": "https://www.kare11.com/article/<b>news</b>/2...in...<b>mcdonalds</b>/89-52868207",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-qKAyR8Y_KuZCkaWprM1rb116FtGFJhh2-je3dMoim0oC9DkZ7wBpD0S&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=568147907",
+                            "og:image": "https://media.kare11.com/assets/KARE/images/45624706/45624706_1140x641.jpg",
+                            "theme-color": "#045ea8",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "kare11.com",
+                            "og:description": "Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                            "twitter:image": "https://media.kare11.com/assets/KARE/images/45624706/45624706_1140x641.jpg",
+                            "twitter:site": "KARE11",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "kare11,news,crime,nation-now",
+                            "twitter:title": "2 teens arrested in attack on Marine at D.C. McDonald\u2019s",
+                            "twitter:domain": "www.kare11.com/",
+                            "og:title": "2 teens arrested in attack on Marine at D.C. McDonald\u2019s",
+                            "og:image:height": "641",
+                            "og:article:published_time": "2/23/2016 2:10:26 PM",
+                            "twitter:image:src": "https://media.kare11.com/assets/KARE/images/45624706/45624706_1140x641.jpg",
+                            "site": "kare11.com",
+                            "fb:app_id": "1668015679912083",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.kare11.com/article/news/2-teens-arrested-in-attack-on-marine-at-dc-mcdonalds/89-52868207",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.kare11.com/assets/KARE/images/45624706/45624706_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Latest News Stories\n    *     !]\n        #### \n    *     !]\n        #### \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Latest Weather Stories\n    *     !]\n        #### \n    *     !]\n        #### \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   ]\n*   \n    Search:  Search\n Minneapolis, MN \u00bb]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBreaking News\n2 teens arrested in attack on Marine at D.C. McDonald\u2019s\n=======================================================\nTwo teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.\n! !\nCredit: Photo courtesy of Christopher Marquez\nVeteran Marine Sgt. Christopher Marquez, shown here in South Korea, was recently assaulted at a McDonald's in Washington, D.C. Marquez said he believes the incident was racially motivated.\nAuthor: WUSA-TV (Washington, D.C.)\nPublished: 2:10 PM CST February 23, 2016\nUpdated: 2:11 PM CST February 23, 2016\n]\nWASHINGTON -- Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.\nPolice said one 17-year-old male and one 17-year-old female were involved in the attack. The male was charged with aggravated assault and the female was charged with robbery.\nChristopher Marquez, a Bronze Star recipient, who served in the Marine Corps from 2003 to 2011, told police he . Police later  of the assault.\nMarquez said he believes the February 12th attack was racially motivated.\n\u201cThe kids were asking me if I think that black lives mattered,\u201d Marquez told the _Marine Corps Times_. \u201cI was ignoring them, just because I felt intimidated. I felt how they approached me, it was very hostile. I felt they were really trying to intimidate me and just trying to start a confrontation with me.\u201d\nOne of the suspects allegedly hit Marquez with a gun after calling him a racist, according to a police report.\nThe...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "KARE 11 is a local news station in Minnesota with a decent reputation for local reporting. However, as it often covers local news events primarily, their overall reach and rigor in fact-checking compared to national outlets may be less thorough. While they provide good coverage for their region, their effectiveness in addressing broader national issues can vary."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This source provides updates on the arrests made in connection to the assault, affirming that there were indeed individuals involved. However, it does not present firsthand accounts or corroborate the specifics of the racial motivations alleged by Marquez, which reduces its direct relevance to the query."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "2 teens arrested in attack on Marine at D.C. McDonald's",
+                "htmlTitle": "2 teens arrested in <b>attack</b> on Marine at D.C. <b>McDonald&#39;s</b>",
+                "link": "https://www.usatoday.com/story/news/nation-now/2016/02/23/2-teens-arrested-attack-marine-dc-mcdonalds/80804624/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Feb 23, 2016 ... Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> Two teens have been arrested in connection to the <b>assault</b> and robbery of a veteran Marine sergeant, D.C. police said.",
+                "formattedUrl": "https://www.usatoday.com/story/news/nation...mcdonalds/80804624/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/<b>news</b>/nation...<b>mcdonalds</b>/80804624/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlbiPWRrdGwEK4_IliKHFlZOQv_xL_11zVNMTVONDo0dCjXZp5rny7QHD&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "533",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "2 teens arrested in attack on Marine at D.C. McDonald\u2019s",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "2 teens arrested in attack on Marine at D.C. McDonald\u2019s",
+                            "og:image:height": "301",
+                            "google": "notranslate",
+                            "og:description": "Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Staff",
+                            "twitter:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=266&fit=crop&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "Two teens have been arrested in connection to the assault and robbery of a veteran Marine sergeant, D.C. police said.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/nation-now/2016/02/23/2-teens-arrested-attack-marine-dc-mcdonalds/80804624/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "2 teens arrested in attack on Marine at D.C. McDonald\u2019s\n===============\nONLY AT USA TODAY:\nOUR PORTFOLIO:\n: 73\u00b0F Sunny\")\nNATION NOW\nAssault\nAdd Topic\n2 teens arrested in attack on Marine at D.C. McDonald\u2019s\n=======================================================\nStaff\nWUSA-TV, Washington, D.C.\n!\n!\nWASHINGTON -- Two teens have been arrested in \nPolice said one 17-year-old male\u00a0and one 17-year-old female were involved in the attack.\u00a0The male was\u00a0charged with aggravated assault and the female was charged with robbery.\nChristopher\u00a0Marquez, a\u00a0Bronze Star recipient,\u00a0who served in the Marine Corps from 2003 to 2011, told police he was assaulted while eating at a McDonald's.\nMarquez said he believes the February 12th attack was racially motivated.\n\u201cThe kids were asking me if I think that black lives mattered,\u201d  \u201cI was ignoring them, just because I felt intimidated. I felt how they approached me, it was very hostile. I felt they were really trying to intimidate me and just trying to start a confrontation with me.\u201d\nOne of the suspects allegedly hit Marquez with a gun after calling him a racist, according to a police report.\nThe suspects took Marquez\u2019 wallet, identification, credit cards, debit card and about $400 in cash, the report says.\nPolice say a third suspect was involved in the assault.\n_Contributing: The Marine Corps Times_\n!\nFeatured Weekly Ad\n\u00a9 2024 USA TODAY, a division of Gannett Satellite Information Network, LLC.",
+                    "content_tokens": 324
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "USA Today is one of the largest national newspapers in the U.S. While it provides a wide range of news coverage, its reporting sometimes prioritizes brevity over depth. It's considered fairly reliable but has faced criticism for sensationalism in some cases. They have a fact-checking team but can occasionally fall into the trap of clickbait headlines, which affects their credibility slightly."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "Similar to evidence 3, this article reports on the arrests of two teens connected to the assault. It also emphasizes that Marquez believes the attack was racially motivated. However, like evidence 3, it lacks deeper eyewitness accounts or confirmation of the attackers' motivations."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Caught on Camera: Teens attack Marine at DC McDonald's | wfaa.com",
+                "htmlTitle": "Caught on Camera: Teens <b>attack</b> Marine at DC <b>McDonald&#39;s</b> | wfaa.com",
+                "link": "https://www.wfaa.com/article/news/crime/caught-on-camera-teens-attack-marine-at-dc-mcdonalds/287-47482680",
+                "displayLink": "www.wfaa.com",
+                "snippet": "Feb 18, 2016 ... Surveillance video has been released in the assault and robbery of a veteran Marine sergeant at a McDonald's in D.C..",
+                "htmlSnippet": "Feb 18, 2016 <b>...</b> Surveillance video has been released in the <b>assault</b> and robbery of a veteran Marine sergeant at a <b>McDonald&#39;s</b> in D.C..",
+                "formattedUrl": "https://www.wfaa.com/article/news/crime/...mcdonalds/287-47482680",
+                "htmlFormattedUrl": "https://www.wfaa.com/article/<b>news</b>/crime/...<b>mcdonalds</b>/287-47482680",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg6ZspDxnWmJwADLleVlKecagYksdLuZ0FgybVu4rFY6cVGQOt0foR-2Y&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1453204106",
+                            "og:image": "http://content.thv11.com/photo/2016/02/18/635913945985826108-marine-attacked_1455834868320_321523_ver1.0.JPG",
+                            "theme-color": "#045ea8",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "wfaa.com",
+                            "og:description": "Surveillance video has been released in the assault and robbery of a veteran Marine sergeant\u00a0at a McDonald's in\u00a0D.C.",
+                            "twitter:image": "http://content.thv11.com/photo/2016/02/18/635913945985826108-marine-attacked_1455834868320_321523_ver1.0.JPG",
+                            "twitter:site": "wfaa",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "wfaa,news,crime,local",
+                            "twitter:title": "Caught on Camera: Teens attack Marine at DC McDonald's",
+                            "twitter:domain": "www.wfaa.com/",
+                            "og:title": "Caught on Camera: Teens attack Marine at DC McDonald's",
+                            "og:image:height": "641",
+                            "og:article:published_time": "2/18/2016 4:55:17 PM",
+                            "twitter:image:src": "http://content.thv11.com/photo/2016/02/18/635913945985826108-marine-attacked_1455834868320_321523_ver1.0.JPG",
+                            "site": "wfaa.com",
+                            "fb:app_id": "1886819031630970",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Surveillance video has been released in the assault and robbery of a veteran Marine sergeant\u00a0at a McDonald's in\u00a0D.C.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.wfaa.com/article/news/crime/caught-on-camera-teens-attack-marine-at-dc-mcdonalds/287-47482680",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://content.thv11.com/photo/2016/02/18/635913945985826108-marine-attacked_1455834868320_321523_ver1.0.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... News Stories\n    *     !]\n        #### \n    *     !]\n        ####   !]\n        #### \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Latest Weather Stories\n    *     !]\n        #### \n    *     !]\n        #### \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   ]\n*   \n    Search:  Search\n Dallas, TX \u00bb]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBreaking News\nCaught on Camera: Teens attack Marine at DC McDonald's\n======================================================\nSurveillance video has been released in the assault and robbery of a veteran Marine sergeant\u00a0at a McDonald's in\u00a0D.C.\n! !\nSurveillance video has been released in the assault and robbery of a veteran Marine sergeant\u00a0at a McDonald's in\u00a0D.C.\u00a0(Photo: DC Police)\nAuthor: WUSA9 (USA Today , KTHV)\nPublished: 4:55 PM CST February 18, 2016\nUpdated: 4:56 PM CST February 18, 2016\n]\n_WARNING: Video may be considered graphic to some viewers. Please use your discretion._\nWASHINGTON (WUSA9/USA TODAY) -- Surveillance video has been released in the assault and robbery of a veteran Marine sergeant at a McDonald's in D.C.\nPolice are looking for at least four people in connection with the assault and robbery of Christopher Marquez. Marquez is a Bronze Star recipient, who was one of two Marines who helped carry then-1st Sgt. Bradley Kasal out of Fallujah\u2019s infamous \u201cHell House\u201d, according to USA Today.\nMarquez, who served in the Marine Corps from 2003 to 2011, told police he was assaulted on Friday around 10:30 p.m. while eating at a McDonald's, according to a Metropolitan Police Department report.\nMarquez said he believes the attack was racially motivated. USA Today says he remembers being accosted at the McDonald's in Washington's Chinatown neighborhood by five people between 16 and 21-years-old. Most were men or boys. One may have been female.\n\u201cThe kids were asking me if I think that black lives mattered,\u201d Marquez told USA Today on Monday. \u201cI was ignoring them, just because I felt intimidated....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "WFAA is a local news station based in Dallas, Texas, that covers both national and local news. While generally reliable for local news, the quality of reporting can be inconsistent when it comes to national topics. The site does rely on typical broadcast news standards which may not always meet the rigorous fact-checking seen in larger national news organizations."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This source mentions the surveillance footage of the assault and acknowledges the details Marquez provides about the incident. While it adds context in terms of the visual evidence, it does not directly provide corroborating witness accounts outside of Marquez's narrative."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Decorated Marine vet attacked, robbed at Washington DC ...",
+                "htmlTitle": "Decorated Marine vet <b>attacked</b>, robbed at Washington DC ...",
+                "link": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                "displayLink": "www.foxnews.com",
+                "snippet": "Feb 17, 2016 ... \u201cI was ignoring them, then they started calling me racist.\" At that point, Marquez said he left the McDonald's, but was knocked unconscious by a\u00a0...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> \u201cI was ignoring them, then they started calling me racist.&quot; At that point, <b>Marquez</b> said he left the <b>McDonald&#39;s</b>, but was knocked unconscious by a&nbsp;...",
+                "formattedUrl": "https://www.foxnews.com/.../decorated-marine-vet-attacked-robbed-at-was...",
+                "htmlFormattedUrl": "https://www.fox<b>news</b>.com/.../decorated-marine-vet-attacked-robbed-at-was...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu63cQdcsw2rEdAjWLu6oEhXA-zDDcXPc7LkXCbcCu7H4JzXBeaxE4xSM&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "article",
+                            "dc.publisher": "Fox News",
+                            "og:image": "http://media2.foxnews.com/BrightCove/694940094001/2016/02/17/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg",
+                            "msapplication-square70x70logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Fox News",
+                            "twitter:url": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                            "prism.channel": "fnc",
+                            "dc.format": "text/html",
+                            "msapplication-wide310x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png",
+                            "og:description": "Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.",
+                            "twitter:image": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/17/1024/512/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg?ve=1&tl=1",
+                            "prism.aggregationtype": "subsection",
+                            "twitter:site": "@foxnews",
+                            "dc.type": "Text.Article",
+                            "dc.source": "Fox News",
+                            "dcterms.modified": "2016-02-17T12:04:36-05:00",
+                            "msapplication-square310x310logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png",
+                            "og:type": "article",
+                            "twitter:title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "content-creator": "tiger",
+                            "og:title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "classification-isa": "marines,us,theft",
+                            "classification-tags": "marines,theft",
+                            "dc.date": "2016-02-16",
+                            "dcterms.created": "2016-02-16T23:44:15-05:00",
+                            "classification": "/FOX NEWS/US/MILITARY/Marines,/FOX NEWS/US,/FOX NEWS/US/CRIME/Robbery Theft",
+                            "msapplication-square150x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png",
+                            "fb:app_id": "113186182048399",
+                            "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                            "twitter:description": "Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.",
+                            "dc.title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "prism.section": "us",
+                            "dc.identifier": "urn:uri:base64:c23e0852-1fa5-5f5d-a3e5-2274b762549b",
+                            "dc.language": "en-US",
+                            "og:url": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://media2.foxnews.com/BrightCove/694940094001/2016/02/17/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n      This material may not be published, broadcast, rewritten,\n      or redistributed. \u00a92024 FOX News Network, LLC. All rights reserved.\n      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by\n      Factset. Powered and implemented by\n      FactSet Digital Solutions.\n      Legal Statement. Mutual Fund and ETF data provided by\n      Refinitiv Lipper.\n    \nIraq was veteran Christopher Marquez was attacked and robbed by a group of five people\nAuthorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.\nChristopher Marquez, 30, an Iraq War vet, told the Washington Post he was eating in a back corner of the restaurant on Friday when a group of teens and young men approached his table.\n\"They saw me and crowded around ... and they started asking me if I believed black lives matter,\u201d Marquez told the paper. \u201cI was ignoring them, then they started calling me racist.\"\nAt that point, Marquez said he left the McDonald's, but was knocked unconscious by a blow to his head. When he came to, his pants were ripped and his wallet, which contained $400 in cash, three credit cards and VA medical card among other items, was missing.\nDeAnthony Mason, manager of the McDonald\u2019s, reviewed security footage and told Marquez that he was hit on the side of the head before the other teens converged on his body to take his belongings, The Daily Caller reports.\nCredit card transactions reviewed by The Daily Caller revealed that Marquez\u2019s cards later were charged more than $115 at a liquor store, Five Guys and a Walmart.\nThe teens involved in the attack were being sought by police for a previous incident, Mason said, according to Marquez.\nBut the D.C. Metropolitan Police told FoxNews.com Wednesday that they are still working to identify the four people in the video.\nAccording to the Daily Caller, which first reported the incident, Marquez was able to take a cab back to his apartment, where building employees called police. He was treated at George Washington University Hospital for head trauma.\nMarquez served in the Marine Corps from 2003 to 2011. He was awarded the Bronze Star with combat distinguishing device for valor during the battle for Fallujah...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Fox News has a significant national presence and provides a wide array of news coverage. However, it is often criticized for bias and for sensationalizing news stories, affected by its political affiliations. While it has substantial reach and audience trust among certain demographics, its commitment to objective reporting may be questioned, which can limit its credibility in detecting and exposing fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence includes a comprehensive account of Marquez's experience, detailing not only the attack but also his aftermath and claims regarding the assailants\u2019 actions and intentions. It supports Marquez's assertions, thereby reinforcing its relevance to evaluating the validity of the claims."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Police arrest 2 for assault on 'Hell House' Marine | Stars and Stripes",
+                "htmlTitle": "Police arrest 2 for <b>assault</b> on &#39;Hell House&#39; Marine | Stars and Stripes",
+                "link": "https://www.stripes.com/migration/police-arrest-2-for-assault-on-hell-house-marine-1.395697",
+                "displayLink": "www.stripes.com",
+                "snippet": "Feb 23, 2016 ... A third person was suspected in the Feb. 12 attack, which victim Christopher Marquez said was racially motivated. Police said the investigation\u00a0...",
+                "htmlSnippet": "Feb 23, 2016 <b>...</b> A third person was suspected in the Feb. 12 <b>attack</b>, which victim <b>Christopher Marquez</b> said was racially motivated. Police said the investigation&nbsp;...",
+                "formattedUrl": "https://www.stripes.com/.../police-arrest-2-for-assault-on-hell-house-marine...",
+                "htmlFormattedUrl": "https://www.stripes.com/.../police-arrest-2-for-<b>assault</b>-on-hell-house-marine...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuwT2BBGaSETr4uPV_seU6zpvC346G473e1kHaBwEihWCoJQCT0DNCAQ&s",
+                            "width": "285",
+                            "height": "177"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.stripes.com/migration/395705.jpg/alternates/LANDSCAPE_480/Sgt.%20Chris%20Marquez%20left%20and%20Cpl.%20Dane%20Shaffer%20t",
+                            "dc.description": "Police made two arrests Monday following the assault earlier this month of a decorated Marine outside a fast-food restaurant in Washington, D.C.",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Police arrest 2 for assault on 'Hell House' Marine",
+                            "og:site_name": "Stars and Stripes",
+                            "msvalidate.01": "4893DC9F9262E19721718A4A16818289",
+                            "og:title": "Police arrest 2 for assault on 'Hell House' Marine",
+                            "title": "Police arrest 2 for assault on 'Hell House' Marine",
+                            "og:description": "Police made two arrests Monday following the assault earlier this month of a decorated Marine outside a fast-food restaurant in Washington, D.C.",
+                            "url": "https://www.stripes.com/migration/police-arrest-2-for-assault-on-hell-house-marine-1.395697",
+                            "twitter:image": "https://www.stripes.com/migration/395705.jpg/alternates/LANDSCAPE_480/Sgt.%20Chris%20Marquez%20left%20and%20Cpl.%20Dane%20Shaffer%20t",
+                            "article:tag": "metered",
+                            "fb:app_id": "165185360164551",
+                            "twitter:site": "@starsandstripes",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Police made two arrests Monday following the assault earlier this month of a decorated Marine outside a fast-food restaurant in Washington, D.C.",
+                            "dc.title": "Police arrest 2 for assault on 'Hell House' Marine",
+                            "fb:page_id": "45623437315",
+                            "fb:admins": "100001735654878",
+                            "og:url": "https://www.stripes.com/migration/police-arrest-2-for-assault-on-hell-house-marine-1.395697"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.stripes.com/migration/395705.jpg/alternates/LANDSCAPE_480/Sgt.%20Chris%20Marquez%20left%20and%20Cpl.%20Dane%20Shaffer%20t"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n\t\t\t\tSgt. Chris Marquez, left, and Cpl. Dane Shaffer, two of the three Marines the \"Hell House\" statue is based on, help unveil the new monument at the Warrior Hope and Care Center at Camp Lejeune, March 8, 2013. (U.S. Marines)\n\t\t\t\nWASHINGTON \u2014 Police made two arrests Monday following the assault earlier this month of a decorated Marine outside a fast-food restaurant in Washington, D.C.\n A 17-year-old male was charged with aggravated assault and a 17-year-old female was charged with robbery. Both are from Washington and were not named by police due to their age.\n A third person was suspected in the Feb. 12 attack, which victim Christopher Marquez said was racially motivated. Police said the investigation is continuing.\n \u201cThe kids were asking me if I think that black lives mattered,\u201d Marquez told USA Today this month. \u201cI was ignoring them, just because I felt intimidated. I felt how they approached me, it was very hostile. I felt they were really trying to intimidate me and just trying to start a confrontation with me.\u201d\n A surveillance video released by police last week shows a black male assailant in a white tank top punch Marquez in the head from behind as Marquez walked out of a McDonald\u2019s on E Street across from FBI headquarters, according to police.\n Marquez, 30, is a Bronze Star with \u201cV\u201d device recipient who fought in Fallujah, Iraq, in 2004 and served until 2011.\n After being punched, Marquez fell to the ground where he was robbed by the female suspect and then kicked in the head, police said.\n Marquez was one of three Marines in an iconic photo taken during the second battle of Fallujah. He was photographed carrying a fellow Marine whose uniform is blood-soaked from a wound during the so-called Hell House battle during which one Marine was killed and 10 were wounded.\ntritten.travis@stripes.com Twitter: @Travis_Tritten\n\nSign up to receive a daily email of today's top military news stories from Stars and Stripes and top news outlets\n      from around the world.\n\nSign Up Now ",
+                    "content_tokens": 446
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Stars and Stripes is a well-regarded publication that focuses on military news and issues affecting service members and their families. It is known for detailed investigative reporting and maintaining high journalistic standards, making it a credible source for military-related news. However, like Marine Corps Times, its focus is more niche."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This source reaffirms the arrests made in connection to the incident while mentioning the racial claims. Additionally, it highlights Marquez's viewpoint, aligning it with the specifics of the event but lacking deeper corroborating evidence."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "News Releases \u2022 Springfield Police Department News Releases",
+                "htmlTitle": "<b>News</b> Releases \u2022 Springfield Police Department <b>News</b> Releases",
+                "link": "https://health.springfieldmo.gov/4896/Police-News-Releases",
+                "displayLink": "health.springfieldmo.gov",
+                "snippet": "\u2013 On June 5, 2024, at 6:07 a.m., Springfield police officers responded to report of a shooting at 803 S. Douglas. Officers arrived on scene and located Darryl\u00a0...",
+                "htmlSnippet": "\u2013 On June 5, 2024, at 6:07 a.m., Springfield police officers responded to <b>report</b> of a shooting at 803 S. Douglas. Officers arrived on scene and located Darryl&nbsp;...",
+                "formattedUrl": "https://health.springfieldmo.gov/4896/Police-News-Releases",
+                "htmlFormattedUrl": "https://health.springfieldmo.gov/4896/Police-<b>News</b>-Releases",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWanIBACT1-uT5bVqjTV2YzQnJ1ot5RJfZP0hGYXzlNLObGMZdCLm7Ebo&s",
+                            "width": "228",
+                            "height": "84"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "theme-color": "#cb0f22",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "News Flash",
+                            "og:url": "https://health.springfieldmo.gov/CivicAlerts.aspx?CID=11",
+                            "og:description": "News Flash"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://health.springfieldmo.gov/ImageRepository/Document?documentID=58815"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... homicide of 46-year-old Jack Osborn and 44-year-old Melissa Smith (previously identified as Melissa Evans). \u00a0On...Read on... \nSpringfield, Mo. \u2013\u00a0The Springfield Homicide Unit identified Jeffrey Garrett, 39, from St. Louis, as the suspect in the July 5 homicide of 46-year-old Jack Osborn and 44-year-old Melissa Smith (previously identified as Melissa Evans). \u00a0\nOn...\nSpringfield, Mo. \u2013\u00a0On\u00a0July 5, 2024, at\u00a03:12\u00a0a.m., Springfield police officers responded to the report of\u00a0two people shot at 1634 W. Chestnut St.\u00a0\u00a0Officers located\u00a0Jack Osbor...Read on... \nSpringfield, Mo. \u2013\u00a0On\u00a0July 5, 2024, at\u00a03:12\u00a0a.m., Springfield police officers responded to the report of\u00a0two people shot at 1634 W. Chestnut St.\u00a0\u00a0\nOfficers located\u00a0Jack Osbor...\nSpringfield, Mo. \u2013\u00a0The Springfield Police Department is asking for the public\u2019s assistance in locating an endangered missing person.Dennis Marty, is 75 years old, 6 foot and 180 pounds with grey hair. He was last seen wearing ...Read on... \nSpringfield, Mo. \u2013\u00a0The Springfield Police Department is asking for the public\u2019s assistance in locating an endangered missing person.\nDennis Marty, is 75 years old, 6 foot and 180 pounds with grey hair. He was last seen wearing ...\nSpringfield, Mo. \u2013\u00a0On June 21, 2024, at 11:37 a.m., Springfield police officers responded to the report of a shooting at 2832 E. Linwood.\u00a0Officers located Davondre Thompson-Baugher, 16, with a gunshot wound at the residence. Th...Read on... \nSpringfield, Mo. \u2013\u00a0On June 21, 2024, at 11:37 a.m., Springfield police officers responded to the report of a shooting at 2832 E. Linwood.\u00a0\nOfficers located Davondre Thompson-Baugher, 16, with a gunshot wound at the residence. Th...\nSpringfield, Mo. \u2013\u00a0On June 5, 2024, at 6:07 a.m., Springfield police officers responded to report of a shooting at 803 S. Douglas.Officers arrived on scene and located Darryl Douglas, 60, from Springfield, with a gunshot wound. Douglas ...Read on... \nSpringfield, Mo. \u2013\u00a0On June ...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Springfield, MO Health Department website provides valuable public health information and can be viewed as credible within its specialized area of health. However, it does not cover current events outside health topics, which may limit its overall credibility in providing broader news and news analysis."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-05"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence does not pertain to the assault on Christopher Marquez and is irrelevant to the context of the event in question. It contains unrelated details about a different incident."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "NNPD Dashboard - City of Newport News",
+                "htmlTitle": "NNPD Dashboard - City of Newport <b>News</b>",
+                "link": "https://apps.nnva.gov/police-dashboard/ActiveWarrants.aspx",
+                "displayLink": "apps.nnva.gov",
+                "snippet": "ASSAULT: (MISDEMEANOR). FOX, MARY L. 5ft 3in, 150 lbs, BRO, GRN, 02/20/1951, 73, F, W, 06/27/2024, FAILURE TO APPEAR: ON MISDEMEANOR OFFENSE. MARQUEZ, JOSE S.",
+                "htmlSnippet": "<b>ASSAULT</b>: (MISDEMEANOR). FOX, MARY L. 5ft 3in, 150 lbs, BRO, GRN, 02/20/1951, 73, F, W, 06/27/2024, FAILURE TO APPEAR: ON MISDEMEANOR OFFENSE. <b>MARQUEZ</b>, JOSE S.",
+                "formattedUrl": "https://apps.nnva.gov/police-dashboard/ActiveWarrants.aspx",
+                "htmlFormattedUrl": "https://apps.nnva.gov/police-dashboard/ActiveWarrants.aspx",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...07/16/2024\tFAILURE TO APPEAR: ON FELONY OFFENSE\nHOSTIE, DANIEL W.\t5ft 7in\t175 lbs\tBLD\tBRO\t07/01/1979\t45\tM\tB\t07/16/2024\tFAILURE TO APPEAR: ON MISDEMEANOR OFFENSE\nHUNT, KRISTEN N.\t5ft 5in\t115 lbs\tBLN\tBLU\t06/02/1990\t34\tF\tW\t07/16/2024\tCOMMUNITY-BASED PROBATION: VIOLATION ON FELONY\nJACKSON, ISHMIEL Q.\t6ft 4in\t160 lbs\tBLK\tBRO\t10/11/2001\t22\tM\tB\t07/16/2024\tFAILURE TO APPEAR: ON MISDEMEANOR OFFENSE\nJOHNSON, SHELDON L.\t5ft 9in\t280 lbs\tBLK\tBRO\t07/07/1970\t54\tM\tB\t07/16/2024\tMONUMENT: INTENTIONAL DAMAGE, VALUE <$1000\nJOHNSON, SHELDON L.\t5ft 9in\t280 lbs\tBLK\tBRO\t07/07/1970\t54\tM\tB\t07/16/2024\tASSAULT: ON FAMILY MEMBER\nJONES, JERIKA R.\t5ft 3in\t130 lbs\tBRO\tBRO\t02/27/1994\t30\tF\tW\t07/16/2024\tFAILURE TO APPEAR: ON FELONY OFFENSE\nJOYNER, QUINTON X.\t5ft 9in\t173 lbs\tBLK\tBRO\t10/16/2001\t22\tM\tB\t07/16/2024\tFAIL TO APPEAR ON TRAFFIC SUMMONS\nKARCZMARCZYK, LELA C.\t5ft 5in\t200 lbs\tBLK\tBRO\t10/28/1980\t43\tF\tB\t07/16/2024\tOBTAIN MONEY/ETC: FALSE PRETENSE, LARCENY>=$200\nLEON, KADY J.\t5ft 0in\t109 lbs\tBRO\tBRO\t07/04/1987\t37\tF\tW\t07/16/2024\tSHOPLIFT/ALTER PRICE: LARCENY <$200, 1ST OFF\nLESLIE-DANIELS...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This website appears to serve as a platform for city-related information in Newport News, Virginia. Its credibility is likely contextual and limited to municipal issues. It is not a comprehensive news source and may not effectively address broader news credibility or combat fake news on larger national topics."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "Similar to evidence 8, this does not address the assault or provide any relevant information related to Christopher Marquez's incident. It is completely unrelated to the query."
+                }
+            }
+        }
+    ]
+}

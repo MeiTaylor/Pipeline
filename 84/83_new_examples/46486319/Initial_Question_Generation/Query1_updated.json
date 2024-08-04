@@ -1,0 +1,634 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Identification of glowing object in Kazakhstan UFO sighting",
+                "totalResults": "81400",
+                "searchTerms": "Identification of glowing object in Kazakhstan UFO sighting",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Identification of glowing object in Kazakhstan UFO sighting",
+                "totalResults": "81400",
+                "searchTerms": "Identification of glowing object in Kazakhstan UFO sighting",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.338592,
+        "formattedSearchTime": "0.34",
+        "totalResults": "81400",
+        "formattedTotalResults": "81,400"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Roadside Picnics: Chernobyl UFOs & The Falcon Lake Incident",
+                "htmlTitle": "Roadside Picnics: Chernobyl <b>UFOs</b> &amp; The Falcon Lake Incident",
+                "link": "https://www.exutopia.com/chernobyl-ufos-falcon-lake/",
+                "displayLink": "www.exutopia.com",
+                "snippet": "Jan 24, 2021 ... In the wake of the 1986 disaster, the Chernobyl Nuclear Power Plant became a hotspot for UFO sightings. While writing Chernobyl: A Stalkers'\u00a0...",
+                "htmlSnippet": "Jan 24, 2021 <b>...</b> In the wake of the 1986 disaster, the Chernobyl Nuclear Power Plant became a hotspot for <b>UFO sightings</b>. While writing Chernobyl: A Stalkers&#39;&nbsp;...",
+                "formattedUrl": "https://www.exutopia.com/chernobyl-ufos-falcon-lake/",
+                "htmlFormattedUrl": "https://www.exutopia.com/chernobyl-<b>ufo</b>s-falcon-lake/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPkuW2S4Dvk1ukXtbs8a0qFDm5pVuPyZJSQE9uTTYOXt2TFpkImsXPiqe&s",
+                            "width": "304",
+                            "height": "166"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.exutopia.com/wp-content/uploads/2021/01/Chernobyl-Falcon-Lake-X.jpg",
+                            "og:type": "article",
+                            "article:section": "Canada",
+                            "article:published_time": "2021-01-24T13:36:39+00:00",
+                            "og:image:width": "2560",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Roadside Picnics: Chernobyl UFOs & The Falcon Lake Incident",
+                            "og:site_name": "Ex Utopia",
+                            "og:title": "Roadside Picnics: Chernobyl UFOs & The Falcon Lake Incident",
+                            "og:image:height": "1400",
+                            "og:updated_time": "2023-07-31T13:57:07+00:00",
+                            "msapplication-tileimage": "https://www.exutopia.com/wp-content/uploads/2021/01/cropped-PNG-01-trimmed-270x270.png",
+                            "fb:pages": "377721838934287",
+                            "og:description": "Exploring the connection between Winnipeg, Chernobyl, and a 1970s Soviet sci-fi novel.",
+                            "twitter:creator": "@DarmonRichter",
+                            "twitter:image": "https://www.exutopia.com/wp-content/uploads/2021/01/Chernobyl-Falcon-Lake-X.jpg",
+                            "article:tag": "UFOs",
+                            "twitter:site": "@DarmonRichter",
+                            "article:modified_time": "2023-07-31T13:57:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+                            "twitter:description": "Exploring the connection between Winnipeg, Chernobyl, and a 1970s Soviet sci-fi novel.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.exutopia.com/chernobyl-ufos-falcon-lake/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.exutopia.com/wp-content/uploads/2021/01/Chernobyl-Falcon-Lake-X.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "24 January 2021\nIn the wake of the 1986 disaster, the Chernobyl Nuclear Power Plant became a hotspot for UFO sightings. While writing  I came across a number of reports of strange aerial phenomena in the area around the plant itself, as well as over the nearby Ukrainian capital, Kyiv. Then I started digging deeper \u2013\u00a0looking at the historical connection between UFO sightings, and places associated with nuclear research and power. Eventually this led me to Canada, where I realised that a famous 1967 UFO sighting \u2013 the \u2018Falcon Lake Incident\u2019 \u2013 might actually share a surprising and uncanny connection with the Chernobyl Exclusion Zone in Ukraine.\nOriginally I planned to mention these Chernobyl UFOs in the book. But the story quickly grew from a few interesting reports \u2013 a passing curiosity \u2013 into a whole chapter of its own. And this new UFO chapter, jumping about from Chernobyl to North Wales, to Roswell and Winnipeg (and filled throughout with unreliable words like \u201callegedly,\u201d and \u201cclaimed,\u201d and \u201cbelieved\u201d), increasingly felt like it didn\u2019t belong in this book\u2026\u00a0which was otherwise evolving into quite a tight, keenly-focussed and evidence-driven volume.\nSo instead, I decided I would share this \u2018missing chapter\u2019 here: a deep dive into the subject of Chernobyl UFO...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Exutopia appears to be less well-known and lacks substantial editorial oversight. It may offer niche or subjective content, which diminishes its reliability as a source for factual information. The lack of established reputation or a clear mission to fact-check reduces its capability to expose fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-01-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While this article discusses UFO sightings associated with places like Chernobyl, it does not address the specific glowing object in the Kazakhstan video. It lacks direct relevance to the identification of the object in question, making it only marginally useful."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "UFO sightings from around the world | Artangel",
+                "htmlTitle": "<b>UFO sightings</b> from around the world | Artangel",
+                "link": "https://www.artangel.org.uk/witness/ufo-sightings-from-around-world/",
+                "displayLink": "www.artangel.org.uk",
+                "snippet": "At 6.00 the next morning he went to look where the creature had walked and found several footprints which he could not identify and which he attributed to the\u00a0...",
+                "htmlSnippet": "At 6.00 the next morning he went to look where the creature had walked and found several footprints which he could not <b>identify</b> and which he attributed to the&nbsp;...",
+                "formattedUrl": "https://www.artangel.org.uk/witness/ufo-sightings-from-around-world/",
+                "htmlFormattedUrl": "https://www.artangel.org.uk/witness/<b>ufo</b>-<b>sighting</b>s-from-around-world/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvL2CEAblN4Kt7GxkD7mlKgePzPfxYmdCPVWvXJut2Hgl7VxhRtZzTR4Jg&s",
+                            "width": "269",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "cebc315da8407367cda339c56d7508bd",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=0, maximum-scale=1",
+                            "og:title": "Artangel",
+                            "og:url": "https://www.artangel.org.uk/witness/ufo-sightings-from-around-world/",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.artangel.org.uk/media/filer_public_thumbnails/filer_public/a8/22/a8220756-67eb-4850-9f5d-17c8d5b90802/2000w_16.jpg__1800x1999998_q85_subsampling-2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a 17-year-old named Lloyd Karambakuwa, a student at the Hermann Gemeiner Secondary School, studying for his 0 levels. This is what he told me.\nAt between 1.00 and 1.30 on March 6, 1996 he woke up and because he knew it would be quiet at that hour, he decided to do some studying for his exams. Whilst thus engaged, he heard a clicking sound, not unlike a telephone dialling except there are no telephones in this area. It continued for some minutes, so Lloyd decided to check what it could be. He opened the front door and looked outside. He could hear the sound coming from up the road and when he glanced in that direction, he witnessed something very strange. He quickly went outside and hid behind a hedge to get a better view. He was able to observe a small figure, about 1 metre high, with a head like a rugby-ball, dressed all in white overalls. On its back the creature had a small satchel, attached to which was an aerial with a flashing red light. Lloyd was terrified. He told me he was \"asphyxiated with fear\", and ran back into the house, jumped into bed and covered himself with his blankets. He slept fitfully for the rest of the night.\nAt 6.00 the next morning he went to look where the creature had walked and found several footprints which he could not identify and which he attributed to the creature. When he arrived at school he told his friends about seeing a ghost in the night, but one of his friends suggested that it was a UFO. Lloyd is now under the impression that the creature is called a UFO.\nOpposite Lloyd's house is a teaching centre guarded at night by a security firm. My enquiries led me to one of their guards, a woman named Kumbadzai, who had been on duty at the centre when she saw what she called a ghost. She was so disturbed by this event that she had found herself another job elsewhere. Kumbadzai told me that she had heard clicking sounds and been frightened, had hidden behind a wall and seen a figure in white. It passed her twice, and the second time the figure had been covered in \"rainbow colours\".\n* * *\n### 01.03\n#### Zimbabwe \\\nMy name is Johan Reitman and I farm near Feathersdorp, 150 km from Harare. I am 31 years old. On 5th February 1996 I woke up from a bad dream just after midnight, when I heard...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Artangel focuses on contemporary art and cultural projects rather than news, which makes it less suited for evaluating claims related to UFO sightings. While the site may contain valuable insights into art-related topics, it does not specifically aim to provide verifiable news information, thus offering limited contribution to truthfulness in this context."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This snippet mentions a non-specific UFO sighting that had some unidentified footprints, but it does not provide information on glowing objects or the identification of UFOs relative to balloons or drones. Its relevance is low."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "I saw a fast moving object in the sky that looked like a star heading ...",
+                "htmlTitle": "I saw a fast moving <b>object</b> in the sky that looked like a star heading ...",
+                "link": "https://www.quora.com/I-saw-a-fast-moving-object-in-the-sky-that-looked-like-a-star-heading-north-What-could-it-be",
+                "displayLink": "www.quora.com",
+                "snippet": "May 27, 2016 ... I saw three bright objects moving in formation on the night sky could there be an explanation for this or could it be UFOS? Hi I just saw this\u00a0...",
+                "htmlSnippet": "May 27, 2016 <b>...</b> I saw three <b>bright objects</b> moving in formation on the night sky could there be an explanation for this or could it be <b>UFOS</b>? Hi I just saw this&nbsp;...",
+                "formattedUrl": "https://www.quora.com/I-saw-a-fast-moving-object-in-the-sky-that-looked-...",
+                "htmlFormattedUrl": "https://www.quora.com/I-saw-a-fast-moving-<b>object</b>-in-the-sky-that-looked-...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/I-saw-a-fast-moving-object-in-the-sky-that-looked-like-a-star-heading-north-What-could-it-be#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FI-saw-a-fast-moving-object-in-the-sky-that-looked-like-a-star-heading-north-What-could-it-be&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "I saw a fast moving object in the sky that looked like a star heading north. What could it be? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nI saw a fast moving object in the sky that looked like a star heading north. What could it be?\nAll related (43)\nSort\nRecommended\n!\nAssistant\nBot\n\u00a0\u00b7\u00a0\nJul 12\nThe object you observed was likely a satellite. Many satellites in low Earth orbit appear as fast-moving points of light in the night sky. Satellites reflect sunlight and can sometimes be visible to the naked eye, especially on clear nights. The motion you described, heading north, is consistent with the typical orbital path of a satellite as it passes overhead. Other possible explanations could include a high-altitude aircraft or a meteor, but the steady, linear motion you witnessed suggests a satellite is the most plausible explanation.\nUpvote \u00b7\n]\nRelated\nTonight I saw star like object moving quite fast across night sky & later it disappeared. What is that?\nI\u2019ve been seeing these more and more. They come from all direction in the sky, I see sometimes 4+ a night. They are as bright and tiny as the stars in the sky. They move quickly. They are not satellites bc...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Quora is a platform where users can ask and answer questions, leading to a diverse range of opinions. The quality of information can vary greatly since contributions are user-generated and may lack fact-checking. While some answers may be informative and credible, users need to critically assess the reliability of each response. It does not have a dedicated focus on news verification."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-05-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This content discusses a personal observation of a fast-moving star-like object, but it does not provide concrete information related to balloon, drone, or specific UFO sighting criteria. It is minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Russians add new twist to old UFO myth",
+                "htmlTitle": "Russians add new twist to old <b>UFO</b> myth",
+                "link": "https://www.nbcnews.com/id/wbna5686713",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Aug 12, 2004 ... Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth.",
+                "htmlSnippet": "Aug 12, 2004 <b>...</b> <b>Reports</b> from Russia link a 1908 cosmic explosion with purported <b>alien</b> artifacts, resurrecting an enduring space myth.",
+                "formattedUrl": "https://www.nbcnews.com/id/wbna5686713",
+                "htmlFormattedUrl": "https://www.nbcnews.com/id/wbna5686713",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgrJGNwDuqjf9728Aefq0hEuNGcvOoWNO67uQPRVzC7m5ROGUvBSoYxTrC&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Russians add new twist to old UFO myth",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "branch:deeplink:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Russians add new twist to old UFO myth",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "og:title": "Russians add new twist to old UFO myth",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Reports from Russia link a 1908 cosmic explosion with purported alien artifacts, resurrecting an enduring space myth. NBC News' James Oberg unravels the tangled tale.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/id/wbna5686713",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/msnbc/Components/Photos/040812/040812_tunguska1_hmed_1p.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A flurry of reports from Russia about the discovery of fragments of an alien spaceship at the site of the 1908 Tunguska explosion may be nothing more than wish fulfillment by devotees of a half-century-old Russian space myth, or they may actually have been based on genuine spacecraft fragments \u2014 but of Russian origin.\nEither way, or even in the highly unlikely event the reports turn out to be credible, these stories reflect the way the century-old Tunguska blast continues to resonate in the human psyche.\nExpedition leader Yuri Lavbin prefers the alien technology interpretation. That\u2019s the theory he admits he started with, even before he got to the area. But other space experts have pointed out that the region is a drop zone for discarded rocket stages launched into space from Russia\u2019s Baikonur base, and in fact was the crash site of one prototype manned space capsule at the very dawn of the space age.\nOn June 30, 1908, residents of southern Siberia spotted a dazzling fireball crossing the sky, followed by a flare brighter than the sun. Minutes later, a shock wave knocked many of those residents off their feet. When later expeditions reached the nearly inaccessible swamps where the explosion had occurred, they found trees flattened down in a pattern pointing away from ground zero \u2014 but no crater, and no meteorite fragments.\nThe first Soviet expedition was sent to the site in 1927, in hopes of finding metallic ore. Although a series of natural theories followed over the years, a Russian scientist and science-fiction author...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "As a recognized mainstream news outlet with a long history, NBC News employs professional journalists and editorial standards. It is known for covering a wide array of topics and aims to provide accurate, well-sourced information. Their commitment to fact-checking and upholding journalistic integrity gives them a high score for truthfulness and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2004-08-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content focuses on a historical event related to alleged alien artifacts and does not address the Kazakhstani situation or the specific characteristics of the glowing object in the video. Very low relevance."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Tonight I saw star like object moving quite fast across night sky ...",
+                "htmlTitle": "Tonight I saw star like <b>object</b> moving quite fast across night sky ...",
+                "link": "https://www.quora.com/Tonight-I-saw-star-like-object-moving-quite-fast-across-night-sky-later-it-disappeared-What-is-that",
+                "displayLink": "www.quora.com",
+                "snippet": "Feb 19, 2017 ... I've just seen a very bright gold star-looking thing glow up in the sky and disappear. What could this be? Satellite reflecting sunlight.",
+                "htmlSnippet": "Feb 19, 2017 <b>...</b> I&#39;ve just seen a very <b>bright</b> gold star-looking <b>thing glow</b> up in the sky and disappear. What could this be? Satellite reflecting sunlight.",
+                "formattedUrl": "https://www.quora.com/Tonight-I-saw-star-like-object-moving-quite-fast-ac...",
+                "htmlFormattedUrl": "https://www.quora.com/Tonight-I-saw-star-like-<b>object</b>-moving-quite-fast-ac...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Tonight-I-saw-star-like-object-moving-quite-fast-across-night-sky-later-it-disappeared-What-is-that#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FTonight-I-saw-star-like-object-moving-quite-fast-across-night-sky-later-it-disappeared-What-is-that&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Tonight I saw star like object moving quite fast across night sky & later it disappeared. What is that? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nTonight I saw star like object moving quite fast across night sky & later it disappeared. What is that?\nAll related (57)\nSort\nRecommended\n]\nI\u2019ve been seeing these more and more. They come from all direction in the sky, I see sometimes 4+ a night. They are as bright and tiny as the stars in the sky. They move quickly. They are not satellites bc I have an app that tracks them. They sometimes look like they dim/disappear and then reappear, unless there is a cloud blocking the view idk.\nAlso about 15\u201318 years ago, it was a clear August night and a meteor shower was happening. My friends and I went to a field close to my house and laid down to watch the shower. Eventually I noticed first that these 3 stars that almost formed a triangle,\nContinue Reading\nI\u2019ve been seeing these more and more. They come from all direction in the sky, I see sometimes 4+ a night. They are as bright and tiny as the stars in the sky. They move quickly. They are not satellites bc I have an app that tracks them. They sometimes look like they dim/disappear and then reappear, unless there is a cloud blocking the view idk.\nAlso about 15\u201318 years ago, it was a clear August night and a meteor shower was happening. My friends and I went to a field close to my house and laid down to watch the shower. Eventually I noticed first that these 3 stars that almost formed a triangle, looked as if they would dim. And finally one of them went out completely and a few seconds later came back \u201con\u201d for lack of...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Quora is a platform where users can ask and answer questions, leading to a diverse range of opinions. The quality of information can vary greatly since contributions are user-generated and may lack fact-checking. While some answers may be informative and credible, users need to critically assess the reliability of each response. It does not have a dedicated focus on news verification."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-02-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "Similar to evidence2, this discusses observations of bright star-like objects, potentially satellites, but does not address the balloon or drone aspect pertinent to the case. Low relevance."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Ball lightning - Wikipedia",
+                "htmlTitle": "Ball lightning - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Ball_lightning",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Ball lightning is a rare and unexplained phenomenon described as luminescent, spherical objects that vary from pea-sized to several meters in diameter.",
+                "htmlSnippet": "Ball lightning is a rare and unexplained phenomenon described as luminescent, spherical <b>objects</b> that vary from pea-sized to several meters in diameter.",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Ball_lightning",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ball_lightning",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ball_lightning.png",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Ball lightning - Wikipedia",
+                            "og:image:height": "1008",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nA 1901 depiction of ball lightning\n**Ball lightning** is a rare and unexplained phenomenon described as , spherical objects that vary from pea-sized to several meters in diameter. Though usually associated with ,] the observed phenomenon is reported to last considerably longer than the split-second flash of a , and is a phenomenon distinct from .\nSome 19th-century reports]] describe balls that eventually explode and leave behind an odor of sulfur. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from .] An optical spectrum of what appears to have been a ball lightning event was published in January 2014 and included a video at high frame rate.]] Laboratory experiments have produced effects that are visually similar to reports of ball lightning, but how these relate to the supposed phenomenon remains unclear.]]\nScientists have proposed a number of hypotheses to explain reports of ball lightning over the centuries, but scientific data on ball lightning remain scarce. The presumption of its existence has depended on reported public sightings, which have produced inconsistent findings. Owing to the lack of  data, the existence of ball lightning as a distinct physical phenomenon remains unproven.]\nDescriptions of ball lightning vary widely. It has been described as moving up and down, sideways or in unpredictable trajectories, hovering and moving with or against the wind; attracted to,] unaffected by, or repelled from buildings, people, cars and other objects. Some accounts...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wikipedia is a collaboratively edited online encyclopedia that can provide a wealth of information on many topics, including UFOs and related phenomena. While it aims for accuracy and has a citation process for the sources, it is still prone to vandalism and inaccuracies, especially in less-scrutinized entries. However, the transparency of its editing history and community oversight contributes positively to its reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses ball lightning, a rare phenomenon that could account for a glowing object in the sky. This makes it somewhat relevant in assessing alternative explanations for the object shown in the video, but it does not specifically address UFOs."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "USSR Soviet State Media UFO Report: The Real Reason Behind the ...",
+                "htmlTitle": "USSR Soviet State Media <b>UFO</b> Report: The Real Reason Behind the ...",
+                "link": "https://time.com/3475954/voronezh-ufo-report-1989/",
+                "displayLink": "time.com",
+                "snippet": "Oct 9, 2014 ... ... object) and bringing with them their robot. \u201dScientists have confirmed that an unidentified flying object recently landed in a park in the\u00a0...",
+                "htmlSnippet": "Oct 9, 2014 <b>...</b> ... <b>object</b>) and bringing with them their robot. \u201dScientists have confirmed that an unidentified <b>flying object</b> recently landed in a park in the&nbsp;...",
+                "formattedUrl": "https://time.com/3475954/voronezh-ufo-report-1989/",
+                "htmlFormattedUrl": "https://time.com/3475954/voronezh-<b>ufo</b>-report-1989/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "pinterest:description": "They had small heads and wore silver overalls, apparently",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2014-10-09T11:00:22",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "They had small heads and wore silver overalls, apparently",
+                            "twitter:creator": "@lilyrothman",
+                            "twitter:site": "@TIME",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/3475954/voronezh-ufo-report-1989/",
+                            "application-name": "nextgen",
+                            "creator": "Lily Rothman",
+                            "og:type": "article",
+                            "twitter:title": "Aliens landed in Russia, according to official Soviet Media. Here's the backstory",
+                            "author": "Lily Rothman",
+                            "og:title": "Aliens landed in Russia, according to official Soviet Media. Here's the backstory",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "They had small heads and wore silver overalls, apparently",
+                            "primary-tag": "media",
+                            "amphtml": "https://time.com/3475954/voronezh-ufo-report-1989/?amp=true",
+                            "category": "History",
+                            "og:url": "https://time.com/3475954/voronezh-ufo-report-1989/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://time.com/3475954/voronezh-ufo-report-1989/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://time.com/3475954/voronezh-ufo-report-1989/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Time magazine is known as a reputable source of news and commentary on various topics. With a history of journalistic integrity, it fact-checks stories and offers in-depth reporting. While it may not focus specifically on UFOs, its overall reliability makes it a credible source for evaluating news claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2014-10-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This address a historical UFO report but has no relevant data concerning the glowing object or its specific classification and does not help identify it in relation to balloons or drones."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Roots of Consciousness - Jeffrey Mishlove",
+                "htmlTitle": "The Roots of Consciousness - Jeffrey Mishlove",
+                "link": "https://www.esalq.usp.br/lepse/imgs/conteudo_thumb/The-Roots-of-Consciousness.pdf",
+                "displayLink": "www.esalq.usp.br",
+                "snippet": "Oct 23, 1973 ... ... flying object (UFO) observations, including a landing on October 21, 1956, which he had predicted. One sighting in 1959 was simultaneously.",
+                "htmlSnippet": "Oct 23, 1973 <b>...</b> ... <b>flying object</b> (<b>UFO</b>) observations, including a landing on October 21, 1956, which he had predicted. One <b>sighting</b> in 1959 was simultaneously.",
+                "formattedUrl": "https://www.esalq.usp.br/lepse/imgs/.../The-Roots-of-Consciousness.pdf",
+                "htmlFormattedUrl": "https://www.esalq.usp.br/lepse/imgs/.../The-Roots-of-Consciousness.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfpBsIoHYGXOuXLe4ZnvrmnbW4f6T8z_lSFcJAMwcKp49lh9bzrttd2A&s",
+                            "width": "225",
+                            "height": "224"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "20050723121343",
+                            "creationdate": "20050723121343",
+                            "creator": "PDFCreator Version 0.8.1",
+                            "author": "John1",
+                            "producer": "AFPL Ghostscript 8.50",
+                            "title": "The Roots of Consciousness - Jeffrey Mishlove"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///326915ad6e5801f52baac935f557297b53341b928b1337dc05c61a29ac44ad75"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]..., she could pick up her shorthand notebook and her pen, and literally start from where she left off before, without even checking what the book said. With Bill typing what she had taken down every day, A Course in Miracles \ncame into being. I asked Helen, the first day I met her, \"Did the voice have a name? Did it identify itself, such as the Seth material and others?\" She said, \"I was afraid you were going to ask that,\" and Bill Thetford said, \"Why don't you tell her, dear? She is going to read it.\" And she said, \"It says it is Jesus.\" I said, \"Well, is it?\" And she said, \"Of course,\" which was interesting, because on the one hand, as a Jewish lady, she did not believe in it, but on a metaphorical level she knew it was true. I think we are all in that position in our lives. There is something that we know is true, but we do not agree to believe in it. I could not have predicted, in 1975, that there would be three hundred thousand copies of A Course in Miracles in circulation. I have no idea how many people study one copy, so I am guessing over a half a million folk are students of A Course in Miracles . I think we are probably laying the foundation, along with many others, who share basically the same point of view but go about it in different ways -- a foundation for a tremendous change of mind, which I call the great transformation. 153 \nThe Invisible College \nEarlier we discussed the image of the Invisible College used by the early Rosicrucians to symbolize their internal contact with higher intelligence. (This same term has been used by scientists, such as Jacques Vallee and J. Allen Hynek, to refer to the loosely connected network of scientists investigating the UFO data.) An interesting perspective on the Invisible College comes from a report from Dr. Shafica Karagula, director of the Higher Sense Perception Research Foundation in Los Angeles. Karagula specialized in clinical studies of individuals who are gifted with unusual perceptive talents. One of her subjects, whom she called Vicky described a series of experiences she had in her sleep where she seemed to be visiting a college and attending classes in many different subjects. Her vision was quite lucid, recalling the architecture of the buildings, and the subject matter of her lectures. The lectures follow an orderly sequence and Karagula claimed to have carefully recorded a number of them from Vicky. On one occasion, Vicky remembered that a friend of hers,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The website appears to be affiliated with an educational institution focusing on agricultural sciences. It provides valuable academic information but does not directly contribute to verifying news related to UFO sightings or similar claims. This limits its reliability in the context of determining fact from fiction in the realm of general news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "1973-10-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Focuses on UFO observations from a historical perspective without providing direct insights into distinguishing characteristics of the object in the video. Low relevance."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "14-year-old student reports 'cigar-shaped' UFO near Staunton in 1964",
+                "htmlTitle": "14-year-old student <b>reports</b> &#39;cigar-shaped&#39; <b>UFO</b> near Staunton in 1964",
+                "link": "https://www.whsv.com/2023/06/07/14-year-old-reports-cigar-shaped-ufo-near-staunton-1964/",
+                "displayLink": "www.whsv.com",
+                "snippet": "Jun 7, 2023 ... A 14-year-old high\u00a0...",
+                "htmlSnippet": "Jun 7, 2023 <b>...</b> A 14-year-old high&nbsp;...",
+                "formattedUrl": "https://www.whsv.com/.../14-year-old-reports-cigar-shaped-ufo-near-staunt...",
+                "htmlFormattedUrl": "https://www.whsv.com/.../14-year-old-reports-cigar-shaped-<b>ufo</b>-near-staunt...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP-1CO43roVPqGRWfVgrt-ipuSHuMA_yqyBe0Kxp_9S8z_x5SqkyNukFg&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://gray-whsv-prod.cdn.arcpublishing.com/resizer/v2/QZS7AQK3J5GXBI32NXBARDRAD4.jpg?auth=68ece109ac5081f3788e9f747daaf0e782a99d2e3e4cbce79119cdd591fea769&width=1200&height=600&smart=true",
+                            "apple-itunes-app": "app-id=420725305",
+                            "copyright": "Copyright (c) 2024",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-07T17:05:32.789Z",
+                            "og:site_name": "https://www.whsv.com",
+                            "rating": "general",
+                            "distribution": "global",
+                            "og:description": "A 14-year-old high school student reported seeing a large cigar-shaped object near Staunton in December 1964. This is his story.",
+                            "twitter:creator": "@WHSVnews",
+                            "article:sections_paths": "/news,/news/web-exclusive,/news/state,/news/staunton,/news/local,/news/augusta-county",
+                            "article:publisher": "https://www.facebook.com/WHSV.TV/",
+                            "twitter:image": "https://gray-whsv-prod.cdn.arcpublishing.com/resizer/v2/QZS7AQK3J5GXBI32NXBARDRAD4.jpg?auth=68ece109ac5081f3788e9f747daaf0e782a99d2e3e4cbce79119cdd591fea769&width=1200&height=600&smart=true",
+                            "twitter:site": "@WHSVnews",
+                            "article:modified_time": "2023-06-07T17:05:32.789Z",
+                            "news_keywords": "WHSV,WHSV News,Jacob Fife,Paranormal,UFO,UFO Caught on Tape,UFO Caught on Camera,Fishersville UFO,Project Blue Book,When UFO's Invaded,Augusta County,Staunton",
+                            "fb:admins": "644426401",
+                            "article:has_video": "true",
+                            "article:distributor_subcategory": "gray-original-content",
+                            "og:type": "article",
+                            "twitter:title": "14-year-old student reports \u2018cigar-shaped\u2019 UFO near Staunton in 1964",
+                            "article:section": "News",
+                            "og:title": "14-year-old student reports \u2018cigar-shaped\u2019 UFO near Staunton in 1964",
+                            "googlebot-news": "index",
+                            "fb:pages": "65714680335",
+                            "fb:app_id": "108762971134",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width, minimum-scale=1, initial-scale=1",
+                            "twitter:description": "A 14-year-old high school student reported seeing a large cigar-shaped object near Staunton in December 1964. This is his story.",
+                            "og:locale": "en_US",
+                            "article:distributor_category": "staff",
+                            "article:distributor_name": "Gray TV Stations (English)",
+                            "og:url": "https://www.whsv.com/2023/06/07/14-year-old-reports-cigar-shaped-ufo-near-staunton-1964/",
+                            "google-play-app": "app-id=com.graytv.android.whsvnews",
+                            "authors": "Jacob Fife"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gray-whsv-prod.cdn.arcpublishing.com/resizer/v2/QZS7AQK3J5GXBI32NXBARDRAD4.jpg?auth=68ece109ac5081f3788e9f747daaf0e782a99d2e3e4cbce79119cdd591fea769&width=1200&height=600&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "14-year-old student reports \u2018cigar-shaped\u2019 UFO near Staunton in 1964\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n14-year-old student reports \u2018cigar-shaped\u2019 UFO near Staunton in 1964\n====================================================================\nIn 1964 a UFO allegedly landed near Fishersville...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "WHSV is a local news outlet that covers news in its regional area. While local news can be helpful and often reliable, the focus on local issues may limit the depth of coverage regarding broader subjects like UFOs. However, as a news organization, it generally adheres to journalistic standards and is a credible source of local information."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses a much older alleged UFO sighting that does not relate to the Kazakhstan video in any useful way. It has no relevance to identifying the specific glowing object."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "The UFO Contact Movement from the 1950's to the Present",
+                "htmlTitle": "The <b>UFO</b> Contact Movement from the 1950&#39;s to the Present",
+                "link": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&context=sociology_articles",
+                "displayLink": "digitalcommons.chapman.edu",
+                "snippet": "A new name appeared in UFO circles; the abductee. In a prototypical. UFO abduction account, the victim, or victims, sees a strange object far away in the sky\u00a0...",
+                "htmlSnippet": "A new name appeared in <b>UFO</b> circles; the abductee. In a prototypical. <b>UFO</b> abduction account, the victim, or victims, sees a strange <b>object</b> far away in the sky&nbsp;...",
+                "formattedUrl": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002...",
+                "htmlFormattedUrl": "https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHU-tQbZ1Ogn723Smogwp7TltXrAtBbztzMNQ5Ie2aARMSlGKMSYOn-I&s",
+                            "width": "221",
+                            "height": "228"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20240617154354-07'00'",
+                            "creationdate": "D:20240617154354-07'00'",
+                            "creator": "Appligent AppendPDF Pro 6.3",
+                            "author": "Christoper Bader",
+                            "producer": "Prince 15.2 (www.princexml.com)",
+                            "appligent": "AppendPDF Pro 6.3 Linux 64 bit Aug 30 2019 Library 15.0.4",
+                            "title": "The UFO Contact Movement from the 1950's to the Present"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///c454b61745873ebd32182a453ea758e70cc3757b0bf83839072af8988c9a3e32"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This website serves as a repository for academic works related to Chapman University. While it can provide scholarly articles that may address various topics, including UFO-related research, it does not focus on news reporting or fact-checking, which makes it less suitable for verifying current events."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This discusses the UFO contact movement without providing any relevant information or facts addressing the identification of specific objects like those presented in the video. No relevance."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,594 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - U.S. Coast Guard Titan submersible communication transcripts",
+                "totalResults": "33300",
+                "searchTerms": "U.S. Coast Guard Titan submersible communication transcripts",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - U.S. Coast Guard Titan submersible communication transcripts",
+                "totalResults": "33300",
+                "searchTerms": "U.S. Coast Guard Titan submersible communication transcripts",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.22129,
+        "formattedSearchTime": "0.22",
+        "totalResults": "33300",
+        "formattedTotalResults": "33,300"
+    },
+    "spelling": {
+        "correctedQuery": "U.S. Coast Guard Titan submersible communication transcript -site:www.snopes.com, -site:www.factcheck.org, -site:www.politifact.com, -site:www.truthorfiction.com, -site:fullfact.org, -site:www.hoax-slayer.com, -site:leadstories.com, -site:www.opensecrets.org, -site:www.washingtonpost.com/news/fact-checker, -site:www.reuters.com/fact-check, -site:apnews.com/APFactCheck, -site:www.bbc.com/news/reality_check, -site:factcheckni.org, -site:facta.news, -site:checkyourfact.com, -site:africacheck.org, -site:verafiles.org, -site:maldita.es, -site:correctiv.org, -site:teyit.org",
+        "htmlCorrectedQuery": "U.S. Coast Guard Titan submersible communication <b><i>transcript</i></b> -site:www.snopes.com, -site:www.factcheck.org, -site:www.politifact.com, -site:www.truthorfiction.com, -site:fullfact.org, -site:www.hoax-slayer.com, -site:leadstories.com, -site:www.opensecrets.org, -site:www.washingtonpost.com/news/fact-checker, -site:www.reuters.com/fact-check, -site:apnews.com/APFactCheck, -site:www.bbc.com/news/reality_check, -site:factcheckni.org, -site:facta.news, -site:checkyourfact.com, -site:africacheck.org, -site:verafiles.org, -site:maldita.es, -site:correctiv.org, -site:teyit.org"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Titan Submersible Investigation Declares Frightening Transcript a ...",
+                "htmlTitle": "<b>Titan Submersible</b> Investigation Declares Frightening <b>Transcript</b> a ...",
+                "link": "https://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Jun 10, 2024 ... But the head of the U.S. federal government team investigating the disaster said that the entire transcript is a fiction. After nearly a year of ...",
+                "htmlSnippet": "Jun 10, 2024 <b>...</b> But the head of the <b>U.S.</b> federal government team investigating the disaster said that the entire <b>transcript</b> is a fiction. After nearly a year of&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/.../titan-submersible-transcript-investigation.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/.../<b>titan</b>-<b>submersible</b>-transcript-investigation.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQfIVRSfftfS8NDiXbdPDJrMtBXkDo3vVIdxeJ6M8hfKMc9qtT8N6_44Y_&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2024/06/10/science/10titan-sub/10titan-sub-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/c7f5deb9-e6eb-5ed4-9a58-3db36202c5a1",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-06-10T16:34:29.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                            "pdate": "20240610",
+                            "articleid": "100000009510631",
+                            "al:android:package": "com.nytimes.android",
+                            "al:ipad:app_store_id": "357066198",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "The federal team investigating the Titan disaster found that a detailed recounting of the craft’s descent was “made up.”",
+                            "twitter:image": "https://static01.nyt.com/images/2024/06/10/science/10titan-sub/10titan-sub-videoSixteenByNineJumbo1600.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "The Titan submersible in an undated photo at the beginning of a dive.",
+                            "al:iphone:app_name": "NYTimes",
+                            "article:modified_time": "2024-06-11T01:29:01.000Z",
+                            "news_keywords": "Rumors and Misinformation,Submarines and Submersibles,Boat Accidents,US Coast Guard,OceanGate Expeditions,,your-feed-science,Titanic",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2024/06/10/science/10titan-sub/10titan-sub-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "The Titan submersible in an undated photo at the beginning of a dive.",
+                            "twitter:title": "Frightening Log From Titan Submersible’s Fatal Dive Declared a Fake",
+                            "article:section": "Science",
+                            "cg": "science",
+                            "pubp_event_id": "pubp://event/b9fe5a30679b468faad612acdbfb8a7d",
+                            "og:title": "Frightening Log From Titan Submersible’s Fatal Dive Declared a Fake",
+                            "article:author": "https://www.nytimes.com/by/william-j-broad",
+                            "url": "https://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                            "article:tag": "Rumors and Misinformation",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                            "al:android:url": "nyt://article/c7f5deb9-e6eb-5ed4-9a58-3db36202c5a1",
+                            "twitter:app:url:googleplay": "nyt://article/c7f5deb9-e6eb-5ed4-9a58-3db36202c5a1",
+                            "al:ipad:url": "nytimes://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                            "byl": "By William J. Broad",
+                            "twitter:description": "The federal team investigating the Titan disaster found that a detailed recounting of the craft’s descent was “made up.”",
+                            "al:iphone:app_store_id": "284862083",
+                            "al:ipad:app_name": "NYTimes",
+                            "og:url": "https://www.nytimes.com/2024/06/10/science/titan-submersible-transcript-investigation.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2024/06/10/science/10titan-sub/10titan-sub-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nSupported by\nThe federal team investigating the Titan disaster found that a detailed recounting of the craft’s descent was “made up.”\nBy William J. Broad\nLast year, a purported transcript of communications between the Titan submersible and its mother ship circulated widely on the internet. Viewed millions of times, the so-called log suggested that a series of alarms had turned a dive to the resting place of the Titanic into a heart-pounding crisis in which the five voyagers struggled in vain to return to the surface.\nBut the head of the U.S. federal government team investigating the disaster said that the entire transcript is a fiction. After nearly a year of investigation, his group has found no signs that the five voyagers aboard the Titan had any warning of the catastrophic implosion that was to take their lives. Two miles down, where seawater exerts vast pressures, an implosion would have made the violent collapse of the vehicle’s hull instantaneous.\n“I’m confident it’s a false transcript,” said Capt. Jason D. Neubauer, who retired from the U.S. Coast Guard and serves as chairman of the Marine Board of Investigation, the agency’s highest level of inquiry. “It was made up.” Its authorship is not known.\nDespite the log’s air of authenticity, the federal team saw through the pretense for a variety of reasons. Significantly, Mr. Neubauer’s team gained access to the records of the actual communications between the submersible and its mother ship, which remain an undisclosed part of the federal investigation.\nHe said that his team, aided by investigators from the National Transportation Safety Board, had “found no evidence” that Titan’s voyagers had any awareness of the imminent implosion or their fate.\nHis hope, Mr. Neubauer added, is that the truth will console relatives concerned that the five men inside the Titan may have suffered in their last moments.\nWe are having trouble retrieving the article content.\nPlease enable JavaScript in your browser settings.\nThank you for your patience while we verify access. If you are in Reader mode please exit and log into your Times account, or subscribe for all of The Times.\nThank you for your patience while we verify access.\nAlready a subscriber? Log in.\nWant all of The Times? Subscribe.\nAdvertisement",
+                    "content_tokens": 468
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Was the Titan Sub's Text Message 'Transcript' or 'Log ...",
+                "htmlTitle": "Fact Check: Was the <b>Titan</b> Sub&#39;s Text <b>Message</b> &#39;<b>Transcript</b>&#39; or &#39;Log ...",
+                "link": "https://www.yahoo.com/news/fact-check-titan-subs-text-232200869.html",
+                "displayLink": "www.yahoo.com",
+                "snippet": "Jul 6, 2023 ... Can the submersible communicate with the crew on the surface? Yes. Titan communicates with the topside comms and tracking team via text messages ...",
+                "htmlSnippet": "Jul 6, 2023 <b>...</b> Can the <b>submersible communicate</b> with the crew on the surface? Yes. <b>Titan</b> communicates with the topside <b>comms</b> and tracking team via text <b>messages</b>&nbsp;...",
+                "formattedUrl": "https://www.yahoo.com/news/fact-check-titan-subs-text-232200869.html",
+                "htmlFormattedUrl": "https://www.yahoo.com/news/fact-check-<b>titan</b>-subs-text-232200869.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-uSMumK3ay1z27maeeVXeVNGnRRhg597U0FVH4UasRH5LccrjMAROCcx&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=b1792e03-c49a-359f-a65f-3622c8f8f971&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/a68e5a4330d07287596fbfe51d88b28a",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=b1792e03-c49a-359f-a65f-3622c8f8f971&src=web",
+                            "og:description": "Social media users appeared to be taking the viral \"log\" at face value, despite there being no evidence of its authenticity.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/a68e5a4330d07287596fbfe51d88b28a",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@YahooNews",
+                            "news_keywords": "James Cameron, Polar Prince, Titan, James Cameron, YouTube, OceanGate Expeditions, James Cameron Weighs, text messages, James Cameron Weighed, transcript, Titan submersible",
+                            "twitter:title": "Fact Check: Was the Titan Sub's Text Message 'Transcript' or 'Log' Released?",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: Was the Titan Sub's Text Message 'Transcript' or 'Log' Released?",
+                            "og:image:height": "675",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/a68e5a4330d07287596fbfe51d88b28a",
+                            "al:android:url": "yahoo://article/view?uuid=b1792e03-c49a-359f-a65f-3622c8f8f971&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Social media users appeared to be taking the viral \"log\" at face value, despite there being no evidence of its authenticity.",
+                            "og:url": "https://www.yahoo.com/news/fact-check-titan-subs-text-232200869.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/a68e5a4330d07287596fbfe51d88b28a"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Rush, were on board when the sub apparently imploded on the same morning, according to the U.S. Coast Guard.\nAs of this writing, due to a lack of evidence as well as no reporting from credible sources, the authenticity of this supposed transcript or log of the Titan sub's final text messages was unconfirmed. This kind of a situation corresponded with our fact-check rating of \"Unproven,\" a determination that does not mean we have concluded it is real or fake. Rather, this rating indicates that our findings have thus far been inconclusive.\nOn July 6, we reached out to OceanGate Expeditions to ask questions about the transcript rumor. Earlier on the same day, the company had announced on its website that it had \"suspended all exploration and commercial operations.\"\nWe did not immediately receive a response from OceanGate, but will update this story in the future should that change.\nIn what follows, we'll detail everything we know about this subject, including the supposed transcript itself. We'll also lay out how thoughts from film director James Cameron aligned with what appeared in the messages that were being shared online.\nFirst off, yes, the Titan sub had the ability to send and receive what OceanGate referred to as text messages, as CNN, Scientific American, and ABC News reported.\nThe following question and answer was pulled from the company's website:\nCan the submersible communicate with the crew on the surface?\nYes. Titan communicates with the topside comms and tracking team via text messages which are exchanged via a USBL (ultra-short baseline) acoustic system. The sub is required to communicate with topside every fifteen minutes or more frequently if needed.  Tracking of the sub's position (lat/long and depth) is achieved through the same system but is controlled by the computer and updates the sub's position every few seconds.\nAccording to the reporting from Scientific American, the communications technology \"allow[ed] for underwater acoustic positioning, as well as for short text messages to be sent back and forth to the surface vessel – but the amount of data that can be shared is limited and usually includes basic telemetry and status information.\"\nThe TikTok and YouTube users who shared the supposed transcript appeared to do so with disclaimers that they weren't sure of its authenticity.\nOn an unknown date in late June, a TikTok user posted a video of the messages and prefaced the clip by saying they were \"unconfirmed.\" The video has since been viewed more than 360,000 times.\nOn July 1, the creator or creators behind the GS Academy Pakistan...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Evidence in Titan submersible investigation revealed as fake",
+                "htmlTitle": "Evidence in <b>Titan submersible</b> investigation revealed as fake",
+                "link": "https://nypost.com/2024/06/11/us-news/evidence-in-titan-submersible-investigation-revealed-as-fake/",
+                "displayLink": "nypost.com",
+                "snippet": "Jun 11, 2024 ... A year-long investigation has revealed the disturbing log transcript of communications between the doomed Titan submersible and its mother ...",
+                "htmlSnippet": "Jun 11, 2024 <b>...</b> A year-long investigation has revealed the disturbing log <b>transcript</b> of <b>communications</b> between the doomed <b>Titan submersible</b> and its mother&nbsp;...",
+                "formattedUrl": "https://nypost.com/.../us.../evidence-in-titan-submersible-investigation-revea...",
+                "htmlFormattedUrl": "https://nypost.com/.../<b>us</b>.../evidence-in-<b>titan</b>-<b>submersible</b>-investigation-revea...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GEkhDep_SSQI5nY_j5szl1V__nVePB75OzpAmpBL8v11nEDCFM1kRSw&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "apple-itunes-app": "app-id=410094240, app-argument=nypost://nypost.com/2024/06/11/us-news/evidence-in-titan-submersible-investigation-revealed-as-fake/?id=32408571",
+                            "og:image": "https://nypost.com/wp-content/uploads/sites/2/2024/06/image-intended-publication-gone-print-83622372.jpg?quality=75&strip=all&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2024-06-11T13:17:18+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "sailthru.tags": ",australia,investigations,missing titanic sub,US News",
+                            "og:site_name": "New York Post",
+                            "bingbot": "noarchive",
+                            "parsely-metadata": "{\"post_id\":\"nypost-32408571\"}",
+                            "og:description": "There was widespread suspicion when the log documents were released last year, with many questioning whether the transcript between the two vessels was actually legitimate.",
+                            "twitter:creator": "@nypost",
+                            "twitter:image": "https://nypost.com/wp-content/uploads/sites/2/2024/06/image-intended-publication-gone-print-83622372.jpg?quality=75&strip=all&w=1024",
+                            "og:image:secure_url": "https://nypost.com/wp-content/uploads/sites/2/2024/06/image-intended-publication-gone-print-83622372.jpg?quality=75&strip=all&w=1024",
+                            "article:publisher": "https://www.facebook.com/nypost",
+                            "twitter:text:title": "New twist revealed in doomed Titan submersible investigation unveils...",
+                            "twitter:site": "@nypost",
+                            "article:modified_time": "2024-06-12T02:54:06+00:00",
+                            "sailthru.title": "New twist revealed in doomed Titan submersible investigation unveils truth about frightening account logs",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2024-06-11 09:17:18",
+                            "nypost-section": "US News",
+                            "og:type": "article",
+                            "twitter:title": "New twist revealed in doomed Titan submersible investigation unveils...",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "New twist revealed in doomed Titan submersible investigation unveils truth about frightening account logs",
+                            "og:image:height": "682",
+                            "twitter:image:src": "https://nypost.com/wp-content/uploads/sites/2/2024/06/image-intended-publication-gone-print-83622372.jpg?quality=75&strip=all&w=1024",
+                            "sailthru.description": "There was widespread suspicion when the log documents were released last year, with many questioning whether the transcript between the two vessels was actually legitimate.",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "There was widespread suspicion when the log documents were released last year, with many questioning whether the transcript between the two vessels was actually legitimate.",
+                            "og:locale": "en_US",
+                            "og:url": "https://nypost.com/2024/06/11/us-news/evidence-in-titan-submersible-investigation-revealed-as-fake/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nypost.com/wp-content/uploads/sites/2/2024/06/image-intended-publication-gone-print-83622372.jpg?quality=75&strip=all&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... homes; 11 firefighters among 14...]\n ##### Potential Harris VP pick on defense after decades-old college...]\n ##### Trump blames 'border czar' Harris for Laken Riley's murder...]\n ##### Southeastern US coast forecast to feel wrath of likely Tropical...]\n ##### Air Force vet calls for grounding iconic Blue Angels over noise,...]\n ##### Florida man arrested for lassoing, tying up nine-foot gator:...]\n ##### Long Island beaches close after latest shark sighting]\n#### Breaking News\nNew twist revealed in doomed Titan submersible investigation unveils truth about frightening account logs\n=========================================================================================================\nBy\nNews.com.au\nThanks for contacting us. We've received your submission.\nPublished June 11, 2024, 9:17 a.m. ET\n#### \n]\nA year-long investigation has revealed the disturbing log transcript of communications between the  and its mothership — a document that was circulated by millions online — was completely fake.\nThe logbook claimed to detail the final communications between the submersible, which was attempting to reach the Titanic with five voyagers on board, and the mothership.\nThere was widespread suspicion when the log documents were released last year, with many questioning whether the transcript between the two vessels was legitimate.\n_,_ the head of the US government team investigating the disaster — including the nature and authenticity of the communication transcript — believes the entire log is fake.\n  4]\nEvidence in the Titan submersible investigation was deemed fake. via REUTERS\n  4]\nFive people died in the submersible. Dirty Dozen Productions/OceanGat/AFP via Getty Images\nCapt. Jason D. Neubauer, who retired from the US Coast Guard and serves as chairman of the Marine Board of Investigation, said his investigation team has found no evidence that those on board the Titan knew a fatal implosion was about to occur.\n“I’m confident it’s a false transcript … it was made up,” he said, as reported by the Times.\nThe logs, which were released and circulated by millions online from an unnamed author, revealed minute-by-minute communications allegedly between the submersible and the mothership.\n### Start and end your day informed with our newsletters\nMorning Report and Evening Update: Your source for today's top stories\n### Thanks for signing up!\nEnter your email address\nPlease provide a valid email address.\nBy clicking above you agree to the  and .\nNever miss a story.\nThe logs contained realistic descriptions of what one would imagine would occur on board in the final moments before the vessel imploded.\nThe logs also contained acronyms and technical words unique to the submersible, which at the time only further convinced readers the transcript was real.\n  4]\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Voice recordings and data from the mother ship that carried the Titan ...",
+                "htmlTitle": "Voice recordings and data from the mother ship that carried the <b>Titan</b> ...",
+                "link": "https://www.cnn.com/2023/06/25/americas/submersible-titanic-implosion-deaths-sunday/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jun 26, 2023 ... One week after the Titan submersible started what became a catastrophic underwater voyage to the Titanic wreckage – killing all five people ...",
+                "htmlSnippet": "Jun 26, 2023 <b>...</b> One week after the <b>Titan submersible</b> started what became a catastrophic underwater voyage to the Titanic wreckage – killing all five people&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/06/25/.../submersible-titanic...deaths.../index.ht...",
+                "htmlFormattedUrl": "https://www.cnn.com/2023/06/25/.../<b>submersible</b>-<b>titan</b>ic...deaths.../index.ht...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfeQHweKigk4b94zrpYR5W4oMZ1ayqBKi6vmPYs2KMV7YDDF6073X3BwFA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230625124649-01-polar-prince-port-0624.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Voice recordings and data from the mother ship that carried the Titan submersible before it imploded will be examined, investigators say | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-25T05:42:05Z",
+                            "og:site_name": "CNN",
+                            "author": "Nouran Salahieh,Samantha Beech,Christina Maxouris",
+                            "og:title": "Voice recordings and data from the mother ship that carried the Titan submersible before it imploded will be examined, investigators say | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "One week after the Titan submersible started what became a catastrophic underwater voyage to the Titanic wreckage – killing all five people aboard  – US officials laid out their next steps in investigating the disaster.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230625124649-01-polar-prince-port-0624.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "accidents, disasters and safety, brand safety-nsf accidents and disasters, brand safety-nsf sensitive, business and industry sectors, business figures, business, economy and trade, canada, companies, continents and regions, government organizations - us, investigations, marine transportation, marine vessels, north america, oceangate expeditions, rescue operations, stockton rush, submarines, the americas, titanic submersible incident, transportation and warehousing, us coast guard, us department of homeland security, us federal departments and agencies",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-06-26T08:42:51Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "One week after the Titan submersible started what became a catastrophic underwater voyage to the Titanic wreckage – killing all five people aboard  – US officials laid out their next steps in investigating the disaster.",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2023/06/25/americas/submersible-titanic-implosion-deaths-sunday/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230625124649-01-polar-prince-port-0624.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Armed Forces Operations video released on June 21, 2023, showing search efforts for the OceanGate Titan submersible. Canadian Armed Forces What's next in the search for the imploded submersible?]\nThe Coast Guard probe – one of several announced since the Titan imploded – is just beginning and will concentrate on collecting debris from the wreckage and interviews. After that, the board will hold a public hearing to gather additional testimony from witnesses, Neubauer said. It will then issue a report with evidence, conclusions and recommendations, he added.\nAs officials try to piece together exactly what happened, investigators will also be reviewing voice recordings from the mother ship that carried the vessel and its five occupants, Canadian officials said.\nCanadian investigators boarded that ship, the Polar Prince, on Saturday “to collect information from the vessel’s voyage data recorder and other vessel systems that contain useful information,” Kathy Fox, chair of the Transportation Safety Board of Canada, said Saturday. A voyage data recorder stores audio from the ship’s bridge.\nThe crew and family members were also being interviewed aboard the Polar Prince, which returned to St. John’s, the capital of Newfoundland and Labrador, with its flags at half-mast Saturday.\n!\nThe Polar Prince arrives at the port in St. John's on Saturday. Authorities from the US and Canada are investigating the cause of the fatal Titan submersible.\nAdrian Wyld/The Canadian Press/AP\nThe agency’s mission isn’t to assign blame, but rather “find out what happened and why and to find out what needs to change to reduce the chance or the risk of such occurrences in the future,” Fox said.\nThe  is also investigating the incident and said it is looking into whether “criminal, federal, or provincial laws may possibly have been broken.”\nCommunications between the submersible and its mother ship will also likely be scrutinized by officials probing the disaster. The ship could communicate with the submersible by , and it’s required to communicate every 15 minutes, according to the archived website of OceanGate Expeditions.\nThe latest announcements  since the US Coast Guard announced the vessel had suffered a “catastrophic implosion” that killed all those aboard. Military experts found debris in the ocean – about 1,600 feet from the bow of the Titanic – consistent with the loss of the small vessel’s pressure chamber, US Coast Guard Rear Adm. John Mauger said.\n were Stockton Rush, CEO of the vessel’s operator OceanGate Expeditions; British businessman Hamish Harding; French diver Paul-Henri N...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Do you believe the leaked Comm transcripts are legit or faked? I'd ...",
+                "htmlTitle": "Do you believe the leaked Comm <b>transcripts</b> are legit or faked? I&#39;d ...",
+                "link": "https://www.reddit.com/r/OceanGateTitan/comments/14wsutq/do_you_believe_the_leaked_comm_transcripts_are/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 11, 2023 ... 46K subscribers in the OceanGateTitan community. A subreddit committed to following the news and discussion of the OceanGate Titan ...",
+                "htmlSnippet": "Jul 11, 2023 <b>...</b> 46K subscribers in the OceanGateTitan community. A subreddit committed to following the news and discussion of the OceanGate <b>Titan</b>&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../OceanGateTitan/.../do_you_believe_the_leaked_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../OceanGate<b>Titan</b>/.../do_you_believe_the_leaked_...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjZj1MCWb3eTgbMRsIEGJ6WlP50y-dQSAc43ZWeF3pD5kSUsAhrhmqjwJI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/do-you-believe-the-leaked-comm-transcripts-are-legit-or-v0-H_44T8wbNJTHnXQ4qcUnS1hSZF0Y6F_Wc3t6OiIgpDQ.jpg?width=1080&crop=smart&auto=webp&s=05d9003d950ae7b779717cf057c4267061ad32d3",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/OceanGateTitan on Reddit: Do you believe the leaked Comm transcripts are legit or faked? I’d like to discuss this.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/OceanGateTitan on Reddit: Do you believe the leaked Comm transcripts are legit or faked? I’d like to discuss this.",
+                            "og:image:height": "607",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/WellWellWellthennow - 1 vote and 107 comments",
+                            "twitter:image": "https://external-preview.redd.it/do-you-believe-the-leaked-comm-transcripts-are-legit-or-v0-H_44T8wbNJTHnXQ4qcUnS1hSZF0Y6F_Wc3t6OiIgpDQ.jpg?width=1080&crop=smart&auto=webp&s=05d9003d950ae7b779717cf057c4267061ad32d3",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/OceanGateTitan/comments/14wsutq/do_you_believe_the_leaked_comm_transcripts_are/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/do-you-believe-the-leaked-comm-transcripts-are-legit-or-v0-H_44T8wbNJTHnXQ4qcUnS1hSZF0Y6F_Wc3t6OiIgpDQ.jpg?width=1080&crop=smart&auto=webp&s=05d9003d950ae7b779717cf057c4267061ad32d3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Titan submersible transcript proven fake, passengers were unaware ...",
+                "htmlTitle": "<b>Titan submersible transcript</b> proven fake, passengers were unaware ...",
+                "link": "https://interestingengineering.com/science/titan-submersible-transcripts-fake",
+                "displayLink": "interestingengineering.com",
+                "snippet": "Jun 11, 2024 ... The Captain's team had gotten hold of the records of the actual communication between the Titan and the mother ship. It revealed they “found no ...",
+                "htmlSnippet": "Jun 11, 2024 <b>...</b> The Captain&#39;s team had gotten hold of the <b>records</b> of the actual <b>communication</b> between the <b>Titan</b> and the mother ship. It revealed they “found no&nbsp;...",
+                "formattedUrl": "https://interestingengineering.com/science/titan-submersible-transcripts-fake",
+                "htmlFormattedUrl": "https://interestingengineering.com/science/<b>titan</b>-<b>submersible</b>-<b>transcripts</b>-fake",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS42xuBfqPvtojlK4l2IE0zZJZT-0FIibi0_ljQHeaSn1eA8FAnGvE5k-I&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cms.interestingengineering.com/wp-content/uploads/2024/06/The-Titan-submersible.jpg",
+                            "theme-color": "#000000",
+                            "og:image:width": "1920",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Interesting Engineering",
+                            "parsely-author": "Gairika Mitra",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "A federal investigation has revealed that the Titan submersible transcript was fake. No warning signs given to the passengers as per reports.",
+                            "twitter:creator": "@IntEngineering",
+                            "twitter:image": "https://cms.interestingengineering.com/wp-content/uploads/2024/06/The-Titan-submersible.jpg",
+                            "parsely-type": "post",
+                            "twitter:site": "@IntEngineering",
+                            "parsely-link": "http://interestingengineering.com/science/titan-submersible-transcripts-fake",
+                            "parsely-image-url": "https://cms.interestingengineering.com/wp-content/uploads/2024/06/The-Titan-submersible.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "Science",
+                            "application-name": "Interesting Engineering",
+                            "creator": "@IntEngineering",
+                            "og:type": "article",
+                            "twitter:title": "Titan sub transcript proven fake, passengers were unaware of danger",
+                            "author": "Gairika Mitra",
+                            "og:title": "Titan sub transcript proven fake, passengers were unaware of danger",
+                            "og:image:height": "1080",
+                            "color-scheme": "light",
+                            "fb:pages": "139188202817559",
+                            "parsely-title": "Titan submersible transcript proven fake, passengers were unaware of danger",
+                            "parsely-pub-date": "2024-06-11T12:36:14Z",
+                            "referrer": "origin",
+                            "fb:app_id": "467815213795758",
+                            "parsely-tags": "editor: ship, titan, titan submersible, titanic",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A federal investigation has revealed that the Titan submersible transcript was fake. No warning signs given to the passengers as per reports.",
+                            "publisher": "Interesting Engineering",
+                            "og:url": "https://interestingengineering.com/science/titan-submersible-transcripts-fake"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cms.interestingengineering.com/wp-content/uploads/2024/06/The-Titan-submersible.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in depth federal investigation has revealed that a widely-viewed transcript of communications between the Titan submersible and its mother ship was fabricated.\n**Updated:** Jun 11, 2024 07:47 AM EST\n!\nThe Titan submersible\nA federal officer and his team closely investigating the Titan submersible recently declared the transcripts between the submersible and the mother ship to be “fake.”\nThe log (transcript) was viewed countless times. It claimed that a series of alarms turned a dive to the resting place of the Titanic. As a result, it threw the Titan into an emergency, putting the lives of five people aboard in danger.\nHowever, the US federal government team noted that the transcript was entirely fictional after almost a year of the incident. The group discovered no derogatory signs. This means the five passengers aboard weren’t warned of any catastrophic event that could threaten their lives.\nCaptain Neubauer denounces the falsified Titan submersible transcript\n---------------------------------------------------------------------\nAccording to Captain Jason D. Neubauer, it’s certain that there is no truth in the transcript.  mentioned Neubauer saying, “I’m confident it’s a false transcript and made up,”. The Captain recently retired from the US Coast Guard and serves as a chairman of the Marine Board of Investigation currently.\nThe Captain’s team had gotten hold of the records of the actual communication between the  and the mother ship. It revealed they “found no evidence” that the passengers knew of anything in advance.\n“Somebody did it well enough to make it look plausible. The transcript made “it look like they were panicking,” Neubauer added. The log also consisted of several technical words and acronyms which then suggested its genuineness, which now seems hardly true.\nNeubauer believes that with this recent development, the families of the deceased would gain some solace.\nThe five passengers were businessman Shahzada Dawood, 48, his son, Suleman, 19, Airline executive, Hamish Harding, 58, Paul-Henri Nargeolet, 77, and Stockton Rush, 61, who was the founder and chief executive of OceanGate. It’s an American firm that built the submersible and ran its tourist dives.\nThe passengers were hoping to wreck around 4000 meters below the ocean’s surface last year in June.\nHowever, despite all odds, it seems like people still strive to explore the depths of the ocean. Especially the billionaires.\nPursuing ocean depths amidst tragedy\n------------------------------------\nPatrick Lahey,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "OceanGateTitan",
+                "htmlTitle": "<b>OceanGateTitan</b>",
+                "link": "https://www.reddit.com/r/OceanGateTitan/",
+                "displayLink": "www.reddit.com",
+                "snippet": "r/OceanGateTitan: A subreddit committed to following the news and discussion of the OceanGate Titan submersible incident.",
+                "htmlSnippet": "r/OceanGateTitan: A subreddit committed to following the news and discussion of the OceanGate <b>Titan submersible</b> incident.",
+                "formattedUrl": "https://www.reddit.com/r/OceanGateTitan/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/OceanGate<b>Titan</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTuMDefhkKgbaJ2neYhFCqivATNIPUyW9wkp4wH1JBm-GxA_4NRRQazA&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://styles.redditmedia.com/t5_8n66yv/styles/communityIcon_8msnenjnmd7b1.jpg?format=pjpg&s=c666ec478082b9bf496cad51202ee3766a6f71ae",
+                            "theme-color": "#000000",
+                            "og:image:width": "256",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "r/OceanGateTitan",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/OceanGateTitan",
+                            "og:image:height": "256",
+                            "bingbot": "noarchive",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "A subreddit committed to following the news and discussion of the OceanGate Titan submersible incident.",
+                            "twitter:image": "https://styles.redditmedia.com/t5_8n66yv/styles/communityIcon_8msnenjnmd7b1.jpg?format=pjpg&s=c666ec478082b9bf496cad51202ee3766a6f71ae",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/OceanGateTitan/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://styles.redditmedia.com/t5_8n66yv/styles/communityIcon_8msnenjnmd7b1.jpg?format=pjpg&s=c666ec478082b9bf496cad51202ee3766a6f71ae"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "CNN.com - Transcripts",
+                "htmlTitle": "CNN.com - <b>Transcripts</b>",
+                "link": "https://transcripts.cnn.com/show/ws/date/2023-07-02/segment/01",
+                "displayLink": "transcripts.cnn.com",
+                "snippet": "Jul 2, 2023 ... I'm Anderson Cooper in St. John's, Newfoundland. The Titan set out from here traveling more than 400 miles to the site of the Titanic for what ...",
+                "htmlSnippet": "Jul 2, 2023 <b>...</b> I&#39;m Anderson Cooper in St. John&#39;s, Newfoundland. The <b>Titan</b> set out from here traveling more than 400 miles to the site of the Titanic for what&nbsp;...",
+                "formattedUrl": "https://transcripts.cnn.com/show/ws/date/2023-07-02/segment/01",
+                "htmlFormattedUrl": "https://<b>transcripts</b>.cnn.com/show/ws/date/2023-07-02/segment/01",
+                "website_content": {
+                    "content": "Return to Transcripts main page\nThe Whole Story with Anderson Cooper\nDeadly Adventure, Trip to the Titanic. Aired 8-9p ET\nAired July 02, 2023 - 20:00   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n[20:00:00] KAYE: Approved by any regulatory body.  COHEN: It's basically the Wild West out there. There is little to no government regulation.  REID: Stay with us for \"THE WHOLE STORY WITH ANDERSON COOPER.\"  Thank you for joining me this evening. I'm Paula Reid. Good night.  ANDERSON COOPER, CNN ANCHOR: Welcome to the WHOLE STORY. I'm Anderson Cooper in St. John's, Newfoundland.  The Titan set out from here traveling more than 400 miles to the site of the Titanic for what was supposed to be a 10-hour journey two miles below the ocean surface to explore the wreckage. There were five people on board, three of them paying customers. Less than two hours after they began their descent the Titan stopped communicating with its parent ship on the surface.  The U.S. Navy detected a sound that could have been an implosion in the area where Titan was diving and reportedly forwarded that information to the incident commander. But that information was not released publicly. If the Titan was still intact, rescuers needed to find it quickly because it only had up to 96 hours of oxygen on board.  Over the next hour, CNN's Randi Kaye takes us step by step through the intense five-day search for the missing submersible and tells us everything we need to know about what happened to the Titan and its passengers, the risk of going so far down into the ocean, and the warnings that had been raised about the Titan submersible.  (BEGIN VIDEOTAPE) DANA BASH, CNN ANCHOR: Just into CNN, a deep-sea search and rescue mission with life-or-death consequences. There was a rush to find a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Unified Command established for missing submersible from Polar ...",
+                "htmlTitle": "Unified Command established for missing <b>submersible</b> from Polar ...",
+                "link": "https://www.news.uscg.mil/Press-Releases/Article/3433572/unified-command-established-for-missing-submersible-from-polar-prince/",
+                "displayLink": "www.news.uscg.mil",
+                "snippet": "Jun 20, 2023 ... BOSTON – The U.S. Coast Guard, U.S. Navy, Canadian Coast Guard and OceanGate Expeditions have established a unified command to continue its ...",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> BOSTON – The <b>U.S. Coast Guard</b>, <b>U.S. Navy</b>, Canadian Coast Guard and OceanGate Expeditions have established a unified command to continue its&nbsp;...",
+                "formattedUrl": "https://www.news.uscg.mil/.../unified-command-established-for-missing-su...",
+                "htmlFormattedUrl": "https://www.news.uscg.mil/.../unified-command-established-for-missing-<b>su</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlIPSv2dAiDKC5SwpPSYDcwxCJZ7cxadDh1ofa2JM5FLCcp4kDuCifktNE&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Unified Command established for missing submersible from Polar Prince",
+                            "og:type": "article",
+                            "og:site_name": "United States Coast Guard News",
+                            "og:title": "Unified Command established for missing submersible from Polar Prince",
+                            "twitter:creator": "@uscg",
+                            "og:description": "BOSTON – The Coast Guard, U.S. Navy, Canadian Coast Guard and the Ocean Explorer have established a unified command Monday evening to continue its response to the 21-foot submersible research vessel,",
+                            "twitter:site": "@uscg",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "BOSTON – The Coast Guard, U.S. Navy, Canadian Coast Guard and the Ocean Explorer have established a unified command Monday evening to continue its response to the 21-foot submersible research vessel,",
+                            "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                            "host": "DMA Public Web",
+                            "og:url": "https%3A%2F%2Fwww.news.uscg.mil%2FPress-Releases%2FArticle%2F3433572%2Funified-command-established-for-missing-submersible-from-polar-prince%2F"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2306/887734/DOD_109719049.0000001/800x450_q95.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "Video Player is loading.Play VideoPlayMuteCurrent Time 0:00/Duration 0:00Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:00 1xPlayback RateChaptersChaptersDescrip...",
+                            "headline": "Unified Command established for missing submersible from Polar Prince",
+                            "datepublished": "June 20, 2023"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "News Home",
+                            "name": "News Home",
+                            "position": "1"
+                        },
+                        {
+                            "name": "Press Releases",
+                            "position": "2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...United States Coast Guard News Department of Homeland Security\nUnited States Coast Guard News\nSearch U.S. Coast Guard News:  \nSearch U.S. Coast Guard News:  \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n    *   \n        *   \n            *   \n    *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n        *   \n        *   \n    *   \n        *   \n        *   \n    *   \n    *   \n        *   \n        *   \n        *   \n*   \n*   \n*   \n*   \n*   \nPress Releases \nSearch by keword\nSelect a Region\nSelect a Region Headquarters Academy Bootcamp Atlantic Area 1st District Northeast ...PADET New York 5th District Mid-Atlantic ...PADET Baltimore 7th District Southeast ...PADET Jacksonville ...PADET Tampa Bay ...Puerto Rico 8th District Heartland ...PADET Texas 9th District Great Lakes Pacific Area 11th District Pacific Southwest ...PADET San Diego ...PADET LA/LB 13th District Pacific Northwest ...PADET Astoria 14th District Hawaii and the Pacific 17th District Alaska ...PADET Kodiak ...PADET Anchorage\nSearch by date range\n**Press Release** | June 20, 2023\nUnified Command established for missing submersible from Polar Prince\n=====================================================================\n]\nBOSTON – The U.S. Coast Guard, U.S. Navy, Canadian Coast Guard and OceanGate Expeditions have established a unified command to continue its response to the 21-foot submersible research vessel, Titan, from the Research Vessel Polar Prince that went missing Sunday evening.\nAs of Tuesday morning, a total of 10,000 square miles have been searched in favorable weather conditions with an increase in visibility from the previous day.\nThe Bahamian research vessel, Deep Energy, arrived on scene around 7 a.m. EDT and began remotely operated vehicle (ROV) operations. A C-130 crew from the Air National Guard 106th also arrived on scene to continue searching around 4 p.m. EDT.\nThe following assets are en route:\n*   Canadian CGS John Cabot\n*   Canadian CGS Ann Harvey\n*   Canadian CGS Terry Fox\n*   Canadian CGS Atlantic Merlin (ROV) \n*   Motor Vessel Horizon Arctic \n*   Commercial Vessel Skandi Vinland (ROV) \n*   French Research Vessel L’Atalante (ROV) \n*   His Majesty's Canadian Ship Glace Bay (mobile decompression chamber and medical personnel) \n“This is a complex search effort which requires multiple agencies with subject matter expertise and specialized equipment which we have gained through the unified command,” said Capt. Jamie Frederick, the response coordinator from the First Coast Guard...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "CNN.com - Transcripts",
+                "htmlTitle": "CNN.com - <b>Transcripts</b>",
+                "link": "https://transcripts.cnn.com/show/ebo/date/2023-06-22/segment/01",
+                "displayLink": "transcripts.cnn.com",
+                "snippet": "Jun 22, 2023 ... Let's go OUTFRONT. And good evening. I'm Erin Burnett. OUTFRONT tonight, a catastrophic implosion. The Coast Guard confirming debris from the ...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Let&#39;s go OUTFRONT. And good evening. I&#39;m Erin Burnett. OUTFRONT tonight, a catastrophic implosion. The <b>Coast Guard</b> confirming debris from the&nbsp;...",
+                "formattedUrl": "https://transcripts.cnn.com/show/ebo/date/2023-06-22/segment/01",
+                "htmlFormattedUrl": "https://<b>transcripts</b>.cnn.com/show/ebo/date/2023-06-22/segment/01",
+                "website_content": {
+                    "content": "Return to Transcripts main page\nErin Burnett Outfront\n5 Aboard Sub Dead After \"Catastrophic Implosion\"; Zelenskyy Alleges Russia Is Weighing A \"Terrorist Attack\" At The Zaporizhzhia Nuclear Power Plant; Ex-GOP Representative And CIA Officer Will Hurd Becomes 12th GOP Candidate To Join Presidential Race. Aired 7-8p ET\nAired June 22, 2023 - 19:00   ET\nTHIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.\n[19:00:28] ERIN BURNETT, CNN HOST:  OUTFRONT next, catastrophe at sea. Major questions still remain about the ones Titanic bound sub, as we are just learning that a top secret U.S. Navy system heard the submersible implode.  Plus, an experimental vessel. That is how the doomed sub is described in the OceanGate liability agreement that out front has obtained. So, what exactly is the submersible -- was the submersible, and others like it made of? And is that what ultimately sealed its fate?  And remembering the five passengers, humans onboard. Friends and family of the explorers join us next.  Let's go OUTFRONT.  And good evening. I'm Erin Burnett. OUTFRONT tonight, a catastrophic implosion. The Coast Guard confirming debris from the Titan submersible has been found near the wreckage of the Titanic.  (BEGIN VIDEO CLIP) REAR ADM. JOHN MAUGER, U.S. COAST GUARD:  The remote operating vehicle has been searching, it is highly capable. And we've been able to classify parts of the pressure chamber for the Titan submersible. The debris field is consistent with a catastrophic implosion of the vessel.  (END VIDEO CLIP) BURNETT:  All right. So, the mystery tonight is what caused that catastrophic implosion? We keep using the word implosion, right? We're talking about heavy pressure here, right? An implosion is what would occur underwater like that.  \"The Wall Street Journal\" first reporting that it was so powerful, top secret navy underwater microphones actually picked up that sound, coming from near the site of the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

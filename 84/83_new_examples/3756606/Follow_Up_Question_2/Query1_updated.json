@@ -1,0 +1,698 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - additional footage giant sea creature Antarctica",
+                "totalResults": "2320000",
+                "searchTerms": "additional footage giant sea creature Antarctica",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - additional footage giant sea creature Antarctica",
+                "totalResults": "2320000",
+                "searchTerms": "additional footage giant sea creature Antarctica",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.307474,
+        "formattedSearchTime": "0.31",
+        "totalResults": "2320000",
+        "formattedTotalResults": "2,320,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Extremely rare phantom jellyfish caught on camera",
+                "htmlTitle": "Extremely rare phantom jellyfish caught on camera",
+                "link": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Feb 10, 2023 ... Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off\u00a0...",
+                "htmlSnippet": "Feb 10, 2023 <b>...</b> Fewer than 130 sightings have ever been made of the mysterious deep-<b>sea creature</b>. Now a 30-foot-long specimen has been spotted off&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../rare-giant-phantom-jellyfish-antarct...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../rare-<b>giant</b>-phantom-jellyfish-<b>antarct</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2-zVXCMtOsX_9cht2Z-Cup8u5zFN9lshqRFisagOnk2sfgqCFeH2bos&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "08-02-2024",
+                            "og:site_name": "Animals",
+                            "twitter:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "title": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "twitter:creator": "@NatGeo",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "02-21-2023",
+                            "og:type": "article",
+                            "twitter:title": "Extremely rare phantom jellyfish caught on camera",
+                            "article:section": "Animals",
+                            "tax:locations": "Antarctica",
+                            "og:title": "Extremely rare phantom jellyfish caught on camera",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "Oceans, Deep Sea, Ocean Life, Submersibles, Citizen Science",
+                            "twitter:image:src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Jellyfish",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "tax:source": "Animals",
+                            "twitter:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:1c2f1359-5af7-42f9-b8da-0a5dafaacf0d",
+                            "og:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Extremely rare phantom jellyfish caught on camera\n=============== \n]\nSkip to content\n*   \n*   \n*   \n*   Menu\n!\nTourists recently spotted the 30-foot-long invertebrate in shallow waters off Antarctica.\nPhotograph by Mark Niesink\n*   \nExtremely rare phantom jellyfish caught on camera\n=================================================\nFewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.\nByMelissa Hobson\nFebruary 10, 2023\n\u20225 min read\nIn the ethereal blue glow of the water, a huge shape swept toward them. Around 30 feet long, with four billowing arms and a domed head, the creature was larger than the tourists\u2019 personal submersible. This startling sight occurred hundreds of feet underwater off the coast of \u2019s Rong\u00e9 Island.\nWhen they returned to their  cruise ship and showed photos to , a marine biologist with Exeter University in the U.K., he knew they\u2019d seen \u201csomething incredibly rare.\u201d\nAs it turns out, these lucky travelers are among only a handful of people ever to lay eyes on the giant phantom jellyfish, or _Stygiomedusa gigantea_. Until that point, in January 2022, there had been only 126 recorded observations since the species was first described in 1910\u2014including individuals caught in nets and footage captured by remotely operated underwater vehicles, or ROVs. Even scientists with the , which has logged thousands of hours of submersible dives, have seen just nine.\n!(blob:https://www.nationalgeographic.com/b9a31d3949b1882a09ed2f8508d538f3)\n0:17\nSurprisingly, the first  sighting was not a one-off. Just a week later, in late January 2022, a different group of tourists also saw a phantom jellyfish, followed by one more, in mid...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "National Geographic is a well-respected source known for its scientific rigor and educational content. The organization has a long history of high-quality journalism and provides in-depth reporting on biology, marine life, and environmental issues. Their content is often peer-reviewed and cited by other credible sources, making them reliable for factual information. However, occasional sensationalism in headlines might warrant a slight deduction."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses the sighting of a 30-foot-long phantom jellyfish caught on camera off the coast of Antarctica. It directly relates to the size and identity of a potential giant sea creature, aligning closely with the claim and context of the video. Given that it's an actual documented sighting of a large marine organism, it strongly supports the notion of large, unidentified creatures in the region."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Antarctica - Griffin Museum of Science and Industry",
+                "htmlTitle": "<b>Antarctica</b> - Griffin Museum of Science and Industry",
+                "link": "https://www.msichicago.org/explore/whats-here/giant-dome-theater/antarctica",
+                "displayLink": "www.msichicago.org",
+                "snippet": "Journey into the wild and awe-inspiring continent at the bottom of the world. Experience Antarctica in the Giant Dome Theater at Griffin MSI.",
+                "htmlSnippet": "Journey into the wild and awe-inspiring continent at the bottom of the world. Experience <b>Antarctica</b> in the <b>Giant</b> Dome Theater at Griffin MSI.",
+                "formattedUrl": "https://www.msichicago.org/explore/whats-here/giant-dome.../antarctica",
+                "htmlFormattedUrl": "https://www.msichicago.org/explore/whats-here/<b>giant</b>-dome.../<b>antarctica</b>",
+                "pagemap": {
+                    "PostalAddress": [
+                        {
+                            "addressCountry": "USA",
+                            "streetAddress": "5700 S. DuSable Lake Shore Drive",
+                            "postalCode": "60637",
+                            "name": "Museum of Science & Industry",
+                            "addressLocality": "Chicago",
+                            "addressRegion": "IL"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH2xwOpXtmRGzgZcKYgyxuj_vU80G_CkFz5_UkLkplI0x8b5TPUnlwvXZl&s",
+                            "width": "287",
+                            "height": "176"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.msichicago.org/fileadmin/assets/whats_here/films/antarctica/Antarctica_sealpup.jpg",
+                            "twitter:card": "summary",
+                            "handheldfriendly": "True",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Antarctica",
+                            "mobileoptimized": "320",
+                            "og:description": "Journey into the wild and awe-inspiring continent at the bottom of the world. Experience Antarctica in the Giant Dome Theater at Griffin MSI."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.msichicago.org/fileadmin/assets/whats_here/films/antarctica/Antarctica_sealpup.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Antarctica - Griffin Museum of Science and Industry\n=============== \n!\n*   \n*   \n*   \n*   \n*    \n*   \n*   \n*   \n*   \n### What's Here\nProviding unique experiences designed to spark scientific inquiry and creativity since 1933.\n \u00d7\n### Visit us\n5700 S. DuSable  \nLake Shore Drive  \nChicago, IL 60637\n*   \n*   \n*   \n \u00d7\n*   \n*   \n*   \n*   \n### Donate\nInspire the next generation of scientific leaders and thinkers with a gift today.\n\u00d7\n### Giant Dome Theater\nAntarctica\n==========\n#### ended Jan 15\n#### \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nHow can one place so far away affect us all?\nThe most remote continent in the world is a land of mystery, and yet, what happens here affects every single one of us. With never-before-seen footage, this story brings audiences to the farthest reaches of this wild and majestic place. It is the coldest, driest and windiest place on Earth with the roughest oceans, but it\u2019s also home to weird and wonderful creatures in astounding abundance.\n_Antarctica is not included in Museum Entry and requires an additional timed-entry ticket.  \n_\n*   Daily showtimes (see ticketing for times)\n*   For all ages.\n*   \n*   \n*   \n**Giant Dome Theater supported by**\n!\n**Giant Dome Theater Season Sponsor  \n**\n!\nMore to explore\n---------------\n*    ### Extreme Ice Exhibit Go to extremes with a photographer chasing our diminishing glaciers. Learn more]\n*    ### Earth Revealed Exhibit Get an up-close and near \u201creal-time\u201d view of our planet Earth. Learn more]\n*    ### The Blue Paradox Exhibit A powerful, immersive look inside the ocean plastic crisis. Learn more]\n*   \n*   \n*   \n*   \n##### Support Us\nHelp transform lives through the power of science and science education.\n*   \n*   \n##### Visit\n*   \n*   \n*   \n*   \n*   \n*   \n##### Explore\n*   \n*   \n*   \n*   \n*   \n*   \n##### Location + Hours\nMuseum of Science & Industry5700 S. DuSable  \nLake Shore Drive  \nChicago, IL...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Museum of Science and Industry in Chicago provides educational resources and programs related to science and technology. While it is an excellent educational platform with accurate information, its primary focus is not journalism. Thus, it may not directly engage in fake news detection but does promote education, which indirectly supports informed understanding of scientific phenomena."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "While this evidence discusses Antarctica in general and unique experiences related to the continent, it does not provide any footage or imagery that corroborates the specifications of the giant creature claim. Its relevance is minimal concerning specific documentation of giant sea creatures."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "There's a Reason NASA Stopped Exploring the Deep Sea : r/nosleep",
+                "htmlTitle": "There&#39;s a Reason NASA Stopped Exploring the Deep <b>Sea</b> : r/nosleep",
+                "link": "https://www.reddit.com/r/nosleep/comments/14q4qch/theres_a_reason_nasa_stopped_exploring_the_deep/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 4, 2023 ... The deepest part of the ocean is NOT the Mariana trench - theres tons of underwater cave systems further down, some quite large. We have not\u00a0...",
+                "htmlSnippet": "Jul 4, 2023 <b>...</b> The deepest part of the <b>ocean</b> is NOT the Mariana trench - theres tons of underwater cave systems <b>further</b> down, some quite large. We have not&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../theres_a_reason_nasa_stopped_exploring_the_d...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../theres_a_reason_nasa_stopped_exploring_the_d...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/14q4qch",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/nosleep on Reddit: There\u2019s a Reason NASA Stopped Exploring the Deep Sea",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/nosleep on Reddit: There\u2019s a Reason NASA Stopped Exploring the Deep Sea",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Gagamaster3 - 1,590 votes and 132 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/14q4qch",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/nosleep/comments/14q4qch/theres_a_reason_nasa_stopped_exploring_the_deep/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/14q4qch"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a social media platform where users can share content and discuss various topic areas. Its democratized nature means that while it can be a source of trending information, it is also prone to misinformation and lacks editorial oversight. The credibility of content varies widely depending on the subreddit. Therefore, it is only moderately reliable for accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The evidence discusses an unrelated topic about underwater cave systems and does not pertain to the sighting of a giant sea creature or provide any relevant footage or imagery. Its contribution to verifying the claim is negligible."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Giant Antarctic sea spiders' 140-year-old reproductive mystery ...",
+                "htmlTitle": "<b>Giant Antarctic sea</b> spiders&#39; 140-year-old reproductive mystery ...",
+                "link": "https://www.hawaii.edu/news/2024/02/18/giant-antarctic-sea-spiders/",
+                "displayLink": "www.hawaii.edu",
+                "snippet": "Feb 18, 2024 ... The reproduction of giant sea spiders in Antarctica has been largely unknown to researchers for more than 140 years, until\u00a0...",
+                "htmlSnippet": "Feb 18, 2024 <b>...</b> The reproduction of <b>giant sea</b> spiders in <b>Antarctica</b> has been largely unknown to researchers for <b>more</b> than 140 years, until&nbsp;...",
+                "formattedUrl": "https://www.hawaii.edu/news/2024/02/18/giant-antarctic-sea-spiders/",
+                "htmlFormattedUrl": "https://www.hawaii.edu/news/2024/02/18/<b>giant</b>-antarctic-<b>sea</b>-spiders/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "UH News"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5I_H8R1ybV44w6yPKE29YRZA4aBZcFNE4OnhciDEhtfBOG_KpxwsEJw&s",
+                            "width": "130",
+                            "height": "130"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.hawaii.edu/news/wp-content/uploads/2024/02/manoa-life-sciences-sea-spider-closeup-robbinsthmb.jpg",
+                            "og:type": "blog",
+                            "og:image:width": "130",
+                            "twitter:card": "summary",
+                            "twitter:title": "Giant Antarctic sea spiders\u2019 140-year-old reproductive mystery solved | University of Hawai\u02bbi System News",
+                            "og:site_name": "University of Hawai\u02bbi System News",
+                            "og:title": "Giant Antarctic sea spiders\u2019 140-year-old reproductive mystery solved | University of Hawai\u02bbi System News",
+                            "og:image:height": "130",
+                            "google": "nositelinkssearchbox",
+                            "msapplication-tileimage": "https://www.hawaii.edu/news/wp-content/uploads/2019/04/cropped-UHNews512-1-270x270.jpg",
+                            "og:description": "Instead of carrying the babies until they hatched, as in most species of sea spiders, one parent spent two days attaching the eggs to the rocky bottom of the sea.",
+                            "og:image:secure_url": "https://www.hawaii.edu/news/wp-content/uploads/2024/02/manoa-life-sciences-sea-spider-closeup-robbinsthmb.jpg",
+                            "twitter:image": "https://www.hawaii.edu/news/wp-content/uploads/2024/02/manoa-life-sciences-sea-spider-closeup-robbinsthmb.jpg",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Instead of carrying the babies until they hatched, as in most species of sea spiders, one parent spent two days attaching the eggs to the rocky bottom of the sea.",
+                            "og:locale": "en_US",
+                            "fb:admins": "73513078098",
+                            "og:url": "https://www.hawaii.edu/news/2024/02/18/giant-antarctic-sea-spiders/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.hawaii.edu/news/wp-content/uploads/2024/02/manoa-life-sciences-sea-spider-closeup-robbinsthmb.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Giant Antarctic sea spiders\u2019 140-year-old reproductive mystery solved | University of Hawai\u02bbi System News\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   column 1\n        *   \n        *   \n        *   \n        *   \n        *   \n    *   column 2\n        *   \n        *   \n        *   \n        *   \n        *   \n Submit\nGiant Antarctic sea spiders\u2019 140-year-old reproductive mystery solved\n=====================================================================\n \u00bb  \u00bb Giant Antarctic sea spiders\u2019\u2026\n*   February 18, 2024\n*   \nReading time: 2 minutes\nThe reproduction of giant sea spiders in Antarctica has been largely unknown to researchers for more than 140 years, until now. University of Hawai\u02bbi at M\u0101noa scientists traveled to the remote continent and saw first-hand the behaviors of these mysterious creatures, and their findings could have wider implications for marine life and ocean ecosystems in Antarctica and around the world.\n!\nGiant Antarctic sea spider (Photo credit: R. Robbins)\nSea spiders, or pycnogonids, are a group of spider-like invertebrates found in marine habitats globally. Most species are smaller than a fingernail, but some Antarctic species have leg spans (tip of one leg to the tip of the opposite leg) of more than a foot. These animals are a famous example of \u201cpolar gigantism,\u201d a phenomenon where certain organisms in polar regions, such as the Arctic and Antarctic, grow to much larger sizes than their relatives in warmer climates.\n\u201cIn most sea spiders, the male parent takes care of the babies by carrying them around while they develop,\u201d UH M\u0101noa  Professor and lead researcher Amy Moran said. \u201cWhat\u2019s weird is that despite descriptions and research going back over 140 years, no one had ever seen the giant Antarctic sea spiders brooding their young or knew anything about their development.\u201d\n!\nMoran on a research dive, picking up a large sea spider (Photo credit: R. Robbins)\nMoran\u2019s lab has studied polar gigantism for more than a decade. In October 2021, during a field research expedition to Antarctica, the team, including Moran and School of Life Sciences PhD students Aaron Toh and Graham Lobert, made...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The University of Hawaii website includes research and educational resources that are generally reliable and credible. However, as an academic institution, it mostly focuses on educational content rather than news, which limits its engagement in identifying or debunking fake news outside the scope of their research. Nonetheless, the scientific content is typically peer-reviewed and trustworthy."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence touches on giant sea spiders, which can grow to a significant size in Antarctic waters and relates to the mystery of large marine organisms. However, it does not provide specific footage or details about the giant creature mentioned in the claim, but highlights a notable type of marine life that could be relevant in discussions about large organisms."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "M\u0101noa: VNR: Giant Antarctic sea spiders 140-year-old reproductive ...",
+                "htmlTitle": "M\u0101noa: VNR: <b>Giant Antarctic sea</b> spiders 140-year-old reproductive ...",
+                "link": "https://manoa.hawaii.edu/news/article.php?aId=13079",
+                "displayLink": "manoa.hawaii.edu",
+                "snippet": "Feb 18, 2024 ... The reproduction of giant sea spiders in Antarctica has been largely unknown to researchers for more than 140 years, until now. University of\u00a0...",
+                "htmlSnippet": "Feb 18, 2024 <b>...</b> The reproduction of <b>giant sea</b> spiders in <b>Antarctica</b> has been largely unknown to researchers for <b>more</b> than 140 years, until now. University of&nbsp;...",
+                "formattedUrl": "https://manoa.hawaii.edu/news/article.php?aId=13079",
+                "htmlFormattedUrl": "https://manoa.hawaii.edu/news/article.php?aId=13079",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bVrFYlDEqL9ojnkNH4znar6PXSk_ifnMVR_OHWFogmTX9ifBMONZ1d5Q&s",
+                            "width": "263",
+                            "height": "191"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://manoa.hawaii.edu/news/attachments/img13079_15035.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Similar to the main University of Hawaii website, Honolulu's Manoa branch provides reliable academic information and research initiatives. It can offer insights into marine biology and ecology but does not primarily focus on news dissemination. Thus, while credible, its utility in detecting fake news is limited."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "Similar to evidence 1, this evidence does not provide any relevant footage or imagery regarding the claim of a giant creature. It offers context and the atmosphere of Antarctica but lacks concrete evidence related to giant sea creatures."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "What is the bloop?",
+                "htmlTitle": "What is the bloop?",
+                "link": "https://oceanservice.noaa.gov/facts/bloop.html",
+                "displayLink": "oceanservice.noaa.gov",
+                "snippet": "Jun 16, 2024 ... The source of a mysterious rumble recorded in the ocean in 1997 is now known to have originated from an icequake. NASA Landsat image mosaic of\u00a0...",
+                "htmlSnippet": "Jun 16, 2024 <b>...</b> The source of a mysterious rumble recorded in the <b>ocean</b> in 1997 is now known to have originated from an icequake. NASA Landsat image mosaic of&nbsp;...",
+                "formattedUrl": "https://oceanservice.noaa.gov/facts/bloop.html",
+                "htmlFormattedUrl": "https://oceanservice.noaa.gov/facts/bloop.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3_oNuSjsWhLjD7KJ6vPujh0fjV2j36EonSpiDZCMBLStDU7lRhnSDL-G&s",
+                            "width": "297",
+                            "height": "170"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "/facts/bloop.jpg",
+                            "dc.description": "It took years to determine the source of this mysterious rumble from the deep, but scientists determined it originated from an Antarctic icequake.",
+                            "twitter:card": "What is the bloop?",
+                            "twitter:site": "@noaaocean",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "dc.creator": "US Department of Commerce, National Oceanic and Atmospheric Administration",
+                            "og:title": "What is the bloop?",
+                            "dc.title": "What is the bloop?",
+                            "dc.date.created": "2018-05-02",
+                            "dc.language": "EN-US",
+                            "twitter:creator": "@noaaocean",
+                            "og:description": "It took years to determine the source of this mysterious rumble from the deep, but scientists determined it originated from an Antarctic icequake."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://oceanservice.noaa.gov/facts/bloop.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "What is the bloop?\n===============\n ! An official website of the United States government. \n#####  **Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n#####  **Secure websites use HTTPS**\nA small lock or **https://** means you\u2019ve safely connected to a .gov website. Share sensitive information only on official, secure websites.\n Search  Search National Ocean Service\n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n  What is the bloop?\nWhat is the bloop?\n==================\nThe source of a **mysterious rumble** recorded in the ocean in 1997 is now known to have originated from an **icequake**.\n-------------------------------------------------------------------------------------------------------------------------\n!\n\"The Bloop\" is the given name of a mysterious underwater sound recorded in the 90s. Years later, NOAA scientists discovered that this sound emanated from an iceberg cracking and breaking away from an Antarctic glacier. Shown here: a .\nListen to the Bloop\n-------------------\nIn 1997, researchers listening for underwater volcanic activity in the southern Pacific recorded a strange, powerful, and extremely loud sound. Using , or underwater microphones, that were placed more than 3,219 kilometers apart across the Pacific, they recorded numerous instances of the noise, which was unlike anything they had heard before. Not only was it loud, the sound had a unique characteristic that came to be known as \u201cthe Bloop.\u201d\nScientists from NOAA\u2019s  were eager to discover the sound's origin, but with  theories abounded. Was the Bloop from secret underwater military exercises, ship engines, fishing boat winches, giant squids, whales, or a some sea creature unknown to science?\nAs the years passed, PMEL researchers continued to deploy hydrophones ever closer to Antarctica in an ongoing effort to study the sounds of sea floor volcanoes and earthquakes. It was there, on Earth\u2019s lonely southernmost land mass, that they finally discovered the source of those thunderous rumbles from the deep in 2005. The Bloop was the sound of an icequake\u2014an iceberg cracking and breaking away from an Antarctic...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The NOAA (National Oceanic and Atmospheric Administration) is a credible scientific agency that provides accurate data and research about oceanic and atmospheric phenomena. The information published on its website is highly reliable and based on empirical research, making it an excellent source for understanding marine life, its context, and debunking myths like sea monster sightings."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses a mysterious underwater sound, known as 'the Bloop,' which was determined to come from an icequake. This does not relate to sightings of large sea creatures and thus is not relevant for corroborating footage or imagery regarding the claim."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Researchers have more questions than answers about giant sea ...",
+                "htmlTitle": "Researchers have <b>more</b> questions than answers about <b>giant sea</b> ...",
+                "link": "https://www.cbc.ca/news/canada/north/giant-antarctic-sea-spiders-1.3392483",
+                "displayLink": "www.cbc.ca",
+                "snippet": "Jan 7, 2016 ... If you're afraid of spiders, these critters are your worst nightmare: giant sea spiders, living in frigid waters in the Antarctic.",
+                "htmlSnippet": "Jan 7, 2016 <b>...</b> If you&#39;re afraid of spiders, these critters are your worst nightmare: <b>giant sea</b> spiders, living in frigid <b>waters</b> in the <b>Antarctic</b>.",
+                "formattedUrl": "https://www.cbc.ca/news/canada/.../giant-antarctic-sea-spiders-1.3392483",
+                "htmlFormattedUrl": "https://www.cbc.ca/news/canada/.../<b>giant</b>-antarctic-<b>sea</b>-spiders-1.3392483",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_bo3ddRkbz9PWP-TozG5cikagTE4YDZ_I8fxEEK4F0W8cq5ulGqbofkc&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.cbc.ca/1.3392506.1452126204!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/giant-sea-spider.JPG",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Giant Antarctic sea spiders leave researchers puzzled | CBC News",
+                            "og:type": "article",
+                            "og:site_name": "CBC",
+                            "og:title": "Giant Antarctic sea spiders leave researchers puzzled | CBC News",
+                            "vf:section": "2.655",
+                            "og:description": "If you're afraid of spiders, these critters are your worst nightmare: giant sea spiders, living in frigid waters in the Antarctic. Creepy as they many seem, scientists say they're an example of phenomenon called polar gigantism.",
+                            "fb:pages": "481521000412, 707262649368682, 1533367926917162, 542767749191161, 257228333611",
+                            "twitter:image": "https://i.cbc.ca/1.3392506.1452126204!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/giant-sea-spider.JPG",
+                            "vf:url": "https://www.cbc.ca/news/canada/north/giant-antarctic-sea-spiders-1.3392483",
+                            "twitter:player:height": "360",
+                            "twitter:site": "@cbc",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "If you're afraid of spiders, these critters are your worst nightmare: giant sea spiders, living in frigid waters in the Antarctic. Creepy as they many seem, scientists say they're an example of phenomenon called polar gigantism.",
+                            "og:locale": "en_US",
+                            "vf:container_id": "1.3392483",
+                            "twitter:player:width": "640",
+                            "og:url": "https://www.cbc.ca/news/canada/north/giant-antarctic-sea-spiders-1.3392483"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.cbc.ca/1.3392506.1452126204!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/giant-sea-spider.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Researchers have more questions than answers about giant sea spiders\n--------------------------------------------------------------------\nIf you're afraid of spiders, these critters are your worst nightmare: giant sea spiders, living in frigid waters in the Antarctic. Creepy as they many seem, scientists say they're an example of phenomenon called polar gigantism.\nCreatures grow to 35 centimetres in diameter in Antarctic; over 100 times larger than their counterparts\n--------------------------------------------------------------------------------------------------------\n!\nThe giant sea spiders are representative of a phenomenon found in the Arctic and Antarctic, known as polar gigantism. (submitted by Bret Tobalski)\nIf you're afraid of spiders, these critters are your worst nightmare: giant sea spiders, living in\u00a0frigid waters in the Antarctic. Creepy as they may seem, scientists say they have a lot to teach us about an underexplored ecosystem.\nThe giant spiders are an example of a phenomenon found in\u00a0Arctic and Antarctic waters called polar gigantism. In extremely cold deep sea environments, a variety of species, including sea spiders, have evolved to be much larger than their counterparts in warmer climates.\n!\nTobalski says the question of why the spiders evolved to be so large 'is going to probably remain a big question in evolutionary biology.' (submitted by Bret Tobalski)\nIn temperate waters in North America and Europe, sea spiders average two to three millimetres in diameter, according to Bret Tobalski, a University of Montana professor who studies the creatures.\n*   \n*   **Want more CBC North? **\n\"You practically need a magnifying glass to see them or spot them in the water,\" he said, \"whereas in the Antarctic, where we've been working, they grow to be 30 to\u00a035 centimetres in diameter.\"\nVarious theories exist on how polar seas allow creatures to grow to such a large size.\u00a0Tobalski's team is testing...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Canadian Broadcasting Corporation is a public broadcaster that adheres to rigorous journalistic standards. It provides comprehensive news coverage and generally reports with balanced perspectives and accuracy. While it strives for truthfulness, occasional biases might appear depending on specific issues, hence the robust score but not the highest."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-01-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This discusses giant sea spiders in Antarctica, which are examples of polar gigantism. While it doesn't provide direct footage relating to the claim, it indicates the existence of large marine life in the region, thereby adding a level of context to the question about size and identity."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Sea spider | Animals | Monterey Bay Aquarium",
+                "htmlTitle": "<b>Sea</b> spider | <b>Animals</b> | Monterey Bay Aquarium",
+                "link": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-spider",
+                "displayLink": "www.montereybayaquarium.org",
+                "snippet": "Classification. Animals in the class Pycnogonida are considered sea spiders, and are called pycnogonids. There are more than 1,300 species that belong to this\u00a0...",
+                "htmlSnippet": "Classification. <b>Animals</b> in the class Pycnogonida are considered <b>sea</b> spiders, and are called pycnogonids. There are <b>more</b> than 1,300 <b>species</b> that belong to this&nbsp;...",
+                "formattedUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-spider",
+                "htmlFormattedUrl": "https://www.montereybayaquarium.org/animals/animals-a-to-z/<b>sea</b>-spider",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5huEUnDGRqAeuq2xJGpmRO1VnYayu7EY0JsVMIxfJVn60FHz1JMrptWoo&s",
+                            "width": "270",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "/globalassets/mba/images/animals/deep-sea/mbari-owned/pycnogonid_d728_01-mbari.jpg",
+                            "theme-color": "#357cab",
+                            "twitter:card": "summary",
+                            "twitter:title": "Sea spider | Animals | Monterey Bay Aquarium",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Sea spider | Animals | Monterey Bay Aquarium",
+                            "og:description": "Sea spiders swim and crawl along sandy seafloors around the world.",
+                            "twitter:image": "https://www.montereybayaquarium.org/globalassets/mba/images/animals/deep-sea/mbari-owned/pycnogonid_d728_01-mbari.jpg",
+                            "facebook-domain-verification": "uz6aqol5k9aytltcvgvybys6swh6lw"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.montereybayaquarium.org/globalassets/mba/images/animals/deep-sea/mbari-owned/sea-spider-pycnogonid_on_pandea_rubra_02-mbari.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Sea spider | Animals | Monterey Bay Aquarium\n===============\nFor a smooth entry process, be sure to purchase your tickets in advance. \nClose site wide alert message.\nMonterey Bay Aquarium Home]\n*   \n*   *   \n    *   \n*   Show search box\n*   Visit\n    *   *   \n        *   \n            *   \n        *   \n            *   \n            *   \n        *   \n        *   \n    *   *   \n        *   \n        *   \n        *   \n            *   \n        *   \n        *   \n    *   !\n    *   !\n*   Animals\n    *   *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n        *   \n    *   *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n        *   \n    *   !\n    *   !\n*   Join & give\n    *   *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   *   \n            *   \n            *   \n        *   \n    *   !\n    *   !\n*   Act for the ocean\n    *   *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n    *   *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n        *   \n    *   !\n    *   !\n*   For educators\n    *   *   \n            *   \n        *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n    *   *   \n            *   \n            *   \n            *   \n            *   \n        *   \n    *   !\n    *   !\nSearch through the site content\nSup...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Monterey Bay Aquarium is a well-respected institution regarding marine education and research. Its website includes factual information on marine ecosystems but focuses more on educational outreach than news reporting. Consequently, while reliable and an excellent source for marine-related information, it may not actively engage in combating fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The evidence discusses sea spiders and provides some background, but it lacks specific footage related to the claim. Its relevance is limited, but it does highlight the existence of large spider-like invertebrates in Antarctic waters."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Is This the First Recorded Footage of a Colossal Squid Living Freely ...",
+                "htmlTitle": "Is This the First Recorded <b>Footage</b> of a Colossal Squid Living Freely ...",
+                "link": "https://www.smithsonianmag.com/science-nature/is-this-the-first-recorded-footage-of-a-colossal-squid-living-freely-180984482/",
+                "displayLink": "www.smithsonianmag.com",
+                "snippet": "Jun 14, 2024 ... The only sightings of the animals so far have come from corpses or creatures dragged up from the depths.",
+                "htmlSnippet": "Jun 14, 2024 <b>...</b> The only sightings of the <b>animals</b> so far have come from corpses or <b>creatures</b> dragged up from the depths.",
+                "formattedUrl": "https://www.smithsonianmag.com/.../is-this-the-first-recorded-footage-of-a-...",
+                "htmlFormattedUrl": "https://www.smithsonianmag.com/.../is-this-the-first-recorded-<b>footage</b>-of-a-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqgE34Lm67BUYuYsxjtn6lQn_fR_7ojfDZ4HdVx8A9qkpno94tkHxLBQ&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "1cb4877f178228486592ed27f73e9fd1",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Smithsonian Magazine",
+                            "apple-mobile-web-app-title": "Smithsonian Magazine",
+                            "twitter:creator": "@",
+                            "og:description": "The only sightings of the animals so far have come from corpses or creatures dragged up from the depths",
+                            "twitter:image": "https://th-thumbnailer.cdn-si-edu.com/dT9N9zu9afoppk8sF5dOZsZ8LDg=/fit-in/1600x0/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/6b/976bb36d-402d-46bb-92c9-879ec4638293/gettyimages-455504354_web.jpg",
+                            "twitter:site": "@SmithsonianMag",
+                            "image": "https://th-thumbnailer.cdn-si-edu.com/ESlEGQdLkrxNjOCEe3_eXqQ4Rsk=/fit-in/1600x0/filters:focal(800x602:801x603)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F97%2F6b%2F976bb36d-402d-46bb-92c9-879ec4638293%2Fgettyimages-455504354_web.jpg",
+                            "twitter:title": "Is This the First Recorded Footage of a Colossal Squid Living Freely?",
+                            "og:image:alt": "While scientists have seen colossal squid before&mdash;like this specimen examined by New Zealander researchers in 2014&mdash;their interactions have always been with animals that were either pulled from the depths, washed up on shore or otherwise removed from their natural habitat.",
+                            "og:type": "article",
+                            "article:section": "Science, Wildlife, , Our Planet, , Articles",
+                            "author": "Smithsonian Magazine",
+                            "og:title": "Is This the First Recorded Footage of a Colossal Squid Living Freely?",
+                            "fb:pages": "47619793252",
+                            "article:tag": "Animals, cephalopod, Fishing, Hakai, Oceans, Reprint, Weird Animals, wildlife",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "419418791549947",
+                            "apple-mobile-web-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "The only sightings of the animals so far have come from corpses or creatures dragged up from the depths",
+                            "com.silverpop.brandeddomains": "www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com",
+                            "category": "Science",
+                            "og:url": "https://www.smithsonianmag.com/science-nature/is-this-the-first-recorded-footage-of-a-colossal-squid-living-freely-180984482/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://th-thumbnailer.cdn-si-edu.com/cUaSq4at4hQiZXCdiviWYKq6Bew=/1000x750/filters:no_upscale():focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/6b/976bb36d-402d-46bb-92c9-879ec4638293/gettyimages-455504354_web.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... after 10 a.m. on January 6, 2023, in the Southern Ocean some 680 miles south of Argentina, Matthew Mulrennan\u2019s underwater camera captured a one-of-a-kind sighting: There, roughly 575 feet beneath his vessel, a lone squid was propelling itself through the frigid water. With its outstretched vermillion tentacles, see-through body and faint blue bioluminescent glow, this five-inch-long squid is, potentially, the first\u00a0\u00a0ever filmed in its natural environment.\n!\nVideo captured off Antarctica roughly 650 feet deep below the surface shows what might be a juvenile colossal squid living freely in its natural environment. It\u2019s possible this is not a colossal squid but instead another kind of closely related glass squid. Video courtesy of Matthew Mulrennan / Kolossal\nMulrennan, a marine scientist and founder of the California-based nonprofit Kolossal, has been working since 2017 to record footage of wild colossal squid (_Mesonychoteuthis hamiltoni_). Cephalopod experts are convinced Mulrennan filmed some sort of glass squid, the scientific family to which colossal squid belong. But they remain unsure whether it was a young colossal, an adult \u00a0or a previously unknown species in the closely related genus _Taonius_.\nThe Antarctic water where Mulrennan\u2019s team spotted the squid was full of marine snow, giving the video a grainy quality reminiscent of the first photos of another little-known cephalopod: the .\nAlthough both cephalopods are so elusive they\u2019re practically legendary\u2014and often compared to the mythical kraken\u2014colossal squid have bigger, heavier bodies and slightly shorter tentacles than their giant brethren. While giant squid were first  and  in their natural habitat in 2004 and 2012, respectively, the only sightings of colossal squid have come from corpses or animals dragged up to the surface.\nUntil, perhaps, now.\n* * *\nColossal squid were first scientifically described by zoologist Guy Robson  after a  washed up in the Falkland Islands with two colossal squid tentacles in its stomach. Since then, the massive animals have rarely been caught, photographed or even seen. That\u2019s a striking feat for a creature longer than a cargo container with eyes the size of volleyballs. As adults, colossal squid are Earth\u2019s largest invertebrates. They eat  (also known as ) and are hunted by sperm whales. When they\u2019re young, colossal squid seem to venture closer to the ocean\u2019s surface, where they\u2019re picked off by penguins, albatrosses, seals and Patagonian toothfish. Little else is...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Smithsonian Magazine is associated with the Smithsonian Institution, known for its in-depth articles and focus on history, culture, and science. The magazine is typically reputable, with well-researched content and a strong editorial board; however, it sometimes engages in sensational themes that might affect its credibility marginally against strictly academic or scientific sources."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence pertains to the first recorded footage of a potential juvenile colossal squid in its natural habitat. This strongly correlates to the concept of giant sea creatures as it evaluates real-time sightings, thereby offering significant corroborative value to the claim."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Giant Sea Spiders and How Antarctic Animals Cope With The Big ...",
+                "htmlTitle": "<b>Giant Sea</b> Spiders and How <b>Antarctic Animals</b> Cope With The Big ...",
+                "link": "https://www.thenakedscientists.com/articles/interviews/giant-sea-spiders-and-how-antarctic-animals-cope-big-freeze",
+                "displayLink": "www.thenakedscientists.com",
+                "snippet": "Lloyd - I'm a scientist who's interested in animals that live in extremely cold conditions. I work in Antarctica and look at some of the more unusual\u00a0...",
+                "htmlSnippet": "Lloyd - I&#39;m a scientist who&#39;s interested in <b>animals</b> that live in extremely cold conditions. I work in <b>Antarctica</b> and look at some of the <b>more</b> unusual&nbsp;...",
+                "formattedUrl": "https://www.thenakedscientists.com/.../giant-sea-spiders-and-how-antarctic-...",
+                "htmlFormattedUrl": "https://www.thenakedscientists.com/.../<b>giant</b>-<b>sea</b>-spiders-and-how-antarctic-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6GfHGKX0KNn7lvLLeIWCTV7TYQYQMUhgzIwPdxZ8II_yW10EBXwtdK0&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "c7c6fce609ed1a34929469196ea1db87",
+                            "og:image": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/Sea_spider_British_Antarctic_Survey.jpg?itok=E28fEMvj",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Giant Sea Spiders and How Antarctic Animals Cope With The Big Freeze",
+                            "article:section": "Interviews with scientists",
+                            "article:published_time": "Sun, 13/03/2005 - 00:00",
+                            "twitter:url": "https://www.thenakedscientists.com/articles/interviews/giant-sea-spiders-and-how-antarctic-animals-cope-big-freeze",
+                            "og:title": "Giant Sea Spiders and How Antarctic Animals Cope With The Big Freeze",
+                            "og:image:height": "900",
+                            "twitter:image:height": "900",
+                            "og:updated_time": "Thu, 01/11/2018 - 13:59",
+                            "og:description": "The Naked Scientists spoke to Prof. Lloyd Peck, British Antarctic Survey",
+                            "twitter:image": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/Sea_spider_British_Antarctic_Survey.jpg?itok=E28fEMvj",
+                            "article:author": "https://en-gb.facebook.com/thenakedscientists/",
+                            "article:publisher": "https://en-gb.facebook.com/thenakedscientists/",
+                            "article:tag": "antarctica",
+                            "twitter:creator:id": "21410687",
+                            "twitter:image:width": "1200",
+                            "article:modified_time": "Thu, 01/11/2018 - 13:59",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The Naked Scientists spoke to Prof. Lloyd Peck, British Antarctic Survey",
+                            "og:url": "https://www.thenakedscientists.com/articles/interviews/giant-sea-spiders-and-how-antarctic-animals-cope-big-freeze"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.thenakedscientists.com/sites/default/files/styles/social-media-large/public/media/Sea_spider_British_Antarctic_Survey.jpg?itok=E28fEMvj"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Lloyd - I'm a scientist who's interested in animals that live in extremely cold conditions. I work in Antarctica and look at some of the more unusual animals that live there in the sea, such as giant sea spiders that are larger than a dinner plate! I'm interested in their tolerance to the environment, and what the prospects are for these animals when the climate changes. I also like scuba diving under sea ice!\nChris - Have you got any evidence that things are already on the move?\nLloyd - There is a lot of evidence. The Antarctic Peninsula, which accounts for about 5% of the Antarctic continent, is possibly the fastest changing place on earth. The temperature has gone up by three degrees in 50 years. Most of Antarctica isn't changing, but on the peninsula we are seeing glaciers receding, ice shelves collapsing, plants growing where they never grew before, and the general ecology is changing. Fifty years is just a blink of an eye in geological time.\nChris - And is man causing this?\nLloyd - I think a lot of it is down to man. You can't discount some contribution from natural cycles and natural effects, but you just can't get away from the fact that man is changing the environment on earth.\nChris - Why is Antarctica such a special place?\n\n\n\nLloyd - Antarctica is different...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This site is an engaging resource for scientific topics presented in layman terms. While it features accurate scientific explanations, it also mixes in informal discussions and might simplify complex topics at the expense of depth. Although it is mostly reliable, especially for public understanding of science, it doesn\u2019t focus on news fact-checking, limiting its utility for debunking fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2005-03-13"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This discusses giant sea spiders and habits of Antarctic marine life, providing background on unusual animals in the region. However, it does not directly present new footage or imagery to substantiate the claim, but adds context about size variations in marine life."
+                }
+            }
+        }
+    ]
+}

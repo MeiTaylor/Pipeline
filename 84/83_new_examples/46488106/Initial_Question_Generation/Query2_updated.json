@@ -1,0 +1,840 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - The Simpsons predictions list notable incidents",
+                "totalResults": "11400000",
+                "searchTerms": "The Simpsons predictions list notable incidents",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - The Simpsons predictions list notable incidents",
+                "totalResults": "11400000",
+                "searchTerms": "The Simpsons predictions list notable incidents",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.455745,
+        "formattedSearchTime": "0.46",
+        "totalResults": "11400000",
+        "formattedTotalResults": "11,400,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "The Simpsons Predictions: 30 Times the Fox Show Forecasted the ...",
+                "htmlTitle": "<b>The Simpsons Predictions</b>: 30 Times the Fox Show Forecasted the ...",
+                "link": "https://www.hollywoodreporter.com/tv/tv-news/simpsons-future-predictions-accurate-1140775/",
+                "displayLink": "www.hollywoodreporter.com",
+                "snippet": "Jun 22, 2023 ... This is one of the few cases when The Simpsons not only made a prediction but actively contributed to events. A quick gag has bully Dolph\u00a0...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> This is one of the few cases when <b>The Simpsons</b> not only made a <b>prediction</b> but actively contributed to <b>events</b>. A quick gag has bully Dolph&nbsp;...",
+                "formattedUrl": "https://www.hollywoodreporter.com/.../simpsons-future-predictions-accurat...",
+                "htmlFormattedUrl": "https://www.hollywoodreporter.com/.../<b>simpsons</b>-future-<b>predictions</b>-accurat...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Ap78pQH_J0MHeR1afVeOBQ2ZwofZGXrxLnHfgZ0fuRExBK-wJwoX8zxc&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "st:robots": "index, follow",
+                            "comment_count": "0",
+                            "og:image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296&h=730&crop=1",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2023-06-22T17:38:00+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Hollywood Reporter",
+                            "title": "'The Simpsons': 31 Times the Fox Comedy Successfully Predicted the Future",
+                            "body": "Across 34 seasons and 750 episodes, Fox's The Simpsons, while serving as the foundation of modern comedy, has had many moments that have manifested themselves in real life. In a world where truth can often be stranger than fiction, things that writers pitched as jokes were able to, much like the late Poochie, elevate out of frame and make their way to a new dimension.\nThe Hollywood Reporter has culled together 31 episodes, plotlines and throwaway jokes that came to fruition in our three-dimensional world. So kick back in your Spinemelter 2000, grab your glass of Skittlebrau or Malk and enjoy!\n\nThe Donald Trump presidency (Season 11, Episode 17: \"Bart to the Future\")\nLet's start with the most widely circulated prediction. The second time The Simpsons took a peek into the future, Lisa has become president of the United States. In a cabinet meeting, she offhandedly mentions, \"We inherited quite the budget crunch from President Trump.\" It initially was a reference to Trump attempting a run as a Reform Party candi",
+                            "og:description": "From Super Bowl winners to Trump's presidency, the long-running animated series has an uncanny knack for foretelling events.",
+                            "twitter:image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296&h=730&crop=1",
+                            "twitter:site": "@thr",
+                            "content_type": "Article",
+                            "article:modified_time": "2023-06-27T22:11:53+00:00",
+                            "published_at": "2023-06-22 10:38:00",
+                            "image": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1024",
+                            "og:type": "article",
+                            "og:image:alt": "'The Simpsons'",
+                            "twitter:title": "\u2018The Simpsons\u2019: 31 Times the Fox Comedy Successfully Predicted the Future",
+                            "author": "Mike Bloom",
+                            "topics": "TV",
+                            "og:title": "\u2018The Simpsons\u2019: 31 Times the Fox Comedy Successfully Predicted the Future",
+                            "og:image:height": "577",
+                            "tags": "Fall TV Preview",
+                            "fragment": "!",
+                            "post_id": "1140775",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "From Super Bowl winners to Trump's presidency, the long-running animated series has an uncanny knack for foretelling events.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.hollywoodreporter.com/tv/tv-news/simpsons-future-predictions-accurate-1140775/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2018/09/simpsons_header-h_2018.jpg?w=1296&h=730&crop=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]..., Episode 10: \u201cHomer\u2019s Paternity Coot\u201d)**\nIn this episode, Homer believes a man named Mason Fairbanks to be his long-lost biological father. The two embark on an underwater adventure in individual submersibles to try and find the treasure in a sunken ship named \u201cPiso Mojado.\u201d But Homer gets stuck in coral and his oxygen levels keep dipping. He loses consciousness and wakes up three days later in a hospital. In June 2023, many fans noted the parallels with the real-life disappearance of an OceanGate submersible that was carrying five passengers who were on an adventure to see the ruins of the Titanic at the bottom of the Atlantic Ocean. The company lost contact with the submersible, which set out early June 19 with 96 hours of oxygen and still had not been located as of June 22.\nhttps://www.tiktok.com/@grandwizardchatnxggaa/video/7247292571700055302?embed\\_source=121352282%2C121351166%2C121331973%2C120811592%2C120810756%3Bnull%3Bembed\\_name&refer=embed&referer\\_url=www.newsweek.com%2Fsimpson-submersible-titanic-oceangate-predict-1808340&referer\\_video\\_id=7247292571700055302\n**Smartwatches (Season 6, Episode 19: \u201cLisa\u2019s Wedding\u201d)**\n\u201cLisa\u2019s Wedding\u201d was the show\u2019s first foray into the future, with several technology jokes in tow that ended up coming to fruition. For example, a botched wedding proposal from Lisa\u2019s boyfriend Hugh prompts him to call an audible by talking into his watch. In 2013, smartwatches with voice recognition first came out, saving relationships around the world.\n**Autocorrect (Season 6, Episode 8: \u201cLisa on Ice\u201d)**\nThis is one of the few cases when _The Simpsons_ not only made a prediction but actively contributed to events. A quick gag has bully Dolph writing the memo \u201cBeat up Martin\u201d on his Apple Newton. The text then translates to \u201cEat up, Martha,\u201d a clear crack at the PDA\u2019s poor handwriting recognition. , when Apple was working on the iPhone keyboard, employees knew that was the part they had to nail. They would even quote, \u201cEat up, Martha\u201d to each other to signal the feature\u2019s importance.\n**Stealing cooking...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Hollywood Reporter is a respected source in the entertainment industry, known for its news on films, television, and trends within the media. While it primarily covers entertainment, it also reports on associated issues, including popular culture phenomena like 'The Simpsons.' Its reporting tends to be accurate and well-researched, but it may not deeply analyze the intricacies of news outside of entertainment."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence specifically mentions the episode 'Homer's Paternity Coot' as containing a plot involving an underwater adventure with a character named Mason, which parallels the real-life incident of a submersible going missing near the Titanic site. It directly addresses the claim about an episode predicting the submersible incident, making it highly relevant."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "50 'The Simpsons' Predictions That Came True",
+                "htmlTitle": "50 &#39;<b>The Simpsons</b>&#39; <b>Predictions</b> That Came True",
+                "link": "https://collider.com/predictions-the-simpsons-came-true/",
+                "displayLink": "collider.com",
+                "snippet": "... events were predicted by The Simpsons writers at least five years before it happened. So, what did The Simpsons predict? Could it be that The Simpsons\u00a0...",
+                "htmlSnippet": "... <b>events</b> were <b>predicted</b> by <b>The Simpsons</b> writers at least five years before it happened. So, what did <b>The Simpsons predict</b>? Could it be that <b>The Simpsons</b>&nbsp;...",
+                "formattedUrl": "https://collider.com/predictions-the-simpsons-came-true/",
+                "htmlFormattedUrl": "https://collider.com/<b>predictions</b>-<b>the-simpsons</b>-came-true/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJG3YnvrHHU5fxCheCXqktNnGO5dfrWp4TfqvotcqUTttj4zgJ-w_cdT8&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/11/donald-trump-in-the-simpsons.jpeg",
+                            "og:type": "article",
+                            "og:image:width": "1400",
+                            "article:published_time": "2022-03-21T01:00:13Z",
+                            "article:section": "TV",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "50 'The Simpsons' Predictions That Came True",
+                            "og:site_name": "Collider",
+                            "og:title": "50 'The Simpsons' Predictions That Came True",
+                            "og:image:height": "700",
+                            "og:description": "From coronavirus to Lady Gaga's Super Bowl performance to the Apple Vision Pro, The Simpsons seem to have predicted everything in our future!",
+                            "twitter:creator": "@RyanHeffOhMan",
+                            "article:author": "Hannah Saab",
+                            "article:publisher": "https://www.facebook.com/collider",
+                            "twitter:image": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/11/donald-trump-in-the-simpsons.jpeg",
+                            "fb:app_id": "172826243054377",
+                            "twitter:site": "@collider",
+                            "article:modified_time": "2024-07-25T02:40:12Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "From coronavirus to Lady Gaga's Super Bowl performance to the Apple Vision Pro, The Simpsons seem to have predicted everything in our future!",
+                            "og:locale": "en_US",
+                            "og:url": "https://collider.com/predictions-the-simpsons-came-true/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/11/donald-trump-in-the-simpsons.jpeg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Movies Submenu Movie News Movie Features",
+                            "url": "Movies"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Are the writers time travelers, or are they related to Nostradamus?  never disappoints viewers with its eerie Simpsons predictions that ring true years later. _The Simpsons_ family is made up of several characters, but the main characters are Homer (voiced by **Dan Castellaneta**), Marge (voiced by **Julie Kavner**), Lisa (voiced by **Yeardley Smith**), Bart (voiced by **Nancy Cartwright**), and Maggie. Each episode is filled with the Simpsons family interacting with other residents of Springfield including guest stars that appeared in some episodes on _The Simpsons_. Yet what intrigues viewers is how some events were predicted by _The Simpsons_ writers at least five years before it happened.\nSo, what did _The Simpsons_ predict? Could it be that _The Simpsons_ really predicts world events or is the world just following _The Simpsons_ script? With the 35th season of the long-running sitcom recently concluding, fans saw a return of more creative, powerful, and witty storylines that are reminiscent of the beloved classic _Simpsons_ seasons. There's no doubt that the wild narratives from more recent seasons will be added to the growing _Simpsons_ predictions list, there's no telling exactly which ones will come true in the coming years. **The best _Simpsons_ predictions aren't just shocking, they're also often strange, funny, and somehow make sense all at the same time**.\n!\n##### The Simpsons\n50 The Shard\n------------\n### \"Lisa's Wedding\" - Season 6, Episode 19 (1995)\n!\nMany characters from fan-favorite  for its iconic sights, and _The Simpsons_ is no different. One of these trips comes with a strange prediction, as Lisa's future is predicted and a flash-forward portrays her meeting with a fellow university student named Hugh Parkfield during a trip to London.\nA blink-and-you'll-miss...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Collider is a well-known entertainment website that focuses on movie, TV, and pop culture news. It often features reviews and analysis but is less rigorous in journalistic standards compared to major news outlets. While it can provide accurate information regarding pop culture, it may not be the best source for verifying serious news claims or analyzing them critically."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-03-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "While this evidence discusses multiple predictions of 'The Simpsons,' it does not pinpoint the specific episode that allegedly predicted the submersible incident. However, it still contributes context about the show's history of making predictions, making it somewhat relevant."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "16 bizarre The Simpsons predictions that actually came true | The ...",
+                "htmlTitle": "16 bizarre <b>The Simpsons predictions</b> that actually came true | The ...",
+                "link": "https://www.independent.co.uk/arts-entertainment/tv/news/the-simpsons-predictions-came-true-b2577225.html",
+                "displayLink": "www.independent.co.uk",
+                "snippet": "Jul 10, 2024 ... Have no fears: The Simpsons has stories for years. The seminal cartoon created by Matt Groening is back in the headlines with the return of\u00a0...",
+                "htmlSnippet": "Jul 10, 2024 <b>...</b> Have no fears: <b>The Simpsons</b> has <b>stories</b> for years. The seminal cartoon created by Matt Groening is back in the headlines with the return of&nbsp;...",
+                "formattedUrl": "https://www.independent.co.uk/.../the-simpsons-predictions-came-true-b25...",
+                "htmlFormattedUrl": "https://www.independent.co.uk/.../<b>the-simpsons</b>-<b>predictions</b>-came-true-b25...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjeDWE1szGCrfZn06iQXLx09XIOyjvi_nDqXpyalUHgyvJGo3V77u593Y&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2024-07-10T09:02:06.000Z",
+                            "og:image": "https://static.independent.co.uk/2021/02/09/16/newFile-7.jpg?quality=75&width=1200&auto=webp",
+                            "article:published_time": "2024-07-10T09:02:06.000Z",
+                            "theme-color": "#f7f7f7",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Independent",
+                            "article:image_count": "5",
+                            "og:description": "From Trump's election to politicians eating fish from near a nuclear plant, here are some of the long-running cartoon's most uncanny predictions",
+                            "twitter:image": "https://static.independent.co.uk/2021/02/09/16/newFile-7.jpg?quality=75&width=1200&auto=webp",
+                            "og:image:secure_url": "https://static.independent.co.uk/2021/02/09/16/newFile-7.jpg?quality=75&width=1200&auto=webp",
+                            "article:embed_count": "5",
+                            "twitter:site": "@Independent",
+                            "article:modified_time": "2024-07-10T09:02:06.000Z",
+                            "twitter:player:stream": "https://cdn.jwplayer.com/videos/KKatyluE-640.mp4",
+                            "article:author_name": "Louis Chilton, Isobel Lewis",
+                            "sitename": "The Independent",
+                            "og:video:height": "360",
+                            "page type": "Article",
+                            "article:section": "Culture",
+                            "twitter:title": "16 bizarre The Simpsons predictions that actually came true",
+                            "og:type": "article",
+                            "page path": "/arts-entertainment/tv/news",
+                            "article:word_count": "1655",
+                            "article:video_count": "3",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:title": "16 bizarre The Simpsons predictions that actually came true",
+                            "og:updated_time": "2024-07-10T09:02:06.000Z",
+                            "fb:pages": "https://www.facebook.com/TheIndependentOnline",
+                            "og:video:width": "640",
+                            "fb:app_id": "235586169789578",
+                            "article:content_type": "story",
+                            "adpagetype": "Article Page",
+                            "article:internal_link_count": "14",
+                            "og:video": "https://cdn.jwplayer.com/videos/KKatyluE-LkahLqdO.mp4",
+                            "viewport": "width=device-width,initial-scale=1,user-scalable=no,minimum-scale=1,maximum-scale=1",
+                            "article:subsection": "TV & Radio",
+                            "twitter:description": "From Trump's election to politicians eating fish from near a nuclear plant, here are some of the long-running cartoon's most uncanny predictions",
+                            "og:locale": "en_GB",
+                            "category": "News",
+                            "og:url": "https://www.independent.co.uk/arts-entertainment/tv/news/the-simpsons-predictions-came-true-b2577225.html",
+                            "google-signin-client_id": "329250492844-uqochn2f1j5ljkshuap5gc7qphf1refj.apps.googleusercontent.com",
+                            "article:external_link_count": "1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.independent.co.uk/2021/02/09/16/newFile-7.jpg?quality=75&width=1200&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.independent.co.uk/arts-entertainment/tv/news/the-simpsons-predictions-came-true-b2577225.html: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.independent.co.uk/arts-entertainment/tv/news/the-simpsons-predictions-came-true-b2577225.html",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Independent is a legitimate news outlet with a long-standing history of providing news coverage across a wide range of topics, including current events, politics, culture, and environment. It generally adheres to high journalistic standards, with a commitment to factual reporting and analysis. It has been credited with exposing misinformation and fake news effectively."
+                },
+                "Newness": {
+                    "NewnessScore": 8,
+                    "Date": "2024-07-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence references 'The Simpsons' predictions broadly but lacks detailed information about a specific episode related to the submersible incident. It contributes some context but is not directly pertinent to the question."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "OPINION | 'The Simpsons' most notable predictions that actually ...",
+                "htmlTitle": "OPINION | &#39;<b>The Simpsons</b>&#39; most <b>notable predictions</b> that actually ...",
+                "link": "https://sunnewsdaily.com/stories/articles/2024/04/14/opinion-the-simpsons-most-notable-predictions-that-actually-came-true/",
+                "displayLink": "sunnewsdaily.com",
+                "snippet": "Apr 14, 2024 ... Whether it is due to pure luck or being time travelers, here is a list of times \u201cThe Simpsons\u201d predicted future events. Trump Becomes President.",
+                "htmlSnippet": "Apr 14, 2024 <b>...</b> Whether it is due to pure luck or being time travelers, here is a <b>list</b> of times \u201c<b>The Simpsons</b>\u201d <b>predicted</b> future <b>events</b>. Trump Becomes President.",
+                "formattedUrl": "https://sunnewsdaily.com/.../opinion-the-simpsons-most-notable-predictions...",
+                "htmlFormattedUrl": "https://sunnewsdaily.com/.../opinion-<b>the-simpsons</b>-most-<b>notable</b>-<b>predictions</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_RP-D_J-XfNt1X4CnsOP31rz_w_p5rxKvJkRKNQxY4jhYevM_B9shue0&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1",
+                            "msapplication-tileimage": "https://sunnewsdaily.com/wp-content/uploads/2022/02/cropped-favicon-270x270.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://sunnewsdaily.com/wp-content/uploads/2022/01/FinalLogo12.3.201-01.svg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n\u201cThe Simpsons\u201d is an animated sitcom for Fox Broadcasting Company created by Matt Groening. Since the show\u2019s debut in 1989, episodes have predicted countless events such as the pandemic, Donald Trump\u2019s presidency and Lady Gaga\u2019s halftime show, years before they happened, providing viewers with an imaginative view into the future. Emily Vanmiddendorp | Sun News Daily\nA glimpse into the future or a stunning coincidence?\nThe American animated sitcom, \u201c,\u201d has aired episodes that follow the adventures of a family in Springfield, Oregon since 1989. With currently 762 episodes, this series has portrayed scenes of Homer visiting  all the way to adding a  to the town.\nHowever, what really is captivating is the amount of times \u201cThe Simpsons\u201d have predicted an event that then occurred years later. Whether it is due to pure luck or being time travelers, here is a list of times \u201cThe Simpsons\u201d predicted future events.\n**Trump Becomes President**\nOne of the most famous instances of the future being predicted is in season 11, episode 17, \u201c,\u201d where Trump was the former president. In this episode, Bart is shown a glimpse of 30 years into the future, where Lisa is elected president. She comments on how she succeeded Donald Trump in office.\nThis episode aired in 2000, and then 17 years later Donald Trump became president. Given how Trump is pretty open to stating his views and opinions, it would not surprise me if this mention of him being president was based on comments he made back then.\n]\n!\nSeen above is the  of Trump riding an escalator while making similar poses.\nTrump was also seen in a later episode riding an escalator. A couple of years later, a similar photo was taken of him. While riding an escalator is a fairly common thing, it is crazy that the photo between the show and reality is so similar to the hand-raised waving.\n**Pandemic**\nOne episode predicted many events that occurred in 2020. In 1993, the episode \u201c\u201d was released and showed a viral outbreak of a flu called the \u201cOsaka Flu\u201d that made its way...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Sun News Daily is less well-known and may operate with less oversight than more established news outlets. It has been criticized in the past for sensationalism and lack of rigorous reporting standards, which leads to questions about its reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-04-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "Similar to evidence2, this mentions various predictions without addressing the specific episode related to the Titanic submersible incident. It provides background on predictions in 'The Simpsons,' but relevance to the claim is limited."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The definitive list of everything The Simpsons predicted that ...",
+                "htmlTitle": "The definitive <b>list</b> of everything <b>The Simpsons predicted</b> that ...",
+                "link": "https://www.joe.co.uk/entertainment/the-definitive-list-of-everything-the-simpsons-predicted-that-shockingly-came-true-2-371790",
+                "displayLink": "www.joe.co.uk",
+                "snippet": "Dec 25, 2022 ... Younger generations might not be familiar with Siegfried and Roy but the famous Las Vegas magicians and entertainers were pretty big back in the\u00a0...",
+                "htmlSnippet": "Dec 25, 2022 <b>...</b> Younger generations might not be familiar with Siegfried and Roy but the <b>famous</b> Las Vegas magicians and entertainers were pretty big back in the&nbsp;...",
+                "formattedUrl": "https://www.joe.co.uk/.../the-definitive-list-of-everything-the-simpsons-pre...",
+                "htmlFormattedUrl": "https://www.joe.co.uk/.../the-definitive-<b>list</b>-of-everything-<b>the-simpsons</b>-pre...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVugXGBG0yRqPf9MxKOrYMDxZuerotgzILekT_o6DDqHMdOpB9CmIrt7o&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://m0.joe.co.uk/wp-content/uploads/2021/12/13141717/all-the-times-the-simpsons-predicted.png",
+                            "og:type": "article",
+                            "article:published_time": "2022-12-25T17:33:56+00:00",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The definitive list of everything The Simpsons predicted that shockingly came true",
+                            "og:site_name": "JOE.co.uk",
+                            "author": "Danny Jones",
+                            "og:title": "The definitive list of everything The Simpsons predicted that shockingly came true",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://dus09vr7ngt46.cloudfront.net/uploads/2023/03/favicon.ico",
+                            "og:description": "It feels like The Simpsons has been telling the future ever since it aired. Maybe it has? Here's our definitive list of bang on Simpsons predictions.",
+                            "twitter:creator": "@DannehJones",
+                            "article:publisher": "https://www.facebook.com/www.JOE.co.uk",
+                            "twitter:image": "https://m0.joe.co.uk/wp-content/uploads/2021/12/13141717/all-the-times-the-simpsons-predicted.png",
+                            "twitter:data1": "Danny Jones",
+                            "twitter:data2": "12 minutes",
+                            "twitter:site": "@JOE_co_uk",
+                            "article:modified_time": "2022-12-25T17:36:51+00:00",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.joe.co.uk/entertainment/the-definitive-list-of-everything-the-simpsons-predicted-that-shockingly-came-true-2-371790"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://m0.joe.co.uk/wp-content/uploads/2021/12/13141717/all-the-times-the-simpsons-predicted.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\u2018_Simpsons_ did it\u2019\n-------------------\nHave you ever stopped and wondered how many times\u00a0__ have predicted the future? Well, if you haven\u2019t, it\u2019s a lot. And they\u2019ve been right about things that, at the time of airing, seemed so wrong. So wrong they were hilarious. Like, about a former reality TV star becoming the President of the United States. Sigh.\nThe predictions ring true so often these days that you really do start to wonder if we\u2019re all living a simulation. Would that make  Morpheus or the ? Never mind.\nRegardless, there has been a number of theories that _The Simpsons_ predicted, from  a decade prior and  to .\nWe spotted a few examples back in , but there have been so many more since, so we\u2019ve had to raise the bar on what we consider freaky-good fortune-telling.\nSo, after much deliberation, here is \u2018s definitive list of _Simpsons_ predictions (for now). We\u2019re sure we\u2019ll be updating this in no time at all\u2026\n### Donald Trump becoming US President (**Season 11, Episode 17: \u2018Bart to the Future\u2019 \u2013 2000)**\nNaturally, we have to start with the one we all wish didn\u2019t come true:  winning the US Presidency. Not only did the show predict this more than 15 years before he was elected in 2016, but they even  when he announced his candidacy.\nMany have even highlighted that \u2018s appearance is strikingly similar to the current VP,  \u2013 but we\u2019re going to go ahead and believe this was more just an attempt to make her look somewhat stately. Still a pretty striking resemblance though.\n### Disney buying 20th Century Fox (Season 10, Episode 5: \u2018When You Dish Upon a Star\u2019 \u2013 1998)",
+                    "content_tokens": 381
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Joe.co.uk is a digital media platform that focuses on a variety of topics, particularly in sports and culture. While it provides engaging content and some factual reporting, it doesn't always follow stringent journalistic practices, which can lead to occasional inaccuracies."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-12-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence provides a general overview of predictions from 'The Simpsons' but does not relate specifically to the submersible incident or the relevant episode. It is minimally helpful in addressing the claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "What has been the most iconic 'Simpsons predicted it' moment for ...",
+                "htmlTitle": "What has been the most iconic &#39;<b>Simpsons predicted</b> it&#39; moment for ...",
+                "link": "https://www.reddit.com/r/TheSimpsons/comments/1b7bczv/what_has_been_the_most_iconic_simpsons_predicted/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 5, 2024 ... About the Siegfried and Roy incident in the commentary, David Mirkin said (paraphrasing) \"Now, who DIDN'T predict that was going to happen?\".",
+                "htmlSnippet": "Mar 5, 2024 <b>...</b> About the Siegfried and Roy <b>incident</b> in the commentary, David Mirkin said (paraphrasing) &quot;Now, who DIDN&#39;T <b>predict</b> that was going to happen?&quot;.",
+                "formattedUrl": "https://www.reddit.com/.../TheSimpsons/.../what_has_been_the_most_iconi...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>TheSimpsons</b>/.../what_has_been_the_most_iconi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0zsP4KN9iE-nl18l5GInBIrNZmutO6rdmxh8HhjQAzagvdoGnXMZA19Y&s",
+                            "width": "263",
+                            "height": "192"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/what-has-been-the-most-iconic-simpsons-predicted-it-moment-v0-t4horkx5yjmc1.jpeg?auto=webp&s=d90c9bf6b84e294d58696e48bfa7862b0f02edc2",
+                            "theme-color": "#000000",
+                            "og:image:width": "728",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/TheSimpsons on Reddit: What has been the most iconic 'Simpsons predicted it' moment for you?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/TheSimpsons on Reddit: What has been the most iconic 'Simpsons predicted it' moment for you?",
+                            "og:image:height": "532",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/PAUMiklo - 1,168 votes and 284 comments",
+                            "twitter:image": "https://preview.redd.it/what-has-been-the-most-iconic-simpsons-predicted-it-moment-v0-t4horkx5yjmc1.jpeg?auto=webp&s=d90c9bf6b84e294d58696e48bfa7862b0f02edc2",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/TheSimpsons/comments/1b7bczv/what_has_been_the_most_iconic_simpsons_predicted/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/what-has-been-the-most-iconic-simpsons-predicted-it-moment-v0-t4horkx5yjmc1.jpeg?auto=webp&s=d90c9bf6b84e294d58696e48bfa7862b0f02edc2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a platform that hosts a multitude of community-driven discussions and information sharing. Because the content is user-generated, its reliability and accuracy can vary greatly. While some subreddits are dedicated to fact-checking and serious topics, the overall platform can also propagate misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-03-05"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses iconic predictions from 'The Simpsons' but fails to relate to the specific episode in question concerning the submersible incident, offering little relevance overall."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Is it true that The Simpson's show predicts a lot of events that ...",
+                "htmlTitle": "Is it true that <b>The Simpson&#39;s</b> show <b>predicts</b> a lot of <b>events</b> that ...",
+                "link": "https://www.quora.com/Is-it-true-that-The-Simpson-s-show-predicts-a-lot-of-events-that-happen-in-real-life",
+                "displayLink": "www.quora.com",
+                "snippet": "Apr 26, 2020 ... Technically, the show doesn't predict anything, it writes wacky stories. Matt Groening said that he never thought Trump would be president\u00a0...",
+                "htmlSnippet": "Apr 26, 2020 <b>...</b> Technically, the show doesn&#39;t <b>predict</b> anything, it writes wacky <b>stories</b>. Matt Groening said that he never thought Trump would be president&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Is-it-true-that-The-Simpson-s-show-predicts-a-lot-o...",
+                "htmlFormattedUrl": "https://www.quora.com/Is-it-true-that-The-Simpson-s-show-predicts-a-lot-o...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaIFpZdY1qSodjtNLtG7HjNWqku0up0XQlsObTlevdAoB3fehPzv0ktY&s",
+                            "width": "264",
+                            "height": "191"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Is-it-true-that-The-Simpson-s-show-predicts-a-lot-of-events-that-happen-in-real-life#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FIs-it-true-that-The-Simpson-s-show-predicts-a-lot-of-events-that-happen-in-real-life&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://qph.cf2.quoracdn.net/main-qimg-e491b6409bcc2d3fe2684e67781b6c04-pjlq"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Is it true that The Simpson\u2019s show predicts a lot of events that happen in real life?\nIs it true The Simpson\u2019s show predicts a lot of events that happen in real life?\nNo.\nThey've made the odd ridiculous gag that has turned out to be prescient, like in a view of the future, Trump having been President before Lisa. The gag was probably made because it was ridiculous and his vanity was well known, having already faltered in an attempt to run. This supposed reputation for prediction though, generally comes from the mentally defective world of paranoid conspiracy fantasists, usually in the form of what they refer to as \u2018predictive programming', a delusion in itself (), that appears to combine supernatural prophecy (if some claims are to be taken seriously), along with dark, shadowy powers and some dumb shit about normalising nefarious acts in the public consciousness, before they happen, to acclimatize the public.\nSome of the instances are simply a result of gullible ignorance, the prime speciality of conspiracy fantasists. Others are completely fabricated.\nGullible Ignorance. Both appeared after the real world events that inspired them.\n!\n!\nFabricated.\nSometimes images are deliberately faked.\n!\nSometimes incredibly poorly, but that's good enough to fool a conspiracy nut.\n!\n!\nNo.\nHere is one example people...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer site with user-generated content, meaning the accuracy of information can be highly variable depending on who answers the queries. While some expert opinions are shared, there is no strict verification of the information, which raises concern for reliability and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-04-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence includes a general discussion about 'The Simpsons' and its predictions but does not relate to the episode regarding the submersible incident. It has low relevance to the specific question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "10 Simpsons Predictions That Came True (& How Many Years Later)",
+                "htmlTitle": "10 <b>Simpsons Predictions</b> That Came True (&amp; How Many Years Later)",
+                "link": "https://screenrant.com/simpsons-predictions-came-true-when/",
+                "displayLink": "screenrant.com",
+                "snippet": "Jun 23, 2023 ... However, all of these stories were equally striking in their close similarity to the show's plots and gags. 10 Serving Horse Meat. The Simpsons\u00a0...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> However, all of these <b>stories</b> were equally striking in their close similarity to the show&#39;s plots and gags. 10 Serving Horse Meat. <b>The Simpsons</b>&nbsp;...",
+                "formattedUrl": "https://screenrant.com/simpsons-predictions-came-true-when/",
+                "htmlFormattedUrl": "https://screenrant.com/<b>simpsons</b>-<b>predictions</b>-came-true-when/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiqnAOzTCc5SUuM46uPXb8rnq_cLCLWmarn7PzOLixkjiYcZrDTNXG3d4&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/simpsons_predictions.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1400",
+                            "article:published_time": "2023-06-23T12:08:16Z",
+                            "article:section": "TV",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "10 Simpsons Predictions That Came True (& How Many Years Later)",
+                            "og:site_name": "ScreenRant",
+                            "og:title": "10 Simpsons Predictions That Came True (& How Many Years Later)",
+                            "og:image:height": "700",
+                            "og:description": "When the predictions of The Simpsons came true.",
+                            "article:author": "Cathal Gunning",
+                            "article:publisher": "https://www.facebook.com/ScreenRant",
+                            "twitter:image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/simpsons_predictions.jpg",
+                            "fb:app_id": "822150531210883",
+                            "twitter:site": "@screenrant",
+                            "article:modified_time": "2023-06-23T12:08:16Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "When the predictions of The Simpsons came true.",
+                            "og:locale": "en_US",
+                            "og:url": "https://screenrant.com/simpsons-predictions-came-true-when/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/06/simpsons_predictions.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Movies Submenu Movie Features Movie News Movie Reviews Movie Lists Movie Trailers",
+                            "url": "Movies"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... future, a lot of viewers may still be surprised to see just how much the series has gotten right over the years. In 2002, _South Park_ season 6, episode 7, \u201cSimpsons Already Did It,\u201d aired. The episode saw Butters attempt to come up with a novel way to take over the planet, only to repeatedly discover that all of his plans had already been explored in _The Simpsons_. Meta-textually, \u201cSimpsons Already Did It\u201d was inspired by the frustration that _South Park_ co-creators Matt Stone and Trey Parker often felt when exploring new episode ideas.\nIn the years that followed, \u201c_Simpsons already did it_\" became a common cry as an increasing number of surreally specific predictions from the long-running animated comedy came true. While  and clever comedy writing, the show is equally infamous for seemingly predicting events before they occur. Some of these predictions came only a year or two before the event in question. Others arrived decades before the relevant headlines implied reality itself was plagiarizing storylines from _The Simpsons_. However, all of these stories were equally striking in their close similarity to the show\u2019s plots and gags.\n10 Serving Horse Meat\n---------------------\n!\nIn _The Simpsons_ season 5, episode 19, \u201cSweet Seymour Skinner's Baadasssss Song,\u201d Lunchlady Doris serves the school children food from a drum ominously labeled \u201c_assorted horse parts_.\u201d Nineteen years after this 1994 episode aired, UK outlets reported that a significant chunk of the country\u2019s beef supply was tainted with horse meat. While this _Simpsons_ joke became funnier 20 years later, it was not the only weird food prediction in the series. Lunchlady Doris also used gym mats as a meat substitute in another episode, which seemingly predicted the controversy over Subway using azodicarbonamide to keep the sandwich chain\u2019s bread springy.\n9 Radioactive Food Goes Global\n------------------------------\n!\nIn season 2, episode 4, \u201cTwo Cars in Every Garage and Three Eyes on Every Fish,\u201d Marge serves Mr. Burns, a three-eyed mutated fish, as the villain campaigns for governor. The horrifying sight of a blatantly mutated fish sitting in from of him leads Burns to tank his campaign. Disgusted, he finally admits that his plant\u2019s pollution is causing a catastrophe, thus ruining his political career. Thirty-two years later, in 2022, the UK\u2019s Food Standard Authority got rid of a rule limiting the levels of acceptable radioactivity in foodst...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Screen Rant provides news, reviews, and commentary on various aspects of television and movies, including 'The Simpsons.' It is generally well-researched, though it sometimes prioritizes entertainment value over hard news."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence references a list of predictions but does not provide specific information on the episode concerning the Titanic submersible incident. It contributes some context but lacks direct relevance."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Do you think Simpson's prediction will always be real? Why? - Quora",
+                "htmlTitle": "Do you think <b>Simpson&#39;s prediction</b> will always be real? Why? - Quora",
+                "link": "https://www.quora.com/Do-you-think-Simpson-s-prediction-will-always-be-real-Why",
+                "displayLink": "www.quora.com",
+                "snippet": "Feb 29, 2024 ... Of course not. You're just looking at things in a very specific way. The favorite one was how Lisa became president after Trump.",
+                "htmlSnippet": "Feb 29, 2024 <b>...</b> Of course not. You&#39;re just looking at things in a very specific way. The favorite one was how Lisa became president after Trump.",
+                "formattedUrl": "https://www.quora.com/Do-you-think-Simpson-s-prediction-will-always-be...",
+                "htmlFormattedUrl": "https://www.quora.com/Do-you-think-Simpson-s-prediction-will-always-be...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDaIFpZdY1qSodjtNLtG7HjNWqku0up0XQlsObTlevdAoB3fehPzv0ktY&s",
+                            "width": "264",
+                            "height": "191"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Do-you-think-Simpson-s-prediction-will-always-be-real-Why#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FDo-you-think-Simpson-s-prediction-will-always-be-real-Why&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://qph.cf2.quoracdn.net/main-qimg-e491b6409bcc2d3fe2684e67781b6c04-pjlq"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Do you think Simpson\u2019s prediction will always be real? Why? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nDo you think Simpson\u2019s prediction will always be real? Why?",
+                    "content_tokens": 56
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Quora is a question-and-answer site with user-generated content, meaning the accuracy of information can be highly variable depending on who answers the queries. While some expert opinions are shared, there is no strict verification of the information, which raises concern for reliability and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence involves a general discussion about whether 'The Simpsons' predictions are always accurate without specific mention of the submersible incident or relevant episodes. Its contribution to the current question is minimal."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "'the Simpsons': Every Time the Show Predicted the Future ...",
+                "htmlTitle": "&#39;<b>the Simpsons</b>&#39;: Every Time the Show <b>Predicted</b> the Future ...",
+                "link": "https://www.businessinsider.com/the-simpsons-is-good-at-predicting-the-future-2016-11",
+                "displayLink": "www.businessinsider.com",
+                "snippet": "Mar 26, 2024 ... From Trump becoming president to a Cypress Hill collaboration with the London Symphony Orchestra, here are the predictions that actually\u00a0...",
+                "htmlSnippet": "Mar 26, 2024 <b>...</b> From Trump becoming president to a Cypress Hill collaboration with the London Symphony Orchestra, here are the <b>predictions</b> that actually&nbsp;...",
+                "formattedUrl": "https://www.businessinsider.com/the-simpsons-is-good-at-predicting-the-fut...",
+                "htmlFormattedUrl": "https://www.businessinsider.com/<b>the-simpsons</b>-is-good-at-predicting-the-fut...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV1qs2Rj84kmaIphUYAo0-P6kianj2f1ep-08-XCpcSM8_yILiJCTSf0&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://i.insider.com/62fb74a0d3535b001991b53f?width=700",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc3927021b4c7f97053722",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc193c021b4c0e3c0d9da3",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc1e3d021b4c7a751edfd2",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/62fa3a4af16a0d0018e67f29",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd32b3021b4c0700173e98",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/62fa31dff16a0d0018e67ed1",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd437f021b4c0879266f75",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd44eb021b4c0ab77b7705",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc1fc2021b4c0535313f24",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc25b3021b4c7ce258a5eb",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/6602a5dd16bde8d4ead2151c",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd473a021b4c0b220cc604",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd47d0021b4c08c57ae606",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5a32a3d74aa6b5bc198b4bdf",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/52ebff3c6da8116e7b22d1e9",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/55bb969e2acae7c7018bbd3a",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/62fa3eeff16a0d0018e67f9f",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc27c6021b4c73ec7d4cb8",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd488e021b4c08d343f405",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd49c5021b4c07044be0c2",
+                            "credittext": "20th Century Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdd4a4a021b4c3c144c8984",
+                            "credittext": "FOX / YouTube"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/65c2616243bb77284ba40b2c",
+                            "credittext": "Fox"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5cdc13c3021b4c67bf1ea3f3",
+                            "credittext": "Fox"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.insider.com/57c854a0dd089519208b46e1?width=1200&format=jpeg",
+                            "apple-itunes-app": "app-id=554260576",
+                            "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2023-11",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "sailthru.tags": "Features, Trump, The Simpsons, Donald J. Trump, Higgs-Boson, Game of Thrones, Jason Guerrasio",
+                            "og:site_name": "Business Insider",
+                            "apple-mobile-web-app-title": "Business Insider",
+                            "title": "23 times 'The Simpsons' accurately predicted the future",
+                            "og:description": "From Trump becoming president to a Cypress Hill collaboration with the London Symphony Orchestra, here are the predictions that actually came true.",
+                            "article:publisher": "businessinsider",
+                            "mrf:tags": "Page Type:slideshow",
+                            "datemodified": "2024-03-26T17:12:31Z",
+                            "news_keywords": "Entertainment, Trump, Game of Thrones",
+                            "sailthru.title": "23 times 'The Simpsons' accurately predicted the future",
+                            "mrf:sections": "Entertainment",
+                            "datepublished": "2024-03-26T17:12:31Z",
+                            "sailthru.verticals": "entertainment",
+                            "sailthru.date": "2024-03-26",
+                            "og:type": "article",
+                            "author": "Jason Guerrasio",
+                            "tbi-vertical": "Entertainment",
+                            "og:title": "23 times 'The Simpsons' accurately predicted the future",
+                            "sailthru.image.thumb": "https://i.insider.com/57c8399f09d29358008b5961?width=160&format=jpeg",
+                            "fb:pages": "20446254070",
+                            "sailthru.description": "From Trump becoming president to a Cypress Hill collaboration with the London Symphony Orchestra, here are the predictions that actually came true.",
+                            "linkedin:owner": "mid:1d5f7b",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.businessinsider.com/the-simpsons-is-good-at-predicting-the-future-2016-11",
+                            "sailthru.author": "Jason Guerrasio",
+                            "sailthru.image.full": "https://i.insider.com/57c8399f09d29358008b5961?width=1200&format=jpeg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.insider.com/57c854a0dd089519208b46e1?width=1200&format=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...eb8e4b36b1349ed)\nHorse parts in \"The Simpsons.\" 20th Century Fox\nIn 1994, Lunchlady Doris used \"assorted horse parts\"\u00a0to make lunch for students at Springfield Elementary.\nNine years later, the Food Safety Authority of Ireland \u00a0in over one-third of beefburger samples from supermarkets and ready meals, and pig in 85% of them.\nAutocorrect \u2014 Season 6, Episode 8\n---------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\nAutocorrect in \"The Simpsons.\" 20th Century Fox\nSchool bullies Kearny and Dolph take a memo to \"beat up Martin\" on a Newton device in an episode of \"The Simpsons\" that aired in 1994. The memo gets quickly translated to \"eat up Martha\" \u2014 an early foreshadowing of autocorrect frustrations.\n\"The Simpsons\" was lampooning Apple's underwhelming Newton \u2014 the iPhone's ancient ancestor \u2014 that had just been released, and included shoddy handwriting recognition, .\nNitin Ganatra, former director of engineering iOS applications at Apple, told Fast Company that this particular moment on \"The Simpsons\" served as inspiration to get the iPhone keyboard right.\nSmartwatches \u2014 Season 6, Episode 19\n-----------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\nA smartwatch used on \"The Simpsons.\" 20th Century Fox\n\"The Simpsons\" introduced the idea of a watch you could use as a phone in an episode aired in 1995, nearly 20 years before the Apple Watch was released.\nThe invention of The Shard \u2014 Season 6, Episode 19\n-------------------------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\nThe Shard in \"The Simpsons.\" 20th Century Fox\nThe \"Lisa's Wedding\" episode from 1995 came with a lot of unexpected predictions. During Lisa's trip to London, we see a skyscraper behind Tower Bridge that looks eerily similar to The Shard, and it's is even in the right location.\n, 14 years later.\nRobotic librarians \u2014 Season 6, Episode 19\n-----------------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef141...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Business Insider is a reputable source for news and analysis, particularly in business, tech, and finance. It offers well-researched articles, often backed by data and interviews with experts. Its good track record for accurate reporting and ability to spot misinformation earns it a score of 8."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-03-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "Although it references predictions that came true in 'The Simpsons,' it does not connect directly to the episode supposedly related to the submersible incident. Its relevance is limited to broader context."
+                }
+            }
+        }
+    ]
+}

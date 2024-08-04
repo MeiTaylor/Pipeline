@@ -1,0 +1,644 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - speakers at neo-Nazi gatherings 2023",
+                "totalResults": "326000",
+                "searchTerms": "speakers at neo-Nazi gatherings 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - speakers at neo-Nazi gatherings 2023",
+                "totalResults": "326000",
+                "searchTerms": "speakers at neo-Nazi gatherings 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.330507,
+        "formattedSearchTime": "0.33",
+        "totalResults": "326000",
+        "formattedTotalResults": "326,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Canada's House speaker steps down after inviting Nazi veteran to ...",
+                "htmlTitle": "Canada&#39;s House <b>speaker</b> steps down after inviting <b>Nazi</b> veteran to ...",
+                "link": "https://www.npr.org/2023/09/27/1201951754/canadas-house-speaker-steps-down-after-inviting-nazi-veteran-parliament",
+                "displayLink": "www.npr.org",
+                "snippet": "Sep 27, 2023 ... Russian President Vladimir Putin has painted his enemies in Ukraine as \"neo-Nazis,\" although Zelenskyy is Jewish and lost relatives in the ...",
+                "htmlSnippet": "Sep 27, 2023 <b>...</b> Russian President Vladimir Putin has painted his enemies in Ukraine as &quot;<b>neo</b>-<b>Nazis</b>,&quot; although Zelenskyy is Jewish and lost relatives in the&nbsp;...",
+                "formattedUrl": "https://www.npr.org/2023/.../canadas-house-speaker-steps-down-after-inviti...",
+                "htmlFormattedUrl": "https://www.npr.org/<b>2023</b>/.../canadas-house-speaker-steps-down-after-inviti...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3IFIjDooJev_A37dJbPFzedxo8j2l2FM8T3ekjq8i9BRNSqSBC0hE_Ara&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2023-09-27",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/2023/09/27/1201951754/canadas-house-speaker-steps-down-after-inviting-nazi-veteran-parliament",
+                            "og:image": "https://media.npr.org/assets/img/2023/09/27/ap23268533576965_wide-7b769beb36c9d0d85ef5ee709d60880acb2b8b42.jpg?s=1400&c=100&f=jpeg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Canada's House speaker has stepped down after inviting a Nazi veteran to Parliament",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2023-09-27T01:52:50-04:00",
+                            "og:title": "Canada's House speaker has stepped down after inviting a Nazi veteran to Parliament",
+                            "rating": "General",
+                            "og:description": "Just after Ukrainian President Zelenskyy gave an address in the House of Commons, Canadian lawmakers gave 98-year-old Yaroslav Hunka a standing ovation when the House speaker drew attention to him.",
+                            "fb:pages": "10643211755",
+                            "twitter:image:src": "https://media.npr.org/assets/img/2023/09/27/ap23268533576965_wide-7b769beb36c9d0d85ef5ee709d60880acb2b8b42.jpg?s=1400&c=100&f=jpeg",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "The Associated Press",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/2023/09/27/1201951754/canadas-house-speaker-steps-down-after-inviting-nazi-veteran-parliament",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.npr.org/assets/img/2023/09/27/ap23268533576965_wide-7b769beb36c9d0d85ef5ee709d60880acb2b8b42.jpg?s=1400&c=100&f=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of Ukrainian President Volodymyr Zelenskyy in the House of Commons in Ottawa, Onatario on Friday, Sept. 22, 2023.\nPatrick Doyle/AP\nCanadian Health Minister Mark Holland had called the incident \"incredibly embarrassing.\"\nThe Friends of Simon Wiesenthal Center for Holocaust Studies said in a statement that the incident \"has left a stain on our country's venerable legislature with profound implications both in Canada and globally.\"\n\"This incident has compromised all 338 Members of Parliament and has also handed a propaganda victory to Russia, distracting from what was a momentously significant display of unity between Canada and Ukraine. It has also caused great pain to Canada's Jewish community, Holocaust survivors, veterans and other victims of the Nazi regime.\"\nIn an earlier apology on Sunday, Rota said he alone was responsible for inviting and recognizing Hunka, who is from the district that Rota represents. The speaker's office said it was Hunka's son who contacted Rota's local office to see if it was possible if he could attend Zelenskyy's speech.\nThe prime minister's office said it was unaware that Hunka was invited until after the address. The speaker's office also confirmed it did not share its invite list with any other party or group. The vetting process for visitors to the gallery is for physical security threats, not reputational threats, the speaker's office said.\nIn Moscow, a Kremlin spokesman said it was \"outrageous\" that Hunka received a standing ovation.\nRussian President Vladimir Putin has painted his enemies in Ukraine as \"neo-Nazis,\" although Zelenskyy is Jewish and lost relatives in the Holocaust.\n\"It's highly unfortunate and the only winner here is the Putin regime, which is already spinning what happened on Friday to justify its ongoing military actions in Ukraine,\" said Daniel Béland, a political science professor at McGill University in Montreal,\nThe opposition Conservatives in Canada have blamed Prime Minister Justin Trudeau, but Béland noted that the speaker's role in Canada is as an officer of Parliament who does not participate in partisan caucus meetings and is not a member of the Cabinet.\n\"Canada's reputation is broken. This is by far the biggest hit Canada's diplomatic reputation has ever taken under in history and it happened under Justin Trudeau's watch,\" Opposition Conservative leader Pierre Poilievre said.\nPoilievre said everyone in the House of Commons on Friday should have been vetted with Zelenskyy in attendance.\nRobert Bothwell, a historian and professor at the University of Toronto, called Rota clueless for...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Videos Show Neo-Nazis Marching in Florida, Chants of 'We Are ...",
+                "htmlTitle": "Videos Show <b>Neo</b>-<b>Nazis</b> Marching in Florida, Chants of &#39;We Are ...",
+                "link": "https://www.newsweek.com/nazis-marching-florida-chants-1824219",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Sep 3, 2023 ... Neo Nazis in Florida. Christopher \"Hammer\" Pohlhaus (center) leads a rally of neo-Nazi groups September 2, 2023, in Orlando, Florida. An event ...",
+                "htmlSnippet": "Sep 3, 2023 <b>...</b> <b>Neo Nazis</b> in Florida. Christopher &quot;Hammer&quot; Pohlhaus (center) leads a <b>rally</b> of <b>neo</b>-<b>Nazi groups</b> September 2, <b>2023</b>, in Orlando, Florida. An <b>event</b>&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/nazis-marching-florida-chants-1824219",
+                "htmlFormattedUrl": "https://www.newsweek.com/nazis-marching-florida-chants-1824219",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Coiqg2nuOMdbKXvBgvu9SrzHlarabzd0XfCPq7TPwjqM73gwL3vg6gS8&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2277629/neo-nazis-florida.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2160",
+                            "article:published_time": "2023-09-03T06:49:42-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/nazis-marching-florida-chants-1824219",
+                            "og:description": "Videos have been posted on social media of far-right activist Laura Loomer, who is Jewish, being harassed by right-wing activists.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2277629/neo-nazis-florida.webp?w=1600&h=900&q=88&f=f476d47f1b91d59dd4622a4e8dd3da1b",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-09-03T06:49:42-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Neo Nazis in Florida",
+                            "article:section": "News",
+                            "twitter:title": "Videos how neo-Nazis marching in Florida, chants of \"we are everywhere\"",
+                            "og:title": "Videos how neo-Nazis marching in Florida, chants of \"we are everywhere\"",
+                            "og:image:height": "1440",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Neo nazis",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Videos have been posted on social media of far-right activist Laura Loomer, who is Jewish, being harassed by right-wing activists.",
+                            "og:url": "https://www.newsweek.com/nazis-marching-florida-chants-1824219"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2277629/neo-nazis-florida.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...-Nazis Marching in Florida, Chants of 'We Are Everywhere'\n========================================================================\n**Published** Sep 03, 2023 at 6:49 AM EDT\nBy \nU.S. News Reporter\nShare\nCopy Link\n✓ Link copied to clipboard!\nNeo-Nazis have marched across a Florida town giving fascist salutes and chanting \"We are everywhere.\"\nA series of videos uploaded to X, formerly , this weekend showed dozens of people dressed as Nazis shouting racist abuse in Altamonte Springs in north Orlando on Saturday, September 2.\nA video shared by Florida Rep. Anna V. Eskamani said it was filmed in Cranes Roost Park in the center of the town. Another series of clips uploaded to X by journalist Oliya Scootercaster shows men dressed in red and black giving Nazi salutes on an overpass, although it was not clear if the groups were connected.\n!\nChristopher \"Hammer\" Pohlhaus (center) leads a rally of neo-Nazi groups September 2, 2023, in Orlando, Florida. An event labeled the \"Red Shirts March\" attracted about 100 people at the weekend. Christopher \"Hammer\" Pohlhaus (center) leads a rally of neo-Nazi groups September 2, 2023, in Orlando, Florida. An event labeled the \"Red Shirts March\" attracted about 100 people at the weekend. Getty\nThe footage also contained several instances of racist speech and harassment toward Jewish people and anti-racists.\nIn videos uploaded to X, white supremacist and Goyim Defense League (GDL) founder Jon Minadeo II and the leader of neo-Nazi group Blood Tribe, Christopher Pohlhaus, were present. Among the racist stunts carried out by the pair in the past is a recording of  at the gates of the former Nazi death camp Auschwitz last year.\n> Nazis in Altamonte Springs at Cranes Roost Park screaming “we are every where” — absolutely disgusting stuff and another example of the far right extremism growing in FL. \n> \n> — Rep. Anna V. Eskamani 🔨 (@AnnaForFlorida) \nIn the footage, some members of the group said they supported President  over his support for Ukraine and, by extension, the neo-Nazi Azov Battalion, while another group was heard saying he supported Florida Gov. , although he backtracked on the statement later.\nNeo-Nazis and other white supremacist groups have a history of trolling and paradoxically endorsing causes they do not agree with, including politics. Many neo-Nazis and white...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Canada's house speaker apologises after praising Ukrainian ...",
+                "htmlTitle": "Canada&#39;s house <b>speaker</b> apologises after praising Ukrainian ...",
+                "link": "https://www.theguardian.com/world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Sep 24, 2023 ... Jewish groups voice anger over standing ovation for Yaroslav Hunka, 98, after Volodymyr Zelenskiy speech.",
+                "htmlSnippet": "Sep 24, 2023 <b>...</b> Jewish <b>groups</b> voice anger over standing ovation for Yaroslav Hunka, 98, after Volodymyr Zelenskiy speech.",
+                "formattedUrl": "https://www.theguardian.com/.../2023/.../canadas-house-speaker-apologises...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>2023</b>/.../canadas-house-speaker-apologises...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcL8EfmPw1_6XmrnWHuPIqxpkfoXGLl04G-oEsl2D_SgXMQGDQRaL16KM&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/18f27f0909d8b5b76f1d85ff071401d061d3a713/0_139_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acfcc9df68f40c029ea2fb48320b0590",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-09-25T02:43:21.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Jewish groups voice anger over standing ovation for Yaroslav Hunka, 98, after Volodymyr Zelenskiy speech",
+                            "twitter:creator": "@petersbeaumont1",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/18f27f0909d8b5b76f1d85ff071401d061d3a713/0_139_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=942fe0e0a298cd9ca44499e6c7f1b040",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2023-10-03T16:03:22.000Z",
+                            "og:type": "article",
+                            "article:section": "World news",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Canada’s house speaker apologises after praising Ukrainian veteran of Nazi unit",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/peterbeaumont,https://www.theguardian.com/profile/leyland-cecco",
+                            "article:tag": "Canada,Second world war,Ukraine,Europe,World news",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/world/2023/sep/25/canadas-house-speaker-apologises-after-praising-ukrainian-veteran-who-fought-for-nazis",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/18f27f0909d8b5b76f1d85ff071401d061d3a713/0_139_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=acfcc9df68f40c029ea2fb48320b0590"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Canada has become embroiled in an escalating political controversy after members of its House of Commons were encouraged to join in a standing ovation for an individual who fought in  with a Nazi military unit accused of war crimes during the second world war.\nThe ovation took place shortly after Ukraine’s president, Volodymyr Zelenskiy, delivered an address to the parliament on Friday, when the assembly’s speaker, Anthony Rota, called lawmakers’ attention to 98-year-old Yaroslav Hunka, whom he described as a “war hero” who fought for the First Ukrainian Division.\nImages from the Canadian parliament showed Zelenskiy and the Canadian prime minister, Justin Trudeau, standing and applauding Hunka, in scenes condemned by Jewish groups. As lawmakers cheered, Zelenskiy raised his fist in acknowledgment as Hunka saluted from the gallery during two separate standing ovations.\nThe Kremlin on Monday called the incident “outrageous” and pictures of Zelenskiy were quickly seized on by pro-Kremlin social media accounts.\nCanada’s prime minister Justin Trudeau said the episode was “clearly unacceptable,” adding that it was “deeply embarrassing to the parliament of  and by extension to all Canadians.”\nCritics said the First Ukrainian Division was better known as the Waffen-SS “Galicia” Division or the SS 14th Waffen Division, a volunteer unit that was under the command of the Nazis.\nThe decision to allow about 600 members of the division to live in Canada after the second world war has long been a source of controversy in Canada, and was the subject of a government commission of inquiry in the 1980s into whether Canada had become a haven for war criminals.\nMembers of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Saddling Steve Scalise with David Duke's baggage • Missouri ...",
+                "htmlTitle": "Saddling Steve Scalise with David Duke&#39;s baggage • Missouri ...",
+                "link": "https://missouriindependent.com/2023/10/11/saddling-steve-scalise-with-david-dukes-baggage/",
+                "displayLink": "missouriindependent.com",
+                "snippet": "Oct 11, 2023 ... Almost as soon as Kevin McCarthy lost his position as speaker of the U.S. House, attackers pivoted their artillery toward Steve Scalise.",
+                "htmlSnippet": "Oct 11, 2023 <b>...</b> Almost as soon as Kevin McCarthy lost his position as <b>speaker</b> of the U.S. House, attackers pivoted their artillery toward Steve Scalise.",
+                "formattedUrl": "https://missouriindependent.com/2023/.../saddling-steve-scalise-with-david-...",
+                "htmlFormattedUrl": "https://missouriindependent.com/<b>2023</b>/.../saddling-steve-scalise-with-david-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjfp4k80ZIEDbbvvyEcFE8iYQbwqkMFz9UWmXeTthq5VJ3HX1hGLsQQDZ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://missouriindependent.com/wp-content/uploads/2023/10/McCarthy-Scalise-2048x1366-1.jpeg",
+                            "og:type": "article",
+                            "article:published_time": "2023-10-11T10:50:40+00:00",
+                            "og:image:width": "2048",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Missouri Independent",
+                            "author": "D. Stephen Voss",
+                            "og:title": "Saddling Steve Scalise with David Duke’s baggage • Missouri Independent",
+                            "og:image:height": "1366",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://missouriindependent.com/wp-content/uploads/2020/09/cropped-Social-square-Missouri-Independent-270x270.png",
+                            "og:description": "Almost as soon as Kevin McCarthy lost his position as speaker of the U.S. House, attackers pivoted their artillery toward Steve Scalise.",
+                            "twitter:creator": "@MO_Independent",
+                            "article:publisher": "https://www.facebook.com/missouriindependent",
+                            "twitter:data1": "D. Stephen Voss",
+                            "twitter:data2": "6 minutes",
+                            "twitter:site": "@MO_Independent",
+                            "article:modified_time": "2023-10-11T17:20:54+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://missouriindependent.com/2023/10/11/saddling-steve-scalise-with-david-dukes-baggage/",
+                            "sn_version": "v1.39.1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://missouriindependent.com/wp-content/uploads/2023/10/McCarthy-Scalise-2048x1366-1.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Almost as soon as Kevin McCarthy lost his position as speaker of the U.S. House, attackers pivoted their artillery toward Majority Leader Steve Scalise, an obvious candidate to replace him. Scalise’s detractors loaded their cannon with the same ammunition fired at him nine years ago, when Scalise sought to become GOP whip, and it exploded like scattershot over social media once McCarthy gave up on retaking his post.\nThe attack trending on X/Twitter went something like this:\n“Scalise _describes_ himself as ‘David Duke without the baggage.’ He’s _associated_ with Duke & _attended_ a white-supremacist conference.”\nAnd here’s my fact check on that narrative: It’s partly false, broadly misleading, and insofar as it’s supposed to make Scalise sound distinct from his Republican competition, entirely unfair.\nBefore justifying those conclusions, though, I offer a warning. Normally when I analyze politics, I do so objectively as a nonpartisan scientist with a moderate outlook. This time, my perspective is firsthand.\nI covered student government at Louisiana State University when Scalise cut his teeth as a novice politician. I worked in the Louisiana statehouse during the rise of David Duke, a former Klan grand wizard once pictured protesting in a Nazi uniform. Duke registered Republican so he could win a suburban state House seat, then ran for U.S...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Anti-fascists protest annual neo-Nazi gathering in Budapest ...",
+                "htmlTitle": "Anti-fascists protest annual <b>neo</b>-<b>Nazi gathering</b> in Budapest ...",
+                "link": "https://peoplesdispatch.org/2023/02/14/anti-fascists-protest-annual-neo-nazi-gathering-in-budapest/",
+                "displayLink": "peoplesdispatch.org",
+                "snippet": "Feb 14, 2023 ... ... fascist Protest in Budapest on February 11, 2023. (Photo: via Vajnai Attila). Anti-fascist groups in Hungary protested an annual neo-Nazi ...",
+                "htmlSnippet": "Feb 14, 2023 <b>...</b> ... fascist Protest in Budapest on February 11, <b>2023</b>. (Photo: via Vajnai Attila). Anti-fascist <b>groups</b> in Hungary protested an annual <b>neo</b>-<b>Nazi</b>&nbsp;...",
+                "formattedUrl": "https://peoplesdispatch.org/2023/.../anti-fascists-protest-annual-neo-nazi-gat...",
+                "htmlFormattedUrl": "https://peoplesdispatch.org/<b>2023</b>/.../anti-fascists-protest-annual-<b>neo-nazi</b>-gat...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KVLpOW2VAWpq00IS8j25xtOLtMSVBki3eFPpd6Jeqgj4WhMj1iCovoc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://peoplesdispatch.org/wp-content/uploads/2023/02/13-02-Anti-fascist-Protest-Hungary.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2023-02-14T11:43:04+00:00",
+                            "og:image:width": "2048",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Peoples Dispatch",
+                            "author": "Peoples Dispatch",
+                            "og:title": "Anti-fascists protest annual neo-Nazi gathering in Budapest  : Peoples Dispatch",
+                            "og:image:height": "1152",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://peoplesdispatch.org/wp-content/uploads/2018/07/cropped-FavIcon-270x270.png",
+                            "og:description": "Progressives slammed the Hungarian government as well as the police authorities, accusing them of covertly supporting neo-Nazi events that glorify Nazi war criminals and their collaborators",
+                            "twitter:creator": "@peoplesdispatch",
+                            "article:publisher": "http://www.facebook.com/peoplesdispatch",
+                            "twitter:data1": "Peoples Dispatch",
+                            "twitter:data2": "2 minutes",
+                            "twitter:site": "@peoplesdispatch",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://peoplesdispatch.org/2023/02/14/anti-fascists-protest-annual-neo-nazi-gathering-in-budapest/"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "image": "https://peoplesdispatch.org/wp-content/uploads/2023/02/13-02-Anti-fascist-Protest-Hungary.jpg",
+                            "text": "Anti-fascist groups in Hungary protested an annual neo-Nazi gathering held in capital Budapest on Saturday, February 11, and organized a counter mobilization. Activists from various anti-fascist...",
+                            "headline": "Anti-fascists protest annual neo-Nazi gathering in Budapest"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://peoplesdispatch.org/wp-content/uploads/2023/02/13-02-Anti-fascist-Protest-Hungary.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Anti-fascists protest annual neo-Nazi gathering in Budapest  : Peoples Dispatch\n===============\nx\nSearch for:  \n]\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n ]\nx\nSearch for:  \nAnti-fascists protest annual neo-Nazi gathering in Budapest \n============================================================\nProgressives slammed the Hungarian government as well as the police authorities, accusing them of covertly supporting neo-Nazi events that glorify Nazi war criminals and their collaborators\nFebruary 14, 2023 by \n!\nAnti-fascist Protest in Budapest on February 11, 2023. (Photo: via Vajnai Attila)\nAnti-fascist groups in Hungary protested an annual neo-Nazi gathering held in capital Budapest on Saturday, February 11, and organized a counter mobilization. Activists from various anti-fascist groups gathered at Buda Castle in Budapest and protested the bid by neo-Nazis to mark ‘Honor Day,’ commemorating the Nazis who were killed during the Siege of Budapest by the Soviet Army in 1945. Neo-Nazis from within Hungary and abroad gather annually in Budapest in the second week of February on the occasion.\nAccording to _AntifaInfo Budapest_, speakers at the ant-fascist event  that “it is the common responsibility of the whole of society to ensure that anti-human, mass-killing fascist ideas and racist Nazi violence can never be strengthened again.”\nWalter Baier, president of the European Left Party, visited the monument ‘Shoes on the Danube Bank’ in Budapest on Saturday and paid tribute to the Jews killed by Hungarian fascists from the Arrow Cross Party in 1944–45. Baier also “welcomed the Hungarian anti-fascists on behalf of his party and expressed solidarity with the anti-Nazi movement in Hungary,” _Merce.hu_ .\nThe monument depicts the massacre of Jews and others, who were ordered to take off their shoes and then shot dead at the edge of the Danube river by fascists from the Arrow Cross Party between December 1944 and January 1945.\nVajnai Attila, from the leadership of the Workers’ Party of Hungary (2006),  the police authorities, the Ministry of Interior Affairs, and the conservative Fidesz party-led Hungarian government...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Neo-Nazi group gathers near state house in Augusta on Saturday ...",
+                "htmlTitle": "<b>Neo</b>-<b>Nazi group</b> gathers near state house in Augusta on Saturday ...",
+                "link": "https://www.newscentermaine.com/article/news/local/neo-nazi-group-gathers-near-state-house-in-augusta-saturday-maine/97-7fb4247d-e6ab-4768-a07d-d96315b505b2",
+                "displayLink": "www.newscentermaine.com",
+                "snippet": "Aug 13, 2023 ... Capitol police and Augusta police were made aware of the situation. According to the release, there was no damage to any property. House Speaker ...",
+                "htmlSnippet": "Aug 13, 2023 <b>...</b> Capitol police and Augusta police were made aware of the situation. According to the release, there was no damage to any property. House <b>Speaker</b>&nbsp;...",
+                "formattedUrl": "https://www.newscentermaine.com/.../neo-nazi.../97-7fb4247d-e6ab-4768-...",
+                "htmlFormattedUrl": "https://www.newscentermaine.com/.../<b>neo-nazi</b>.../97-7fb4247d-e6ab-4768-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WZ4Vw4jCblE6DCYeipgNwkGAfue2D_hxO6TiCibG_OmG0zP4rnw6CpVl&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=469737138",
+                            "og:image": "https://media.newscentermaine.com/assets/NCM/images/74450ba5-7716-475a-8259-825bae0b9530/74450ba5-7716-475a-8259-825bae0b9530_1140x641.jpg",
+                            "theme-color": "#d81f32",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "newscentermaine.com",
+                            "og:description": "Officials say approximately 25 \"demonstrators\" were in the area of Capitol and State Streets Saturday afternoon.",
+                            "twitter:image": "https://media.newscentermaine.com/assets/NCM/images/74450ba5-7716-475a-8259-825bae0b9530/74450ba5-7716-475a-8259-825bae0b9530_1140x641.jpg",
+                            "twitter:site": "newscentermaine",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "newscentermaine,news,local",
+                            "twitter:title": "Neo-Nazi group gathers near State House in Augusta",
+                            "twitter:domain": "www.newscentermaine.com/",
+                            "og:title": "Neo-Nazi group gathers near State House in Augusta",
+                            "og:image:height": "641",
+                            "og:article:published_time": "8/13/2023 11:06:00 AM",
+                            "twitter:image:src": "https://media.newscentermaine.com/assets/NCM/images/74450ba5-7716-475a-8259-825bae0b9530/74450ba5-7716-475a-8259-825bae0b9530_1140x641.jpg",
+                            "site": "newscentermaine.com",
+                            "fb:app_id": "179811695390925",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Officials say approximately 25 \"demonstrators\" were in the area of Capitol and State Streets Saturday afternoon.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.newscentermaine.com/article/news/local/neo-nazi-group-gathers-near-state-house-in-augusta-saturday-maine/97-7fb4247d-e6ab-4768-a07d-d96315b505b2",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.newscentermaine.com/assets/NCM/images/74450ba5-7716-475a-8259-825bae0b9530/74450ba5-7716-475a-8259-825bae0b9530_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBreaking News\nNeo-Nazi group gathers near State House in Augusta\n==================================================\nOfficials say approximately 25 \"demonstrators\" were in the area of Capitol and State Streets Saturday afternoon.\n#### More Videos\n!\nNext up in 5\nExample video title will go here for this video\n*   !\n    Next up in 5\n    Example video title will go here for this video\n*   !\n*   !\n*   !\n*   !\nAuthor: NEWS CENTER Maine Staff\nPublished: 11:06 AM EDT August 13, 2023\nUpdated: 10:13 AM EDT August 14, 2023\n]\nAUGUSTA, Maine — A group of neo-Nazis was seen in Augusta Saturday afternoon, according to a release by the .\nApproximately 25 of them held a \"demonstration\" in the area of Capitol and State Streets. Capitol police and Augusta police were made aware of the situation.\nAccording to the release, there was no damage to any property.\nHouse Speaker Rachel Talbot Ross issued a statement Sunday regarding the incident:\n\"I cannot say this strongly enough: 'There needs to be zero tolerance for white nationalist groups’ behavior or intimidation. The events that transpired yesterday are an ongoing escalation by a group that is seemingly emboldened, and we must call out their abhorrent beliefs and actions. As Speaker of the House, I will be relentless in driving a campaign against this racist behavior that has no place in Maine.\"\n_This story will be updated, as more information is made available._\nRelated Articles\n----------------\n*   \n*   \n*   \n### More NEWS CENTER Maine stories\nRelated Articles\n----------------\n*   \n*   \n*   \nClose Ad\nBefore You Leave, Check This Out\n--------------------------------\n!\n!\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n© 2024 NEWS CENTER Maine. All Rights Reserved.\n!\nWCSH would like to send you push notifications about the latest news and weather.\n---------------------------------------------------------------------------------\nNotifications can be turned off anytime in the browser settings.\nNo Thanks Allow",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Canada's Speaker Apologizes After Ukrainian Who Fought for Nazis ...",
+                "htmlTitle": "Canada&#39;s <b>Speaker</b> Apologizes After Ukrainian Who Fought for <b>Nazis</b> ...",
+                "link": "https://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Sep 26, 2023 ... But several Jewish groups responded with outrage, saying that the man, Yaroslav Hunka, 98, had served in a Nazi unit known as the 14th Waffen ...",
+                "htmlSnippet": "Sep 26, 2023 <b>...</b> But several Jewish <b>groups</b> responded with outrage, saying that the man, Yaroslav Hunka, 98, had served in a <b>Nazi</b> unit known as the 14th Waffen&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/09/25/.../canada-ukraine-nazi-apology.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/<b>2023</b>/09/25/.../canada-ukraine-nazi-apology.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZlt255m16DeV26IjBC1Y2EV8PnZ-xvf9I6OfK_WPfsIGYnBvpaLw894Y&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-facebookJumbo.jpg",
+                            "nyt_uri": "nyt://article/254f9c73-c778-5bad-a81e-6430588c9f19",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-09-25T16:27:01.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+                            "pdate": "20230925",
+                            "articleid": "100000009101664",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”",
+                            "twitter:image": "https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-videoSixteenByNine3000.jpg",
+                            "pst": "News",
+                            "twitter:image:alt": "Yaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.",
+                            "article:modified_time": "2023-09-26T18:11:08.000Z",
+                            "news_keywords": "Holocaust and Nazis,Legislature,Russian Invasion of Ukraine (2022),Apologies,Anthony Rota,Canada,Russia,Ukraine,Yaroslav Hunka",
+                            "scg": "europe",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-facebookJumbo.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Yaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.",
+                            "twitter:title": "Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored",
+                            "article:section": "World",
+                            "cg": "world",
+                            "pubp_event_id": "pubp://event/712e8a194225410b8f3370e88a22cc1d",
+                            "og:title": "Canada’s House Speaker Apologizes After Ukrainian Who Fought for Nazis Was Honored",
+                            "cn": "live-blog-20230925-russia-ukraine-news",
+                            "article:author": "https://www.nytimes.com/by/isabella-kwai",
+                            "url": "https://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+                            "article:tag": "Holocaust and the Nazi Era",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+                            "al:android:url": "nyt://article/254f9c73-c778-5bad-a81e-6430588c9f19",
+                            "ct": "spotlight",
+                            "twitter:app:url:googleplay": "nyt://article/254f9c73-c778-5bad-a81e-6430588c9f19",
+                            "byl": "By Isabella Kwai",
+                            "twitter:description": "Jewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/09/25/world/europe/canada-ukraine-nazi-apology.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/09/25/multimedia/25ukraine-briefing-canada-speaker-kmbl/25ukraine-briefing-canada-speaker-kmbl-facebookJumbo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\nYou have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load.\nJewish groups demanded an explanation after Anthony Rota, the speaker of Canada’s House of Commons, introduced a 98-year-old veteran of an SS unit as a “hero.”\n!\nYaroslav Hunka, right, who served in a Nazi unit in World War II, in the House of Commons in Ottawa on Friday. His introduction coincided with President Volodymyr Zelensky’s visit to Canada.Credit...Patrick Doyle/The Canadian Press, via Associated Press\n*   Published Sept. 25, 2023Updated Sept. 26, 2023\nThe Ukrainian man sitting in the gallery of Canada’s House of Commons was a “hero,” the speaker of the House said on Friday, drawing applause from lawmakers, Prime Minister Justin Trudeau and President Volodymyr Zelensky of Ukraine, who had just addressed the chamber during his  since Russia invaded his country.\nBut several Jewish groups responded with outrage, saying that the man, Yaroslav Hunka, 98, had served in a Nazi unit known as the 14th Waffen Grenadier Division of the SS, which fought alongside Germany during World War II and  to Adolf Hitler.\nOn Sunday, Anthony Rota, the speaker of Canada’s House of Commons, issued a written apology, saying that he had “subsequently become aware of more information” and took “full responsibility for my actions.”\nIn remarks  on Friday, Mr. Rota introduced Mr. Hunka as a resident of his district who had fought for Ukrainian independence from Russia and later immigrated to Canada.\n“He is a Ukrainian hero, a Canadian hero,” Mr. Rota said, “and we thank him for all his service,” prompting applause from lawmakers and a fist pump from Mr. Zelensky.\nNo other Canadian lawmakers, nor members of Mr. Zelensky’s visiting Ukrainian delegation, knew about Mr. Rota’s remarks before he made them, he said on Sunday.\n* * *\nThank you for your patience while we verify access. If you are in Reader mode please exit and  your Times account, or  for all of The Times.\n* * *\nThank you for your patience while we verify access.\nAlready a subscriber? .\nWant all of The Times? .\nAdvertisement",
+                    "content_tokens": 497
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Canada speaker apologizes after Ukrainian Nazi veteran honored in ...",
+                "htmlTitle": "Canada <b>speaker</b> apologizes after Ukrainian <b>Nazi</b> veteran honored in ...",
+                "link": "https://www.nbcnews.com/news/world/canada-speaker-apologizes-ukraine-nazi-veteran-honored-rcna117125",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Sep 25, 2023 ... Members of Parliament from all parties, not just Trudeau's Liberal Party, rose to applaud Hunka. A spokesperson for the Conservative party said ...",
+                "htmlSnippet": "Sep 25, 2023 <b>...</b> Members of Parliament from all <b>parties</b>, not just Trudeau&#39;s Liberal <b>Party</b>, rose to applaud Hunka. A spokesperson for the Conservative <b>party</b> said&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../canada-speaker-apologizes-ukraine-nazi-veter...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../canada-speaker-apologizes-ukraine-nazi-veter...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhAMBYN_9PdB2i71xfriK1U6vP2CieZ6StCcXXnzLdc06lvnrx8FzKmI0&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Canada speaker apologizes for honoring veteran who fought for Nazis",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Lawmakers recognized Yaroslav Hunka, 98, shortly after Ukrainian President Volodymyr Zelenskyy addressed the Canadian Parliament.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg",
+                            "branch:deeplink:description": "Lawmakers recognized Yaroslav Hunka, 98, shortly after Ukrainian President Volodymyr Zelenskyy addressed the Canadian Parliament.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg",
+                            "twitter:site": "@NBCNews",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Canada speaker apologizes for honoring veteran who fought for Nazis",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg",
+                            "og:title": "Canada speaker apologizes for honoring veteran who fought for Nazis",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg",
+                            "socialcopy": "It seemed like a touching and timely tribute by Canadian lawmakers to a 98-year-old war “hero” who fought for Ukraine’s independence during World War II. \n\nBut it soon emerged that the man was in fact part of a notorious Nazi unit.",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Lawmakers recognized Yaroslav Hunka, 98, shortly after Ukrainian President Volodymyr Zelenskyy addressed the Canadian Parliament.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/news/world/canada-speaker-apologizes-ukraine-nazi-veteran-honored-rcna117125",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230925-zelenskyy-trudeau-nazi-mb-0802-33840f.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... received a standing ovation.\n“The fact that a veteran who served in a Nazi military unit was invited to and given a standing ovation in Parliament is shocking,” it said. Hunka’s unit, also known as the First Ukrainian Division, was “responsible for the mass murder of innocent civilians with a level of brutality and malice that is unimaginable.”\nAnother Canada-based advocacy group, the Centre for Israel and Jewish Affairs,  it was \"deeply troubled & disturbed.\" Michael Mostyn, CEO of Jewish human rights organization B'nai Brith Canada,  \"beyond outrageous.\"\nRota, the Commons speaker, said that he alone was responsible for inviting Hunka, who lives in the area he represents, implying that neither Zelenskyy nor  knew about it.\n“I particularly want to extend my apologies to Jewish communities in Canada and around the world,” the speaker said in a statement. “I accept full responsibility for my actions.”\nZelenskyy, who is Jewish, has said members of his family were killed during the Holocaust. NBC News has contacted his office for comment.\nTrudeau’s office said in a statement that Rota had apologized and accepted full responsibility.\n“This was the right thing to do,” the statement said. “No advance notice was provided to the Prime Minister’s Office, nor the Ukrainian delegation, about the invitation or the recognition.”\nMembers of Parliament from all parties, not just Trudeau's Liberal Party, rose to applaud Hunka. A spokesperson for the Conservative party said the party was not aware of his history at the time, The Associated Press reported.\nHunka could not be immediately reached for comment, the AP said.\nIn 1985, the Canadian government launched an inquiry into the number of former soldiers who had fought under the Nazis during World War II and then taken up residence in Canada.\nThe Deschênes Commission, as it was known, found two years later that claims of war crimes against the 14th Waffen Grenadier Division, also known as the 1st Galician, \"have never been substantiated\" — a contention that scholars have contested.\nRussia seizes on 'revolting' recognition\n----------------------------------------\nThe issue of Nazis and far-right ideology is an especially touchy one for Ukraine.\nOne of the nebulous justifications given by Russian President Vladimir Putin for invading his former Soviet neighbor is that , which he says is being run by neo-Nazis enabled by the West.\nThere is little evidence for this claim. But Russian officials were quick to seize on Hunka...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Marjorie Taylor Greene, Other Extremists Rage for Trump | Southern ...",
+                "htmlTitle": "Marjorie Taylor Greene, Other Extremists Rage for Trump | Southern ...",
+                "link": "https://www.splcenter.org/hatewatch/2023/04/05/marjorie-taylor-greene-other-extremists-rage-trump",
+                "displayLink": "www.splcenter.org",
+                "snippet": "Apr 5, 2023 ... The New York Young Republican Club (NYYRC) hosted a pro-Trump gathering headlined by Georgia Rep. Marjorie Taylor Greene on Tuesday in New ...",
+                "htmlSnippet": "Apr 5, 2023 <b>...</b> The New York Young Republican Club (NYYRC) hosted a pro-Trump <b>gathering</b> headlined by Georgia Rep. Marjorie Taylor Greene on Tuesday in New&nbsp;...",
+                "formattedUrl": "https://www.splcenter.org/.../2023/.../marjorie-taylor-greene-other-extremist...",
+                "htmlFormattedUrl": "https://www.splcenter.org/.../<b>2023</b>/.../marjorie-taylor-greene-other-extremist...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrEH6i9H4nonnqYheyOAyknmPJyVgbzTEQfjuPs8LPc0bDbzwydD7S7w&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://www.splcenter.org/sites/default/files/hw_trump-faces-indictment-extremists-cry-foul-in-new-york_040423.jpg",
+                            "msapplication-config": "/profiles/splc/themes/custom/splc/favicons/browserconfig.xml",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Marjorie Taylor Greene, Other Extremists Rage for Trump",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Southern Poverty Law Center",
+                            "twitter:url": "https://www.splcenter.org/hatewatch/2023/04/05/marjorie-taylor-greene-other-extremists-rage-trump",
+                            "og:title": "Marjorie Taylor Greene, Other Extremists Rage for Trump",
+                            "og:description": "The New York Young Republican Club (NYYRC) hosted a pro-Trump gathering headlined by Georgia Rep. Marjorie Taylor Greene on Tuesday in New York City, where speakers struggled to be heard over raucous counterprotesters.",
+                            "twitter:creator": "@splcenter",
+                            "twitter:image": "https://www.splcenter.org/sites/default/files/hw_trump-faces-indictment-extremists-cry-foul-in-new-york_040423.jpg",
+                            "twitter:creator:id": "65698096",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "The New York Young Republican Club (NYYRC) hosted a pro-Trump gathering headlined by Georgia Rep. Marjorie Taylor Greene on Tuesday in New York City, where speakers struggled to be heard over raucous",
+                            "og:url": "https://www.splcenter.org/hatewatch/2023/04/05/marjorie-taylor-greene-other-extremists-rage-trump"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.splcenter.org/sites/default/files/hw_trump-faces-indictment-extremists-cry-foul-in-new-york_040423.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "NYYRC, , hosted the event in Manhattan’s Collect Pond Park, outside the courthouse where Trump later pleaded not guilty to 34 felony counts of falsifying business records.\n--------------------------------------------------------------------------------------------------\n!\nCongresswoman Marjorie Taylor Greene spoke briefly at a rally protesting Donald Trump's arraignment in New York Tuesday, but most of her brief remarks were drowned out by whistles blown by counterdemonstrators. (Photo by Michael Edison Hayden)\nThe charges are associated with hush ­­­­­­­­­money payments the Trump organization is alleged to have made to an adult film star, Stormy Daniels, who has said she had a sexual relationship with Trump. At the park, counterprotesters drowned Greene out by blowing whistles in a coordinated manner, rendering her brief speech nearly inaudible to anyone outside a few feet of her. The counterdemonstrators also chased Greene to and from her car, giving her no opportunity to mingle with a small cluster of her fans, many of whom came decked out in red MAGA hats.\n“They have decided to arrest President Trump, who is innocent, on the word of a porn star and a felon!” Greene said of Daniels and Michael Cohen, Trump’s former lawyer who was previously  of a series of charges, among them a campaign finance violation related to the alleged hush money payment. “This is such a failure, and this will not stand. People will not stand for this.”\n------------------------------------------------------------------------------------------------\n!\nRight-wing operative and disinformation peddler Jack Posobiec appears at the rally to protest former President...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Security Council Speakers Argue Over Western Countries Supplying ...",
+                "htmlTitle": "Security Council <b>Speakers</b> Argue Over Western Countries Supplying ...",
+                "link": "https://press.un.org/en/2023/sc15388.doc.htm",
+                "displayLink": "press.un.org",
+                "snippet": "Aug 17, 2023 ... She also encouraged all the relevant parties to abide by their obligations under the Convention on Certain Conventional Weapons and not to ...",
+                "htmlSnippet": "Aug 17, 2023 <b>...</b> She also encouraged all the relevant <b>parties</b> to abide by their obligations under the Convention on Certain Conventional Weapons and not to&nbsp;...",
+                "formattedUrl": "https://press.un.org/en/2023/sc15388.doc.htm",
+                "htmlFormattedUrl": "https://press.un.org/en/<b>2023</b>/sc15388.doc.htm",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "mobileoptimized": "width"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://press.un.org/en/2023/sc15388.doc.htm: 422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://press.un.org/en/2023/sc15388.doc.htm",
+                    "content_tokens": 0
+                }
+            }
+        }
+    ]
+}

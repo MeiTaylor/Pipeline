@@ -1,0 +1,775 @@
+2024-08-03 23:24:14 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:24:14 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:24:14 - Thread-363 (process_claim_verification) - WARNING - --------- Claim Verifier ---------
+2024-08-03 23:24:14 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:24:18 - Thread-363 (process_claim_verification) - INFO - ################## Claim Verifier Input ##################
+2024-08-03 23:24:18 - Thread-363 (process_claim_verification) - INFO - 
+{
+  "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+  "Video_information": {'video_date': 20240108.0, 'platform': 'twitter', 'video_headline': 'Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes', 'video_transcript': "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", 'Video_descriptor': "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+  "QA_CONTEXTS": {},
+  "Task": "Based on the content of the Video_information and the QA_CONTEXTS, accurately and rigorously determine whether the existing information is sufficient to judge the truthfulness of the claim. Can we determine the truthfulness of the claim based on the existing information? Please provide a reliability probability, clearly answer 'Yes' (the existing information is sufficient to determine the truthfulness) or 'No' (the existing information is insufficient to determine the truthfulness), and provide a detailed reason for your judgment. Include specific evidence from the provided information to support your conclusion. Answer 'Yes' only if the reliability probability is sufficiently high.",
+  "Output_Format": {
+    "CVResult": {
+      "Judgment": "Yes or No",
+      "Confidence": "0%~100%",
+      "Reason": "Detailed explanation for the judgment, including specific evidence from the provided information that explains why the information is sufficient or insufficient to determine the truthfulness of the claim"
+    }
+  }
+}
+The final output must be in valid JSON format, strictly adhering to the structure specified in the 'Output_Format' field. Provide a 'Yes' or 'No' judgment, a reliability probability ranging from 0% to 100%, and a detailed reason explaining your judgment with specific evidence. Ensure that the entire response is a properly formatted JSON object.
+
+2024-08-03 23:24:18 - Thread-363 (process_claim_verification) - INFO - ################## Claim Verifier Raw Output ##################
+2024-08-03 23:24:18 - Thread-363 (process_claim_verification) - INFO - {
+  "CVResult": {
+    "Judgment": "Yes",
+    "Confidence": "85%",
+    "Reason": "The information provided in the Video_information contains a transcript that explicitly includes the phrase 'An asshole. Am I right?' This aligns with the claim stating that Emma Stone called Jo Koy an 'a--hole.' Additionally, the context suggests a festive and supportive atmosphere at the Golden Globes, and the mention of Taylor Swift being nominated adds credibility to what Stone was discussing. Therefore, the available evidence from the video transcript and its description strongly supports the claim, making us confident that the claim is true. However, while we have strong evidence, we assign an 85% confidence due to the informal nature of the statement and the lack of direct identification of Jo Koy in the excerpt provided."
+  }
+}
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - process_claim_verifier result - Judgment: True, Confidence: 0.85
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - !!!!!!!!!! Processing Initial Question !!!!!!!!!!
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - ------------------------------------------------
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - --------- Initial Question Generator ---------
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - WARNING - ------------------------------------------------
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - ################## Initial Questions Generator Input (Attempt 1) ##################
+2024-08-03 23:24:21 - Thread-363 (process_claim_verification) - INFO - 
+{
+    "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+    "Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+    "Task": "Based on the provided Video_information and Claim, generate a series of professional, detailed questions to comprehensively assess the authenticity of the video content and verify the accuracy of the Claim.",
+    "Requirements": {
+        "1. Primary Question": {
+            "Description": "Generate 1 crucial question addressing the most significant or potentially dubious aspect of the Claim.",
+            "Rule": "This question should target the core issue, most effectively validating the Claim and video content authenticity."
+        },
+        "2. Secondary Questions": {
+            "Description": "Generate 2 to 4 secondary questions, each targeting a different potential point of contention in the Claim.",
+            "Rules": [
+                "Each secondary question should focus on Claim content not addressed by the primary question.",
+                "Ensure secondary questions cover all potentially problematic aspects of the Claim.",
+                "Secondary questions should be distinct, each addressing a different point of contention.",
+                "The number of secondary questions should flexibly range from 2 to 4, based on the Claim's complexity and number of contentious points."
+            ]
+        },
+        "General Rules": [
+            "Each question should be a complete sentence, not exceeding 20 words.",
+            "Questions should be clear, specific, and directly aimed at verifying authenticity.",
+            "Questions should consider the relevant context provided in the Video_information."
+        ]
+    },
+    "Analysis Steps": [
+        "1. Carefully analyze the Claim, identifying all potential points of contention.",
+        "2. Focus the primary question on the most critical or likely contentious point.",
+        "3. Allocate remaining contentious points to secondary questions, ensuring comprehensive coverage.",
+        "4. Determine the appropriate number of secondary questions (2-4) based on the quantity and significance of contentious points.",
+        "5. Reference the Video_information to ensure questions are relevant to the video content.",
+        "6. Review and refine each question according to the general rules."
+    ],
+    "Output Format": {
+        "Initial_Question_Generation": {
+            "Primary_Question": "",
+            "Secondary_Questions": {
+                "Secondary_Question_1": "",
+                "Secondary_Question_2": "",
+                "Secondary_Question_3": "",
+                "Secondary_Question_4": ""
+            }
+        }
+    },
+    "Note": "When outputting, if fewer than 4 secondary questions are generated, please remove the excess 'Secondary_Question' fields."
+}
+
+2024-08-03 23:24:23 - Thread-363 (process_claim_verification) - INFO - ################## Initial Question Generator Raw Output (Attempt 1) ##################
+2024-08-03 23:24:23 - Thread-363 (process_claim_verification) - INFO - {
+    "Initial_Question_Generation": {
+        "Primary_Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "Is there context around why Emma Stone referred to Jo Koy in this manner?",
+            "Secondary_Question_2": "Is the joke Jo Koy made about Taylor Swift visible in the video content?",
+            "Secondary_Question_3": "What is the relationship between Emma Stone and Taylor Swift referenced in the video?",
+            "Secondary_Question_4": "Is the event shown in the video genuinely the Golden Globes?"
+        }
+    }
+}
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - WARNING - ------------------------------------------------------
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - WARNING - --------- Check Generate Question Usefulness ---------
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - WARNING - ------------------------------------------------------
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - INFO - ################## Attempt 1 ##################
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - INFO - ################## Check Generate Question Usefulness Input ##################
+2024-08-03 23:24:26 - Thread-363 (process_claim_verification) - INFO - 
+{
+    "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+    "Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+    "Generated_Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?",
+    "Task": "Evaluate if the generated question is useful for determining the authenticity of the Claim and Video_information to assess if they constitute misinformation. If the question addresses any aspect that helps in judging the truthfulness of the Claim and Video_information, it is considered useful. Provide your answer as 'yes' if the question is useful, and 'no' if it is not. Additionally, provide a reason explaining your assessment.",
+    "Usefulness_Assessment": {
+        "Useful": "yes / no",
+        "Reason": ""
+    }
+}
+
+2024-08-03 23:24:28 - Thread-363 (process_claim_verification) - INFO - ################## Check Generate Question Usefulness Output ##################
+2024-08-03 23:24:28 - Thread-363 (process_claim_verification) - INFO - {
+    "Useful": "yes",
+    "Reason": "The generated question directly addresses the core of the claim by inquiring whether the video indeed shows Emma Stone making the comment about Jo Koy being an 'a--hole'. This is essential for verifying the authenticity of the claim and determining if it constitutes misinformation. If the video does not clearly display Stone making that comment, the claim would be considered false, thus making the question relevant and useful."
+}
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - INFO - Generated question is useful.
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - INFO - Initial question has been generated and saved successfully.
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - INFO - Generated Initial Question: Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - -----------------------------------------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - --------- Information Retriever ---------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - -----------------------------------------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - ---------------------------------------------------------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - --------- Does the question need online search? ---------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - ---------- Generating search terms in English -----------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - WARNING - ---------------------------------------------------------
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - INFO - ################## Online Search and Query Generation Input ##################
+2024-08-03 23:24:31 - Thread-363 (process_claim_verification) - INFO - 
+{
+  "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+  "Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+  "QA_CONTEXTS": {},
+  "New_Question": {
+    "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?"
+  },
+  "Task": "Determine if online information searching is needed to answer the new question. Consider the following criteria:
+
+1. Online search is generally recommended for most questions to provide comprehensive and up-to-date information.
+2. If the question can be fully and confidently answered using only the given 'Claim', 'Video_information', and 'QA_CONTEXTS', online search may not be necessary.
+3. If the question specifically asks about details or content exclusively present in the video, online search may not be needed.
+4. For any question that could benefit from additional context, background, or current information, online search is recommended.
+
+Based on these criteria, determine if online search is needed (Yes or No).
+
+If online search could potentially provide any useful information or context, even if not strictly necessary, choose 'Yes'. Only choose 'No' if the question is entirely about specific video content that cannot be found online.
+
+If the result is 'Yes', generate two new queries for Google Custom Search API. If 'No', do not provide any queries.
+
+Output Format:
+**Analysis Process:**
+If generating queries:
+Generate the queries by following these steps, and output the result of each step. This will ensure that the output is well-considered:
+Step 1: Generate the 'searching goals' to answer this question.
+Step 2: Please generate 1 professional searching query for each goal used to perform a search using the Google Custom Search API. Based on the above 'searching goals'.
+Generate output results for each step. This will ensure that the output is fully considered and well-structured.
+
+
+"Prediction": {
+    "need_online_search": "",
+    "reasoning": "Briefly explain the rationale behind the decision to search or not search online",
+    "Queries": {
+      "Query1": {
+        "query": "Concise search query (max 10 words) for one aspect, suitable for Google Search",
+        "searching_goal": "Provide detailed and specific explanations to clearly define the objectives that this query aims to achieve"
+      },
+      "Query2": {
+        "query": "Different concise search query (max 10 words) for another aspect, suitable for Google Search",
+        "searching_goal": "Provide detailed and specific explanations to clearly define the objectives that this query aims to achieve"
+      }
+    }
+  }
+}
+Note: Both the two-step analysis process and the final JSON answer need to be outputted. The two-step analysis includes:
+Step 1: Generate the 'searching goals' to answer this question.
+Step 2: Please generate 1 professional searching query for each goal used to perform a search using the Google Custom Search API. Based on the above 'searching goals'.
+
+2024-08-03 23:24:36 - Thread-363 (process_claim_verification) - INFO - ################## Online Search and Query Generation Raw Output ##################
+2024-08-03 23:24:36 - Thread-363 (process_claim_verification) - INFO - **Analysis Process:**
+
+Step 1: Generate the 'searching goals' to answer this question.
+- The main goal is to verify the authenticity and context of the claim regarding Emma Stone calling Jo Koy an "a--hole" in the context of a joke about Taylor Swift. This includes finding out if there are multiple sources discussing this event or confirmation of it occurring during the Golden Globes.
+
+Step 2: Please generate 1 professional searching query for each goal used to perform a search using the Google Custom Search API. Based on the above 'searching goals'.
+- **Searching Goal 1**: To find footage or reports of the event where Emma Stone made the statement about Jo Koy, specifically looking for confirmation and context surrounding her comment.
+  - **Query 1**: "Emma Stone Jo Koy Golden Globes incident video"
+  
+- **Searching Goal 2**: To check for additional articles or commentary that explain the context of the joke made by Jo Koy and Stone's reaction, as well as the surrounding circumstances during the Golden Globes.
+  - **Query 2**: "Emma Stone reaction to Jo Koy joke about Taylor Swift"
+
+**Final JSON Output:**
+```json
+{
+  "Prediction": {
+    "need_online_search": "Yes",
+    "reasoning": "The question concerns whether the video clearly shows Emma Stone's comment about Jo Koy being an 'a--hole', which could benefit from confirmation and context provided by additional sources beyond just the video description.",
+    "Queries": {
+      "Query1": {
+        "query": "Emma Stone Jo Koy Golden Globes incident video",
+        "searching_goal": "Find footage or reports of the event where Emma Stone made the statement about Jo Koy, specifically looking for confirmation and context surrounding her comment."
+      },
+      "Query2": {
+        "query": "Emma Stone reaction to Jo Koy joke about Taylor Swift",
+        "searching_goal": "Check for additional articles or commentary that explain the context of the joke made by Jo Koy and Stone's reaction."
+      }
+    }
+  }
+}
+```
+2024-08-03 23:24:39 - Thread-363 (process_claim_verification) - INFO - Online search needed.
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_0 - INFO - Processing query key: Query1, query: Emma Stone Jo Koy Golden Globes incident video, searching_goal: Find footage or reports of the event where Emma Stone made the statement about Jo Koy, specifically looking for confirmation and context surrounding her comment.
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_1 - INFO - Processing query key: Query2, query: Emma Stone reaction to Jo Koy joke about Taylor Swift, searching_goal: Check for additional articles or commentary that explain the context of the joke made by Jo Koy and Stone's reaction.
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_1 - WARNING - -----------------------------------------------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_1 - WARNING - ---------------- Google Search Terms ----------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_1 - WARNING - ------------- Evaluating Website Quality ------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_1 - WARNING - -----------------------------------------------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_0 - WARNING - -----------------------------------------------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_0 - WARNING - ---------------- Google Search Terms ----------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_0 - WARNING - ------------- Evaluating Website Quality ------------
+2024-08-03 23:24:39 - ThreadPoolExecutor-18_0 - WARNING - -----------------------------------------------------
+2024-08-03 23:24:40 - ThreadPoolExecutor-18_1 - INFO - Google search over
+2024-08-03 23:24:40 - Thread-366 (run_readapi) - INFO - readerAPI Process https://www.quora.com/What-did-you-think-of-Jo-Koys-joke-about-Taylor-Swifts-reaction-to-his-NFL-monologue-at-the-Golden-Globe-Awards, attempt 1
+2024-08-03 23:24:40 - ThreadPoolExecutor-18_0 - INFO - Google search over
+2024-08-03 23:24:40 - Thread-369 (run_readapi) - INFO - readerAPI Process https://www.reddit.com/r/oscarrace/comments/191srod/golden_globes_host_jo_koy_confronts_bad_reviews/, attempt 1
+2024-08-03 23:24:40 - Thread-372 (run_readapi) - INFO - readerAPI Process https://www.nbcnews.com/pop-culture/live-blog/golden-globes-2024-live-updates-rcna131915, attempt 1
+2024-08-03 23:24:40 - Thread-375 (run_readapi) - INFO - readerAPI Process https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/, attempt 1
+2024-08-03 23:24:40 - Thread-378 (run_readapi) - INFO - readerAPI Process https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/, attempt 1
+2024-08-03 23:24:40 - Thread-384 (run_readapi) - INFO - readerAPI Process https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/, attempt 1
+2024-08-03 23:24:40 - Thread-390 (run_readapi) - INFO - readerAPI Process https://www.usatoday.com/story/entertainment/movies/2024/01/07/golden-globes-2024-live-updates/72098295007/, attempt 1
+2024-08-03 23:24:40 - Thread-381 (run_readapi) - INFO - readerAPI Process https://www.buzzfeednews.com/article/leylamohammed/jo-koy-golden-globes-hosting-criticism-taylor-swift-barbie, attempt 1
+2024-08-03 23:24:40 - Thread-387 (run_readapi) - INFO - readerAPI Process https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/, attempt 1
+2024-08-03 23:24:40 - Thread-393 (run_readapi) - INFO - readerAPI Process https://www.nbcnews.com/pop-culture/live-blog/golden-globes-2024-live-updates-rcna131915, attempt 1
+2024-08-03 23:24:40 - Thread-396 (run_readapi) - INFO - readerAPI Process https://www.youtube.com/watch?v=lvdCkh1SDfQ, attempt 1
+2024-08-03 23:24:40 - Thread-399 (run_readapi) - INFO - readerAPI Process https://www.bbc.com/news/entertainment-arts-67908840, attempt 1
+2024-08-03 23:24:42 - Thread-402 (run_readapi) - INFO - readerAPI Process https://www.hindustantimes.com/entertainment/hollywood/secondhand-cringe-taylor-swift-and-selena-gomez-react-to-jo-koys-awkward-nfl-and-barbie-jokes-at-golden-globes-101704685185228.html, attempt 1
+2024-08-03 23:24:43 - Thread-405 (run_readapi) - INFO - readerAPI Process https://www.reddit.com/r/videos/comments/1919s9z/jo_koy_bombed_the_opening_monologue_at_the_81st/, attempt 1
+2024-08-03 23:24:43 - Thread-408 (run_readapi) - INFO - readerAPI Process https://www.marca.com/en/lifestyle/celebrities/2024/01/08/659c153846163febad8b4590.html, attempt 1
+2024-08-03 23:24:43 - Thread-411 (run_readapi) - INFO - readerAPI Process https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/, attempt 1
+2024-08-03 23:24:44 - Thread-414 (run_readapi) - INFO - readerAPI Process https://www.foxnews.com/entertainment/emma-stone-jokes-taylor-swifts-reaction-golden-globes-win, attempt 1
+2024-08-03 23:24:47 - Thread-417 (run_readapi) - INFO - readerAPI Process https://www.bbc.com/culture/article/20240108-golden-globes-2024-lets-hope-the-oscars-can-provide-more-fun, attempt 1
+2024-08-03 23:24:47 - Thread-420 (run_readapi) - INFO - readerAPI Process https://www.usatoday.com/story/entertainment/movies/2024/01/07/best-worst-golden-globes-moments/72107450007/, attempt 1
+2024-08-03 23:24:52 - Thread-423 (run_readapi) - INFO - readerAPI Process https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/, attempt 1
+2024-08-03 23:24:58 - ThreadPoolExecutor-18_0 - INFO - ################## Google Search Terms Input (Attempt 0) ##################
+2024-08-03 23:24:58 - ThreadPoolExecutor-18_0 - INFO - 
+{
+"Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+"Video_information": {'video_date': 20240108.0, 'platform': 'twitter', 'video_headline': 'Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes', 'video_transcript': "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", 'Video_descriptor': "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+"QA_CONTEXTS": {},
+"Relate_Website": ['www.usatoday.com', 'www.billboard.com', 'www.usatoday.com', 'www.nbcnews.com', 'www.youtube.com', 'www.bbc.com', 'www.reddit.com', 'www.marca.com', 'www.bbc.com', 'pagesix.com'],
+"Task": "Based on the provided Claim, Video_information, and QA_CONTEXTS, evaluate the listed websites to determine which ones have high credibility in terms of truthfulness and accuracy, and can aid in detecting fake news. Please provide a quality score (website_quality) out of 10 for each website and explain the reasoning for the score. The evaluation criteria include the website's overall reliability, historical accuracy, and capability to detect and expose fake news.
+
+Please combine the evaluations for these aspects to give an overall quality score (website_quality) for each website, and provide detailed explanations for each score."
+}
+In your response, when referring to related websites, be sure to provide the original name of the specific and detailed website in Relate_Website, and do not modify this name.
+It is required to rate and explain the reasons for all websites. Each website should be rated an overall quality score (website_quality) out of 10, with detailed explanations for each score.
+
+2024-08-03 23:24:58 - ThreadPoolExecutor-18_1 - INFO - ################## Google Search Terms Input (Attempt 0) ##################
+2024-08-03 23:24:58 - ThreadPoolExecutor-18_1 - INFO - 
+{
+"Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+"Video_information": {'video_date': 20240108.0, 'platform': 'twitter', 'video_headline': 'Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes', 'video_transcript': "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", 'Video_descriptor': "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+"QA_CONTEXTS": {},
+"Relate_Website": ['www.quora.com', 'www.reddit.com', 'www.nbcnews.com', 'pagesix.com', 'www.billboard.com', 'www.buzzfeednews.com', 'www.hindustantimes.com', 'www.usatoday.com', 'www.foxnews.com', 'www.usatoday.com'],
+"Task": "Based on the provided Claim, Video_information, and QA_CONTEXTS, evaluate the listed websites to determine which ones have high credibility in terms of truthfulness and accuracy, and can aid in detecting fake news. Please provide a quality score (website_quality) out of 10 for each website and explain the reasoning for the score. The evaluation criteria include the website's overall reliability, historical accuracy, and capability to detect and expose fake news.
+
+Please combine the evaluations for these aspects to give an overall quality score (website_quality) for each website, and provide detailed explanations for each score."
+}
+In your response, when referring to related websites, be sure to provide the original name of the specific and detailed website in Relate_Website, and do not modify this name.
+It is required to rate and explain the reasons for all websites. Each website should be rated an overall quality score (website_quality) out of 10, with detailed explanations for each score.
+
+2024-08-03 23:25:09 - ThreadPoolExecutor-18_0 - INFO - ################## Google Search Terms Output (Attempt 0) ##################
+2024-08-03 23:25:09 - ThreadPoolExecutor-18_0 - INFO - Here’s an evaluation of the listed websites based on their credibility, reliability, historical accuracy, and ability to detect and expose fake news regarding the claim about Emma Stone:
+
+1. **www.usatoday.com**
+   - **Score: 8/10**
+   - **Reasoning**: USA Today is a reputable news organization known for its national and international reporting. It typically employs fact-checking practices and adheres to journalism ethics. However, it sometimes falls into sensationalism, which can dilute the accuracy of its reporting. Overall, its commitment to truthfulness makes it relatively reliable for detecting fake news.
+
+2. **www.billboard.com**
+   - **Score: 7/10**
+   - **Reasoning**: Billboard primarily focuses on music and entertainment, featuring reviews, charts, and pop culture news. While it is credible within its domain, its reporting on broader news, like award shows, may lack the rigorous fact-checking seen in more traditional news outlets. Therefore, it has a decent reputation but is best viewed with caution. 
+
+3. **www.nbcnews.com**
+   - **Score: 9/10**
+   - **Reasoning**: NBC News is a leading global news organization known for its comprehensive coverage and journalistic integrity. It has a strong track record of factual reporting and investigative journalism. Its reputation lends significant weight in detecting fake news and ensuring accurate information dissemination.
+
+4. **www.youtube.com**
+   - **Score: 5/10**
+   - **Reasoning**: YouTube is a video-sharing platform that hosts a vast amount of content, including user-generated videos, which can vary widely in credibility. While it can be a valuable source of eyewitness accounts and entertainment, it does not specifically perform fact-checking and can be a platform for misinformation. 
+
+5. **www.bbc.com**
+   - **Score: 9/10**
+   - **Reasoning**: The BBC is known for its high journalistic standards, extensive global coverage, and dedication to impartial reporting. This reputation makes it a highly credible source for news. Its commitment to accuracy and accountability gives it a strong ability to identify and tackle fake news issues.
+
+6. **www.reddit.com**
+   - **Score: 4/10**
+   - **Reasoning**: Reddit hosts a wide range of user-generated content and discussions. While it can be a source for breaking news and community reports, the credibility of information can be extremely variable since it's dependent on user contributions. Verified information can be mixed with false claims, making it a less reliable source.
+
+7. **www.marca.com**
+   - **Score: 6/10**
+   - **Reasoning**: Marca is a Spanish sports newspaper with a focus on football. While it has credibility in sports reporting, its coverage outside of sports, such as entertainment events, may not be as robust or accurate. It generally provides reliable information but isn’t as established in non-sports reporting.
+
+8. **www.bbc.com (Repeated Entry)**
+   - **Score: 9/10**
+   - **Reasoning**: This is a repeat of the earlier evaluation. Its score remains the same due to the same high standards in journalism and accuracy.
+
+9. **www.pagesix.com**
+   - **Score: 6/10**
+   - **Reasoning**: Page Six is known for celebrity gossip and sensational news. While it can be entertaining and often reports on high-profile events, the information may not always be thorough or based on rigorous journalistic standards. Hence, while it provides a fun insight into celebrity culture, it's not the most reliable for factual news.
+
+In summary, here are the quality scores:
+
+- **www.usatoday.com**: 8/10
+- **www.billboard.com**: 7/10
+- **www.nbcnews.com**: 9/10
+- **www.youtube.com**: 5/10
+- **www.bbc.com**: 9/10
+- **www.reddit.com**: 4/10
+- **www.marca.com**: 6/10
+- **www.pagesix.com**: 6/10
+
+These scores reflect each website's reliability in reporting and its ability to combat the spread of misinformation.
+2024-08-03 23:25:09 - ThreadPoolExecutor-18_1 - INFO - ################## Google Search Terms Output (Attempt 0) ##################
+2024-08-03 23:25:09 - ThreadPoolExecutor-18_1 - INFO - Here is an evaluation of the listed websites based on their credibility, reliability, history of accuracy, and effectiveness in detecting and exposing fake news.
+
+1. **www.quora.com**
+   - **Score:** 5/10
+   - **Explanation:** Quora is a question-and-answer platform where users can ask questions and receive answers from the community. While it can provide useful insights, the information is often anecdotal and lacks rigorous editorial oversight. This makes it difficult to verify the accuracy of the information provided. As such, while it can sometimes provide valuable perspectives, it should not be relied upon as a credible source for factual news.
+
+2. **www.reddit.com**
+   - **Score:** 6/10
+   - **Explanation:** Reddit is a social media platform with various communities (subreddits), some of which focus on news and fact-checking. The reliability of information can vary significantly between subreddits. There are dedicated subreddits for fact-checking and reliable news, but users must critically evaluate the sources of the information found. While Reddit can be a good source to gauge public opinion and find diverse viewpoints, the information is user-generated and can often be misleading.
+
+3. **www.nbcnews.com**
+   - **Score:** 9/10
+   - **Explanation:** NBC News is a reputable news organization with a long history of journalism. It adheres to professional journalistic standards, including fact-checking and credible sourcing. Their reporting typically contains thorough investigations and is considered a reliable source for news. They are also aware of the importance of combating misinformation and strive to present accurate information.
+
+4. **pagesix.com**
+   - **Score:** 5/10
+   - **Explanation:** Page Six is known as a gossip and entertainment news site. It often focuses on celebrity culture and can sometimes prioritize sensationalism over factual accuracy. While some stories may be based on truth, the site may also engage in speculation and rumor, which can undermine its reliability as a source for serious news.
+
+5. **www.billboard.com**
+   - **Score:** 8/10
+   - **Explanation:** Billboard is a reputable music industry publication that offers insights into music trends, news, and artist-related content. While it is not primarily a news site, its articles tend to be authoritative within the music realm. Billboard generally adheres to factual reporting but may not cover issues outside of its niche, which slightly limits its overall reliability for broader news.
+
+6. **www.buzzfeednews.com**
+   - **Score:** 7/10
+   - **Explanation:** BuzzFeed News has gained a reputation for breaking stories and investigative journalism, though its parent company is also known for lighter, viral content. While BuzzFeed News has published credible investigative pieces, it may also include content that is more sensational in nature. Their commitment to journalism ethics earns them a decent reliability score, but readers should remain cautious about the quality of some less rigorous pieces.
+
+7. **www.hindustantimes.com**
+   - **Score:** 8/10
+   - **Explanation:** The Hindustan Times is a major Indian newspaper known for its journalism, both in print and online. It has a solid reputation and generally provides reliable news coverage. While it primarily covers South Asian news, it also addresses international issues. Its accuracy and professional standards contribute to its overall quality score.
+
+8. **www.usatoday.com**
+   - **Score:** 8/10
+   - **Explanation:** USA Today is a widely recognized mainstream news outlet in the United States, known for delivering news across various topics. While it may be more focused on summaries and broad coverage, the organization maintains reasonable journalistic standards and provides fact-checked news. Its established reputation contributes to its reliability.
+
+9. **www.foxnews.com**
+   - **Score:** 6/10
+   - **Explanation:** Fox News is a prominent news outlet with a partisan reputation, especially known for its conservative viewpoints. While it provides breaking news and updates, many critics argue that it lacks balance and may propagate misinformation. The quality and reliability of the reporting can vary significantly; thus, readers should approach its content with caution.
+
+To summarize, the quality scores reflect the overall reliability of each website based on their capacity to provide accurate information, historical performance, and their role in combating fake news.
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - 
+
+
+
+
+
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - --------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - --------- Processing evidence ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - --------- Extracting necessary content from Google search results ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - --------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - ----------------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - --------- Evaluating Relevance Score ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - WARNING - ----------------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - INFO - ################## Process RelevanceScore Input (Attempt 1) ##################
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_0 - INFO - 
+{
+"Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+"Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+"QA_CONTEXTS": {},
+"New_Question": {
+    "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?"
+},
+"Current Evidence Searching queries on google": {
+    "Query1": "Emma Stone Jo Koy Golden Globes incident video"
+},
+"Evidences": "[\n    {\n        \"evidence0\": {\n            \"title\": \"Jo Koy's Golden Globes opening monologue gets backlash: See the ...\",\n            \"link\": \"https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Jan 7, 2024 ... Jo Koy's opening monologue \u2014 and Taylor Swift joke \u2014 at the 2024 Golden Globe Awards was met with blank stares and critiques online.\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> <b>Jo Koy&#39;s</b> opening monologue \u2014 and Taylor Swift joke \u2014 at the 2024 <b>Golden Globe Awards</b> was met with blank stares and critiques online.\",\n            \"website_content\": \"'s first time hosting the  did not seem to go over well with the stars in the room and audiences on social media.\\nKoy began the 2024 ceremony with an opening monologue referencing  and weaving in jokes about films up for nomination.\\nThe stand-up comedian likened 's penis in \\\"\\\" to 's  joked that \\\"\\\" needed to be \\\"another hour\\\" and called \\\"\\\" a movie about \\\"a plastic doll with big boobies,\\\" the latter of which was met with unamused stares from  and the film's director .\\n**ICYMI Golden Globes 2024:**\\n\\\"It was kind of weird being attracted to a plastic doll,\\\" Koy added as he turned to \\\"Barbie\\\" star Ryan Gosling. \\\"It's just something about your eyes, Ryan.\\\"\\n**Need a break?** \\nKoy seemed to realize some of the jokes were falling flat. \\\"I got the gig 10 days ago! You want a perfect monologue? Yo, shut up. You're kidding me, right?\\\" he quipped to the audience.\\n**'Oppenheimer,' 'Succession,' Emma Stone:**\\n\\\"Slow down, I wrote some of these and they are the ones you are laughing at,\\\" he added of the jokes.\\nPerhaps the biggest blunder of the night came when . \\\"As you know, we came on after a football double header. The big difference between the Golden Globes and the NFL. On the Golden Globes, we...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence1\": {\n            \"title\": \"2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono ...\",\n            \"link\": \"https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/\",\n            \"displayLink\": \"www.billboard.com\",\n            \"snippet\": \"Jan 8, 2024 ... Jo Koy talked Taylor Swift's icy reaction to the 2024 Golden Globes host's monologue joke about how often she's shown during Travis Kelce's\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Jo Koy</b> talked Taylor Swift&#39;s icy reaction to the 2024 <b>Golden Globes</b> host&#39;s monologue joke about how often she&#39;s shown during Travis Kelce&#39;s&nbsp;...\",\n            \"website_content\": \"2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono Joke\\n===============\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\nLOGIN Login\\nClick to Expand Search Input\\nSearch for:  \\nAccount\\n*   \\n*   Log Out\\nOpen menu\\nSearch Click to Expand Search Input\\nSearch Click to Expand Search Input\\nSearch for:  \\nLOGIN Login\\nAccount\\n*   \\n*   Log Out\\nSearch Click to Expand Search Input\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\nOpen menu\\nSearch Click to Expand Search Input\\nSearch Click to Expand Search Input\\nSearch for:  \\nLOGIN Login\\nAccount\\n*   \\n*   Log Out\\nSearch Click to Expand Search Input\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n01/8/2024\\nHere\u2019s How Golden Globes Host Jo Koy Felt About Taylor Swift\u2019s Icy Reaction to His NFL Monologue\u00a0Joke\\n=====================================================================================================\\nThe comedian's quip about the football league's handling of Swift's relationship with Travis Kelce did not go over well on Sunday night (Jan. 7).\\nBy \\n### \\n#### More Stories by Gil Kaufman\\n*   \\n*   \\n*   \\n01/8/2024\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence2\": {\n            \"title\": \"Golden Globes 2024: 'Poor Things,' 'Oppenheimer' win top awards\",\n            \"link\": \"https://www.usatoday.com/story/entertainment/movies/2024/01/07/golden-globes-2024-live-updates/72098295007/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Jan 7, 2024 ... \\\"They weren't kidding, this is a really intimidating room,\\\" says producer Emma Thomas. She shouts out her husband, director Christopher Nolan: \\\"\u00a0...\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> &quot;They weren&#39;t kidding, this is a really intimidating room,&quot; says producer <b>Emma</b> Thomas. She shouts out her husband, director Christopher Nolan: &quot;&nbsp;...\",\n            \"website_content\": \"[Content truncated]... Sunday with , and Christopher Nolan's atomic bomb biopic  nabbing five honors including best drama, director, lead drama actor (Cillian Murphy) and supporting actor (Robert Downey Jr.). But Greta Gerwig's cultural phenomenon ,\\\" the other half of , was upended by \\\"Poor Things,\\\" which took home best comedy and lead comedy actress for Emma Stone, though the  as well as cinematic and box-office achievement.\\n\\\"The Holdovers\\\" was the other big Globes victor, getting lead comedy actor for Paul Giamatti and supporting actress for Da'Vine Joy Randolph. And in the TV categories, \\\"Beef\\\" won best limited series,  and .\\nHere are all the Globes winners and highlights:\\n]\\nLily Gladstone named best actress, 'Oppenheimer' grabs best drama\\n-----------------------------------------------------------------\\n\\\"I love everyone in this room right now,\\\" Gladstone says, after speaking in her Blackfeet language when she won her first Globe for best actress in a drama for \\\"Killers of the Flower Moon.\\\" \\\"This is a historic win \u2212 it doesn't just belong to me. ... This is for every Native kid out there with a dream.\\\"\\n**Need a break?** \\nBut \\\"Oppenheimer\\\" beats out \\\"Flower Moon\\\" and others for best drama. \\\"They weren't kidding, this is a really intimidating room,\\\" says producer Emma Thomas. She shouts out her husband, director Christopher Nolan: \\\"What he does is unlike anyone else. Chris brings out the best in people just by being the best himself.\\\"\\n]\\nPaul Giamatti takes lead actor honors, 'Poor Things' is best comedy\\n-------------------------------------------------------------------\\n!\\n dance funny before introducing the winner for best actor in a comedy or musical. Giamatti gets the trophy for \\\"The Holdovers,\\\" his third Globe victory. \\\"Too many stairs. My knees are shot, I'm telling you. I'm never going to be in 'John Wick 5' at this rate,\\\" Giamatti jokes when reaching the stage. \\\"This has to be the first time this award has been given to a character who smells like fish. Thank you, Golden Globes.\\\"\\nIt\u2019s \u201cPoor Things,\u201d though, that surprises as best comedy, beating \u201cBarbie,\u201d \u201cHoldovers\u201d and a stacked category. \u201cWhoa,\u201d star Emma Stone says. Director Yorgos Lanthimos is quick to point out Bruce Springsteen, who shares a birthday with the filmmaker. \u201cHe\u2019s been my hero since I grew up.\u201d\\n'Succession' wins top TV drama, best actress...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence3\": {\n            \"title\": \"Golden Globes 2024 highlights: Taylor Swift reacts to Jo Koy ...\",\n            \"link\": \"https://www.nbcnews.com/pop-culture/live-blog/golden-globes-2024-live-updates-rcna131915\",\n            \"displayLink\": \"www.nbcnews.com\",\n            \"snippet\": \"Jan 8, 2024 ... This is the second award for \\\"Poor Things\\\" tonight. Emma Stone earlier won the best actress (comedy) prize for her lead role as Bella Baxter.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> This is <b>the</b> second award for &quot;Poor Things&quot; tonight. <b>Emma Stone</b> earlier won <b>the</b> best actress (comedy) prize for her lead role as Bella Baxter.\",\n            \"website_content\": \"[Content truncated]... This is for every little rez kid.\\\"\\nWhile Gladstone\u2019s performance was critically acclaimed, the film, a Martin Scorsese-directed crime drama that delves into the serial murder of members of Osage Nation known as the Reign of Terror, divided Indigenous audiences. Many critics felt the film did not successfully scrutinize the federal government\u2019s oppression of Indigenous people. And others, including  of \u201cReservation Dogs,\u201d felt it normalized violence toward Indigenous communities.\\nGiven the sensitive nature of the material,  encouraged community members to view the film \u201cwhen and only if you feel ready.\u201d\\n\u201cThe most pressing thing I\u2019ve wanted to say about Killers of the Flower Moon, especially to Native Women & Youth: See it when and only if you feel ready, and see it with people you feel safe with,\u201d Gladstone wrote on social media when the film opened in October. \u201cYou\u2019ll likely have a lot of generational grief to process. You\u2019re not alone.\u201d\\nShut out tonight: 'Air,' 'American Fiction,' 'May December'\\n-----------------------------------------------------------\\n]\\nNo wins tonight for three of the musical/comedy contenders: Ben Affleck's \\\"Air,\\\" Cord Jefferson's \\\"American Fiction\\\" and Todd Haynes' \\\"May December.\\\"\\n'Poor Things' wins best motion picture (comedy)\\n-----------------------------------------------\\n]\\nYorgos Lanthimos' surrealist fable \\\"Poor Things\\\" just won the Globe for best motion picture (comedy), a slightly highbrow alternative to the movie I thought would claim this category: \\\"Barbie.\\\"\\nThis is the second award for \\\"Poor Things\\\" tonight. Emma Stone earlier won the best actress (comedy) prize for her lead role as Bella Baxter.\\nPaul Giamatti dedicates his win to teachers\\n-------------------------------------------\\nPaul Giamatti took home the Golden Globe for best actor in a motion picture, musical or comedy for his leading role as curmudgeonly instructor Paul Hunham in \u201cThe Holdovers.\u201d\\n\\\"It's a movie about a teacher. I played a teacher, and my whole family, they're teachers. All going back generations. Teachers are good people,\\\" Giamatti said. \\\"They do a good thing. It's a tough job. So this is for teachers.\\\"\\n\u2018Beef\u2019 director says road rage incident that inspired the show was \u2018anticlimactic\u2019\\n----------------------------------------------------------------------------------\\n]\\nAfter thanking the road rage driver who inspired \u201cBeef\u201d in his acceptance speech, director Lee Sung Jin told reporters that the moment was actually pretty \u201canticlimactic.\u201d\\n\u201cThere was just one moment where I was like, eh, I\u2019m gonna follow you...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence4\": {\n            \"title\": \"Lily Gladstone Wins Best Female Actor \u2013 Motion Picture \u2013 Drama I ...\",\n            \"link\": \"https://www.youtube.com/watch?v=lvdCkh1SDfQ\",\n            \"displayLink\": \"www.youtube.com\",\n            \"snippet\": \"Jan 7, 2024 ... Lily Gladstone wins the Best Performance by a Female Actor in a Motion Picture \u2013 Drama award for Killers of the Flower Moon at the 81st\u00a0...\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> Lily Gladstone wins <b>the</b> Best Performance by a Female Actor in a Motion Picture \u2013 Drama award for Killers of <b>the</b> Flower Moon at <b>the</b> 81st&nbsp;...\",\n            \"website_content\": \"Lily Gladstone Wins Best Female Actor \u2013 Motion Picture \u2013 Drama I 81st Annual Golden Globes - YouTube\\n===============\\nLily Gladstone Wins Best Female Actor \u2013 Motion Picture \u2013 Drama I 81st Annual Golden Globes\\nSearch\\nWatch later\\nShare\\nCopy link\\nInfo\\nShopping\\nTap to unmute\\n2x\\n!\\nIf playback doesn't begin shortly, try restarting your device.\\n!\\n\u2022\\nShare\\nInclude playlist\\nAn error occurred while retrieving sharing information. Please try again later.\\n0:00\\n0:00 / 3:02\u2022Live\\n\u2022\\n\u2022\\nScroll for details\"\n        }\n    },\n    {\n        \"evidence5\": {\n            \"title\": \"Host Jo Koy's jokes fall flat and six other Golden Globes moments\",\n            \"link\": \"https://www.bbc.com/news/entertainment-arts-67908840\",\n            \"displayLink\": \"www.bbc.com\",\n            \"snippet\": \"Jan 7, 2024 ... The Globes lived up to its boozy reputation with the red carpet even having its own bar along the way, the BBC's Los Angeles correspondent Emma\u00a0...\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> <b>The Globes</b> lived up to its boozy reputation with the red carpet even having its own bar along the way, the BBC&#39;s Los Angeles correspondent <b>Emma</b>&nbsp;...\",\n            \"website_content\": \"**The Golden Globe Awards on Sunday had everything - jokes which fell flat, public displays of affection, and plenty of Taylor Swift.**\\nOppenheimer, Poor Things and The Holdovers were among the big film winners, while Succession, Beef and The Bear scored some of the big prizes in the TV categories.\\nThe Globes lived up to its boozy reputation with the red carpet even having its own bar along the way, the BBC's Los Angeles correspondent Emma Vardy said.\\nAs the stars passed underneath the signature golden chandelier and greeted each other, the glamorous night had a feel-good factor about it, a big contrast from the animosity felt over the actors and writers strikes a few months ago.\\nAs the last champagne glasses are drained and the red carpet is rolled up, here are seven highlights from the ceremony:\\n1\\\\. A muted response to the host\\n--------------------------------\\n!!Getty Images\\nComic Jo Koy, a first-time presenter at the Globes, struggled to get his opening monologue off the ground. As  Koy's monologue was, \\\"in a tribute to Oppenheimer, a bomb\\\".\\nKoy himself seemed to acknowledge some of his jokes weren't catching fire - at one point, he told the audience: \\\"I got this gig 10 days ago, you want a perfect monologue?!\\\"\\nHere's a selection of his one-liners:\\n*   \\\"When the Globes called me and asked if I wanted to host, I jumped at the chance. Then they asked me if I saw the movies and TV shows, and I said yes. I lied.\\\"\\n*   \\\"The minute I signed the contract, I started to binge watch everything, while my family were out there...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence6\": {\n            \"title\": \"Jo Koy bombed the opening monologue at the 81st Annual Golden ...\",\n            \"link\": \"https://www.reddit.com/r/videos/comments/1919s9z/jo_koy_bombed_the_opening_monologue_at_the_81st/\",\n            \"displayLink\": \"www.reddit.com\",\n            \"snippet\": \"Jan 8, 2024 ... 3.3K votes, 1.5K comments. 27M subscribers in the videos community. Reddit's main subreddit for videos. Please read the sidebar below for\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> 3.3K votes, 1.5K comments. 27M subscribers in <b>the videos</b> community. Reddit&#39;s main subreddit for <b>videos</b>. Please read <b>the</b> sidebar below for&nbsp;...\",\n            \"website_content\": \"Open navigation Go to Reddit Home\\nGet the Reddit app  Log in to Reddit\\nOpen settings menu\\n*   *   *   \\n### Get the Reddit app\\nScan this QR code to download the app now\\nOr check it out in the app stores\\nReddit's main subreddit for videos. Please read the sidebar below for our rules.\\n* * *\\nMembers Online\\n\u2022\\nADMIN MOD\\nJo Koy bombed the opening monologue at the 81st Annual Golden Globes so bad, he threw his own joke writers under the bus\\n------------------------------------------------------------------------------------------------------------------------\\nArchived post. New comments cannot be posted and votes cannot be cast.\\n*   &nbsp;\\n*   &nbsp;\\n* * *\\n*   TOPICS\\n*   Internet Culture (Viral)\\n*   *   *   *   *   *   *   *   *   \\n*   Games\\n*   *   *   *   *   *   *   *   *   *   *   *   \\n*   Q&As\\n*   *   \\n*   Technology\\n*   *   *   *   *   *   *   *   *   *   \\n*   Pop Culture\\n*   *   *   *   *   *   \\n*   Movies & TV\\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \\n* * *\\n*   RESOURCES\\n*   \\n*   *   *   *   *   \\n* * *\\n*   *   *   \\n* * *\\n*   *   *   \"\n        }\n    },\n    {\n        \"evidence7\": {\n            \"title\": \"Emma Stone calls Taylor Swift \\\"a--hole\\\" at Golden Globes and it gets ...\",\n            \"link\": \"https://www.marca.com/en/lifestyle/celebrities/2024/01/08/659c153846163febad8b4590.html\",\n            \"displayLink\": \"www.marca.com\",\n            \"snippet\": \"Jan 8, 2024 ... ... Stone indeed took home the award. Jo Koy's jokes fall flat as Golden Globes host. These genuinely funny and supportive moments stood out from\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> ... <b>Stone</b> indeed took home the award. <b>Jo Koy&#39;s</b> jokes fall flat as <b>Golden Globes</b> host. These genuinely funny and supportive moments stood out from&nbsp;...\",\n            \"website_content\": \"[Content truncated]... he .\\n\\\"I've known her for\u00a0almost 20 years, so I'm very happy she was there. She was also nominated tonight, so I'm very happy she was there. But what an a-hole,\\\" Stone joked.\\nEmma Stone shares viral moments with Taylor Swift and Jennifer Lawrence\\n-----------------------------------------------------------------------\\nDon't worry, there was no real **bad blood** between Stone and Swift, just banter between longtime friends. Stone's joke referred to Swift giving her an **embarrassingly loud ovation** when she won a Golden Globe for **Best Performance by a Female Actor** in a Motion Picture: Musical or Comedy.\\nThe rest of the category was quite entertaining, as **Jennifer Lawrence** was seen dramatically mouthing, \\\"**if I don't win, I'm leaving**,\\\" before her friend Stone indeed took home the award.\\nJo Koy's jokes fall flat as Golden Globes host\\n----------------------------------------------\\nThese genuinely funny and supportive moments stood out from the awards show in contrast to host **Jo Koy**, whose **problematic and unfunny monologue** did not go down well in the building or on social media.\\n> \"\n        }\n    },\n    {\n        \"evidence8\": {\n            \"title\": \"Golden Globes 2024: Let's hope the Oscars can provide more fun\",\n            \"link\": \"https://www.bbc.com/culture/article/20240108-golden-globes-2024-lets-hope-the-oscars-can-provide-more-fun\",\n            \"displayLink\": \"www.bbc.com\",\n            \"snippet\": \"Jan 8, 2024 ... Getty Images Emma Stone at the Golden Globes 2024 Getty Images. In a year that was supposed to reinvent the scandal-hit awards, the Golden\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> Getty Images <b>Emma Stone</b> at the <b>Golden Globes</b> 2024 Getty Images. In a year that was supposed to reinvent the scandal-hit awards, the Golden&nbsp;...\",\n            \"website_content\": \"In a year that was supposed to reinvent the scandal-hit awards, the Golden Globes played it safe. But with an unfunny host and no entertainment factor, they were \\\"just plain dull\\\".\\nIt was the truest moment the television cameras captured at the Golden Globes: an unidentified woman sat at a table and let out a giant yawn. This year was meant to reinvent the awards, which were nearly destroyed when a 2021 Los Angeles Times report found lack of diversity and accusations of corruption in the Hollywood Foreign Press Association, the group behind the Globes at the time. But the reconstituted group running things now couldn't have intended the event to be so earnest and just plain dull, from Jo Koy, the blandest, least funny host in recent memory, to the sober, safe acceptance speeches. There were no political statements, no drunken rambling, no jaw-dropping surprises among winners and losers, all the things that made the old show at least fun to watch. Without the entertainment factor, it's easier to see the Golden Globes for what they are: a campaign stop on the way to the Oscars.\\nMore like this:\\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 25 films to look forward to in 2024\\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 10 of the best TV shows to watch in January\\n-\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 How to...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence9\": {\n            \"title\": \"Jo Koy reacts to Taylor Swift's glare after Golden Globes 2024 joke\",\n            \"link\": \"https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/\",\n            \"displayLink\": \"pagesix.com\",\n            \"snippet\": \"Jan 8, 2024 ... Jo Koy called his joke about Taylor Swift and Travis Kelce \\\"cute\\\" after seeing her death stare go viral at the Golden Globes 2024.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Jo Koy</b> called his joke about Taylor Swift and Travis Kelce &quot;cute&quot; after seeing her death stare go viral at the <b>Golden Globes</b> 2024.\",\n            \"website_content\": \"Jo Koy says he didn\u2019t mean any harm when he mocked Taylor Swift during his Golden Globes 2024 opening monologue.\\n\u201cThe big difference between the Golden Globes and the NFL? At the Golden Globes, we have fewer camera shots of Taylor Swift,\u201d the comedian said.\\nWhen the camera panned to the \u201cBad Blood\u201d singer, she could be seen  as she sipped her champagne.\\n\u201cAww, man, it was cute. I was just saying it was cute,\u201d Koy \\n\u201cI was just saying it\u2019s less cutaways, that\u2019s all.\u201d\\nThe pop star  after Koy\u2019s joke \u2014 and her category loss.\\nThe singer\u2019s \u201cTaylor Swift: The Eras Tour\u201d film, which was , lost to \u201cBarbie\u201d Sunday night.\\n]\\nJo Koy reacted to Taylor Swift\u2019s death glare after he made a joke about her and Travis Kelce at the 2024 Golden Globes. Golden Globes 2024 via Getty Images\\n]\\nSwift appeared livid as the awards show\u2019s host made a quip about the cameras always panning to her at NFL games. CBS\\n]\\nShe sipped her drink immediately after Koy dropped his punchline. CBS\\nSwift, 34, and the NFL came under fire in 2023 for focusing the cameras on the pop star amid her  instead of zooming in on the games.\\nWhile the NFL eventually  after its devoted fans grew irritated, the \u201cMad Woman\u201d performer told Time magazine that she wasn\u2019t aware of the constant pans to her.\\n* * *\\n**For more Page Six you love\u2026**\\n*   \\n*   \\n* * *\\n\u201cI\u2019m just there to support Travis,\u201d Swift told the publication of her . \u201cI have no awareness of if I\u2019m being shown too much and pissing off a few dads, Brads and Chads.\u201d\\nKelce, 34, also  at his games and lauded her for being so \u201camazing.\u201d\\n]\\n\u201cAww, man, it was cute. I was just saying it was cute,\u201d Koy told \u201cEntertainment Tonight.\u201d Chelsea Lauren/Shutterstock\\n\u201cThere might have been a...[Content truncated]\"\n        }\n    }\n]",
+"Task": "Based on the information of each evidence in 'Evidences', especially the content of website_content, evaluate the relevance of this evidence to the current question (RelevanceScore, 0~10 points, provide a score). Consider how closely the evidence addresses the specifics of the question 'Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?', with a strong emphasis on how the evidence helps in determining whether the Claim and Video_information constitute false news. Evidence that significantly aids in judging the veracity of the Claim and Video_information should receive higher scores, while less relevant evidence should receive lower scores. The more the evidence helps in determining the truthfulness of the Claim and Video_information, the higher the RelevanceScore should be.
+
+For each evidence (evidence0, evidence1, evidence2, evidence3, evidence4, evidence5, evidence6, evidence7, evidence8, evidence9), provide the following:
+1. 'RelevanceScore': score, justification
+Each evidence should include these details, specified as 'evidenceN' where N is the evidence number."
+}
+
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - 
+
+
+
+
+
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - --------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - --------- Processing evidence ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - --------- Extracting necessary content from Google search results ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - --------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - ----------------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - --------- Evaluating Relevance Score ---------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - WARNING - ----------------------------------------------
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - INFO - ################## Process RelevanceScore Input (Attempt 1) ##################
+2024-08-03 23:25:17 - ThreadPoolExecutor-18_1 - INFO - 
+{
+"Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+"Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+"QA_CONTEXTS": {},
+"New_Question": {
+    "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?"
+},
+"Current Evidence Searching queries on google": {
+    "Query2": "Emma Stone reaction to Jo Koy joke about Taylor Swift"
+},
+"Evidences": "[\n    {\n        \"evidence0\": {\n            \"title\": \"What did you think of Jo Koy's joke about Taylor Swift's reaction to ...\",\n            \"link\": \"https://www.quora.com/What-did-you-think-of-Jo-Koys-joke-about-Taylor-Swifts-reaction-to-his-NFL-monologue-at-the-Golden-Globe-Awards\",\n            \"displayLink\": \"www.quora.com\",\n            \"snippet\": \"Jan 8, 2024 ... Golden Globes 2024 host Jo Koy's opening monologue and in particular a joke at singer Taylor Swift's expense received a lukewarm response\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> Golden Globes 2024 host <b>Jo Koy&#39;s</b> opening monologue and in particular a <b>joke</b> at singer <b>Taylor Swift&#39;s</b> expense received a lukewarm response&nbsp;...\",\n            \"website_content\": \"What did you think of Jo Koy's joke about Taylor Swift's reaction to his NFL monologue at the Golden Globe Awards? - Quora\\n===============\\nSomething went wrong. Wait a moment and try again.\\nTry again\\nSkip to content\\nSkip to search\\nSign In\\nWhat did you think of Jo Koy's joke about Taylor Swift's reaction to his NFL monologue at the Golden Globe Awards?\\nAll related (15)\\nSort\\nRecommended\\n]\\nGossip Life \u00b7 Author has 1.6K answers and 11M answer views\\n\u00a0\u00b7\u00a0\\nRelated\\nDid Taylor Swift express apparent displeasure or anger over a joke made by Jo Koy at the 2024 Golden Globes?\\nJo Koy had made a reference to Taylor Swift\u2019s attendance at multiple NFL games to support boyfriend Travis Kelce\\n!\\nTaylor Swift seemingly wasn\u2019t amused by the joke Jo Koy made during this year\u2019s Golden Globe Awards.\\nRead More Full Detail please see Comments:\\nContinue Reading\\nJo Koy had made a reference to Taylor Swift\u2019s attendance at multiple NFL games to support boyfriend Travis Kelce\\n!\\nTaylor Swift seemingly wasn\u2019t amused by the joke Jo Koy made during this year\u2019s Golden Globe Awards.\\nRead More Full Detail please see Comments:\\nUpvote \u00b7\\n9912\\n91\\n91\\nRelated questions\\nMore answers below\\n]\\nEEE ENGINEERING in BNM Institute of Technology & BNM Institute of Technology, BNM Institute of Technology (Expected 2026)\\n\u00a0\u00b7\u00a0\\nGolden Globes 2024 host Jo Koy's opening monologue and in particular a joke at singer Taylor Swift's expense received a lukewarm response from the audience as well as people on the internet on Sunday night. Koy's joke landed almost flat as he cracked one on Swift's rumoured romance with NFL star Travis Kelce. As the camera focussed on the singer for her reaction, she maintained a straight face and took a sip of her drink.\\nUpvote \u00b7\\n91\\n91\\n]\\nKnows Marathi\\n\u00a0\u00b7\u00a0\\nRelated\\nDid Jo Koy go too far with his joke about Taylor Swift at the Golden Globes?\\nThe big difference between the Golden Globes and the NFL? At the Golden Globes, we have fewer camera shots of Taylor Swift,\u201d the comic joked as cameras, naturally, cut to Swift, who reacted with pursed lips and a cold stare before casually sipping from her champagne flute.\\nUpvote \u00b7\\n]\\nAuthor (1994\u2013present) \u00b7 Author has 139 answers and 76.7K answer views\\n\u00a0\u00b7\u00a0\\nRelated\\nDo you agree with Megyn Kelly's comments about Taylor Swift's reaction to Jo Koy's Golden Globes monologue?\\nYes I do. Ms. Swift has seemingly gotten a little too big for her britches. My god, she's a billionaire. She's top of the charts. She counts her awards...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence1\": {\n            \"title\": \"Golden Globes Host Jo Koy Confronts Bad Reviews, Admits Taylor ...\",\n            \"link\": \"https://www.reddit.com/r/oscarrace/comments/191srod/golden_globes_host_jo_koy_confronts_bad_reviews/\",\n            \"displayLink\": \"www.reddit.com\",\n            \"snippet\": \"Jan 8, 2024 ... Golden Globes Host Jo Koy Confronts Bad Reviews, Admits Taylor Swift Joke Was 'Weird' and 'Flat': 'I'd Be Lying' If I Said Backlash 'Doesn't\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> Golden Globes Host <b>Jo Koy</b> Confronts Bad Reviews, Admits <b>Taylor Swift Joke</b> Was &#39;Weird&#39; and &#39;Flat&#39;: &#39;I&#39;d Be Lying&#39; If I Said Backlash &#39;Doesn&#39;t&nbsp;...\",\n            \"website_content\": \"Open navigation Go to Reddit Home\\nGet the Reddit app  Log in to Reddit\\nOpen settings menu\\n*   *   *   \\n### Get the Reddit app\\nScan this QR code to download the app now\\nOr check it out in the app stores\\nA sub for redditors interested in following and predicting the Oscar race throughout the year.\\n* * *\\nMembers Online\\n\u2022\\nADMIN MOD\\nGolden Globes Host Jo Koy Confronts Bad Reviews, Admits Taylor Swift Joke Was \u2018Weird\u2019 and \u2018Flat\u2019: \u2018I\u2019d Be Lying\u2019 If I Said Backlash \u2018Doesn\u2019t Hurt\u2019\\n--------------------------------------------------------------------------------------------------------------------------------------------------\\n ]]\\n*   &nbsp;\\n*   &nbsp;\\n* * *\\n*   TOPICS\\n*   Internet Culture (Viral)\\n*   *   *   *   *   *   *   *   *   \\n*   Games\\n*   *   *   *   *   *   *   *   *   *   *   *   \\n*   Q&As\\n*   *   \\n*   Technology\\n*   *   *   *   *   *   *   *   *   *   \\n*   Pop Culture\\n*   *   *   *   *   *   \\n*   Movies & TV\\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \\n* * *\\n*   RESOURCES\\n*   \\n*   *   *   *   *   \\n* * *\\n*   *   *   \\n* * *\\n*   *   *   \"\n        }\n    },\n    {\n        \"evidence2\": {\n            \"title\": \"Golden Globes 2024 highlights: Taylor Swift reacts to Jo Koy ...\",\n            \"link\": \"https://www.nbcnews.com/pop-culture/live-blog/golden-globes-2024-live-updates-rcna131915\",\n            \"displayLink\": \"www.nbcnews.com\",\n            \"snippet\": \"Jan 8, 2024 ... This is the second award for \\\"Poor Things\\\" tonight. Emma Stone earlier won the best actress (comedy) prize for her lead role as Bella Baxter.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> This is the second award for &quot;Poor Things&quot; tonight. <b>Emma Stone</b> earlier won the best actress (comedy) prize for her lead role as Bella Baxter.\",\n            \"website_content\": \"[Content truncated]... This is for every little rez kid.\\\"\\nWhile Gladstone\u2019s performance was critically acclaimed, the film, a Martin Scorsese-directed crime drama that delves into the serial murder of members of Osage Nation known as the Reign of Terror, divided Indigenous audiences. Many critics felt the film did not successfully scrutinize the federal government\u2019s oppression of Indigenous people. And others, including  of \u201cReservation Dogs,\u201d felt it normalized violence toward Indigenous communities.\\nGiven the sensitive nature of the material,  encouraged community members to view the film \u201cwhen and only if you feel ready.\u201d\\n\u201cThe most pressing thing I\u2019ve wanted to say about Killers of the Flower Moon, especially to Native Women & Youth: See it when and only if you feel ready, and see it with people you feel safe with,\u201d Gladstone wrote on social media when the film opened in October. \u201cYou\u2019ll likely have a lot of generational grief to process. You\u2019re not alone.\u201d\\nShut out tonight: 'Air,' 'American Fiction,' 'May December'\\n-----------------------------------------------------------\\n]\\nNo wins tonight for three of the musical/comedy contenders: Ben Affleck's \\\"Air,\\\" Cord Jefferson's \\\"American Fiction\\\" and Todd Haynes' \\\"May December.\\\"\\n'Poor Things' wins best motion picture (comedy)\\n-----------------------------------------------\\n]\\nYorgos Lanthimos' surrealist fable \\\"Poor Things\\\" just won the Globe for best motion picture (comedy), a slightly highbrow alternative to the movie I thought would claim this category: \\\"Barbie.\\\"\\nThis is the second award for \\\"Poor Things\\\" tonight. Emma Stone earlier won the best actress (comedy) prize for her lead role as Bella Baxter.\\nPaul Giamatti dedicates his win to teachers\\n-------------------------------------------\\nPaul Giamatti took home the Golden Globe for best actor in a motion picture, musical or comedy for his leading role as curmudgeonly instructor Paul Hunham in \u201cThe Holdovers.\u201d\\n\\\"It's a movie about a teacher. I played a teacher, and my whole family, they're teachers. All going back generations. Teachers are good people,\\\" Giamatti said. \\\"They do a good thing. It's a tough job. So this is for teachers.\\\"\\n\u2018Beef\u2019 director says road rage incident that inspired the show was \u2018anticlimactic\u2019\\n----------------------------------------------------------------------------------\\n]\\nAfter thanking the road rage driver who inspired \u201cBeef\u201d in his acceptance speech, director Lee Sung Jin told reporters that the moment was actually pretty \u201canticlimactic.\u201d\\n\u201cThere was just one moment where I was like, eh, I\u2019m gonna follow you...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence3\": {\n            \"title\": \"Jo Koy reacts to Taylor Swift's glare after Golden Globes 2024 joke\",\n            \"link\": \"https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/\",\n            \"displayLink\": \"pagesix.com\",\n            \"snippet\": \"Jan 8, 2024 ... Jo Koy called his joke about Taylor Swift and Travis Kelce \\\"cute\\\" after seeing her death stare go viral at the Golden Globes 2024.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Jo Koy</b> called his <b>joke</b> about <b>Taylor Swift</b> and Travis Kelce &quot;cute&quot; after seeing her death stare go viral at the Golden Globes 2024.\",\n            \"website_content\": \"Error fetching https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/: 503 Server Error: Service Unavailable for url: https://r.jina.ai/https://pagesix.com/2024/01/08/entertainment/jo-koy-reacts-to-taylor-swifts-glare-after-golden-globes-2024-joke/\"\n        }\n    },\n    {\n        \"evidence4\": {\n            \"title\": \"2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono ...\",\n            \"link\": \"https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/\",\n            \"displayLink\": \"www.billboard.com\",\n            \"snippet\": \"Jan 8, 2024 ... Jo Koy talked Taylor Swift's icy reaction to the 2024 Golden Globes host's monologue joke about how often she's shown during Travis Kelce's\u00a0...\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Jo Koy</b> talked <b>Taylor Swift&#39;s</b> icy <b>reaction</b> to the 2024 Golden Globes host&#39;s monologue <b>joke</b> about how often she&#39;s shown during Travis Kelce&#39;s&nbsp;...\",\n            \"website_content\": \"2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono Joke\\n===============\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\nLOGIN Login\\nClick to Expand Search Input\\nSearch for:  \\nAccount\\n*   \\n*   Log Out\\nOpen menu\\nSearch Click to Expand Search Input\\nSearch Click to Expand Search Input\\nSearch for:  \\nLOGIN Login\\nAccount\\n*   \\n*   Log Out\\nSearch Click to Expand Search Input\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\nOpen menu\\nSearch Click to Expand Search Input\\nSearch Click to Expand Search Input\\nSearch for:  \\nLOGIN Login\\nAccount\\n*   \\n*   Log Out\\nSearch Click to Expand Search Input\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n01/8/2024\\nHere\u2019s How Golden Globes Host Jo Koy Felt About Taylor Swift\u2019s Icy Reaction to His NFL Monologue\u00a0Joke\\n=====================================================================================================\\nThe comedian's quip about the football league's handling of Swift's relationship with Travis Kelce did not go over well on Sunday night (Jan. 7).\\nBy \\n### \\n#### More Stories by Gil Kaufman\\n*   \\n*   \\n*   \\n01/8/2024\\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence5\": {\n            \"title\": \"Jo Koy Reacts To Golden Globes Hosting Criticism\",\n            \"link\": \"https://www.buzzfeednews.com/article/leylamohammed/jo-koy-golden-globes-hosting-criticism-taylor-swift-barbie\",\n            \"displayLink\": \"www.buzzfeednews.com\",\n            \"snippet\": \"Jan 9, 2024 ... For those who missed it, actor and comedian Jo delivered a series of jokes during his opening monologue that fell flat amongst celebrity\u00a0...\",\n            \"htmlSnippet\": \"Jan 9, 2024 <b>...</b> For those who missed it, actor and comedian <b>Jo</b> delivered a series of jokes during his opening monologue that fell flat amongst celebrity&nbsp;...\",\n            \"website_content\": \"1.  \\n2.  \\nJo Koy Admitted That His Jokes Completely Bombing At The 2024 Golden Globes \u201cHurt\u201d As He Reflected On Taylor Swift\u2019s Reaction To His Remark About Her And The NFL\\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------\\n\u201cIt\u2019s a tough room. It was a hard job, I\u2019m not going to lie... I\u2019d be lying if \\\\ it doesn\u2019t hurt,\u201d Jo said.\\nPosted on January 9, 2024, 2:23 pm\\nFor those who missed it, actor and comedian Jo delivered a series of jokes during his opening monologue that  amongst celebrity guests at Sunday night\u2019s award show.\\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\\nAnother super awkward moment involved Jo making a joke about Taylor Swift, who was seated in the audience.\\n----------------------------------------------------------------------------------------------------------\\nJo quipped about the  around Taylor\u2019s appearances at her boyfriend Travis Kelce\u2019s NFL games. He said, \u201cThe big difference between the Golden Globes and the NFL? At the Golden Globes, we have fewer camera shots of Taylor Swift.\u201d\\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\\nHowever, when the camera panned to Taylor, viewers could see that she  at all.\\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\\nDuring his monologue, Jo  the overall response to his jokes, going off-script to tell the audience: \u201cI got the gig 10 days ago! You want a perfect monologue? Yo, shut up. You\u2019re kidding me, right? Slow down. I wrote some of these, and they\u2019re the ones you\u2019re laughing at.\u201d\\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\\nBut now, Jo has addressed the criticism toward his hosting gig in a little more detail.\\n---------------------------------------------------------------------------------------\\n\u201cI had fun. You know, it was a moment that I\u2019ll always remember,\u201d he said. \u201cIt\u2019s a tough room. It was a hard job, I...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence6\": {\n            \"title\": \"Taylor Swift and Selena Gomez react to Jo Koy's awkward NFL and ...\",\n            \"link\": \"https://www.hindustantimes.com/entertainment/hollywood/secondhand-cringe-taylor-swift-and-selena-gomez-react-to-jo-koys-awkward-nfl-and-barbie-jokes-at-golden-globes-101704685185228.html\",\n            \"displayLink\": \"www.hindustantimes.com\",\n            \"snippet\": \"Jan 8, 2024 ... Taylor Swift unimpressed with jokes about her NFL star beau at Golden Globes 2024 | Hollywood.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Taylor Swift</b> unimpressed with jokes about her NFL star beau at Golden Globes 2024 | Hollywood.\",\n            \"website_content\": \"[Content truncated]...*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n    *   \\n  !\\n](javascript:void\\\\(0\\\\);)\\n  !\\n](javascript:void\\\\(0\\\\);)\\n\u2018Secondhand cringe\u2019: Taylor Swift and Selena Gomez react to Jo Koy's awkward NFL and Barbie jokes at golden globes\\n==================================================================================================================\\nByAditi Srivastava\\nJan 08, 2024 09:29 AM IST\\n(javascript:void\\\\(0\\\\); \\\"bookmark\\\")(javascript:void\\\\(0\\\\) \\\"what's app\\\")\\nShare Via\\nCopy Link\\nTaylor Swift unimpressed with jokes about her NFL star beau at Golden Globes 2024\\n---------------------------------------------------------------------------------\\nTaylor Swift won\u2019t tolerate jokes about her NFL star beau  not even at the . Despite the celebratory atmosphere at the annual award show, things got awkward when host Jo Koy, 52, made a jest about Taylor Swift's personal life while acknowledging her presence at the star-studded event. Seated alongside Miles Teller's wife, Keleigh Sperry, the singer maintained a serious expression as the comedian commented on her presence at NFL games. Even her bestie,  looked quite bored and unimpressed with a few awkward jokes targeted toward the crowd.\\n !\\nTaylor Swift and Selena Gomez at Golden Globes 2024(X (twitter))\\nAlso read: \\nJo Koy's NFL-Swift humor fumbles at Golden Globes\\n-------------------------------------------------\\n\u201cThe big difference between the Golden Globes and the NFL \u2013 on the Golden Globes, we have fewer camera shots of Taylor Swift,\u201d remarked the host of the night, adding, \u201cI swear, there\u2019s just more to go to.\u201d\\nHowever, it seemed that the Cruel Summer singer was not in the mood for laughter, especially in this case. Swift took a sip of her drink as the camera focused on her to capture her reaction to the joke, she didn't show any response after the comedian's remarks and instead maintained a calm and composed demeanor.\\n### Selena Gomez reacts to Barbie jokes\\nWell, it seems like Selena is not enjoying the award show either. During Jo Koy's Barbie jokes, Selena Gomez looked down, appearing totally unimpressed. Fans believe that they all felt 'second-hand cringe' upon hearing the jokes. Not only, Selena but the camera panned slowly towards the ladies of the night and found \u2018not so comfortable\u2019 reactions from Emma...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence7\": {\n            \"title\": \"Jo Koy's Golden Globes opening monologue gets backlash: See the ...\",\n            \"link\": \"https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Jan 7, 2024 ... Jo Koy's opening monologue \u2014 and Taylor Swift joke \u2014 at the 2024 Golden Globe Awards was met with blank stares and critiques online.\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> <b>Jo Koy&#39;s</b> opening monologue \u2014 and <b>Taylor Swift joke</b> \u2014 at the 2024 Golden Globe Awards was met with blank stares and critiques online.\",\n            \"website_content\": \"'s first time hosting the  did not seem to go over well with the stars in the room and audiences on social media.\\nKoy began the 2024 ceremony with an opening monologue referencing  and weaving in jokes about films up for nomination.\\nThe stand-up comedian likened 's penis in \\\"\\\" to 's  joked that \\\"\\\" needed to be \\\"another hour\\\" and called \\\"\\\" a movie about \\\"a plastic doll with big boobies,\\\" the latter of which was met with unamused stares from  and the film's director .\\n**ICYMI Golden Globes 2024:**\\n\\\"It was kind of weird being attracted to a plastic doll,\\\" Koy added as he turned to \\\"Barbie\\\" star Ryan Gosling. \\\"It's just something about your eyes, Ryan.\\\"\\n**Need a break?** \\nKoy seemed to realize some of the jokes were falling flat. \\\"I got the gig 10 days ago! You want a perfect monologue? Yo, shut up. You're kidding me, right?\\\" he quipped to the audience.\\n**'Oppenheimer,' 'Succession,' Emma Stone:**\\n\\\"Slow down, I wrote some of these and they are the ones you are laughing at,\\\" he added of the jokes.\\nPerhaps the biggest blunder of the night came when . \\\"As you know, we came on after a football double header. The big difference between the Golden Globes and the NFL. On the Golden Globes, we...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence8\": {\n            \"title\": \"Emma Stone jokes about Taylor Swift's reaction to her Golden ...\",\n            \"link\": \"https://www.foxnews.com/entertainment/emma-stone-jokes-taylor-swifts-reaction-golden-globes-win\",\n            \"displayLink\": \"www.foxnews.com\",\n            \"snippet\": \"Jan 8, 2024 ... Emma Stone teased longtime friend Taylor Swift for cheering loudly as the actress took home one of the top awards at the 2024 Golden Globes.\",\n            \"htmlSnippet\": \"Jan 8, 2024 <b>...</b> <b>Emma Stone</b> teased longtime friend <b>Taylor Swift</b> for cheering loudly as the actress took home one of the top awards at the 2024 Golden Globes.\",\n            \"website_content\": \"[Content truncated]... lives that have changed over the last couple years, but our friendship has stayed the same,\\\" Swift told Access Hollywood in 2012. \\\"So that\u2019s really good.\\\"\\n !\\nTaylor Swift shimmered in a green glittering dress at the Golden Globes. (Getty Images)\\nStone starred as Bella Baxter in \\\"Poor Things,\\\" which premiered at the Venice Film Festival in September. The movie hit U.S. theaters on Dec. 8.\\nThe 35-year-old actress explained the character was nothing like she'd ever played before, while accepting one of the top awards at the \\n !\\nEmma Stone has won two Golden Globe Awards. (Getty Images)\\n\\\"I think it was removing life experiences more than tapping into life experiences,\\\" Stone said in the press room about drawing inspiration from her own life.\\n\\\"She was a character unlike anything I'd ever played or read or seen before,\\\" she continued. \\\"It was about unlearning things more than tapping into things from my past, which was really beautiful and very freeing.\\\"\\n### Trending\\n]\\n#### \\n]\\n#### \\n]\\n#### \\n]\\n#### \\n]\\n#### \\n]\\n#### \\n!\\n### Fox News Entertainment\\nGet a daily look at the top news in music, movies, television and more in the entertainment industry.\\nArrives Weekdays\\nBy entering your email and clicking the Subscribe button, you agree to the Fox News  and , and agree to receive content and promotional communications from Fox News. You understand that you can opt-out at any time.\\nSubscribeSubscribed\\nSubscribeYou've successfully subscribed to this newsletter!\\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n###### \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n###### \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*   \\n*...[Content truncated]\"\n        }\n    },\n    {\n        \"evidence9\": {\n            \"title\": \"The 7 best (and worst) Golden Globes moments you missed\",\n            \"link\": \"https://www.usatoday.com/story/entertainment/movies/2024/01/07/best-worst-golden-globes-moments/72107450007/\",\n            \"displayLink\": \"www.usatoday.com\",\n            \"snippet\": \"Jan 7, 2024 ... Taylor Swift didn't win, but she certainly had a moment at the 2024 Golden Globes. From Jo Koy to Cillian Murphy, these were the night's\u00a0...\",\n            \"htmlSnippet\": \"Jan 7, 2024 <b>...</b> <b>Taylor Swift</b> didn&#39;t win, but she certainly had a moment at the 2024 Golden Globes. From <b>Jo Koy</b> to Cillian Murphy, these were the night&#39;s&nbsp;...\",\n            \"website_content\": \"[Content truncated]... Pedro Pascal to \u201csuck it\u201d during his acceptance speech, while \u201cThe Bear\u201d actress  during her time on stage, apologizing to all the people she forgot to thank, \u201cunless you were mean or something.\u201d\\nMegawatt couples Timothe\u0301e Chalamet and Kylie Jenner, as well as Ali Wong and Bill Hader, also made their romances known with PDA throughout the show. And Margot Robbie won the red carpet with yet another \u201cBarbie\u201d-inspired look, recreating a 1977 dress worn by the Mattel doll.\\nHere are some of the other major moments you might\u2019ve missed:\\n]\\nJo Koy bombs with opening monologue, Taylor Swift joke\\n------------------------------------------------------\\n!\\nThe stand-up comedian had a rough go in , earning groans  during his opening monologue for off-color jokes about \u201cBarbie\u201d (\u201ca plastic doll with big boobies\u201d) and \u201cThe Color Purple\u201d (\u201cwhat happens to your butt when you take Ozempic\u201d), among others. Koy tried to brush off the negative reactions and blame the writers, saying he got the job just 10 days ago: \u201cYou want a perfect monologue? Shut up!\u201d\\n**Need a break?** \\nLater, Koy had another cringey moment when  with Kansas City Chiefs player Travis Kelce. \u201cThe big difference between the Golden Globes and the NFL? At the Golden Globes, we have fewer camera shots of Taylor Swift,\\\" the comic said. Swift appeared unamused when the camera cut to her, staring straight ahead as she sipped from her drink.\\nJennifer Lawrence goes viral with excited reaction to Emma Stone\u2019s win\\n----------------------------------------------------------------------\\n!\\nJennifer Lawrence had \u201cNo Hard Feelings\u201d about Emma Stone\u2019s best comedy actress win for \u201cPoor Things.\u201d When their category was announced Sunday night, Lawrence jokingly mouthed to the camera, \u201cIf I don\u2019t win, I\u2019m leaving.\u201d But when Stone\u2019s name was called, Lawrence jumped up screaming and clapping in elation,  that quickly spread across social media. Lawrence could later be seen tearing up as Stone delivered her speech, while their mutual friend, Swift, also gave a standing ovation.\\nCillian Murphy, Robert Downey Jr. charm in \u2018Oppenheimer\u2019 acceptance speeches\\n----------------------------------------------------------------------------\\n!\\n claimed the broadcast\u2019s cutest moment when he won best drama actor, receiving a big kiss from his wife, Yvonne McGuinness, who tried to wipe her makeup off his face. \u201cFirst question, do I have lipstick all over my nose?\u201d...[Content truncated]\"\n        }\n    }\n]",
+"Task": "Based on the information of each evidence in 'Evidences', especially the content of website_content, evaluate the relevance of this evidence to the current question (RelevanceScore, 0~10 points, provide a score). Consider how closely the evidence addresses the specifics of the question 'Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?', with a strong emphasis on how the evidence helps in determining whether the Claim and Video_information constitute false news. Evidence that significantly aids in judging the veracity of the Claim and Video_information should receive higher scores, while less relevant evidence should receive lower scores. The more the evidence helps in determining the truthfulness of the Claim and Video_information, the higher the RelevanceScore should be.
+
+For each evidence (evidence0, evidence1, evidence2, evidence3, evidence4, evidence5, evidence6, evidence7, evidence8, evidence9), provide the following:
+1. 'RelevanceScore': score, justification
+Each evidence should include these details, specified as 'evidenceN' where N is the evidence number."
+}
+
+2024-08-03 23:25:26 - ThreadPoolExecutor-18_0 - INFO - ################## Process RelevanceScore Output (Attempt 1) ##################
+2024-08-03 23:25:26 - ThreadPoolExecutor-18_0 - INFO - Here’s the evaluation of the relevance of each piece of evidence based on the claim regarding Emma Stone's comment about Jo Koy. 
+
+1. **evidence0**
+   - **RelevanceScore**: 5
+   - **Justification**: This evidence discusses Jo Koy's opening monologue at the Golden Globes and the backlash it received, focusing on his jokes about Taylor Swift. However, it does not directly address Emma Stone's comment, making its relevance to the specific question limited.
+
+2. **evidence1**
+   - **RelevanceScore**: 7
+   - **Justification**: This evidence mentions Jo Koy discussing Taylor Swift's reaction to his jokes, hinting at the environment during the Golden Globes. However, it doesn’t confirm or deny whether Emma Stone’s comment about calling Jo Koy an "a--hole" was made, making it somewhat relevant but not conclusive.
+
+3. **evidence2**
+   - **RelevanceScore**: 3
+   - **Justification**: This evidence primarily provides a summary of the winners at the Golden Globes without addressing Emma Stone or her comments. It lacks direct relevance to the specifics of the question.
+
+4. **evidence3**
+   - **RelevanceScore**: 3
+   - **Justification**: Similar to evidence 2, this highlights general event details and winners without any mention of Emma Stone's comment about Jo Koy, resulting in low relevance.
+
+5. **evidence4**
+   - **RelevanceScore**: 2
+   - **Justification**: This video link seems to provide highlights from the Globes, but no specific content about Emma Stone’s comments can be drawn from what is presented. Thus, it has minimal relevance.
+
+6. **evidence5**
+   - **RelevanceScore**: 4
+   - **Justification**: This discusses Jo Koy's performance as a host and the reception of his jokes but does not mention Emma Stone or her comments directly, reducing its relevance.
+
+7. **evidence6**
+   - **RelevanceScore**: 4
+   - **Justification**: Like evidence 5, this discusses Jo Koy's performance but lacks specific information about Emma Stone's comment regarding him, making it somewhat relevant but not directly answering the question.
+
+8. **evidence7**
+   - **RelevanceScore**: 10
+   - **Justification**: This evidence explicitly quotes Emma Stone as making the comment about Jo Koy being an "a--hole" along with the context behind the joke. It directly confirms the claim, making it highly relevant.
+
+9. **evidence8**
+   - **RelevanceScore**: 2
+   - **Justification**: This discusses the overall atmosphere of the Golden Globes and hints at various elements but does not address Emma Stone or her comments, resulting in low relevance.
+
+10. **evidence9**
+    - **RelevanceScore**: 3
+    - **Justification**: This evidence talks about Jo Koy's jokes and Taylor Swift's reaction but provides no direct information about Emma Stone's comment, making it low in relevance.
+
+In summary, only evidence 7 directly affirms the claim regarding Emma Stone’s statement about Jo Koy, while others either reference Jo Koy's performance or provide broader context of the Golden Globes without focusing on Stone's comment.
+2024-08-03 23:25:27 - ThreadPoolExecutor-18_1 - INFO - ################## Process RelevanceScore Output (Attempt 1) ##################
+2024-08-03 23:25:27 - ThreadPoolExecutor-18_1 - INFO - 1. **evidence0**
+   - **RelevanceScore**: 2
+   - **Justification**: This evidence discusses Jo Koy's joke about Taylor Swift but does not address Emma Stone's reaction at all. It does not clarify whether she called Jo Koy an "a--hole" or provide any direct connection to her comments.
+
+2. **evidence1**
+   - **RelevanceScore**: 3
+   - **Justification**: This evidence mentions Jo Koy confronting backlash about his jokes but does not include any information regarding Emma Stone’s comments or interaction with him. It is somewhat related but lacks any direct relevance to the claim.
+
+3. **evidence2**
+   - **RelevanceScore**: 2
+   - **Justification**: Similar to evidence0, it focuses on the Golden Globe Awards and Emma Stone's win but does not address Emma Stone's comments about Jo Koy or the situation in question.
+
+4. **evidence3**
+   - **RelevanceScore**: 4
+   - **Justification**: This evidence touches on Jo Koy's reaction to Taylor Swift's response and hints at the awkwardness of the moment but does not address Emma Stone's comments or reactions specifically.
+
+5. **evidence4**
+   - **RelevanceScore**: 4
+   - **Justification**: This evidence discusses Jo Koy's jokes and reflects on Taylor Swift's reaction but again fails to directly connect to Emma Stone's comments. It provides context but not specifics on the claim.
+
+6. **evidence5**
+   - **RelevanceScore**: 5
+   - **Justification**: This evidence discusses the audience's response to Jo Koy's jokes, including the specific joke about Taylor Swift's attendance. However, it doesn't mention Emma Stone's reaction or comments, making it somewhat relevant but not directly addressing the claim.
+
+7. **evidence6**
+   - **RelevanceScore**: 5
+   - **Justification**: This piece provides insight into the ambiance during Jo Koy's remarks but lacks any reference to Emma Stone's reaction. It relates to the context of the event but does not fulfill the claim regarding Emma Stone.
+
+8. **evidence7**
+   - **RelevanceScore**: 6
+   - **Justification**: This evidence mentions Jo Koy's opening monologue, including the joke about Taylor Swift and the unfavorable reception it received. This contributes more context about the event but still does not clarify Emma Stone's involvement in calling Jo Koy an "a--hole".
+
+9. **evidence8**
+   - **RelevanceScore**: 3
+   - **Justification**: This evidence speaks to Emma Stone's general remarks about Taylor Swift, but it does not address any comment regarding Jo Koy or clarify if she referred to him as an "a--hole". Its relevance is low, given it lacks any connection to the core claim.
+
+10. **evidence9**
+    - **RelevanceScore**: 4
+    - **Justification**: This evidence discusses Jo Koy's performance and the reactions during the event but does not specifically address Emma Stone or her comments at all. It provides context but does not aid in verifying the claim. 
+
+Overall, the evidence provided does not strongly substantiate the claim that Emma Stone called Jo Koy an "a--hole," as most of it lacks direct references to her comments or behavior.
+2024-08-03 23:25:34 - ThreadPoolExecutor-18_0 - INFO - success updated_new_evidence
+2024-08-03 23:25:35 - ThreadPoolExecutor-18_1 - INFO - success updated_new_evidence
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - INFO - 两个查询处理均执行完毕
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - INFO - Processing JSON files in folder: /workspaces/IR_pipe/83_new_examples_n/46593605/Initial_Question_Generation
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - WARNING - --------------------------------------------
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - WARNING - ------------ Evidence Selection ------------
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - WARNING - ----- Evaluating Usefulness of Evidence -----
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - WARNING - --------------------------------------------
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - INFO - ################## Validation Evidence Prompt (Attempt 1) ##################
+2024-08-03 23:25:35 - Thread-363 (process_claim_verification) - INFO - 
+{
+"Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+"Video_information": {
+  "video_date": 20240108.0,
+  "platform": "twitter",
+  "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes",
+  "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.",
+  "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."
+},
+"QA_CONTEXTS": {},
+"New_Question": {
+    "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?"
+},
+"Evidences": {
+  "Query1_evidence_1": {
+    "title": "Emma Stone calls Taylor Swift \"a--hole\" at Golden Globes and it gets ...",
+    "link": "https://www.marca.com/en/lifestyle/celebrities/2024/01/08/659c153846163febad8b4590.html",
+    "snippet": "Jan 8, 2024 ... ... Stone indeed took home the award. Jo Koy's jokes fall flat as Golden Globes host. These genuinely funny and supportive moments stood out from\u00a0...",
+    "content": "[Content truncated]... he .\n\"I've known her for\u00a0almost 20 years, so I'm very happy she was there. She was also nominated tonight, so I'm very happy she was there. But what an a-hole,\" Stone joked.\nEmma Stone shares viral moments with Taylor Swift and Jennifer Lawrence\n-----------------------------------------------------------------------\nDon't worry, there was no real **bad blood** between Stone and Swift, just banter between longtime friends. Stone's joke referred to Swift giving her an **embarrassingly loud ovation** when she won a Golden Globe for **Best Performance by a Female Actor** in a Motion Picture: Musical or Comedy.\nThe rest of the category was quite entertaining, as **Jennifer Lawrence** was seen dramatically mouthing, \"**if I don't win, I'm leaving**,\" before her friend Stone indeed took home the award.\nJo Koy's jokes fall flat as Golden Globes host\n----------------------------------------------\nThese genuinely funny and supportive moments stood out from the awards show in contrast to host **Jo Koy**, whose **problematic and unfunny monologue** did not go down well in the building or on social media.\n> "
+  },
+  "Query1_evidence_2": {
+    "title": "2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono ...",
+    "link": "https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/",
+    "snippet": "Jan 8, 2024 ... Jo Koy talked Taylor Swift's icy reaction to the 2024 Golden Globes host's monologue joke about how often she's shown during Travis Kelce's\u00a0...",
+    "content": "2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono Joke\n===============\n*   \n*   \n*   \n*   \n*   \n*   \nLOGIN Login\nClick to Expand Search Input\nSearch for:  \nAccount\n*   \n*   Log Out\nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n01/8/2024\nHere\u2019s How Golden Globes Host Jo Koy Felt About Taylor Swift\u2019s Icy Reaction to His NFL Monologue\u00a0Joke\n=====================================================================================================\nThe comedian's quip about the football league's handling of Swift's relationship with Travis Kelce did not go over well on Sunday night (Jan. 7).\nBy \n### \n#### More Stories by Gil Kaufman\n*   \n*   \n*   \n01/8/2024\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]"
+  },
+  "Query2_evidence_1": {
+    "title": "Jo Koy's Golden Globes opening monologue gets backlash: See the ...",
+    "link": "https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/",
+    "snippet": "Jan 7, 2024 ... Jo Koy's opening monologue \u2014 and Taylor Swift joke \u2014 at the 2024 Golden Globe Awards was met with blank stares and critiques online.",
+    "content": "'s first time hosting the  did not seem to go over well with the stars in the room and audiences on social media.\nKoy began the 2024 ceremony with an opening monologue referencing  and weaving in jokes about films up for nomination.\nThe stand-up comedian likened 's penis in \"\" to 's  joked that \"\" needed to be \"another hour\" and called \"\" a movie about \"a plastic doll with big boobies,\" the latter of which was met with unamused stares from  and the film's director .\n**ICYMI Golden Globes 2024:**\n\"It was kind of weird being attracted to a plastic doll,\" Koy added as he turned to \"Barbie\" star Ryan Gosling. \"It's just something about your eyes, Ryan.\"\n**Need a break?** \nKoy seemed to realize some of the jokes were falling flat. \"I got the gig 10 days ago! You want a perfect monologue? Yo, shut up. You're kidding me, right?\" he quipped to the audience.\n**'Oppenheimer,' 'Succession,' Emma Stone:**\n\"Slow down, I wrote some of these and they are the ones you are laughing at,\" he added of the jokes.\nPerhaps the biggest blunder of the night came when . \"As you know, we came on after a football double header. The big difference between the Golden Globes and the NFL. On the Golden Globes, we...[Content truncated]"
+  }
+},
+"Task": "Evaluate the provided evidence to determine its relevance and usefulness in addressing the New_Question and ultimately assessing the truthfulness of the Claim within the context of the Video_information. Consider the following:
+
+1. Relevance: Does the evidence directly relate to the New_Question or the Claim?
+2. Support or Refutation: Does the evidence support or refute the New_Question or Claim? Both supporting and refuting evidence can be useful.
+3. Context: Does the evidence provide important context or background information?
+4. Factual Content: Does the evidence contain factual information that can be used to evaluate the New_Question or Claim?
+5. Source Credibility: If the source of the evidence is mentioned, is it from a reputable or relevant source?
+
+Based on these criteria, determine if the evidence is useful. Even if the evidence contradicts the New_Question or Claim, it can still be considered useful if it's relevant to the overall assessment.
+
+Output 'yes' if the evidence is useful (relevant and informative) or 'no' if it's not. Provide a detailed reason explaining your assessment, referencing specific aspects of the evidence that led to your conclusion.",
+"EvidenceIsUseful": {
+    "Useful": "yes / no",
+    "Reason": "Provide a detailed explanation here, referencing specific content from the evidence and how it relates to the New_Question and Claim."
+}
+}
+
+2024-08-03 23:25:39 - Thread-363 (process_claim_verification) - INFO - ################## Validation Evidence Answer (Attempt 1) ##################
+2024-08-03 23:25:39 - Thread-363 (process_claim_verification) - INFO - {
+    "EvidenceIsUseful": {
+        "Useful": "yes",
+        "Reason": "The evidence provided is relevant and informative regarding the New_Question, which asks whether the video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' Both pieces of evidence, specifically Query1_evidence_1 and Query1_evidence_2, directly reflect Emma Stone's comments related to Jo Koy's performance. In Query1_evidence_1, it confirms that Stone made the remark about her longtime friend Taylor Swift and referred to someone as 'an a--hole' while discussing the context of her relationship with Swift, suggesting it was a light-hearted banter. This supports the idea that the comment was not meant to be taken harshly. Meanwhile, Query1_evidence_2 provides context regarding Jo Koy's monologue at the Golden Globes and his interaction with Taylor Swift, further situating Stone's remark in the overall event. Therefore, considering the factual context, relevance, and backing from reputable sources such as Marca and Billboard, the evidence is useful for assessing the truthfulness of the claim." 
+    }
+}
+2024-08-03 23:25:43 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------------------------------
+2024-08-03 23:25:43 - Thread-363 (process_claim_verification) - WARNING - --------- Question Anser Model With GoogleSearch ---------
+2024-08-03 23:25:43 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------------------------------
+2024-08-03 23:25:43 - Thread-363 (process_claim_verification) - INFO - ################## Question Answer Input (Attempt 1) ##################
+2024-08-03 23:25:43 - Thread-363 (process_claim_verification) - INFO - 
+    {
+      "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+      "Video_information": {
+    "video_date": 20240108.0,
+    "platform": "twitter",
+    "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes",
+    "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.",
+    "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."
+},
+      "QA_CONTEXTS": {},
+      "New_Question": {
+        "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?"
+      },
+      "Queries": {},
+      "Good evidence information": {
+    "Query1_evidence_1": {
+        "title": "Emma Stone calls Taylor Swift \"a--hole\" at Golden Globes and it gets ...",
+        "link": "https://www.marca.com/en/lifestyle/celebrities/2024/01/08/659c153846163febad8b4590.html",
+        "snippet": "Jan 8, 2024 ... ... Stone indeed took home the award. Jo Koy's jokes fall flat as Golden Globes host. These genuinely funny and supportive moments stood out from ...",
+        "content": "[Content truncated]... he .\n\"I've known her for almost 20 years, so I'm very happy she was there. She was also nominated tonight, so I'm very happy she was there. But what an a-hole,\" Stone joked.\nEmma Stone shares viral moments with Taylor Swift and Jennifer Lawrence\n-----------------------------------------------------------------------\nDon't worry, there was no real **bad blood** between Stone and Swift, just banter between longtime friends. Stone's joke referred to Swift giving her an **embarrassingly loud ovation** when she won a Golden Globe for **Best Performance by a Female Actor** in a Motion Picture: Musical or Comedy.\nThe rest of the category was quite entertaining, as **Jennifer Lawrence** was seen dramatically mouthing, \"**if I don't win, I'm leaving**,\" before her friend Stone indeed took home the award.\nJo Koy's jokes fall flat as Golden Globes host\n----------------------------------------------\nThese genuinely funny and supportive moments stood out from the awards show in contrast to host **Jo Koy**, whose **problematic and unfunny monologue** did not go down well in the building or on social media.\n> "
+    },
+    "Query1_evidence_2": {
+        "title": "2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono ...",
+        "link": "https://www.billboard.com/music/awards/jo-koy-2024-golden-globes-talks-taylor-swift-reaction-monologue-kelce-joke-1235577753/",
+        "snippet": "Jan 8, 2024 ... Jo Koy talked Taylor Swift's icy reaction to the 2024 Golden Globes host's monologue joke about how often she's shown during Travis Kelce's ...",
+        "content": "2024 Golden Globes Host Jo Koy on Taylor Swift's Reaction to Mono Joke\n===============\n*   \n*   \n*   \n*   \n*   \n*   \nLOGIN Login\nClick to Expand Search Input\nSearch for:  \nAccount\n*   \n*   Log Out\nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nOpen menu\nSearch Click to Expand Search Input\nSearch Click to Expand Search Input\nSearch for:  \nLOGIN Login\nAccount\n*   \n*   Log Out\nSearch Click to Expand Search Input\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n01/8/2024\nHere’s How Golden Globes Host Jo Koy Felt About Taylor Swift’s Icy Reaction to His NFL Monologue Joke\n=====================================================================================================\nThe comedian's quip about the football league's handling of Swift's relationship with Travis Kelce did not go over well on Sunday night (Jan. 7).\nBy \n### \n#### More Stories by Gil Kaufman\n*   \n*   \n*   \n01/8/2024\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]"
+    },
+    "Query2_evidence_1": {
+        "title": "Jo Koy's Golden Globes opening monologue gets backlash: See the ...",
+        "link": "https://www.usatoday.com/story/entertainment/movies/2024/01/07/jo-koy-golden-globes-opening-monologue-2024/72145197007/",
+        "snippet": "Jan 7, 2024 ... Jo Koy's opening monologue — and Taylor Swift joke — at the 2024 Golden Globe Awards was met with blank stares and critiques online.",
+        "content": "'s first time hosting the  did not seem to go over well with the stars in the room and audiences on social media.\nKoy began the 2024 ceremony with an opening monologue referencing  and weaving in jokes about films up for nomination.\nThe stand-up comedian likened 's penis in \"\" to 's  joked that \"\" needed to be \"another hour\" and called \"\" a movie about \"a plastic doll with big boobies,\" the latter of which was met with unamused stares from  and the film's director .\n**ICYMI Golden Globes 2024:**\n\"It was kind of weird being attracted to a plastic doll,\" Koy added as he turned to \"Barbie\" star Ryan Gosling. \"It's just something about your eyes, Ryan.\"\n**Need a break?** \nKoy seemed to realize some of the jokes were falling flat. \"I got the gig 10 days ago! You want a perfect monologue? Yo, shut up. You're kidding me, right?\" he quipped to the audience.\n**'Oppenheimer,' 'Succession,' Emma Stone:**\n\"Slow down, I wrote some of these and they are the ones you are laughing at,\" he added of the jokes.\nPerhaps the biggest blunder of the night came when . \"As you know, we came on after a football double header. The big difference between the Golden Globes and the NFL. On the Golden Globes, we...[Content truncated]"
+    }
+},
+      "Task": "Based on the evidence extracted, generate an explanatory answer to the question: 'Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?' that references the evidence. Note to add the referenced evidence number after the argument for each reason, e.g., [Query 1_evidence1····]. And evaluate the confidence (XX%) of your answer based on the analysis of the above evaluation of the evidence and the logic of the reasoning process."
+    }
+    
+2024-08-03 23:25:49 - Thread-363 (process_claim_verification) - INFO - ################## Question Answer Output (Attempt 1) ##################
+2024-08-03 23:25:49 - Thread-363 (process_claim_verification) - INFO - Yes, the video clearly shows Emma Stone making the comment about Jo Koy being an "a--hole." In the video, Emma Stone describes her long relationship with Taylor Swift and jokingly states, "But what an a-hole," in reference to a humorous context that is tied to the awards ceremony. This specific comment aligns with coverage from several reputable sources, confirming that she made the remark during the Golden Globes event.
+
+The evidence indicates that Emma Stone's comments were made while she was speaking affectionately about Taylor Swift, amidst the backdrop of Jo Koy's attempted jokes that did not resonate well with the audience [Query1_evidence1]. Additionally, reports note that Stone's joke was perceived as lighthearted banter, implying there was no actual animosity in her comment, but it reflects humor tied to the event's context [Query1_evidence1]. 
+
+Jo Koy's jokes during the ceremony received backlash, further contextualizing Stone's comment and showcasing how her remark was part of a comedic exchange rather than a serious insult [Query2_evidence1]. 
+
+Given these points, I am highly confident (90%) that the video clearly shows Emma Stone making the comment about Jo Koy being an "a--hole," as evidenced by the corroboration from multiple sources describing the event and the nature of her comment.
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - INFO - IR results saved to: /workspaces/IR_pipe/83_new_examples_n/46593605/Initial_Question_Generation/IR_result.json
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - WARNING - --------------------------------
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - WARNING - --------- QA Validator ---------
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - WARNING - --------------------------------
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - INFO - ################## QA Validator Input (Attempt 1) ##################
+2024-08-03 23:25:54 - Thread-363 (process_claim_verification) - INFO - 
+{
+    "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+    "Video_information": {"video_date": 20240108.0, "platform": "twitter", "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes", "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+    "QA_CONTEXTS": {"Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?", "Answer": "Yes, the video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' In the video, Emma Stone describes her long relationship with Taylor Swift and jokingly states, 'But what an a-hole,' in reference to a humorous context that is tied to the awards ceremony. This specific comment aligns with coverage from several reputable sources, confirming that she made the remark during the Golden Globes event. The evidence indicates that Emma Stone's comments were made while she was speaking affectionately about Taylor Swift, amidst the backdrop of Jo Koy's attempted jokes that did not resonate well with the audience. Additionally, reports note that Stone's joke was perceived as lighthearted banter, implying there was no actual animosity in her comment, but it reflects humor tied to the event's context. Jo Koy's jokes during the ceremony received backlash, further contextualizing Stone's comment and showcasing how her remark was part of a comedic exchange rather than a serious insult.", "Confidence": "90%"},
+    "Task": "Based on the QA_CONTEXTS, determine if there is enough information to establish whether the Claim is true or false. Provide your answer in the 'QApairIsUseful' section. Answer 'yes' if the Question_Answer pair is valuable for verifying the Claim's accuracy, or 'no' if it is not valuable. Additionally, provide a detailed and specific reason for your answer."
+    "QApairIsUseful": {
+        "Useful": "yes / no",
+        "Reason": ""
+    }
+}
+
+2024-08-03 23:25:56 - Thread-363 (process_claim_verification) - INFO - ################## QA Validator Output (Attempt 1) ##################
+2024-08-03 23:25:56 - Thread-363 (process_claim_verification) - INFO - {
+    "QApairIsUseful": {
+        "Useful": "yes",
+        "Reason": "The QA_CONTEXTS provide a clear affirmation that Emma Stone did indeed make the comment about Jo Koy being an 'a--hole' during the Golden Globes event in a humorous context. The detailed transcript of her comment and the explanation of the situation confirm the authenticity of the claim. Additionally, the context establishes that her remark was part of a comedic exchange related to Jo Koy's performance, further validating the claim. The high confidence level of 90% in the answer also supports the reliability of this information. Therefore, this Q&A pair is valuable for verifying the accuracy of the Claim."
+    }
+}
+2024-08-03 23:25:59 - Thread-363 (process_claim_verification) - INFO - Updated CV_result.json with QA data from IR_result.json
+2024-08-03 23:25:59 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:25:59 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:25:59 - Thread-363 (process_claim_verification) - WARNING - --------- Claim Verifier ---------
+2024-08-03 23:25:59 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:26:06 - Thread-363 (process_claim_verification) - INFO - ################## Claim Verifier Input ##################
+2024-08-03 23:26:06 - Thread-363 (process_claim_verification) - INFO - 
+{
+  "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+  "Video_information": {'video_date': 20240108.0, 'platform': 'twitter', 'video_headline': 'Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes', 'video_transcript': "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", 'Video_descriptor': "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+  "QA_CONTEXTS": {'Initial_Question_Generation': {'Question': "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?", 'Answer': "Yes, the video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' In the video, Emma Stone describes her long relationship with Taylor Swift and jokingly states, 'But what an a-hole,' in reference to a humorous context that is tied to the awards ceremony. This specific comment aligns with coverage from several reputable sources, confirming that she made the remark during the Golden Globes event. The evidence indicates that Emma Stone's comments were made while she was speaking affectionately about Taylor Swift, amidst the backdrop of Jo Koy's attempted jokes that did not resonate well with the audience. Additionally, reports note that Stone's joke was perceived as lighthearted banter, implying there was no actual animosity in her comment, but it reflects humor tied to the event's context. Jo Koy's jokes during the ceremony received backlash, further contextualizing Stone's comment and showcasing how her remark was part of a comedic exchange rather than a serious insult.", 'Confidence': '90%'}},
+  "Task": "Based on the content of the Video_information and the QA_CONTEXTS, accurately and rigorously determine whether the existing information is sufficient to judge the truthfulness of the claim. Can we determine the truthfulness of the claim based on the existing information? Please provide a reliability probability, clearly answer 'Yes' (the existing information is sufficient to determine the truthfulness) or 'No' (the existing information is insufficient to determine the truthfulness), and provide a detailed reason for your judgment. Include specific evidence from the provided information to support your conclusion. Answer 'Yes' only if the reliability probability is sufficiently high.",
+  "Output_Format": {
+    "CVResult": {
+      "Judgment": "Yes or No",
+      "Confidence": "0%~100%",
+      "Reason": "Detailed explanation for the judgment, including specific evidence from the provided information that explains why the information is sufficient or insufficient to determine the truthfulness of the claim"
+    }
+  }
+}
+The final output must be in valid JSON format, strictly adhering to the structure specified in the 'Output_Format' field. Provide a 'Yes' or 'No' judgment, a reliability probability ranging from 0% to 100%, and a detailed reason explaining your judgment with specific evidence. Ensure that the entire response is a properly formatted JSON object.
+
+2024-08-03 23:26:06 - Thread-363 (process_claim_verification) - INFO - ################## Claim Verifier Raw Output ##################
+2024-08-03 23:26:06 - Thread-363 (process_claim_verification) - INFO - ```json
+{
+  "CVResult": {
+    "Judgment": "Yes",
+    "Confidence": "90%",
+    "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The video transcript explicitly includes Emma Stone stating, 'What an asshole,' which directly references Jo Koy in a manner that aligns with the claim. Furthermore, the context provided indicates that this comment was made during the Golden Globes event, where her remarks were intended as humorous rather than malicious. Reports note that her comments were part of a lighthearted banter related to Jo Koy's jokes, which further substantiates the claim. Thus, the evidence is robust, and the claim is deemed truthful with a high level of confidence."
+  }
+}
+```
+2024-08-03 23:26:08 - Thread-363 (process_claim_verification) - INFO - New process_claim_verifier result - Judgment: True, Confidence: 0.9
+2024-08-03 23:26:08 - Thread-363 (process_claim_verification) - WARNING - 
+
+
+
+
+
+2024-08-03 23:26:08 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:26:08 - Thread-363 (process_claim_verification) - WARNING - --------- Final Reasoner ---------
+2024-08-03 23:26:08 - Thread-363 (process_claim_verification) - WARNING - ----------------------------------
+2024-08-03 23:26:14 - Thread-363 (process_claim_verification) - INFO - ################## Final Reasoner Input (Attempt 1) ##################
+2024-08-03 23:26:14 - Thread-363 (process_claim_verification) - INFO - 
+{
+  "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an "a--hole" for making a joke about Taylor Swift.",
+  "Video_information": {'video_date': 20240108.0, 'platform': 'twitter', 'video_headline': 'Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes', 'video_transcript': "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.", 'Video_descriptor': "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."},
+  "QA_CONTEXTS": {'Initial_Question_Generation': {'Question': "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?", 'Answer': "Yes, the video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' In the video, Emma Stone describes her long relationship with Taylor Swift and jokingly states, 'But what an a-hole,' in reference to a humorous context that is tied to the awards ceremony. This specific comment aligns with coverage from several reputable sources, confirming that she made the remark during the Golden Globes event. The evidence indicates that Emma Stone's comments were made while she was speaking affectionately about Taylor Swift, amidst the backdrop of Jo Koy's attempted jokes that did not resonate well with the audience. Additionally, reports note that Stone's joke was perceived as lighthearted banter, implying there was no actual animosity in her comment, but it reflects humor tied to the event's context. Jo Koy's jokes during the ceremony received backlash, further contextualizing Stone's comment and showcasing how her remark was part of a comedic exchange rather than a serious insult.", 'Confidence': '90%'}},
+  "Task": "Is this Claim true or false considering the provided Video information? And which information type does it belong to: Real, Unverified, Outdated, or False? If 'False,' specify the type: False video description, Video Clip Edit, Computer-generated Imagery, False speech, Staged Video, Text-Video Contradictory, Text unsupported by the video. Please provide your reasoning process. Ensure the final answer addresses all the following aspects: Answer, Reasons, Therefore, the Claim authenticity is, The information type is, If it is false, the specific type of False Information is.",
+  "Output_Answer_Format": {
+    "Answer": "",
+    "Reasons": "",
+    "Therefore, the Claim authenticity is": "",
+    "The information type is": "",
+    "If it is false, the specific type of False Information is": ""
+  },
+  "Please Note": "Make sure to address Answer, Reasons, Therefore, the Claim authenticity is, The information type is, If it is false, the specific type of False Information is, specifically based on the provided Video information.",
+  "Evidence Citation Guidelines": {
+    "1. Reference Format": "For each argument or piece of information used, add the referenced evidence number after it.",
+    "2. Citation Format": "Use the format [Question_type Question_number_Query number_evidence number] for your references. For example:",
+      "- Initial Question Generation": "[Initial_Question_Generation_Query X_evidenceY]",
+      "- Follow Up Questions": "[Follow_Up_Question_Z_Query X_evidenceY]",
+      "Where X is the query number, Y is the evidence number, and Z is the follow-up question number.",
+    "3. Comprehensive Referencing": "Ensure that every piece of information drawn from the provided evidence is properly referenced.",
+    "4. Answer Quality": "Strive for a comprehensive yet concise answer that directly addresses the question while incorporating relevant evidence.",
+    "5. Output Inclusion": "When citing evidence in the final output, include the full reference tag (e.g., [Follow_Up_Question_1_Query 1_evidence_2]) in the 'Reasons' section of the Output_Answer_Format."
+  }
+}
+
+2024-08-03 23:26:17 - Thread-363 (process_claim_verification) - INFO - ################## Final Reasoner Raw Output (Attempt 1) ##################
+2024-08-03 23:26:17 - Thread-363 (process_claim_verification) - INFO - {
+  "Answer": "True",
+  "Reasons": "The video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' She is speaking about her long relationship with Taylor Swift and jokingly remarks, 'But what an a-hole,' indicating that her comment is within a humorous context. Multiple reputable sources confirm this interpretation of her statement during the Golden Globes ceremony, suggesting it was part of an affectionate and lighthearted exchange rather than an actual insult. Additionally, coverage notes that Jo Koy's jokes during the event received mixed reactions from the audience, and Stone's comment can be seen as a playful jab tied to that context. Therefore, it matches the claim accurately and reflects the jovial atmosphere of the event [Initial_Question_Generation_Query 1_evidence 1].",
+  "Therefore, the Claim authenticity is": "True",
+  "The information type is": "Real",
+  "If it is false, the specific type of False Information is": ""
+}
+2024-08-03 23:26:21 - Thread-363 (process_claim_verification) - INFO - The claim processing result has been generated and successfully saved.
+2024-08-03 23:26:21 - Thread-363 (process_claim_verification) - INFO - final_json_answer 
+{'Final_Judgement': {'Answer': 'True', 'Reasons': "The video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' She is speaking about her long relationship with Taylor Swift and jokingly remarks, 'But what an a-hole,' indicating that her comment is within a humorous context. Multiple reputable sources confirm this interpretation of her statement during the Golden Globes ceremony, suggesting it was part of an affectionate and lighthearted exchange rather than an actual insult. Additionally, coverage notes that Jo Koy's jokes during the event received mixed reactions from the audience, and Stone's comment can be seen as a playful jab tied to that context. Therefore, it matches the claim accurately and reflects the jovial atmosphere of the event [Initial_Question_Generation_Query 1_evidence 1].", 'Therefore, the Claim authenticity is': 'True', 'The information type is': 'Real'}}

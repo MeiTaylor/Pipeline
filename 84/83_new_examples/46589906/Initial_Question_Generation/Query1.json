@@ -1,0 +1,2096 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - How do key fobs work and transmit signals?",
+                "totalResults": "6160000",
+                "searchTerms": "How do key fobs work and transmit signals?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - How do key fobs work and transmit signals?",
+                "totalResults": "6160000",
+                "searchTerms": "How do key fobs work and transmit signals?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.26291,
+        "formattedSearchTime": "0.26",
+        "totalResults": "6160000",
+        "formattedTotalResults": "6,160,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Key fobs are constantly broadcasting a signal that communicates ...",
+                "htmlTitle": "<b>Key fobs are</b> constantly broadcasting a <b>signal</b> that communicates ...",
+                "link": "https://news.ycombinator.com/item?id=18608624",
+                "displayLink": "news.ycombinator.com",
+                "snippet": "In typical designs, the car continually transmits a low-frequency (e.g., 135 kHz) radio signal to wake up any wireless keys within range. When a key receives ...",
+                "htmlSnippet": "In typical designs, the car continually <b>transmits</b> a low-frequency (e.g., 135 kHz) radio <b>signal to</b> wake up any wireless <b>keys</b> within range. When a <b>key</b> receives&nbsp;...",
+                "formattedUrl": "https://news.ycombinator.com/item?id=18608624",
+                "htmlFormattedUrl": "https://news.ycombinator.com/item?id=18608624",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "viewport": "width=device-width, initial-scale=1.0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Hacker News new | past | comments | ask | show | jobs | submit\tlogin\nsnarfy on Dec 5, 2018 | parent | context | favorite | on: Thieves boosting signal from key fobs inside homes...\n> Key fobs are constantly broadcasting a signal that communicates with a specific vehicle, he said, and when it comes into a close enough range, the vehicle will open and start.\nWhy is it transmitting without the user pressing a button? Is that a feature? As you walk up to the car it automatically starts like magic? I'm not familiar with these newer cars.\nwsh on Dec 5, 2018 | next \nYes, it’s a feature, so you don’t have to remove the key from a bag or pocket to enter or start the car.\nIn typical designs, the car continually transmits a low-frequency (e.g., 135 kHz) radio signal to wake up any wireless keys within range. When a key receives this signal, it replies with a VHF (e.g., 315 MHz) signal, and the car unlocks or starts when a door is opened or the start button is pressed.\nThe reply signal, at least, is uniquely coded to the car. The attack is to extend the range of the LF wake-up signal, causing a key stored away from the car to transmit a valid reply.\nIn some models, besides the transponder described above, the key also has a passive RFID tag, which works with a reader in the car to allow starting even if the battery in the key is dead.\n(The article is wrong about the broadcasts, by the way; if the key transmitted continually, its battery wouldn’t last long.)\nryandrake on Dec 5, 2018 | parent | next \nThis is insane. Please tell me this is an option that non-insane consumers can get their car without. Fortunately I drive an old car so this does not affect me—yet. If I ever have to replace mine, this looks like yet-another-misfeature I’ll have to look out for to avoid.\nwhyaduck on Dec 5, 2018...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "How Do Key Fobs Work? - John M Jennings",
+                "htmlTitle": "How <b>Do Key Fobs Work</b>? - John M Jennings",
+                "link": "https://johnmjennings.com/how-do-key-fobs-work/",
+                "displayLink": "johnmjennings.com",
+                "snippet": "Aug 16, 2019 ... Future generations won't know that we used to use actual keys to unlock and start our cars. Key fobs transmit a radio signal to the car and if ...",
+                "htmlSnippet": "Aug 16, 2019 <b>...</b> Future generations won&#39;t know that we used <b>to</b> use actual keys <b>to</b> unlock and start our cars. <b>Key fobs transmit</b> a radio <b>signal to</b> the car and if&nbsp;...",
+                "formattedUrl": "https://johnmjennings.com/how-do-key-fobs-work/",
+                "htmlFormattedUrl": "https://johnmjennings.com/<b>how-do</b>-<b>key</b>-<b>fobs</b>-<b>work</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSctP7UgXiSOsAJ93pDAQmNhhRD_g0clcYcg7eA-OBOra-y-TWSata2D5g&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.theifod.com/wp-content/uploads/2019/08/car-key-fob-not-working-57f182cb5f9b586c35574ca5.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2019-08-16T11:27:06+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "John M Jennings",
+                            "author": "John M. Jennings",
+                            "og:title": "How Do Key Fobs Work?",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://i0.wp.com/johnmjennings.com/wp-content/uploads/2023/03/cropped-lml-fav@.png?fit=270%2C270&ssl=1",
+                            "og:description": "Key fobs for remotely locking/unlocking car doors are standard equipment at this point and keyless ignitions using key fob recognition is now standard in over 60% of new car models according to Edmonds. Future generations won’t know that we used to use actual keys to unlock and start our cars. Key fobs transmit a radio […]",
+                            "twitter:data1": "John M. Jennings",
+                            "twitter:data2": "3 minutes",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+                            "og:locale": "en_US",
+                            "og:url": "https://johnmjennings.com/how-do-key-fobs-work/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.theifod.com/wp-content/uploads/2019/08/car-key-fob-not-working-57f182cb5f9b586c35574ca5.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "How Do Key Fobs Work? - John M Jennings\n=============== \n!     \n]\n*   \n    *   \n*   \n    *   \n*   \n    *   \n*   \n*   \n*   \n*   \n*   \nSelect Page\nHow Do Key Fobs Work?\n---------------------\nby  | Aug 16, 2019\n!\n!\n**Key fobs for remotely locking/unlocking car doors are standard equipment at this point** and **keyless ignitions using key fob recognition is now standard in over 60% of new car models** according to Edmonds. Future generations won’t know that we used to use actual keys to unlock and start our cars.\nKey fobs transmit a radio signal to the car and if the car recognizes the transmission as coming from the right fob(s) it will perform the command encoded in the radio transmission.\n**All key fobs of U.S. manufacturers use a radio signal frequency of 315 MHz** and foreign models us 433.92 MHz. Because all fobs use just one of two frequencies, **the security relies on both the fob (transmitter) and car electronics (receiver) knowing the same code which changes after every press of the key fob button** (or otherwise communicating with each other). Both the transmitter and receiver know the code numbers as they change because they are **programmed with the same code generating algorithm.** So, both the car and fob know what code number will be next due to sharing an algorithm.\nThe mathematics of the quasi-randomly generated codes is that it is **about a one-in-a-billion chance that a car would mistakenly unlock** because of a duplicate code transmission from a wrong fob.\n**What happens if you press the key fob button when you aren’t in range of the car?** Now the car receiver and fob transmitter are no longer in sync as the fob will move one code number ahead of the car receiver. This...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Any good ways to protect a key fob signal when locking and ...",
+                "htmlTitle": "Any good ways <b>to</b> protect a <b>key fob signal</b> when locking and ...",
+                "link": "https://www.reddit.com/r/CarHacking/comments/rixx8c/any_good_ways_to_protect_a_key_fob_signal_when/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Dec 18, 2021 ... I'm not sure if this is what you're looking for, but it's probably as much work as any alternatives.",
+                "htmlSnippet": "Dec 18, 2021 <b>...</b> I&#39;m not sure if this is what you&#39;re looking for, but it&#39;s probably as much <b>work</b> as any alternatives.",
+                "formattedUrl": "https://www.reddit.com/.../any_good_ways_to_protect_a_key_fob_signal_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../any_good_ways_to_protect_a_<b>key</b>_fob_signal_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/rixx8c",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/CarHacking on Reddit: Any good ways to protect a key fob signal when locking and unlocking a vehicle?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/CarHacking on Reddit: Any good ways to protect a key fob signal when locking and unlocking a vehicle?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/idkusername126 - 17 votes and 16 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/rixx8c",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/CarHacking/comments/rixx8c/any_good_ways_to_protect_a_key_fob_signal_when/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/rixx8c"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/CarHacking A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nCar Hacking - The ECU and protocols like CANbus have become the heart and brain of most modern cars, but it has also become a locked down black box. This is a place for people interested in taking back control of the car they bought. New age hot rodders, ECOmodders, Security researchers, the curious, the paranoid, and the tinkerers are all welcome. We encourage the use of open source solutions and tools like arduino and rasberry pi.\n* * *\nMembers Online\n•\nADMIN MOD\nAny good ways to protect a key fob signal when locking and unlocking a vehicle?\n===============================================================================\nI know about faraday pouches that protect the key fob when it's not in use. However, is there any way to help protect the key fob signal when locking and unlocking the car? I guess this is assuming that there isn't two-way authentication between the car and the key fob, which im not sure if that is implemented or not.\nRead more\n**Top 4%** \nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 499
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Should a key-fob be stored a metal coffee can? - General ...",
+                "htmlTitle": "Should a <b>key</b>-<b>fob</b> be stored a metal coffee <b>can</b>? - General ...",
+                "link": "https://community.cartalk.com/t/should-a-key-fob-be-stored-a-metal-coffee-can/194109",
+                "displayLink": "community.cartalk.com",
+                "snippet": "Jan 3, 2024 ... I'm having difficulty understanding this key fob security issue. I can see how a thief could intercept the fob's radio signal with ...",
+                "htmlSnippet": "Jan 3, 2024 <b>...</b> I&#39;m having difficulty understanding this <b>key fob</b> security issue. I <b>can</b> see how a thief <b>could</b> intercept the fob&#39;s radio <b>signal</b> with&nbsp;...",
+                "formattedUrl": "https://community.cartalk.com/t/should-a-key-fob-be-stored.../194109",
+                "htmlFormattedUrl": "https://community.cartalk.com/t/should-a-<b>key</b>-fob-be-stored.../194109",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-d1m_pGKfcrpr9pJcW6dHyB1qzEk8iQLNUWPjIKMP8YAa6QysNotSmY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://global.discourse-cdn.com/cartalk/original/3X/1/d/1d47c66a543aa6c5a7873bb2320858f978ff52ed.png"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "George_San_Jose1",
+                            "url": "George_San_Jose1"
+                        },
+                        {
+                            "name": "lion9car",
+                            "url": "lion9car"
+                        },
+                        {
+                            "name": "ledhed75",
+                            "url": "ledhed75"
+                        },
+                        {
+                            "name": "George_San_Jose1",
+                            "url": "George_San_Jose1"
+                        },
+                        {
+                            "name": "VDCdriver",
+                            "url": "VDCdriver"
+                        },
+                        {
+                            "name": "jtsanders",
+                            "url": "jtsanders"
+                        },
+                        {
+                            "name": "Barkydog",
+                            "url": "Barkydog"
+                        },
+                        {
+                            "name": "LoudThunder",
+                            "url": "LoudThunder"
+                        },
+                        {
+                            "name": "Hugemoth_144444",
+                            "url": "Hugemoth_144444"
+                        },
+                        {
+                            "name": "LoudThunder",
+                            "url": "LoudThunder"
+                        },
+                        {
+                            "name": "lion9car",
+                            "url": "lion9car"
+                        },
+                        {
+                            "name": "George_San_Jose1",
+                            "url": "George_San_Jose1"
+                        },
+                        {
+                            "name": "RandomTroll",
+                            "url": "RandomTroll"
+                        },
+                        {
+                            "name": "TheWonderful90s",
+                            "url": "TheWonderful90s"
+                        },
+                        {
+                            "name": "MikeInNH",
+                            "url": "MikeInNH"
+                        },
+                        {
+                            "name": "VDCdriver",
+                            "url": "VDCdriver"
+                        },
+                        {
+                            "name": "MikeInNH",
+                            "url": "MikeInNH"
+                        },
+                        {
+                            "name": "LoudThunder",
+                            "url": "LoudThunder"
+                        },
+                        {
+                            "name": "George_San_Jose1",
+                            "url": "George_San_Jose1"
+                        },
+                        {
+                            "name": "LoudThunder",
+                            "url": "LoudThunder"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Car Talk Community"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://global.discourse-cdn.com/cartalk/optimized/3X/7/9/79f28fd115bdfde9d1fbb850b75453e4f47c7d35_2_1024x576.jpeg",
+                            "theme-color": "#f3f3f3",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Should a key-fob be stored a metal coffee can?",
+                            "article:published_time": "2024-01-03T21:53:51+00:00",
+                            "og:site_name": "Car Talk Community",
+                            "twitter:url": "https://community.cartalk.com/t/should-a-key-fob-be-stored-a-metal-coffee-can/194109",
+                            "og:title": "Should a key-fob be stored a metal coffee can?",
+                            "og:description": "I’m having difficulty understanding this key fob security issue.  I can see how a thief could intercept the fob’s radio signal with speciality equipment  when you press the door-open or engine-start button, and then use that signal to open your car’s door and drive the car away.     But I don’t see how storing the fob in a metal can when it isn’t being used would be of any  help.  Anybody here have an explanation?",
+                            "twitter:image": "https://global.discourse-cdn.com/cartalk/optimized/3X/7/9/79f28fd115bdfde9d1fbb850b75453e4f47c7d35_2_1024x576.jpeg",
+                            "og:ignore_canonical": "true",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                            "twitter:description": "I’m having difficulty understanding this key fob security issue.  I can see how a thief could intercept the fob’s radio signal with speciality equipment  when you press the door-open or engine-start button, and then use that signal to open your car’s door and drive the car away.     But I don’t see how storing the fob in a metal can when it isn’t being used would be of any  help.  Anybody here have an explanation?",
+                            "og:article:section": "General Discussion",
+                            "og:url": "https://community.cartalk.com/t/should-a-key-fob-be-stored-a-metal-coffee-can/194109",
+                            "og:article:section:color": "D2B48C"
+                        }
+                    ],
+                    "discussionforumposting": [
+                        {
+                            "image": "https://global.discourse-cdn.com/cartalk/original/3X/7/9/79f28fd115bdfde9d1fbb850b75453e4f47c7d35.jpeg",
+                            "datemodified": "2024-01-03T21:53:51Z",
+                            "articlesection": "General Discussion",
+                            "position": "1",
+                            "text": "I’m having difficulty understanding this key fob security issue. I can see how a thief could intercept the fob’s radio signal with speciality equipment when you press the door-open or engine-st...",
+                            "headline": "Should a key-fob be stored a metal coffee can?",
+                            "url": "https://community.cartalk.com/t/should-a-key-fob-be-stored-a-metal-coffee-can/194109",
+                            "datepublished": "2024-01-03T21:53:51Z",
+                            "mainentityofpage": "https://community.cartalk.com/t/should-a-key-fob-be-stored-a-metal-coffee-can/194109"
+                        }
+                    ],
+                    "comment": [
+                        {
+                            "datemodified": "2024-01-03T22:13:04Z",
+                            "position": "2",
+                            "text": "With some cars, you don’t press a button on the fob to unlock the car; you just walk up to the car. The fob is clearly transmitting all of the time (although intermittently, I’m sure)....",
+                            "datepublished": "2024-01-03T22:13:04Z"
+                        },
+                        {
+                            "datemodified": "2024-01-03T22:15:59Z",
+                            "position": "3",
+                            "text": "I’ve said it before…but I sure miss plain ol’ metal keys.",
+                            "datepublished": "2024-01-03T22:15:59Z"
+                        },
+                        {
+                            "datemodified": "2024-01-03T22:18:54Z",
+                            "position": "4",
+                            "text": "lion9car: With some cars, you don’t press a button on the fob to unlock the car; you just walk up to the car. The fob is clearly transmitting all of the time Thanks for the explanation …...",
+                            "datepublished": "2024-01-03T22:18:54Z"
+                        },
+                        {
+                            "image": "https://global.discourse-cdn.com/cartalk/original/3X/5/7/572229ef169c3cb2516f3a8fd666cc0e470b191b.jpeg",
+                            "datemodified": "2024-01-03T22:50:36Z",
+                            "position": "5",
+                            "text": "lion9car: With some cars, you don’t press a button on the fob to unlock the car; you just walk up to the car. The fob is clearly transmitting all of the time (although intermittently, I’m...",
+                            "datepublished": "2024-01-03T22:50:36Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T02:52:17Z",
+                            "position": "6",
+                            "text": "You could just make a Faraday cage out of aluminum foil. You could also use a sardine or tuna can after it’s opened and seal the top with aluminum foil. Those metal cans that mints come in...",
+                            "datepublished": "2024-01-04T02:52:17Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T05:15:28Z",
+                            "position": "7",
+                            "text": "Just tried an experiment, key fob maybe 20 feet from the car in my coat pocket. Tried to start the 2017 rav 4, key not detected. Still can lock the doors with fob in coat pocket. Now the battery...",
+                            "datepublished": "2024-01-04T05:10:02Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T06:55:59Z",
+                            "position": "8",
+                            "text": "I was moving the 2020 Honda and the 2019 Toyota around in my driveway and wife was out there too. I had both fobs in my pockets and I asked the wife to move the Honda and when she sat down...",
+                            "datepublished": "2024-01-04T06:55:59Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T10:52:45Z",
+                            "position": "9",
+                            "text": "When I bought my last new car in 2018 I searched for one with an old fashioned metal key, a big plus in my book. There weren’t many available but I found one and bought it.",
+                            "datepublished": "2024-01-04T10:52:45Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T15:00:03Z",
+                            "position": "10",
+                            "text": "Hugemoth_144444: I searched for one with an old fashioned metal key, My 2020 Honda and 2019 Toyota both came with a metal key. The key is an insert in the fob. Each vehicle comes with one mechanica...",
+                            "datepublished": "2024-01-04T15:00:03Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T20:09:52Z",
+                            "position": "11",
+                            "text": "ledhed75: I’ve said it before…but I sure miss plain ol’ metal keys. You must enjoy trying to dig out a key when one hand is holding an umbrella and the other hand is holding grocery bags....",
+                            "datepublished": "2024-01-04T20:09:52Z"
+                        },
+                        {
+                            "datemodified": "2024-01-04T20:59:16Z",
+                            "position": "12",
+                            "text": "VDCdriver: The other “solution” is to keep your key fobs in a Faraday Box when they are not being used. Yeah, that’d work … lol … but I expect most car owners would say something...",
+                            "datepublished": "2024-01-04T20:59:16Z"
+                        },
+                        {
+                            "datemodified": "2024-01-05T01:53:00Z",
+                            "position": "13",
+                            "text": "lion9car: You must enjoy trying to dig out a key when one hand is holding an umbrella and the other hand is holding grocery bags. A little planning can prevent this. George_San_Jose1: The alternati...",
+                            "datepublished": "2024-01-05T01:53:00Z"
+                        },
+                        {
+                            "datemodified": "2024-01-05T02:37:47Z",
+                            "position": "14",
+                            "text": "George_San_Jose1: i.e. a rolling code that changes each time the button is pressed. It doesn’t work because they are unlocking the door and starting the car while the remote link is active...",
+                            "datepublished": "2024-01-05T02:37:47Z"
+                        },
+                        {
+                            "datemodified": "2024-01-05T15:28:38Z",
+                            "position": "15",
+                            "text": "lion9car: You must enjoy trying to dig out a key when one hand is holding an umbrella and the other hand is holding grocery bags. I don’t. I still have a key. But my wife’s 07 Lexus is...",
+                            "datepublished": "2024-01-05T15:28:38Z"
+                        },
+                        {
+                            "datemodified": "2024-01-05T16:45:04Z",
+                            "position": "16",
+                            "text": "MikeInNH: She likes the fact of not having to fumble through her purse for the key. When she touches the drivers door it unlocks that door ONLY. She then has to manually unlock the other doors...",
+                            "datepublished": "2024-01-05T16:45:04Z"
+                        },
+                        {
+                            "datemodified": "2024-01-05T21:18:11Z",
+                            "position": "17",
+                            "text": "VDCdriver: You might want to check to see if this can also be done on her car Actually she likes that. It gives her a sense of security knowing that someone she doesn’t want to get in through...",
+                            "datepublished": "2024-01-05T21:18:11Z"
+                        },
+                        {
+                            "image": "https://global.discourse-cdn.com/cartalk/original/3X/0/5/0527dd7fdf74389a00c6b1aabfd9322a5ee8fbf5.jpeg",
+                            "datemodified": "2024-01-06T06:14:00Z",
+                            "position": "18",
+                            "text": "A key fob contains a short-range radio transmitter/radio frequency identification (RFID) chip and antenna. It uses radio frequencies to send a distinct coded signal to the receiver unit in...",
+                            "datepublished": "2024-01-06T06:14:00Z"
+                        },
+                        {
+                            "datemodified": "2024-01-06T22:03:53Z",
+                            "position": "19",
+                            "text": "LoudThunder: By storing your car keys, fob or card in an aluminum tin (even grandma’s old biscuit tins), or a special signal blocking box, the signal between the car and key will probably...",
+                            "datepublished": "2024-01-06T22:03:53Z"
+                        },
+                        {
+                            "datemodified": "2024-01-07T01:01:59Z",
+                            "position": "20",
+                            "text": "George_San_Jose1: But I still don’t understand how storing the fob in a faraday cage would help. Car thieves can steal a car using what is called a Relay Attack. As I wrote, when a fob’ed...",
+                            "datepublished": "2024-01-07T01:01:59Z"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://global.discourse-cdn.com/cartalk/optimized/3X/7/9/79f28fd115bdfde9d1fbb850b75453e4f47c7d35_2_1024x576.jpeg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "next page →",
+                            "url": "next page →"
+                        },
+                        {
+                            "name": "Home",
+                            "url": "Home"
+                        },
+                        {
+                            "name": "Categories",
+                            "url": "Categories"
+                        },
+                        {
+                            "name": "Guidelines",
+                            "url": "Guidelines"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "Terms of Service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "Privacy Policy"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "General Discussion",
+                            "name": "General Discussion",
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "I’m having difficulty understanding this key fob security issue.  I can see how a thief could intercept the fob’s radio signal with speciality equipment  when you press the door-open or engine-start button, and then use that signal to open your car’s door and drive the car away.     But I don’t see how storing the fob in a metal can when it isn’t being used would be of any  help.  Anybody here have an explanation?\nCrimes committed by tech-savvy car thieves using special tools purchased on the internet are contributing to a spike vehicle thefts.\nWith some cars, you don’t press a button on the fob to unlock the car; you just walk up to the car. The fob is clearly transmitting all of the time (although intermittently, I’m sure).\nAs for the metal can, look up a Faraday shield if you’ve never heard of that, although you’d probably need a metal lid to complete the enclosure.\nI’ve said it before…but I sure miss plain ol’ metal keys.\nWith some cars, you don’t press a button on the fob to unlock the car; you just walk up to the car. The fob is clearly transmitting all of the time\nThanks for the explanation …  hmmm...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Car Key Emulation - Sub-GHz - Flipper Forum",
+                "htmlTitle": "Car <b>Key</b> Emulation - Sub-GHz - Flipper Forum",
+                "link": "https://forum.flipper.net/t/car-key-emulation/1094",
+                "displayLink": "forum.flipper.net",
+                "snippet": "Oct 11, 2020 ... It would be amazing if one could use the Flipper as a backup car key, not to mention a huge money saver compared to buying another key from ...",
+                "htmlSnippet": "Oct 11, 2020 <b>...</b> It <b>would</b> be amazing if one <b>could</b> use the Flipper as a backup car <b>key</b>, not <b>to</b> mention a huge money saver compared <b>to</b> buying another <b>key</b> from&nbsp;...",
+                "formattedUrl": "https://forum.flipper.net/t/car-key-emulation/1094",
+                "htmlFormattedUrl": "https://forum.flipper.net/t/car-<b>key</b>-emulation/1094",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjnbngs7gg62sZTUoADfF-I5qTHs-DEAhjPuJbgWcg8jAPXcxnrcF&s",
+                            "width": "105",
+                            "height": "78"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "Pwgot",
+                            "url": "Pwgot"
+                        },
+                        {
+                            "name": "M_T",
+                            "url": "M_T"
+                        },
+                        {
+                            "name": "Pwgot",
+                            "url": "Pwgot"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "TigPT",
+                            "url": "TigPT"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "TigPT",
+                            "url": "TigPT"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "TigPT",
+                            "url": "TigPT"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "TigPT",
+                            "url": "TigPT"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "TigPT",
+                            "url": "TigPT"
+                        },
+                        {
+                            "name": "j0s",
+                            "url": "j0s"
+                        },
+                        {
+                            "name": "RyanGT",
+                            "url": "RyanGT"
+                        },
+                        {
+                            "name": "kraykray",
+                            "url": "kraykray"
+                        },
+                        {
+                            "name": "Tom",
+                            "url": "Tom"
+                        },
+                        {
+                            "name": "minebul1",
+                            "url": "minebul1"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "7",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "4",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "8",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png",
+                            "theme-color": "#111111",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Car Key Emulation",
+                            "article:published_time": "2020-10-11T13:30:30+00:00",
+                            "og:site_name": "Flipper Forum",
+                            "twitter:url": "https://forum.flipper.net/t/car-key-emulation/1094",
+                            "og:title": "Car Key Emulation",
+                            "og:description": "It would be amazing if one could use the Flipper as a backup car key, not to mention a huge money saver compared to buying another key from the dealership.  Potentially multiple frequencies. Unclear if there is a use case for push to start literally pressing on the ignition vs. the other key functions (former works with no battery in FOB).  Info on RF modulation and if it’s possible to store multiple “keys” to use the Flipper as a backup key - broadly I think that captures it and would be a HUGE...",
+                            "twitter:image": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png",
+                            "og:ignore_canonical": "true",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                            "twitter:description": "It would be amazing if one could use the Flipper as a backup car key, not to mention a huge money saver compared to buying another key from the dealership.  Potentially multiple frequencies. Unclear if there is a use case for push to start literally pressing on the ignition vs. the other key functions (former works with no battery in FOB).  Info on RF modulation and if it’s possible to store multiple “keys” to use the Flipper as a backup key - broadly I think that captures it and would be a HUGE...",
+                            "og:url": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        }
+                    ],
+                    "discussionforumposting": [
+                        {
+                            "articlebody": "It would be amazing if one could use the Flipper as a backup car key, not to mention a huge money saver compared to buying another key from the dealership. Potentially multiple frequencies....",
+                            "datemodified": "2020-10-11T13:30:30Z",
+                            "position": "#1",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-11T13:30:30Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "You can’t. The best you could do is a replay attack, that would work only once. You cant’t just clone a key that uses rolling codes without knowing the algorithem and seed. The flipper...",
+                            "datemodified": "2020-10-13T09:15:26Z",
+                            "position": "#2",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-13T09:15:26Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "I agree, the most feasible is to capture using the flipper, jam the same code signal so it doesn’t reach the car and then replay it, and there’s no guarantee that would work. That would...",
+                            "datemodified": "2020-10-13T09:19:42Z",
+                            "position": "#3",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-13T09:19:42Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Ryan if you are interested in RF hacking this is a good talk: https://www.youtube.com/watch?v=1RipwqJG50c It also discusses carkeys",
+                            "datemodified": "2020-10-13T09:22:18Z",
+                            "position": "#4",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-13T09:22:18Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Thanks for the reference link. The replay may be feasible for starting the car as I believe that functions a little differently (works with no battery, but the key has to be basically on top...",
+                            "datemodified": "2020-10-14T01:47:58Z",
+                            "position": "#5",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-14T01:47:58Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Most of the times when you see car key emulations it is with the car brand repair tools that have leaked from some repair shop and it is badly used. In movies it’s pretty simple, but as they...",
+                            "datemodified": "2020-10-16T05:36:59Z",
+                            "position": "#6",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-16T05:36:59Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "I am looking specifically for the case where I have the private key and need it cloned, not to get into any vehicle off the street.",
+                            "datemodified": "2020-10-17T00:13:53Z",
+                            "position": "#7",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-17T00:13:53Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "The lockdown doesn’t happen. I get invalid key ID all the time with my legit key from the Dealership and every once in a while many many times in a row - at least a dozen on one occasion...",
+                            "datemodified": "2020-10-17T00:18:20Z",
+                            "position": "#8",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-17T00:18:20Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "You don’t have the hash function even if you have the private key, you would need to have access to car manufacture source code.",
+                            "datemodified": "2020-10-17T09:24:07Z",
+                            "position": "#9",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-17T09:24:07Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "I’m not sure if you could make something that could intermittently work based off known values, depending on how long the hash is. I running off the assumption that it’s not practical to...",
+                            "datemodified": "2020-10-17T14:09:04Z",
+                            "position": "#10",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-17T14:09:04Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "I’m not an expert on the subject, but I think that most of the used car keys, you can’t simply copy one to another, what you normally do is program the car to accept the new key. You can...",
+                            "datemodified": "2020-10-20T06:54:35Z",
+                            "position": "#11",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-20T06:54:35Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "I’ll try searching for the iPhone NFC emulation as I haven’t heard a peep about that - I would be all over it though! I wonder how they would get that to work… You have a link or any...",
+                            "datemodified": "2020-10-20T22:10:15Z",
+                            "position": "#12",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-20T22:10:15Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Apple Support Use your iPhone or Apple Watch as a car key Learn how to add car keys to Apple Wallet, and how to use your iPhone or Apple Watch to unlock and start your car.",
+                            "datemodified": "2020-10-20T22:32:43Z",
+                            "position": "#13",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-20T22:32:43Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Thanks! Looks like it’s only for a small selection of BMW cars for the moment, but the future may be sooner than later XD. Very cool",
+                            "datemodified": "2020-10-20T23:03:32Z",
+                            "position": "#14",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-20T23:03:32Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Hope that apple helps push this to every lock, cars, houses, etc. Old metal keys are so easy to copy or bypass. We need a future with crypto keys",
+                            "datemodified": "2020-10-21T06:47:24Z",
+                            "position": "#15",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-21T06:47:24Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "For my 6 year old car I can buy a replacement key with remote to unlock the doors and transponder to start the ignition for less than 20€ including shipping from China. At least the manufacturers...",
+                            "datemodified": "2020-10-22T22:48:05Z",
+                            "position": "#16",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-22T22:48:05Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Can you please share a link? I def want to do some additional background research on this to see what info they need to accomplish this. I am assuming from your post that you didn’t have...",
+                            "datemodified": "2020-10-23T21:10:42Z",
+                            "position": "#17",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-10-23T21:10:42Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Interesting discussion, but I’m curious, would this work with older cars? I know encryption on keys has gotten MUCH better in the last decade, but what about older 2000-2010 vehicles (or even 90s)?",
+                            "datemodified": "2020-12-16T16:34:57Z",
+                            "position": "#18",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-12-16T16:34:57Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "So I work in this field. I don’t think cloning a keyless key would be a great idea - would knock out your original key once it’s used. Could possibly emulate a key but you would have to...",
+                            "datemodified": "2020-12-30T10:46:16Z",
+                            "position": "#19",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2020-12-30T10:46:16Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        },
+                        {
+                            "articlebody": "Is it possible to capture a couple of keys to generate their algorithm for the future applying?",
+                            "datemodified": "2021-01-21T08:54:01Z",
+                            "position": "#20",
+                            "headline": "Car Key Emulation",
+                            "datepublished": "2021-01-21T08:54:01Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/car-key-emulation/1094"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "next page →",
+                            "url": "next page →"
+                        },
+                        {
+                            "name": "Home",
+                            "url": "Home"
+                        },
+                        {
+                            "name": "Categories",
+                            "url": "Categories"
+                        },
+                        {
+                            "name": "FAQ/Guidelines",
+                            "url": "FAQ/Guidelines"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "Terms of Service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "Privacy Policy"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Sub-GHz",
+                            "name": "Sub-GHz",
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "It would be amazing if one could use the Flipper as a backup car key, not to mention a huge money saver compared to buying another key from the dealership.\nPotentially multiple frequencies. Unclear if there is a use case for push to start literally pressing on the ignition vs. the other key functions (former works with no battery in FOB).\nInfo on RF modulation and if it’s possible to store multiple “keys” to use the Flipper as a backup key - broadly I think that captures it and would be a HUGE money saver\nI’m not sure on the last one, but the only other category calling out other frequencies didn’t look best suited at a glance.\nThere’s a complication of “Rolling Codes” used by car keys that I don’t fully understand how difficult it would be to emulate a key using a Flipper. Unclear if you could brute force it to work or if a single incorrect “reply” starts the entire process over again.\n*   #### created\n    Oct '20\n*   \n*   120k\n    #### views\n*   32\n    #### users\n*   49\n    #### likes\n*   12\n    #### links\n### Frequent Posters\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n### Popular Links\nThere are **64** replies with an estimated read...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "New key FOBs and RFID signals capture - Hondas, Toyotas ...",
+                "htmlTitle": "New <b>key FOBs</b> and RFID <b>signals</b> capture - Hondas, Toyotas ...",
+                "link": "https://www.bogleheads.org/forum/viewtopic.php?t=413594",
+                "displayLink": "www.bogleheads.org",
+                "snippet": "Sep 28, 2023 ... I purchased a new 2023 Honda Accord. The key FOBs come with the ability to start the car by way of push button.",
+                "htmlSnippet": "Sep 28, 2023 <b>...</b> I purchased a new 2023 Honda Accord. The <b>key FOBs</b> come with the ability <b>to</b> start the car by way of push button.",
+                "formattedUrl": "https://www.bogleheads.org/forum/viewtopic.php?t=413594",
+                "htmlFormattedUrl": "https://www.bogleheads.org/forum/viewtopic.php?t=413594",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Board index",
+                            "name": "Board index",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Community",
+                            "name": "Community",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Personal Consumer Issues",
+                            "name": "Personal Consumer Issues",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Posts:** \n**Joined:** Sun Feb 25, 2007 5:39 pm\n**Location:** Northern VA\n### \n by **** » Thu Sep 28, 2023 7:26 am\nI purchased a new 2023 Honda Accord. The key FOBs come with the ability to start the car by way of push button. I've learned that the signals from the key FOBs can be captured and programmed to steal the car. To prevent this there are options have the FOB wrapped in aluminum foil, use a faraday bag or a tin can. I purchased the faraday bags.\nFrom the YouTube channels on Toyotas, another option is to turn the transmitting off with two clicks. I could not find any information on Hondas about doing the same thing. The Honda message boards are no where near as active as the Toyotas. The Honda salesman and parts department are of no help.\nLast edited by  on Thu Sep 28, 2023 7:31 am, edited 1 time in total.\nFrom Jack Brennan's \"Straight Talk on Investing\", page 23 \"Living below your means is the ultimate financial strategy\"\n**Posts:** \n**Joined:** Sat Apr 09, 2016 5:06 pm\n**Location:** NYC\n### \n by **** » Thu Sep 28, 2023 7:39 am\n>  wrote: Thu Sep 28, 2023 7:26 am I purchased a new 2023 Honda Accord. The key FOBs come with the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Frequency analyzer not working - Sub-GHz - Flipper Forum",
+                "htmlTitle": "Frequency analyzer not <b>working</b> - Sub-GHz - Flipper Forum",
+                "link": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834?page=2",
+                "displayLink": "forum.flipper.net",
+                "snippet": "i have tried 2 garage door remotes and a gate clicker along with 3 car fobs not a signal one was read by the frequency analyzer. any one else have this ...",
+                "htmlSnippet": "i have tried 2 garage door remotes and a gate clicker along with 3 car <b>fobs</b> not a <b>signal</b> one was read by the frequency analyzer. any one else have this&nbsp;...",
+                "formattedUrl": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834?page=2",
+                "htmlFormattedUrl": "https://forum.flipper.net/t/frequency-analyzer-not-<b>work</b>ing/1834?page=2",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIjnbngs7gg62sZTUoADfF-I5qTHs-DEAhjPuJbgWcg8jAPXcxnrcF&s",
+                            "width": "105",
+                            "height": "78"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        },
+                        {
+                            "url": "https://forum.flipper.net/uploads/default/original/2X/f/fa5adaf65f2dedd095c29334a0346da52a15f4a6.png"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "bughuntr",
+                            "url": "bughuntr"
+                        },
+                        {
+                            "name": "SkorP",
+                            "url": "SkorP"
+                        },
+                        {
+                            "name": "bughuntr",
+                            "url": "bughuntr"
+                        },
+                        {
+                            "name": "mojo_goat",
+                            "url": "mojo_goat"
+                        },
+                        {
+                            "name": "seth",
+                            "url": "seth"
+                        },
+                        {
+                            "name": "Astra",
+                            "url": "Astra"
+                        },
+                        {
+                            "name": "Samyah93",
+                            "url": "Samyah93"
+                        },
+                        {
+                            "name": "Astra",
+                            "url": "Astra"
+                        },
+                        {
+                            "name": "SkorP",
+                            "url": "SkorP"
+                        },
+                        {
+                            "name": "seth",
+                            "url": "seth"
+                        },
+                        {
+                            "name": "snowden",
+                            "url": "snowden"
+                        },
+                        {
+                            "name": "snowden",
+                            "url": "snowden"
+                        },
+                        {
+                            "name": "Astra",
+                            "url": "Astra"
+                        },
+                        {
+                            "name": "snowden",
+                            "url": "snowden"
+                        },
+                        {
+                            "name": "Astra",
+                            "url": "Astra"
+                        },
+                        {
+                            "name": "mojo_goat",
+                            "url": "mojo_goat"
+                        },
+                        {
+                            "name": "SkorP",
+                            "url": "SkorP"
+                        },
+                        {
+                            "name": "sn0w",
+                            "url": "sn0w"
+                        },
+                        {
+                            "name": "buletman",
+                            "url": "buletman"
+                        },
+                        {
+                            "name": "SkorP",
+                            "url": "SkorP"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        },
+                        {
+                            "name": "Flipper Developers"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/CommentAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png",
+                            "theme-color": "#111111",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Frequency analyzer not working",
+                            "article:published_time": "2022-03-24T10:36:46+00:00",
+                            "og:site_name": "Flipper Forum",
+                            "twitter:url": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834?page=2",
+                            "og:title": "Frequency analyzer not working",
+                            "og:description": "@Astra I agree that it won’t be fast enough to catch quick burst transmissions that are just “floating in the air”, or that one might be trying to sniff at random.  But in other cases, like the remote I have, you can just hold down the button and the signal keeps sending. In cases like what I’m trying (where it’s a generic remote with no codes printed on it) and I can keep the button depressed. A somewhat slow scan should still pick up the frequency eventually.  In the case of @zerozen original ...",
+                            "twitter:image": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png",
+                            "og:ignore_canonical": "true",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                            "twitter:description": "@Astra I agree that it won’t be fast enough to catch quick burst transmissions that are just “floating in the air”, or that one might be trying to sniff at random.  But in other cases, like the remote I have, you can just hold down the button and the signal keeps sending. In cases like what I’m trying (where it’s a generic remote with no codes printed on it) and I can keep the button depressed. A somewhat slow scan should still pick up the frequency eventually.  In the case of @zerozen original ...",
+                            "og:url": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834?page=2"
+                        }
+                    ],
+                    "discussionforumposting": [
+                        {
+                            "articlebody": "@Astra I agree that it won’t be fast enough to catch quick burst transmissions that are just “floating in the air”, or that one might be trying to sniff at random. But in other cases,...",
+                            "datemodified": "2022-03-24T10:36:46Z",
+                            "position": "#21",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-03-24T10:36:46Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "name": "Request: Addition of Spectrum Analyzer display",
+                            "url": "https://forum.flipperzero.one/t/request-addition-of-spectrum-analyzer-display/2855/2"
+                        },
+                        {
+                            "articlebody": "this approach was chosen for the frequency analyzer is not a good life. understand cc1101 is first of all just a receiver and not an SDR, it cannot scan and capture a signal in a wide range,...",
+                            "datemodified": "2022-03-24T10:37:32Z",
+                            "position": "#22",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-03-24T10:37:32Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "@SkorP that all makes sense! That’s why I’m suggesting a more configurable Read RAW with 1MHz tuning across all the possible CC1101 frequencies will serve most peoples needs.",
+                            "datemodified": "2022-03-24T10:42:57Z",
+                            "position": "#23",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-03-24T10:42:57Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Just got my Flipper today. Updated firmware. Frequency analyzer won’t pick up a signal of any kind. Tried all kinds of remotes. Rebooted flipper… still nothing.",
+                            "datemodified": "2022-05-17T17:35:27Z",
+                            "position": "#24",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-17T17:35:27Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "I’m running into the same issue. I am testing with a known working Linear Megacode transmitter (Model MCT-3 318Mhz). I tried at various distances, touching the Flipper and pulling it progressivel...",
+                            "datemodified": "2022-05-17T18:45:31Z",
+                            "position": "#25",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-17T18:45:31Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Hi! Did you update the firmware? Are you holding the remote button pressed for long enough?",
+                            "datemodified": "2022-05-17T18:57:16Z",
+                            "position": "#26",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-17T18:57:16Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Adding my experience here. Using a Liftmaster 971lm remote, which the manufacturer states is 390 MHz. Nothing detected using frequency analyzer at any distance (even when right next to the...",
+                            "datemodified": "2022-05-17T22:18:15Z",
+                            "position": "#27",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-17T22:18:15Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Can you show what the RAW signal graph looks like?",
+                            "datemodified": "2022-05-18T11:15:04Z",
+                            "position": "#28",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-18T11:15:04Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "github.com/flipperdevices/flipperzero-firmware SubGhz: refactoring frequency analyzer and MegaCode display changes flipperdevices:dev ← flipperdevices:skorp/subghz_ opened 08:47AM - 12 May...",
+                            "datemodified": "2022-05-18T12:11:01Z",
+                            "position": "#29",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-18T12:11:01Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "image": "https://forum.flipper.net/uploads/default/original/2X/0/05526da92c70d491cbd09d42915d4e293a20cec3.png",
+                            "articlebody": "Yes, firmware latest firmware is installed, and I confirmed that the megacode feature was part of that release via GH Releases. The remote button was held for minimum 5 seconds, pushing 10...",
+                            "datemodified": "2022-05-18T23:02:04Z",
+                            "position": "#30",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-18T23:02:04Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "@SkorP I am experiencing the same problem. Frequency analyzer does not work completely. However, I want to add some details, maybe they will help. When I just got the flipper, with factory...",
+                            "datemodified": "2022-05-19T04:39:41Z",
+                            "position": "#31",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T04:35:54Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "image": "https://forum.flipper.net/uploads/default/original/2X/e/e7f0d8e03544cc94330226b89ed2c59b2a9e2bbb.jpeg",
+                            "articlebody": "@SkorP I decided to try 0.44.1 (but really not sure what “factory’ version was installed originally”). And Frequency Analyzer works again! Even for officially unsupported frequencies....",
+                            "datemodified": "2022-05-19T04:56:24Z",
+                            "position": "#32",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T04:56:24Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "The factory version was 0.43",
+                            "datemodified": "2022-05-19T08:19:50Z",
+                            "position": "#33",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T08:19:50Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "image": "https://forum.flipper.net/uploads/default/original/2X/f/ff4553cff6ba8089c545d56610a1f9be08d0accf.jpeg",
+                            "articlebody": "Thank you, @Astra . I didn’t review the history of changes between versions, but obviously with 0.44.1 and 0.43.1 the frequency analyzer worked. I am not sure, maybe you drastically reduced...",
+                            "datemodified": "2022-05-19T12:47:57Z",
+                            "position": "#34",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T12:47:57Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Can you try the latest dev build? The frequency analyzer has been updated",
+                            "datemodified": "2022-05-19T15:14:16Z",
+                            "position": "#35",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T15:14:16Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "Just tried it myself. Frequency analyzer still doing nothing.",
+                            "datemodified": "2022-05-19T15:34:21Z",
+                            "position": "#36",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T15:34:21Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "what frequency are you scanning? check if this frequency is in SD/SubGhz/asset/frequency_analyzer_user.sub",
+                            "datemodified": "2022-05-19T17:11:26Z",
+                            "position": "#37",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T17:11:26Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "image": "https://forum.flipper.net/uploads/default/original/2X/0/0453fa6b4ef3c0b320497b839afc3851477ce656.jpeg",
+                            "articlebody": "Have the exact same issue! Rolling back to 0.44.1 makes the frequency analyzer work and updating to 0.58.1 breaks it. Using the device I’m referencing in this post. PXL_20220519_175319264...",
+                            "datemodified": "2022-05-19T18:00:33Z",
+                            "position": "#38",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-19T18:00:33Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "articlebody": "So this is strange - upon first attempt, I got a signal, after that, I am unable to get anything on the current release. How does one flash an older firmware? I see the firmare files here:...",
+                            "datemodified": "2022-05-20T15:48:05Z",
+                            "position": "#39",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-20T15:48:05Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        },
+                        {
+                            "image": "https://forum.flipper.net/uploads/default/original/2X/1/13fa65c00e698214907aed7d89c2e357322a0766.jpeg",
+                            "articlebody": "show the video what you do and how you do it, and what you analyze. what is the frequency of the transmitter",
+                            "datemodified": "2022-05-20T17:54:34Z",
+                            "position": "#40",
+                            "headline": "Frequency analyzer not working",
+                            "datepublished": "2022-05-20T17:54:34Z",
+                            "mainentityofpage": "https://forum.flipper.net/t/frequency-analyzer-not-working/1834"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://forum.flipper.net/uploads/default/original/2X/c/c152a372c8a96f394f481a6fe871ad8a0ac851d4.png"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "← previous page",
+                            "url": "← previous page"
+                        },
+                        {
+                            "name": "Home",
+                            "url": "Home"
+                        },
+                        {
+                            "name": "Categories",
+                            "url": "Categories"
+                        },
+                        {
+                            "name": "FAQ/Guidelines",
+                            "url": "FAQ/Guidelines"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "Terms of Service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "Privacy Policy"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Sub-GHz",
+                            "name": "Sub-GHz",
+                            "position": "1"
+                        },
+                        {
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " I agree that it won’t be fast enough to catch quick burst transmissions that are just “floating in the air”, or that one might be trying to sniff at random.\nBut in other cases, like the remote I have, you can just hold down the button and the signal keeps sending. In cases like what I’m trying (where it’s a generic remote with no codes printed on it) and I can keep the button depressed. A somewhat slow scan should still pick up the frequency eventually.\nIn the case of  original question where he knows the frequencies. Changing the Read RAW to be more configurable (allowing fine grain tuning of possible frequencies in say 1MHz or 5MHz increments) would provide a better way to capture the specific signals.\nthis approach was chosen for the frequency analyzer is not a good life. understand cc1101 is first of all just a receiver and not an SDR, it cannot scan and capture a signal in a wide range, but only receive it at a set frequency. at the same time, the switching speed from frequency to a new one with all calibrations and RSSI reading takes at least 3ms + to accurately determine the carrier, it switches to a narrow channel of the receiving filter and scans the found frequency again to determine the exact one. this is about 50 frequency scans. i.e. 150ms. car key fobs and all kinds of weather stations, switches, etc. do not transmit a signal for a long time, but only 4-8 parcels. 1 Keelog packet lasts about 80ms + - that is, 4 about 320-500ms. and if you scan the entire allowed range in 1 MHz steps (5 you will definitely miss the signal), you simply will not get to the moment when there is a transmission. and again there will be talk that the analyzer does not work. now you just need to add to the list all the frequencies that are used by various systems and everyone will be happy.\n that all makes sense!\nThat’s why I...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Is it possible to use radio to find a lost car key fob? - Motor Vehicle ...",
+                "htmlTitle": "Is it possible <b>to</b> use radio <b>to</b> find a lost car <b>key fob</b>? - Motor Vehicle ...",
+                "link": "https://mechanics.stackexchange.com/questions/88805/is-it-possible-to-use-radio-to-find-a-lost-car-key-fob",
+                "displayLink": "mechanics.stackexchange.com",
+                "snippet": "May 24, 2022 ... My wife has a 2018 Honda CRV and the remote fob is always transmitting without pressing any of the key fob buttons. As I walk up to the car ...",
+                "htmlSnippet": "May 24, 2022 <b>...</b> My wife has a 2018 Honda CRV and the remote fob is always <b>transmitting</b> without pressing any of the <b>key fob</b> buttons. As I walk up <b>to</b> the car&nbsp;...",
+                "formattedUrl": "https://mechanics.stackexchange.com/.../is-it-possible-to-use-radio-to-find-a...",
+                "htmlFormattedUrl": "https://mechanics.stackexchange.com/.../is-it-possible-to-use-radio-to-find-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWrxBBwcZIF1lVJwxodpmHANJM_CSDTJIribhaD1jQC7OAlWPhAKqzsZ5&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/mechanics/Img/apple-touch-icon@2.png?v=3d3f69356378",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/mechanics/Img/apple-touch-icon@2.png?v=3d3f69356378",
+                            "name": "Is it possible to use radio to find a lost car key fob?",
+                            "description": "I have a recently bought new Kia that came key fob which is composed of two parts. The actual electronic device with the buttons, and this part slides on a cut key which has the keyring hole attach..."
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/mechanics/Img/apple-touch-icon.png?v=7c50290e31da",
+                            "upvotecount": "3",
+                            "commentcount": "3",
+                            "answercount": "1",
+                            "name": "Is it possible to use radio to find a lost car key fob?",
+                            "datecreated": "2022-05-24T00:39:35",
+                            "text": "I have a recently bought new Kia that came key fob which is composed of two parts. The actual electronic device with the buttons, and this part slides on a cut key which has the keyring hole...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "0",
+                            "commentcount": "6",
+                            "text": "My wife has a 2018 Honda CRV and the remote fob is always transmitting without pressing any of the key fob buttons. As I walk up to the car the doors will automatically unlock, so it is always...",
+                            "datecreated": "2022-05-24T01:23:52",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Gimelist"
+                        },
+                        {
+                            "name": "MJH"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/mechanics/Img/apple-touch-icon@2.png?v=3d3f69356378",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Is it possible to use radio to find a lost car key fob?",
+                            "og:site_name": "Motor Vehicle Maintenance & Repair Stack Exchange",
+                            "twitter:domain": "mechanics.stackexchange.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "I have a recently bought new Kia that came key fob which is composed of two parts. The actual electronic device with the buttons, and this part slides on a cut key which has the keyring hole attach...",
+                            "og:url": "https://mechanics.stackexchange.com/questions/88805/is-it-possible-to-use-radio-to-find-a-lost-car-key-fob"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/mechanics/Img/apple-touch-icon@2.png?v=3d3f69356378"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... (nothing concrete) about how these types of fobs work. Some suggest they're \"always transmitting\", while others say the car always interrogates, which wakes the fob up when in range. Considering the size of a fob's battery, to me it would not make sense for it to be always on, as this would deplete a CR2032 in no time. The interrogation/response seems like a more viable solution ... but ... I wouldn't know for sure.\n    –  ♦\n    Commented May 24, 2022 at 12:01\n  | \n1 Answer 1\n----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\n0\nMy wife has a 2018 Honda CRV and the remote fob is always transmitting without pressing any of the key fob buttons. As I walk up to the car the doors will automatically unlock, so it is always transmitting an RF signal. The automatic door unlock is a user option I setup in the vehicle settings. If your Kia does the same you could rent or buy an anti-spy/bug detector. These devices can pickup RF signals from 1 MHz-8 GHz or greater. The purchase cost is ~ $50.\nFollow \nanswered May 24, 2022 at 1:23\n]\nMJH\n88855 silver badges88 bronze badges\n6\n*   I actually have the other key (we have two). Using one of those devices I can see whether the key that I still have transmits, and then if it does I can use that to find the missing one?\n    – \n    Commented May 24, 2022 at 2:13\n*   1\n    I read somewhere that US model cars transmit the RF signal at 315 MHz and foreign cars transmit at 433.92 MHz. You could also call Kia and ask if they would provide the RF frequency for your make and model. It should not be a security concern because they use rolling security codes.\n    – \n    Commented May 24, 2022 at 2:50\n*   4\n    Are you sure it is always transmitting, or is it just always listening for the transmitter in the car and it responds when it hears the car? I don’t know, it just seems a more power efficient way of doing it to save key fob battery life.\n    – \n    Commented May 24, 2022 at 5:30\n*   @G...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Stop car hacking by keeping your key fob in a metal (coffee) can",
+                "htmlTitle": "Stop car hacking by keeping your <b>key fob</b> in a metal (coffee) <b>can</b>",
+                "link": "https://www.freep.com/story/money/cars/2023/12/30/stop-car-hacking-by-keeping-your-key-fob-in-a-metal-coffee-can/72048564007/",
+                "displayLink": "www.freep.com",
+                "snippet": "Dec 30, 2023 ... To prevent car theft. How it works ... A top global cybersecurity expert says the threat of car theft now is greater than ever and urges taking ...",
+                "htmlSnippet": "Dec 30, 2023 <b>...</b> <b>To</b> prevent car theft. How it <b>works</b> ... A top global cybersecurity expert says the threat of car theft now is greater than ever and urges taking&nbsp;...",
+                "formattedUrl": "https://www.freep.com/story/money/cars/...key...a.../72048564007/",
+                "htmlFormattedUrl": "https://www.freep.com/story/money/cars/...<b>key</b>...a.../72048564007/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_JHWph7uWgwcCloayp0xqhKnsCY_Sm8DkvfiI7pYkWetYmLbXH9mSpvJF&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.freep.com/gcdn/presto/2021/08/12/PDTF/4e2625e9-c070-42d8-a159-562dbffd1a3d-SECONDARY-Turo_081021_ES07.JPG?crop=2399,1350,x0,y153&width=2399&height=1350&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=904023476,app-argument=https://app.adjust.com/6tcau89",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "2399",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Why should you keep your key fob in a metal (coffee) can? To prevent car theft. How it works",
+                            "og:site_name": "Detroit Free Press",
+                            "og:title": "Why should you keep your key fob in a metal (coffee) can? To prevent car theft. How it works",
+                            "og:image:height": "1350",
+                            "google": "notranslate",
+                            "og:description": "Crimes committed by tech-savvy car thieves using special tools purchased on the internet are contributing to a spike vehicle thefts.",
+                            "fb:pages": "13642915529",
+                            "twitter:creator": "@freep",
+                            "article:author": "Phoebe Wall Howard",
+                            "twitter:image": "https://www.freep.com/gcdn/presto/2021/08/12/PDTF/4e2625e9-c070-42d8-a159-562dbffd1a3d-SECONDARY-Turo_081021_ES07.JPG?crop=2399,1350,x0,y153&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "185931034751252",
+                            "twitter:site": "@freep",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "Crimes committed by tech-savvy car thieves using special tools purchased on the internet are contributing to a spike vehicle thefts.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.freep.com/story/money/cars/2023/12/30/stop-car-hacking-by-keeping-your-key-fob-in-a-metal-coffee-can/72048564007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.freep.com/gcdn/presto/2021/08/12/PDTF/4e2625e9-c070-42d8-a159-562dbffd1a3d-SECONDARY-Turo_081021_ES07.JPG?crop=2399,1350,x0,y153&width=2399&height=1350&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A top global cybersecurity expert says the threat of car theft now is greater than ever and urges taking simple precautions to prevent car owners from becoming victims of tech-savvy criminals.\nThieves have perfected the art of stealing the code from that key fob sitting on a kitchen counter or hung on a hook by the door. And tools that make theft fast and easy can be purchased on the internet. Worse, the latest theft devices allow criminals to amplify a vehicle's radio signal so that thieves can better access and copy the key fob signal to steal a vehicle\n\"The problem is, this is not a story, it's reality,\" Moshe Shlisel, a veteran of the Israeli Air Force and now CEO of GuardKnox Cyber Technologies, told the Detroit Free Press by phone from his office in Ramla, Israel.\nThis whole situation revolves around \"smart\" key systems that use nonsecure commercial radio waves to signal when the key fob is near or inside the vehicle, he said. These key fobs allow car owners to unlock the door, start the engine or even open the trunk from far away. But that's not all.\n\"You may think of your car key as little more than a tool to start the car. But have you ever considered that it may also be the best tool to prevent your car from being stolen?\" says AAA on its .\n!\nHow thieves car-hack victims\n----------------------------\nCar thieves...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Their at it again - BMW X5 Forum (G05)",
+                "htmlTitle": "Their at it again - BMW X5 Forum (G05)",
+                "link": "https://g05.bimmerpost.com/forums/showthread.php?t=1796973",
+                "displayLink": "g05.bimmerpost.com",
+                "snippet": "My daughter said in Las Vegas, they are now copying cars electronic key fobs and stealing cars when the owners are still in the store, or parked at home at ...",
+                "htmlSnippet": "My daughter said in Las Vegas, they <b>are</b> now copying cars electronic <b>key fobs</b> and stealing cars when the owners <b>are</b> still in the store, or parked at home at&nbsp;...",
+                "formattedUrl": "https://g05.bimmerpost.com/forums/showthread.php?t=1796973",
+                "htmlFormattedUrl": "https://g05.bimmerpost.com/forums/showthread.php?t=1796973",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "bpthreadid": "1796973",
+                            "apple-itunes-app": "app-id=399728258",
+                            "handheldfriendly": "true",
+                            "bplastposter": "Marty in NY",
+                            "viewport": "width=device-width,initial-scale=1.0",
+                            "bpforumid": "704",
+                            "bpcomments": "14",
+                            "bpfirstpostdateline": "1612396617",
+                            "bplastpostdateline": "1612734896",
+                            "bpthreadop": "AnOldBiker",
+                            "bpsite": "g05",
+                            "bptitle": "Their at it again"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Bimmerpost\n☰ Model Selection\nLogin\nRegister\nG05\nBMW X5\nBMW Garage\tBMW Meets\tRegister\tToday's Posts\tSearch \n❯ 2019+ BMW X5 (G05) and X6 (G06) Forum\n❯ General X5 / X6 Topics\n❯ Their at it again\nPost Reply\n\tThread Tools \tSearch this Thread \n      02-03-2021, 05:56 PM\t  #1\nAnOldBiker\nJim\n270\nREP\n156\nPOSTS\nDrives: 2019 X5 XDrive 40i\nJoin Date: Sep 2018\nLocation: Land of Retirement\niTrader: (0)\nTheir at it again\nCrooks have been electronically coping credit cards EFI info and cheating people for years.\nMy daughter said in Las Vegas, they are now copying cars electronic key fobs and stealing cars when the owners are still in the store, or parked at home at night.\nAnyone have this happen yet ?\nAppreciate\n0\nTweet\nQUOTE\n      02-03-2021, 07:47 PM\t  #2\nhyde\nLieutenant Colonel \n593\nREP\n1,803\nPOSTS\nDrives: 2024 X3m40i\nJoin Date: Oct 2011\nLocation: New York\niTrader: (0)\nQuote:\nOriginally Posted by AnOldBiker \nCrooks have been electronically coping credit cards EFI info and cheating people for years.\nMy daughter said in Las Vegas, they are now copying cars electronic key fobs and stealing cars when the owners are still in the store, or parked at home at night.\nAnyone have this happen yet ?\nThere are videos of crooks walking around with antennas. I believe someone needs to be inside the car first for that to happen, so they first need to have access to vehicle, better keep it garaged for add'l protection. I am not sure how they disable the alarm and open the door?...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

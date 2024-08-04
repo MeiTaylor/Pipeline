@@ -1,0 +1,32 @@
+{
+    "Claim": "U.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin.",
+    "Video_information": {
+        "video_date": 20240126.0,
+        "platform": "youtube",
+        "video_headline": "Biden returns to a deteriorating Wisconsin bridge for an election-year pitch on policy achievements",
+        "video_transcript": "President Biden made a stop in Wisconsin today to talk about his success in investing in infrastructure. He spoke at the Earthrider Brewery in Superior, he announced a $1,000,000,000 from the bipartisan infrastructure law to renovate the Blatnik Bridge that connects Duluth with Superior. He also took aim at former president Donald Trump, who he says talked about infrastructure every week, but never did anything about it. On my watch, instead of infrastructure week, America's having an infrastructure decade. Yeah. We're rebuilding factories, and jobs are coming back to America. Biden has been frustrated with the slow pace of projects funded by the infrastructure law, but he says it's finally starting to bear fruit. Biden says it has already invested more than $6,000,000,000 in Wisconsin.",
+        "Video_descriptor": "The video begins with a man, likely a political figure, speaking directly to the camera in what appears to be a formal public gathering, underscored by the backdrop of large storage units and a podium bearing the seal of the President of the United States. As the scene transitions, the audience, clearly attentive, gives way to a group of men in suits and hard hats, who engage with one another while shaking hands, signifying a collaborative effort with a group of construction workers present. This interaction occurs in an industrial setting, bustling with the spirit of teamwork. The narrative then continues with another man in a suit addressing construction workers, advocating discussions around infrastructure, before the previous men in formal attire once again shake hands with the hard-hatted workers, reinforcing their connection. The video culminates with yet another man in a suit speaking to the group of construction workers, emphasizing the importance of the infrastructure initiative, which ties back to the overarching theme indicated by the snowy outdoor backdrop and signage reading 'Project Funded By President Joe Biden's Bipartisan Infrastructure Law' as well as mentions of the infrastructure investment explicitly linking back to President Biden's administration. Each frame highlights the formal interactions between the political representatives and construction workers, set against the backdrop of ongoing infrastructure developments in Wisconsin, creating a coherent depiction of a pivotal moment in an infrastructure effort."
+    },
+    "Initial_Question_Generation": {
+        "Primary_Question": "Did President Biden actually wear a hard hat backwards during the photo op in Wisconsin?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "What specific event prompted Biden's visit to Superior, Wisconsin?",
+            "Secondary_Question_2": "How did construction workers react to Biden's announcements regarding infrastructure funding?",
+            "Secondary_Question_3": "Were there any additional interactions between Biden and union construction workers during the visit?"
+        },
+        "Question": "Did President Biden actually wear a hard hat backwards during the photo op in Wisconsin?",
+        "Answer": "Based on the evidence retrieved, it is confirmed that President Joe Biden was photographed wearing a hard hat backwards during a photo opportunity with union construction workers in Superior, Wisconsin. Reports indicate that there were several discussions and observations raised regarding this incident, leading Snopes to initially fact-check the image. Eventually, Snopes was compelled to reverse their initial assessment to confirm that Biden indeed wore the hard hat backwards, acknowledging the flood of comments and scrutiny they received online about the photograph. This conclusion is supported by various sources that pointed out the specifics of the incident, confirming that the photograph taken during the event shows Biden with the hard hat in the incorrect orientation.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The QA_CONTEXTS confirm that President Biden indeed wore a hard hat backwards during a photo opportunity with union construction workers in Superior, Wisconsin. This conclusion is backed by reports and scrutiny, with Snopes adjusting their initial assessment to confirm the incident after receiving numerous comments regarding the photograph. This indicates a high level of confidence in the accuracy of the claim. Additionally, the video information includes descriptions of Biden's engagement with construction workers, underpinning the context of the event. Therefore, there is a reliable basis to assert that the claim about Biden wearing a hard hat backwards is true."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "The evidence directly confirms that President Biden wore a hard hat backwards during the photo op with union construction workers in Superior, Wisconsin. Reports indicated an acknowledgment of this fact after scrutiny, and Snopes, a fact-checking organization, reversed their initial assessment to validate the incident based on received comments and observations. Additionally, the video information provides context about Biden's appearance and focus on infrastructure during the event, lending credibility to the claim [Initial_Question_Generation_Query 1_evidence 1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

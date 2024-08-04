@@ -1,0 +1,809 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - suspects relationship with Black Lives Matter movement",
+                "totalResults": "43300000",
+                "searchTerms": "suspects relationship with Black Lives Matter movement",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - suspects relationship with Black Lives Matter movement",
+                "totalResults": "43300000",
+                "searchTerms": "suspects relationship with Black Lives Matter movement",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.282206,
+        "formattedSearchTime": "0.28",
+        "totalResults": "43300000",
+        "formattedTotalResults": "43,300,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Stories and Data",
+                "htmlTitle": "Stories and Data",
+                "link": "https://www.city-journal.org/article/stories-and-data",
+                "displayLink": "www.city-journal.org",
+                "snippet": "Jun 14, 2020 ... Citizens of faraway nations have expressed solidarity with black Americans; police officers have marched alongside protesters; protesters have\u00a0...",
+                "htmlSnippet": "Jun 14, 2020 <b>...</b> Citizens of faraway nations have expressed solidarity with <b>black</b> Americans; police officers have marched alongside <b>protesters</b>; <b>protesters</b> have&nbsp;...",
+                "formattedUrl": "https://www.city-journal.org/article/stories-and-data",
+                "htmlFormattedUrl": "https://www.city-journal.org/article/stories-and-data",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNuSysrRTS0FjmoEPqM4asdpU4mvMGrjWveVvnID_3df-5ahPtut0pczI&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media4.manhattan-institute.org/sites/cj/files/race-riots-police.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "City Journal",
+                            "og:title": "Stories and Data",
+                            "og:image:height": "640",
+                            "twitter:label1": "Est. reading time",
+                            "og:image:type": "image/jpg",
+                            "msapplication-tileimage": "https://media4.manhattan-institute.org/wp-content/uploads/CJ-300x300.png",
+                            "og:description": "The brutal death of George Floyd at the hands of Minneapolis police officers has sparked protests and riots around the United States. We have witnessed humanity at its finest and at its ugliest. Citizens of faraway nations have expressed solidarity with black Americans; police officers have marched alongside protesters; protesters have defended businesses against looting [\u2026]",
+                            "twitter:image": "https://media4.manhattan-institute.org/sites/cj/files/race-riots-police.jpg",
+                            "twitter:data1": "12 minutes",
+                            "article:modified_time": "2023-03-23T23:14:00+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.city-journal.org/article/stories-and-data/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media4.manhattan-institute.org/sites/cj/files/race-riots-police.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The brutal death of George Floyd at the hands of Minneapolis police officers has sparked protests and riots around the United States. We have witnessed humanity at its finest and at its ugliest. Citizens of faraway nations have expressed solidarity with black Americans; police officers have marched alongside protesters; protesters have defended businesses against looting and destruction. At the same time, rioters have burned down buildings and looted businesses; protesters have been pepper-sprayed and beaten; cops have been shot and run over with cars.\nAt the root of the unrest is the Black Lives Matter movement, which began with the acquittal of George Zimmerman in 2013 and rose to national prominence in the wake of Michael Brown\u2019s death in 2014. My view of BLM is mixed. On the one hand, I agree that police departments too often have tolerated and even enabled corruption. Rather than relying on impartial third parties, departments often decide whether to discipline their own officers; the legal doctrine of  sets what many say is an unreasonably high bar for civilians bringing civil-rights lawsuits against police officers. Bodycams (which increase transparency, to the benefit of both wrongly treated police suspects and wrongly accused police) are not yet universal. In the face of police unions that oppose even reasonable reforms, Black Lives Matter seems a force for positive change.\nOn the other hand, the basic premise of Black Lives Matter\u2014that racist cops are killing unarmed black people\u2014is false. There was a time when I believed it. I was one year younger than Trayvon Martin when he was killed in 201...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "City Journal is a quarterly magazine published by the Manhattan Institute, a conservative think tank. While it provides in-depth analysis and commentary on social, political, and cultural issues, it may present a conservative bias in its perspectives. Its articles often reflect a specific ideological slant, which can affect impartiality and objectivity. Thus, while it is credible as a source of opinion, the potential for bias reduces its overall reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-06-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses general societal events linked to the Black Lives Matter movement but does not specifically address the relationship of the suspects to the movement. It is too general and does not provide any clear corroboration related to the suspects involved in Marquez's assault."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Black Lives Matter and African Allyship - Community Commons",
+                "htmlTitle": "<b>Black Lives Matter</b> and African Allyship - Community Commons",
+                "link": "https://www.communitycommons.org/collections/Black-Lives-Matter-and-African-Allyship",
+                "displayLink": "www.communitycommons.org",
+                "snippet": "Jul 27, 2020 ... Until we learn to rise together and fight racial equity as a global unrelenting movement and stop falling for the divisive tactics of\u00a0...",
+                "htmlSnippet": "Jul 27, 2020 <b>...</b> Until we learn to rise together and fight <b>racial</b> equity as a global unrelenting <b>movement</b> and stop falling for the divisive tactics of&nbsp;...",
+                "formattedUrl": "https://www.communitycommons.org/.../Black-Lives-Matter-and-African-A...",
+                "htmlFormattedUrl": "https://www.communitycommons.org/.../<b>Black</b>-<b>Lives</b>-<b>Matter</b>-and-African-A...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8v-WOMY9XBwLUoy_evDIhVHeNjZTK_J31OL7tnhovZLWgAVOCv6dthvLy&s",
+                            "width": "341",
+                            "height": "148"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://communitycommons.s3.amazonaws.com/images/CC-Newsletter/Black-Lives-Matter.png",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Black Lives Matter and African Allyship",
+                            "og:description": "In this moment in time that has the makings of a turning point in history for racial equity, it disheartens me to see that while many African immigrants and others on the continent are standing with the Black Lives Matter movement, some still see this as detached from their lives and concerns, to the point of criticizing its existence or antagonizing it altogether."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://communitycommons.s3.amazonaws.com/images/CC-Newsletter/Black-Lives-Matter.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Black Lives Matter and African Allyship - Community Commons\n===============\n*   \n*   \n  !]\n*   \n*   \n*   \n*   \n*   Discover\n*            \n*   \n*   \n*   \nBlack Lives Matter and African Allyship\n=======================================\nFacebook Twitter LinkedIn Email\n(javascript:embedCard\\('d76cb6a2-fc07-4647-8264-3b34995dc635'\\))\n#### Embed Card\nYou can use the following link to embed this card into another website.  \n####   \n#### In this moment in time that has the makings of a turning point in history for racial equity, it disheartens me to see that while many African immigrants and others on the continent are standing with the Black Lives Matter movement, some still see this as detached from their lives and concerns, to the point of criticizing its existence or antagonizing it altogether. Until we learn to rise together and fight racial equity as a global unrelenting movement and stop falling for the divisive tactics of imperialist interests, we will never take our rightful place and value in this world as the powerful People God created us to be.\nI moved to the USA in 1996 as a student with idealistic views of the land of opportunities for all. I was mostly ignorant of US history from a black person\u2019s perspective because, despite being a walking encyclopedia like many of my peers who got their pre-university education on the continent, most of that knowledge came from history written by those same people that perpetrated imperialism, slavery, and colonization. We all know how that goes.\nDespite reading about the civil rights movement, I never suspected that the condition of blacks in America was still as bad as I discovered it to be years later. In college, I would challenge anyone who said \u201cthe system\u201d did this or that, because I didn\u2019t understand that notion; I was formatted to believe in the superficial equality the USA successfully projected. But I also and always believed that the call for Africa to Unite, from the mouths of African leaders like Kwame Nkrumah to the activism of Marcus Garvey and the tunes of Bob Marley, included the diaspora and thus black Americans.\nI did meet the ones who, just like the Africans today who are disconnected from the Black Lives Matter movement, would indignantly retort they were absolutely not from Africa; but I hope that both groups do realize that we are all we got, and while we call on other races\u2019 allyship, we must simultaneously ensure our internal connection as a people is unshakeable.\nWith time...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Community Commons is a platform focused on social determinants of health and community well-being. It aggregates data and resources and collaborates with various organizations. While its mission is beneficial, its reliability as a news source can vary based on the information shared. It tends to focus more on research and data rather than direct news reporting, potentially limiting its news coverage accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-07-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While this evidence provides insights about solidarity with the Black Lives Matter movement, it does not directly link any suspects to the movement or their motivations in Marquez's assault. Thus, it offers limited relevance to determining the truth of the specific claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Usual, Racialized, Suspects: The Consequence of Police Contacts ...",
+                "htmlTitle": "Usual, Racialized, <b>Suspects</b>: The Consequence of Police Contacts ...",
+                "link": "https://academic.oup.com/socpro/article/69/2/299/5953172",
+                "displayLink": "academic.oup.com",
+                "snippet": "Oct 31, 2020 ... Abstract. Research on race and policing indicates that Black Americans experience a greater frequency of police contacts,\u00a0...",
+                "htmlSnippet": "Oct 31, 2020 <b>...</b> Abstract. Research on race and policing indicates that <b>Black</b> Americans experience a greater frequency of police contacts,&nbsp;...",
+                "formattedUrl": "https://academic.oup.com/socpro/article/69/2/299/5953172",
+                "htmlFormattedUrl": "https://academic.oup.com/socpro/article/69/2/299/5953172",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "//oup.silverchair-cdn.com/UI/app/img/v-638552060786258310/browserconfig.xml",
+                            "og:image": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/socpro/Issue/69/2/3/m_socpro_69_2cover.jpeg?Expires=1784408275&Signature=Crlvr6L-Jm1PKQe44y5vzsFmEdxn5hOM2tLTMsTELtxGS8fjp1pxbHW~s5hMiBSojpyYE1DOxAjHZgSPRcCiAdT~8nnOzpgu9LR4YRB7ilmQPHSrx-KHrG91s633nqglIKlf97K2Jl28jDrA7n3Ia7cBWoZLglDXVl0cSeG~CXirBH9bUJZVTrSLEwUcHF1u6S7ffBOLSgVVi2D248e3y576~jYwTYuGP2rEWDTxTba-5cq2kVn9heeSk2QS-vsIz9Sa54Enghqy4sD9Iht2P1wk4g7wfR-4OyS~-sk-09AvmTJEoup7ZaZ5xB8Qe-YGVdVGwmIrAwD88lSQnfwGDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_publication_date": "2022/04/12",
+                            "theme-color": "#002f65",
+                            "twitter:card": "summary_large_image",
+                            "citation_author_institution": "Tulane University",
+                            "citation_title": "The Usual, Racialized, Suspects: The Consequence of Police Contacts with Black and White Youth on Adult Arrest",
+                            "og:site_name": "OUP Academic",
+                            "citation_reference": "citation_title=\u201cPolice Suspicion and Discretionary Decision-Making during Citizen Stops; citation_author=Alpert  Geoffrey P.; citation_author=MacDonald  John M.; citation_author=Dunham  Roger G.;  citation_journal_title=Criminology;  citation_year=2005;  citation_volume=43;  citation_issue=2;  citation_pages=407-34;",
+                            "citation_publisher": "Oxford Academic",
+                            "citation_journal_title": "Social Problems",
+                            "og:description": "Abstract. Research on race and policing indicates that Black Americans experience a greater frequency of police contacts, discretionary stops, and police h",
+                            "og:image:secure_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/socpro/Issue/69/2/3/m_socpro_69_2cover.jpeg?Expires=1784408275&Signature=Crlvr6L-Jm1PKQe44y5vzsFmEdxn5hOM2tLTMsTELtxGS8fjp1pxbHW~s5hMiBSojpyYE1DOxAjHZgSPRcCiAdT~8nnOzpgu9LR4YRB7ilmQPHSrx-KHrG91s633nqglIKlf97K2Jl28jDrA7n3Ia7cBWoZLglDXVl0cSeG~CXirBH9bUJZVTrSLEwUcHF1u6S7ffBOLSgVVi2D248e3y576~jYwTYuGP2rEWDTxTba-5cq2kVn9heeSk2QS-vsIz9Sa54Enghqy4sD9Iht2P1wk4g7wfR-4OyS~-sk-09AvmTJEoup7ZaZ5xB8Qe-YGVdVGwmIrAwD88lSQnfwGDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_issn": "0037-7791",
+                            "citation_lastpage": "315",
+                            "og:type": "article",
+                            "og:image:alt": "Issue Cover",
+                            "og:image:url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/socpro/Issue/69/2/3/m_socpro_69_2cover.jpeg?Expires=1784408275&Signature=Crlvr6L-Jm1PKQe44y5vzsFmEdxn5hOM2tLTMsTELtxGS8fjp1pxbHW~s5hMiBSojpyYE1DOxAjHZgSPRcCiAdT~8nnOzpgu9LR4YRB7ilmQPHSrx-KHrG91s633nqglIKlf97K2Jl28jDrA7n3Ia7cBWoZLglDXVl0cSeG~CXirBH9bUJZVTrSLEwUcHF1u6S7ffBOLSgVVi2D248e3y576~jYwTYuGP2rEWDTxTba-5cq2kVn9heeSk2QS-vsIz9Sa54Enghqy4sD9Iht2P1wk4g7wfR-4OyS~-sk-09AvmTJEoup7ZaZ5xB8Qe-YGVdVGwmIrAwD88lSQnfwGDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_journal_abbrev": "Soc Probl",
+                            "og:title": "The Usual, Racialized, Suspects: The Consequence of Police Contacts with Black and White Youth on Adult Arrest",
+                            "citation_author": "McGlynn-Wright, Anne",
+                            "citation_issue": "2",
+                            "citation_firstpage": "299",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.1093/socpro/spaa042",
+                            "citation_volume": "69",
+                            "og:url": "https://dx.doi.org/10.1093/socpro/spaa042",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/socpro/Issue/69/2/3/m_socpro_69_2cover.jpeg?Expires=1784408275&Signature=Crlvr6L-Jm1PKQe44y5vzsFmEdxn5hOM2tLTMsTELtxGS8fjp1pxbHW~s5hMiBSojpyYE1DOxAjHZgSPRcCiAdT~8nnOzpgu9LR4YRB7ilmQPHSrx-KHrG91s633nqglIKlf97K2Jl28jDrA7n3Ia7cBWoZLglDXVl0cSeG~CXirBH9bUJZVTrSLEwUcHF1u6S7ffBOLSgVVi2D248e3y576~jYwTYuGP2rEWDTxTba-5cq2kVn9heeSk2QS-vsIz9Sa54Enghqy4sD9Iht2P1wk4g7wfR-4OyS~-sk-09AvmTJEoup7ZaZ5xB8Qe-YGVdVGwmIrAwD88lSQnfwGDw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Abstract\n--------\nResearch on race and policing indicates that Black Americans experience a greater frequency of police contacts, discretionary stops, and police harassment when stops occur. Yet, studies examining the long-term consequences of police contact with young people have not examined whether criminal justice consequences of police contact differ by race. We address this issue by examining whether police encounters with children and adolescents predict arrest in young adulthood and if these effects are the same for Black and White individuals. The paper uses longitudinal survey data from 331 Black and White respondents enrolled in the Seattle Public School District as eighth graders in 2001 and 2002. Our findings indicate that police encounters in childhood increase the risk of arrest in young adulthood for Black but not White respondents. Black respondents who experience contact with the police by the eighth grade have eleven times greater odds of being arrested when they are 20 years old than their White counterparts.\nPolice stops represent an entry point into the criminal justice system that, until recently, have received less scholarly attention than other stages of the criminal justice process. Recent research suggests that stops interpreted as harassing, unfair, or discriminatory damage public trust in police (Epp, Maynard-Moody, and Haider-Markel 2014; Fagan et al. 2010; Fagan and Tyler 2005; Meares 2014), encourage avoidance of police and other record-keeping institutions (e.g...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website hosts a variety of peer-reviewed journals published by Oxford University Press. As an academic resource, it is highly reliable and accurate in the information it presents. Its focus on scholarly articles means that it has a rigorous fact-checking process. As such, it is an excellent resource for factual information; however, it may not be primarily a news outlet."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-10-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This academic research discusses policing and race but does not mention the Black Lives Matter movement in relation to suspects or the specific incident involving Marquez. It lacks direct relevance to the question asked."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "The Danger of the \u201cBlack Lives Matter\u201d Movement - Imprimis",
+                "htmlTitle": "The Danger of the \u201c<b>Black Lives Matter</b>\u201d <b>Movement</b> - Imprimis",
+                "link": "https://imprimis.hillsdale.edu/the-danger-of-the-black-lives-matter-movement/",
+                "displayLink": "imprimis.hillsdale.edu",
+                "snippet": "Officer use of force will occur where the police interact most often with violent criminals, armed suspects, and those resisting arrest, and that is in black\u00a0...",
+                "htmlSnippet": "Officer use of force will occur where the police interact most often with violent criminals, armed <b>suspects</b>, and those resisting arrest, and that is in <b>black</b>&nbsp;...",
+                "formattedUrl": "https://imprimis.hillsdale.edu/the-danger-of-the-black-lives-matter-moveme...",
+                "htmlFormattedUrl": "https://imprimis.hillsdale.edu/the-danger-of-the-<b>black</b>-<b>lives</b>-<b>matter</b>-<b>moveme</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr-rRpYXcKe7uOgNnUMZTcH_Pb9FeMckgBPjRN5NCiK9MY-VC1gSIau9DH&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://imprimis.hillsdale.edu/wp-content/uploads/2016/05/Police-Car.jpg",
+                            "article:published_time": "2016-04-01T18:24:18-04:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Imprimis",
+                            "twitter:url": "https://imprimis.hillsdale.edu/the-danger-of-the-black-lives-matter-movement/",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://imprimis.hillsdale.edu/wp-content/uploads/2022/11/cropped-ChargerLogoH_RGB-270x270.png",
+                            "og:description": "However intolerable and inexcusable every act of police brutality is, and while we need to make sure that the police are properly trained in the Constitution and in courtesy, there is a larger reality behind the issue of policing, crime, and race that remains a taboo topic.",
+                            "twitter:creator": "@hcimprimis",
+                            "article:publisher": "https://www.facebook.com/hillsdalecollegeimprimis",
+                            "og:image:secure_url": "https://imprimis.hillsdale.edu/wp-content/uploads/2016/05/Police-Car.jpg",
+                            "twitter:image": "https://imprimis.hillsdale.edu/wp-content/uploads/2016/05/Police-Car.jpg",
+                            "twitter:data1": "Heather Mac Donald",
+                            "twitter:data2": "15 minutes",
+                            "twitter:site": "hcimprimis",
+                            "article:modified_time": "2022-06-08T15:31:02-04:00",
+                            "og:type": "article",
+                            "article:section": "Race Relations",
+                            "twitter:title": "The Danger of the \u201cBlack Lives Matter\u201d Movement",
+                            "twitter:domain": "Imprimis",
+                            "author": "Heather Mac Donald",
+                            "og:title": "The Danger of the \u201cBlack Lives Matter\u201d Movement",
+                            "og:updated_time": "2022-06-08T15:31:02-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1",
+                            "twitter:description": "However intolerable and inexcusable every act of police brutality is, and while we need to make sure that the police are properly trained in the Constitution and in courtesy, there is a larger reality behind the issue of policing, crime, and race that remains a taboo topic.",
+                            "og:locale": "en_US",
+                            "og:url": "https://imprimis.hillsdale.edu/the-danger-of-the-black-lives-matter-movement/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imprimis.hillsdale.edu/wp-content/uploads/2016/05/Police-Car.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... greater than white and Hispanic homicide victims combined, even though blacks are only 13\u00a0percent of the national population. Blacks are killed at six times the rate of whites and Hispanics combined. In Los Angeles, blacks between the ages of 20 and 24 die at a rate 20 to 30 times the national mean. Who is killing them? Not the police, and not white civilians, but other blacks. The astronomical black death-by-homicide rate is a function of the black crime rate. Black males between the ages of 14 and 17 commit homicide at ten times the rate of white and Hispanic male teens combined. Blacks of all ages commit homicide at eight times the rate of whites and Hispanics combined, and at eleven times the rate of whites alone.\nThe police could end all lethal uses\u00a0of force tomorrow\u00a0and it would have at most a trivial effect on the black death-by-homicide rate. The nation\u2019s police killed 987 civilians in 2015, according to a database compiled by _The Washington Post_. Whites were 50 percent\u2014or 493\u2014of those victims, and blacks were 26 percent\u2014or 258. Most of those victims of police shootings, white and black, were armed or otherwise threatening the officer with potentially lethal force.\nThe black violent crime rate would actually predict that _more_ than 26 percent of police victims would be black. Officer use of force will occur where the police interact most often with violent criminals, armed suspects, and those resisting arrest, and that is in black neighborhoods. In America\u2019s 75 largest counties in 2009, for example, blacks constituted 62 percent of all robbery defendants, 57 percent of all murder defendants, 45 percent of all assault defendants\u2014but only 15 percent of the population.\nMoreover, 40 percent of all cop killers have been black over the last decade. And a larger proportion of white and Hispanic homicide deaths are a result of police killings than black homicide deaths\u2014but don\u2019t expect to hear that from the media or from the political enablers of the Black Lives Matter movement. Twelve percent of all white and Hispanic homicide victims are killed by police officers, compared to four percent of all black homicide victims. If we\u2019re going to have a \u201cLives Matter\u201d anti-police movement, it would be more appropriately named \u201cWhite and Hispanic Lives Matter.\u201d\nStandard anti-cop ideology, whether emanating from the ACLU or the academy, holds that law enforcement actions are racist if they don\u2019t mirror population data. New York City illustrates why that expectation is so misguided. Blacks make up 23 percent of New York City\u2019s population, but...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Imprimis is a monthly publication of Hillsdale College that shares conservative perspectives on various topics. While it provides thoughtful opinion pieces and arguments, it is inherently biased because it aligns with the college's conservative values. Hence, while it offers relevant insights, it may not consistently provide an objective view of the news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-04-01"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article critiques the Black Lives Matter movement but does not provide information about the suspects' relationship with the movement, nor does it elucidate the specific context of Marquez's assault. Its connection is tenuous at best."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted ...",
+                "htmlTitle": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted ...",
+                "link": "https://www.bet.com/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                "displayLink": "www.bet.com",
+                "snippet": "Dec 2, 2023 ... The suspect claims a connection to the Black Lives Matter movement. ... The prison inmate who allegedly stabbed Derek Chauvin 22 times is being\u00a0...",
+                "htmlSnippet": "Dec 2, 2023 <b>...</b> The <b>suspect</b> claims a <b>connection to</b> the <b>Black Lives Matter movement</b>. ... The prison inmate who allegedly stabbed Derek Chauvin 22 times is being&nbsp;...",
+                "formattedUrl": "https://www.bet.com/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                "htmlFormattedUrl": "https://www.bet.com/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WS1NlEVhtWKx17DAbSnkyszaPD8uixMUL0-O4aGdtHBHyzvj9WYzVzao&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:5b47ef10-bee3-488e-b883-fef8851744b1?quality=0.7&gen=ntrn&format=jpg&width=1200&height=630&crop=true",
+                            "twitter:app:url:iphone": "https://apps.apple.com/us/app/bet-now-watch-shows/id841118013",
+                            "twitter:app:id:googleplay": "com.bet.shows",
+                            "theme-color": "#000000",
+                            "search:contenttype": "Article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BET",
+                            "app_version": "8ea0fc6e327b454537859ddb84f6bf6cf8e3bf8e-15153-2024-08-02",
+                            "search:url": "/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                            "twitter:app:url:ipad": "https://apps.apple.com/us/app/bet-now-watch-shows/id841118013",
+                            "twitter:app:name:googleplay": "BET NOW - Watch Shows",
+                            "search:bucketname": "Article",
+                            "twitter:app:id:iphone": "841118013",
+                            "og:description": "The suspect claims a connection to the Black Lives Matter movement.",
+                            "search:contentdate": "2023-12-02T15:44:45.150Z",
+                            "twitter:image": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:5b47ef10-bee3-488e-b883-fef8851744b1?quality=0.7&gen=ntrn&format=jpg&width=1200&height=630&crop=true",
+                            "parsely-type": "post",
+                            "news_keywords": "derek chauvin,George Floyd,Stabbing",
+                            "twitter:app:country": "US",
+                            "search:description": "The suspect claims a connection to the Black Lives Matter movement.",
+                            "search:imageurl": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:5b47ef10-bee3-488e-b883-fef8851744b1?quality=0.7&gen=ntrn",
+                            "search:imageheight": "1314",
+                            "og:type": "article",
+                            "twitter:title": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted Murder",
+                            "twitter:site:id": "@BET",
+                            "search:labelname": "News",
+                            "og:title": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted Murder",
+                            "og:image:height": "630",
+                            "twitter:app:id:ipad": "841118013",
+                            "search:imagewidth": "1600",
+                            "fb:app_id": "1725845810983009",
+                            "twitter:app:url:googleplay": "https://play.google.com/store/apps/details?id=com.bet.shows",
+                            "twitter:app:name:ipad": "BET NOW - Watch Shows",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=1, maximum-scale=2",
+                            "twitter:description": "The suspect claims a connection to the Black Lives Matter movement.",
+                            "original-source": "https://www.bet.com/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                            "search:title": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted Murder",
+                            "og:url": "https://www.bet.com/article/6z3nx7/derek-chauvin-stabbing-suspect",
+                            "twitter:app:name:iphone": "BET NOW - Watch Shows"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.paramount.tech/uri/mgid:arc:imageassetref:bet.com:5b47ef10-bee3-488e-b883-fef8851744b1?quality=0.7&gen=ntrn&format=webp&height=270&width=480&crop=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Derek Chauvin Stabbed 22 Times; Attacker Charged With Attempted Murder | News | BET\n===============\nSTREAM EXCLUSIVE ORIGINALS\nTRY BET+ FOR FREE\nDerek Chauvin Stabbed 22 Times; Attacker Charged With Attempted Murder\n======================================================================\nThe suspect claims a connection to the Black Lives Matter movement.\nBy Joce Blake\nDecember 2, 2023\n/10:44 AM\n!\nBy Joce Blake\nDecember 2, 2023 / 10:44 AM\nThe prison inmate who allegedly stabbed **Derek Chauvin** 22 times is being charged with attempted murder, federal prosecutors  on Friday (Dec. 1).\n**John Turscak**, a former gang member and one-time FBI informant, allegedly stabbed Chauvin, the ex-police officer convicted of **George Floyd**'s murder, in the law library at the Federal Correctional Institution in Tucson, Ariz on Nov. 24.\nTurscak used an improvised knife in the assault and reportedly informed corrections officers that he would have succeeded in killing Chauvin had they not intervened, according to . Chauvin's family was initially kept in the dark about the details of the attack, with prison officials stating only that Chauvin was in critical but stable condition.\nThe inmate was supposed to complete his current sentence by 2026 but now faces multiple charges, including assault with intent to commit murder, assault with a dangerous weapon and assault resulting in serious bodily injury. Each of the attempted murder and assault with intent to commit murder charges carries a potential sentence of up to 20 years in prison.\nIn the late 1990s, Turscak led a faction of the Mexican Mafia in Los Angeles. He became an FBI informant but was dropped when he continued engaging in criminal activities, according to court records cited by the .\nTurscak cited a connection to the Black Lives Matter movement \u2013 which saw a global rise in popularity following Floyd\u2019s death \u2013 and the \"Black Hand\" symbol associated with the Mexican Mafia gang as the reasons behind his choice of date for the attack.\nChauvin is serving a sentence of...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "BET (Black Entertainment Television) focuses on news and entertainment primarily related to the African American community. While it covers important cultural news, its entertainment focus can lead to sensational reporting at times. However, it also serves as a source of relevant news for understanding minority perspectives and issues, which adds to its credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-12-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence mentions a suspect claiming a connection to the Black Lives Matter movement in a different incident but does not directly correlate to the suspects involved in Marquez's case. The mention of a connection is relevant but does not provide additional specifics regarding the involved suspects."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "BLM movement marks 10 years of activism and calls to defund the ...",
+                "htmlTitle": "<b>BLM movement</b> marks 10 years of activism and calls to defund the ...",
+                "link": "https://apnews.com/article/black-lives-matter-10th-anniversary-trayvon-martin-c2d79ae4639934ca1eb77d6b54c16f8b",
+                "displayLink": "apnews.com",
+                "snippet": "Jul 12, 2023 ... The Black Lives Matter movement turns 10 years old on Thursday, marking the day in 2013 that the man who fatally shot Trayvon Martin was\u00a0...",
+                "htmlSnippet": "Jul 12, 2023 <b>...</b> The <b>Black Lives Matter movement</b> turns 10 years old on Thursday, marking the day in 2013 that the man who fatally shot Trayvon Martin was&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../black-lives-matter-10th-anniversary-trayvon-martin-...",
+                "htmlFormattedUrl": "https://apnews.com/.../<b>black</b>-<b>lives</b>-<b>matter</b>-10th-anniversary-trayvon-martin-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZuQfrZ6OMYp39ptvMx2PvdFFx60kacSlSZk0h6Zsu67339r3eC9OuDvg&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-07-13T04:26:15",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "The Black Lives Matter movement turns 10 years old on Thursday, marking the day in 2013 that the man who fatally shot Trayvon Martin was acquitted in his death.",
+                            "twitter:creator": "@aaronlmorrison",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66",
+                            "twitter:image:alt": "FILE - Protesters hold signs during a march and rally for slain teenager Trayvon Martin, March 31, 2012, in Sanford, Fla. The Black Lives Matter movement hits a milestone on Thursday, July 13, 2023, marking 10 years since its 2013 founding in response to the acquittal of the man who fatally shot Martin. Gunned down in a Florida gated community where his father lived in 2012, Martin was one of the earliest symbols of a movement that now wields influence in politics, law enforcement and broader conversations about racial progress. (AP Photo/Julie Fletcher, File)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-11-21T19:41:59.694",
+                            "brightspot.contentid": "009f3bff-ae47-3d43-af6c-d9aec1542188",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66",
+                            "og:image:alt": "FILE - Protesters hold signs during a march and rally for slain teenager Trayvon Martin, March 31, 2012, in Sanford, Fla. The Black Lives Matter movement hits a milestone on Thursday, July 13, 2023, marking 10 years since its 2013 founding in response to the acquittal of the man who fatally shot Martin. Gunned down in a Florida gated community where his father lived in 2012, Martin was one of the earliest symbols of a movement that now wields influence in politics, law enforcement and broader conversations about racial progress. (AP Photo/Julie Fletcher, File)",
+                            "og:type": "article",
+                            "article:section": "Race and Ethnicity",
+                            "twitter:title": "Black Lives Matter movement marks 10 years of activism and renews its call to defund the police",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66",
+                            "ga-datalayer": "{\n  \"dimension1\" : \"c2d79ae4639934ca1eb77d6b54c16f8b\",\n  \"dimension15\" : \"General news,Law enforcement,Black Lives Matter,Trayvon Martin,Politics,U.S. News,Race and Ethnicity\",\n  \"dimension9\" : \"2023-07-13 00:26:15\",\n  \"dimension10\" : \"AARON MORRISON\"\n}",
+                            "ntv-kv": "BlackLivesMatter,TrayvonMartin,Lawenforcement,Generalnews,CornelWest,Activism,a,Minneapolis,Politics,Blackpeople,U.S.news,Florida,n,Raceandethnicity,GeorgeZimmerman,RaceandEthnicity,U.S.News",
+                            "og:title": "Black Lives Matter movement marks 10 years of activism and renews its call to defund the police",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"Race and Ethnicity\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"a\", \"Activism\", \"Race and ethnicity\", \"Black Lives Matter\", \"U.S. News\", \"Black people\", \"Florida\", \"n\", \"Law enforcement\", \"Minneapolis\", \"U.S. news\", \"General news\", \"Cornel West\", \"Politics\", \"Trayvon Martin\", \"George Zimmerman\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-07-13T00:26:15.000Z\",\n  \"item_id\" : \"c2d79ae4639934ca1eb77d6b54c16f8b\",\n  \"headline\" : \"Black Lives Matter movement marks 10 years of activism and renews its call to defund the police\",\n  \"authors\" : [ \"AARON MORRISON\" ]\n}",
+                            "article:author": "https://apnews.com/author/aaron-morrison",
+                            "article:tag": "General news",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "The Black Lives Matter movement turns 10 years old on Thursday, marking the day in 2013 that the man who fatally shot Trayvon Martin was acquitted in his death.",
+                            "og:url": "https://apnews.com/article/black-lives-matter-10th-anniversary-trayvon-martin-c2d79ae4639934ca1eb77d6b54c16f8b",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"c2d79ae4639934ca1eb77d6b54c16f8b\",\n  \"Tag_CMS\" : \"General news,Law enforcement,Black Lives Matter,Trayvon Martin,Politics,U.S. News,Race and Ethnicity\",\n  \"item_ID\" : \"c2d79ae4639934ca1eb77d6b54c16f8b\",\n  \"tag_array\" : \"General news,Law enforcement,Black Lives Matter,Trayvon Martin,Politics,U.S. News,Race and Ethnicity\",\n  \"headline\" : \"Black Lives Matter movement marks 10 years of activism and renews its call to defund the police\",\n  \"publication_date\" : \"2023-07-13 00:26:15\",\n  \"author\" : \"AARON MORRISON\",\n  \"linked_video\" : \"YES\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Video\",\n  \"page_type\" : \"Article\",\n  \"slug_line\" : \"BC-US--Black Lives Matter-10 Years, 2nd Ld-Writethru\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 5442,\n  \"primary_section\" : \"Race and Ethnicity\",\n  \"secondary_sections\" : \"Politics,U.S. News\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/1f787b1/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F85%2F8194b8d0be0147eb15649784e23a%2F04c53adcfa5341a29da266a6aba12d66"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/black-lives-matter-10th-anniversary-trayvon-martin-c2d79ae4639934ca1eb77d6b54c16f8b: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/black-lives-matter-10th-anniversary-trayvon-martin-c2d79ae4639934ca1eb77d6b54c16f8b",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Associated Press (AP) is a well-respected news organization known for its commitment to factual reporting. It has a robust fact-checking process and aims to provide unbiased news. The AP is widely considered one of the most reliable sources for current events, and its news is utilized by many other news outlets."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence commemorates the Black Lives Matter movement's tenth anniversary and does not mention suspects or any specific incidents. It has no relevance to the question at hand."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "What We Know About The Dallas Suspected Gunman",
+                "htmlTitle": "What We Know About The Dallas <b>Suspected</b> Gunman",
+                "link": "https://www.npr.org/sections/thetwo-way/2016/07/08/485239295/what-we-know-about-the-dallas-suspected-gunman",
+                "displayLink": "www.npr.org",
+                "snippet": "Jul 8, 2016 ... Johnson had no criminal history, the Dallas Police Department said, and people interviewed during the investigation have identified him as a \"\u00a0...",
+                "htmlSnippet": "Jul 8, 2016 <b>...</b> Johnson had no criminal history, the Dallas Police Department said, and <b>people</b> interviewed during the investigation have identified him as a &quot;&nbsp;...",
+                "formattedUrl": "https://www.npr.org/.../what-we-know-about-the-dallas-suspected-gunman",
+                "htmlFormattedUrl": "https://www.npr.org/.../what-we-know-about-the-dallas-suspected-gunman",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbwKwtXZDBJrfNLrp1xHsQg2PZrA_--LR6bwouqmLdyZuZWHrlgRQ4UTI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": "[data-is-speakable]"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2016-07-08",
+                            "apple-itunes-app": "app-id=324906251, app-argument=https://www.npr.org/sections/thetwo-way/2016/07/08/485239295/what-we-know-about-the-dallas-suspected-gunman",
+                            "og:image": "https://media.npr.org/assets/img/2016/07/08/ap_16190660390914_wide-2bcc1b16aa1e556ff6423c7e219af7005457f2ec.jpg?s=1400&c=100&f=jpeg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "What We Know About The Dallas Suspected Gunman",
+                            "og:site_name": "NPR",
+                            "cxenseparse:pageclass": "article",
+                            "twitter:domain": "npr.org",
+                            "cxenseparse:publishtime": "2016-07-08T14:42:00-04:00",
+                            "og:title": "What We Know About The Dallas Suspected Gunman",
+                            "rating": "General",
+                            "og:description": "Law enforcement officials briefed on the investigation have identified the gunman killed in Dallas as Micah Xavier Johnson. The Pentagon says Johnson was a military veteran who served in Afghanistan.",
+                            "fb:pages": "10643211755",
+                            "twitter:image:src": "https://media.npr.org/assets/img/2016/07/08/ap_16190660390914_wide-2bcc1b16aa1e556ff6423c7e219af7005457f2ec.jpg?s=1400&c=100&f=jpeg",
+                            "fb:app_id": "138837436154588",
+                            "cxenseparse:author": "Merrit Kennedy|Tanya Ballard Brown",
+                            "twitter:site": "@NPR",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.npr.org/sections/thetwo-way/2016/07/08/485239295/what-we-know-about-the-dallas-suspected-gunman",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.npr.org/assets/img/2016/07/08/ap_16190660390914_wide-2bcc1b16aa1e556ff6423c7e219af7005457f2ec.jpg?s=1400&c=100&f=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... who was a suspect in the sniper slayings of five law enforcement officers in Dallas on Thursday night.\nAP\nThe name of the suspected gunman killed in Dallas is Micah Xavier Johnson, two federal law enforcement officials briefed on the investigation tell NPR.\nThe 25-year-old suspect was killed in a parking garage by a bomb deployed by police, following hours of failed negotiations, Dallas Police Chief David Brown said Friday morning. The suspect was later identified as Johnson. You can read our full coverage of the attack that .\nAs we reported, the gunman spoke about his motivations during the negotiations with authorities. Brown said:\n> \"The suspect said he was upset about Black Lives Matter. He said he was upset about the recent police shootings. The suspect said he was upset at white people. The suspect stated he wanted to kill white people, especially white officers. ...The suspect stated that he was not affiliated with any groups, and he did this alone.\"\nTwo law enforcement officials told NPR's Dina Temple-Raston that they believe the suspect had been planning an attack for some time and acted on his own. They added that they have not identified a connection between the suspect and any international terrorism or domestic extremist groups.\nJohnson had no criminal history, the Dallas Police Department said, and people interviewed during the investigation have identified him as a \"loner.\"\n\"During the search of the suspect's home, detectives found bomb making materials, ballistic vests, rifles, ammunition, and a personal journal of combat tactics,\" the police department said. It added: \"Detectives are in the process of analyzing the information contained in the journal.\"\nLaw enforcement officials have provided NPR with what they believe is Johnson's manifesto. As we reported, \"In the short purported manifesto, the writer points to police shootings of black Americans as his motivation and criticizes the Black Lives Matter movement.\"\n**'You Can't Bring Your Gun****'**\nThree weeks before Johnson opened fire in Dallas, he volunteered to provide security and help maintain order at a Dallas anti-Trump rally on June 16, reports .\nWhen the shooting suspect offered to help with the rally, Rev. Peter Johnson, a key organizer and long-known Dallas civil rights leader who marched with Martin Luther King Jr., and others, said no, because Micah Johnson wanted to bring his gun.\n\"Young man comes, says 'I'm going to participate, I want to help. But I want to bring my gun,' \" Rev. Johnson recalls. \"I say, \"Hell no, you can't bring your gun.' I told him you can't bring your gun to a protest that I'm involved in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "National Public Radio (NPR) is recognized for its high-quality journalism and in-depth coverage of a wide array of topics. NPR has a strong reputation for accuracy and strives to present balanced reporting, which makes it a highly credible news source."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-07-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "Similar to evidence5, this article discusses a specific incident unrelated to the suspects from the Marquez case and lacks reference to Black Lives Matter suspects or their motivations. Therefore, it is entirely irrelevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Suspected Chinese operatives using AI generated images to spread ...",
+                "htmlTitle": "<b>Suspected</b> Chinese operatives using AI generated images to spread ...",
+                "link": "https://www.cnn.com/2023/09/07/politics/chinese-operatives-ai-images-social-media/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Sep 7, 2023 ... Example of an AI-generated image posted by a suspected Chinese IO asset, shared in a Microsoft Threat Intelligence report. A Black Lives Matter\u00a0...",
+                "htmlSnippet": "Sep 7, 2023 <b>...</b> Example of an AI-generated image posted by a <b>suspected</b> Chinese IO asset, shared in a Microsoft Threat Intelligence report. A <b>Black Lives Matter</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2023/09/07/politics/chinese...ai.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2023/09/07/politics/chinese...ai.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtem4T6NLrBXDnY2PgKiHP3ug6k646FTIZEM8PVy9S_hgWdnDaSqAPzRA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230907083559-man-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says | CNN Politics",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-09-07T14:08:11Z",
+                            "og:site_name": "CNN",
+                            "author": "Sean Lyngaas",
+                            "og:title": "Suspected Chinese operatives using AI generated images to spread disinformation among US voters, Microsoft says | CNN Politics",
+                            "meta-section": "politics",
+                            "type": "article",
+                            "og:description": "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches, Microsoft analysts warned Thursday.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230907083559-man-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "artificial intelligence, asia, business and industry sectors, business, economy and trade, china, companies, computer science and information technology, continents and regions, disinformation, domestic alerts, domestic-business, domestic-health and science, domestic-international news, domestic-us news, domestic-us politics, east asia, elections (by type), elections and campaigns, facebook, government and public administration, iab-artificial intelligence, iab-business and finance, iab-computing, iab-elections, iab-industries, iab-internet, iab-politics, iab-social networking, iab-technology & computing, iab-technology industry, international alerts, international-business, international-health and science, international-us news, international-us politics, meta platforms inc, microsoft, north america, politics, social media, societal issues, society, technology, the americas, united states, us elections, us federal elections",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@cnnpolitics",
+                            "article:modified_time": "2023-09-07T15:54:04Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches, Microsoft analysts warned Thursday.",
+                            "template_type": "article_leaf",
+                            "theme": "politics",
+                            "og:url": "https://www.cnn.com/2023/09/07/politics/chinese-operatives-ai-images-social-media/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230907083559-man-using-laptop-stock.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            Suspected Chinese operatives have used images made by artificial intelligence to mimic American voters online in an attempt to spread disinformation and provoke discussion on divisive political issues as the 2024 US election approaches, Microsoft analysts warned Thursday.\n    \n\n            In the last nine months, the operatives have posted striking AI-made images depicting the Statute of Liberty and the Black Lives Matter movement on social media, in a campaign that Microsoft said focuses on \u201cdenigrating U.S. political figures and symbols.\u201d \n    \n\n            The alleged Chinese influence network used a series of accounts on \u201cWestern\u201d social media platforms to upload the AI-generated images, according to Microsoft. The images were fake and generated by a computer, but real people, whether wittingly or unwittingly, propagated the images by reposting them on social media, Microsoft said.\n    \n\n            Microsoft said the social media accounts were \u201caffiliated\u201d with the Chinese Communist Party.\n    \n\n            The growing potential for adversaries to use AI to sow disinformation among US voters is an acute concern for election officials as they prepare for a contentious possible 2024 rematch between President Joe Biden and former president Donald Trump. \n    \n\n            The concern is that foreign operatives will amplify an already-ripe domestic information environment. 69% of Republicans and Republican-leaners still say Biden\u2019s 2020 win was not legitimate, according to a CNN poll in July. \n    \n\n            \u201cWe can expect China to continue to hone this technology over time and improve its accuracy, though it remains to be seen how and when it will deploy it at scale,\u201d Clint Watts, general manager of Microsoft\u2019s Digital Threat Analysis Center, wrote in a blog. \n    \n\n            The AI-made images...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is one of the largest news organizations globally, with a reputation for comprehensive news coverage. However, it has faced criticism for perceived biases and sensationalism at times. That said, it maintains a rigorous editorial process, making it a generally reliable source for breaking news."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence touches on disinformation regarding the Black Lives Matter movement but does not provide any relevant connection to suspects in the Marquez case. Its relevance is minimal."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "How Black Lives Matter changed the American conversation about ...",
+                "htmlTitle": "How <b>Black Lives Matter</b> changed the American conversation about ...",
+                "link": "https://slate.com/news-and-politics/2021/05/black-lives-matter-israel-palestine.html",
+                "displayLink": "slate.com",
+                "snippet": "May 14, 2021 ... ... movement behind it. Advertisement. In Palestine, too, George Floyd's killing had an impact on the relationship between these two movements.",
+                "htmlSnippet": "May 14, 2021 <b>...</b> ... <b>movement</b> behind it. Advertisement. In Palestine, too, George Floyd&#39;s killing had an impact on the <b>relationship</b> between these two <b>movements</b>.",
+                "formattedUrl": "https://slate.com/news-and-politics/.../black-lives-matter-israel-palestine.htm...",
+                "htmlFormattedUrl": "https://slate.com/news-and-politics/.../<b>black</b>-<b>lives</b>-<b>matter</b>-israel-palestine.htm...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSteuYOv55kBVPtDy4Z9y7ghKE0xjIAQcSP-Ls6RzdZw8jg96n7sMhLNZQ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "400",
+                            "url": "https://dot.cdnslate.com/static/media/sites/slate-com/icon.400x400.09ec623.png",
+                            "height": "400"
+                        },
+                        {
+                            "width": "1200",
+                            "url": "https://compote.slate.com/images/b0c36188-97b8-45e5-9bed-d8a6dfc5ee73.jpeg?width=1200&rect=1560x1040&offset=0x0",
+                            "height": "800"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Marya Hannun"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Slate"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://compote.slate.com/images/b0c36188-97b8-45e5-9bed-d8a6dfc5ee73.jpeg?width=1560&rect=1560x1040&offset=0x0",
+                            "twitter:title": "How Black Lives Matter Changed the American Conversation About Israel and Palestine",
+                            "article:published_time": "2021-05-14T18:21:16.136Z",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1560",
+                            "og:type": "article",
+                            "theme-color": "#f8f8f8",
+                            "og:site_name": "Slate Magazine",
+                            "twitter:url": "https://slate.com/news-and-politics/2021/05/black-lives-matter-israel-palestine.html",
+                            "author": "Marya Hannun",
+                            "og:title": "How Black Lives Matter Changed the American Conversation About Israel and Palestine",
+                            "og:description": "The surge of attention to the occupation is unimaginable without last year\u2019s protests.",
+                            "twitter:image": "https://compote.slate.com/images/b0c36188-97b8-45e5-9bed-d8a6dfc5ee73.jpeg?width=1560&rect=1560x1040&offset=0x0",
+                            "article:publisher": "https://www.facebook.com/Slate",
+                            "article:tag": "israel, palestine, black-lives-matter",
+                            "fb:app_id": "142011022527753",
+                            "twitter:site": "@slate",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "news_keywords": "israel, palestine, black-lives-matter",
+                            "twitter:description": "The surge of attention to the occupation is unimaginable without last year\u2019s protests.",
+                            "og:url": "https://slate.com/news-and-politics/2021/05/black-lives-matter-israel-palestine.html",
+                            "dfp-cache-buster": "98a6124821071b80359d72d5bff358a2bad22385"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://compote.slate.com/images/b0c36188-97b8-45e5-9bed-d8a6dfc5ee73.jpeg?width=1560&rect=1560x1040&offset=0x0"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "alternativeheadline": "The surge of attention to the occupation is unimaginable without last year\u2019s protests.",
+                            "headline": "How Black Lives Matter Changed the American Conversation About Israel and Palestine",
+                            "datepublished": "2021-05-14T18:21:16+00:00",
+                            "mainentityofpage": "In 1993, the Palestinian intellectual Edward Said, observed, \u201ceveryone knows that to try to say something in the mainstream Western media that is critical of U.S. policy or Israel is extremely..."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... obscuring violence committed by Israeli soldiers through use of the passive voice. Pop stars like Lorde have publicly refused to perform in Tel Aviv as part of a boycott campaign against the occupation. During the 2019 Democratic presidential primary campaign, many of the candidates, including Bernie Sanders and Kamala Harris, publicly declined invitations to speak at the pro-Israel lobbying group AIPAC\u2019s annual conference. This slow, if steady, trickle of awareness, has turned into a flood during this wave of violence.\nWhat does any of this have to do with Black Lives Matter? Black-Palestinian solidarity stretches back decades, and from the first days of Black Lives Matter, organizers have explicitly linked these two movements. Philosopher and activist Angela Davis has long acknowledged the deep links between the U.S. prison-industrial complex, racial violence, and Palestinian political incarceration. During the protests in Ferguson, Missouri, after the police killing of Michael Brown in 2014, protesters held signs expressing solidarity with Palestinians and Palestinians took to social media to share instructions for how to treat tear gas.\nThe protests of last summer, spurred by the police killing of George Floyd pushed Black Lives Matter to the center of U.S. political discourse, transforming it from a controversial movement (in the eyes of some) to a mainstream political force that was impossible to ignore. Major corporations, celebrities, and universities that might have been silent before were proudly displaying their support for the phrase and the movement behind it.\nIn Palestine, too, George Floyd\u2019s killing had an impact on the relationship between these two movements. For example, George Floyd\u2019s image was painted on the separation barrier built around the occupied West Bank. After the fatal Israeli police killing of Eyad al-Hallaq, an unarmed Palestinian man, in Jerusalem, protesters in Palestine held up posters with al-Hallaq\u2019s image next to that of George Floyd\u2019s, bearing the slogan, \u201cFrom the USA to Palestine\u2026 Racism is a crime.\nThe conversation and following generated in this moment have persisted. Black Lives Matter\u2019s official Twitter handle has more than 1 million followers, and vocal activists around prison abolition and defunding the police also have followers numbering in the hundreds of thousands to millions. These same organizations and activists have come out to strongly support the Palestinian people in the face of oppression at the hands of the Israeli state. The official Black Lives Matter movement\u2014which even last summer was generating international solidarity uniting anti-racist movements across the world\u2014has amplified calls for the U.S. government to stop Israeli human rights abuses. Many of the activists who gained prominence over the past year have stated...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Slate is an online magazine that focuses on politics, culture, and current events from a progressive viewpoint. While it provides thoughtful commentary and analysis, its opinion-driven content may not always adhere to traditional journalistic standards of neutrality. Hence, it may not always be the most objective source of factual news."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-05-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the impact of the Black Lives Matter movement but does not link any suspects associated with Marquez\u2019s assault. It provides a background context that is not tied to the specific question asked."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "State Policing Reforms Since George Floyd's Murder | Brennan ...",
+                "htmlTitle": "State Policing Reforms Since George Floyd&#39;s Murder | Brennan ...",
+                "link": "https://www.brennancenter.org/our-work/research-reports/state-policing-reforms-george-floyds-murder",
+                "displayLink": "www.brennancenter.org",
+                "snippet": "May 21, 2021 ... The police killing of George Floyd ignited a mass movement centered on persistent police violence against Black Americans and intensified calls\u00a0...",
+                "htmlSnippet": "May 21, 2021 <b>...</b> The police killing of George Floyd ignited a mass <b>movement</b> centered on persistent police violence against <b>Black</b> Americans and intensified calls&nbsp;...",
+                "formattedUrl": "https://www.brennancenter.org/.../state-policing-reforms-george-floyds-mu...",
+                "htmlFormattedUrl": "https://www.brennancenter.org/.../state-policing-reforms-george-floyds-mu...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YEOM_3SwQaJH723Jzg2O9BaieO0eUZLsuYVkUIutA0Rw56k4pNNPXIXK&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Fri, 05/21/2021 - 16:24",
+                            "og:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2021-05/preview-lightbox-gettyimages-494100704-594x594_0.jpg?itok=gsi-88Wn",
+                            "parent": "library",
+                            "subissue": "29",
+                            "msapplication-config": "/themes/custom/paladin/patternlab/public/favicons/browserconfig.xml",
+                            "citation_title": "State Policing Reforms Since George Floyd\u2019s Murder",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Brennan Center for Justice",
+                            "twitter:url": "https://www.brennancenter.org/our-work/research-reports/state-policing-reforms-george-floyds-murder",
+                            "twitter:image:height": "525",
+                            "nid": "9073",
+                            "type": "resource",
+                            "title": "State Policing Reforms Since George Floyd\u2019s Murder",
+                            "og:description": "While the past year has seen some victories, transformative change in policing remains elusive.",
+                            "twitter:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2021-05/preview-lightbox-gettyimages-494100704-594x594_0.jpg?itok=gsi-88Wn",
+                            "path": "/our-work/research-reports/state-policing-reforms-george-floyds-murder",
+                            "langcode": "en",
+                            "twitter:image:alt": "State-Level Policing Reforms Since George Floyd\u2019s Murder",
+                            "twitter:image:width": "1050",
+                            "summary": "While the past year has seen some victories, transformative change in policing remains elusive.",
+                            "msapplication-tilecolor": "#ffffff",
+                            "type_friendly": "Resource",
+                            "image": "https://www.brennancenter.org/sites/default/files/styles/search_wide/public/2021-05/preview-lightbox-gettyimages-494100704-594x594_0.jpg.webp?itok=B0I_jkpJ",
+                            "og:type": "text",
+                            "og:image:alt": "State-Level Policing Reforms Since George Floyd\u2019s Murder",
+                            "twitter:title": "State Policing Reforms Since George Floyd\u2019s Murder",
+                            "issue_friendly": "End Mass Incarceration",
+                            "og:image:url": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2021-05/preview-lightbox-gettyimages-494100704-594x594_0.jpg?itok=gsi-88Wn",
+                            "handheldfriendly": "true",
+                            "issue": "25",
+                            "author_friendly": "Ram Subramanian",
+                            "author": "8469",
+                            "og:title": "State Policing Reforms Since George Floyd\u2019s Murder",
+                            "citation_author": "Ram Subramanian",
+                            "image_alt": "State-Level  Policing Reforms Since George Floyd\u2019s Murder",
+                            "sort_date": "2021-05-21T00:00:00-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "subissue_friendly": "Changing Incentives",
+                            "og:url": "https://www.brennancenter.org/our-work/research-reports/state-policing-reforms-george-floyds-murder",
+                            "publish_date": "2021-05-21T16:24:36-0400"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2021-05/preview-lightbox-gettyimages-494100704-594x594_0.jpg?itok=gsi-88Wn"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Esta p\u00e1gina no est\u00e1 disponible en espa\u00f1ol\n\u00bfLe gustar\u00eda continuar en la p\u00e1gina de inicio de Brennan Center en espa\u00f1ol?\n\n            al Brennan Center en ingl\u00e9s\n          \n\n            al Brennan Center en espa\u00f1ol\n          \n\n\n\nWe respect your privacy.\nEsta p\u00e1gina no est\u00e1 disponible en espa\u00f1ol\n\u00bfLe gustar\u00eda continuar en la p\u00e1gina de inicio de Brennan Center en espa\u00f1ol?\n\n            al Brennan Center en ingl\u00e9s\n          \n\n            al Brennan Center en espa\u00f1ol\n          \nWhile the past year has seen some victories, transformative change in policing remains elusive.\nThe\u00a0police killing\u00a0of George Floyd ignited a mass movement centered on persistent police violence against Black Americans and intensified calls for systemic change in American policing.\nAmid the earlier losses of\u00a0Philando Castile,\u00a0Breonna Taylor, and\u00a0countless\u00a0others, George Floyd\u2019s death served as a catalyst for one of the\u00a0largest\u00a0social movements in U.S. history. As people poured into the streets, a\u00a0greater share\u00a0of the public appeared to see America\u2019s criminal justice system as\u00a0deeply rooted\u00a0in a history of racial oppression and continued dehumanization of people of color.\nThe statistics detailing the harms of law enforcement and mass incarceration make this plainly clear. While comprising only\u00a013 percent\u00a0of the country, Black people face\u00a021 percent\u00a0of police contact, make up\u00a033 percent\u00a0of people behind bars, and are over\u00a0three times\u00a0more likely to be killed by the police than their white counterparts.\nBuilding off nearly a\u00a0decade\u00a0of the Black Lives Matter movement and other grassroots organizing, the impact and\u00a0reach\u00a0of last summer\u2019s uprisings were\u00a0profound, signaling that the country may be on the precipice of positive change.\nIn response to these community-led movements \u2014 many of which rallied around calls to \u201cDefund the Police\u201d \u2014 cities and counties have...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Brennan Center for Justice is a non-partisan law and policy institute that focuses on issues related to democracy, voting rights, and justice reform. It produces well-researched reports and studies, and while it focuses on specific ideological issues, its academic rigor and objective data analysis lend considerable credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-05-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "While discussing the systemic issues within policing and racial inequity, this evidence does not address the relationship between suspects in Marquez's case and the Black Lives Matter movement. Therefore, it is not relevant."
+                }
+            }
+        }
+    ]
+}

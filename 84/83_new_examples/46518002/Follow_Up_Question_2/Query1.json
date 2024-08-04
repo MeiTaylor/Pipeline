@@ -1,0 +1,718 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Methods used by institutions to detect lunar impacts",
+                "totalResults": "93400000",
+                "searchTerms": "Methods used by institutions to detect lunar impacts",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Methods used by institutions to detect lunar impacts",
+                "totalResults": "93400000",
+                "searchTerms": "Methods used by institutions to detect lunar impacts",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.428614,
+        "formattedSearchTime": "0.43",
+        "totalResults": "93400000",
+        "formattedTotalResults": "93,400,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Coupling Complementary Strategy to U-Net Based Convolution ...",
+                "htmlTitle": "Coupling Complementary Strategy to U-Net Based Convolution ...",
+                "link": "https://www.mdpi.com/2072-4292/14/3/661",
+                "displayLink": "www.mdpi.com",
+                "snippet": "Thus, it attracts increasing interest from various fields, including lunar impact crater detection. Some traditional machine learning methods, such as the ...",
+                "htmlSnippet": "Thus, it attracts increasing interest from various fields, including <b>lunar impact</b> crater <b>detection</b>. Some traditional machine learning <b>methods</b>, such as the&nbsp;...",
+                "formattedUrl": "https://www.mdpi.com/2072-4292/14/3/661",
+                "htmlFormattedUrl": "https://www.mdpi.com/2072-4292/14/3/661",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Multidisciplinary Digital Publishing Institute",
+                            "prism.startingpage": "661",
+                            "citation_publication_date": "2022/1",
+                            "theme-color": "#ffffff",
+                            "citation_title": "Coupling Complementary Strategy to U-Net Based Convolution Neural Network for Detecting Lunar Impact Craters",
+                            "citation_publisher": "Multidisciplinary Digital Publishing Institute",
+                            "citation_journal_title": "Remote Sensing",
+                            "citation_id": "mdpi-rs14030661",
+                            "dc.rights": "http://creativecommons.org/licenses/by/3.0/",
+                            "dc.format": "application/pdf",
+                            "sso-service": "mdpi",
+                            "prism.publicationdate": "2022-01-29",
+                            "msapplication-tileimage": "https://pub.mdpi-res.com/img/journals/remotesensing-logo-sq.png?33ab614e9661caf2",
+                            "title": "Coupling Complementary Strategy to U-Net Based Convolution Neural Network for Detecting Lunar Impact Craters",
+                            "prism.issn": "2072-4292",
+                            "citation_online_date": "2022/01/29",
+                            "prism.number": "3",
+                            "citation_issn": "2072-4292",
+                            "dc.type": "Article",
+                            "dc.source": "Remote Sensing 2022, Vol. 14, Page 661",
+                            "dc.creator": "Yuqing Mao",
+                            "citation_fulltext_html_url": "https://www.mdpi.com/2072-4292/14/3/661/htm",
+                            "citation_pdf_url": "https://www.mdpi.com/2072-4292/14/3/661/pdf?version=1644316629",
+                            "application-name": " ",
+                            "prism.publicationname": "Remote Sensing",
+                            "dc.description": "Lunar crater detection plays an important role in lunar exploration, while machine learning (ML) exhibits promising advantages in the field. However, previous ML works almost all used a single type of lunar map, such as an elevation map (DEM) or orthographic projection map (WAC), to extract crater features; the two types of images have individual limitations on reflecting the crater features, which lead to insufficient feature information, in turn influencing the detection performance. To address this limitation, we, in this work, propose feature complementary of the two types of images and accordingly explore an advanced dual-path convolutional neural network (Dual-Path) based on a U-NET structure to effectively conduct feature integration. Dual-Path consists of a contracting path, bridging path, and expanding path. The contracting path separately extracts features from DEM and WAC images by means of two independent input branches, while the bridging layer integrates the two types of features by 1 × 1 convo",
+                            "citation_author": "Mao, Yuqing",
+                            "dc.date": "2022-01-29",
+                            "citation_abstract_html_url": "https://www.mdpi.com/2072-4292/14/3/661",
+                            "citation_issue": "3",
+                            "prism.volume": "14",
+                            "citation_firstpage": "661",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "fulltext_pdf": "https://www.mdpi.com/2072-4292/14/3/661/pdf?version=1644316629",
+                            "citation_doi": "10.3390/rs14030661",
+                            "dc.title": "Coupling Complementary Strategy to U-Net Based Convolution Neural Network for Detecting Lunar Impact Craters",
+                            "dc.identifier": "10.3390/rs14030661",
+                            "dc.subject": "convolutional neural network",
+                            "prism.section": "Article",
+                            "citation_volume": "14",
+                            "dc.language": "en"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Coupling Complementary Strategy to U-Net Based Convolution Neural Network for Detecting Lunar Impact Craters",
+                            "publisher": "Multidisciplinary Digital Publishing Institute",
+                            "url": "https://www.mdpi.com/2072-4292/14/3/661"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...|��v�\n�u�g�Z\u000b�|��vu\u001c�?����5���}.����\u000fN�7�\n���cyu\f��T�U�s�v��,�c\u001dٓU�\bC\u001e��Kv�߷\u0000\u0000o\u0000��G{O���~�Ͽ� �\u000b\"�\u001d� ����w\u00122z\u000f�򾲻�\u001fR�;qN�Kq:\u0016��\u001fU\u0016_���~�g�t����U*\u0006��E����������_?��ׯӬA\u001d�1�]\u000b�?�������$�c;\u0001���[��wmuI��wA�t�/[�\u0018).Qß,\u0016>��K�\b�@D�>T�\u001a����a=/2\\1\u0005zӺ06�[�\u0003�\u0015\u0019YB�+ /ل�\u0013�\u000e\u0019�ᤱ�\u001d�AIEJ���I�y.#\u0010x���^c���4���h��\u0002�\u0006�Щ9>*�R��S����\u001a�3�o�\n��,�����\u0000��\\�\u0013���c�,�H˼��G�\u0017H��\tɼ\u00006\u0005\u001b�\u000b��#���\u001aټ�n�\u0007�\u0001@��%�\u0010������y-GA\u001bK�xp�*X��t\u0000�\u0003�\u0004�\u001a��K���j)\u0010���^\u0018��\u0005`\u0012�� \u0000F�h��,�K��+\u0000��J\u00061���t�g\u0013�&1މ\u0002؞V�\u000b\u0016�V�k(\u0016�9`�#\u0013���Q��/\u0002��Hbj=ަ�����L��\t�}�>�`L�,�&yR\u001f�b�ڰs�moŦ�w\u0006f�5Ւ<t�!\u00122���ß\u0001l\u0007@\t�5x'��ɛ\u001b�Y\u0002�i�!@���mq\u0016�������0j��a�\u0016\u0013����n%\n�����+�\u0012���,�W'eʺ=�QVkk�\u0011x�qɨ��G/O�jŴ��\n\u0007�r\u0012�m�VN\u0004}&Qug�.J�p����;�k���N�k^뀀\fJ3��>�l�\u0013IzI]�n\u001aH�+\\?��hze�t�e�:��@)ijR�M�K�m?���\u001bk����6ۃ��V����;�H����m̀m?����X�.�8�����E�]\u001f��\u0003�\u0016\u001b`�\t�I�+]b�O�x����\u0003v\u001f�Sg�p��=��w��w\u000e���n-�x�U�~٥n�U\b�@����rg\u0002v�1��Ϣ{p��aH�� V�o�\u0012S\u001c/����9ڙ\n]��j�ûpS�b�]�Od/���^��-m�p��ER\f����U��\u0007:��d�*\u001c;�8�8ƒ�km˹�/��p\u001a���%IL�\u001f�������ȳ\u0019\u0018yo�t���d�u<�8�؝�\u0005\u0015�R<G�nb�\"\u0006�}:��\f���P�]T�W�l��\u0002���Zj�WM\u0003�����\u0013\u0000�\u0019`'\u0012�4&���?�N�\r�:v9;�\b�\u0010T�o��9�\b�)A4��\u001a\u0005.;\u001d\u0011�S*��*\"'\u0002��#9F\u0003t\u001c#��R�8\tX(��U��\f��<8?q+�a��KI�����A\u0012S��`D��䮕�I���\t���\u0010!�Rb(�\u0001���\u00127�LQ����\\d�\u0004tr�8�>[�)���\u0001]d�D�$\u0002[H�J��\rLT�5��5�(s�\u0004����>���dK�<�Re�cQy����� \u000b�L\\����,2o�N��q����ȼ\r\u0004k��\u0019��������ID(U�D8��;��Q6�E�Q$�Z�P�D\"�\u001b)i��\n#�@\u0002\nɤ��D�|��=\u0007@\u0012�`\u001cQ��ѱ�\u001b�\u0001_�tF�4�pϐ���Ͱ���h6��E\"��s�^���r\u0005R3e���l9\u0012Y��f=\u0005\r\u0013RUK\u0014D��k\u000b/H�!\u000e4U�\u0002M\u001fKM�v`��{����\u0012˱�\u0005��\u0013�`��\u0017\t����So�����$�\u001e��r(�+�Bȷ�\u001f�\u0007��AB�Fh�\u0019:\t؏<M�\f�r4j�\\\\��%��Ǯ�~��K���B\u001d�\r����|��@R\u000e����8W\t�\u0013G��\u0005�u�Zы\\'�_\t\\\u0012U\u0005�\u001f�@D�h��x�^K��q�%�\u0004 �[B3W�$\n$�|!b���L��E�\fǉ�bR\u0002,g���$v+�%\nW���^��$N�\n��\rJ��H�c}p\"\u0010�n�\t���Z�*�\u0014�����\u0004\u000f��w-N}V_��q-��}X��2�^�u�Oe*u\u0005��7\u0010D��Jl[������\t\u001b�k�ǃ�\n���D`!y���\u0001��\n���9۵\u001a��\u0006\u0005\u0015���\u001e\r'��9Y|�z��Y�r�\u0004ے]\u0011;��>\u0001\u000e�\nt+��qv\u001e7�M+���\u0000cq\u0012!-���P\\\u000e2�:>z�T�|q��P<�h\u001eW-���r��=^qm�\u0002�jp���\u001b��\u000f�\u001f���\u0016��T:E��\r֠��\u001c\u00042R���a�\u0012�^\u0001ڲ\u0001%BJH\f�aaK�\u0004u}�i\u0018\u0014d ���k�}2�������=��e�\u0018�\u000b�\u0019���N�r[l�}\u0004S��w,�V�������\u0014��\\RƢ?\u000b8j��*��B\u001c�&���\u0004\u001c%o�'��0�(ۢ_?��\\\u0014�h+\u001f��{���m`�Q�����ES�����\u0019�Q�\u0004�d\u0013\u001f_(\u001fO�MO��\u0016v��F�h�0��\u0007�Q�$f�z=�*>^�:ޠ\u0000Z�)�|���y�Q�YM=��\u0014Xl{���\u0000ǝW[��=$�4�=\u0018����Z9�\u0015�K��T��r$Z�k�/\u001eh�+�\r��\u000f~xr\u0019�X�2�t}�H��\r�D�����L7�lM�p�\u0016%�Q1�5�\t�ꔛ�5\u0016��J�l5�i\t(Mo�X�;�ޓ�%\u001aT9E�\u0002�Ѹa-��\u001b\u000bg&_�b\u0012�`d\f�B�d��aP�߯�\u0004Ԭ�@_L�W2\u0012��'QL\"\u0013��'����\r\u0013�F\u001dn��\u0015H@�d�v�g�u.\u0014����$\u0003\u000b�|$�3�\u0000\u0004��݇\u00008U(}��Q\r).�9��oznbk�4S�\u0019h��P\u0004�l\u0012x���.\u0000\u0017\u0000��P��4�AF>*bf�z;�IZI\u000e3��^\u000fET�zXF��\u0003�:\u0013c��\u001f�������\u001d\u0010�v\\������n*����\u0014���#~HZ[�Dy�B\u001a\u0002#q�\u0000��\u0000���5�\u0015���~՝o�|:�^N�,`\u001b�I����\u0000xtl���\u0005^>���-}^\u0015�\u0013\u0000-��a�rho&���v�4�Z�,R�H�\r�:�����ꤩ4\u001a�\bb�%� �*�㼾\u000eb<6�\b|�C�oU����^��\u000f�Y\u0018H�\u00190�\u0011��)�~sI�yS�H+o/N)\u0005�Ry �\t\u0006�a\n\u001344\\��9\\��ߛ�m`!\u0005\u0014�\u0002:�7�\u0005,\u0003��\t\u0017��-�-\u0019�Z\u0006���\u001c�,\u001bh¹��w:=�i�\u001a�,y���o�\u001e�_N?E�l�l���L��\u001f\u0013]\u0004'l��\u000b�\u00128\u0010-�\u0003?�k2\\�\u0012f�\u0010�)\u0004����\u0007ޏ���g!\u0005��O��\\�*��BF�6�1TGݽ!�\"�Ϭ��\u001cY�}/\u0016D@��h���h�wlV��w3\u001ecF�G�8ȉ@�I�\u0011�*��5�\t��O4B���H�zvFXY⼵|ݚ\"���ً��~M\u0012򤐔�I�\f\u0012��\u0011#(���z�`�$!�~\t\u0018\u000bA�k�\u0014����v���`�&���\u000bE8M�hO\u0000g�'֧���$��\u0004��}9�P���!��\u0005.���\u0015ִ�NY�\u001f�>�pR�C@�\u0007�+N\u0000\u0000¡�!#���~�1M3��*��\u0004��ȩdxYwo@hAK\u0003���\u0017�z�OJ9)*�\rim�ȯ�F'8����pܳ><�3G��FD{X�M�\u0010��ے���s?���]�t�#��ql&\u0013QT��ay\u0018���{�\u0018s��7�C����d���p_VBě\u0017�K��\u0011n��N֜@��?n��}��\u001dO\u001b��a\"\u0007��N\u000b\u001eqN���u\nb\u0011\u000ek��K���r\u0002s/'��ova0����V�a�!���f�\u0015�W!��\u0001�v�}n%��\u000bMn�]r#�B�r.vHB\u000e}\u0002Qh�_Q�\f�\u001b�\u001d��\t��3�,x��7Q�S�������\u001e}\b\u001e��`\u0003d�\")\u0013\u0006����g;�L\u001a]bd�\u0002�`�(��\t�.c�+Z�<ġS�?6�.�JH�\u0017���ā��\u001fԋϿT�r���\u001aW�^�1��\u000e�ѿ���*����nO�����&�x\t���H��BM���Rw\u001fj8�'��D�C8/�k���~��Ѷ�\u001a���!�I��{_\u0017��~\u0005��\u0017\t�M�#9�|#��\u0000�i\"�/'7a\b!�x�\u0016c9���y�B�Y|��0F���dӶ\n�d�ͪ�$���C��\u001f�'�m���\u0014�QmCc���;�\u001a��\u0007�>\u0017��E2�a\\�F�E�6�\fћIve0��\u0005n��]4�\u000f�YR�Q<�)^\u0002�'�X�\t�s�=��H�h�&#r}�\u0003�P(3�;��{�y��R�\"Z�u�\u0019ۅ2vp�[�A��3aHgȉ�cQ\u001e$y\u0007�\u001d\u0000B�]T�\u000eF�MI.��F���&0Ɯ\u000f�\u0010�E��\u0007�J\u0018Σ�N\t\u0000��7!#=�.v�H�~r�\u001d����Jz��5���X\u0013?$���º8ȳ'>��(�(�0����7�*��!�\u0001�1��R���Q�U���-\u001a\u0016:^C��ܪ\u0007��'v�&��������?�:t`��C\u0011�t�E�~B%z\n��/��[�UB�Q\\�(\u0003\u0002��,��\u0006����oL\u0018!����l0:\b��Z�7$#\u0018{��ěU�E>\u0013�\r�\u0005�8D�`6��Wm˓��jX��.a�&�\r�ȡ�N�hC0\u0002�2�aV�\u0007�\u0007�\b�^�#i7z5\t�\u000eU]5�\b6)\f$\u0018�'i��2_�Ķ��xC\u0013�?��/'\u0016on���{\u0007|\"0++\u0002��:>\u0010�\u001b\u0016#N��,V���\u001a�I�x(�\u00189�3�H�5�پ��Y/5 n�5e���%��R�<#a\u001azu\u0019�W�ٷ\u0018L\u001d*��E*��:����-\u000b\u0016!�����Ӱb���?2\u0013�\u0017\u0000J�\u0019\u0001%�4��(ޗ7\bzF���\u0003ռ\u0000�,�Z�\b\u0005��&\u0019y�\u000f]B0��r�ę%S�8�X��\u0013��j�\u0001' �4��CR�j�ր҂�=F��6���8\r�t�RpCF-�4��B\u001bZ\u0011��\b�$`\u001a`E\n�w\r�)5\u0004��H\u0006Z�\u0015^@)\u0019�2K�Pu4�\u001b3R�+F��\u0000\u001b�F�\u0002��f\u000f<BQBA�\u0007ڹ��2\u0018���#�$�g⻭\u001d\u0017m\tJ ��#~K\u0012r�S��l烻T%z\\ՙL�$�\u0017��\u0012�On�\u0011������\nfg���rB�\u00102�\t��1�I�ذ3\"\u0004u\u0017t\u0019��ǂ>j��\u0017�t+�\u0011�ϔ$\u0017�\bfG���~s��ݍ�E\f�z�BC�\u0007^Z��\u001c�E����(B(?hSD0;��\u001fd ��x�,�\u001bKR\u001dC�]I\n�U��ñ�-�\nfg�\t+��*���޾t�\u001au���\u0010LbI����L\bc\u000eF+`��^�Mel�g;��1й(\t=�}�G7�����\u0003.!KC$��$��B3%���\r�x&ϓf'���\u000f�Ȉ\t����\u0018at:�\u0011%(�\u001b\u0000\t�ȝ��˅\"\u0018uCz��v)���`H\bl�\u001ccN\u0011��@����99RV0\u0007�P.%�>\n�`�\r���a���\u0015O�ʿB˳\u0000\u0016%����Ա\u0003�04a��Hr��\u0000s I��(���m�?Y�m�d��3��\bE\b%�3��,\t\b2��\u0003A\n�Į\u0002\u0003B@���\rf;\u000f^Ӟ�ѣ\u0006��N\r9�И�w\u0011\t�ǒx_rg12%�d\n�\u001b���\t�'\u0014��1�#Da\"c�$�k�\u0011\u001d\u0004F �7׍�ys7%�g�7`\u0004 �\u001b�?��9#��˓�)ᤙvE�\u000f\"a�<O'�3�CT\u000fg0�$��\u001b�\u0017I(�;��I������/��@�6v\u001a�q�[\u0003����S0*\u0018s\t�����\u0013FH\u0000��1\u001a\u0018�\u0002��m��a�4e���J���.���Q$\u0004\u0013�A�E���k��'ͺ�\u001c\t}�S\u0002#���h��?��`��n\u0006�W�](Q�6�k;**R*�_)��H[�nx��h%2��e6(gW��ok�\f�G\u0012�I����(�2�A\\_�q��\u000e�\u0006\u001f�q0��Tv��\u0012a��G�'\u0005sd�ަH�Y��ׄe\u0003^��eB�(�\u0015җ+�)O`�7B\u00183i\u0019�VN�Z^�\u0000\u0014R\u001bliEM\u0013\u0011X�S��Zߊ�9t�$r\n�%r ���Mm\u001fb�<9�1\t���g����f�Ξ�S0��\b��X�s_�E��\u00140e�ﶹ�\u0006L���78KUt`�-�Z欩��)-\u0003����}����Q������7��6���X�����JSF0�w\u001d0m\u0012\u0000c����\u0017����Z�|_�1�i��6!\bT�cۯ\ta�Q=���\u0001��\u0005�)�q�u�l_C��n��\u0007\n�\u0015)� ;ڙ��%��]+\u0011\u0016V�\u0010�*��h��Ւ.v\u0000KC/&��\u001d\fT]\t��?�o\u000b��\u001c\u0018s�fl�].�i�(a�VN\u0006�\u0014{��\n/t\n�\u0004�Vb�re�\u001d\u000b�v�߳���\u0004\r�&\u0007��۞�9\t�@ܳe@�$\u0011�G�+�T�9i\u000e�#�<Y\t`N\u0002#��9\u0007L�;I�P�=z�s�E'9�`�\u001b�\u001aJ���[\"�?�pBJ��i`8c\u0012�\u0015N��O\u001c4�kfk<��,Aw��$3��ђXC/:�9=���z\u0017���\u001c�Y�K0��q-61^@џ�ǘϏ��)�\u0012X^\u0002jCaO2�6�b\u0012g��\u0001r\u0005�)Qt����\t�{\u001a\u001d�IF�5�\u0017`N\tfw��������MuF%\u001e8�\u0004�D\b%O\u001dڑ\".���\u000e`�3�\u0002�MEP�\u0015m�z�A\"��H��\u0003��\u0015�ՍH�<��\u001e\u0012\u0018���z)�\u000f�)EJ0������\u001b`\u001eDF0�J��o��z\n�!)�\u001eo)Qٲ�,z\u0010\u0018�8�@��j���7�L`\u001eQ7��nJַ�\u0011Uϟ�7�\u000e�#���x�@\u0011̣���L�􏄹P�u�`\u001c#�U#\u0016�5\u001bW�IJ���E���?�N$Jf�Xy_B\u0002��L+\u0000�Z\u0006�\u000b�9�M\u001cЇ��Q\t���R/�Q�\u001a�2�a5II1���z���\u000e\u0002���5H%���\u0019\u001ft;\u0012��u�K�w�Ɓ��\u0006���bk90�?�\u0019Bn,:_��\u0004Q;8�\u0011\u0012k\u0010��b�i�\u0001���jq��j\tuh1��u�e�a�8����U�c\u001f\u0012\u0002Z,��I���P��^S% Fү\u0018X�86\u0011o�ә��\u001f���j����YS7�Xܾ�o�\t�����y�\u0012\u0016!`��\u0004䀏������`�C�]8\u0014\u0013��I�K�8n&�/�B&It�ȪxYF\u0004�\u0007�\u001a��\u0015YMuU�o�\u0003�\u001d�x�0U\"#�L�\u0006�P��,�U�%/�堩�ڌ��G0�\u0005u\u0000�\u000bBWj`Q�+\f��]��\u001c��\u001b;*HB��\u001e��\u000e\r�\u001f����)�\u0018\u0014�U�\u000e,�?V�0\u0000\u0016\u0010�((\u00051T�pt:��Y��\u001f����O��i\u0003]ԁ�\r\u000f\r���D�[�\u000b\u0012o=S3H�\u000b�v�\u0015�=�w\u001d\b\u0005\u001d������d�����Uq�[uv$F�+8��k�w�P\u0012�ja�G\u0005��~����t�p=�}\u001e~f�\b��\u0003*����ē)+=����+6�\u0003kN)y5�rm\u0000�\"\"'�{A'��\u0014p�!�3 �\u001f�\u0019���U����q���{~\u0018\u0013�X\u001c>lU\u0001\rZǪݘ�)m\fƦ\u0006e|T�\f��~K��ku/���wY�'�\u0019}\u0002��*D�~��m��+�Xhe��>�\u001c\u001ew�����y�Z7�%\nb\\�$��ɈU�-��h�4I�.��\fw ��B#\u001e�\u001dw�]ohAP��7[F�T*���#�B�?���+@{�ӕSs$v�Y�yR��f��\u0013Wy�\u00152$�I�h{��X|d�G/#����\u0014$� \\�W��(�[U\u001fV,����\u0010���;֧\u0010k��Lg\u00153�\u0016^R@x�ꪉ/���N�%SI�.\u0016z�\r���\u0013�X^�0ᰍ�\u0016�\u000f����ꆃ����.?m��\u0016��g�z�l���Ͳ�\u0017�\u0015՟.�mh�\\�W����|Q�r���f:�]2���.��\\�`�O���r\u0012���,\u001bj����rv��uv��b�J*2�Jsz�Uc�Y\\.�v,���{��\u001e\u0002LPL��\t\u0005�#\n&V6�\u0007Z�[��i�$��w5\u0016\u0014\u000e��e�(\u001c��\"C�}M��XQ�e�g��\u0000�֠�>q`��`Ea3��\u0010P`��adc�5WXҢ�����h�f���\r�\u0018�L,Z6�6Z���h<�Q�$o\r�745Т�\u001d�����4\u0003�%VMۅ\u0003/��\u001a��\u001b�'�\\'(G[y�R���,V���,�����\u001b������F{�2�:T�\u0004��Gj\u0014���.�ǵ\u001e\u000e�lZ\u0015,�\u0005\r���]\u0000��*D�\u0002\u0004j\u0007�\u0017�\\�� S��\t��[B#\n\u000b_�d�!jwQ9\"�*I�dnpd�Vs�캯��a*�\u0018�H�\u0006�FǱqf�^� �\nFH����d^N� �u\u0006!\u001b{8W�\\GDoz�s��7R�N�thC\u0011�8�@�4�(�,�(8\\��^\u0010�\u0006�Y\u001b��\u0010���\"{b���\u0018�-�[�D�\b�lv����\u0007�g�Yw��9�\u000f^��b�!G�\u0016c�i@3d���[��\u00050��Ǟ%�\u001c���5\rf��\u0000�:�=i�vF��<fCN��:d\b�B�g3j_\u0003>����m �p��f'V(*r��V�l[�C������@�� `0�\u000fp\u0014M��Ęo��)\u0004��Zy���\u0002W\u001f�\tpv�0/j�2}������v\u000bP�\u000b\u0002Y�\"n\u001f��=�\u001f���\u0010v\b��q\u000f��>�����2C�=����\u0018���*��B���\u0019�V\u001c\t|+i�y�s�y���\u0006�\"\u0011�\u001f\u0016�\u0002� �WE�Bc\u0013��$\f��Ŷk\u0013���E���\u0017-�\u0010��)i)\u0017�o��\u0001\u0019\u0006Yڋ\u0018�\n�\u001a�+rpx���A������F��G{��1���\u0018c{�_���\u001e&�%\"��\u001eZ�l\u0014\u0019\b�@>m\u000b�Ob��\u0019��uZ\u001eF�y�\rX�ֲϗ#���p|'��`�9�X����\u000e��\u0016O�*���e��\u00150���c\u001c�Xh$��B�Rq�ū8��P�ɂ��Ƶ7���9\ty\u001e\u000b�\u000e�\u000e7QǕí�Nd\u001d�\u001e؍c��d�uQ���=4dN^I�\u001e�Qc(�1�;���7���\u0014�91�̸�>\u0019\u0014�\u001c\\�V��)�\u0017\u000e�a����ɼX�\"\u0016I\u0011%\u0006h�O�M�\u0007��T��X\u001b{�,�]7�K���\r�?_��\rQ�/�\u001f͗����\u000bc�N��&~p^l#etrx#Z�tB�\u0012��1�-��pk*���x�>��{j�ތSh��\u0012�\u001e5\bVZ�/c��MLj�&`��{������7��\u0019\f\u0007c^UZ�o���\u001fR �o�󙀻��\u001eP\f̒m^\u0016Σ�ҔK�Ȫ��N\u001a���y��Y�3\u000b...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Automated Lunar Crater Identification with Chandrayaan-2 TMC-2 ...",
+                "htmlTitle": "Automated <b>Lunar</b> Crater Identification with Chandrayaan-2 TMC-2 ...",
+                "link": "https://www.nature.com/articles/s41598-024-58438-4",
+                "displayLink": "www.nature.com",
+                "snippet": "Apr 8, 2024 ... Terrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our ...",
+                "htmlSnippet": "Apr 8, 2024 <b>...</b> Terrestrial planets and their moons have <b>impact</b> craters, contributing significantly to the complex geomorphology of planetary bodies in our&nbsp;...",
+                "formattedUrl": "https://www.nature.com/articles/s41598-024-58438-4",
+                "htmlFormattedUrl": "https://www.nature.com/articles/s41598-024-58438-4",
+                "pagemap": {
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2045-2322"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Scientific Reports",
+                            "dc.rights": "2024 The Author(s)",
+                            "prism.publicationdate": "2024-04-08",
+                            "prism.issn": "2045-2322",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2045-2322",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/s41598-024-58438-4.pdf",
+                            "citation_lastpage": "24",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Scientific Reports",
+                            "citation_journal_abbrev": "Sci Rep",
+                            "dc.date": "2024-04-08",
+                            "citation_issue": "1",
+                            "prism.volume": "14",
+                            "size": "267615",
+                            "citation_doi": "10.1038/s41598-024-58438-4",
+                            "dc.title": "Automated Lunar Crater Identification with Chandrayaan-2 TMC-2 Images using Deep Convolutional Neural Networks",
+                            "prism.url": "https://www.nature.com/articles/s41598-024-58438-4",
+                            "citation_volume": "14",
+                            "dc.language": "En",
+                            "doi": "10.1038/s41598-024-58438-4",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "Automated Lunar Crater Identification with Chandrayaan-2 TMC-2 Images using Deep Convolutional Neural Networks",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2024/04/08",
+                            "dc.source": "Scientific Reports 2024 14:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2024 The Author(s)",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/s41598-024-58438-4",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41598",
+                            "dc.description": "Terrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our Solar System. Traditional crater identification methods struggle with accuracy because of the diverse forms, locations, and sizes of the craters. Our main aim is to locate lunar craters using images from Terrain Mapping Camera-2 (TMC-2) onboard the Chandrayaan-II satellite. The crater-based U-Net model, a convolutional neural network frequently used in image segmentation tasks, is a deep learning method presented in this study. The task of crater detection was accomplished with the proposed model in two steps: initially, it was trained using Resnet18 as the backbone and U-Net based on Image Net as weights. Secondly, TMC-2 images from Chandrayaan-2 were used to detect craters based on the trained model. The model proposed in this study comprises a neural network, feature extractor, and optimization technique for lunar crater detection. The model achieves 80.95% accuracy us",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/s41598-024-58438-4",
+                            "prism.endingpage": "24",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/s41598-024-58438-4",
+                            "prism.copyright": "2024 The Author(s)"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Developing an integrated approach based on geographic object-based image analysis and convolutional neural network for volcanic and glacial landforms mapping",
+                            "headline": "Developing an integrated approach based on geographic object-based image analysis and convolutional neural network for volcanic and glacial landforms mapping",
+                            "url": "Developing an integrated approach based on geographic object-based image analysis and convolutional neural network for volcanic and glacial landforms mapping"
+                        },
+                        {
+                            "name": "Lunar impact crater identification and age estimation with Chang’E data by deep and transfer learning",
+                            "headline": "Lunar impact crater identification and age estimation with Chang’E data by deep and transfer learning",
+                            "url": "Lunar impact crater identification and age estimation with Chang’E data by deep and transfer learning"
+                        },
+                        {
+                            "name": "A new strategy to map landslides with a generalized convolutional neural network",
+                            "headline": "A new strategy to map landslides with a generalized convolutional neural network",
+                            "url": "A new strategy to map landslides with a generalized convolutional neural network"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "scientific reports",
+                            "name": "scientific reports",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nScientific Reports\nvolume 14, Article number: 8231 (2024)\n            Cite this article\n\n3873 Accesses\nMetrics details\nTerrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our Solar System. Traditional crater identification methods struggle with accuracy because of the diverse forms, locations, and sizes of the craters. Our main aim is to locate lunar craters using images from Terrain Mapping Camera-2 (TMC-2) onboard the Chandrayaan-II satellite. The crater-based U-Net model, a convolutional neural network frequently used in image segmentation tasks, is a deep learning method presented in this study. The task of crater detection was accomplished with the proposed model in two steps: initially, it was trained using Resnet18 as the backbone and U-Net based on Image Net as weights. Secondly, TMC-2 images from Chandrayaan-2 were used to detect craters based on the trained model. The model proposed in this study comprises a neural network, feature extractor, and optimization technique for lunar crater detection. The model achieves 80.95% accuracy using unannotated data and precision and recall are much better with annotated data with an accuracy of 86.91% in object detection with TMC-2 ortho images. 2000 images have been considered for the present work as manual annotation is a time-consuming process and the inclusion of more images...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Orbit Design for LUMIO: The Lunar Meteoroid Impacts ... - Frontiers",
+                "htmlTitle": "Orbit Design for LUMIO: The Lunar Meteoroid Impacts ... - Frontiers",
+                "link": "https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2018.00029/full",
+                "displayLink": "www.frontiersin.org",
+                "snippet": "The space segment foresees a 12U CubeSat, placed at Earth–Moon L2, equipped with an optical instrument, the LUMIO-Cam, which is able to spot the flashes ...",
+                "htmlSnippet": "The space segment foresees a 12U CubeSat, placed at Earth–<b>Moon</b> L2, equipped with an optical instrument, the LUMIO-Cam, which is able to <b>spot</b> the flashes&nbsp;...",
+                "formattedUrl": "https://www.frontiersin.org/journals/astronomy-and-space.../10.../full",
+                "htmlFormattedUrl": "https://www.frontiersin.org/journals/astronomy-and-space.../10.../full",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_keywords": "Lumio; Orbit design; lunar meteoroid; Impact flash; Lagrange point",
+                            "citation_publication_date": "2018/09/19",
+                            "theme-color": "#0C4DED",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Orbit Design for LUMIO: The Lunar Meteoroid Impacts Observer",
+                            "citation_author_institution": "Astrodynamics and Space Missions, Delft University of Technology, Netherlands",
+                            "citation_publisher": "Frontiers",
+                            "apple-mobile-web-app-title": "Frontiers | Articles",
+                            "citation_journal_title": "Frontiers in Astronomy and Space Sciences",
+                            "title": "Frontiers | Orbit Design for LUMIO: The Lunar Meteoroid Impacts Observer",
+                            "type": "article",
+                            "citation_online_date": "2018/08/10",
+                            "citation_issn": "2296-987X",
+                            "citation_language": "English",
+                            "fb:admins": "1841006843",
+                            "citation_pdf_url": "https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2018.00029/pdf",
+                            "image": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/385553/fspas-05-00029-HTML/image_m/fspas-05-00029-g001.jpg",
+                            "citation_journal_abbrev": "Front. Astron. Space Sci.",
+                            "citation_abstract": "<p>The Lunar Meteoroid Impacts Observer, or LUMIO, is a space mission concept awarded winner of ESA's SysNova Competition “Lunar CubeSats for Exploration,” and as such it is now under consideration for future implementation by the Agency. The space segment foresees a 12U CubeSat, placed at Earth–Moon <italic>L</italic><sub>2</sub>, equipped with an optical instrument, the LUMIO-Cam, which is able to spot the flashes produced by impacts of meteoroids with the lunar surface. In this paper, the work undertaken to design the baseline orbit of LUMIO is documented. The methodology is thoroughly described, both in qualitative and quantitative terms, in support to the mission analysis trade-off activities. The baseline solution is presented with evidence to support the orbit design.</p>",
+                            "citation_author": "Cipriano, Ana M.",
+                            "url": "https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2018.00029/full",
+                            "site_name": "Frontiers",
+                            "citation_firstpage": "385553",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "citation_doi": "10.3389/fspas.2018.00029",
+                            "mobile-web-app-capable": "yes",
+                            "dc.identifier": "doi:10.3389/fspas.2018.00029",
+                            "citation_volume": "5"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Lunar Meteoroid Impacts Observer, or LUMIO, is a space mission concept awarded winner of ESA's SysNova Competition “Lunar CubeSats for Exploration,” and as such it is now under consideration for future implementation by the Agency. The space segment foresees a 12U CubeSat, placed at Earth–Moon L2, equipped with an optical instrument, the LUMIO-Cam, which is able to spot the flashes produced by impacts of meteoroids with the lunar surface. In this paper, the work undertaken to design the baseline orbit of LUMIO is documented. The methodology is thoroughly described, both in qualitative and quantitative terms, in support to the mission analysis trade-off activities. The baseline solution is presented with evidence to support the orbit design.\nNear-Earth Objects (NEOs) are asteroids or comets with a perihelion of < 1.3 astronomical units (AU), whose orbits encounter the Earth neighborhood. In the Minor Planet Center database1, the vast majority of NEOs are classified as Near-Earth Asteroids (NEAs), while only a small fraction are classified as Near-Earth Comets (NECs). Both types of minor bodies (NEAs and NECs) are remnant debris of the solar system formation and contain clues that can contribute to the understanding of the composition of planets. The relatively easier accessibility of NEOs, when compared to deep-space asteroids, represents a valuable opportunity to improve the understanding of the solar system at an affordable cost.\nImpacts due to Near-Earth Objects could cause a devastating humanitarian crisis and potentially the extinction of the human race. While the probability of such an event is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "An Improved Global Catalog of Lunar Impact Craters (≥1 km) With ...",
+                "htmlTitle": "An Improved Global Catalog of <b>Lunar Impact</b> Craters (≥1 km) With ...",
+                "link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006728",
+                "displayLink": "agupubs.onlinelibrary.wiley.com",
+                "snippet": "Aug 11, 2021 ... Our crater detection approach can achieve a detection rate of about 85%. We also present an approach for extracting 3D morphometric information ...",
+                "htmlSnippet": "Aug 11, 2021 <b>...</b> Our crater <b>detection</b> approach can achieve a <b>detection</b> rate of about 85%. We also present an approach for extracting 3D morphometric information&nbsp;...",
+                "formattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006728",
+                "htmlFormattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006728",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv4UGVj2s0G2yKaypDseKMJoYsllZk4R_WtF1iigB54I95-OX67r_6LyE&s",
+                            "width": "196",
+                            "height": "258"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_keywords": "crater catalog",
+                            "og:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/da8e9abe-321b-47a6-9393-d8a8abc46fa3/jgre.v126.9.cover.jpg?trick=1717569883093",
+                            "citation_publication_date": "2021/09/01",
+                            "citation_title": "An Improved Global Catalog of Lunar Impact Craters (≥1 km) With 3D Morphometric Information and Updates on Global Crater Analysis",
+                            "citation_author_institution": "Department of Land Surveying and Geo-Informatics Planetary Remote Sensing Laboratory The Hong Kong Polytechnic University Kowloon Hong Kong",
+                            "og:site_name": "AGU Journals",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Journal of Geophysical Research: Planets",
+                            "mathjax-version": "3",
+                            "og:description": "<em>Journal of Geophysical Research: Planets</em> is an AGU planetary science journal publishing original research articles spanning planetary geology, geophysics, geochemistry, atmospheres, and exoplanets.",
+                            "twitter:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/da8e9abe-321b-47a6-9393-d8a8abc46fa3/jgre.v126.9.cover.jpg?trick=1717569883093",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2021/08/30",
+                            "citation_issn": "2169-9100",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1029/2020JE006728",
+                            "publication_doi": "10.1029/2020JE006728",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2020JE006728",
+                            "og:type": "Article",
+                            "pbcontext": ";issue:issue:doi\\:10.1002/jgre.v126.9;page:string:Article/Chapter View;ctype:string:Journal Content;website:website:agupubs;journal:journal:21562202e;article:article:doi\\:10.1029/2020JE006728;requestedJournal:journal:21699100;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                            "og:title": "An Improved Global Catalog of Lunar Impact Craters (≥1 km) With 3D Morphometric Information and Updates on Global Crater Analysis",
+                            "citation_author": "Yiran Wang",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2020JE006728",
+                            "citation_issue": "9",
+                            "citation_firstpage": "e2020JE006728",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1029/2020JE006728",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1029/2020JE006728",
+                            "citation_volume": "126",
+                            "og:url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006728",
+                            "article_references": "Wang, Y.,  Wu, B.,  Xue, H.,  Li, X., &  Ma, J. (2021). An improved global catalog of lunar impact craters (≥1 km) with 3D morphometric information and updates on global crater analysis. Journal of Geophysical Research: Planets,  126, e2020JE006728. https://doi.org/10.1029/2020JE006728"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://agupubs.onlinelibrary.wiley.com/cms/asset/da8e9abe-321b-47a6-9393-d8a8abc46fa3/jgre.v126.9.cover.jpg?trick=1717569883093"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... them in crater catalogs.\nIn support of such efforts, a lunar crater catalog recently published by Robbins () included craters with diameters reaching 1–2 km. This crater catalog is the most up-to-date one in terms of the sizes and number of craters it contains. However, it does not include three-dimensional (3D) morphometric information of crater morphology, such as crater depth, rim height, and wall slope, yet such information is essential for understanding various planetary processes, including terrain properties and impact cratering processes. Thus, it is important to generate a global crater catalog that covers craters of smaller sizes while providing morphometric information of the craters.\nPast efforts to extract 3D morphometric information of craters have focused on local regions on the Moon. Global attempts to derive the 3D morphometric information of craters as small as 1 km in diameter have seldom be attempted due to the lack of high-resolution data and the amount of effort needed. Recent lunar missions, such as the Lunar Reconnaissance Orbiter (LRO) (Smith et al., ), Chang' E-2 (Li et al., ), and the Selenological and Engineering Explorer (SELENE) (Kato et al., ), collected higher resolution remote-sensing data sets that include orbital images and laser altimetry data, which offer opportunities to investigate relatively smaller craters while providing more precise morphometric information.\nIn this study, we first present an effective approach for the automated detection of craters and extraction of their 3D morphometric information. The approaches we developed were used to generate a global catalog of lunar craters, LU1319373, that, contains ∼1.32 million craters with diameters of ≥1 km while providing 3D morphometric information. Based on this crater catalog, we present a global analysis of craters in terms of spatial density, saturation, and depth-to-diameter ratios, and discuss the implications of these analyses.\n2 Related Works\n---------------\n### 2.1 Crater Detection Methods\nLunar craters have typically been detected from lunar surface images and/or digital elevation models (DEMs) via manual digitization (e.g., Head et al., ; Robbins, ) or computer-assisted methods (e.g., Luo et al., ; Salamunićcar, Lončarić, Grumpe, & Wöhler, ). Manual digitization is usually labor-intensive and time-consuming when applied to crater detection in large data sets. Computer...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Why study impact craters? | AMNH",
+                "htmlTitle": "Why study <b>impact</b> craters? | AMNH",
+                "link": "https://www.amnh.org/exhibitions/permanent/meteorites/meteorite-impacts/earth-impacts/why-study-impact-craters",
+                "displayLink": "www.amnh.org",
+                "snippet": "Scientists study craters on planets, asteroids and moons to learn about the geological history of those bodies. The Apollo lunar missions opened our eyes to the ...",
+                "htmlSnippet": "Scientists study craters on planets, asteroids and moons to learn about the geological history of those bodies. The Apollo <b>lunar</b> missions opened our eyes to the&nbsp;...",
+                "formattedUrl": "https://www.amnh.org/...impacts/earth-impacts/why-study-impact-craters",
+                "htmlFormattedUrl": "https://www.amnh.org/...<b>impacts</b>/earth-<b>impacts</b>/why-study-impact-craters",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYiAnF4y_mSu3cBQ8BSSaRCKJDdJdg_DumroQScmVIokEjgJu3hP1swpY&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/earth-and-planetary-sciences-halls/hall-of-meteorites2/ross-hall-of-meteorites.-calder-images/why-study-craters-hom-4-05-1600-1200/4672956-1-eng-US/why-study-craters-hom-4-05-1600-1200_facebookshare_1200.jpg",
+                            "og:type": "Exhibit Object",
+                            "twitter:title": "Why study impact craters? | AMNH",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "American Museum of Natural History",
+                            "msvalidate.01": "FDB389F4B0A5614160084A046837729F",
+                            "og:title": "Why study impact craters? | AMNH",
+                            "og:description": "Craters are windows into the past, present and future.",
+                            "twitter:image": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/earth-and-planetary-sciences-halls/hall-of-meteorites2/ross-hall-of-meteorites.-calder-images/why-study-craters-hom-4-05-1600-1200/4672956-1-eng-US/why-study-craters-hom-4-05-1600-1200_twittershare_1024.jpg",
+                            "fb:app_id": "1409773259334320",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "Craters are windows into the past, present and future.",
+                            "fb:admins": "100000082488363",
+                            "og:url": "https://www.amnh.org/exhibitions/permanent/meteorites/meteorite-impacts/earth-impacts/why-study-impact-craters"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.amnh.org/var/ezflow_site/storage/images/media/amnh/images/exhibitions/permanent-exhibitions/earth-and-planetary-sciences-halls/hall-of-meteorites2/ross-hall-of-meteorites.-calder-images/why-study-craters-hom-4-05-1600-1200/4672956-1-eng-US/why-study-craters-hom-4-05-1600-1200_facebookshare_1200.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n*   \n    *   \n    *   \n        *   \n        *   \n    *   \n    *   \n        *   \n        *   \n            *   \n            *   \n            *   \n            *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n        *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n    *   \n        *   \n        *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n        *   \n    *   \n*   \nWhy study impact craters? Part of \nWhy study impact craters?\n=========================\nPart of .\n!(blob:https://www.amnh.org/aef335eb562a1da6957ce25a574b4aa1)©AMNH/C. Chesek\nMore in Arthur Ross Hall of Meteorites\nShare\n**Location**\nFloor 1\nWhy Study Impact Craters?\n-------------------------\nCraters are windows into the past, present and future.\nLessons from impact craters have been essential to developing our understanding of the past and present of the Solar System. Scientists study craters on planets, asteroids and moons to learn about the geological history of those bodies. The Apollo lunar missions opened our eyes to the changing rate of impacts throughout the history of the Solar System.\nKnowledge of the ages of lunar craters opened a path for investigating other planetary surfaces. Today, scientists can make inferences about the geologic histories of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Lunar Surface Model Age Derivation: Comparisons Between ...",
+                "htmlTitle": "<b>Lunar</b> Surface Model Age Derivation: Comparisons Between ...",
+                "link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA002865",
+                "displayLink": "agupubs.onlinelibrary.wiley.com",
+                "snippet": "Jul 5, 2023 ... When applied to the ejecta blanket, or the floor, of large impact craters, the crater counts allow one to estimate the age of the impact event ( ...",
+                "htmlSnippet": "Jul 5, 2023 <b>...</b> When applied to the ejecta blanket, or the floor, of large <b>impact</b> craters, the crater counts allow one to estimate the age of the <b>impact</b> event (&nbsp;...",
+                "formattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA002865",
+                "htmlFormattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EA002865",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ6rMXy4ebz0Id4nWpW5Zrpk5sjTVUR7DmQMR5Y_P-jmtqyWbArvMxpak&s",
+                            "width": "203",
+                            "height": "248"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_keywords": "impact craters",
+                            "og:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/252ad29f-a3a4-47b9-a0db-8ee412ee020c/ess2.v10.7.cover.jpg?trick=1719253941006",
+                            "citation_publication_date": "2023/07/01",
+                            "citation_title": "Lunar Surface Model Age Derivation: Comparisons Between Automatic and Human Crater Counting Using LRO-NAC and Kaguya TC Images",
+                            "citation_author_institution": "Space Science and Technology Centre School of Earth and Planetary Sciences Curtin University Perth WA Australia",
+                            "og:site_name": "AGU Journals",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Earth and Space Science",
+                            "mathjax-version": "3",
+                            "og:description": "<em>Earth and Space Science</em> is an open access AGU journal publishing high-quality original articles spanning all of the Earth, planetary and space sciences.",
+                            "twitter:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/252ad29f-a3a4-47b9-a0db-8ee412ee020c/ess2.v10.7.cover.jpg?trick=1719253941006",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2023/07/05",
+                            "citation_issn": "2333-5084",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1029/2023EA002865",
+                            "publication_doi": "10.1029/2023EA002865",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2023EA002865",
+                            "og:type": "Article",
+                            "pbcontext": ";page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:23335084;website:website:agupubs;issue:issue:doi\\:10.1002/ess2.v10.7;journal:journal:23335084;wgroup:string:Publication Websites;article:article:doi\\:10.1029/2023EA002865;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                            "og:title": "Lunar Surface Model Age Derivation: Comparisons Between Automatic and Human Crater Counting Using LRO‐NAC and Kaguya TC Images",
+                            "citation_author": "J. H. Fairweather",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1029/2023EA002865",
+                            "citation_issue": "7",
+                            "citation_firstpage": "e2023EA002865",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1029/2023EA002865",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1029/2023EA002865",
+                            "citation_volume": "10",
+                            "og:url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002865",
+                            "article_references": "Fairweather, J. H.,  Lagain, A.,  Servis, K., &  Benedix, G. K. (2023). Lunar surface model age derivation: Comparisons between automatic and human crater counting using LRO-NAC and Kaguya TC images. Earth and Space Science,  10, e2023EA002865. https://doi.org/10.1029/2023EA002865"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://agupubs.onlinelibrary.wiley.com/cms/asset/c340a571-aee7-49cb-bca2-17154c8c1846/ess21511-fig-0007-m.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "agupubs.onlinelibrary.wiley.com\n-------------------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nagupubs.onlinelibrary.wiley.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 49
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Pandemics: Risks, Impacts, and Mitigation - Disease Control ...",
+                "htmlTitle": "Pandemics: Risks, <b>Impacts</b>, and Mitigation - Disease Control ...",
+                "link": "https://www.ncbi.nlm.nih.gov/books/NBK525302/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Multiple outbreaks, notably the 2014 West Africa Ebola epidemic, have exposed gaps related to the timely detection of disease, availability of basic care, ...",
+                "htmlSnippet": "Multiple outbreaks, notably the 2014 West Africa Ebola epidemic, have exposed gaps related to the timely <b>detection</b> of disease, availability of basic care,&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/books/NBK525302/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/books/NBK525302/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs5Lt0OZkheynyRsISArIp4iAjqs9TyuaA9Ygqvj0tEFJhsx9g_hexfbs&s",
+                            "width": "160",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "The International Bank for Reconstruction and Development / The World Bank",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-dcp3v9-lrg.png",
+                            "citation_title": "Pandemics: Risks, Impacts, and Mitigation",
+                            "twitter:card": "summary",
+                            "ncbi_bookparttype": "chapter",
+                            "og:site_name": "NCBI Bookshelf",
+                            "citation_publisher": "The International Bank for Reconstruction and Development / The World Bank",
+                            "ncbi_acc": "NBK525302",
+                            "ncbi_pdid": "book-part",
+                            "ncbi_pcid": "/NBK525302/",
+                            "citation_date": "2017/11/27",
+                            "ncbi_phid": "CE88F8956ACAA03100000000034002E1.m_12",
+                            "og:description": "Pandemics are large-scale outbreaks of infectious disease that can greatly increase morbidity and mortality over a wide geographic area and cause significant economic, social, and political disruption. Evidence suggests that the likelihood of pandemics has increased over the past century because of increased global travel and integration, urbanization, changes in land use, and greater exploitation of the natural environment (Jones and others 2008; Morse 1995). These trends likely will continue and will intensify. Significant policy attention has focused on the need to identify and limit emerging outbreaks that might lead to pandemics and to expand and sustain investment to build preparedness and health capacity (Smolinsky, Hamburg, and Lederberg 2003).",
+                            "bk-non-canon-loc": "/books/n/dcp3v9/pt5.ch17/",
+                            "ncbi_db": "books",
+                            "twitter:site": "@ncbibooks",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "https://www.ncbi.nlm.nih.gov/books/NBK525302/",
+                            "book-collection": "NONE",
+                            "ncbi_type": "fulltext",
+                            "ncbi_report": "record",
+                            "citation_pmid": "30212163",
+                            "og:type": "book",
+                            "ncbi_app": "bookshelf",
+                            "og:title": "Pandemics: Risks, Impacts, and Mitigation",
+                            "citation_inbook_title": "Disease Control Priorities: Improving Health and Reducing Poverty. 3rd edition",
+                            "citation_author": "Nita Madhav",
+                            "ncbi_pagename": "Pandemics: Risks, Impacts, and Mitigation - Disease Control Priorities: Improving Health and Reducing Poverty - NCBI Bookshelf",
+                            "dc.date": "2017/11/27",
+                            "dc.contributor": "Nita Madhav",
+                            "referrer": "origin-when-cross-origin",
+                            "citation_doi": "10.1596/978-1-4648-0527-1_ch17",
+                            "dc.title": "Pandemics: Risks, Impacts, and Mitigation",
+                            "ncbi_domain": "dcp3v9",
+                            "dc.identifier": "https://www.ncbi.nlm.nih.gov/books/NBK525302/",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/books/NBK525302/"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "author": "Nita Madhav",
+                            "name": "Pandemics: Risks, Impacts, and Mitigation",
+                            "text": "Corresponding Author: Nita Madhav, MSPH, Metabiota, San Francisco, California, United States; moc.atoibatem@vahdamn.Go to:INTRODUCTIONPandemics are large-scale outbreaks of infectious disease..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th-dcp3v9-lrg.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... that the likelihood of pandemics has increased over the past century because of increased global travel and integration, urbanization, changes in land use, and greater exploitation of the natural environment (; ). These trends likely will continue and will intensify. Significant policy attention has focused on the need to identify and limit emerging outbreaks that might lead to pandemics and to expand and sustain investment to build preparedness and health capacity ().\nThe international community has made progress toward preparing for and mitigating the impacts of pandemics. The 2003 severe acute respiratory syndrome (SARS) pandemic and growing concerns about the threat posed by avian influenza led many countries to devise pandemic plans (). Delayed reporting of early SARS cases also led the World Health Assembly to update the International Health Regulations (IHR) to compel all World Health Organization member states to meet specific standards for detecting, reporting on, and responding to outbreaks (). The framework put into place by the updated IHR contributed to a more coordinated global response during the 2009 influenza pandemic (). International donors also have begun to invest in improving preparedness through refined standards and funding for building health capacity ().\nDespite these improvements, significant gaps and challenges exist in global pandemic preparedness. Progress toward meeting the IHR has been uneven, and many countries have been unable to meet basic requirements for compliance (; ). Multiple outbreaks, notably the 2014 West Africa Ebola epidemic, have exposed gaps related to the timely detection of disease, availability of basic care, tracing of contacts, quarantine and isolation procedures, and preparedness outside the health sector, including global coordination and response mobilization (; ). These gaps are especially evident in resource-limited settings and have posed challenges during relatively localized epidemics, with dire implications for what may happen during a full-fledged global pandemic.\nFor the purposes of this chapter, an _epidemic_ is defined as “the occurrence in a community or region of cases of an illness . . . clearly in excess of normal expectancy” (). A _pandemic_ is defined as “an epidemic occurring over a very wide area, crossing international boundaries, and usually affecting a large number of people” (). Pandemics are, therefore, identified by their geographic scale rather than the severity of illness. For example, in contrast to annual seasonal influenza epidemics, _pandemic influenza_ is defined as “when a new influenza virus emerges and spreads around the world, and most people do not have immunity” ().\nThis chapter does not consider endemic diseases—those that are constantly present in particular localities or regions. Endemic diseases are far more common than pandemics and can have significant negative health and economic impacts, especially in low- and middle-income countries (LMICs) with weak health systems. Additionally, given the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The MIDAS Project | ESA Cosmos",
+                "htmlTitle": "The MIDAS Project | ESA Cosmos",
+                "link": "https://www.cosmos.esa.int/documents/549247/643223/Madiedo_The_MIDAS_project.pdf",
+                "displayLink": "www.cosmos.esa.int",
+                "snippet": "Moon impact flashes detection software. Developed by J.M. Madiedo. MIDAS: Moon Impacts Detection and Analysis Software. Page 15 ...",
+                "htmlSnippet": "<b>Moon impact</b> flashes <b>detection</b> software. Developed by J.M. Madiedo. MIDAS: <b>Moon Impacts Detection</b> and Analysis Software. Page 15&nbsp;...",
+                "formattedUrl": "https://www.cosmos.esa.int/documents/.../Madiedo_The_MIDAS_project.p...",
+                "htmlFormattedUrl": "https://www.cosmos.esa.int/documents/.../Madiedo_The_MIDAS_project.p...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20150603094338+02'00'",
+                            "creationdate": "D:20150603094338+02'00'",
+                            "author": "jmm",
+                            "producer": "PDF Printer / www.bullzip.com / FPG / Freeware Edition",
+                            "title": "Microsoft PowerPoint - ESTEC - MIDAS Project.ppt"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]...First Quarter\n\u0001 Last quarter-New Moon\n\u0001 High sensitivity CCD video cameras\n\u0001 Focal reducers are employed\n\u0001 Earthshine allows identifying\nfeatures on the lunar surface\nProcedureCONTRIBUTION FROM METEOR STATIONS\n\u0001 Analyze the behavior of meteoroids in the atmosphere\n\u0001 Fact: meteoroid streams impacting Earth also impact the Moon\n(both bodies share a common meteoroid environment)\n\u0001 Important to determine the source of meteoroids impacting the Moon\n\u0001 Synergy with lunar impact monitoring\nInput from meteor stationsMETEOR STATIONS OPERATED BY UNIVERSITY OF HUELVA\n\u0001 10 meteor stations\n\u0001 Fully automated systems\n\u0001 50 CCD cameras\n\u0001 Cover about 95% of the\nIberian Peninsula and\nneighboring areas\n\u0001Collaboration with 15 extra\nstations operated by the\nSpanish Meteor Network\nInput from meteor stationsMAIN REASONS TO DEVELOP SOFTWARE\n\u0001 Most impact flashes are dim and last a fraction of a second\n\u0001 A large amount of video streaming is generated\n\u0001 Impact flash confirmation requires simultaneous detection from at least two systems\n\u0001 Flash identification with human eye is not practical\nSoftware developmentMoon impact flashes detection software. Developed by J.M. Madiedo.\nMIDAS: Moon Impacts Detection and Analysis Software\u0001 Developed under C/C++\n\u0001 MS-Windows platforms (XP, Vista, 7, 8)\n\u0001 Easily portable to other platforms (maybe in future)\n\u0001 Requirements for specific or special features:\n\u0001 Intranet connection\n\u0001 Internet connection\n\u0001 Fast real time processing: up to 100 fps with 720x576 pixels\nwith Pentium 4 PC 2.4 GHz (depending on detection algorithm)\nMIDAS: Moon Impacts Detection and Analysis SoftwareMain features\n\u0001 Image capture (analogue and digital cameras)\n\u0001 Image and video processing\n\u0001 Moon Impact flashes identification\n\u0001 Method 1: on the fly\n\u0001 Method 2: on previously recorded video streaming (preferred method)\n\u0001 Very fast data reduction\n\u0001 Moon impact flashes confirmation\n\u0001 Photometry\n\u0001 Calculation of impact parameters\n\u0001 Determination of impactor source\n\u0001 Adapted to indentify impacts on other bodies in the Solar System\nMIDAS: Moon Impacts Detection and Analysis SoftwareImpact flashes detectionImpact flash identificationMask editorScintillation mask for stars and for Moon’s border is\nautomatically calculated by the software\nMask editorImage and video processing kernels\n\u0001 Video files must be processed before the flashes identification\n\u0001 Watec cameras generate interlaced video\n\u0001 Improve the detectability of fainter flashes\n\u0001 Main processing routines\n\u0001 Video deinterlacing\n\u0001 Noise reduction filters\n\u0001 Increase data reduction time\nMIDAS: Moon Impacts Detection and Analysis Software\u0001 When a telescope detects an event, it communicates with other telescopes in the\nsystem via TCP/IP network protocol\n\u0001 The other telescopes may then confirm or not the detected event\n\u0001 If the event is confirmed, it is automatically stored in...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "The use of focus group discussion methodology: Insights from two ...",
+                "htmlTitle": "The <b>use</b> of focus group discussion <b>methodology</b>: Insights from two ...",
+                "link": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12860",
+                "displayLink": "besjournals.onlinelibrary.wiley.com",
+                "snippet": "Jan 11, 2018 ... The next step is to identify a convenient venue for the discussion. Researchers must take into consideration participants' comfort, access to ...",
+                "htmlSnippet": "Jan 11, 2018 <b>...</b> The next step is to <b>identify</b> a convenient venue for the discussion. Researchers must take into consideration participants&#39; comfort, access to&nbsp;...",
+                "formattedUrl": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.../2041-210X.12860",
+                "htmlFormattedUrl": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.../2041-210X.12860",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnbFlqVnSabODl6IaoVsYZSEdj5ZanIAZ0Zve_wsALpaOcurWZUDwRAFM&s",
+                            "width": "195",
+                            "height": "258"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_keywords": "biodiversity",
+                            "og:image": "https://besjournals.onlinelibrary.wiley.com/cms/asset/df4134b1-b360-4670-b4bf-3f035861f689/mee3.2018.9.issue-1.cover.jpg?trick=1721625484318",
+                            "citation_publication_date": "2018/01/01",
+                            "citation_title": "The use of focus group discussion methodology: Insights from two decades of application in conservation",
+                            "citation_author_institution": "Department of Geography University of Cambridge Cambridge UK",
+                            "og:site_name": "besjournals",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Methods in Ecology and Evolution",
+                            "mathjax-version": "3",
+                            "og:description": "Focus group discussion is frequently used as a qualitative approach to gain an in-depth understanding of social issues. The method aims to obtain data from a purposely selected group of individual...",
+                            "twitter:image": "https://besjournals.onlinelibrary.wiley.com/cms/asset/df4134b1-b360-4670-b4bf-3f035861f689/mee3.2018.9.issue-1.cover.jpg?trick=1721625484318",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2018/01/11",
+                            "citation_issn": "2041-210X",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12860",
+                            "publication_doi": "10.1111/2041-210X.12860",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.12860",
+                            "citation_lastpage": "32",
+                            "og:type": "Article",
+                            "og:title": "The use of focus group discussion methodology: Insights from two decades of application in conservation",
+                            "pbcontext": ";page:string:Article/Chapter View;article:article:doi\\:10.1111/2041-210X.12860;ctype:string:Journal Content;requestedJournal:journal:2041210x;website:website:besjournals;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text;issue:issue:doi\\:10.1111/mee3.2018.9.issue-1;journal:journal:2041210x",
+                            "citation_author": "Tobias O.Nyumba",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12860",
+                            "citation_issue": "1",
+                            "citation_firstpage": "20",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1111/2041-210X.12860",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1111/2041-210X.12860",
+                            "citation_volume": "9",
+                            "og:url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12860",
+                            "article_references": "Ochieng NT,  Wilson K,  Derrick CJ,  Mukherjee N. The use of focus group discussion methodology: Insights from two decades of application in conservation. Methods Ecol Evol.  2018; 9: 20–32. https://doi.org/10.1111/2041-210X.12860"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://besjournals.onlinelibrary.wiley.com/cms/asset/df4134b1-b360-4670-b4bf-3f035861f689/mee3.2018.9.issue-1.cover.jpg?trick=1721625484318"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "besjournals.onlinelibrary.wiley.com\n-----------------------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nbesjournals.onlinelibrary.wiley.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 49
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Healthcare Fraud Data Mining Methods: A Look Back and Look ...",
+                "htmlTitle": "Healthcare Fraud Data Mining <b>Methods</b>: A Look Back and Look ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9013219/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Jan 1, 2022 ... The authors propose several research topics to fill these gaps for future researchers in this domain. Keywords: Medicaid, fraud detection, class ...",
+                "htmlSnippet": "Jan 1, 2022 <b>...</b> The authors propose several research topics to fill these gaps for future researchers in this domain. Keywords: Medicaid, fraud <b>detection</b>, class&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9013219/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9013219/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "American Health Information Management Association",
+                            "citation_publication_date": "Winter 2022",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Healthcare Fraud Data Mining Methods: A Look Back and Look Ahead",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "National Health Care Anti-Fraud Association “The Challenge of Health Care Fraud.” 2021 https://www.nhcaa.org/tools-insights/about-health-care-fraud/the-challenge-of-health-care-fraud/",
+                            "citation_journal_title": "Perspectives in Health Information Management",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC9013219/",
+                            "ncbi_phid": "D0BD2F8226992A8500005B2C7602C08F.1.m_2",
+                            "og:description": "Healthcare fraud is an expensive, white-collar crime in the United States, and it is not a victimless crime. Costs associated with fraud are passed on to the population in the form of increased premiums or serious harm to beneficiaries. There is an intense ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC9013219/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "35440932",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Healthcare Fraud Data Mining Methods: A Look Back and Look Ahead",
+                            "citation_author": "Nishamathi Kumaraswamy",
+                            "citation_abstract_html_url": "/pmc/articles/PMC9013219/?report=abstract",
+                            "dc.date": "Winter 2022",
+                            "citation_issue": "1",
+                            "dc.contributor": "Nishamathi Kumaraswamy",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Healthcare Fraud Data Mining Methods: A Look Back and Look Ahead",
+                            "ncbi_domain": "phim",
+                            "citation_volume": "19",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9013219/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   \n*   PMC9013219\nPerspect Health Inf Manag. 2022 Winter; 19(1): 1i.\nPublished online 2022 Jan 1.\n, MS, , PhD, , PhD, , PhD, FAACP, FAPhA, and , PhD\nAbstract\n--------\nHealthcare fraud is an expensive, white-collar crime in the United States, and it is not a victimless crime. Costs associated with fraud are passed on to the population in the form of increased premiums or serious harm to beneficiaries. There is an intense need for digital healthcare fraud detection systems to evolve in combating this societal threat. Due to the complex, heterogenic data systems and varied health models across the US, implementing digital advancements in healthcare is difficult. The end goal of healthcare fraud detection is to provide leads to the investigators that can then be inspected more closely with the possibility of recoupments, recoveries, or referrals to the appropriate authorities or agencies. In this article, healthcare fraud detection systems and methods found in the literature are described and summarized. A tabulated list of peer-reviewed articles in this research domain listing the main objectives, conclusions, and data characteristics is provided. The potential gaps identified in the implementation of such systems to real-world healthcare data will be discussed. The authors propose several research topics to fill these gaps for future researchers in this domain.\n**Keywords:** Medicaid, fraud detection, class imbalance, machine learning, health insurance claims\nHealthcare Fraud Introduction\n-----------------------------\n### Background and Significance\nCaring for health has become more expensive, making both private and public administrators more cost conscious in recent years. Therefore, health decision-makers are actively looking for ways to reduce costs. One such avenue of saving potentially billions of dollars is to avoid and detect healthcare fraud. The National Health Care Anti-Fraud Association conservatively estimates that about 3 percent of our healthcare spending is lost to fraud ($300 billion approximately) yearly. Fraud is a complex and difficult problem. It is important to acknowledge that fraud schemes constantly evolve, and fraudsters adapt their methods accordingly. The earliest account of “fraud” in the healthcare literature is from the 1860s when railway collisions were a frequent occurrence, leading to a controversial condition called “railway spine,” which later became a leading cause of personal injury compensation in rail accidents. These accidental events were made profitable by means of insurance settlements in-court or out-of-court by opportunistic claimants, and these events laid the groundwork for fraud definitions and fraud management in the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

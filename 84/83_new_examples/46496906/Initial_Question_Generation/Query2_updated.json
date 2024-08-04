@@ -1,0 +1,936 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Mike Pence water balloon thrown by girl news",
+                "totalResults": "331000",
+                "searchTerms": "Mike Pence water balloon thrown by girl news",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Mike Pence water balloon thrown by girl news",
+                "totalResults": "331000",
+                "searchTerms": "Mike Pence water balloon thrown by girl news",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.307295,
+        "formattedSearchTime": "0.31",
+        "totalResults": "331000",
+        "formattedTotalResults": "331,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "FACT CHECK: video shows Mike Pence did not get hit by a water ...",
+                "htmlTitle": "FACT CHECK: video shows <b>Mike Pence</b> did not get hit by a <b>water</b> ...",
+                "link": "https://www.indystar.com/story/news/2023/07/14/fact-check-video-shows-mike-pence-did-not-get-hit-by-a-water-balloon/70416094007/",
+                "displayLink": "www.indystar.com",
+                "snippet": "Jul 14, 2023 ... Funny or not, it wasn't Mike Pence who got pelted in the back of the head with a water balloon lobbed by a young girl with a howitzer for an\u00a0...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> Funny or not, it wasn&#39;t <b>Mike Pence</b> who got pelted in the back of the head with a <b>water balloon</b> lobbed by a young <b>girl</b> with a howitzer for an&nbsp;...",
+                "formattedUrl": "https://www.indystar.com/.../news/...mike-pence...water-balloon/70416094...",
+                "htmlFormattedUrl": "https://www.indystar.com/.../<b>news</b>/...<b>mike</b>-<b>pence</b>...<b>water</b>-<b>balloon</b>/70416094...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1PqJIobTcue8vu9770c1OX4CvMsOKhXnMbHVHxzSZuPcz7-okG1Kr3JA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.indystar.com/gcdn/presto/2023/07/14/PIND/b00aad70-8681-4767-acf3-92c20204f374-This_is_not_Mike_Pence.JPG?crop=813,457,x114,y0&width=813&height=457&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=331907339,app-argument=https://app.adjust.com/7flztd2",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "813",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "No, Mike Pence did not get hit by a water balloon thrown by a young girl in Iowa",
+                            "og:site_name": "The Indianapolis Star",
+                            "og:title": "No, Mike Pence did not get hit by a water balloon thrown by a young girl in Iowa",
+                            "og:image:height": "457",
+                            "google": "notranslate",
+                            "og:description": "Funny or not, it wasn't Mike Pence who got pelted in the back of the head with a water balloon lobbed by a young girl with a howitzer for an arm.",
+                            "fb:pages": "9812439851",
+                            "twitter:creator": "@indystar",
+                            "twitter:image": "https://www.indystar.com/gcdn/presto/2023/07/14/PIND/b00aad70-8681-4767-acf3-92c20204f374-This_is_not_Mike_Pence.JPG?crop=813,457,x114,y0&width=813&height=406&format=pjpg&auto=webp",
+                            "fb:app_id": "108716282521686",
+                            "twitter:site": "@indystar",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "Funny or not, it wasn't Mike Pence who got pelted in the back of the head with a water balloon lobbed by a young girl with a howitzer for an arm.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.indystar.com/story/news/2023/07/14/fact-check-video-shows-mike-pence-did-not-get-hit-by-a-water-balloon/70416094007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.indystar.com/gcdn/presto/2023/07/14/PIND/b00aad70-8681-4767-acf3-92c20204f374-This_is_not_Mike_Pence.JPG?crop=813,457,x114,y0&width=813&height=457&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "FACT CHECK: video shows Mike Pence did not get hit by a water balloon\n===============\nNo, Mike Pence did not get hit by a water balloon thrown by a young girl in Iowa\n================================================================================\n!\nPresidential , despite what video on Twitter might otherwise suggest, did not get hit in the back of the head by a water balloon, and definitely not by a young girl sporting a howitzer for an arm.\nOn Friday, the former Vice President sat down for an interview with Tucker Carlson at the  in Des Moines, Iowa. Pence and Carlson  that included voting machines, the Jan. 6 insurrection and military aid to Ukraine \u2014 in which the crowd booed him at one point.\n**Mike Pence after Jan. 6 indictment:**\nIf only that were the end to Pence's troubles.\nA video uploaded to social media later that same afternoon went viral, showing Pence purportedly getting struck by a water balloon as he marched in a parade.\nProblem is, it's not Mike Pence in the video. It was Nassau County Executive Bruce Blakeman who took a well-tossed water balloon to the back of his cranium during a Fourth of July parade in Stewart Manor, NY.\n\"The water balloons and soaker guns  at the Stewart Manor parade,\" Blakeman said on Facebook, adding that he had fun during the annual event. The girl who threw the balloon at him with such ferocity, Blakeman joked, has a possible future career with the New York Yankees or Mets.\nThe young girl's well-timed shot was part of last week's festivities in New York, according to Blakeman's video. Unless Pence was sweating buckets through his interview Friday with Carlson, he remains dry in Iowa.\n**Summer concerts:**\n\u00a9 2024 www.indystar.com. All rights reserved.",
+                    "content_tokens": 366
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Indianapolis Star is a regional newspaper that covers local and state news. While it has a reasonable reputation for journalistic integrity, it can sometimes focus on sensational stories. Its ability to fact-check and contextualize events is decent, but it does not have the extensive resources of larger nationals."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence directly addresses the claim by confirming that the video does not show Mike Pence being hit with a water balloon but instead Bruce Blakeman. The fact check thoroughly explains the context of the incident and provides credible information clarifying the misconception."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Mike Pence not hit with water balloon by kids viewing parade | Reuters",
+                "htmlTitle": "<b>Mike Pence</b> not hit with <b>water balloon</b> by kids viewing parade | Reuters",
+                "link": "https://www.reuters.com/article/fact-check/mike-pence-not-hit-with-water-balloon-by-kids-viewing-parade-idUSL1N3931PQ/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 17, 2023 ... ... girl throwing a water balloon at Blakeman from a distance and hitting the back of his head with the caption: \u201cThe @Mets and @Yankees could\u00a0...",
+                "htmlSnippet": "Jul 17, 2023 <b>...</b> ... <b>girl throwing</b> a <b>water balloon</b> at Blakeman from a distance and hitting the back of his head with the caption: \u201cThe @Mets and @Yankees could&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../mike-pence-not-hit-with-water-balloon-by-kids-...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>mike</b>-<b>pence</b>-not-hit-with-<b>water</b>-<b>balloon</b>-by-kids-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiAt7-6MmC1b3oHgzb0O0MCs0PXY6SC06u7XQ2L9hcWF8xrfSLTT6Wwzj&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/mike-pence-not-hit-with-water-balloon-by-kids-viewing-parade-idUSL1N3931PQ/?id=L1N3931PQ",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-07-17T17:37:43.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Mike Pence not hit with water balloon by kids viewing parade | Reuters",
+                            "og:description": "A video of a white-haired county executive in Long Island, New York, hit with water balloons as part of a local parade tradition is falsely described online as showing former U.S. Vice President Mike Pence.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-07-17T17:37:43.000Z",
+                            "render_timestamp": "2024-07-29T02:53:20.066Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Mike Pence not hit with water balloon by kids viewing parade",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Mike Pence not hit with water balloon by kids viewing parade",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-07-17T17:37:43.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A video of a white-haired county executive in Long Island, New York, hit with water balloons as part of a local parade tradition is falsely described online as showing former U.S. Vice President Mike Pence.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/mike-pence-not-hit-with-water-balloon-by-kids-viewing-parade-idUSL1N3931PQ/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reuters.com\n===============",
+                    "content_tokens": 5
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is an internationally respected news agency known for its factual reporting and journalistic standards. It has a rigorous fact-checking process and generally avoids sensationalism, making it reliable for accurate news coverage."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence is highly relevant as it explicitly states that the person hit by the water balloon is Bruce Blakeman, not Mike Pence. It provides essential details regarding the location and context of the video, clearly debunking the original claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Viral Video Doesn't Show Mike Pence Getting Hit With Water Balloon",
+                "htmlTitle": "Viral Video Doesn&#39;t Show <b>Mike Pence</b> Getting Hit With <b>Water Balloon</b>",
+                "link": "https://www.forbes.com/sites/mattnovak/2023/07/14/viral-video-doesnt-actually-show-mike-pence-getting-hit-with-water-balloon/",
+                "displayLink": "www.forbes.com",
+                "snippet": "Jul 14, 2023 ... Some people have even said the girl in the video should receive the Cy Young Award, given each year to the best pitchers in Major League\u00a0...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> Some people have even said the <b>girl</b> in the video should receive the Cy Young Award, given each year to the best pitchers in Major League&nbsp;...",
+                "formattedUrl": "https://www.forbes.com/.../viral-video-doesnt-actually-show-mike-pence-ge...",
+                "htmlFormattedUrl": "https://www.forbes.com/.../viral-video-doesnt-actually-show-<b>mike</b>-<b>pence</b>-ge...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8o7p-2DLQJxsQnb2LIiQIBuqXx4J3L3LKW8PLHkWk16cOjkkI6vllgfqC&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Forbes",
+                            "article:id": "blogAndPostId/blog/post/51661-64b1d06080af9e00b9ad4f82",
+                            "og:description": "Video supposedly showing former vice president Mike Pence getting hit in the head with a water balloon has gone viral. But that\u2019s not Pence getting hit.",
+                            "twitter:creator": "@paleofuture",
+                            "article:publisher": "https://www.facebook.com/forbes",
+                            "twitter:image": "https://imageio.forbes.com/specials-images/imageserve/64b1d3fb2aa8004a9824807b/0x0.png?format=png&height=600&width=1200&fit=bounds",
+                            "twitter:site": "@forbes",
+                            "news_keywords": "Mike Pence,Bruce Blakeman,Donald Trump,Tucker Carlson,Pence water balloon,Mike Pence viral video,Trump water balloon,Donald Trump balloon,Mike Pence Ukraine,Iowa",
+                            "article:published": "2023-07-14",
+                            "article:channel": "Innovation",
+                            "image": "https://imageio.forbes.com/specials-images/imageserve/64b1d3fb2aa8004a9824807b/0x0.png?format=png&height=900&width=1600&fit=bounds",
+                            "article:section": "Consumer Tech",
+                            "og:type": "article",
+                            "twitter:title": "Viral Video Doesn\u2019t Actually Show Mike Pence Getting Hit With Water Balloon",
+                            "author": "Matt Novak",
+                            "article:section_url": "https://www.forbes.com/consumer-tech/",
+                            "og:title": "Viral Video Doesn\u2019t Actually Show Mike Pence Getting Hit With Water Balloon",
+                            "amp-google-client-id-api": "googleanalytics",
+                            "og:updated_time": "2023-07-18T02:35:51.050-04:00",
+                            "article:author": "Matt Novak",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "123694841080850",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=2,user-scalable=yes,minimal-ui",
+                            "twitter:description": "Video supposedly showing former vice president Mike Pence getting hit in the head with a water balloon has gone viral. But that\u2019s not Pence getting hit.",
+                            "og:url": "https://www.forbes.com/sites/mattnovak/2023/07/14/viral-video-doesnt-actually-show-mike-pence-getting-hit-with-water-balloon/",
+                            "article:modified": "2023-07-18",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imageio.forbes.com/specials-images/imageserve/64b1d3fb2aa8004a9824807b/Viral-video-showing-a-girl-hitting-a-politician-in-the-head-with-a-water-balloon/960x0.png?format=png&width=960"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Screenshots from a viral video showing a girl hitting a politician in the head with a water balloon\nVideo supposedly showing former vice president Mike Pence getting hit in the head with a water balloon has gone viral. Some people have even said the girl in the video should receive the Cy Young Award, given each year to the best pitchers in Major League Baseball. But that\u2019s not Pence getting hit.\nThe video has over 1.2 million views on Twitter alone and has been shared by sports sites like SBNation. But if you take a closer look at the man who gets knocked in the head, it\u2019s not the former vice president.\nWho is the unfortunate soul getting clocked with a water balloon? It\u2019s Nassau County executive Bruce Blakeman who was taking part in a Fourth of July parade in New York where people with thousands of water balloons lined the streets.\nThe water balloons at the parade on Long Island are all in good fun and Blakeman himself even shared the video on Facebook with the caption, \u201cThe New York Yankees and New York Mets could certainly use her!\u201d\nThere are plenty of images and videos with fake content going viral recently, including a Truth Social post where Donald Trump seems to call his Republican presidential opponent a virgin; a video where a man on an American Airlines flight said he saw a Reptilian creature wink at him; and an image where Ron DeSantis appears to give a rather awkward quote in his high school yearbook. But they\u2019re all fake.\nEven a viral story about boating deaths in Alabama spread far and wide this week, claiming...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Forbes is known primarily for business news and financial analysis, but it also covers major political events. It employs established journalists who adhere to professional standards, although some articles may be opinion-based."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence effectively debunks the false claim about Mike Pence by confirming the identity of the person being hit as Bruce Blakeman. It additionally provides context about the event where the incident occurred, making it a strong source of information."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "No, girl didn't hit Mike Pence with water balloon | Fact check",
+                "htmlTitle": "No, <b>girl</b> didn&#39;t hit <b>Mike Pence</b> with <b>water balloon</b> | Fact check",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/07/19/no-girl-didnt-hit-mike-pence-with-water-balloon-fact-check/70424713007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Jul 19, 2023 ... The video shows Nassau County official Bruce Blakeman, not former Vice President Mike Pence. Pence was walking in a parade in a different\u00a0...",
+                "htmlSnippet": "Jul 19, 2023 <b>...</b> The video shows Nassau County official Bruce Blakeman, not former Vice President <b>Mike Pence</b>. Pence was walking in a parade in a different&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/.../news/...girl...mike-pence...water-balloon.../70...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>news</b>/...<b>girl</b>...<b>mike</b>-<b>pence</b>...<b>water</b>-<b>balloon</b>.../70...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pVrZxK3AHNztKliPIrV7XJz0NCIqxKjBewvSHn5_aDE-I4UN7Y6Eq7m2&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/-mm-/41f70f77251e742b1305fecebef1982e5b5e3f5f/c=0-191-2016-1325/local/-/media/2017/05/25/USATODAY/usatsports/636313341838400439-500festivalparadekw-40.jpg?width=2016&height=1134&fit=crop&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "2016",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video shows local official, not Mike Pence, getting hit with water balloon | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video shows local official, not Mike Pence, getting hit with water balloon | Fact check",
+                            "og:image:height": "1134",
+                            "google": "notranslate",
+                            "og:description": "The video shows Nassau County official Bruce Blakeman, not former Vice President Mike Pence. Pence was walking in a parade in a different state.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Hannah Hudnall",
+                            "twitter:image": "https://www.usatoday.com/gcdn/-mm-/41f70f77251e742b1305fecebef1982e5b5e3f5f/c=0-191-2016-1325/local/-/media/2017/05/25/USATODAY/usatsports/636313341838400439-500festivalparadekw-40.jpg?width=1600&height=800&fit=crop&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The video shows Nassau County official Bruce Blakeman, not former Vice President Mike Pence. Pence was walking in a parade in a different state.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/07/19/no-girl-didnt-hit-mike-pence-with-water-balloon-fact-check/70424713007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/-mm-/41f70f77251e742b1305fecebef1982e5b5e3f5f/c=0-191-2016-1325/local/-/media/2017/05/25/USATODAY/usatsports/636313341838400439-500festivalparadekw-40.jpg?width=2016&height=1134&fit=crop&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-07-19T21:01:45Z",
+                            "claimReviewed": "Video shows girl hitting Mike Pence in the",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/07/19/no-girl-didnt-hit-mike-pence-with-water-balloon-fact-check/70424713007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim: Video shows girl hitting Mike Pence in the head with a water balloon\n-------------------------------------------------------------------------------\nA July 14 Instagram video (, ) shows a man with white hair being struck in the head with a water balloon while walking in a parade.\n\"Girl Hits Former Vice President Mike Pence In The Head With A Water Balloon,\" reads the video's on-screen text.\nThe post garnered more than 60,000 likes in four days. A similar Instagram video received more than 70,000 likes in three days before it was deleted. Other versions of the claim have been shared on , ,  and .\n**Follow us on Facebook!**\nOur rating: False\n-----------------\nThe video shows Nassau County, New York, official Bruce Blakeman getting hit by the balloon at a Fourth of July parade, not former Vice President Mike Pence. Pence was walking in a parade in a different state at the time.\nVideo shows different man, not Pence\n------------------------------------\nThe video was originally   on July 12 by Blakeman, the Nassau County executive, who joked in both captions that the New York Yankees and Mets should scout the girl.\nIn a comment under the Facebook post, Blakeman said the video was filmed at the Stewart Manor parade, where water balloons and soaker guns are a long-standing tradition.\n\"Please do not be offended,\" Blakeman said in the comment. \"All those who march including me, do so at their peril and are fair game. I had fun even if I got a little wet!\"\n**Fact check:**\nThousands of people lined the streets, many with coolers full of water balloons, at the Long Island parade, according to  Blakeman linked beneath the Facebook post.\nMeanwhile, the former vice president attended a Fourth of July parade in Urbandale, Iowa,  reported.\nUSA TODAY reached out to the user who shared the post for comment but did not immediately receive a response.\nThe claim has also been debunked by , ,  and .\nOur fact-check sources:\n-----------------------\n*   Bruce Blakeman, July 12, \n*   Bruce Blakeman, July 12, \n*   CBS, July 4, \n*   Des Moines Register, July 5, \n_Thank you for supporting our journalism. You can ._\n_Our fact-check work is supported in part by a grant from Facebook._\n]",
+                    "content_tokens": 484
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "USA Today is a national newspaper that provides broad coverage of news, including politics. While it maintains good journalistic practices, its tendency towards sensational headlines can affect its reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence clearly confirms that the video features Bruce Blakeman being hit by a water balloon rather than Mike Pence. It thoroughly explains the setting and the nature of the event, making it very relevant in determining the truthfulness of the claim."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Codify on X: \"Young Iowan Girl, Mike Pence Water Balloon ...",
+                "htmlTitle": "Codify on X: &quot;Young Iowan <b>Girl</b>, <b>Mike Pence Water Balloon</b> ...",
+                "link": "https://twitter.com/CodifyBaseball/status/1679963428662972418",
+                "displayLink": "twitter.com",
+                "snippet": "Jul 14, 2023 ... ... water balloon fight at n Stewart Manor. He took it in stride as the water balloons are expected there. indystar.com/story/news/202\u2026 Context\u00a0...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> ... <b>water balloon</b> fight at n Stewart Manor. He took it in stride as the <b>water balloons</b> are expected there. indystar.com/story/<b>news</b>/202\u2026 Context&nbsp;...",
+                "formattedUrl": "https://twitter.com/CodifyBaseball/status/1679963428662972418",
+                "htmlFormattedUrl": "https://twitter.com/CodifyBaseball/status/1679963428662972418",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6pGLNiDE_IwNsqOAM0CuWicUBJmmCZL1Y6g2M8llBa1-QfJY3kngf4oe&s",
+                            "width": "185",
+                            "height": "273"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "1269856134556352512",
+                            "givenname": "Codify",
+                            "additionalname": "CodifyBaseball"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "119750",
+                            "interactiontype": "https://schema.org/FollowAction",
+                            "name": "Likes"
+                        },
+                        {
+                            "userinteractioncount": "229",
+                            "interactiontype": "https://schema.org/SubscribeAction",
+                            "name": "Retweets"
+                        },
+                        {
+                            "userinteractioncount": "56281",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Quotes"
+                        },
+                        {
+                            "userinteractioncount": "12328",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/CodifyBaseball/status/1679963428662972418/likes"
+                        },
+                        {
+                            "userinteractioncount": "744",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/CodifyBaseball/status/1679963428662972418/retweets"
+                        },
+                        {
+                            "userinteractioncount": "402",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/CodifyBaseball/status/1679963428662972418/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "413",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/CodifyBaseball/status/1679963428662972418"
+                        },
+                        {
+                            "userinteractioncount": "2266859",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/ext_tw_video_thumb/1679943063513485312/pu/img/mQZtU1oh7IHrwDvM.jpg:large",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "Codify (@CodifyBaseball) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://status?id=1679963428662972418",
+                            "title": "Codify (@CodifyBaseball) on X",
+                            "og:description": "Young Iowan Girl,\nMike Pence Water Balloon Obliteration Mechanics",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://status?id=1679963428662972418",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/CodifyBaseball/status/1679963428662972418",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT0H0M5S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1679963428662972418",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1679943063513485312/pu/vid/720x1062/NRrMe50pt2vtjnwj.mp4?tag=12",
+                            "uploaddate": "2023-07-14T21:17:48.000Z",
+                            "name": "@CodifyBaseball's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1679943063513485312/pu/img/mQZtU1oh7IHrwDvM.jpg"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Post with replies"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/i3eglsNsea"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/ext_tw_video_thumb/1679943063513485312/pu/img/mQZtU1oh7IHrwDvM.jpg:large"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1679963428662972418",
+                            "commentcount": "413",
+                            "articlebody": "Young Iowan Girl, Mike Pence Water Balloon Obliteration Mechanics",
+                            "position": "1",
+                            "datecreated": "2023-07-14T21:17:48.000Z",
+                            "datepublished": "2023-07-14T21:17:48.000Z",
+                            "url": "https://twitter.com/CodifyBaseball/status/1679963428662972418",
+                            "mainentityofpage": "https://twitter.com/CodifyBaseball/status/1679963428662972418"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Welcome to x.com!\nWe are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.\nFor more details, see our Privacy Policy:",
+                    "content_tokens": 37
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Twitter is a social media platform where news can spread rapidly, but it lacks the structure for fact-checking inherent in journalism. Misinformation can easily spread without verification."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence discusses the event but is less informative than others. While it mentions the water balloon fight and the misidentification of the politician, it lacks the depth and clarity found in stronger sources."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Yankees honor fifth-grade girl who drilled Long Island politician with ...",
+                "htmlTitle": "Yankees honor fifth-grade <b>girl</b> who drilled Long Island politician with ...",
+                "link": "https://www.cbssports.com/mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/",
+                "displayLink": "www.cbssports.com",
+                "snippet": "Aug 2, 2023 ... Alexa Cardona, 10, earned props from the Yankees after hitting her target with a 100-foot throw.",
+                "htmlSnippet": "Aug 2, 2023 <b>...</b> Alexa Cardona, 10, earned props from the Yankees after hitting her target with a 100-foot <b>throw</b>.",
+                "formattedUrl": "https://www.cbssports.com/.../news/yankees-honor-fifth-grade-girl-who-dril...",
+                "htmlFormattedUrl": "https://www.cbssports.com/.../<b>news</b>/yankees-honor-fifth-grade-<b>girl</b>-who-dril...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGGNfohFdGuIx1nERRIA4HqJln9DvCjEOtohY_nNXU8KewzI5ZUr4Qb34&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "1200",
+                            "url": "https://sportshub.cbsistatic.com/i/r/2023/08/02/4258a7ba-a951-4090-843c-089220f45619/thumbnail/1200x675/ec6b14295eacd3b6450671344861b0e8/gettyimages-1035618666-1.jpg",
+                            "height": "675"
+                        },
+                        {
+                            "width": "289",
+                            "url": "https://sportsfly.cbsistatic.com/fly-0757/bundles/sportsmediacss/images/core/cbssports-logo-60x289.png",
+                            "height": "60"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Steven Taranto"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": ".article-headline"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "CBS Sports"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://sportsfly.cbsistatic.com/fly-0757/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "CBSSports.com",
+                            "msapplication-tooltip": "CBSSports.com features live scoring and news for NFL football, MLB baseball, NBA basketball, NHL hockey, college basketball and football. CBSSports.com is also your source for fantasy sports news.",
+                            "og:description": "Alexa Cardona, 10, earned props from the Yankees after hitting her target with a 100-foot throw",
+                            "twitter:creator": "@cbssports",
+                            "article:publisher": "https://www.facebook.com/cbssports",
+                            "twitter:image": "https://sportsfly.cbsistatic.com/fly-0757/bundles/sportsmediacss/images/fantasy/default-article-image-large.png",
+                            "twitter:site": "@cbssports",
+                            "fb:admins": "100002967552623",
+                            "article:content_tier": "free",
+                            "twitter:account_id": "14885860",
+                            "msapplication-starturl": "https://www.cbssports.com/",
+                            "og:type": "article",
+                            "twitter:title": "Yankees honor fifth-grade girl who drilled Long Island politician with water balloon throw in viral video - CBSSports.com",
+                            "msapplication-window": "width=1024;height=768",
+                            "handheldfriendly": "True",
+                            "og:title": "Yankees honor fifth-grade girl who drilled Long Island politician with water balloon throw in viral video",
+                            "google": "notranslate",
+                            "fb:pages": "25902406772",
+                            "msapplication-navbutton-color": "#1483b2",
+                            "fb:app_id": "297742330311988",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "Alexa Cardona, 10, earned props from the Yankees after hitting her target with a 100-foot throw",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobileoptimized": "320",
+                            "og:url": "https://www.cbssports.com/mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/",
+                            "google-play-app": "com.handmark.sportcaster",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://sportsfly.cbsistatic.com/fly-0757/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "articlebody": "The New York Yankees invited 10-year-old Alexa Cardona from Franklin Square, N.Y. to batting practice before their game against the Tampa Bay Rays on Tuesday, a month after she went viral for...",
+                            "keywords": "MLB",
+                            "datemodified": "2023-08-02 19:04:35",
+                            "description": "Alexa Cardona, 10, earned props from the Yankees after hitting her target with a 100-foot throw",
+                            "headline": "Yankees honor fifth-grade girl who drilled Long Island politician with water balloon throw in viral video",
+                            "url": "https://www.cbssports.com/mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/",
+                            "datepublished": "2023-08-02 19:01:00",
+                            "mainentityofpage": "https://www.cbssports.com//mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/",
+                            "thumbnailurl": "https://sportshub.cbsistatic.com/i/r/2023/08/02/4258a7ba-a951-4090-843c-089220f45619/thumbnail/1200x675/ec6b14295eacd3b6450671344861b0e8/gettyimages-1035618666-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.cbssports.com/mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.cbssports.com/mlb/news/yankees-honor-fifth-grade-girl-who-drilled-long-island-politician-with-water-balloon-throw-in-viral-video/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "CBS Sports primarily focuses on sports news and events. It can provide coverage of sports-related political events but may not have the same depth of fact-checking as dedicated news platforms."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-08-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence provides context about the girl who threw the balloon, but it does not directly address the question of whether Mike Pence was struck. It mentions the event but does not clarify the confusion about identities, making it less relevant."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Water balloon struck local politician, not Mike Pence | Fact Check",
+                "htmlTitle": "<b>Water balloon</b> struck local politician, not <b>Mike Pence</b> | Fact Check",
+                "link": "https://factcheck.afp.com/doc.afp.com.33P94MK",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Jul 17, 2023 ... Social media users are claiming a viral video shows a girl hurling a water balloon at Mike Pence's head as he marches down a street.",
+                "htmlSnippet": "Jul 17, 2023 <b>...</b> Social media users are claiming a viral video shows a <b>girl</b> hurling a <b>water balloon</b> at <b>Mike Pence&#39;s</b> head as he marches down a street.",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33P94MK",
+                "htmlFormattedUrl": "https://factcheck.afp.com/doc.afp.com.33P94MK",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsd0D_6DNsMnPIstiqldqzyjN7wClAHGQiPklUzcmM4ECoVq5tvWTfNcs&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-07//0ad976e226a0cf72d50d8e956448ad70.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Water balloon struck local politician, not Mike Pence",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33P94MK",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "Social media users are claiming a viral video shows a girl hurling a water balloon at Mike Pence's head as he marches down a street. This is false; the clip shows a local politician -- not the former US vice president -- getting hit during a July 4 parade in the state of New York, which includes a water balloon fight as part of the tradition."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-07//0ad976e226a0cf72d50d8e956448ad70.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-07-17T20:23:00",
+                            "claimReviewed": "A video shows Mike Pence getting beaned with",
+                            "name": "Water balloon struck local politician, not Mike Pence",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33P94MK"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Choisir votre langue\nCopyright \u00a9 AFP 2017-2024. Any commercial use of this content requires a subscription. Click here to find out more.\n\"Give this girl the cy young for hitting mike pence in the melon with a water balloon,\" says a July 14, 2023 tweet sharing the video, referring to the award given to Major League Baseball's best pitchers.\nSimilar posts claiming the clip shows a girl pelting Pence above the shoulders racked up millions of views across Twitter, Facebook, TikTok and other social media platforms. US sports media brands The Sporting News and SB Nation amplified the rumor.\n\"This girl was built for the NFL. She lasers a perfect lead throw on the noggin of former Vice President Mike Pence with a water balloon,\" The Sporting News said in a since-deleted tweet.\n\u00a0\n\u00a0\nBut despite the claims taking off online, the video does not show Pence, who is seeking the presidency in 2024 after serving in the White House as Donald Trump's vice president.\nA Pence spokesperson confirmed to AFP that the former vice president is not the person who was struck by the balloon, pointing to Twitter Community Notes appended to one post to debunk it.\nThe footage actually shows Bruce Blakeman, the county executive of Nassau County, New York. Blakeman, a Republican, posted the video to Twitter and Facebook (archived here and here) on July 12, joking that the New York Yankees and the New York Mets, the state's two professional baseball teams, could both use the girl on their squads.\n\"The water balloons and soaker guns are a long tradition at the Stewart Manor parade,\" Blakeman wrote in a comment under his Facebook post. \"Please do not be offended. All those...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "AFP Fact Check specializes in debunking misinformation with reliable sources and empirical data, making it highly trustworthy, especially in the context of viral media."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence provides a clear statement that refutes the claim by confirming that the individual hit was Bruce Blakeman, alongside providing commentary from Pence\u2019s spokesperson. This strengthens the accuracy regarding the identity of the person involved in the video."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Girl goes Cy Young and obliterates Mike Pence's head with water ...",
+                "htmlTitle": "<b>Girl</b> goes Cy Young and obliterates <b>Mike Pence&#39;s</b> head with <b>water</b> ...",
+                "link": "https://www.sbnation.com/2023/7/14/23795432/mike-pence-water-balloon-throw-girl-kid",
+                "displayLink": "www.sbnation.com",
+                "snippet": "Jul 14, 2023 ... ... water event because dozens of balloons are being thrown onto the street. I just don't think Mike Pence thought he'd be clocked in the dome\u00a0...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> ... <b>water</b> event because dozens of <b>balloons</b> are being <b>thrown</b> onto the street. I just don&#39;t think <b>Mike Pence</b> thought he&#39;d be clocked in the dome&nbsp;...",
+                "formattedUrl": "https://www.sbnation.com/2023/.../mike-pence-water-balloon-throw-girl-ki...",
+                "htmlFormattedUrl": "https://www.sbnation.com/2023/.../<b>mike</b>-<b>pence</b>-<b>water</b>-<b>balloon</b>-throw-<b>girl</b>-ki...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvcTt73LGCByR3BUJLOtS86Mj9RgAJK3AkcxXzc8DQv8RXnVolmcWZ0w&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "e2158eab5a7dc9311e2dd3f866f0432f",
+                            "og:image": "https://cdn.vox-cdn.com/thumbor/87KdIy6Aqnp6OFLbuYFxTZFcvZM=/68x0:2933x1500/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24789254/Collage_Maker_14_Jul_2023_04_29_PM_8154.jpg",
+                            "article:published_time": "2023-07-14T16:30:23-04:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "SBNation.com",
+                            "sailthru.tags": "general,front-page,everything-is-sports",
+                            "twitter:url": "https://www.sbnation.com/2023/7/14/23795432/mike-pence-water-balloon-throw-girl-kid",
+                            "apple-mobile-web-app-title": "SB Nation",
+                            "parsely-author": "James Dator",
+                            "msapplication-tileimage": "https://cdn2.vox-cdn.com/dev/uploads/chorus_asset/file/8108505/sandbox-www-data-ip-10-0-0-66_/sandbox_favicon-144x144.0.png",
+                            "og:description": "WHAT A THROW!",
+                            "article:publisher": "http://www.facebook.com/pages/SB-Nation/39606211535",
+                            "twitter:image": "https://cdn.vox-cdn.com/thumbor/G0-AgS4_lPMLiF7w_Txk6LVBlOI=/0x0:3000x1500/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/24789254/Collage_Maker_14_Jul_2023_04_29_PM_8154.jpg",
+                            "ahrefs-site-verification": "1e57a609922037a3fbdc1c22efd7334113f174f15608f37e1b8538a7b4ce64c3",
+                            "parsely-type": "post",
+                            "twitter:site": "SBNation",
+                            "article:modified_time": "2023-07-14T16:30:23-04:00",
+                            "parsely-link": "https://www.sbnation.com/2023/7/14/23795432/mike-pence-water-balloon-throw-girl-kid",
+                            "sailthru.title": "Girl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon",
+                            "parsely-image-url": "https://cdn.vox-cdn.com/thumbor/eobm_BdYREFPHClMTEIlYlWPY_o=/167x0:2834x1500/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/72453526/Collage_Maker_14_Jul_2023_04_29_PM_8154.0.jpg",
+                            "parsely-section": "everything-is-sports",
+                            "twitter:user_id": "16745015",
+                            "msapplication-tilecolor": "#0033FF",
+                            "sailthru.date": "2023-07-14T16:30:23-04:00",
+                            "og:type": "article",
+                            "twitter:title": "Girl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon",
+                            "msvalidate.01": "D385D0326A3AE144205C298DB34B4E94",
+                            "author": "James Dator",
+                            "og:title": "Girl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon",
+                            "og:image:height": "630",
+                            "sailthru.image.thumb": "https://cdn.vox-cdn.com/thumbor/5SWtD1XMv2xwOKyn03fuC_pX_-k=/750x0:2250x1500/200x200/cdn.vox-cdn.com/uploads/chorus_image/image/72453526/Collage_Maker_14_Jul_2023_04_29_PM_8154.0.jpg",
+                            "parsely-title": "Girl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon",
+                            "style-tools": "https://www.sbnation.com/style/community/247/f6e044cc325bdd2d5dc69afca5858fd7/tools.css",
+                            "parsely-pub-date": "2023-07-14T16:30:23-04:00",
+                            "fb:app_id": "249141081161",
+                            "sailthru.description": "WHAT A THROW!",
+                            "parsely-tags": "sbn,front-page,everything-is-sports",
+                            "outbrainsection": "everything-is-sports",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "WHAT A THROW!",
+                            "og:url": "https://www.sbnation.com/2023/7/14/23795432/mike-pence-water-balloon-throw-girl-kid",
+                            "sailthru.image.full": "https://cdn.vox-cdn.com/thumbor/eobm_BdYREFPHClMTEIlYlWPY_o=/167x0:2834x1500/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/72453526/Collage_Maker_14_Jul_2023_04_29_PM_8154.0.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.vox-cdn.com/thumbor/87KdIy6Aqnp6OFLbuYFxTZFcvZM=/68x0:2933x1500/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24789254/Collage_Maker_14_Jul_2023_04_29_PM_8154.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n\u2715\nFiled under:\n*   \nGirl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon\n=======================================================================\nWHAT A THROW!\nBy  Jul 14, 2023, 4:30pm EDT\nShare this story\n----------------\n*   \n*   \n*   \n*   \n### **Share** All sharing options for: Girl goes Cy Young and obliterates Mike Pence\u2019s head with water balloon\n*   \n*   \n*   \n*   \nChildren are our future.\n> give this girl the cy young for hitting mike pence in the melon with a water balloon \n> \n> \u2014 belt sanderson (@avoidthehanoid) \nThis all seems fair. It appears this march, or parade, or whatever was intended to be a water event because dozens of balloons are being thrown onto the street. I just don\u2019t think Mike Pence thought he\u2019d be clocked in the dome by a fastball like this.\nSeriously, this takes a lot of skill. It\u2019s surprisingly difficult to throw a water balloon with this much force AND accuracy at the same time. Grip too hard and it\u2019ll pop in your hand, too loose and you\u2019re getting no velocity. Also this was far from a gimme throw and she absolutely nailed it.\nThe adults around her seemed clearly in support of it. You can hear a man say \u201cgo,\u201d clearly helping her line up the shot \u2014 before gleefully yelling \u201cYOU GOT HIM IN THE HEAD!\u201d\nWhat an absolute champion. Keep an eye on her, MLB \u2014 because a future\u2019s contract might be around the corner.\n### Most Read\n1.  \n2.  \n#### Loading comments...\nSign up for the newsletter Sign up for the SB Nation Daily Roundup newsletter!\n------------------------------------------------------------------------------\nA daily roundup...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "SBNation is a network of sports blogs focused on commentary and analysis. While it provides unique perspectives, it's not primarily focused on political news and its reliability can vary."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence adds to the narrative by discussing the skill of the girl throwing the water balloon and reinforces that it was not directed at Mike Pence. However, it's somewhat less focused on the verification of the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "No, Mike Pence Was Not Hit in the Head By a Water Balloon Thrown ...",
+                "htmlTitle": "No, <b>Mike Pence</b> Was Not Hit in the Head By a <b>Water Balloon Thrown</b> ...",
+                "link": "https://www.thebiglead.com/posts/mike-pence-water-balloon-head-girl-video-parade-01h5b3w1w2z5",
+                "displayLink": "www.thebiglead.com",
+                "snippet": "Jul 14, 2023 ... That balloon was hurled by a young girl with an absolute cannon. While that would be pretty funny, unfortunately we have to report the story isn\u00a0...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> That <b>balloon</b> was hurled by a young <b>girl</b> with an absolute cannon. While that would be pretty funny, unfortunately we have to report the story isn&nbsp;...",
+                "formattedUrl": "https://www.thebiglead.com/.../mike-pence-water-balloon-head-girl-video-...",
+                "htmlFormattedUrl": "https://www.thebiglead.com/.../<b>mike</b>-<b>pence</b>-<b>water</b>-<b>balloon</b>-head-<b>girl</b>-video-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-61_Rs_i63GuYe1ULdpgDwzuY9JfD-W1volkVbufuH2IU3ZHmBQM9rcI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_437,h_245,x_0,y_41/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/thebiglead_en_international_web/01h5b4bq3n7rmxkwjsw8.png",
+                            "og:image:width": "1440",
+                            "og:type": "article",
+                            "article:published_time": "2023-07-14T21:33:55Z",
+                            "article:section": "Internet",
+                            "twitter:title": "No, Mike Pence Was Not Hit in the Head By a Water Balloon Thrown By a Young Girl",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#020286",
+                            "og:site_name": "The Big Lead",
+                            "twitter:url": "https://www.thebiglead.com/posts/mike-pence-water-balloon-head-girl-video-parade-01h5b3w1w2z5",
+                            "og:title": "No, Mike Pence Was Not Hit in the Head By a Water Balloon Thrown By a Young Girl",
+                            "og:image:height": "810",
+                            "twitter:image:height": "810",
+                            "fb:pages": "154425934607982",
+                            "og:description": "On Friday, video emerged of what people claimed was former vice president Mike Pence being hit in the head by a water balloon during a parade. That balloon was",
+                            "twitter:image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_437,h_245,x_0,y_41/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/thebiglead_en_international_web/01h5b4bq3n7rmxkwjsw8.png",
+                            "article:tag": "NFL",
+                            "twitter:site": "@TheBigLead",
+                            "article:modified_time": "2023-07-14T21:38:37Z",
+                            "twitter:image:width": "1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "On Friday, video emerged of what people claimed was former vice president Mike Pence being hit in the head by a water balloon during a parade. That balloon was",
+                            "og:url": "https://www.thebiglead.com/posts/mike-pence-water-balloon-head-girl-video-parade-01h5b3w1w2z5"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images2.minutemediacdn.com/image/upload/c_crop,w_437,h_245,x_0,y_41/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/thebiglead_en_international_web/01h5b4bq3n7rmxkwjsw8.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "No, Mike Pence Was Not Hit in the Head By a Water Balloon Thrown By a Young Girl\n===============\nSkip to main contentEnable accessibility for low visionOpen the accessibility menu\n!\n!\n!\n(blob:https://www.thebiglead.com/744fff5ea77cfbbc61b1ffa99b5f5b5c)]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nNo, Mike Pence Was Not Hit in the Head By a Water Balloon Thrown By a Young Girl\n================================================================================\n#### By  | Jul 14, 2023\n!\n!!\nOn Friday, a video went viral that purportedly showed former vice president Mike Pence being hit in the head by a water balloon during a parade. That balloon was hurled by a young girl with an absolute cannon. While that would be pretty funny, unfortunately we have to report the story isn't true.\nHere's the video everyone is talking about:\nIt certainly looks like it could be Pence but, it is not. Instead, the target is the man who posted the video, Bruce Blakeman, who is the Nassau County executive. The video comes from the annual Stewart Manor 4th of July parade on Long Island. Longstanding tradition has it that local firemen, officials and families in the village have a big water balloon fight towards the end of the parade. This girl's toss was part of that.\nLet's be real, that girl has an absolute howitzer for an arm.  and  teams need to be flocking to that town to scout her. But, not, she didn't hit the current GOP presidential candidate. Pence was not in Long Island on the 4th, instead .\nFor some reason, that rumor began to spread on Friday:\nWhile it might be a better story if it was true, it isn't. We hate to break up everyone's fun.\nWe did love this analysis from Rob Friedman, though:\nFlawless execution from Pitching Ninja.\n/\nSponsored Content\n(blob:https://www.thebiglead.com/7f74693d7988a4b8a862108f99c17e98)]\nCookie Preferences\n\u00a9 2024  - All Rights Reserved\n  !!!!!!!!!!!!!!!!!!!!!!!!!",
+                    "content_tokens": 462
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The Big Lead is a sports news and commentary site primarily focused on sports. While it may cover some cultural and political events, it lacks a strong reputation for hard news reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence effectively corrects the misconception regarding who was hit, affirming that it was Bruce Blakeman. It offers insight into the context of the event, making it relevant to disproving the claim."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Yankees honor girl who drilled politician with water balloon",
+                "htmlTitle": "Yankees honor <b>girl</b> who drilled politician with <b>water balloon</b>",
+                "link": "https://nypost.com/2023/08/02/yankees-honor-girl-who-drilled-politician-with-water-balloon/",
+                "displayLink": "nypost.com",
+                "snippet": "Aug 2, 2023 ... Alexa Cardona laughs while holding a baseball at Yankee Stadium. 4. Alexa Cardona watched Yankees batting practice Tuesday. Fox News screen grab.",
+                "htmlSnippet": "Aug 2, 2023 <b>...</b> Alexa Cardona laughs while holding a baseball at Yankee Stadium. 4. Alexa Cardona watched Yankees batting practice Tuesday. Fox <b>News</b> screen grab.",
+                "formattedUrl": "https://nypost.com/.../yankees-honor-girl-who-drilled-politician-with-water-...",
+                "htmlFormattedUrl": "https://nypost.com/.../yankees-honor-<b>girl</b>-who-drilled-politician-with-<b>water</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkb4sXywGmHWi94OtOPrrMOuLqcOD4J7-rotZoA9w13tDvxY4XJMtrSOjf&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "apple-itunes-app": "app-id=410094240, app-argument=nypost://nypost.com/2023/08/02/yankees-honor-girl-who-drilled-politician-with-water-balloon/?id=28144843",
+                            "og:image": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-lkxjvria8-1690995124310.jpg?quality=75&strip=all&1690980754&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2023-08-02T16:57:40+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "sailthru.tags": ",nassau county,new york yankees,tampa bay rays,MLB",
+                            "og:site_name": "New York Post",
+                            "bingbot": "noarchive",
+                            "parsely-metadata": "{\"post_id\":\"nypost-28144843\"}",
+                            "og:description": "Brian Cashman didn\u2019t make much noise ahead of the MLB trade deadline \u2014\u00a0but the Yankees general manager might have found a new arm for the bullpen \u2026 in 15 years. Her name is Alexa C\u2026",
+                            "twitter:creator": "@nypostsports",
+                            "twitter:image": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-lkxjvria8-1690995124310.jpg?quality=75&strip=all&1690980754&w=1024",
+                            "og:image:secure_url": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-lkxjvria8-1690995124310.jpg?quality=75&strip=all&1690980754&w=1024",
+                            "article:publisher": "https://www.facebook.com/nypost",
+                            "twitter:text:title": "Yankees impressed by girl who drilled Long Island politician with...",
+                            "twitter:site": "@nypost",
+                            "article:modified_time": "2023-08-02T19:45:14+00:00",
+                            "sailthru.title": "Yankees impressed by girl who drilled Long Island politician with water balloon",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2023-08-02 12:57:40",
+                            "nypost-section": "Sports",
+                            "og:type": "article",
+                            "twitter:title": "Yankees impressed by girl who drilled Long Island politician with...",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "Yankees impressed by girl who drilled Long Island politician with water balloon",
+                            "og:image:height": "682",
+                            "twitter:image:src": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-lkxjvria8-1690995124310.jpg?quality=75&strip=all&1690980754&w=1024",
+                            "sailthru.description": "Brian Cashman didn\u2019t make much noise ahead of the MLB trade deadline \u2014\u00a0but the Yankees general manager might have found a new arm for the bullpen \u2026 in 15 years....",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Brian Cashman didn\u2019t make much noise ahead of the MLB trade deadline \u2014\u00a0but the Yankees general manager might have found a new arm for the bullpen \u2026 in 15 years.\n\n\nHer name is Alexa...",
+                            "og:locale": "en_US",
+                            "og:url": "https://nypost.com/2023/08/02/yankees-honor-girl-who-drilled-politician-with-water-balloon/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-lkxjvria8-1690995124310.jpg?quality=75&strip=all&1690980754&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... game Tuesday against the Tampa Bay Rays.\nWhy, you ask?\n  4]\nIn a viral video, 10-year-old Alexa Cardona is seen hitting Nassau County executive Bruce Blakeman in the back of the head with a water balloon during a Fourth of July parade. Twitter\n> The  and  could certainly use her! \n> \n> \u2014 Bruce Blakeman (@NassauExec) \nThe fifth grader went viral for a video of her drilling Nassau County executive Bruce Blakeman in the back of a head with a water balloon during a Fourth of July parade.\nThe video took off on social media when it was incorrectly suggested that the politician was former vice president Mike Pence.\n is a staple of the annual Stewart Manor parade, with more than 2,000 projectiles prepped for this year\u2019s celebration.\nVideo of the incident went viral, and with good reason, as Cardona plunked Blakeman from 100 feet away.\n  4]\nYankees outfielder Harrison Bader is impressed with the video of Alexa Cardona hitting Bruce Blakeman in the back of the head with a water balloon. Fox News screen grab\n  4]\nAlexa Cardona watched Yankees batting practice Tuesday. Fox News screen grab\nBoth attended batting practice Tuesday and had a chance to meet several Yankees, who \nOutfielder Harrison Bader had been wondering who it was that tossed the balloon: \u201cThat was you? Good throw \u2026. very impressive.\u201d\nCardona told Bader she learned to throw like that by playing softball.\n  4]\nAlexa Cardona and Nassau County executive Bruce Blakeman attended Tuesday\u2019s Yankees-Rays game. Fox News screen grab\nHitting coach Sean Casey had a good laugh over the video: \u201cAre you serious? Is that your arm? That\u2019s actually a good throw. We could use you. Can you sink it? Cut it a little bit?\u201d\nRookie shortstop Anthony Volpe also chuckled after seeing the clip: \u201cThat\u2019s pretty good.\u201d\nWhile Cardona and Blakeman enjoyed the pregame festivities, they didn\u2019t have much to talk about after the game, which  leaving them in last place in the American League East and 3 1/2 games back in the wild card standings.\nFiled under\n*   \n*   \n*   \n*   \n#### Yankees Games\n **Get seats. Earn rewards. Experience it live.**\n*    at \n    Aug 03 2024 | \n*    at \n    Aug 04 202...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The New York Post is known for its tabloid-style journalism with sensational headlines. Its accuracy can be questioned due to a history of less stringent fact-checking and occasional bias."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-08-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence provides further detail about the girl who threw the balloon and her subsequent recognition by the Yankees. However, it only indirectly addresses the claim about Mike Pence and does not directly clarify the misconception present in the video."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Disney gas masks propaganda World War II",
+                "totalResults": "521000",
+                "searchTerms": "Disney gas masks propaganda World War II",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Disney gas masks propaganda World War II",
+                "totalResults": "521000",
+                "searchTerms": "Disney gas masks propaganda World War II",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.313845,
+        "formattedSearchTime": "0.31",
+        "totalResults": "521000",
+        "formattedTotalResults": "521,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Did you know Walt Disney designed the world's weirdest gas mask ...",
+                "htmlTitle": "Did you know Walt <b>Disney</b> designed the <b>world&#39;s</b> weirdest <b>gas mask</b> ...",
+                "link": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Sep 12, 2015 ... When World War II broke out, were Washington school children issued gas masks?",
+                "htmlSnippet": "Sep 12, 2015 <b>...</b> When <b>World War II</b> broke out, were Washington school children issued <b>gas masks</b>?",
+                "formattedUrl": "https://www.washingtonpost.com/...disney...worlds...gas.../885be808-57d8-...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/...<b>disney</b>...<b>world</b>s...<b>gas</b>.../885be808-57d8-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1507x7Qfw-71IWqbcxCBTG7trNwD8JA8JgQ4j_Tp-MlvbJsbMI2XlqSA&s",
+                            "width": "159",
+                            "height": "318"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_modified_time": "2023-04-10T16:12:30.138Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2015-09-12T19:47:00.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html",
+                            "og:description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_published_time": "2015-09-12T19:47:00.000Z",
+                            "next-head-count": "84",
+                            "article_section": "D.C., Md. & Va.",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-04-10T16:12:30.138Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "last_updated_date": "2023-04-10T16:12:30.138Z",
+                            "og:type": "article",
+                            "twitter:title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "article:section": "D.C., Md. & Va.",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**When our nation entered World War II, I was enrolled as a first-grader at John Eaton Elementary School in the District. During the early months of 1942, I seem to recall being issued a gas mask by the school staff. It was \\ but a short period of time, however. Can you help clear this up for me, it being 70-plus years ago?**\n**S. Love,**\n_Reston, Va._\nIn January 1942, **Walt Disney** came to Washington and met with civil defense and chemical warfare officials. Disney wanted to check the progress of a gas mask he'd designed. With large glass eyes, a snout and big, round ears, the mask was shaped like Disney's signature character: Mickey Mouse. It was meant to calm terrified children.\nAbout 1,000 Mickey Mouse respirators were eventually produced, but the civilian gas mask — for children or adults — was not really a notable presence on the home front during World War II.\nThings were different in England. In January 1943, a Washington Post reporter interviewed **Santosh Mahindra**, daughter of the head of the Indian Supply Mission. She had recently arrived in Washington from London, where she had been stranded since the start of the war.\nMiss Mahindra had her own burning question for the reporter: “But don’t you...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "In WW2 Disney made these gas masks for children that were afraid ...",
+                "htmlTitle": "In <b>WW2 Disney</b> made these <b>gas masks</b> for children that were afraid ...",
+                "link": "https://www.reddit.com/r/HistoryMemes/comments/14g6tdj/in_ww2_disney_made_these_gas_masks_for_children/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 22, 2023 ... Can you imagine the absolute horror of fighting with your kid to put on a mask because they don't understand the horrible consequences of the ...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Can you imagine the absolute horror of fighting with your kid to put on a <b>mask</b> because they don&#39;t understand the horrible consequences of the&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../in_ww2_disney_made_these_gas_masks_for_chi...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../in_ww2_<b>disney</b>_made_these_<b>gas</b>_<b>masks</b>_for_chi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoLVTEdQtdoImCx3Yfht1CUmTP8NJ0tH41cRDft6EMlzOswdTjEtGdun1&s",
+                            "width": "203",
+                            "height": "248"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/HistoryMemes on Reddit: In WW2 Disney made these gas masks for children that were afraid of the regular gas masks to wear.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/HistoryMemes on Reddit: In WW2 Disney made these gas masks for children that were afraid of the regular gas masks to wear.",
+                            "og:image:height": "1318",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Kjre23 - 13,318 votes and 200 comments",
+                            "twitter:image": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/HistoryMemes/comments/14g6tdj/in_ww2_disney_made_these_gas_masks_for_children/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Disney's Secret Wartime Past: From Mickey & Donald Duck to ...",
+                "htmlTitle": "<b>Disney&#39;s</b> Secret Wartime Past: From <b>Mickey</b> &amp; Donald Duck to ...",
+                "link": "https://spyscape.com/article/disneys-secret-wartime-past-from-mickey-donald-duck-to-propaganda",
+                "displayLink": "spyscape.com",
+                "snippet": "Disney films also became cunning propaganda tools. The New Spirit (1942) sees Donald Duck explaining why Americans should pay their “taxes to beat the Axis” ...",
+                "htmlSnippet": "<b>Disney</b> films also became cunning <b>propaganda</b> tools. The New Spirit (1942) sees Donald Duck explaining why Americans should pay their “taxes to beat the Axis”&nbsp;...",
+                "formattedUrl": "https://spyscape.com/.../disneys-secret-wartime-past-from-mickey-donald-d...",
+                "htmlFormattedUrl": "https://spyscape.com/.../<b>disney</b>s-secret-<b>war</b>time-past-from-mickey-donald-d...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0D_Y1hJC6Sq0I5or32KIlJ4IP3gLQXcXQuqc4nTmYIqOGwypcnK5W39ce&s",
+                            "width": "253",
+                            "height": "199"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.prod.website-files.com/5c0e9889898796ef30e9d756/6549f73894f799fb189d986c_Mickey%20and%20Rationing%20(1).jpg",
+                            "twitter:title": "Disney's Secret Wartime Past: From Mickey & Donald Duck to Propaganda",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Disney's Secret Wartime Past: From Mickey & Donald Duck to Propaganda",
+                            "og:title": "Disney's Secret Wartime Past: From Mickey & Donald Duck to Propaganda",
+                            "og:description": "Disney's Secret Wartime Past: From Mickey & Donald Duck to Propaganda",
+                            "twitter:image": "https://cdn.prod.website-files.com/5c0e9889898796ef30e9d756/6549f73894f799fb189d986c_Mickey%20and%20Rationing%20(1).jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.prod.website-files.com/5c0e9889898796ef30e9d756/6549f73894f799fb189d986c_Mickey%20and%20Rationing%20(1).jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Even beloved cartoon characters found themselves cast in unexpected roles in the midst of WWIl. Donald Duck, at the pinnacle of his Disney stardom, donned khakis and enlisted in the US Army while Mickey helped sell war bonds and  repurposed excess bacon grease to craft explosives.\nThe war provided a lifeline for Disney after a studio  and financial setbacks following _Fantasia_ and _Bambi_. Half of the Disney lot in Burbank, California, transformed into a military base to accommodate 500-700 soldiers, reportedly acting as an anti-aircraft protection unit for a nearby Lockheed aircraft plant but likely also overseeing production of military-related films.\nDisney had secured a $90,000 Navy contract to produce 20 training films, signaling a significant shift away from its usual entertainment-centric focus. Disney’s output soon surged with some films directed at soldiers, including the  series, while others appealed to a broader audience including .\n‍\n**Donald Duck: American Hero**‍\n-------------------------------\nDisney films also became cunning propaganda tools. _The New Spirit (1942)_ sees Donald Duck explaining why Americans should pay their “taxes to beat the Axis” while Disney’s Oscar-winning political satire _Der Fuehrer's Face_ (1943) imagines Donald as a German munitions factory worker dreaming about a better life in the US.\nAs with many propaganda films at the time, _Der Fuehrer's Face_ reflected the wartime 'us versus them' mentality, featuring a marching band of German military commanders and a racialized caricature of Japanese Prime Minister Tōjō Hideki. In the anti-Japanese propaganda film  _(1944),_ Donald parachutes into the jungle of a Pacific island to wipe out a Japanese airfield.\nThe stereotypes may make uncomfortable viewing decades later, which Disney acknowledged in an exhibition of its wartime propaganda: “Negative stereotypes of people and cultures, as well as other offensive imagery, were used as part of the United States’ propaganda efforts during World War II. We acknowledge its harmful impact and hope to encourage mindful discussion about misrepresentation and negative stereotypes, and use these lessons from the past to create a more inclusive future.”",
+                    "content_tokens": 441
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Walt Disney and World War II: Trouble in Toonland | TIME",
+                "htmlTitle": "Walt <b>Disney</b> and <b>World War II</b>: Trouble in Toonland | TIME",
+                "link": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                "displayLink": "time.com",
+                "snippet": "May 13, 2016 ... Animator Walt Disney, second from left, hands over his sketch of a Mickey Mouse gas mask to Maj. Gen. William Porter, right, in Washington ...",
+                "htmlSnippet": "May 13, 2016 <b>...</b> Animator Walt <b>Disney</b>, <b>second</b> from left, hands over his sketch of a <b>Mickey</b> Mouse <b>gas mask</b> to Maj. Gen. William Porter, right, in Washington&nbsp;...",
+                "formattedUrl": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                "htmlFormattedUrl": "https://time.com/4326360/walt-<b>disney</b>-<b>world</b>-<b>war</b>-<b>ii</b>-excerpt/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByIxyMZzFrQymgaakck9E0ha-YNkTh2kb1w7WpWmfOVxuAy9zWl-mDgyp&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pinterest:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "og:image": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2016-05-13T15:30:24",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "twitter:image": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "twitter:site": "@TIME",
+                            "pinterest:media": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                            "application-name": "nextgen",
+                            "creator": "LIFE Books",
+                            "og:type": "article",
+                            "twitter:title": "How World War II Changed Walt Disney",
+                            "author": "LIFE Books",
+                            "og:title": "How World War II Changed Walt Disney",
+                            "og:image:height": "628",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "primary-tag": "books",
+                            "amphtml": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/?amp=true",
+                            "category": "History",
+                            "og:url": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://time.com/4326360/walt-disney-world-war-ii-excerpt/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The Mickey Mouse Gas Mask— Used in Name and Design During ...",
+                "htmlTitle": "The <b>Mickey</b> Mouse <b>Gas Mask</b>— Used in Name and Design <b>During</b> ...",
+                "link": "https://cartoonresearch.com/index.php/the-mickey-mouse-gas-mask-used-in-name-and-design-during-wwii/",
+                "displayLink": "cartoonresearch.com",
+                "snippet": "Feb 11, 2019 ... On December September 3rd, 1939, Britain declared war, along with France, Australia and New Zealand, on Nazi Germany. Fearing the worst, the ...",
+                "htmlSnippet": "Feb 11, 2019 <b>...</b> On December September 3rd, 1939, Britain declared <b>war</b>, along with France, Australia and New Zealand, on Nazi Germany. Fearing the worst, the&nbsp;...",
+                "formattedUrl": "https://cartoonresearch.com/.../the-mickey-mouse-gas-mask-used-in-name-a...",
+                "htmlFormattedUrl": "https://cartoonresearch.com/.../the-mickey-mouse-<b>gas</b>-mask-used-in-name-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROjrDJmBLfdoWH2bhFG3ttdMaMl4zgQZ1oRzldToCvAwQevkEPwPqt5b6e&s",
+                            "width": "269",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cartoonresearch.com/wp-content/uploads/2019/02/gas-mask1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Mickey Mouse Gas Mask— Used in Name and Design During WWII |\n===============     \n*   \n*   ]\n*   ]\n*   ]\n*   ]\n]\n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n posts in Bossert Behind-the-Scenes\")\nFebruary 11, 2019 posted by \nThe Mickey Mouse Gas Mask— Used in Name and Design During WWII\n==============================================================\n!The Mickey Mouse Gas Mask with a cloth carry pouch made by The Sun Rubber Company with the approval of Walt Disney, 1942\nOn December September 3rd, 1939, Britain declared war, along with France, Australia and New Zealand, on Nazi Germany. Fearing the worst, the British government issued 38 million gas masks to its population in anticipation of a possible gas attack during air raids. As the Nazis marched across Europe they invaded France, Belgium, Luxembourg and the Netherlands with Holland and Belgium surrendering in May 1940. The Nazis bombed Paris as Norway surrendered and France fell to Germany. The potential attacks on Britain were real and looming. In August 1940, Nazi Germany launched a bombing offensive against airfields, factories and other strategic targets in Britain. The first air raids to hit central London began on August 23rd 1940.\n!British Government issued child’s gas mask. The design uses bright colors along with a floppy nose element that served only as a decorative devise to add character to the mask. It looked nothing like Mickey Mouse but was still referred as such to soothe the fear in children. Circa. 1940\nThe issuing of gas masks to every household in the country was a prudent act by the British government. They also designed a gas mask specifically for children which quickly became known as a “Mickey Mouse” gas mask. It looked nothing like Mickey Mouse but as it was explained in a note from the Disney London office: “The name was given to it by \\ Wardens and others who had the job of fitting them on small children, and the name Mickey Mouse was used to alleviate the fears of any these tiny tots who might be frightened at the sight of a gas mask.” The Disney note was relayed by T.S. Smith, the owner and General Manager of The Sun Rubber Company of Ohio, to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Volkswagen: Das Not Just Auto | History Internships",
+                "htmlTitle": "Volkswagen: Das Not Just Auto | History Internships",
+                "link": "https://sites.utm.utoronto.ca/historyinternships/blog/02172019-2135/volkswagen-das-not-just-auto",
+                "displayLink": "sites.utm.utoronto.ca",
+                "snippet": "Feb 17, 2019 ... These masks, known as “Volksgasmaske” or “people's gas mask”, were part of a larger Nazi propaganda operation to make affordable goods for the ...",
+                "htmlSnippet": "Feb 17, 2019 <b>...</b> These masks, known as “Volksgasmaske” or “people&#39;s <b>gas mask</b>”, were part of a larger Nazi <b>propaganda</b> operation to make affordable goods for the&nbsp;...",
+                "formattedUrl": "https://sites.utm.utoronto.ca/.../blog/...2135/volkswagen-das-not-just-auto",
+                "htmlFormattedUrl": "https://sites.utm.utoronto.ca/.../blog/...2135/volkswagen-das-not-just-auto",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXg7rTV178Jm-pUJd2tBkzym7MmkugVsQQqG8s07a4rN_gzRIjQAfKaFA&s",
+                            "width": "288",
+                            "height": "127"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "num_replies": "0",
+                            "title": "Volkswagen: Das Not Just Auto",
+                            "encoded": "As an intern at the Royal Ontario Museum, one of my favourite jobs is researching objects to make information sheets. These information sheets function as “quick learning” guides for coordinato..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://sites.utm.utoronto.ca/historyinternships/sites/sites.utm.utoronto.ca.historyinternships/files/utm-logo-default_0.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "As an intern at the Royal Ontario Museum, one of my favourite jobs is researching objects to make information sheets. These information sheets function as “quick learning” guides for coordinators who are teaching classes to help them understand what an object is, its history, and why it’s important. As with all research, sometimes the most interesting, binge-worthy facts, are found falling down an enticing adjacent rabbit hole of information.\nSo far, the most interesting object I’ve researched is the World War 2 German gas mask. While it looks like a piece that came straight off the battlefield, it is actually an unused civilian gas mask. Despite civilians not having to use gas masks, the threat of nuclear war affected everyone, not only soldiers.!\nA picture I took of the Volk’s 40 gas mask in original packaging. _Property of the ROM Learning Dept._\nThese masks, known as “Volksgasmaske” or “people’s gas mask”, were part of a larger Nazi propaganda operation to make affordable goods for the German people, known as the \"people's products\". Some of these goods included:\n*   Aircrafts (Volksflugzeug)\n*   Radios (Volksempfänger)\n*   Refrigerators (Volkskühlschrank)\nThe symbol of “volks” or “people” was integral to Hitler’s propaganda campaign headed by  .  Hitler wanted to help the German people prosper by bolstering German made products made specifically for the German people. The idea of patriotism and being a “real German” was at the heart of Hitler’s propaganda which is why “volks” products became such an iconic symbol.\n!\nA propaganda poster which translates to “Everyone Acquires the VM \\”.\nHenry Ford along with American consumer society inspired Hitler to create Volkswagen (König, 249). When American imports began to cease in 1937 due to the Allied blockade, German innovations such as the “people’s products” became increasingly popular; however, after the fall of the Nazi regime, many companies and products continued to survive by expanding globally or rebranding.\nVolkswagen, arguably the most popular brand to emerge from Nazi innovations, is only one of many. When Coca-Cola products ceased in Germany, the German head...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Material Drives on the World War II Home Front (U.S. National Park ...",
+                "htmlTitle": "Material Drives on the <b>World War II</b> Home Front (U.S. National Park ...",
+                "link": "https://www.nps.gov/articles/000/material-drives-on-the-world-war-ii-home-front.htm",
+                "displayLink": "www.nps.gov",
+                "snippet": "May 16, 2024 ... ... war, there was a regular supply of cans for salvage.[13]. Rubber. Rubber was critical to the war effort. The military needed it for gas masks ...",
+                "htmlSnippet": "May 16, 2024 <b>...</b> ... <b>war</b>, there was a regular supply of cans for salvage.[13]. Rubber. Rubber was critical to the <b>war</b> effort. The <b>military</b> needed it for <b>gas masks</b>&nbsp;...",
+                "formattedUrl": "https://www.nps.gov/.../material-drives-on-the-world-war-ii-home-front.ht...",
+                "htmlFormattedUrl": "https://www.nps.gov/.../material-drives-on-the-<b>world</b>-<b>war</b>-<b>ii</b>-home-front.ht...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvARyBiTPSVm9cdJaIrxtpaoAUGp88ZD4D3KYGVV86YPNqG-81WNgmFcnW&s",
+                            "width": "266",
+                            "height": "190"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1549226484, app-argument=https://apps.apple.com/us/app/national-park-service/id1549226484",
+                            "og:image": "https://www.nps.gov/articles/000/images/Material-Image-5-Evansville.jpg",
+                            "og:type": "website",
+                            "og:image:width": "1287",
+                            "og:image:alt": "Black and white photo of a huge pile of scrap metal behind buildings in Evansville. The people in the photo look very small, indicating the size.",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Material Drives on the World War II Home Front (U.S. National Park Service)",
+                            "og:image:height": "920",
+                            "og:url": "https://www.nps.gov/articles/000/material-drives-on-the-world-war-ii-home-front.htm"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nps.gov/articles/000/images/Material-Image-5-Evansville.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... but also because the cans themselves were.\\\nScrap steel is a key component in turning iron ore into steel.\\ Before Pearl Harbor, the US had sold tons of it to Japan. To offset the resulting shortage, the government collected scrap from industry, agriculture, and civilian homes. In 1942, a peak of 24 million tons of metal was salvaged. Only slightly less was salvaged in each of the rest of the war years.\\\n ]\n“School children get in the scrap. The children are going into the field as a junior army engaged in a major campaign for victory. This picture shows scrap being dug out of an attic by the ‘junior commandos’.” Photo by Howard Liberman, Office of War Information, October 1942.Collection of the Library of Congress\nFamilies donated pots and pans, metal toys, broken tools and equipment. Some (including actress Rita Hayworth) removed metal fenders from their cars. Towns and cities (including ) sent historic cannons and monuments for salvage. Others salvaged metal fountains and wrought iron fences from cemeteries. In Rapides Parish, Louisiana the local sawmill added their scrap metal to the local school’s metal drive.\\ Storekeepers collected empty tin toothpaste and shaving cream tubes from customers before selling them a new one.\\\nAcross the country youth groups including the Girl Scouts of the USA organized regularly occurring can drives. They would collect the clean, crushed cans put out by householders and sell them for scrap as a fundraiser.\\ Even though processed foods were on the ration list, 90% of consumers still bought them. This meant that throughout the war, there was a regular supply of cans for salvage.\\\nRubber\n------\nRubber was critical to the war effort. The military needed it for gas masks, boots, tires, seals, pontoon bridges, and life rafts -- among other things. When Japan conquered Malaya and the Dutch East Indies early in 1942, they cut the US off from its primary source of natural rubber.\\ Rubber was so important that the head of the Army and Navy Munitions Board said that unless they had a good replacement, the US would have no option but to \"call the entire thing \\ off.\"\\\n ]\n“America Needs Your Scrap Rubber.” Poster, Bureau of Industrial Conservation, War Production Board, 1942.Collection of the National Archives and Records Administration (NAID: 513799).\nUS companies knew how to make synthetic rubber, but there wasn't enough manufacturing capacity. And so, the government put conservation efforts in place. Most civilian rubber use was as car . As well...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Popular Culture and World War II Propaganda",
+                "htmlTitle": "Popular Culture and <b>World War II Propaganda</b>",
+                "link": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1850&context=masters",
+                "displayLink": "digitalcommons.liberty.edu",
+                "snippet": "Walt Disney and Warner Brothers cartoons are the perfect example of the private sector and the government mandated media coming together. For the first time in ...",
+                "htmlSnippet": "Walt <b>Disney</b> and Warner Brothers cartoons are the perfect example of the private sector and the government mandated media coming together. For the first time in&nbsp;...",
+                "formattedUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1850...",
+                "htmlFormattedUrl": "https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1850...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20220411114814-04'00'",
+                            "creator": "Microsoft® Word for Microsoft 365",
+                            "creationdate": "D:20220411114814-04'00'",
+                            "author": "Baillie Bryan",
+                            "producer": "Microsoft® Word for Microsoft 365"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Service with Character: The Disney Studios and World War II: Lesjak ...",
+                "htmlTitle": "Service with Character: The <b>Disney</b> Studios and <b>World War II</b>: Lesjak ...",
+                "link": "https://www.amazon.com/Service-Character-Disney-Studios-World/dp/1941500056",
+                "displayLink": "www.amazon.com",
+                "snippet": "Fearing an attack, the Army took up strategic positions-and one of them was the Disney Studio. David Lesjak tells why even Walt needed identification to enter ...",
+                "htmlSnippet": "Fearing an attack, the Army took up strategic positions-and one of them was the <b>Disney</b> Studio. David Lesjak tells why even Walt needed identification to enter&nbsp;...",
+                "formattedUrl": "https://www.amazon.com/Service-Character-Disney...World/.../194150005...",
+                "htmlFormattedUrl": "https://www.amazon.com/Service-Character-<b>Disney</b>...<b>World</b>/.../194150005...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuI3CitdTDIt6Z6K6siom-WY64uMhEtRKNt-IYgNZlxmSJG9MdZg0Fec&s",
+                            "width": "184",
+                            "height": "275"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://m.media-amazon.com/images/I/51fqOz5qWOL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA61%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                            "theme-color": "#131921",
+                            "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+                            "og:title": "Service with Character: The Disney Studios and World War II",
+                            "og:url": "https://www.amazon.com/dp/1941500056/ref=tsm_1_fb_lk",
+                            "title": "Service with Character: The Disney Studios and World War II: Lesjak, David, McLain, Bob: 9781941500057: Amazon.com: Books",
+                            "og:description": "Service with Character: The Disney Studios and World War II [Lesjak, David, McLain, Bob] on Amazon.com. *FREE* shipping on qualifying offers. Service with Character: The Disney Studios and World War II",
+                            "encrypted-slate-token": "AnYxsD5qMDjojVkJqerjXdTIZBPRkplNAsJFyultGIDLY8ukulVctnXOovbgzMbtpT/lm4BM0fUfQIjkIkJVOD4P5n2jiKLa3UEWHzl40kta+rWUkk04gKCr57ROJhZw8SML3Vfx6HAJx5VkCAgyWnnSm2KaJb7NhAM0InW2H0d4tooyQHfsjSLXlRfG4NKaQ8qIYLX4VxrY278zmXVc7fYL+zXsPVzBssWxicL5PMi1KOFcNFNkgaffx11MrFxlLompnVi7J5BYAwEBf8/Dvp2M"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://m.media-amazon.com/images/I/7104cuhYzDL._AC_UF1000,1000_QL80_.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!     !        Skip to main content \nDelivering to Mountain ... 94043 Update location\nBooks\nSelect the department you want to search in All Departments Alexa Skills Amazon Devices Amazon Fresh Amazon One Medical Amazon Pharmacy Amazon Resale Appliances Apps & Games Arts, Crafts & Sewing Audible Books & Originals Automotive Parts & Accessories Baby Beauty & Personal Care Books CDs & Vinyl Cell Phones & Accessories Clothing, Shoes & Jewelry    Women    Men    Girls    Boys    Baby Collectibles & Fine Art Computers Credit and Payment Cards Digital Music Electronics Garden & Outdoor Gift Cards Grocery & Gourmet Food Handmade Health, Household & Baby Care Home & Business Services Home & Kitchen Industrial & Scientific Just for Prime Kindle Store Lucky Luggage & Travel Gear Luxury Stores Magazine Subscriptions Movies & TV Musical Instruments Office Products Pet Food Express Pet Supplies Premium Beauty Prime Video Smart Home Software Sousa's Wine & Liquors Sports & Outdoors Subscribe & Save Subscription Boxes Tools & Home Improvement Toys & Games Under $10 Video Games Whole Foods Market\nSearch Amazon \n (javascript:void\\(0\\))  \n                                            Service with Character: The Disney Studios and World War II: Lesjak, David, McLain, Bob: 9781941500057: Amazon.com: Books\n===============\n]\n*   \n*   ›\n*   \n*   ›\n*   ",
+                    "content_tokens": 275
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Miki i Donald na froncie (wewnętrznym) Disney Studios podczas II ...",
+                "htmlTitle": "Miki i Donald na froncie (wewnętrznym) <b>Disney</b> Studios podczas <b>II</b> ...",
+                "link": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/view/338",
+                "displayLink": "czasopisma.bg.ug.edu.pl",
+                "snippet": "The main goal of the article is to describe Walt Disney Studios' propaganda activity during World War II. The author puts Disney's production in a wider context ...",
+                "htmlSnippet": "The main goal of the article is to describe Walt <b>Disney</b> Studios&#39; <b>propaganda</b> activity during <b>World War II</b>. The author puts <b>Disney&#39;s</b> production in a wider context&nbsp;...",
+                "formattedUrl": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/view/338",
+                "htmlFormattedUrl": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/view/338",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.source.uri": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum",
+                            "dc.creator.personalname": "Łukasz Biskupski",
+                            "citation_title": "Miki i Donald na froncie (wewnętrznym) Disney Studios podczas II wojny światowej",
+                            "citation_journal_title": "Panoptikum",
+                            "dc.format": "application/pdf",
+                            "dc.rights": "Prawa autorskie (c) 2018",
+                            "citation_date": "2008/06/30",
+                            "dc.type.articletype": "Artykuł",
+                            "dc.identifier.uri": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/view/338",
+                            "citation_issn": "1730-7775",
+                            "dc.identifier.pagenumber": "176-190",
+                            "dc.source": "Panoptikum",
+                            "dc.type": "Text.Serial.Journal",
+                            "dc.title.alternative": "Mickey and Donald in front of the (internal) Disney Studios during World War II",
+                            "citation_language": "pl",
+                            "citation_pdf_url": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/download/338/3810",
+                            "citation_lastpage": "190",
+                            "dc.description": "The main goal of the article is to describe Walt Disney Studios’ propaganda activity during World War II. The author puts Disney’s production in a wider context of “home front” activity and functioning of the film industry under the coordination of the Office of War Information and within it, the Bureau of Motion Pictures Affairs. He also outlines the usage of propaganda (and film itself for propaganda purposes) both in the USA and Germany before WW II. The main part of the article concentrates on Disney Studios. It analyzes the impact of the war outbreak (as well as of other factors) on financial condition of the company and Disney’s cooperation with Canadian Government and political involvement in South American affairs. A detailed overview and description of several subgenres of cartoons that were produced for the needs of the government and US Army are also given. These were, for example, training films (popularly called “nuts ‘n’ bolt” films”), pure entertainment films as well as “m",
+                            "citation_journal_abbrev": "pan",
+                            "citation_author": "Łukasz Biskupski",
+                            "dc.date.created": "2008-06-30",
+                            "citation_abstract_html_url": "https://czasopisma.bg.ug.edu.pl/index.php/panoptikum/article/view/338",
+                            "dc.date.datesubmitted": "2018-02-23",
+                            "citation_issue": "7",
+                            "dc.date.issued": "2008-06-30",
+                            "citation_firstpage": "176",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "dc.title": "Miki i Donald na froncie (wewnętrznym) Disney Studios podczas II wojny światowej",
+                            "dc.date.modified": "2020-05-12",
+                            "dc.source.issue": "7",
+                            "dc.identifier": "338",
+                            "dc.language": "pl",
+                            "dc.source.issn": "1730-7775",
+                            "gs_meta_revision": "1.1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Miki i Donald na froncie (wewnętrznym) Disney Studios podczas II wojny światowej | Panoptikum\n=============== \nOpen Menu\n]\n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \nUniwersyteckie Czasopisma Naukowe]\n1.   /\n2.   /\n3.   /\n4.  Artykuł\nMiki i Donald na froncie (wewnętrznym) Disney Studios podczas II wojny światowej\n================================================================================\nAutor\n-----\n*   Łukasz Biskupski\nAbstrakt\n--------\nThe main goal of the article is to describe Walt Disney Studios’ propaganda activity during World War II. The author puts Disney’s production in a wider context of “home front” activity and functioning of the film industry under the coordination of the Office of War Information and within it, the Bureau of Motion Pictures Affairs. He also outlines the usage of propaganda (and film itself for propaganda purposes) both in the USA and Germany before WW II. The main part of the article concentrates on Disney Studios. It analyzes the impact of the war outbreak (as well as of other factors) on financial condition of the company and Disney’s cooperation with Canadian Government and political involvement in South American affairs. A detailed overview and description of several subgenres of cartoons that were produced for the needs of the government and US Army are also given. These were, for example, training films (popularly called “nuts ‘n’ bolt” films”), pure entertainment films as well as “motivation” films which were intended to encourage citizens to buy war bonds, pay taxes or save wastes. Apart from films itself the Burbank studio produced a whole range of other propaganda materials: from war insignia to Mickey Mouse gas masks. The article also contains some reflections on Walt Disney’s political attitude and preferences. Taking into consideration some of his pre-war films and their political meaning as well as producer’s contacts with Nazi Germany the author suggests that in the late 30’s and early 40’s Disney manifested a kind of a fascist inclination.\n### Downloads\nDownload data is not yet available.\n]\nPobrania\n--------\n*...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

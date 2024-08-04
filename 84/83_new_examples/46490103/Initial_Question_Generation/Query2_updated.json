@@ -1,0 +1,685 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Biden state secrets statement news reactions",
+                "totalResults": "189000",
+                "searchTerms": "Biden state secrets statement news reactions",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Biden state secrets statement news reactions",
+                "totalResults": "189000",
+                "searchTerms": "Biden state secrets statement news reactions",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.262799,
+        "formattedSearchTime": "0.26",
+        "totalResults": "189000",
+        "formattedTotalResults": "189,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+                "htmlTitle": "Remarks by President <b>Biden</b> and Prime Minister Modi of the ...",
+                "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+                "displayLink": "www.whitehouse.gov",
+                "snippet": "Jun 23, 2023 ... We \u2014 I was just thanking the \u2014 anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we\u00a0...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> We \u2014 I was just thanking the \u2014 anyway, I started off without you, and I sold a lot of <b>state secrets</b> and a lot of very important things that we&nbsp;...",
+                "formattedUrl": "https://www.whitehouse.gov/.../remarks-by-president-biden-and-prime-min...",
+                "htmlFormattedUrl": "https://www.whitehouse.gov/.../remarks-by-president-<b>biden</b>-and-prime-min...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uyPhjBII2dknIczGPDIGAZ-0GLB6yu539Y5-xQsiZQcmFJL9DA0C3tRE&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "The White House",
+                            "og:image": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+                            "og:type": "article",
+                            "article:published_time": "2023-06-23T21:30:02+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The White House",
+                            "author": "The White House",
+                            "og:title": "Remarks by President Biden and Prime Minister Modi of the Republic of India in Meeting with Senior Officials and CEOs of Technology Companies | The White House",
+                            "apple-mobile-web-app-title": "The White House",
+                            "og:image:height": "630",
+                            "google": "notranslate",
+                            "og:image:type": "image/png",
+                            "og:description": "East Room 12:14 P.M. EDT\u00a0\u00a0\u00a0\u00a0PRESIDENT BIDEN:\u00a0 Okay.\u00a0 We -- I was just thanking the -- anyway, I started off without you, and",
+                            "twitter:creator": "@whitehouse",
+                            "article:publisher": "https://www.facebook.com/WhiteHouse/",
+                            "twitter:site": "@whitehouse",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:\u00a0 Okay.\u00a0 We \u2014 I was just thanking the \u2014 anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.\u00a0 (Laughter.)\nNow, all kidding aside \u2014 look, we\u2019re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.\u00a0 And together, we\u2019re lifting the private and public partners to make this possible, including launching a new program between India and America \u2014 American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- \u2014 taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We\u2019ve got to keep it up, and we have to make sure we aim even higher.\nWe\u2019re \u2014 we\u2019re going to see more technol- \u2014 technological change \u2014 you\u2019ve heard me say this a number of times \u2014 in the next 10 years than we saw in the last 50 years \u2014 and maybe in the next few years \u2014 the last 50 years.\u00a0 And we need your help \u2014 and I\u2019m talking to the CEOs around this table, Indian and American.\u00a0 We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The official website of the White House provides information directly from the U.S. government, including press releases and statements from President Biden and other officials. It is a primary source of information regarding government policies and statements, making it highly credible. However, the inherent nature of government communication can sometimes lead to presentations that align closely with political objectives, hence not a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence contains direct quotes from President Biden's remarks during a meeting in June 2023, where he explicitly states, 'I sold a lot of state secrets and a lot of very important things that we shared.' This directly addresses the claim and confirms that Biden did indeed make this statement. Therefore, it is highly relevant to assessing the truth of the original claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Court acquits former Pakistani PM Khan of leaking state secrets",
+                "htmlTitle": "Court acquits former Pakistani PM Khan of leaking <b>state secrets</b>",
+                "link": "https://www.voanews.com/a/court-acquits-former-pakistani-pm-khan-of-leaking-state-secrets/7641003.html",
+                "displayLink": "www.voanews.com",
+                "snippet": "Jun 3, 2024 ... In a short verbal statement witnessed by a VOA reporter Monday, two ... Biden administration was unhappy with Khan's overtures to Russia.",
+                "htmlSnippet": "Jun 3, 2024 <b>...</b> In a short verbal <b>statement</b> witnessed by a VOA reporter Monday, two ... <b>Biden</b> administration was unhappy with Khan&#39;s overtures to Russia.",
+                "formattedUrl": "https://www.voanews.com/a/court-acquits...state-secrets/7641003.html",
+                "htmlFormattedUrl": "https://www.voa<b>news</b>.com/a/court-acquits...<b>state</b>-<b>secrets</b>/7641003.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROf_O1Y8kp0RyiiIe-HNg1Jrh9ddZCoa4hinQuB5AvvZGKIByMHSdTm4Ib&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "apple-itunes-app": "app-id=632618796, app-argument=//7641003.ltr",
+                            "og:image": "https://gdb.voanews.com/daf69b48-885b-422c-a61f-5a322b1865ef.jpg",
+                            "og:type": "article",
+                            "og:image:width": "308",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Voice of America",
+                            "msvalidate.01": "3286EE554B6F672A6F2E608C02343C0E",
+                            "author": "Sarah Zaman",
+                            "apple-mobile-web-app-title": "VOA",
+                            "og:title": "Court acquits former Pakistani PM Khan of leaking state secrets",
+                            "msapplication-tileimage": "/Content/responsive/VOA/img/webApp/ico-144x144.png",
+                            "fb:pages": "36235438073",
+                            "og:description": "Despite the high court\u2019s ruling, the incarcerated leader will remain behind bars, serving a sentence in another case",
+                            "article:publisher": "https://www.facebook.com/voiceofamerica",
+                            "twitter:image": "https://gdb.voanews.com/daf69b48-885b-422c-a61f-5a322b1865ef.jpg",
+                            "fb:app_id": "362002700549372",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@voanews",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Despite the high court\u2019s ruling, the incarcerated leader will remain behind bars, serving a sentence in another case",
+                            "og:url": "https://www.voanews.com/a/court-acquits-former-pakistani-pm-khan-of-leaking-state-secrets/7641003.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gdb.voanews.com/daf69b48-885b-422c-a61f-5a322b1865ef.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Islamabad High Court has overturned the conviction of former Pakistani Prime Minister Imran Khan and his foreign minister, Shah Mahmood Qureshi, in a case pertaining to mishandling state secrets.\nIn a short verbal statement witnessed by a VOA reporter Monday, two members of the high court announced the acquittals of Khan and Qureshi as it accepted their appeals against the convictions.\nThe decision in what is known as the \u201ccipher case\u201d comes after a special, lower court in January sentenced Khan and Qureshi to 10 years each in prison for making public the contents of a secret diplomatic cable sent by Pakistan\u2019s then-ambassador to the United States.\nThe two men had argued the \u201csham case\u201d was politically motivated and that the trial was conducted in an unfair manner.\nDespite the high court\u2019s order, Khan and Qureshi are not expected to walk free. Khan, imprisoned since last August, is serving time for a conviction for an illicit marriage.\n!\nFILE - Shah Mahmood Qureshi, center, a top leader of Pakistan's former prime pinister Imran Khan's Pakistan Tehreek-e-Insaf party, leaves with his lawyers after appearing in a court in his case, in Lahore, Pakistan, Aug. 8, 2023.\nQureshi remains under arrest, facing a list of charges regarding violence that erupted in May of last year after Khan\u2019s supporters stormed military and government installations to protest the former prime minister\u2019s arrest.\nKhan\u2019s Pakistan Tehreek-e-Insaf, or PTI, hailed Monday's verdict. Cong...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Voice of America (VOA) is a U.S. government-funded news agency that aims to provide unbiased information. Its international coverage and commitment to providing factual news make it relatively high in terms of credibility. However, as a government-funded entity, there may be occasional perceptions of bias, particularly regarding U.S. foreign policy topics."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses a court case in Pakistan related to leaking state secrets. It does not pertain to President Biden\u2019s statements or actions, thus providing no relevant information regarding the claim in question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Remarks of President Joe Biden \u2013 State of the Union Address as ...",
+                "htmlTitle": "Remarks of President Joe <b>Biden</b> \u2013 <b>State</b> of the Union Address as ...",
+                "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/",
+                "displayLink": "www.whitehouse.gov",
+                "snippet": "Feb 7, 2023 ... The United States Capitol Mr. Speaker. Madam Vice President. Our First Lady and Second Gentleman. Members of Congress and the Cabinet.",
+                "htmlSnippet": "Feb 7, 2023 <b>...</b> The United States Capitol Mr. Speaker. Madam Vice President. Our First Lady and Second Gentleman. Members of Congress and the Cabinet.",
+                "formattedUrl": "https://www.whitehouse.gov/.../remarks-of-president-joe-biden-state-of-the-...",
+                "htmlFormattedUrl": "https://www.whitehouse.gov/.../remarks-of-president-joe-<b>biden</b>-<b>state</b>-of-the-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uyPhjBII2dknIczGPDIGAZ-0GLB6yu539Y5-xQsiZQcmFJL9DA0C3tRE&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "The White House",
+                            "og:image": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+                            "og:type": "article",
+                            "article:published_time": "2023-02-08T02:01:03+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The White House",
+                            "author": "The White House",
+                            "og:title": "Remarks of President Joe Biden \u2013 State of the Union Address as Prepared for Delivery | The White House",
+                            "apple-mobile-web-app-title": "The White House",
+                            "og:image:height": "630",
+                            "google": "notranslate",
+                            "og:image:type": "image/png",
+                            "og:description": "The United States Capitol Mr. Speaker. Madam Vice President. Our First Lady and Second Gentleman. Members of Congress and the Cabinet. Leaders of our",
+                            "twitter:creator": "@whitehouse",
+                            "article:publisher": "https://www.facebook.com/WhiteHouse/",
+                            "twitter:site": "@whitehouse",
+                            "article:modified_time": "2023-02-08T02:17:05+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/02/07/remarks-of-president-joe-biden-state-of-the-union-address-as-prepared-for-delivery/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The United States Capitol\nMr. Speaker. Madam Vice President. Our First Lady and Second Gentleman.\nMembers of Congress and the Cabinet. Leaders of our military.\nMr. Chief Justice, Associate Justices, and retired Justices of the Supreme Court.\nAnd you, my fellow Americans.\nI start tonight by congratulating the members of the 118th Congress and the new Speaker of the House, Kevin McCarthy.\nMr. Speaker, I look forward to working together.\nI also want to congratulate the new leader of the House Democrats and the first Black House Minority Leader in history, Hakeem Jeffries.\nCongratulations to the longest serving Senate Leader in history, Mitch McConnell.\nAnd congratulations to Chuck Schumer for another term as Senate Majority Leader, this time with an even bigger majority.\nAnd I want to give special recognition to someone who I think will be considered the greatest Speaker in the history of this country, Nancy Pelosi.\nThe story of America is a story of progress and resilience. Of always moving forward. Of never giving up.\nA story that is unique among all nations.\nWe are the only country that has emerged from every crisis stronger than when we entered it.\nThat is what we are doing again.\nTwo years ago, our economy was reeling.\nAs I stand here tonight, we have created a record 12 million new jobs, more jobs created in two years than any...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The official website of the White House provides information directly from the U.S. government, including press releases and statements from President Biden and other officials. It is a primary source of information regarding government policies and statements, making it highly credible. However, the inherent nature of government communication can sometimes lead to presentations that align closely with political objectives, hence not a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-02-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is a transcript of Biden's State of the Union Address from February 2023. It does not relate to the claim about selling state secrets in June 2023 and therefore does not contribute to the assessment of the truthfulness of the claim."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Soil Health | Natural Resources Conservation Service",
+                "htmlTitle": "Soil Health | Natural Resources Conservation Service",
+                "link": "https://www.nrcs.usda.gov/conservation-basics/natural-resource-concerns/soils/soil-health",
+                "displayLink": "www.nrcs.usda.gov",
+                "snippet": "Enter your state and county below to \ufb01nd your local service center and agency offices. If this locator does not work in your browser, please visit offices.usda\u00a0...",
+                "htmlSnippet": "Enter your <b>state</b> and county below to \ufb01nd your local service center and agency offices. If this locator does not work in your browser, please visit offices.usda&nbsp;...",
+                "formattedUrl": "https://www.nrcs.usda.gov/conservation-basics/natural.../soils/soil-health",
+                "htmlFormattedUrl": "https://www.nrcs.usda.gov/conservation-basics/natural.../soils/soil-health",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq8V-uoKlq171139zAeddg_ann840kOY6fYcjpnRYvSRHFpZaW_2fXjw&s",
+                            "width": "75",
+                            "height": "51"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nrcs.usda.gov/themes/custom/nrcs_theme/logo.png",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "| Natural Resources Conservation Service",
+                            "og:site_name": "Natural Resources Conservation Service",
+                            "og:image:url": "https://www.nrcs.usda.gov/themes/custom/nrcs_theme/logo.png",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "| Natural Resources Conservation Service",
+                            "mobileoptimized": "width",
+                            "twitter:image": "https://www.nrcs.usda.gov, /themes/custom/nrcs_theme/logo.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nrcs.usda.gov/themes/custom/nrcs_theme/logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... want to make improvements to the land that you own or lease?**\nNatural Resources Conservation Service offers technical and financial assistance to help farmers, ranchers and forest landowners.\n!\n### Step 1: Make a Plan\n**To get started with NRCS, we recommend you stop by your local NRCS field office. We\u2019ll discuss your vision for your land.**\nNRCS provides landowners with free technical assistance, or advice, for their land. Common technical assistance includes: resource assessment, practice design and resource monitoring. Your conservation planner will help you determine if financial assistance is right for you.\n### Step 2: Start an Application\n**We\u2019ll walk you through the application process. To get started on applying for financial assistance, we\u2019ll work with you:**\n*   To fill out an AD 1026, which ensures a conservation plan is in place before lands with highly erodible soils are farmed. It also ensures that identified wetland areas are protected.\n*   To meet other eligibility certifications.\nOnce complete, we\u2019ll work with you on the application, or CPA 1200.\nApplications for most programs are accepted on a continuous basis, but they\u2019re considered for funding in different ranking periods. Be sure to ask your local NRCS district conservationist about the deadline for the ranking period to ensure you turn in your application in time.\n### Step 3: Check your eligibility\n**As part of the application process, we\u2019ll check to see if you are eligible. To do this, you\u2019ll need to bring:**\n*   An official tax ID (Social Security number or an employer ID)\n*   A property deed or lease agreement to show you have control of the property; and\n*   A farm number.\nIf you don\u2019t have a farm number, you can get one from USDA\u2019s Farm Service Agency. Typically, the local FSA office is located in the same building as the local NRCS office. You only need a farm number if you\u2019re interested in financial assistance.\n### Step 4: Rank your application\n**NRCS will take a look at the applications and rank them** according to local resource concerns, the amount of conservation benefits the work will provide and the needs of applicants. View \n### Step 5: Implement your plan\n**If you\u2019re selected, you can choose whether to sign the contract for the work to be done.**\nOnce you sign the contract, you\u2019ll be provided standards and specifications for completing the practice or practices, and then you will have a specified amount of time to implement. Once...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Natural Resources Conservation Service (NRCS) under the U.S. Department of Agriculture provides valuable and factual information about conservation practices and related programs. While it is reliable for the topics it covers, its focus is narrow and may not address broader political claims or news incidents."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses soil health-related work by the Natural Resources Conservation Service. It is completely unrelated to the topic of state secrets or statements made by President Biden."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The Threat Posed by the Chinese Government and the Chinese ...",
+                "htmlTitle": "The Threat Posed by the Chinese Government and the Chinese ...",
+                "link": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states",
+                "displayLink": "www.fbi.gov",
+                "snippet": "Jul 7, 2020 ... And just two weeks ago, Hao Zhang was convicted of economic espionage, theft of trade secrets, and conspiracy for stealing proprietary\u00a0...",
+                "htmlSnippet": "Jul 7, 2020 <b>...</b> And just two weeks ago, Hao Zhang was convicted of economic espionage, theft of trade <b>secrets</b>, and conspiracy for stealing proprietary&nbsp;...",
+                "formattedUrl": "https://www.fbi.gov/news/.../the-threat-posed-by-the-chinese-government-a...",
+                "htmlFormattedUrl": "https://www.fbi.gov/<b>news</b>/.../the-threat-posed-by-the-chinese-government-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNGUyiT2Gu_bSmLVLW8pIgkq6Wg6Z5Of5P5OssjuHF4XpZAoL6sdD0pDD&s",
+                            "width": "276",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states/@@images/image",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Federal Bureau of Investigation",
+                            "twitter:url": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states",
+                            "dc.format": "text/html",
+                            "og:image:type": "image/jpeg",
+                            "distribution": "Global",
+                            "og:description": "FBI Director Christopher Wray\u2019s remarks at the Hudson Institute, Washington, D.C.",
+                            "twitter:image": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states/@@images/image",
+                            "twitter:site": "@FBI",
+                            "dc.type": "Speech",
+                            "dc.description": "FBI Director Christopher Wray\u2019s remarks at the Hudson Institute, Washington, D.C.",
+                            "twitter:title": "The Threat Posed by the Chinese Government and the Chinese Communist Party to the Economic and National Security of the United States | Federal Bureau of Investigation",
+                            "og:type": "website",
+                            "og:title": "The Threat Posed by the Chinese Government and the Chinese Communist Party to the Economic and National Security of the United States | Federal Bureau of Investigation",
+                            "dc.date.created": "2020-07-06T21:25:14+00:00",
+                            "og:article:publisher": "https://www.facebook.com/FBI",
+                            "expirationdate": "2499-12-31T00:00:00+00:00",
+                            "modificationdate": "2023-10-14T15:30:41+00:00",
+                            "publicationdate": "2020-07-07T10:30:00+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "FBI Director Christopher Wray\u2019s remarks at the Hudson Institute, Washington, D.C.",
+                            "dc.date.valid_range": "2020/07/07 -",
+                            "dc.date.modified": "2023-10-14T15:30:41+00:00",
+                            "dc.subject": "China Threat, Director/FBI Leadership, Christopher Wray, Director Wray, National Security, Economic Espionage, Intellectual Property Theft, Counterintelligence",
+                            "dc.language": "en-us",
+                            "og:url": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fbi.gov/news/speeches/the-threat-posed-by-the-chinese-government-and-the-chinese-communist-party-to-the-economic-and-national-security-of-the-united-states/@@images/image"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... case of scientist Hongjin Tan, for example, a Chinese national and American lawful permanent resident. He applied to China\u2019s Thousand Talents Program and stole more than $1 billion\u2014that\u2019s with a \u201cb\u201d\u2014worth of trade secrets from his former employer, an Oklahoma-based petroleum company, and got caught. A few months ago, he was convicted and sent to prison.\nOr there\u2019s the case of Shan Shi, a Texas-based scientist, also sentenced to prison earlier this year. Shi stole trade secrets regarding syntactic foam, an important naval technology used in submarines. Shi, too, had applied to China\u2019s Thousand Talents Program, and specifically pledged to \u201cdigest\u201d and \u201cabsorb\u201d the relevant technology in the United States. He did this on behalf of Chinese state-owned enterprises, which ultimately planned to put the American company out of business and take over the market.\nIn one of the more galling and egregious aspects of the scheme, the conspirators actually patented in China the very manufacturing process they\u2019d stolen, and then offered their victim American company a joint venture using its own stolen technology. We\u2019re talking about an American company that spent years and millions of dollars developing that technology, and China couldn\u2019t replicate it\u2014so, instead, it paid to have it stolen.\nAnd just two weeks ago, Hao Zhang was convicted of economic espionage, theft of trade secrets, and conspiracy for stealing proprietary information about wireless devices from two U.S. companies. One of those companies had spent over 20 years developing the technology Zhang stole.\nThese cases were among more than a thousand investigations the FBI has into China\u2019s actual and attempted theft of American technology\u2014which is to say nothing of over a thousand more ongoing counterintelligence investigations of other kinds related to China. We\u2019re conducting these kinds of investigations in all 56 of our field offices. And over the past decade, we\u2019ve seen economic espionage cases with a link to China increase by approximately 1,300 percent.\nThe stakes could not be higher, and the potential economic harm to American businesses and the economy as a whole almost defies calculation.\n### Clandestine Efforts\nAs National Security Advisor O\u2019Brien discussed in his June remarks, the Chinese government is also making liberal use of hacking to steal our corporate and personal data\u2014and they\u2019re using both military and non-state hackers to do it. The Equifax intrusion I mentioned just a few moments ago, which led to the indictment of Chinese military personnel, was hardly the only time China stole the sensitive personal information of huge numbers of the American public.\nFor example, did any of you have health insurance through Anthem or one of its associated insurers? In 2015...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The official website of the Federal Bureau of Investigation (FBI) provides trustworthy information regarding law enforcement and national security issues. As a law enforcement agency, it often deals with matters of significant public interest and legal consequence. Nevertheless, the site primarily focuses on investigations and security rather than providing news or analysis on political speeches."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-07-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses espionage cases involving Chinese operatives and does not reference President Biden or any statements he made. Therefore, it is irrelevant to the claim about selling state secrets."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "United States Department of State",
+                "htmlTitle": "United States Department of <b>State</b>",
+                "link": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "displayLink": "www.state.gov",
+                "snippet": "Jul 25, 2024 ... President Biden and Secretary ... MR PATEL: Yeah. QUESTION: \u2014 the peaceful protesters. So from the U.S. parliament, this statement \u2013 State\u00a0...",
+                "htmlSnippet": "Jul 25, 2024 <b>...</b> President <b>Biden</b> and Secretary ... MR PATEL: Yeah. QUESTION: \u2014 the peaceful protesters. So from the U.S. parliament, this <b>statement</b> \u2013 <b>State</b>&nbsp;...",
+                "formattedUrl": "https://www.state.gov/?post_type=state_briefing&%3Bp=92333",
+                "htmlFormattedUrl": "https://www.<b>state</b>.gov/?post_type=<b>state</b>_briefing&amp;%3Bp=92333",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                            "og:type": "website",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-tap-highlight": "no",
+                            "og:site_name": "United States Department of State",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:image:height": "675",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\n\u0627\u0644\u0639\u0631\u0628\u064a\u0629DeutschEnglishEspa\u00f1olFran\u00e7aisItaliano\u65e5\u672c\u8a9eNederlandsPortugu\u00easT\u00fcrk\u00e7e\u4e2d\u6587",
+                    "content_tokens": 199
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The U.S. Department of State's official website is a credible source for U.S. foreign policy, diplomatic efforts, and statements from the Secretary of State. Its high-level information about international relations lends it credibility. However, like any government site, the presentation may favor the current administration's views."
+                },
+                "Newness": {
+                    "NewnessScore": 9,
+                    "Date": "2024-07-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence pertains to a Department of State press statement and does not relate to President Biden's claim regarding state secrets. Thus, it does not help evaluate the claim at hand."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Why the U.S. Doesn't Seem to Care About Imran Khan or Pakistan's ...",
+                "htmlTitle": "Why the U.S. Doesn&#39;t Seem to Care About Imran Khan or Pakistan&#39;s ...",
+                "link": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                "displayLink": "time.com",
+                "snippet": "Feb 5, 2024 ... The Biden Administration may yet regret not taking a stronger stance to protect in Pakistan the democratic values it claims to hold so dear.",
+                "htmlSnippet": "Feb 5, 2024 <b>...</b> The <b>Biden</b> Administration may yet regret not taking a stronger stance to protect in Pakistan the democratic values it claims to hold so dear.",
+                "formattedUrl": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                "htmlFormattedUrl": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "pinterest:description": "The Biden Administration may yet regret not taking a stronger stance to protect in Pakistan the democratic values it claims to hold so dear.",
+                            "og:image": "https://api.time.com/wp-content/uploads/2024/02/imran-khan-pakistan-election.jpg?quality=85&w=1024&h=628&crop=1",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2024-02-05T08:00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "The Biden Administration may yet regret not taking a stronger stance to protect in Pakistan the democratic values it claims to hold so dear.",
+                            "twitter:creator": "@charliecamp6ell",
+                            "twitter:image": "https://api.time.com/wp-content/uploads/2024/02/imran-khan-pakistan-election.jpg?quality=85&w=1024&h=628&crop=1",
+                            "twitter:site": "@TIME",
+                            "pinterest:media": "https://api.time.com/wp-content/uploads/2024/02/imran-khan-pakistan-election.jpg?quality=85&w=1024&h=628&crop=1",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                            "application-name": "nextgen",
+                            "creator": "Charlie Campbell",
+                            "og:type": "article",
+                            "twitter:title": "Why the U.S. Doesn\u2019t Seem to Care About Imran Khan or Pakistan\u2019s Unfair Election",
+                            "author": "Charlie Campbell",
+                            "og:title": "Why the U.S. Doesn\u2019t Seem to Care About Imran Khan or Pakistan\u2019s Unfair Election",
+                            "og:image:height": "628",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Biden Administration may yet regret not taking a stronger stance to protect in Pakistan the democratic values it claims to hold so dear.",
+                            "primary-tag": "diplomacy",
+                            "amphtml": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/?amp=true",
+                            "category": "World",
+                            "og:url": "https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://api.time.com/wp-content/uploads/2024/02/imran-khan-pakistan-election.jpg?quality=85&w=1024&h=628&crop=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://time.com/6663747/pakistan-imran-khan-election-democracy-us/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://time.com/6663747/pakistan-imran-khan-election-democracy-us/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Time magazine is a reputable news outlet that covers a wide range of topics, including politics and government. While it has a history of quality journalism, it also follows editorial angles that may reflect a liberal bias. Its ability to fact-check and verify claims is generally strong, but the opinion pieces can sometimes blur the lines of objectivity."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-02-05"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses the Biden administration\u2019s stance on Pakistan's democracy and is unrelated to the topic of selling state secrets. It does not contribute to answering the question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Espionage Act of 1917 - INTEL",
+                "htmlTitle": "The Espionage Act of 1917 - INTEL",
+                "link": "https://www.intelligence.gov/evolution-of-espionage/world-war-1/america-declares-war/espionage-act",
+                "displayLink": "www.intelligence.gov",
+                "snippet": "Long before the first German operatives set to work on American soil, President William Howard Taft signed into law the Defense Secrets Act of 1911\u00a0...",
+                "htmlSnippet": "Long before the first German operatives set to work on American soil, President William Howard Taft signed into law the Defense <b>Secrets</b> Act of 1911&nbsp;...",
+                "formattedUrl": "https://www.intelligence.gov/evolution-of-espionage/...1/.../espionage-act",
+                "htmlFormattedUrl": "https://www.intelligence.gov/evolution-of-espionage/...1/.../espionage-act",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvbl2qC0hJ42nAuiQ3I615OTbGl31VOK8xv3l6jkRqcrLb9YH0hBCuaDI&s",
+                            "width": "232",
+                            "height": "217"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "author": "Office of the Director of National Intelligence"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.intelligence.gov/templates/intelgov-template/custom-sections/evolution-of-espionage/subsections/espionage-act/img/collage1.jpg"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "INTEL.gov"
+                        },
+                        {
+                            "item": "Evolution of Espionage"
+                        },
+                        {
+                            "item": "WWI"
+                        },
+                        {
+                            "item": "America Declares War"
+                        },
+                        {
+                            "item": "INTEL.gov"
+                        },
+                        {
+                            "item": "Evolution of Espionage"
+                        },
+                        {
+                            "item": "WWI"
+                        },
+                        {
+                            "item": "America Declares War"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    Use these icons to learn more!*   ! Artifact\n    *   ! Images\n    *   ! Maps\nExplore By Era\n--------------\n*   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n*   World War II (coming soon)\n*   Golden Age of Soviet Espionage (coming soon)\n*   Cold War (coming soon)\n*   Post-Cold War (coming soon)\n*   \n    User Guide\n    ----------\n    Use these icons to learn more!*   ! Artifact\n    *   ! Images\n    *   ! Maps\n*   \n*   \n*   \n*   The Espionage Act of 1917\nThe Espionage  \nAct of 1917\n===========================\n!\n !Presidents Woodrow Wilson and Howard Taft; Cartoon of opposition to the Espionage Act; Department of the Army OPSEC poster\n!\n !Presidents Woodrow Wilson and Howard Taft; Cartoon of opposition to the Espionage Act; Department of the Army OPSEC poster\n!\nLong before the first German operatives set to work on American soil, President William Howard Taft signed into law the Defense Secrets Act of 1911, criminalizing both the collection of information from military installations and facilities, and the sharing of sensitive information with those who lacked appropriate clearances. After the United States entered the war, in June 1917, Congress passed the Espionage Act, building on the 1911 law, with important new elements added in.\n!\n !Department of the Army OPSEC poster\nThe Espionage Act broadly sought to crack down on wartime activities considered dangerous or disloyal, including attempts to acquire defense-related information with the intent to harm the United States, or acquire code and signal books, photographs, blueprints, and other such documents with the intention of passing them to America\u2019s enemies. The Act also outlawed false statements intended to interfere with military operations; attempts to incite insubordination or obstruct the recruitment of troops; and false statements promoting the success of America\u2019s enemies. Those charged with violations were subject to a $10,000 fine and twenty years imprisonment. If the crimes were...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This is the official website of the U.S. Intelligence Community. It provides information about intelligence operations and national security. While it is a credible source for matters of intelligence and security, it does not directly focus on news reporting, and its content is often geared toward operational transparency rather than real-time news updates."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence outlines the Espionage Act and historical context but does not directly relate to the claim or provide specific information regarding Biden's statements about state secrets."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "US-China Relations in the Biden-Era: A Timeline - China Briefing ...",
+                "htmlTitle": "US-China Relations in the <b>Biden</b>-Era: A Timeline - China Briefing ...",
+                "link": "https://www.china-briefing.com/news/us-china-relations-in-the-biden-era-a-timeline/",
+                "displayLink": "www.china-briefing.com",
+                "snippet": "Day 1191 to 1193 (April 24 to 26, 2024): Secretary of State Antony Blinken meets with President Xi Jinping and other senior Chinese officials in Beijing. US\u00a0...",
+                "htmlSnippet": "Day 1191 to 1193 (April 24 to 26, 2024): Secretary of <b>State</b> Antony Blinken meets with President Xi Jinping and other senior Chinese officials in Beijing. US&nbsp;...",
+                "formattedUrl": "https://www.china-briefing.com/news/us-china-relations-in-the-biden-era-a-...",
+                "htmlFormattedUrl": "https://www.china-briefing.com/<b>news</b>/us-china-relations-in-the-<b>biden</b>-era-a-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJA7qXlZ-nrAFYt_3bQk59KI-Eq7_L-7Q61JzF72r43DXItiWq138Da6U&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.china-briefing.com/news/wp-content/uploads/2021/03/US-China-Relations-in-the-Biden-Era-A-Timeline-.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2024-07-30T01:00:51+00:00",
+                            "og:image:width": "900",
+                            "og:site_name": "China Briefing News",
+                            "og:title": "US-China Relations in the Biden-Era: A Timeline - China Briefing News",
+                            "og:image:height": "506",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Timeline tracking key developments affecting US-China relations, including trade and business engagement, under the Biden Administration.",
+                            "twitter:data1": "China Briefing",
+                            "twitter:data2": "149 minutes",
+                            "article:modified_time": "2024-08-02T08:32:25+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.china-briefing.com/news/us-china-relations-in-the-biden-era-a-timeline/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.china-briefing.com/news/wp-content/uploads/2021/03/US-China-Relations-in-the-Biden-Era-A-Timeline-.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... to US individuals and businesses to these actions. It also found that the tariffs have had a \u201csmall negative impact\u201d on the US economy, while they have positively impacted production in 10 sectors most directly affected by the tariffs.\nHowever, since China continues to impose policies related to technology transfer, according to the review, further action is needed to counteract them.\nThe recommendation by the USTR comes at the conclusion of a statutory review of the Section 301 Tariffs, which were first imposed by the Trump Administration in 2018. The USTR launched the statutory review in May 2022 in the lead-up to the four-year anniversary of the tariffs being implemented.\nAt the time, the Biden Administration  that the US may lift some tariffs on Chinese goods to fight inflation. The fact that it has now instead chosen to increase tariffs reflects how the trade relationship between China and the US has evolved in the last two years despite improvements in diplomatic dialogue, as well as the increasingly elevated position of renewables and high-end technologies as a consideration in national security.\nThe proposed tariff increases are as follows:\n*   Battery parts (non-lithium-ion batteries): Increase rate to 25 percent in 2024\n*   Electric vehicles: Increase rate to 100 percent in 2024\n*   Facemasks: Increase rate to 25 percent in 2024\n*   Lithium-ion electrical vehicle batteries: Increase rate to 25 percent in 2024\n*   Lithium-ion non-electrical vehicle batteries: Increase rate to 25 percent in 2026\n*   Medical gloves: Increase rate to 25 percent in 2026\n*   Natural graphite: Increase rate to 25 percent in 2026\n*   Other critical minerals: Increase rate to 25 percent in 2024\n*   Permanent magnets: Increase rate to 25 percent in 2026\n*   Semiconductors: Increase rate to 50 percent in 2025\n*   Ship-to-shore cranes: Increase rate to 25 percent in 2024\n*   Solar cells (whether or not assembled into modules): Increase rate to 50 percent in 2024\n*   Steel and aluminum products: Increase rate to 25 percent in 2024\n*   Syringes and needles: Increase rate to 50 percent in 2024\nIn addition to the tariff rises, the USTR also recommends establishing an \u201cexclusion process\u201d for machinery used in domestic manufacturing, targeting in particular solar manufacturing equipment.\nIn a regular press briefing, Chinese Foreign Spokesperson Wang Wenbin stated that \u201cChina opposes the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "China Briefing provides insights and analysis regarding doing business in China, along with socio-economic information about the Chinese market. While it can be a good resource for business-related news, it may not be the most reliable source for evaluating U.S. political statements, especially as it focuses heavily on economic issues rather than political or diplomatic discourse."
+                },
+                "Newness": {
+                    "NewnessScore": 10,
+                    "Date": "2024-07-30"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses US-China relations and updates on diplomatic engagements, which are not directly related to President Biden\u2019s claim about selling state secrets. Thus, it is of no relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "PROJECT MKIULTRA, THE CIA'S PROGRAM OF RESEARCH IN ...",
+                "htmlTitle": "PROJECT MKIULTRA, THE CIA&#39;S PROGRAM OF RESEARCH IN ...",
+                "link": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+                "displayLink": "www.intelligence.senate.gov",
+                "snippet": "Aug 3, 1977 ... SENATE SELECT COMMITTEE ON INTELLIGENCE. (Established by S. Res. 400, 94th Cong., 2d sess.) DANIEL K. INOUYE, Hawaii, Chairman.",
+                "htmlSnippet": "Aug 3, 1977 <b>...</b> SENATE SELECT COMMITTEE ON INTELLIGENCE. (Established by S. Res. 400, 94th Cong., 2d sess.) DANIEL K. INOUYE, Hawaii, Chairman.",
+                "formattedUrl": "https://www.intelligence.senate.gov/sites/default/files/.../95mkultra.pdf",
+                "htmlFormattedUrl": "https://www.intelligence.senate.gov/sites/default/files/.../95mkultra.pdf",
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "# PROJECT MKIULTRA, THE CIA'S PROGRAM OF RESEARCH IN BEHAVIORAL MODIFICATION JOINT HEARING BEFORE THE SELECT COMMITTEE ON INTELLIGENCE  \n> AND THE\n# SUBCOMMITTEE ON \n# HEALTH AND SCIENTIFIC RESEARCH OF THE \n# COMMITTEE ON HUMAN RESOURCES \n# UNITED STATES SENATE \nNINETY-FIFTH CONGRESS FIRST SESSION AUGUST 3, 1977            \n> Printed for the use of the Select Committee on Intelligence and Committee on Human Resources\n# PROJECT MKULTRA, THE CIA'S PROGRAM OF RESEARCH IN BEHAVIORAL MODIFICATION \n# JOINT HEARING \nBEFORE THE \n# SELECT COMMITTEE ON INTELLIGENCE AND THE SUBCOMMITTEE ON HEALTH AND SCIENTIFIC RESEARCH OF THE COMMITTEE ON HUMAN RESOURCES \n# UNITED STATES SENATE NINETY-FIFTH CONGRESS \nFIRST SESSION AUGUST 3, 1977 \nPrinted for the use of the Select Committee on Intelligence and Committee on Human Resources \nU.S. GOVERNMENT PRINTING OFFICE \n96-4080 WASHINGTON : 1977 \nFor sale by the Superintendent of Documents, U.S. Government Printing Office Washington, D.C., 20402 Stock No. 052-070-04357-1 SENATE SELECT COMMITTEE ON INTELLIGENCE \n(Established by S. Res. 400, 94th Cong., 2d sess.) \nDANIEL K. INOUYE, Hawaii, Chairman \nBARRY GOLDWATER, Arizona, Vice Chairman \nBIRCH BAYH, Indiana CLIFFORD P. CAISE, New Jersey ADLAI E. STEVENSON, Illinois JAKE GARN, Utah WILLIAM D. HATHAWAY, Maine CHARLES MCC. MATHIAS, JR., Maryland WALTER D. HUDDLESTON, Kentucky JAMES B. PEARSON, Kansas \nJOSEPH R. BIDEN, JR., Delaware JOHN H. CHAFEE, Rhode Island ROBERT MORGAN, North Carolina RICHARD G. LUGAR, Indiana GARY HART, Colorado MALCOLM WALLOP, Wyoming \nDAN...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Senate Select Committee on Intelligence's website provides official reports, testimonies, and news related to U.S. intelligence. Its credibility stems from its government affiliation and the oversight role it plays over intelligence operations. However, like other government sites, the information can be focused on specific inquiries and not have the broad context needed to assess the nuances of political claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "1977-08-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence pertains to CIA programs in the past and does not directly address current statements or actions of President Biden. Therefore, it does not aid in evaluating the claim about selling state secrets."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,825 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - History of A113 in animation and Pixar",
+                "totalResults": "10700",
+                "searchTerms": "History of A113 in animation and Pixar",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - History of A113 in animation and Pixar",
+                "totalResults": "10700",
+                "searchTerms": "History of A113 in animation and Pixar",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.222279,
+        "formattedSearchTime": "0.22",
+        "totalResults": "10700",
+        "formattedTotalResults": "10,700"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Where Every A113 Easter Egg Is in Pixar's Movies - Business Insider",
+                "htmlTitle": "Where Every <b>A113</b> Easter Egg Is in <b>Pixar&#39;s</b> Movies - Business Insider",
+                "link": "https://www.businessinsider.com/every-a113-easter-egg-pixar-movies",
+                "displayLink": "www.businessinsider.com",
+                "snippet": "Feb 2, 2023 ... What is A113? pete docter at pixar. Pete Docter, the chief creative officer of Pixar Animation Studios, in 2022. Jesse Grant/Getty Images ...",
+                "htmlSnippet": "Feb 2, 2023 <b>...</b> What is <b>A113</b>? pete docter at <b>pixar</b>. Pete Docter, the chief creative officer of <b>Pixar Animation</b> Studios, in 2022. Jesse Grant/Getty Images&nbsp;...",
+                "formattedUrl": "https://www.businessinsider.com/every-a113-easter-egg-pixar-movies",
+                "htmlFormattedUrl": "https://www.businessinsider.com/every-<b>a113</b>-easter-egg-<b>pixar</b>-movies",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTriGygHv7CL76PBTsGFg1YkuIsYmj3QUOP-RLl9jpv0lza0ceBntuiLQwH&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://i.insider.com/63da806d0a08ae0018a652b6?width=700",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d2d62b40fbb600192b9ebe",
+                            "credittext": "Jesse Grant/Getty Images for Disney"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d944590a08ae0018a62e0c",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d949e5e33c4000193a5eb1",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d94c9ae33c4000193a5f48",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d95a000a08ae0018a63359",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d95bd60a08ae0018a633cd",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d95c780a08ae0018a6341c",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d95cd2e33c4000193a62de",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d964cbe33c4000193a64b3",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d96a27e33c4000193a658b",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d96e670a08ae0018a637f9",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d97850e33c4000193a6956",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d97938e33c4000193a699c",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d97cc60a08ae0018a63bf3",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d97f3ce33c4000193a6b44",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d983dbe33c4000193a6ca1",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d985cde33c4000193a6d20",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d9892e0a08ae0018a63f24",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d98ceee33c4000193a6f45",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d98d8ce33c4000193a6f52",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d9931de33c4000193a70d3",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d9900fe33c4000193a6ffb",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d99398e33c4000193a710f",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d9945ce33c4000193a714b",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d99616e33c4000193a7195",
+                            "credittext": "Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/63d9983ce33c4000193a71d9",
+                            "credittext": "Pixar"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.insider.com/63da8fdb0a08ae0018a6567c?width=1200&format=jpeg",
+                            "apple-itunes-app": "app-id=554260576",
+                            "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2023-11",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "sailthru.tags": "Features, Pixar, Easter eggs, details you missed, Movie details, Movies, Entertainment, Disney, Animation, Newsroom Affiliate Optimization, product card, Gabbi Shaw",
+                            "og:site_name": "Business Insider",
+                            "apple-mobile-web-app-title": "Business Insider",
+                            "title": "Every A113 we could find in 26 Pixar movies",
+                            "og:description": "A113 is a nod to a classroom many Pixar animators studied in. Animators have made a tradition of including it in their movies like \"Toy Story\" and \"Coco.\"",
+                            "article:publisher": "businessinsider",
+                            "mrf:tags": "Page Type:slideshow",
+                            "datemodified": "2023-02-03T15:57:25Z",
+                            "news_keywords": "Entertainment, details you missed, Movies, Entertainment, Disney",
+                            "sailthru.title": "Every A113 we could find in 26 Pixar movies",
+                            "mrf:sections": "Entertainment",
+                            "datepublished": "2023-02-02T21:06:25Z",
+                            "sailthru.verticals": "entertainment",
+                            "sailthru.date": "2023-02-02",
+                            "og:type": "article",
+                            "author": "Gabbi Shaw",
+                            "tbi-vertical": "Entertainment",
+                            "og:title": "Every A113 we could find in 26 Pixar movies",
+                            "sailthru.image.thumb": "https://i.insider.com/63d944590a08ae0018a62e0c?width=160&format=jpeg",
+                            "fb:pages": "20446254070",
+                            "sailthru.description": "A113 is a nod to a classroom many Pixar animators studied in. Animators have made a tradition of including it in their movies like \"Toy Story\" and \"Coco.\"",
+                            "linkedin:owner": "mid:1d5f7b",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.businessinsider.com/every-a113-easter-egg-pixar-movies",
+                            "sailthru.author": "Gabbi Shaw",
+                            "sailthru.image.full": "https://i.insider.com/63d944590a08ae0018a62e0c?width=1200&format=jpeg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.insider.com/63da8fdb0a08ae0018a6567c?width=1200&format=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Every A113 we could find in 26 Pixar movies\n-------------------------------------------\n!\nAngle down icon An icon in the shape of an angle pointing down.\nThe A113 in \"Monsters University.\" Pixar\n*   Pixar is  and seemingly interconnected universe.\n*   One of the most famous (and recurring) Easter eggs is in the inclusion of \"A113.\"\n*   It's a nod to a classroom at CalArts that many animators studied in.\nWhat is A113?\n-------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\nPete Docter, the chief creative officer of Pixar Animation Studios, in 2022. Jesse Grant/Getty Images for Disney\nA113 is a reference to a classroom at the California Institute of the Arts, specifically a classroom used by the graphic design and character animation students. Many alumni of CalArts went on to work at Disney and Pixar, like the , Brad Bird, Tim Burton, current Pixar chief Pete Docter, Henry Selick, and more.\nAs a result, almost every Pixar movie includes \"A113\" somewhere on screen as a nod to their shared alma mater. Other animated movies and TV shows have also included A113, like \"The Brave Little Toaster.\"\nHere are all the A113s we could find.\nA113 is the license plate on Andy's mom's minivan in \"Toy Story.\"\n-----------------------------------------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\n\"Toy Story.\" Pixar\nAs Pixar's first movie, released all the way back in 1995, many of the studio's traditions were established here, like A113, the Luxo ball, and \n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "A113 - Wikipedia",
+                "htmlTitle": "<b>A113</b> - <b>Wikipedia</b>",
+                "link": "https://en.wikipedia.org/wiki/A113",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "A113 and its variants are an inside joke and Easter egg in media developed by alumni of California Institute of the Arts, referring to the classroom used by ...",
+                "htmlSnippet": "<b>A113</b> and its variants are an inside joke and Easter egg in media developed by alumni of California Institute of the Arts, referring to the classroom used by&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/A113",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>A113</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Room_A113%2C_California_Institute_of_the_Arts%2C_Valencia%2C_California_-_20050723.jpg/1200px-Room_A113%2C_California_Institute_of_the_Arts%2C_Valencia%2C_California_-_20050723.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "A113 - Wikipedia",
+                            "og:image:height": "1600",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n]\nThe door of Room A113 c. 2005\n**A113** and its variants are an  and  \"Easter egg (media)\") in media developed by alumni of , referring to the classroom used by graphic design and character animation students.\\_\\]\nStudents who have used the classroom include , , , and . It has appeared in several  films and almost every  movie.]\nBrad Bird first used it for a license plate number in the \" \"Family Dog (TV series)\")\" episode of _ \"Amazing Stories (1985 TV series)\")_: \"I put it into every single one of my films, including my __ episodes—it's sort of my version of caricaturist 's ''.\"] It also appears in __, __, __, __, __ and the SPA Studios animated film _ \"Klaus (film)\")_ (2019).] The first Disney movie Bird used it in was __ (1987), in which he worked on as an animator.] It can be seen as The Master's apartment address when Toaster and his friends knock on the door. It also appears in __ on an agent's poison ring and in the script when Ethan Hunt requests evac at rendezvous point Alpha 113.\nAnother reference is in __ when all the cameras on Truman's set are shown and one is labeled A113 but it is not confirmed whether it is a real reference or just a coincidence.\nThe series finale of the children's show, _ \"Arthur (TV Series)\")_, features a door labeled \"A-113.\"\n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Story Behind Pixar's Mysterious A113 - Yellow Mellow Life",
+                "htmlTitle": "<b>Story</b> Behind <b>Pixar&#39;s</b> Mysterious <b>A113</b> - Yellow Mellow Life",
+                "link": "https://www.yellowmellowlife.com/story-behind-pixars-mysterious-a113/",
+                "displayLink": "www.yellowmellowlife.com",
+                "snippet": "My husband and I are Pixar fans. There was a time when we refused to watch any animated movie other than Pixar. Well not so much now.",
+                "htmlSnippet": "My husband and I are <b>Pixar</b> fans. There was a time when we refused to watch any <b>animated movie</b> other than <b>Pixar</b>. Well not so much now.",
+                "formattedUrl": "https://www.yellowmellowlife.com/story-behind-pixars-mysterious-a113/",
+                "htmlFormattedUrl": "https://www.yellowmellowlife.com/story-behind-<b>pixar</b>s-mysterious-<b>a113</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScaVT5_jOm8kFnhZfUeys5ravN1BYQA8rcsu0-TgY8RjldgwDFBS3TDLo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "wxEIEd_IA9SR_JY9duyC6xkvA84",
+                            "og:image": "https://i1.wp.com/www.yellowmellowlife.com/wp-content/uploads/2014/05/nn.png?fit=608%2C340&ssl=1",
+                            "article:published_time": "2014-05-02T04:38:15+00:00",
+                            "og:image:width": "608",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yellow Mellow Life",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Estimated reading time",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://i0.wp.com/www.yellowmellowlife.com/wp-content/uploads/2020/06/cropped-Logo-500x500-1-1.png?fit=270%2C270&ssl=1",
+                            "og:description": "Story behind Pixar's Mysterious A113. How did A113 came into being? What does A113 mean?",
+                            "twitter:creator": "@bhawnasaini_yml",
+                            "article:publisher": "https://www.facebook.com/yellowmellowlife",
+                            "twitter:data1": "Bhawna Saini",
+                            "twitter:data2": "2 minutes",
+                            "twitter:site": "@bhawnasaini_yml",
+                            "article:modified_time": "2016-01-11T14:18:06+00:00",
+                            "gads": "3.17",
+                            "og:type": "article",
+                            "msvalidate.01": "A30DCDE7615441F37B32FCA102B18285",
+                            "author": "Bhawna Saini",
+                            "og:title": "Story Behind Pixar's Mysterious A113 - Yellow Mellow Life",
+                            "og:image:height": "340",
+                            "article:author": "https://www.facebook.com/bhawna.saini.165",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.yellowmellowlife.com/story-behind-pixars-mysterious-a113/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i1.wp.com/www.yellowmellowlife.com/wp-content/uploads/2014/05/nn.png?fit=608%2C340&ssl=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Story Behind Pixar's Mysterious A113 - Yellow Mellow Life\n===============\nSearch\nSearching is in progress\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nSearch\nSearching is in progress\nToggle header\n]\nToggle Navigation\n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   (javascript:;)\nStory Behind Pixar’s Mysterious A113\n====================================\n!\nMy husband and I are Pixar fans. There was a time when we refused to watch any animated movie other than Pixar. Well not so much now. With Little B in our life we have started watching Dreamworks as well because they provide more “entertainment” or as we in India call it “_masala_” (spice).\nBut yes coming back to Pixar movies, they are something that never stop intriguing me. Pixar is a world where you can get lost exploring, seriously! And as I scrolled through  this morning, I came across an Easter Egg that Pixar has been hiding in plain sight in their movies. The code ‘A113.’ This string appears in almost all Pixar movies, from Toy Story all the way to Monster’s University.\n]\nPhoto courtesy imgur.com\nThe prestigious California Institute of the Arts or CalArts as it is popularly known as, was set up by Walt Disney.  That is where the number came from.\n]\nPhoto courtesy imgur.com\nAccording to , chief creative director at Pixar and Walt Disney Animation Studios,\n“A113 was the animation classroom at the California Institute of Arts in the Character Animation Program. Cal Arts is one of the best animation schools and a lot of students in my time they went to CalArts. As they created films – short films and feature films – they’ve kind of hidden A113 in the movies.”\n]\nPhoto courtesy imgur.com\nOh, so that explains it. Though I have seen most of Pixar movies...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "A113 | Pixar Wiki | Fandom",
+                "htmlTitle": "<b>A113</b> | <b>Pixar</b> Wiki | Fandom",
+                "link": "https://pixar.fandom.com/wiki/A113",
+                "displayLink": "pixar.fandom.com",
+                "snippet": "For the directive in WALL•E, see Directive A-113. A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the ...",
+                "htmlSnippet": "For the directive in WALL•E, see Directive A-113. <b>A113</b> (pronounced A-One-Thirteen) is the classroom number used by character <b>animation</b> students at the&nbsp;...",
+                "formattedUrl": "https://pixar.fandom.com/wiki/A113",
+                "htmlFormattedUrl": "https://<b>pixar</b>.fandom.com/wiki/<b>A113</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfVepY28vk1eb8oMgLXTWe0tOrg8zXoL1956btOjfN57E5ObwqogQVP1g&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.wikia.nocookie.net/pixar/images/1/1e/Toy_Story_%28Original%29.jpg/revision/latest/scale-to-width-down/1200?cb=20181123093114",
+                            "theme-color": "#eaecf0",
+                            "twitter:card": "summary",
+                            "twitter:title": "A113 | Pixar Wiki | Fandom",
+                            "og:type": "article",
+                            "og:site_name": "Pixar Wiki",
+                            "twitter:url": "https://pixar.fandom.com/wiki/A113",
+                            "og:title": "A113",
+                            "og:description": "For the directive in WALL•E, see Directive A-113. A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the California Institute of the Arts. Many of its alumni (including Pixar staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every Pixar film. In addition to Pixar films, this running gag also appeared in some non-Pixar films, such as The Brave Little Toaster, Lilo & Stitch, The Avengers, Rise",
+                            "fb:app_id": "112328095453510",
+                            "twitter:site": "@getfandom",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "twitter:description": "For the directive in WALL•E, see Directive A-113. A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the California Institute of the Arts. Many of its...",
+                            "og:url": "https://pixar.fandom.com/wiki/A113",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT02M59S",
+                            "contenturl": "https://cdn.jwplayer.com/videos/ve6O0DTy-cSpmBcaY.mp4",
+                            "uploaddate": "2024-07-12T14:06:28+00:00",
+                            "name": "FanPulse: New Elden Ring DLC",
+                            "thumbnailurl": "https://cdn.jwplayer.com/v2/media/ve6O0DTy/poster.jpg?width=720"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.wikia.nocookie.net/pixar/images/1/1e/Toy_Story_%28Original%29.jpg/revision/latest/scale-to-width-down/1200?cb=20181123093114"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "_For the directive in , see ._\n]\nA113 appearing in a few films\n**A113** (pronounced **A-One-Thirteen**) is the classroom number used by character animation students at the . Many of its alumni (including  staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every Pixar film. In addition to Pixar films, this running gag also appeared in some non-Pixar films, such as __, __, _ \"wikipedia:The Avengers (2012 film)\")_, __, __, etc.\nAppearances in Pixar Films\\\n------------------------------\n]\nChatter Phone Tipline A113\n shows us most of A113's appearances.\n*   __ - License plate number on ' minivan.\n*   __ - Code on a cereal box as  enters the  (the number on the other side of the hyphen is 1195, likely representing November ; the month and year that _Toy Story_ was released). Also, \"Vitamin A113\" appears on the Nutrition Facts for the Casey Jr. Cookies box that makes up a part of 's .\n*   __ - Again on Ms. Davis' license plate. Also, the  announcer says, \" flight A113 from Point Richmond now arriving at Gate 3,\"] a notable reference to director .\n*   __ - When  and  are watching the news, the yellow newscaster is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The story behind A113, mysterious number in every Pixar movie",
+                "htmlTitle": "The <b>story</b> behind <b>A113</b>, mysterious number in every <b>Pixar movie</b>",
+                "link": "https://www.today.com/popculture/story-behind-a113-mysterious-number-every-pixar-movie-2d79609092",
+                "displayLink": "www.today.com",
+                "snippet": "May 1, 2014 ... Pixar fans who have been around the block when it comes to the Easter Eggs within the films, you know all about A113.",
+                "htmlSnippet": "May 1, 2014 <b>...</b> <b>Pixar</b> fans who have been around the block when it comes to the Easter Eggs within the films, you know all about <b>A113</b>.",
+                "formattedUrl": "https://www.today.com/.../story-behind-a113-mysterious-number-every-pix...",
+                "htmlFormattedUrl": "https://www.today.com/.../story-behind-<b>a113</b>-mysterious-number-every-<b>pix</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6vWe-Ufavrk-DZS9kfAhs9Ke6fVIUVsG7IOvgFib1tThXz6vAL7EMM2g&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/today/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2014-05-01T19:50:00.000Z",
+                            "og:site_name": "TODAY.com",
+                            "branch:deeplink:title": "The story behind A113, mysterious number in every Pixar movie",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "TodayShow",
+                            "og:description": "Pixar fans who have been around the  block when it comes to the Easter Eggs within the films, you know all about  A113. We don't need to explain it to you. But we do need to explain it to other  people who might like to know about the number that pops up in almost every  Pixar film (and beyond).If you have an eagle eye, you've spotted \"A113\"  many, many times while watching Pixar movies. It's the",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "branch:deeplink:description": "Pixar fans who have been around the  block when it comes to the Easter Eggs within the films, you know all about  A113. We don't need to explain it to you. But we do need to explain it to other  people who might like to know about the number that pops up in almost every  Pixar film (and beyond).If you have an eagle eye, you've spotted \"A113\"  many, many times while watching Pixar movies. It's the",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x512_center,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "next-head-count": "75",
+                            "twitter:site": "@TODAYshow",
+                            "article:modified_time": "2014-05-01T19:50:50.000Z",
+                            "fb:admins": "100001657893615",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "The story behind A113, mysterious number in every Pixar movie",
+                            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "og:title": "The story behind A113, mysterious number in every Pixar movie",
+                            "og:image:height": "630",
+                            "fb:pages": "12566691349",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x512_center,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg",
+                            "branch:deeplink:unibrow": "Movies",
+                            "fb:app_id": "122384521533",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Pixar fans who have been around the  block when it comes to the Easter Eggs within the films, you know all about  A113. We don't need to explain it to you. But we do need to explain it to other  people who might like to know about the number that pops up in almost every  Pixar film (and beyond).If you have an eagle eye, you've spotted \"A113\"  many, many times while watching Pixar movies. It's the",
+                            "og:locale": "en_US",
+                            "og:url": "http://www.today.com/popculture/story-behind-a113-mysterious-number-every-pixar-movie-2D79609092",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/streams/2014/May/140501/2D274905750509-140501-pixar-toy-story-tease.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   (javascript:void\\(0\\);)\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nThe story behind A113, mysterious number in every Pixar movie\n=============================================================\nPixar fans who have been around the block when it comes to the Easter Eggs within the films, you know all about A113. We don't need to explain it to you. But we do need to explain it to other people who might like to know about the number that pops up in almost every Pixar film (and beyond).If you have an eagle eye, you've spotted \"A113\" many, many times while watching Pixar movies. It's the\n!\nDisney/Pixar\nMay 1, 2014, 7:50 PM UTC\nBy\nPixar fans who have been around the block when it comes to the Easter Eggs within the films, you know all about A113. We don't need to explain it to you. But we do need to explain it to other people who might like to know about the number that pops up in almost every Pixar film (and beyond).\nIf you have an eagle eye, you've spotted \"A113\" many, many times while watching Pixar movies. It's the license plate on Andy's mom's car in the \"Toy Story\" films. It's the forbidden code you see many times in \"Wall-E.\" It's on the camera that the diver is carrying when he captures Nemo in \"Finding Nemo.\"\n!\nThe A113 number is visible on the license plate of Andy's mom's car as Woody gets taken for a ride in \\\\\"Toy Story.\\\\\"Today\nAnd A113 goes beyond Pixar movies. You can find it in \"Avengers,\" \"Hunger Games: Catching Fire,\" \"Rise of the Planet of the Apes,\" \"The Simpsons\" and \"Mission: Impossible - Ghost Protocol.\" It's all around us. And obviously it's not just a really crazy coincidence. There's a reason it gets slipped into these movies.\nAnd that reason is the animators paying tribute to where they started their careers.\n\"A1-13 was the animation classroom at California Institute of the Arts in the Character Animation Program,\" John L...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The History Of Pixar's A113 Easter Egg Explained",
+                "htmlTitle": "The <b>History</b> Of <b>Pixar&#39;s A113</b> Easter Egg Explained",
+                "link": "https://www.looper.com/1202939/the-history-of-pixars-a113-easter-egg-explained/",
+                "displayLink": "www.looper.com",
+                "snippet": "Feb 19, 2023 ... The code appeared on a door in the 1987 animated film \"The Brave Little Toaster,\" which might not be a Pixar movie but was worked on by several ...",
+                "htmlSnippet": "Feb 19, 2023 <b>...</b> The code appeared on a door in the 1987 <b>animated film</b> &quot;The Brave Little Toaster,&quot; which might not be a <b>Pixar movie</b> but was worked on by several&nbsp;...",
+                "formattedUrl": "https://www.looper.com/.../the-history-of-pixars-a113-easter-egg-explained...",
+                "htmlFormattedUrl": "https://www.looper.com/.../the-<b>history</b>-of-<b>pixar</b>s-<b>a113</b>-easter-egg-explained...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX3KHjP65KrvfW8GCH4SB70bjsaPPbXV8Tt27JGm2DLAM1g8mpMKdXEs2G&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://www.looper.com/img/gallery/the-history-of-pixars-a113-easter-egg-explained/l-intro-1676641604.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.looper.com/img/gallery/the-history-of-pixars-a113-easter-egg-explained/l-intro-1676641604.jpg",
+                            "thumbnail": "https://www.looper.com/img/gallery/the-history-of-pixars-a113-easter-egg-explained/l-intro-1676641604.jpg",
+                            "twitter:title": "The History Of Pixar's A113 Easter Egg Explained - Looper",
+                            "og:type": "article",
+                            "article:published_time": "2023-02-20T01:15:31+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Looper",
+                            "og:title": "The History Of Pixar's A113 Easter Egg Explained - Looper",
+                            "og:description": "Pixar films are known for including references to A113, the CalArts classroom where many of its creators learned their skills, but there's more to the story",
+                            "mrf:tags": "Content Type:Feature;Category:Animation Movies",
+                            "article:author": "Chris Hodges",
+                            "twitter:image": "https://www.looper.com/img/gallery/the-history-of-pixars-a113-easter-egg-explained/l-intro-1676641604.jpg",
+                            "article:modified_time": "2023-02-20T01:16:01+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Pixar films are known for including references to A113, the CalArts classroom where many of its creators learned their skills, but there's more to the story",
+                            "og:url": "https://www.looper.com/1202939/the-history-of-pixars-a113-easter-egg-explained/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.looper.com/img/gallery/the-history-of-pixars-a113-easter-egg-explained/l-intro-1676641604.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n---------------------------------------------------------------------\n  !Dan Macmedan/Getty Images\nAmong the Pixar favorites who studied in room A113 at CalArts was Brad Bird, whose biggest contribution to the studio is being the writer and director of both \"Incredibles\" movies — not to mention voicing sassy fashion designer Edna Mode. While the A113 references in Pixar movies predate Bird's work with the studio, A113 references predate those in Pixar movies. In fact, according to , Bird was the originator of A113 as an Easter egg in the first place.\nThe first example of A113 being referenced on screen is during an episode of the anthology series \"Amazing Stories,\" which was created by Steven Spielberg and ran on NBC from 1985 to 1987. Bird co-wrote a Season 1 episode before returning in Season 2 with \"Family Dog\" — later spun off into its own short-lived series — which he wrote, directed, and voiced the titular canine. It was during that episode that A113 got its debut as an Easter egg when it was used as a license plate number, which remains one of its most common uses to this day.\nA113 is also referenced literally every time Bird tweets — it's part of his .\nIt made its movie debut in The Brave Little Toaster\n---------------------------------------------------\n  !Walt Disney Pictures\nBetween its journey from television to \"Toy Story,\" A113 had already had its big screen debut elsewhere. The code appeared on a door in the 1987 animated film \"The Brave Little Toaster,\" which might not be a Pixar movie but was worked on by several key figures who would soon play a major role in that studio. For starters, it was co-written by Joe Ranft, who has story and/or screenwriter credits on \"Toy Story,\" \"A Bug's Life,\" and \"Cars.\" It was also the first CGI film ever pitched by a certain John Lasseter, director of the first three Pixar films and executive producer on many others ().\n\"The Brave Little Toaster\" ended up being traditionally animated instead, with \"Toy Story\" eventually earning the distinction of the first fully computer-animated feature film. After Lasseter was fired following his CGI pitch for \"Toaster,\" he ended up being one of the founders of Pixar, and the rest is history. In many ways, \"The Brave Little Toaster\" wound up paving the way for Pixar's future — not to mention the fact that \"Toy Story\" borrowed the concept of inanimate objects that come to life in the absence of humans from \"Toaster.\" So the latter being the first movie to use A113 prior to it becoming a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Where To Find Every A113 Easter Egg In Pixar Movies",
+                "htmlTitle": "Where To Find Every <b>A113</b> Easter Egg In <b>Pixar</b> Movies",
+                "link": "https://screenrant.com/pixar-movies-a113-easter-egg-every/",
+                "displayLink": "screenrant.com",
+                "snippet": "Oct 1, 2023 ... The studio, which kicked off its massive success with the beloved film Toy Story, is known for its animated pieces that touch the hearts of ...",
+                "htmlSnippet": "Oct 1, 2023 <b>...</b> The studio, which kicked off its massive success with the beloved <b>film</b> Toy <b>Story</b>, is known for its <b>animated</b> pieces that touch the hearts of&nbsp;...",
+                "formattedUrl": "https://screenrant.com/pixar-movies-a113-easter-egg-every/",
+                "htmlFormattedUrl": "https://screenrant.com/<b>pixar</b>-movies-<b>a113</b>-easter-egg-every/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqXyxNRzMdTfBi2ShPSn-Cs73gJO5tvnbIA8h2l6MR5RKhGg7auigx3Zg&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/10/pixar-movies-a113-easter-egg-every.jpg",
+                            "og:type": "article",
+                            "og:image:width": "2000",
+                            "article:published_time": "2023-10-01T23:00:26Z",
+                            "article:section": "Movies",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Where To Find Every A113 Easter Egg In Pixar Movies",
+                            "og:site_name": "ScreenRant",
+                            "og:title": "Where To Find Every A113 Easter Egg In Pixar Movies",
+                            "og:image:height": "1000",
+                            "og:description": "The A113 Easter egg can be tricky to spot.",
+                            "article:author": "Aleena Malik",
+                            "article:publisher": "https://www.facebook.com/ScreenRant",
+                            "twitter:image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/10/pixar-movies-a113-easter-egg-every.jpg",
+                            "fb:app_id": "822150531210883",
+                            "twitter:site": "@screenrant",
+                            "article:modified_time": "2023-10-01T23:00:26Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The A113 Easter egg can be tricky to spot.",
+                            "og:locale": "en_US",
+                            "og:url": "https://screenrant.com/pixar-movies-a113-easter-egg-every/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/10/pixar-movies-a113-easter-egg-every.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Movies Submenu Movie Features Movie News Movie Reviews Movie Lists Movie Trailers",
+                            "url": "Movies"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "### Summary\n*   Pixar's A113 Easter egg tradition has been present in every single one of their films as a fun scavenger hunt for viewers to find.\n*   A113 serves as a reference to the classroom number where many Pixar employees studied at the California Institute of the Arts.\n*   The Easter egg can be spotted in various ways throughout each film, such as on license plates, in code on cereal boxes, or as room numbers, adding a playful touch to the movies.\n does many things exceptionally well, including how they carefully craft and hide Easter eggs such as \"A113\" throughout each one of their films. The studio, which kicked off its massive success with the beloved film _Toy Story_, is known for its animated pieces that touch the hearts of multiple generations. One way that they celebrate their accomplishments and their long history of impactful stories is through their innovative creation and inclusion of certain traditions that reference their history. Although ones, such as the John Ratzenberger cameo, have not been able to make their way into more recent movies, the A113 Easter egg has been present in every single Pixar film.\nA113 started as an inside joke of the animators at Pixar and has turned into a phenomenon that viewers have picked up on and look forward to. It serves as a reference to the classroom number that many Pixar employees studied at when attending the California Institute of the Arts. Not only has the joke made its way into , but also some non-Pixar projects as well. Some of these include _Lilo & Stitch_, _The Avengers_, and _Mission Impossible: Ghost Protocol_. Ultimately, the Easter egg has turned into a fun scavenger hunt for viewers, and here are the answers as to where to find A113 in every Pixar film.\n27 Toy Story\n------------\n!\nWith _Toy Story_ being Pixar's first-ever film, it's no surprise that several long-lasting traditions were established through it. Released in 1995, _Toy Story_ was the first movie to find a way to incorporate A113...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Online conspiracies link Pixar's use of the number A113 with ...",
+                "htmlTitle": "Online conspiracies link <b>Pixar&#39;s</b> use of the number <b>A113</b> with ...",
+                "link": "https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 18, 2023 ... Insider reported in February that references to the number A113 are in at least 23 Pixar movies, including its first studio film Toy Story (here) ...",
+                "htmlSnippet": "Jul 18, 2023 <b>...</b> Insider reported in February that references to the number <b>A113</b> are in at least 23 <b>Pixar</b> movies, including its first studio <b>film</b> Toy <b>Story</b> (here)&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../online-conspiracies-link-pixars-use-of-the-num...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../online-conspiracies-link-<b>pixar</b>s-use-of-the-num...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULOd4UaI2NRMEYgbkeiFOygqQAUuOPuwHNAkBG1Tz9IZx2Th3d8D4bn-V&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/?id=L1N3941LO",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-07-18T15:05:11.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Online conspiracies link Pixar’s use of the number A113 with adrenochrome | Reuters",
+                            "og:description": "The appearance of the number A113 in Pixar movies has been widely reported to be a reference to a classroom at the California Institute of the Arts, alma mater of many of the studio’s minds. Yet, some online link Pixar to the QAnon conspiracy theory by saying the number represents the chemical adrenochrome.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-07-18T15:00:10.000Z",
+                            "render_timestamp": "2024-08-03T08:33:47.476Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Online conspiracies link Pixar’s use of the number A113 with adrenochrome",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Online conspiracies link Pixar’s use of the number A113 with adrenochrome",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-07-18T15:05:11.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The appearance of the number A113 in Pixar movies has been widely reported to be a reference to a classroom at the California Institute of the Arts, alma mater of many of the studio’s minds. Yet, some online link Pixar to the QAnon conspiracy theory by saying the number represents the chemical adrenochrome.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Hidden Items in Brave - The Pixar Ball & A113 - Pixar Post",
+                "htmlTitle": "Hidden Items in Brave - The <b>Pixar</b> Ball &amp; <b>A113</b> - <b>Pixar</b> Post",
+                "link": "https://pixarpost.com/2012/11/hidden-items-in-brave-pixar-ball.html",
+                "displayLink": "pixarpost.com",
+                "snippet": "Nov 12, 2012 ... ... film from Pixar Animation Studios since 1995's “Toy Story.” Disney•Pixar's “Brave” is in theaters now. ©2012 Disney•Pixar. All Rights ...",
+                "htmlSnippet": "Nov 12, 2012 <b>...</b> ... <b>film</b> from <b>Pixar Animation</b> Studios since 1995&#39;s “Toy <b>Story</b>.” Disney•<b>Pixar&#39;s</b> “Brave” is in theaters now. ©2012 Disney•<b>Pixar</b>. All Rights&nbsp;...",
+                "formattedUrl": "https://pixarpost.com/2012/11/hidden-items-in-brave-pixar-ball.html",
+                "htmlFormattedUrl": "https://<b>pixar</b>post.com/2012/11/hidden-items-in-brave-<b>pixar</b>-ball.html",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "http://www.pixarpost.com/"
+                        },
+                        {
+                            "fn": "Chloe Taylor",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g"
+                        },
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "http://www.pixarpost.com/"
+                        },
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/13707270376503386596"
+                        },
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/13707270376503386596"
+                        },
+                        {
+                            "url_text": "Gray Catbird",
+                            "fn": "Gray Catbird",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/02876296289635949130"
+                        },
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/13707270376503386596"
+                        },
+                        {
+                            "url_text": "Pixar Post",
+                            "fn": "Pixar Post",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/13707270376503386596"
+                        },
+                        {
+                            "url_text": "Unknown",
+                            "fn": "Unknown",
+                            "nickname": "Unknown",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/16138959965130180399"
+                        },
+                        {
+                            "url_text": "William Jardine",
+                            "fn": "William Jardine",
+                            "photo": "https://secure.gravatar.com/avatar/?s=60&d=identicon&r=g",
+                            "url": "https://draft.blogger.com/profile/01914060460297464977"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1c8HLzN__g0-pMaaodF-JUHDwDI8-oYoFVRDrvtcApJyzVE-3CGLj0BPH&s",
+                            "width": "347",
+                            "height": "145"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i0.wp.com/pixarpost.com/wp-content/uploads/2012/11/Brave-Newt-Reference-Pixar-Post-Screencap.jpg?fit=1600%2C670&ssl=1",
+                            "article:published_time": "2012-11-13T07:33:00+00:00",
+                            "og:image:width": "1600",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Pixar Post",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://i0.wp.com/pixarpost.com/wp-content/uploads/2022/05/cropped-Pixar-Post-Site-Icon-Logo.jpg?fit=270%2C270&ssl=1",
+                            "og:description": "Although our previous post highlighted our (very) complete review of the Brave 5-disc Ultimate Collector Edition Blu Ray, we thought it would…",
+                            "twitter:creator": "@ThePixarPost",
+                            "article:publisher": "https://www.facebook.com/pixarpost/",
+                            "twitter:data1": "Pixar Post - T.J.",
+                            "twitter:data2": "6 minutes",
+                            "twitter:site": "@ThePixarPost",
+                            "article:modified_time": "2022-04-11T02:24:00+00:00",
+                            "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                            "og:type": "article",
+                            "author": "Pixar Post - T.J.",
+                            "og:title": "Hidden Items in Brave - The Pixar Ball & A113",
+                            "og:image:height": "670",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                            "og:url": "https://pixarpost.com/2012/11/hidden-items-in-brave-pixar-ball.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i0.wp.com/pixarpost.com/wp-content/uploads/2012/11/Brave-Newt-Reference-Pixar-Post-Screencap.jpg?fit=1600%2C670&ssl=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... it from a Pixarian themselves!\n!\n!\n!\n**4) Newt Reference –** Pixar’s , but many have speculated that this is a nod to the fallen film. It would make sense seeing as so many witches’ potions call for the eye of a newt (time code 00:35:06).\n!\n**5) Reference to Sulley from Monsters, Inc. / Monsters University –** We can’t claim to have found the additional items in the Blu Ray as they were officially released via Disney•Pixar previously (time code 00:33:06).\nWhat we can say though is that we noticed a similar image when reviewing the Blu Ray Extras disc 2 – check out this much clearer image of Sulley.\n!\nNO MONSTERS IN THE CLOSET – A carving of Sulley, the lovable blue monster slated to return to the big screen in 2013’s “Monsters University,” appears on a piece of wood in the home of the Witch, an eccentric crone and woodcarver in Disney•Pixar’s epic action adventure “Brave,” in theaters now.©2012 Disney•Pixar. All Rights Reserved.\n!\n**6) Pizza Planet Truck –** Time code 00:33:10\n!\nANCIENT DELIVERY – The Witch, an eccentric crone disguised as a woodcarver specializing in whittling wooden bear figurines and conjuring haphazard spells, showcases her mysterious and inexplicable knowledge of the future with a carved figurine of the infamous Pizza Planet truck, an iconic delivery vehicle that’s appeared in nearly every full-length feature film from Pixar Animation Studios since 1995’s “Toy Story.” Disney•Pixar’s “Brave” is in theaters now. ©2012 Disney•Pixar. All Rights Reserved.\n*   \n*   \n*   \n*   \n*   \nByPixar Post - T.J.]\nUpdated on April 10, 2022\n*   \n*   \nRead Next\n---------\n!\nBy\nNovember 20, 2012\n### \n*   \n!\nBy\nNovember 26, 2012\n### \n*   \n!\nBy\nNovember 27, 2012\n### \n*   \n!\nBy\nDecember 3, 2012\n### \n*   \n1.  ! **** says:\n    Hey Chloe – yeah, it is a tough one for sure. We've asked for clarification but haven't heard back – if we end...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "A113 | Disney Wiki | Fandom",
+                "htmlTitle": "<b>A113</b> | Disney Wiki | Fandom",
+                "link": "https://disney.fandom.com/wiki/A113",
+                "displayLink": "disney.fandom.com",
+                "snippet": "A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the California Institute of the Arts. Many of its alumni ...",
+                "htmlSnippet": "<b>A113</b> (pronounced A-One-Thirteen) is the classroom number used by character <b>animation</b> students at the California Institute of the Arts. Many of its alumni&nbsp;...",
+                "formattedUrl": "https://disney.fandom.com/wiki/A113",
+                "htmlFormattedUrl": "https://disney.fandom.com/wiki/<b>A113</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypa8XpVhfeeBoaOK4HS-DVSaKPTfAP7NBWSeJQxRpuvOFM_Nuq6tFhIT7&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.wikia.nocookie.net/disney/images/6/63/A113pixar.jpg/revision/latest?cb=20121012145151",
+                            "theme-color": "#eaecf0",
+                            "twitter:card": "summary",
+                            "twitter:title": "A113 | Disney Wiki | Fandom",
+                            "og:type": "article",
+                            "og:site_name": "Disney Wiki",
+                            "twitter:url": "https://disney.fandom.com/wiki/A113",
+                            "og:title": "A113",
+                            "og:description": "A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the California Institute of the Arts. Many of its alumni (including Pixar staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every Pixar film. In addition to Pixar films, this running gag also appeared in other Disney-distributed films, such as The Brave Little Toaster, Lilo & Stitch, and The Avengers, and even some non-Disney films, such as R",
+                            "fb:app_id": "112328095453510",
+                            "twitter:site": "@getfandom",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "twitter:description": "A113 (pronounced A-One-Thirteen) is the classroom number used by character animation students at the California Institute of the Arts. Many of its alumni (including Pixar staff) have used the...",
+                            "og:url": "https://disney.fandom.com/wiki/A113",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT02M59S",
+                            "contenturl": "https://cdn.jwplayer.com/videos/ve6O0DTy-cSpmBcaY.mp4",
+                            "uploaddate": "2024-07-12T14:06:28+00:00",
+                            "name": "FanPulse: New Elden Ring DLC",
+                            "thumbnailurl": "https://cdn.jwplayer.com/v2/media/ve6O0DTy/poster.jpg?width=720"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.wikia.nocookie.net/disney/images/6/63/A113pixar.jpg/revision/latest?cb=20121012145151"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\nSome locations of the number A113.\n**A113** (pronounced **A-One-Thirteen**) is the classroom number used by character animation students at the . Many of its alumni (including  staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every Pixar film. In addition to Pixar films, this running gag also appeared in other \\-distributed films, such as __, __, and _ \"The Avengers (film)\")_, and even some non-Disney films, such as __, __, etc.\nAppearances\n-----------\n### Pixar films/shorts\n]\nChatter Phone Tipline A113\n shows us most of A113's appearances.\n*   __ - License plate number on ' .\n*   __ - Code on a cereal box as  enters  (the number on the other side of the hyphen is 1195, likely representing November ; the month and year that _Toy Story_ was released). Also, \"Vitamin A113\" appears on the Nutrition Facts for the  Cookies box that makes up 's .\n*   __ - Again on Mrs. Davis' license plate. Also, the  announcer says, \"LassetAir flight A113 from Point Richmond now arriving at Gate 3,\"] a notable reference to director .\n*   __ - When  and  are watching the news, the yellow newsc...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,699 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - neo-Nazi militia members Trump event June 2023",
+                "totalResults": "28800",
+                "searchTerms": "neo-Nazi militia members Trump event June 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - neo-Nazi militia members Trump event June 2023",
+                "totalResults": "28800",
+                "searchTerms": "neo-Nazi militia members Trump event June 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.403064,
+        "formattedSearchTime": "0.40",
+        "totalResults": "28800",
+        "formattedTotalResults": "28,800"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "The Escalating Terrorism Problem in the United States",
+                "htmlTitle": "The Escalating Terrorism Problem in the United States",
+                "link": "https://www.csis.org/analysis/escalating-terrorism-problem-united-states",
+                "displayLink": "www.csis.org",
+                "snippet": "Jun 17, 2020 ... Around the same time, members of a Brooklyn anarchist group urged its supporters to conduct “rebellion” against the government.2 Extremists from ...",
+                "htmlSnippet": "Jun 17, 2020 <b>...</b> Around the same time, <b>members</b> of a Brooklyn anarchist group urged its supporters to conduct “rebellion” against the government.<sup>2</sup> Extremists from&nbsp;...",
+                "formattedUrl": "https://www.csis.org/analysis/escalating-terrorism-problem-united-states",
+                "htmlFormattedUrl": "https://www.csis.org/analysis/escalating-terrorism-problem-united-states",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQmeuCCe2x2ZI_rHbwg3_NgQFF2klcrpY1B5hiNy4kVgXHN3Evtw9_dk&s",
+                            "width": "301",
+                            "height": "167"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Wed, 06/17/2020 - 12:00",
+                            "og:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/200417_TNT2.jpg",
+                            "citation_title": "The Escalating Terrorism Problem in the United States",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The Escalating Terrorism Problem in the United States | CSIS",
+                            "handheldfriendly": "true",
+                            "og:title": "The Escalating Terrorism Problem in the United States",
+                            "citation_author": "Seth G. Jones",
+                            "og:description": "The United States faces a growing terrorism problem that will likely worsen in the next year, particularly around the 2020 presidential election. The most significant threat likely comes from white supremacists, though anarchists and religious extremists could also pose a threat.",
+                            "twitter:image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/200417_TNT2.jpg",
+                            "twitter:site": "@CSIS",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The United States faces a growing terrorism problem that will likely worsen in the next year, particularly around the 2020 presidential election. The most significant threat likely comes from white supremacists, though anarchists and religious extremists could also pose a threat.",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/publication/200417_TNT2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "#### **THE ISSUE**\n_The United States faces a growing terrorism problem that will likely worsen over the next year. Based on a CSIS data set of terrorist incidents, the most significant threat likely comes from white supremacists, though anarchists and religious extremists inspired by the Islamic State and al-Qaeda could present a potential threat as well. Over the rest of 2020, the terrorist threat in the United States will likely rise based on several factors, including the November 2020 presidential election._\n* * *\nOn June 3, 2020, federal authorities arrested three individuals allegedly associated with the “boogaloo” movement, a loosely-organized group of extremists preparing for a civil war, for conspiring to cause violence in Las Vegas and possessing an improvised incendiary device.1 Less than a week later, law enforcement officials near Richmond, VA, arrested Harry H. Rogers, a member of the Ku Klux Klan, for driving a vehicle into peaceful protesters. Around the same time, members of a Brooklyn anarchist group urged its supporters to conduct “rebellion” against the government.2 Extremists from all sides flooded social media with disinformation, conspiracy theories, and incitements to violence in response to the protests following the death of George Floyd, swamping Twitter, YouTube, Facebook, and other platforms.3\nThis CSIS brief examines the state of terrorism in the United States. It asks two sets of questions. First, what are the most significant types of terrorism in the United States, and how has the terrorism threat in the U.S. homeland evolved over time? Second, what are the implications for terrorism over the next year? To answer these questions, this analysis compiles and analyzes an original data set of 893 terrorist plots and attacks in the United States between January 1994 and May 2020.\nThis analysis makes several arguments. First, far-right terrorism has significantly outpaced terrorism from other types of perpetrators, including from far-left networks and individuals inspired by the Islamic State and al-Qaeda. Right-wing attacks and plots account for the majority of all terrorist incidents in the United States since 1994, and the total number of right-wing attacks and plots has grown significantly during the past six years. Right-wing extremists perpetrated two thirds of the attacks and plots in the United States in 2019 and over 90 percent between January 1 and May 8, 2020. Second, terrorism in the United States will likely increase over the next year in response to several factors. One of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Riding the Tide: The Shifting Identity of the Proud Boys Since the ...",
+                "htmlTitle": "Riding the Tide: The Shifting Identity of the Proud Boys Since the ...",
+                "link": "https://acleddata.com/2023/12/14/riding-the-tide-the-shifting-proud-boys-identity-since-the-capitol-riot/",
+                "displayLink": "acleddata.com",
+                "snippet": "Dec 14, 2023 ... During the first 11 months of 2023, engagement in anti-LGBTQ+ events accounted for roughly 73% of all demonstrations involving the Proud Boys, ...",
+                "htmlSnippet": "Dec 14, 2023 <b>...</b> During the first 11 months of <b>2023</b>, engagement in anti-LGBTQ+ events accounted for roughly 73% of all demonstrations involving the Proud Boys,&nbsp;...",
+                "formattedUrl": "https://acleddata.com/2023/.../riding-the-tide-the-shifting-proud-boys-identi...",
+                "htmlFormattedUrl": "https://acleddata.com/<b>2023</b>/.../riding-the-tide-the-shifting-proud-boys-identi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn9jPz79oxSirXNchSu50n25jFckl8fJTgP4QpfpeGuasBTzxWN0HI8CDP&s",
+                            "width": "251",
+                            "height": "201"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://acleddata.com/acleddatanew/wp-content/uploads/2023/12/Map_2023-1-1.png",
+                            "theme-color": "#004f6d",
+                            "og:type": "article",
+                            "article:published_time": "2023-12-14T09:14:23+00:00",
+                            "og:image:width": "1000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ACLED",
+                            "tec-api-origin": "https://acleddata.com",
+                            "author": "Kieran Doyle, Bianca Ho, Daniel Hershfield",
+                            "og:title": "Riding the Tide: The Shifting Identity of the Proud Boys Since the Capitol Riot",
+                            "og:image:height": "800",
+                            "og:image:type": "image/png",
+                            "og:description": "In this update to our 2021 actor profile on the Proud Boys, we analyze ACLED data on key developments in the Proud Boy’s activity from 2021 through 2023, identifying new drivers of mobilization across the country.",
+                            "dlm-version": "4.9.14",
+                            "article:modified_time": "2024-01-09T09:26:02+00:00",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                            "og:locale": "en_US",
+                            "og:url": "https://acleddata.com/2023/12/14/riding-the-tide-the-shifting-proud-boys-identity-since-the-capitol-riot/",
+                            "tec-api-version": "v1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://acleddata.com/acleddatanew/wp-content/uploads/2023/12/Map_2023-1-1.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... focus on multiple occasions, largely depending on fluctuations in the issues that appeared to hold more sway in far-right circles at a given time (_see graph below_). In 2020, the final year of Donald Trump’s presidency, events in which Proud Boys showed support for Trump, for instance by demonstrating in favor of him or by attacking anti-Trump demonstrators, constituted more than half of all Proud Boys activity. Although demonstrations supporting former President Trump’s unsubstantiated claims of voter fraud continued after he left office, this figure subsided in 2021 as new issues began to dominate the far-right scene. By 2022, while the group remained roughly as active as in prior years, pro-Trump events had declined to just over 12% of the group’s activity.\n!(blob:https://acleddata.com/e0c46ac6a432826aa7e925a4d2a85c7c)\nSimilarly, the Proud Boys rarely mobilized around the issue of abortion prior to a sudden spike in spring 2022. In the three months following the May 2022 leak of the Supreme Court’s decision to strike down Roe v. Wade, the group participated in roughly the same number of abortion-related demonstrations as it had in the previous two years combined. The surge in abortion-related activity quickly fell off shortly thereafter: ultimately, the Proud Boys took part in more anti-abortion demonstrations in the first two months after the decision was leaked than in all the months since combined.\nMore recently, coinciding with a wave of anti-LGBTQ+ legislation introduced across the country,6 the Proud Boys have shifted their efforts to anti-LGBTQ+ mobilization. During the first 11 months of 2023, engagement in anti-LGBTQ+ events accounted for roughly 73% of all demonstrations involving the Proud Boys, compared to 42% in 2022, which had also seen a significant increase from just 8% in 2021. This shows a dramatic evolution in the group’s focus: in 2020, anti-LGBTQ+ demonstrations represented a tiny fraction of the Proud Boys’ participation in events, at less than 1% of their total demonstration activity.\nOpportunistic Collaboration with Other Far-Right Groups\n-------------------------------------------------------\nRelationships between the Proud Boys and other far-right groups have evolved as they ride the wave of far-right political trends. The Proud Boys have appeared alongside a variety of different actors during rallies, largely depending on which groups have interests that converge with their own. Christian activists and Republican Party officials are among the most frequent actors to join events involving the Proud Boys, with their presence being reported in 12% and 10% of total recorded events, respectively. Not...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Unite the Right rally - Wikipedia",
+                "htmlTitle": "Unite the Right <b>rally</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "The Unite the Right rally was a white supremacist rally that took place in Charlottesville, Virginia, from August 11 to 12, 2017. Marchers included members ...",
+                "htmlSnippet": "The Unite the Right rally was a white supremacist rally that took place in Charlottesville, Virginia, from August 11 to 12, 2017. Marchers included <b>members</b>&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Unite_the_Right_rally",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg/1200px-Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_crop.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Unite the Right rally - Wikipedia",
+                            "og:image:height": "739",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Up for Racial Justice\nUnaffiliated counter-protesters\nProtesters\nNationalist Front\nLeague of the South\nIdentity Dixie\nTraditionalist Worker Party\nVanguard America\nNational Socialist Movement\nKu Klux Klan (Loyal White Knights of the Ku Klux Klan and Confederate White Knights of the Ku Klux Klan)\nThe Daily Stormer DezNat#\nThe Right Stuff\nFraternal Order of Alt-Knights\nIdentity Evropa\nRise Above Movement\nAmerican Guard\nDetroit Right Wings\nTrue Cascadia\nAlt-Right Montreal\nHammer Brothers\nAnti-Communist Action\nAmerican militia movement\nPennsylvania Light Foot Militia\nNew York Light Foot Militia\nVirginia Minutemen Militia\n3 Percenters\nGovernment of Virginia\nVirginia State Police\nLead figures\nDecentralized\nRichard B. Spencer\nJason Kessler\nTerry McAuliffe\nCasualties and losses\n1 killed, 35 injured in car ramming\n14+ injured in other clashes\nUnknown\n2 state troopers died in an accidental helicopter crash\nPart of a series on\nNeo-fascism\nshow\nCore ideas\nshow\nVarieties\nshow\nOrigins\nshow\nMovements, organizations, and parties\nshow\nPeople\nshow\nHistory\nshow\nRelated topics\nshow\nOpposition\n Politics portal\nvte\nPart of a series on\nAntisemitism\nPart of Jewish history and discrimination\nHistoryTimelineReference\nshow\nDefinitions\nshow\nGeography\nshow\nManifestations\nshow\nAntisemitic tropes\nshow\nAntisemitic publications\nshow\nAntisemitism on the Internet\nshow\nProminent figures\nshow\nPersecution\nshow\nOpposition\n Category\nvte\nThe Unite the Right rally was a white supremacist rally that took place in Charlottesville, Virginia, from August 11 to 12, 2017. Marchers included members of the alt-right, neo-Confederates, neo-fascists, white nationalists, neo-Nazis, Klansmen, and far-right militias. Some groups chanted racist and antisemitic slogans and carried weapons, Nazi and neo-Nazi symbols, the Valknut, Confederate battle flags, Deus vult crosses, flags, and other symbols of various past and present antisemitic and anti-Islamic groups. The organizers' stated goals included the unification of the American white nationalist movement and opposing the proposed removal of the statue of General Robert E. Lee from Charlottesville's former Lee Park. The rally...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+                "htmlTitle": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+                "link": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                "displayLink": "www.brennancenter.org",
+                "snippet": "Aug 27, 2020 ... The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on ...",
+                "htmlSnippet": "Aug 27, 2020 <b>...</b> The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government <b>militia</b> groups can inflict on&nbsp;...",
+                "formattedUrl": "https://www.brennancenter.org/.../hidden-plain-sight-racism-white-suprema...",
+                "htmlFormattedUrl": "https://www.brennancenter.org/.../hidden-plain-sight-racism-white-suprema...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KxdN-CrtmWGfnT-Uz1hDq0_7XtU1jPfCnNxXSJ1mPCtBuXkxMAHoHGV6&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Thu, 08/27/2020 - 16:39",
+                            "og:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "parent": "library",
+                            "msapplication-config": "/themes/custom/paladin/patternlab/public/favicons/browserconfig.xml",
+                            "citation_title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Brennan Center for Justice",
+                            "twitter:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "twitter:image:height": "525",
+                            "nid": "8589",
+                            "type": "research_report",
+                            "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:description": "The government’s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "twitter:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "path": "/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "langcode": "en",
+                            "twitter:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:image:width": "1050",
+                            "summary": "The government’s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "msapplication-tilecolor": "#ffffff",
+                            "type_friendly": "Research Report",
+                            "image": "https://www.brennancenter.org/sites/default/files/styles/search_wide/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg.webp?itok=d3xmiw1b",
+                            "og:type": "text",
+                            "og:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:image:url": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "handheldfriendly": "true",
+                            "author_friendly": "Michael German",
+                            "author": "136",
+                            "og:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "citation_author": "Michael German",
+                            "image_alt": "White Supremacist Infiltration of Law Enforcement",
+                            "sort_date": "2020-08-27T00:00:00-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "publish_date": "2020-08-27T16:39:17-0400"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... racism in law enforcement takes many forms, from membership or affiliation with violent white supremacist or far-right militant groups, to engaging in racially discriminatory behavior toward the public or law enforcement colleagues, to making racist remarks and sharing them on social media. While it is widely acknowledged that racist officers subsist within police departments around the country, federal, state, and local governments are doing far too little to proactively identify them, report their behavior to prosecutors who might unwittingly rely on their testimony in criminal cases, or protect the diverse communities they are sworn to serve.\nEfforts to address systemic and implicit biases in law enforcement are unlikely to be effective in reducing the racial disparities in the criminal justice system as long as explicit racism in law enforcement continues to endure. There is ample evidence to demonstrate that it does.\nIn 2017, the FBI reported that white supremacists posed a “persistent threat of lethal violence” that has produced more fatalities than any other category of domestic terrorists since 2000. Federal Bureau of Investigation and Department of Homeland Security, Joint Intelligence Bulletin, _White Supremacist Extremism Poses Persistent Threat of Lethal Violence_, May 10, 2017,  Alarmingly, internal FBI policy documents have also warned agents assigned to domestic terrorism cases that the white supremacist and anti-government militia groups they investigate often have “active links” to law enforcement officials. Federal Bureau of Investigation, Counterterrorism Division, _Counterterrorism Policy Directive and Policy Guide_, April 1, 2015 (updated November 18, 2015), 89, .\nThe harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on American society could hardly be overstated. Yet despite the FBI’s acknowledgement of the links between law enforcement and these suspected terrorist groups, the Justice Department has no national strategy designed to identify white supremacist police officers or to protect the safety and civil rights of the communities they patrol.\nObviously, only a tiny percentage of law enforcement officials are likely to be active members of white supremacist groups. But one doesn’t need access to secretive intelligence gathered in FBI terrorism investigations to find evidence of overt and explicit racism within law enforcement. Since 2000, law enforcement officials with alleged connections to white supremacist groups or far-right militant activities have been exposed in Alabama, California, Connecticut, Florida, Illinois, Louisiana, Michigan, Nebraska, Oklahoma, Oregon, Texas, Virginia, Washington, West Virginia, and elsewhere. Becky Bratu, “Two Alabama Officers Put on Leave for Alleged Ties to ‘Hate Group,’” NBC News, June 17, 2015, ; Michael Winter,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Federal Bureau of Investigation Department of Homeland Security ...",
+                "htmlTitle": "Federal Bureau of Investigation Department of Homeland Security ...",
+                "link": "https://www.fbi.gov/file-repository/fbi-dhs-domestic-terrorism-strategic-report.pdf",
+                "displayLink": "www.fbi.gov",
+                "snippet": "force or violence in furtherance of an anti-government or anti-authority violent extremist ideology that considers capitalism and centralized government to be ...",
+                "htmlSnippet": "force or violence in furtherance of an anti-government or anti-authority violent extremist ideology that considers capitalism and centralized government to be&nbsp;...",
+                "formattedUrl": "https://www.fbi.gov/file.../fbi-dhs-domestic-terrorism-strategic-report.pdf",
+                "htmlFormattedUrl": "https://www.fbi.gov/file.../fbi-dhs-domestic-terrorism-strategic-report.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0c7FsCeGkKBLwp_SzxSdkojzSzELP0a8S_40xtboM-cOeEhRJqfxTUP-&s",
+                            "width": "231",
+                            "height": "218"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20210514154406-04'00'",
+                            "creationdate": "D:20210514154406-04'00'"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///1d011fa44379343e23eaf785d96d98960912d9fff88610b5aac40badcc3ed49a"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "Error fetching https://www.fbi.gov/file-repository/fbi-dhs-domestic-terrorism-strategic-report.pdf: 422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://www.fbi.gov/file-repository/fbi-dhs-domestic-terrorism-strategic-report.pdf",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "2017: The Year in Hate and Extremism | Southern Poverty Law Center",
+                "htmlTitle": "2017: The Year in Hate and Extremism | Southern Poverty Law Center",
+                "link": "https://www.splcenter.org/fighting-hate/intelligence-report/2018/2017-year-hate-and-extremism",
+                "displayLink": "www.splcenter.org",
+                "snippet": "Feb 11, 2018 ... If 2016 was the year of white supremacists being electrified by the rise of Donald Trump, his inauguration in January sent them into a frenzy.",
+                "htmlSnippet": "Feb 11, 2018 <b>...</b> If 2016 was the year of white supremacists being electrified by the rise of Donald <b>Trump</b>, his inauguration in January sent them into a frenzy.",
+                "formattedUrl": "https://www.splcenter.org/fighting-hate/.../2017-year-hate-and-extremism",
+                "htmlFormattedUrl": "https://www.splcenter.org/fighting-hate/.../2017-year-hate-and-extremism",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1tvyZT4J1FIDztWf1tz9GfOTPZBdHNr6pkJN_dCzYZOUnd9riFFyJQiD&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://www.splcenter.org/sites/default/files/ir164_yih_hero.png",
+                            "msapplication-config": "/profiles/splc/themes/custom/splc/favicons/browserconfig.xml",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "2017: The Year in Hate and Extremism",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Southern Poverty Law Center",
+                            "twitter:url": "https://www.splcenter.org/fighting-hate/intelligence-report/2018/2017-year-hate-and-extremism",
+                            "og:title": "2017: The Year in Hate and Extremism",
+                            "og:description": "The radical right started the year on a roll, with allies in the White House. But then came Charlottesville, and the movement was knocked back on its heels. Still, Trump's rhetoric and the country's changing demographics continue to buoy the movement.",
+                            "twitter:creator": "@splcenter",
+                            "twitter:image": "https://www.splcenter.org/sites/default/files/ir164_yih_hero.png",
+                            "twitter:creator:id": "65698096",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "The radical right started the year on a roll, with allies in the White House. But then came Charlottesville, and the movement was knocked back on its heels. Still, Trump's rhetoric and the country's",
+                            "og:url": "https://www.splcenter.org/fighting-hate/intelligence-report/2018/2017-year-hate-and-extremism"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.splcenter.org/sites/default/files/ir164_yih_hero.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n### In this article\nThe radical right started the year on a roll, with allies in the White House. But then came Charlottesville, and the movement was knocked back on its heels. Still, Trump's rhetoric and the country's changing demographics continue to buoy the movement.\nIf 2016 was the year of white supremacists being electrified by the rise of Donald Trump, his inauguration in January sent them into a frenzy. They believed they finally had a sympathizer in the White House and an administration that would enact policies to match their anti-immigrant, anti-Muslim and racist ideas.\nThroughout the year, Trump thrilled and comforted them with his apparent kinship and pugilistic style, his refusal to condemn hate crimes committed in his name and his outrageous statements equating neo-Nazis and anti-racist activists after the deadly violence in Charlottesville.\nTrump’s brand of nationalism wasn’t just a U.S. phenomenon. Far-right populist movements were on a global tear, first with Brexit in 2016 and then with nationalist parties seeing hefty gains in political power across Europe.\n----------------------------------------\n!\nPresident Trump shows his signature on the controversial travel ban in January 2017. The ban initially sought to block visitors to the United States from Iran, Iraq, Libyia, Somalia, Sudan, Syria and Yemen, for 90 days.\nPolls made it clear that certain voters, particularly those uncomfortable with immigration and the demographic change that comes with it, supported Trump because of his racist views, even when they were not suffering from economic anxiety. This core of hard-right voters threw its support behind political candidates like the overtly pro-Confederate Corey Stewart, who nearly...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "How White Supremacy Returned to Mainstream Politics - Center for ...",
+                "htmlTitle": "How White Supremacy Returned to Mainstream Politics - Center for ...",
+                "link": "https://www.americanprogress.org/article/white-supremacy-returned-mainstream-politics/",
+                "displayLink": "www.americanprogress.org",
+                "snippet": "Jul 1, 2020 ... Others have swapped their dog whistles for louder noisemakers; President Trump is perhaps the most notable example of a politician who uses this ...",
+                "htmlSnippet": "Jul 1, 2020 <b>...</b> Others have swapped their dog whistles for louder noisemakers; President <b>Trump</b> is perhaps the most notable example of a politician who uses this&nbsp;...",
+                "formattedUrl": "https://www.americanprogress.org/.../white-supremacy-returned-mainstrea...",
+                "htmlFormattedUrl": "https://www.americanprogress.org/.../white-supremacy-returned-mainstrea...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdwF1isdmWxjb7l7ehkKWLtTZWhf54msfI_ZbkkAODKI7NMvmnpVjhQOk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "document": [
+                        {
+                            "website": "Center for American Progress",
+                            "post_id": "46101",
+                            "issue": "Advancing Racial Equity and Justice",
+                            "post_date": "07/01/2020",
+                            "author": "Simon Clark",
+                            "topics": "Anti-Hate;Europe;Foreign Policy;White Supremacy",
+                            "last_update": "06/05/2023",
+                            "description": "This report provides a guide to identifying and calling out the white nationalist ideas that are infiltrating U.S. political discourse.",
+                            "type": "Report",
+                            "title": "How White Supremacy Returned to Mainstream Politics",
+                            "department": "National Security and International Policy",
+                            "slug": "white-supremacy-returned-mainstream-politics"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://www.americanprogress.org/wp-content/uploads/sites/2/2020/03/GettyImages-830617780crop.jpg",
+                            "msapplication-config": "https://www.americanprogress.org/wp-content/themes/cap2021/assets/favicons/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1040",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Center for American Progress",
+                            "og:title": "How White Supremacy Returned to Mainstream Politics",
+                            "og:image:height": "693",
+                            "parsely-author": "Simon Clark",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "This report provides a guide to identifying and calling out the white nationalist ideas that are infiltrating U.S. political discourse.",
+                            "parsely-tags": "Issue: Advancing Racial Equity and Justice,Topic: Anti-Hate,Topic: Europe,Topic: Foreign Policy,Topic: White Supremacy,Post Type: article,Department: National Security and International Policy,Article Type: Report",
+                            "article:modified_time": "2023-06-05T13:44:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                            "og:locale": "en_US",
+                            "parsely-section": "article",
+                            "og:url": "https://www.americanprogress.org/article/white-supremacy-returned-mainstream-politics/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.americanprogress.org/wp-content/uploads/sites/2/2020/03/GettyImages-830617780crop.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... white nationalist as someone who interacts with information outlets primarily serving the white nationalist movement, is friends with other white nationalists, attends white nationalist events, and supports the cause financially and politically.6 Black explains that white nationalist ideas are totems that white nationalists use to show that they belong in the movement. Members spend a great deal of time defining and arguing about these terms as well as spreading them into mainstream society by trying to insert them into mass media.\nBlack is pointing to a central tactic in the political strategy of white nationalists and white supremacists. They understand that their cause is not widely popular and that they are losing the battles of ideas and demography. This reality pushes them to try to smuggle their ideas into mainstream dialogue by exploiting so-called fellow travelers and political opportunists. Recently, the movement has had notable success, particularly among American and European politicians who are exploiting fear for electoral ends. Matteo Salvini, the federal secretary of the Italian Northern League party and former deputy prime minister, called for closing the nation’s borders against the dangers of an Islamic invasion7; Victor Orbán aims to “keep Hungary as Hungary” by building a fence to keep immigrants out8 while persecuting the minority Roma community9; and Stephen Miller designs intentionally cruel immigration policies, which a court found risked substantial harm or death to those caught up in them.10 In these, and sadly too many other cases, the fear and hatred of others, be they of a different race, religion, or ethnicity, leads directly to cruel, xenophobic policies.\nMost politicians know that being directly associated with white nationalism harms their reputation, so they use dog whistles, or euphemisms, to appeal to white nationalist supporters without alienating more moderate ones. Others have swapped their dog whistles for louder noisemakers; President Trump is perhaps the most notable example of a politician who uses this overt approach. By unpacking the core elements of white supremacist ideas, this report considers how these notions have spread into political conversation in the United States—and how some politicians have made this possible.\n#### Racist rhetoric fueling dangerous ideologies and behavior\nFrench author and far-right activist Renaud Camus coined the phrase “le grand remplacement” in a 2011 book11 to argue that Muslim immigration to France was a form of genocide against the country’s native population that required drastic action in response. This concept is not new. It echoes the ideas of early 20th-century American eugenicists Madison Grant and Lothrop Stoddard, whose work F. Scott Fitzgerald lampooned in _The Great Gatsby_. The packaging is different, but...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The Proud Boys are back: How the far-right group is rebuilding",
+                "htmlTitle": "The Proud Boys are back: How the far-right group is rebuilding",
+                "link": "https://www.reuters.com/investigates/special-report/usa-election-proudboys/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jun 3, 2024 ... The Proud Boys are re-emerging as unofficial protectors of ex-President Donald Trump, hoping he'll pardon members jailed in the Capitol riot ...",
+                "htmlSnippet": "Jun 3, 2024 <b>...</b> The Proud Boys are re-emerging as unofficial protectors of ex-President Donald <b>Trump</b>, hoping he&#39;ll pardon <b>members</b> jailed in the Capitol riot&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/investigates/special-report/usa-election-proudboys/",
+                "htmlFormattedUrl": "https://www.reuters.com/investigates/special-report/usa-election-proudboys/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc-f1236APX7BuUeVjw_UES8MNsSoMRJKBzxygoEVGhmb4R-2kR16_W91v&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/trump-sale.jpg?v=071923040624",
+                            "caption": "The Proud Boys are becoming more prominent at former President Donald Trump’s events, such as at this May 11 rally in Wildwood, New Jersey. REUTERS/Jim Urquhart"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mcinnes.jpg?v=071923040624",
+                            "caption": "Among the most influential figures over the Proud Boys is its Canadian founder, Gavin McInnes, shown on stage with members of the Proud Boys organization at a 2018 “Night for Freedom” event..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/ok.jpg?v=071923040624",
+                            "caption": "Members of the Proud Boys make ’OK’ hand gestures that are associated with white supremacy during a protest in Washington against the 2020 election results. REUTERS/Jim Urquhart"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/oregon.jpg?v=071923040624",
+                            "caption": "A Proud Boy gestures in front of the Oregon State Capitol during a 2022 protest in support of the January 6th attack on the U.S. Capitol. REUTERS/John Rudoff"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/trump-rally.jpg?v=071923040624",
+                            "caption": "Proud Boys protest in Washington against the results of the 2020 presidential election. November 14, 2020. REUTERS/Hannah McKay"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/gun.jpg?v=071923040624",
+                            "caption": "A Proud Boy carries a gun during a gathering at a local park to remember a man who was shot dead in Portland, Oregon, after street clashes between Trump supporters and counter-demonstrators...."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/tearaway.jpg?v=071923040624",
+                            "caption": "In the 2023 trial of Proud Boys convicted of seditious conspiracy, federal prosecutors produced evidence of a recruiting manual detailing steps required for initiates to be promoted to the..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/capitol.jpg?v=071923040624",
+                            "caption": "Federal prosecutors and a U.S. congressional investigation have both named the Proud Boys as crucial plotters and leaders of the Jan. 6, 2021, attack on the U.S. Capitol. REUTERS/Leah Millis"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/clash.jpg?v=071923040624",
+                            "caption": "The Proud Boys troll liberals and promote street violence against left-wing activists. In this photo, members of the Proud Boys clash with counter-protesters during rival rallies in Portland,..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/trump-shirt.jpg?v=071923040624",
+                            "caption": "A Proud Boy displays a T-shirt depicting Trump at a May 11 campaign rally for the former president in Wildwood, New Jersey. REUTERS/Jim Urquhart"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/tarrio.jpg?v=071923040624",
+                            "caption": "Former Proud Boy leader Enrique Tarrio (center) rallies in Washington, D.C., on Nov. 14, 2020, in support of Trump. Tarrio is now held at a medium-security federal prison in Kentucky. REUTERS/Hanna..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/riot.jpg?v=071923040624",
+                            "caption": "Trump said in March that if he wins the election, one of his first acts would be to “free” those convicted of crimes related to the U.S. Capitol siege of Jan. 6, 2021. In this photo from..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/pb-up.jpg?v=071923040624",
+                            "caption": "A Proud Boy looks on before a May 11 campaign rally for former President Trump in Wildwood, New Jersey. REUTERS/Jim Urquhart"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/trump-sale.jpg?v=071923040624",
+                            "caption": "The Proud Boys are becoming more prominent at former President Donald Trump’s events, such as at this May 11 rally in Wildwood, New Jersey. REUTERS/Jim Urquhart 1 / 8"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mcinnes.jpg?v=071923040624",
+                            "caption": "Among the most influential figures over the Proud Boys is its Canadian founder, Gavin McInnes, shown on stage with members of the Proud Boys organization at a 2018 “Night for Freedom” event..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/capitol.jpg?v=071923040624",
+                            "caption": "Federal prosecutors and a U.S. congressional investigation have both named the Proud Boys as crucial plotters and leaders of the Jan. 6, 2021, attack on the U.S. Capitol. REUTERS/Leah Millis3 / 8"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/clash.jpg?v=071923040624",
+                            "caption": "The Proud Boys troll liberals and promote street violence against left-wing activists. In this photo, members of the Proud Boys clash with counter-protesters during rival rallies in Portland,..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/trump-shirt.jpg?v=071923040624",
+                            "caption": "A Proud Boy displays a T-shirt depicting Trump at a May 11 campaign rally for the former president in Wildwood, New Jersey. REUTERS/Jim Urquhart5 / 8"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/tarrio.jpg?v=071923040624",
+                            "caption": "Former Proud Boy leader Enrique Tarrio (center) rallies in Washington, D.C., on Nov. 14, 2020, in support of Trump. Tarrio is now held at a medium-security federal prison in Kentucky. REUTERS/Hanna..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/riot.jpg?v=071923040624",
+                            "caption": "Trump said in March that if he wins the election, one of his first acts would be to “free” those convicted of crimes related to the U.S. Capitol siege of Jan. 6, 2021. In this photo from..."
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/pb-up.jpg?v=071923040624",
+                            "caption": "A Proud Boy looks on before a May 11 campaign rally for former President Trump in Wildwood, New Jersey. REUTERS/Jim Urquhart8 / 8"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mastheads/usa-election-proudboys-share.jpg?v=071923040624",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The Proud Boys are back: How the far-right group is rebuilding",
+                            "og:site_name": "Reuters",
+                            "og:title": "The Proud Boys are back: How the far-right group is rebuilding",
+                            "og:article:publisher": "specialreports",
+                            "fb:pages": "211246788967215",
+                            "og:description": "The Proud Boys are re-emerging as unofficial protectors of ex-President Donald Trump, hoping he’ll pardon members jailed in the Capitol riot if he's re-elected.",
+                            "twitter:creator": "@SpecialReports",
+                            "twitter:image:src": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mastheads/usa-election-proudboys-share.jpg?v=071923040624",
+                            "fb:app_id": "319194411438328",
+                            "twitter:site": "@Reuters",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Proud Boys are re-emerging as unofficial protectors of ex-President Donald Trump, hoping he’ll pardon members jailed in the Capitol riot if he's re-elected.",
+                            "fb:admins": "616167736",
+                            "og:url": "https://www.reuters.com/investigates/special-report/usa-election-proudboys/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "image": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mastheads/usa-election-proudboys-share.jpg?v=071923040624",
+                            "maincontentofpage": "World Browse World AfricaAmericasAsia PacificChinaEuropeIndiaIsrael and Hamas at WarJapanMiddle EastUkraine and Russia at WarUnited KingdomUnited StatesUS ElectionReuters Next Latest in World...",
+                            "name": "The Proud Boys are back: How the far-right group is rebuilding",
+                            "description": "The Proud Boys are re-emerging as unofficial protectors of ex-President Donald Trump, hoping he’ll pardon members jailed in the Capitol riot if he's re-elected."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/investigates/special-report/assets/usa-election-proudboys/mastheads/usa-election-proudboys-share.jpg?v=071923040624"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "The Proud Boys say recruitment is growing and they’re ready to serve again as Donald Trump's unofficial protection force.",
+                            "author": "By ARAM ROSTON",
+                            "description": "The Proud Boys say recruitment is growing and they’re ready to serve again as Donald Trump's unofficial protection force.",
+                            "headline": "The Proud Boys are back: How the far-right group is rebuilding to rally behind Trump",
+                            "datepublished": "2024-06-03T10:00:00+00:00"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/section-leads/homepage/onlyfans-sex-chatters/home-tag382.jpg?v=121411300724",
+                            "description": "Many top porn stars on OnlyFans hire ‘chatters’ to impersonate them online. These impostors have boosted the site’s growth – but some subscribers call it fraud.",
+                            "headline": "OnlyFans Exposed"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/section-leads/homepage/drugs-fentanyl-supplychain/reporters.jpg?v=121411300724",
+                            "description": "At the tap of a buyer’s smartphone, Chinese chemical sellers will air-ship fentanyl ingredients door-to-door. They’re upending the global narcotics trade.",
+                            "headline": "Fentanyl Express: The Supply Chain"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/section-leads/homepage/homepage/ukraine-nato.jpg?v=121411300724",
+                            "description": "The U.S. Army and NATO made key strategic, funding and production mistakes that led to shortages of a pivotal weapon Ukraine needs to thwart Russia’s advances.",
+                            "headline": "Outgunned"
+                        },
+                        {
+                            "contenturl": "https://www.reuters.com/investigates/special-report/assets/section-leads/homepage/usa-lawsuits-johnson-and-johnson-bankruptcy/usa-lawsuits-johnson-bankruptcy-home.jpg?v=121411300724",
+                            "description": "J&J is feuding with lawyers opposing its plan to settle talc lawsuits in bankruptcy. Caught in the crossfire are the women alleging J&J products cause cancer.",
+                            "headline": "Bankruptcy Battle"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/investigates/special-report/usa-election-proudboys/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/investigates/special-report/usa-election-proudboys/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Paranoia and Profit: Armed Extremism and the Gun Industry's Role ...",
+                "htmlTitle": "Paranoia and Profit: <b>Armed</b> Extremism and the Gun Industry&#39;s Role ...",
+                "link": "https://everytownresearch.org/report/armed-extremism-paranoia-profit-gun-industry/",
+                "displayLink": "everytownresearch.org",
+                "snippet": "Pape, “JULY 2023 SURVEY REPORT: Tracking Deep Distrust of Democratic Institutions, Conspiracy Beliefs, and Support for Political Violence Among Americans,” July ...",
+                "htmlSnippet": "Pape, “JULY <b>2023</b> SURVEY REPORT: Tracking Deep Distrust of Democratic Institutions, Conspiracy Beliefs, and Support for Political Violence Among Americans,” July&nbsp;...",
+                "formattedUrl": "https://everytownresearch.org/.../armed-extremism-paranoia-profit-gun-ind...",
+                "htmlFormattedUrl": "https://everytownresearch.org/.../armed-extremism-paranoia-profit-gun-ind...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAM3chxO-dBAsLqyFKmVCqNEOKTadsLozLtzbT7KtDli6tn4z6PwlKBSo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://everytownresearch.org/wp-content/uploads/sites/4/2024/04/Armed-Extemism-Featured-Image-050824A-1024x576.png",
+                            "msapplication-config": "https://everytownresearch.org/wp-content/themes/everytownresearch/static/img/favicon/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Everytown Research & Policy",
+                            "og:title": "Paranoia and Profit: Armed Extremism and the Gun Industry's Role in Fostering It",
+                            "og:image:height": "576",
+                            "og:description": "A new report from Everytown for Gun Safety Support Fund about the connection between armed extremism and gun violence in the U.S.",
+                            "article:modified_time": "2024-07-12T13:53:09+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://everytownresearch.org/report/armed-extremism-paranoia-profit-gun-industry/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://everytownresearch.org/wp-content/uploads/sites/4/2024/04/Armed-Extemism-Featured-Image-050824A-1024x576.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...2021, ; The United States Attorney’s Office District of Columbia, “Capitol Breach Cases,” February 4, 2021, .\nEverytown was able to identify at least 12 individuals allegedly tied to the events of January 6 who were arrested in Washington, D.C., and charged with firearms offenses. A review of the police reports related to the insurrectionists showed that police seized at least 3,071 rounds of live ammunition during the course of these arrests103Everytown for Gun Safety Support Fund, “The Role of Guns & Armed Extremism in the Attack on the U.S. Capitol,” January 28, 2021, .—enough ammunition to shoot every member of the House and Senate five times. As one Capitol police officer testified, the number of firearms seized could have been far higher if the authorities had the manpower to detain and search all of the insurrectionists on the way out of the Capitol.104Holmes Lybrand, “Fact Checking Claims January 6 Was Not an Armed Insurrection | CNN Politics,” CNN, July 28, 2021, .\nStill others invoked guns as the solution to what they saw as the existential threat from a Biden presidency, encouraging others to show up armed.105OSU-ONDUTY, “RE: ‘Armed and Ready, Mr. President’: Demonstrators Urged to Bring Guns, Prepare for Violence at January 6 ‘Stop the Steal’ Protest in DC,” December 25, 2020, . Posts online from users discussing plans to bring guns to the Capitol were so plentiful that the Washington, D.C. Metropolitan Police Department posted signs warning that firearms were legally prohibited on the National Mall.106Select Committee to Investigate the January 6th Attack on the United States Capitol, “Interview of: Robert J. Contee III,” January 11, 2022, . Even after the fact, insurrectionists bemoaned the fact that more hadn’t been carrying guns107Elizabeth Dias and Jack Healy, “For Many Who Marched, Jan. 6 Was Only the Beginning,” _The New York Times_, January 23, 2022, sec. U.S., . and ominously promised to return with them.108Chris Joyner, “Georgia Attorney Held without Bond in Capitol Attack,” _The Atlanta Journal-Constitution_, January 21, 2021, ; Kevin Krause, “Dallas Man Who Threatened ‘Traitors’ after Capitol Riot Is First North Texan to Be Sentenced,” _...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Extremist watchdog explains New England white supremacists ...",
+                "htmlTitle": "Extremist watchdog explains New England white supremacists ...",
+                "link": "https://www.wbur.org/news/2023/08/03/task-force-butler-nsc-131-massachusetts-insurrection-neo-nazis",
+                "displayLink": "www.wbur.org",
+                "snippet": "Aug 3, 2023 ... Former President Donald Trump is due in court Thursday afternoon to face four felony counts related to attempting to overturn the 2020 ...",
+                "htmlSnippet": "Aug 3, 2023 <b>...</b> Former President Donald <b>Trump</b> is due in court Thursday afternoon to face four felony counts related to attempting to overturn the 2020&nbsp;...",
+                "formattedUrl": "https://www.wbur.org/.../2023/.../task-force-butler-nsc-131-massachusetts-i...",
+                "htmlFormattedUrl": "https://www.wbur.org/.../<b>2023</b>/.../task-force-butler-nsc-131-massachusetts-i...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHDBJEYa2lTayq7aXObP2Ch9VF3vlX-DKvigN8QAFKr2ocvcHjP2OVNM&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://wordpress.wbur.org/wp-content/uploads/2023/08/GettyImages-1230454607-1000x667.jpg",
+                            "og:type": "website",
+                            "og:image:alt": "Pro-Trump supporters storm the U.S. Capitol following a rally with then-President Donald Trump on January 6, 2021 in Washington, DC. (Samuel Corum/Getty Images)",
+                            "og:image:width": "1000",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Extremist watchdog explains New England white supremacists galvanized by Trump",
+                            "theme-color": "#393A46",
+                            "og:title": "Extremist watchdog explains New England white supremacists galvanized by Trump",
+                            "apple-mobile-web-app-title": "WBUR.org",
+                            "og:image:height": "667",
+                            "og:description": "The founder of a veterans-led nonprofit group tracking extremists in New England talks about the role of right-wing groups like NSC-131 in the Jan. 6 attack on the U.S. Capitol, the threat they pose, and what needs to be done to curtail their actions.",
+                            "twitter:creator": "@WBUR",
+                            "twitter:image": "https://wordpress.wbur.org/wp-content/uploads/2023/08/GettyImages-1230454607-1000x667.jpg",
+                            "next-head-count": "24",
+                            "twitter:image:alt": "Pro-Trump supporters storm the U.S. Capitol following a rally with then-President Donald Trump on January 6, 2021 in Washington, DC. (Samuel Corum/Getty Images)",
+                            "fb:app_id": "134067973330252",
+                            "twitter:site": "@WBUR",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "The founder of a veterans-led nonprofit group tracking extremists in New England talks about the role of right-wing groups like NSC-131 in the Jan. 6 attack on the U.S. Capitol, the threat they pose, and what needs to be done to curtail their actions.",
+                            "og:url": "https://www.wbur.org/news/2023/08/03/task-force-butler-nsc-131-massachusetts-insurrection-neo-nazis"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://wordpress.wbur.org/wp-content/uploads/2023/08/GettyImages-1230454607-1000x667.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "04:12\n### Copy the code below to embed the WBUR audio player on your site\n_Resume_\n!\nPro-Trump supporters storm the U.S. Capitol following a rally with then-President Donald Trump on January 6, 2021 in Washington, DC. (Samuel Corum/Getty Images)\nFormer President Donald Trump is due in court Thursday afternoon to face four felony counts related to attempting to overturn the 2020 election results.  Trump incited the Jan. 6 violence at the U.S. Capitol by his supporters, including members of right-wing groups.\nKristofer Goldsmith is the founder of , a nonprofit group of veterans who've been , and he joined WBUR's _Morning Edition_ to talk more about their efforts.\n_Highlights from this interview have been lightly edited for clarity._\nInterview Highlights\n--------------------\n**On how people from New England were involved in the insurrection**\n\"There was a recent arrest of a member of  — a New England-based neo-Nazi organization — who was on the very front lines in using violence against the police that day to breach the building. We found that multiple members of NSC-131 weren't just present at the riot, on Jan. 6, but were actively engaged in combat against uniformed police officers. NSC-131 posted online, showing photos of a stolen capitol police officers helmet, bragging about their participation in the riot.\"\n**On the goal of local white supremacist groups**\n\"The explicit goal of neo-Nazi organizations like NSC-131, which also calls itself , is genocide. They say that they advocate for New England to become a white ethnostate. Well...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

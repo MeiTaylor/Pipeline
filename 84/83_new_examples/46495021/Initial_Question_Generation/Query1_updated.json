@@ -1,0 +1,1980 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - A113 Pixar movies adrenochrome connection",
+                "totalResults": "213",
+                "searchTerms": "A113 Pixar movies adrenochrome connection",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - A113 Pixar movies adrenochrome connection",
+                "totalResults": "213",
+                "searchTerms": "A113 Pixar movies adrenochrome connection",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.205857,
+        "formattedSearchTime": "0.21",
+        "totalResults": "213",
+        "formattedTotalResults": "213"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Online conspiracies link Pixar's use of the number A113 with ...",
+                "htmlTitle": "Online conspiracies <b>link Pixar&#39;s</b> use of the number <b>A113</b> with ...",
+                "link": "https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 18, 2023 ... Yet, some online link Pixar to the QAnon conspiracy theory by saying the number represents the chemical adrenochrome. Followers of the QAnon\u00a0...",
+                "htmlSnippet": "Jul 18, 2023 <b>...</b> Yet, some online link <b>Pixar</b> to the QAnon conspiracy theory by saying the number represents the chemical <b>adrenochrome</b>. Followers of the QAnon&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../online-conspiracies-link-pixars-use-of-the-num...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../online-conspiracies-link-<b>pixar</b>s-use-of-the-num...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULOd4UaI2NRMEYgbkeiFOygqQAUuOPuwHNAkBG1Tz9IZx2Th3d8D4bn-V&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/?id=L1N3941LO",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-07-18T15:05:11.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Online conspiracies link Pixar\u2019s use of the number A113 with adrenochrome | Reuters",
+                            "og:description": "The appearance of the number A113 in Pixar movies has been widely reported to be a reference to a classroom at the California Institute of the Arts, alma mater of many of the studio\u2019s minds. Yet, some online link Pixar to the QAnon conspiracy theory by saying the number represents the chemical adrenochrome.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-07-18T15:00:10.000Z",
+                            "render_timestamp": "2024-08-03T21:41:48.672Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Online conspiracies link Pixar\u2019s use of the number A113 with adrenochrome",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Online conspiracies link Pixar\u2019s use of the number A113 with adrenochrome",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-07-18T15:05:11.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The appearance of the number A113 in Pixar movies has been widely reported to be a reference to a classroom at the California Institute of the Arts, alma mater of many of the studio\u2019s minds. Yet, some online link Pixar to the QAnon conspiracy theory by saying the number represents the chemical adrenochrome.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/online-conspiracies-link-pixars-use-of-the-number-a113-with-adrenochrome-idUSL1N3941LO/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "reuters.com\n===============",
+                    "content_tokens": 5
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a highly respected international news organization known for its commitment to factual reporting and journalistic integrity. They have a long-standing reputation for accuracy and are widely regarded as a reliable source of news. They thoroughly fact-check their articles before publication, making them a strong ally in identifying and refuting fake news."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence directly addresses the claim that the number A113 in Pixar films refers to adrenochrome. It describes the online conspiracy linking Pixar to the QAnon theory, clarifying that the association of A113 with adrenochrome is a construction of conspiracy theorists rather than an actual reference in Pixar films. This helps to debunk the claim effectively."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "I thought this was satire, but doing some Facebook digging, it doesn ...",
+                "htmlTitle": "I thought this was satire, but doing some Facebook digging, it doesn ...",
+                "link": "https://www.reddit.com/r/insanepeoplefacebook/comments/151ydlq/i_thought_this_was_satire_but_doing_some_facebook/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 17, 2023 ... ... Pixar explaining the whole thing, along with clips ... i literally checked, there is nothing linking a113 to adrenochrome, those numbers dont\u00a0...",
+                "htmlSnippet": "Jul 17, 2023 <b>...</b> ... <b>Pixar</b> explaining the whole thing, along with clips ... i literally checked, there is nothing linking <b>a113</b> to <b>adrenochrome</b>, those numbers dont&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../i_thought_this_was_satire_but_doing_some_fac...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../i_thought_this_was_satire_but_doing_some_fac...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-MET6Zp1tUp5U6pUWL8nhI5uRjBJBO430ii5soEYDCRywsLVctPHOqY_&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.redd.it/o0h58lzmax6a1.png",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "Reddit logo",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "[Mature Content] r/insanepeoplefacebook on Reddit: I thought this was satire, but doing some Facebook digging, it doesn't look like that's the case. also, Disney never claimed that, Pixar did.",
+                            "og:site_name": "Reddit",
+                            "og:title": "[Mature Content] r/insanepeoplefacebook on Reddit: I thought this was satire, but doing some Facebook digging, it doesn't look like that's the case. also, Disney never claimed that, Pixar did.",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/ThePopDaddy - 4,029 votes and 312 comments",
+                            "twitter:image": "https://i.redd.it/o0h58lzmax6a1.png",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/insanepeoplefacebook/comments/151ydlq/i_thought_this_was_satire_but_doing_some_facebook/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.redd.it/o0h58lzmax6a1.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Reddit is a user-generated content platform and does not have a centralized fact-checking mechanism. While some subreddits focus on credible information and discussions, the overall content can vary greatly in reliability. Misinformation can spread quickly, making it important to verify information sourced from Reddit with more reputable outlets."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses the claim regarding A113 in relation to adrenochrome but suggests that further investigation did not yield any actual links between the two. While it indirectly addresses the claim, the lack of specific refutation means it doesn't fully clarify the nature of A113's usage in Pixar films but does point to the debunking of the connection."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "A113 Hidden in Pixar Movies - Business Insider",
+                "htmlTitle": "<b>A113</b> Hidden in <b>Pixar Movies</b> - Business Insider",
+                "link": "https://www.businessinsider.com/a113-hidden-in-pixar-movies-2014-5",
+                "displayLink": "www.businessinsider.com",
+                "snippet": "May 7, 2014 ... The number has been used for many different things in Pixar films, such as Andy's mom's license plate in 1995's \"Toy Story.\" Woody, Toy Story,\u00a0...",
+                "htmlSnippet": "May 7, 2014 <b>...</b> The number has been used for many different things in <b>Pixar</b> films, such as Andy&#39;s mom&#39;s license plate in 1995&#39;s &quot;Toy Story.&quot; Woody, Toy Story,&nbsp;...",
+                "formattedUrl": "https://www.businessinsider.com/a113-hidden-in-pixar-movies-2014-5",
+                "htmlFormattedUrl": "https://www.businessinsider.com/<b>a113</b>-hidden-in-<b>pixar</b>-<b>movies</b>-2014-5",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnumvvH-bd2_yUSWXyHnyBZoRXhHlpNXJpwcbPaVJtmIR6JpwZt_m7zmg&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://i.insider.com/5369015f6da8116d6f673a7c",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691b26ecad043b33c385b7",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691b756da811b60b673a78",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691bb6eab8ea1c0cb1a0f9",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691bf0ecad04f135c385b7",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691c14ecad043733c385b7",
+                            "credittext": "Disney / Pixar"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691c57eab8ea4312b1a0f9",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691ca66bb3f7c82b552bdc",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53692f86ecad049211c385b7",
+                            "credittext": "Hyperion Pictures"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/536931cc6bb3f79a6d552bda",
+                            "credittext": "The Iron Giant screencap"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691cd769beddaa0cfa86aa",
+                            "credittext": "YouTube screengrab"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53691cfdecad04a22bc385bb",
+                            "credittext": "YouTube screengrab"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.insider.com/536a3c03eab8ea7e07187ab4?width=1200&format=jpeg",
+                            "apple-itunes-app": "app-id=554260576",
+                            "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2023-11",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "sailthru.tags": "Movies, Animation, Disney, Pixar, Easter Egg, Frank Pallotta",
+                            "og:site_name": "Business Insider",
+                            "apple-mobile-web-app-title": "Business Insider",
+                            "title": "Disney Has Been Hiding A Secret Message In Its Movies For Years",
+                            "og:description": "The number has been used throughout animation.",
+                            "article:publisher": "businessinsider",
+                            "mrf:tags": "Page Type:story",
+                            "datemodified": "2014-05-07T16:17:11Z",
+                            "news_keywords": "Entertainment, Movies, Disney",
+                            "sailthru.title": "Disney Has Been Hiding A Secret Message In Its Movies For Years",
+                            "mrf:sections": "Entertainment",
+                            "datepublished": "2014-05-07T13:26:00Z",
+                            "sailthru.verticals": "entertainment",
+                            "sailthru.date": "2014-05-07",
+                            "og:type": "article",
+                            "author": "Frank Pallotta",
+                            "tbi-vertical": "Entertainment",
+                            "og:title": "Disney Has Been Hiding A Secret Message In Its Movies For Years",
+                            "sailthru.image.thumb": "https://i.insider.com/536a3b0d6bb3f71b2b187abd?width=160&format=jpeg",
+                            "fb:pages": "20446254070",
+                            "sailthru.description": "The number has been used throughout animation.",
+                            "linkedin:owner": "mid:1d5f7b",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.businessinsider.com/a113-hidden-in-pixar-movies-2014-5",
+                            "sailthru.author": "Frank Pallotta",
+                            "sailthru.image.full": "https://i.insider.com/536a3b0d6bb3f71b2b187abd?width=1200&format=jpeg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.insider.com/536a3c03eab8ea7e07187ab4?width=1200&format=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u0013\ufffdh\ufffd\u001e\u0002\ufffd\ufffd\ufffd#9\ufffdg\\P.7\ufffd\u8bc8\ufffdv\ufffd\ufffd\ufffd\ufffd\u001c\\+\ufffd\ufffd|U\ufffd\ufffd\u001b\ufffdaP\r\ufffd3\ufffd\ufffd\ufffdg\ufffd\u0013\u0012\ufffdz5=\ufffdd`\ufffd\u000e\ufffd\ufffd\ufffdqL\ufffd7\ufffdI\ufffd\ufffd$o\ufffd[\ufffd8\ufffd\ufffd\ufffd^&\ufffdMC\ufffd\u0010\ufffd\ufffd\ufffd\ufffd\ufffd$\ufffd\ufffd\ufffd\u0194o\ufffd\ufffd\u000fu\u000fM\ufffd\u0003\u0666\ufffd\ufffd\ufffdM\ufffd\u0001It\ufffd\ufffd3\u0098k:\uc226\ufffd\ufffd\ufffdg\u001f\ufffd\u001b;\ufffd\n\ufffde\ufffd\ufffdwM\ufffd\ufffd\ufffd\u0012\u000b\u001d\ufffdP\ufffd\ufffdO5\ufffd)\ufffd\ufffd];\ufffd\u0007\u0635\ufffda\ufffd\ufffd\ufffd\ufffd@\u001c\u001d`\ufffd%\ufffdn=/\ufffd\ufffd1\ufffd\ufffd\ufffd\u04b0\u0005\u0013!=F\ufffd\u001cL\ufffd\ufffd\ufffdR>a\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdY9\u00126\ufffd\ufffd_2\ufffdi\ufffdB!X7/6\nq(\u0013\ufffd\ufffd\ufffdt\u030ej\ufffd~\ufffd\\04\ufffdx\ufffdT-/4\ufffdI8ywV=\ufffd8\ufffd\ufffd\ufffd\ufffd\ufffd\u0013\u026b\ufffd\ufffdc\u0015|\ufffd\ufffdUU\u0014\ufffd\ufffd\u0016\ufffd\u0017\ufffd\ufffd\ufffd\ufffd^\ufffd\ufffdF\ufffdO\ufffd\u0011s\ufffd\ufffd ~x[\u001b\ufffdX^\ufffd\u001e\ufffd\ufffd\ufffdE\ufffdt\ufffd\ufffdg\u001d\ufffd\ufffd\u06d5\ufffd\ufffd\u0016\u031b\ufffd\ufffdM~/\n\ufffdZ\u91d9\u0602\u0007r\ufffd]\u000b\ufffd\u0004\ufffd\ufffdX\ufffd\ufffdM\u001247T\u0017\ufffd\ufffd\ufffd\ufffd,Z\ufffd1\ufffdh\u0001h]\ufffd\ufffd\ufffdW\ufffd\ufffdE>\ufffd\ufffdB=\ufffd\ufffd\ufffduC\ufffd\ufffd\ufffd\ufffd\ufffd\u007f\ufffd|\ufffd93\u0012\ufffdQQ\ufffdW\ufffd3u\u000bu-\u0639\ufffd;\u046e\ufffdXN\ufffd\u001d\ufffd\ufffd\ufffd\ufffd\ufffd\u0018\r]\ufffdo\ufffd\ufffd\ufffdB\ufffdO\ufffdC\ufffd@\u0005[\ufffd\ufffdy\ufffd\ufffd\ufffdv\ufffdd'\ufffd\ufffdm\ufffd\u001a\ufffd6Un\u0018\ufffd\u000f\u0005\u001c7ve\ufffd\ufffd3\ufffd\ufffd\ufffd\ufffdPC\ufffd3\ufffdH\ufffd\ufffd\u001dn_\ufffd\ufffd\ufffd\u07b4fL|\ufffd\u000e\ufffd6\u001dH\ufffd['\ufffd\ufffdP\ufffd\ufffda'c^A\ufffd\u0002Q27\ufffd\u001cTN\ufffd\ufffd.\ufffdk7\u03f1H\ufffd \ufffd\ufffd;`|F0\u001d\u0004\u0121U\u001b\ufffd\ufffd'\ufffd\ufffd\ufffd3\ufffdb\ufffdp\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd]\ufffd\ufffd\ufffd\ufffd9j8`\ufffdK+9YB\ufffd\ufffd\ufffdf\u000e\ufffd\u0001\ufffd\ufffdk\u0013e\ufffd\ufffd\ufffdu\ufffd\ufffd\ufffd\u037a\ufffd\ufffd\u0011\u0016\ufffd\ufffd\ufffd\u053e\u0007\ufffd4\ufffd\u0601\u8600\ufffd,\ufffdug\ufffd\ufffd\ufffd\u0014\ufffd\u0006\ufffd\u001c\ufffdI\ufffdJ\u00181(\ufffd\u001dk\ufffd\u0007[\u0012\ufffdZ\ufffd\ufffd\u023bn\ufffd\ufffd*\ufffd\ufffd@\ufffd\ufffd\ufffd\ufffd\u0003\u0005\ufffd\u0004\ufffd\ufffdH:\ufffdS\u0014%\ufffd\u001c\u000b\u0010\u0007D\u001b\ufffd\u04f6F\ufffd\ufffd\na'&\ufffd\ufffd\u0535\ufffd\ufffd\u001f\ufffda&\ufffd\ufffd\ufffdjM\ufffd=_\ufffd+\u0013\u0011\ufffd\ufffd\u0004\u0005:\ufffdb\ufffdR{\u007fq\ufffd\b%J#\u01c2}\ufffd2>\ufffd\ufffd\u001b\ufffd\u0001\ufffd\ufffdNw\ufffdq\u001e\b\ufffd\ufffd{\u0006\ufffd\ufffd\ufffd\ufffdJ\ufffd\u0004(U\ufffd\ufffd<\u001c\ufffd\ufffdGq\u07c9\u000e\ufffd\ufffd?\u0016\u001b\ufffd!\ufffd\u000efS\ufffd\ufffd\u0213`\ufffd\ufffd\ufffd!\ufffd\ufffd\ufffdU\ufffdQ\ufffd\u0002]YKf8I\ufffd\ufffd!,\ufffd\u00181\u047c\ufffd!\ufffd\ufffd`\ufffd\ufffd\ufffdv\\M\t\u0000\ufffd\ufffd\ufffd\ufffd\u001d\ufffd\ufffd99\ufffd \ufffd\u2730Y\ufffd\ufffd\ufffd\ufffd+o\ufffd o\ufffd\ufffd\ufffd\ufffd\ufffd\u00116\ufffdn\ufffd\ufffd\ufffd\ufffd\ufffdQ\ufffd\u0000+\u000e\ufffdKk&d\ufffd\u062a\ufffdiE\u0012\ufffd\u0000g\ufffd<\ufffd\ufffd\u0015\bW\ufffd6\u0624\ufffd\u0018\ufffd`\u0015\ufffd\ufffdr^\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(cMVC*\ufffdn\ufffdm6\ufffd+\ufffd\u0297n\ubddb\ufffd\ufffd\ufffd\ufffdz\ufffd\ufffd\u0535\ufffd$\ufffd\ufffd\ufffd\ufffd*D\u001b\u0016\u000eb\ufffdM\u0255\u000b\ufffd\ufffd\ufffd\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd'x\u007f\ufffd\ufffd\ufffd\ufffd\ufffdp\ufffd\u001a\ufffd\ufffd\r_\u03d3\uf5db\ufffd\ufffd\ufffd\ufffd\ufffdy=\ufffd\ufffd_\ufffd\ufffd\ufffd\ufffd_\ufffd\u007f~M\u072b\u0019Gre\ufffdu\u91c7_\ufffd\ufffd>\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd/\ufffd\ufffdp\ufffd\ub1ad\ufffd\ufffd\u0013 d\u0018\ufffd\u001bU\ru\ufffd\f[G\ufffd/\ufffd\u0001lH\ufffd\ufffd%}I\ufffdi\ufffd\u0018U$S\u0016v\ufffdkK\ufffd0\r$J3\ufffd\b\ufffd\ufffdD\ufffd:\ufffd^\ufffdg_\ufffdt?\ufffdV\ufffd|\r\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0000\u001e\ufffd\ufffd\ufffd\ufffd\u0005\ufffdV\ufffd\ufffd\ufffd=\u0014\ufffd\ufffdE\ufffd\ufffd\u0011Y\u000f\ufffd\u0004\ufffd[\ufffdp\u0014Z\u0007;-^\ufffd\ufffdd)\fR \ufffd\ufffd\ufffd7MD\u0014\ufffd3\ufffd\u000f\ufffdd\u0006\ufffd.x1\ufffd\ufffdsPCN\ufffd\ufffd\ufffd\u001b\ufffdk\ufffd\ufffd\u0012{\u0004S\u001f:\ufffd\ufffd\ufffd\u07ea\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(\ufffd\ufffd\ufffd\u0019\ufffdM\u05a6\ufffd)Ga2\ufffd\ufffd*x\u0012\ufffd\ufffdH\ufffd\ufffdE\ufffd8\ufffdr\n\u0790+y\ufffd\";b]\u0015\ufffdVAol$E\ufffd\ufffd%\u0000\ufffd\f(9\ufffd\u0017\ufffd\ufffd\t?O\ufffd,n\ufffd\u8b1d\ufffd\ufffd\ufffd\u0017%\ufffdzA\ufffd'\ufffd\ufffd \ufffd\ufffdN/y\ufffd\u028c\u0373pf\ufffd\ufffd\u03f5g\ufffd\ufffdN\ufffd3\u001e\ufffd~fa\ufffd\ufffda7b\u001d\ufffd>K\ufffd\ufffdw\ufffd6{\ufffds\ufffd\ufffd\ufffd\u0258\ufffdK\ufffd\ufffdO\u028a/\ufffd9\ufffd\u001fx\ufffd\ufffdT=|\u0002\u001ey\ufffda%\ufffd\u000e\ufffdO\b,\ufffd\ufffd\ufffd\u0007k\ufffd\ufffd)q7\u03a9\ufffdRi\u0012q\ufffdXe\u001e\ufffd\ufffd\u0004\ufffd\ufffd\u074b\ufffd(n;\ufffd\ufffd0\u0002'\u001d\u000b_\ufffd\ufb7e)\ufffdq\ufffdI\ufffd\u058b\ufffdUl\ufffd\u0012%\ufffd\ufffdR\u001e:\ufffd\r~H^\u0288dj\ufffd\ufffd)/\ufffdA\ufffd\u0007\ufffd\ufffd5\ufffd\ufffdlD\n\rm4T\ufffd\b\ufffd\ufffd\ufffd\ufffd)C\ufffd\ufffd\ufffd\ufffdze\ufffdSTAo\u001dL\ufffd\ufffdBG\u0019\u0018\ufffd\ufffd\ufffd\ufffdn\ufffdJ\ufffdS\ufffd\ufffd\ufffd6\ufffd[\ufffd_\u0789\ufffd\ufffdU\ufffdQ\ufffd\ufffd\u0532f\ufffd\ufffd\ufffd\ufffd.\ufffd@\ufffd\ufffd\ufffd\ufffdl[\ufffd\u001cK\ufffdGN\ufffdN6\b\u0004\ufffd\u0005G$\ufffd\ufffd\u0003HB\ufffd'w\t\ufffd\ufffd\ufffdy\u0003l\ufffdkQ\u0000\ufffdr\u0004~T\u0010\ufffd\ufffd\u0005\u0003>)B2\u0431j\u0007\ufffd`\ufffdS\u03e3>\ufffd\ufffd\u0010\u0012\nrU\ufffd\ufffd\ufffd\ufffdK\u049f]\ufffdS=\ufffdR\ufffd\ufffd\u0019\ufffd\u001cI\ufffd\u000ff\ufffdM\u007f\ufffdI\ufffdu\u001fAk\u0000M\")\ufffdz0\ufffd&\ufffd\ufffdP2pS\u001b\u00f7^O\ufffd\ufffdM\ufffda\ufffda\u0001r\ufffd\ufffd\u0002^\u0012e\u001a\ufffd,6\ufffd\ufffd)\ufffd\ufffd:C\ufffd\u0005q\r*\u0017\ufffd\ufffd,H\ufffd\ufffd.\ufffd\ufffd>\u0563\u000b\ufffd\u0280\ufffd,R\u1fb7#\ufffd\u0207T7\ufffd\ufffd\f.\u007f$pDUM#[N9\u0003\ufffd\ufffdG\ufffd\ufffdD\ufffd\ufffd\b6\u0018{;\ufffd\u001f\ufffdr\b\ufffd4vX$'\u00060\ufffd\ufffd[\ufffd\ufffd\ufffd\ufffd\ufffd7F\ufffd7\ufffd\u0011X\ufffd\ufffd5\ufffd;\ufffd\ufffd\u001a\ufffd%H\ufffd\ufffd\ufffdda\u001b\ufffd\u0006\ufffd\ufffd\ufffdiz\ufffd\ufffd\u067b\ufffd[W\ufffd=\ufffd\ufffd\u079b\ufffdZk\ufffd\ufffdWf\ufffd=\u05b2+\ufffd\t\ufffd\ucf11\ufffd(J\ufffd@\ufffd>U#\ufffd\ufffd\u0012u2\ufffd\ufffd\ufffd\ufffd\u0012Soe\ufffd\ufffd\ufffd1\ufffd\u0004\u03da\ufffd$\ufffd=\ufffd:\ufffd\ufffd\ufffdk;\ufffd\ufffd#\u000e8yg\u0388%\ufffd\ufffdN\u00a9\n\ufffd\ufffd\t\"\ufffd \ufffd\u0012\ufffd\f\ufffd\u1d5bA\ufffd\u001d\u000b9:!\ufffd\ufffdP\ufffd\b4\ufffd\ufffd\u0000\u000f\ufffd\ufffd\u0015\u001e\ufffd\u0005\ufffd?\ufffdCaO\ufffd\ufffd\u0017\u0013\ufffdGy\ufffd\ufffd\u0679\r\ufffd,\ufffd\ufffd\ufffd'\ufffd\\\ufffdT|\u0010L\ufffd\u8056\u0004y\ufffdV\ufffd\ufffd\u0017\ufffd\u04be,\ufffd\ufffd\ufffd\ufffd\u001b\ufffd\ufffd;\ufffd0J\ufffd\fV\ufffd\ufffd\ufffdi\\L\\I\ufffd\u0000\ufffd\u0001,_\ufffd\ufffd06\ufffd\u001exs\ufffd\ufffd\ufffd\ufffd,})\ufffd\ufffdw\u007f6V\u001b\u001d\ufffd\ufffd\ufffd\u001b\ufffdbD\ufffd`\ufffd\ufffd\u0163qi\ufffdu\ufffdF\u0007\ufffdQ{H\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u001c\ufffd\rO\ufffd?\u007f\ufffd_\u0016\ufffdlA2\u02e0\ufffd(\ufffdq2{\ufffd\ufffd\u001b7)\u001e\ufffd+\ufffd\ufffd\ufffdp\u0015Oy\ufffd\b\ufffd\u0002b\ufffd\ufffdG\"\ufffd\ufffd\ufffdk\ufffd\ufffd\u0162\ufffd\ufffd\n\ufffdGa\ufffd\ufffdF\u0004}\u007f\ufffd\ufffd\ufffd\ufffdWL\ufffd\u0003&\ufffd\ufffd\u001e\ufffd{\ufffd\u0002\ufffd\ufffd]\u001d:\u001cF\u0017\u0019]a\ufffd]F\ufffdd\ufffd\ufffd4\u059c\ufffd\ufffd)\ufffd\ufffd\u0004\ufffd\ufffda*y\ufffd\ufffdsLC\u0007F\ufffd;\ufffd=4\ufffde\ufffd\ufffd\ufffd\ufffdL0\ufffdZ\ufffdTe%)RI\ufffdvuX\ufffd\ufffd\ufffdR\ufffdl\ufffdF\ufffd\ufffdU\ufffd\ufffdU5\ufffd\ufffd\ufffd\ufffduTi\ufffdtI\u0016\ufffd\ufffdJ\ufffdC4P\u001d\ufffd\u0012\ufffdE\ufffd-\ufffd\ufffdC\ufffd\ufffdQ\ufffd\ufffd|\ufffdnd\ufffd\ufffdz,\u000e#D\ufffd\u0005\ufffdl\ufffd\u0014M\ufffd\ufffd\ufffd\ufffd;\ufffdk2G\u000b\ufffdMI\ufffd\u02db\ufffd\ufffdB\u07f3\ufffd\"\ufffd\u04f6\ufffdj\ufffd\ufffd\ufffdV\ufffd?\u0250\ufffdZ\ufffd\u0286\ufffd\ufffd\ufffdxOyR\ufffd\ufffd&n\ufffd\ufffd\ufffd4\ufffdE\ufffd@\ufffd]!\u0095j\u0002\ufffd-\u0015\u0019\ufffd$\ufffd\ufffdFb\ufffd\ufffd\u0006\ufffd\u0015+\ufffd\ufffdJ1\u000f\ufffdhf)\ufffdTV\ufffd-.T|\u0015\u0015\"J\u6822!qI\ufffd\u0019\ufffd\ufffd\ufffdl8d\u0001\ufffd\ufffd\ufffd\ufffd*\ufffd\ufffd\ufffdj\u0004\ufffdR\ufffd\ufffd\ufffd\ufffd\u0499rIYfp5\ufffd\ufffdd\ufffd!\ufffd\ufffd\u0002\ufffdo\ufffd\ufffdql\ufffd\u001c%\u0017\ufffd\u00bd\u0006\u001a'gmwz\u0527l\u001fI\ufffd\ufffd\ufffd%\ufffd\f\ufffd)\ufffd\ufffd\ufffd\u001e\u0001*\ufffd\ufffd\u001a\u0014\ufffdhB\b\\\ufffd\t\ufffd\u0012(\ufffd\u0002c\\\ufffdn?\ufffd\ufffd*\ufffdCb\ufffd\ufffd\u001a\u0018\ufffd1\ufffdW\ufffd\ufffdt1\u0010T\r\ufffd`RvJ\ufffd\u000e\ufffd\u001c\u000b\ufffdi\ufffd\ufffd\u00172'\ufffd-\ufffd\ufffdi\ufffd\ufffd\ufffd3\rs \ufffd\u0003\ufffdL\ufffdus\ufffd\u0010i!\ufffd\ufffd\ufffd\ufffd\ufffd|5\u00024\ufffd\ufffd\f.\fe#>\ufffd\u0016\ufffd\ufffd\u07f9\ufffd\ufffdm.`\"zw\ufffd7\u0017\u0018\ufffd\ufffdh\u0013\ufffdP\u00140\ufffdF\u0003?\u007f$\u001f\ufffd\u0017\ufffd\ufffd&\ufffd_\ufffd\ufffd\ufffdpB`\ufffd}\u0012\u0012\ufffd\ufffdE\u060c\ufffd\ufffd$w\ufffdS9\ufffd\ufffd\u001a\ufffd`\u0004Fb\u0019\ufffd\ufffd\ufffd\u001b\ufffd\ufffd\ufffd\ufffd_\u0016\ufffd\ufffd\ufffd5\ufffd\ufffd\ufffd\ufffd'[\ufffdN,\ufffd\ufffdq\ufffdO\ufffd\ufffd\u06ca\u0013a\ufffd\ufffd\ufffd\ufffd\ufffd\u0004%4@{\ufffd\ufffd\ufffd%!]kg\ufffdb\ufffd\ufffd\ufffd\ufffdr\ufffd\u0018\ufffd\ufffd\ufffd\ufffdx\u0019\u0007\fn\ufffd\ufffd\ufffd\ufffda\ufffd\ufffd\ufffd\ufffd#\ufffdx\ufffd\ufffdqs\u012d\ufffd\ufffdc\ufffd\ufffd\ufffd\ufffdN\u0014\ufffdu_\ufffd\ufffdN\ufffd\ufffd1^\ufffd\ufffdT\u001a\ufffdH\ufffd\ufffd\ufffd\ufffd\u000b\ufffd}N\ufffd\ufffd\ufffd\ufffdGY\u0018\ufffd\u00019\ufffdfm<\ufffd\u0007\ufffdav\ufffd\ufffd'&\ufffd\ufffd\u0016\ufffdQ\ufffd>\ufffd\u0019!_\ufffd\ufffd\ufffd\u0001;\u001ah\ufffd\u0019\ufffd\ufffdj\u001eqF\ufffd\u00138\ufffd\ufffd\ufffd%\u001eq\ufffd\ufffd\u0019\u00b9\ufffdAY,\ufffd\ufffdM\ufffd\ufffd\ufffd\ufffd\ufffd;\ufffd\ufffd6\ufffd\ufffde_j\ufffd\ufffd\u0002x\ufffd\u0002\ufffd@\ufffd\ufffd/n\u0019\ufffd2\ufffd\ufffd\u0000e\ufffd\ufffd\b\ufffd\u02bd\ufffd\ufffd\ufffd(\ufffdK66\u000f\ufffd\ufffd4\ufffdg4\ufffd\ufffd?|e\ufffdDJXL\u001bt\ufffd\u049955jJ\ufffd\u0017c\ufffd\ufffd\\\u0013r\ufffd\u001aZ;\ufffdE6~\ufffd\ufffd\ufffd.s\ufffd\"\u0014\ufffdqpM\ufffd\b\t\nef\u001d\ufffd\ufffd\ufffd\u0005\ufffd*5!\ufffd\uf62c\ufffd\u0018*\u000e\ufffd\ufffd\ufffd...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Business Insider is generally reliable, especially on financial and business news. They occasionally publish articles on social issues and trends, though the quality can vary. While they fact-check, the site is more prone to sensational headlines, which may contribute to misinformation, thus warranting a slightly lower score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2014-05-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence indicates that A113 has been shown in various Pixar movies and provides background on what A113 actually signifies (a classroom used by Pixar animators). While it does not directly debunk the adrenochrome claim, it gives context about A113's legitimate use in films, which helps clarify that the claim is spurious."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Adrenochrome - Wikipedia",
+                "htmlTitle": "<b>Adrenochrome</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Adrenochrome",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Adrenochrome is a chemical compound produced by the oxidation of adrenaline (epinephrine). It was the subject of limited research from the 1950s through to\u00a0...",
+                "htmlSnippet": "<b>Adrenochrome</b> is a chemical compound produced by the oxidation of adrenaline (epinephrine). It was the subject of limited research from the 1950s through to&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Adrenochrome",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Adrenochrome</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bT9r-5oGlcsGomgxjoDyVVR8gKpyJ-lMzwLlVTEt-MVmMrFL3gKYCkk&s=0",
+                            "width": "150",
+                            "height": "124"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Adrenochrom.svg/1200px-Adrenochrom.svg.png",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Adrenochrome - Wikipedia",
+                            "og:image:height": "997",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Adrenochrom.svg/1200px-Adrenochrom.svg.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...=166544\">CHEBI:166544</a></span></li></ul></div></td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/ChEMBL\" title=\"ChEMBL\">ChEMBL</a></td><td><div><ul><li>(<a href=\"https://en.wikipedia.org/wiki/Racemic\" title=\"Racemic\">racemic</a>): <span title=\"www.ebi.ac.uk\"><a rel=\"nofollow\" href=\"https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL1314174\">ChEMBL1314174</a></span></li></ul></div></td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/ChemSpider\" title=\"ChemSpider\">ChemSpider</a></td><td><div><ul><li>(<a href=\"https://en.wikipedia.org/wiki/Racemic\" title=\"Racemic\">racemic</a>): <span title=\"www.chemspider.com\"><a rel=\"nofollow\" href=\"https://www.chemspider.com/Chemical-Structure.5687.html\">5687</a></span><sup>&nbsp;<span typeof=\"mw:File\"><span><img alt=\"check\" src=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/7px-Yes_check.svg.png\" decoding=\"async\" width=\"7\" height=\"7\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/11px-Yes_check.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Yes_check.svg/14px-Yes_check.svg.png 2x\" data-file-width=\"600\" data-file-height=\"600\"></span></span></sup></li></ul></div></td></tr><tr><td><a href=\"https://en.wikipedia.org/wiki/ECHA_InfoCard\" title=\"ECHA InfoCard\"><span title=\"echa.europa.eu\">ECHA InfoCard</span></a></td><td><a rel=\"nofollow\" href=\"https://echa.europa.eu/substance-information/-/substanceinfo/100.000.176\">100.000.176</a> <span typeof=\"mw:File/Frameless\"><a href=\"https://www.wikidata.org/wiki/Q366835#P2566\" title=\"Edit...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Wikipedia is a crowd-sourced encyclopedia that is generally reliable for getting an overview of a topic. However, since its content can be modified by anyone, it is crucial to check the citations at the bottom of articles to assess reliability. The collaborative nature allows for quick updates but also means that false information can creep in temporarily."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence does not directly address the claim about A113 and adrenochrome but provides general information on adrenochrome itself. It doesn't connect to Pixar films, which makes it less relevant to assessing the truth of the claim."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "The Dark Virality of a Hollywood Blood-Harvesting Conspiracy ...",
+                "htmlTitle": "The Dark Virality of a Hollywood Blood-Harvesting Conspiracy ...",
+                "link": "https://www.wired.com/story/opinion-the-dark-virality-of-a-hollywood-blood-harvesting-conspiracy/",
+                "displayLink": "www.wired.com",
+                "snippet": "Jul 31, 2020 ... Reddit removed a dedicated adrenochrome subreddit on July 30. On Friday, July 31, conspiracy theorists plan to hold the first \u201cChild Lives\u00a0...",
+                "htmlSnippet": "Jul 31, 2020 <b>...</b> Reddit removed a dedicated <b>adrenochrome</b> subreddit on July 30. On Friday, July 31, conspiracy theorists plan to hold the first \u201cChild Lives&nbsp;...",
+                "formattedUrl": "https://www.wired.com/.../opinion-the-dark-virality-of-a-hollywood-blood-...",
+                "htmlFormattedUrl": "https://www.wired.com/.../opinion-the-dark-virality-of-a-hollywood-blood-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UDfVrbLGEX3HUwI2dn0r9fKTDom4OyPxcX_SHnFuSkzc1pqK6UOendBH&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.wired.com/photos/5f234f754e40ec8b2a384b62/191:100/w_1280,c_limit/OpEd-Blood-85758144.jpg",
+                            "copyright": "Copyright (c) Cond\u00e9 Nast 2024",
+                            "article:published_time": "2020-07-31T13:00:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "WIRED",
+                            "parsely-metadata": "{\"description\":\"A centuries-old anti-Semitic myth is spreading freely on far-right corners of social media\u2014suggesting a new digital Dark Age has arrived.\",\"image-16-9\":\"https://media.wired.com/photos/5f234f754e40ec8b2a384b62/16:9/w_1000,c_limit/OpEd-Blood-85758144.jpg\",\"image-1-1\":\"https://media.wired.com/photos/5f234f754e40ec8b2a384b62/1:1/w_1000,c_limit/OpEd-Blood-85758144.jpg\"}",
+                            "og:description": "A centuries-old anti-Semitic myth is spreading freely on far-right corners of social media\u2014suggesting a new digital Dark Age has arrived.",
+                            "twitter:creator": "@wired",
+                            "twitter:image": "https://media.wired.com/photos/5f234f754e40ec8b2a384b62/191:100/w_1280,c_limit/OpEd-Blood-85758144.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@wired",
+                            "article:modified_time": "2020-07-31T13:00:00.000Z",
+                            "news_keywords": "wired opinion",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "5f21a0d8fd6904b2b54fab11",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "The Dark Virality of a Hollywood Blood-Harvesting Conspiracy",
+                            "parsely-post-id": "5f21a0d8fd6904b2b54fab11",
+                            "twitter:domain": "https://www.wired.com",
+                            "pinterest:image": "https://media.wired.com/photos/5f234f754e40ec8b2a384b62/2:3/w_1000,h_1500,c_limit/OpEd-Blood-85758144.jpg",
+                            "author": "Cond\u00e9 Nast",
+                            "og:title": "The Dark Virality of a Hollywood Blood-Harvesting Conspiracy",
+                            "fb:pages": "19440638720",
+                            "article:author": "Brian Friedberg",
+                            "fb:app_id": "719405864858490",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A centuries-old anti-Semitic myth is spreading freely on far-right corners of social media\u2014suggesting a new digital Dark Age has arrived.",
+                            "og:url": "https://www.wired.com/story/opinion-the-dark-virality-of-a-hollywood-blood-harvesting-conspiracy/",
+                            "google-signin-client_id": "904266558061-dqllerrg1949kl0dfu2k64nhvhtqoee0.apps.googleusercontent.com",
+                            "article:opinion": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.wired.com/photos/5f234f754e40ec8b2a384b62/191:100/w_1280,c_limit/OpEd-Blood-85758144.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...============================================================\nA centuries-old anti-Semitic myth is spreading freely on far-right corners of social media\u2014suggesting a new digital Dark Age has arrived.\n!\nThe best way for platforms to fight back is to take early action when something begins to go viral in hidden spaces.Photograph: Getty Images\u00a0\nSave\nSave\nThe Dark Ages were rife with plague, fanaticism, and accusations that Jews secretly fed off the blood of children. In 2020, we too are beset with plague, rampant , and a persistent rumor that \u201cglobal elites\u201d torture children to harvest the chemical adrenochrome from their blood, which they then inject in order to stay healthy and young.\nA favorite topic of interconnected  and  conspiracy communities, so-called \u201cadrenochrome harvesting\u201d long predates these groups. It has, however, resurrected during the Covid-19 pandemic. Google Trends shows  in searches for adrenochrome in March and June of 2020. It\u2019s prevalent on , , and . Reddit removed a dedicated adrenochrome subreddit on July 30. On Friday, July 31, conspiracy theorists plan to hold the first \u201cChild Lives Matter\u201d protest in Hollywood to \u201cexpose\u201d child trafficking, advertising the event with references to #adrenochrome.\nWIRED OPINION\nABOUT\n**Brian Friedberg** is the senior researcher for the Technology and Social Change Research Project at the Shorenstein Center on Media, Politics, and Public Policy at Harvard's Kennedy School. Blending academic research and open-source intelligence techniques, Friedberg is an investigative ethnographer, focusing on the impacts that alternative media, anonymous communities, and unpopular cultures have on political communication and organization.\nThe adrenochrome harvesting conspiracy theory is a potent example of \u201chidden virality\u201d and the ways in which unpopular culture animate social media platforms outside of the mainstream view. Named by researchers , hidden virality describes dominant content in specific pockets of the internet that are largely unseen by journalists and mass audiences, making them difficult for social media companies to identify and act upon. The impact of hidden virality can\u2019t be stopped by retroactively banning a few thousand Twitter accounts; it is an iterative, memetic phenomenon that outpaces terms of service. Even with early intervention by  and recent movements by ,  and  to crack down on QAnon, adrenochrome harvesting remains a mainstream conversation for some online communities.\n spread virally alongside hoaxes and disinformation. Adrenochrome harvesting isn\u2019t outwardly blamed on Jews, but on \u201csatan...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Wired is known for its in-depth coverage of technology and culture. They generally maintain high journalistic standards and often provide thorough research-backed articles. They may delve into conspiracy theories, but they usually do so with a critical eye, making them a somewhat reliable source for accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-07-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "Although this evidence discusses conspiracy theories involving adrenochrome, it does not specifically address A113 or its relationship with Pixar films. It may provide context for understanding the broader cultural moment, but it does not directly support or refute the specific claim regarding A113."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Does A113 in Pixar movies refer to QAnon's ...",
+                "htmlTitle": "Fact Check: Does <b>A113</b> in <b>Pixar movies</b> refer to QAnon&#39;s ...",
+                "link": "https://www.sportskeeda.com/pop-culture/fact-check-does-a113-pixar-movies-refer-qanon-s-adrenochrome-viral-claim-debunked",
+                "displayLink": "www.sportskeeda.com",
+                "snippet": "Jul 12, 2023 ... Social media users' reactions explored as many related Pixar's A113 to QAnon's Adrenochrome, which is the classroom of many animators. With the\u00a0...",
+                "htmlSnippet": "Jul 12, 2023 <b>...</b> Social media users&#39; reactions explored as many related <b>Pixar&#39;s A113</b> to QAnon&#39;s <b>Adrenochrome</b>, which is the classroom of many animators. With the&nbsp;...",
+                "formattedUrl": "https://www.sportskeeda.com/.../fact-check-does-a113-pixar-movies-refer-q...",
+                "htmlFormattedUrl": "https://www.sportskeeda.com/.../fact-check-does-<b>a113</b>-<b>pixar</b>-<b>movies</b>-refer-q...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSudfyF6EHwGnN-RHWx1Fc0eUjonmt9CsCh9hBVK7O5SA_oOp_5BhXs1J6r&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://staticg.sportskeeda.com/editor/2023/07/1a218-16891025007325-1920.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: Does A113 in Pixar movies refer to QAnon's Adrenochrome? Viral claim debunked",
+                            "article:published_time": "2023-07-12T04:18:43+00:00",
+                            "author": "Srishti Marwah",
+                            "og:title": "Fact Check: Does A113 in Pixar movies refer to QAnon's Adrenochrome? Viral claim debunked",
+                            "google": "notranslate",
+                            "fb:pages": "116151972998",
+                            "og:description": "If you have seen a Pixar movie, you might have noticed how the number A113 is commonly shown.",
+                            "twitter:image": "https://staticg.sportskeeda.com/editor/2023/07/1a218-16891025007325-1920.jpg",
+                            "fb:app_id": "394687130715834",
+                            "article:modified_time": "2023-07-12T04:18:43+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "If you have seen a Pixar movie, you might have noticed how the number A113 is commonly shown.",
+                            "fb:admins": "603431824",
+                            "og:url": "https://www.sportskeeda.com/pop-culture/fact-check-does-a113-pixar-movies-refer-qanon-s-adrenochrome-viral-claim-debunked"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://staticg.sportskeeda.com/editor/2023/07/1a218-16891025007325-1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... shown.\nWith social media users making several claims about films every now and then, netizens are claiming that A113, commonly seen in Pixas movies, refers to adrenochrome, a chemical produced from adrenaline.\nHowever, this A113 is the adrenaline claimed to be allegedly taken from the blood of children, primarily to stay healthy and young. Social media users have now related this term to the commonly seen number in many Pixas movies, A113. Many netizens have shared videos claiming that the number A113 appears in many movies like _A Bug\u2019s Life, Toy Story_ and even _Coco._\nWith many social media users falling prey to the misinformation being spread by netizens, the claim is actually untrue and fake. That's because the alphanumeric string is not related to the production house.\nInstead, the number is shown in the movies, as many Pixar animators like Pete Doctor studies in the classroom whose number was A113. Hence, it's commonly used in movies.\n> \nExpand Tweet\nHence, the claim of the string being attached to QAnon's Adrenochrome is \n* * *\nSocial media users\u2019 reactions explored as many related Pixar\u2019s A113 to QAnon's Adrenochrome, which is the classroom of many animators\n-------------------------------------------------------------------------------------------------------------------------------------\nWith the truth being debunked about  commonly showing the number A113, it's also crucial to know that Pixar shared a video from their account that talked about the origin of the numeric string.\nAs per the video, many Pixar animators studied in class with the number, and hence, the number is shown often in the movies.\n!\nAt the end of the video shared by Pixar, the three animators are also pointing towards the door with the same numeric string. Furthermore, in 1999, when asked about the number, popular director Brad Bird told a publication about the :\n> \u201cA113 was our classroom number. On \"Family Dog\" I put it on the license plate of the thieves' car. And I put it into every single one of my films, including my \"Simpsons\" episodes. It's sort of my version of Hirschfeld's Nina.\u201d\nWhile the fake news being spread about Pixar\u2019s number having a weird connection has , many people are falling prey to the misinformation and sharing their thoughts by commenting on the video uploaded by @ReturnOfKappy, who also made the same claim.\nAt the same time, there were others who tried to bust the fake news. Here's how social media users commented:\n!(blob:https://www.sportskeeda.com/93900fd85ce00c6235b45a4cd833ae83)\nSocial media users reacted to Pixar showing a particular number in the movies commonly. (Image via Twitter)\n!(blob:https://www.sports...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Sportskeeda focuses largely on sports news and entertainment, which means it may not be the best source for addressing the claim regarding Pixar and adrenochrome. Content accuracy can vary, and while some articles are well-researched, others may propagate speculation and sensationalism."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-07-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence directly refutes the claim by explaining that A113 is related to the classroom of Pixar animators and has no connection to adrenochrome. It provides a succinct explanation of the actual purpose of the number in the context of Pixar, effectively debunking the misinformation spread on social media."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Pixar's One-World Theory: All the Movies Are Connected",
+                "htmlTitle": "<b>Pixar&#39;s</b> One-World Theory: All the <b>Movies</b> Are <b>Connected</b>",
+                "link": "https://www.nbcnews.com/pop-culture/movies/pixar-s-one-world-theory-all-movies-are-connected-n708621",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Jan 18, 2017 ... Two new Disney videos detail how all of the Pixar movies are part of the same extended universe, confirming fans' long-held theories.",
+                "htmlSnippet": "Jan 18, 2017 <b>...</b> Two new Disney videos detail how all of the <b>Pixar movies</b> are part of the same extended universe, confirming fans&#39; long-held theories.",
+                "formattedUrl": "https://www.nbcnews.com/.../movies/pixar-s-one-world-theory-all-movies-a...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../<b>movies</b>/<b>pixar</b>-s-one-world-theory-all-<b>movies</b>-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuMl42E2hifZiJa83-bCD-eKAuuWrfZD-_7f2T7Jx6ziBJ7Fdlk9Psh4L&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Pixar's one-world theory: All the movies are connected",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Two new Disney videos detail how all of the Pixar movies are part of the same extended universe, confirming fans' long-held theories.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg",
+                            "branch:deeplink:description": "Two new Disney videos detail how all of the Pixar movies are part of the same extended universe, confirming fans' long-held theories.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Pixar's one-world theory: All the movies are connected",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg",
+                            "og:title": "Pixar's one-world theory: All the movies are connected",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Two new Disney videos detail how all of the Pixar movies are part of the same extended universe, confirming fans' long-held theories.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/pop-culture/movies/pixar-s-one-world-theory-all-movies-are-connected-n708621",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2017_03/1870066/170118-toy-story-4.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Walt Disney Co. has all but confirmed the most feverish of movie fans' conspiracy theories: All of the Pixar movies do, in fact, exist in the same universe, run by an evil corporation inside Buckingham Palace.\n!\nWoody and Buzz Lightyear in a promotional card for 'Toy Story 4,' scheduled for release in 2019.Pixar via AP\nThe Grand Unified Theory of Pixar Movies has been around for many years,  by online film critic Jon Negroni. Eagle-eyed Pixar fans have long known that  \u2014 the classroom at the California Institute of the Arts where many Pixar animators studied \u2014 appears in many of the films, along with a Pizza Planet delivery truck.\nBut Disney \u2014 which bought Pixar in 2006 \u2014 has said little about the widespread speculation.\nUntil now.\nIn two promotional videos published over the weekend \u2014 one on Disney's own Facebook page and one on the Facebook page for \"Toy Story\" \u2014 Disney thoroughly ties together nearly all of the Pixar movies.\nThe videos connect \"A Bug's Life\" to \"Toy Story\" to \"Monsters, Inc.\" to \"Finding Nemo\" to \"The Incredibles\" to \"Cars\" to \"Wall-E\" to \"Ratatouille,\" all the way up to the most recent features, \"Inside Out\" and \"Finding Dory.\"\nFor example:\n*   In \"Up,\" Carl Fredricksen's truck is outfitted with the same tires Lightning...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "NBC News is one of the leading news organizations with a strong commitment to accurate reporting. Their journalistic standards are high, making it likely to offer fact-checked news. They have a long history of covering various topics responsibly and can be trusted to debunk rumors and misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-01-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses the overarching theory of connection across Pixar movies, including classroom references like A113. While it does not directly refute the adrenochrome claim, it indicates that A113's intended purpose is benign and unrelated to any nefarious contexts, contributing some relevance."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Tony Bellissimo (@TonyBellissimo) / X",
+                "htmlTitle": "Tony Bellissimo (@TonyBellissimo) / X",
+                "link": "https://twitter.com/tonybellissimo",
+                "displayLink": "twitter.com",
+                "snippet": "JUST IN: Pro-Palestine protesters have removed the American flag outside of Union Station in Washington DC before replacing it with a large Palestinian flag\u00a0...",
+                "htmlSnippet": "JUST IN: Pro-Palestine protesters have removed the American flag outside of Union Station in Washington DC before replacing it with a large Palestinian flag&nbsp;...",
+                "formattedUrl": "https://twitter.com/tonybellissimo",
+                "htmlFormattedUrl": "https://twitter.com/tonybellissimo",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_NdCtTwYAC4uB_nZ7SetbDZOMQZzKg952_umnx0mlgI8QLUGU7uO7FE&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GTN7NwEWcAALi00.jpg",
+                            "width": "974",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GTN7NwEWcAALi00?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GQZZiBtaIAEhz0A.png",
+                            "width": "638",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GQZZiBtaIAEhz0A?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GNadPSJbkAAjxSm.jpg",
+                            "width": "1290",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GNadPSJbkAAjxSm?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GNAUirNXoAEQXa-.png",
+                            "width": "474",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GNAUirNXoAEQXa-?format=jpg&name=thumb"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "44196397",
+                            "givenname": "Elon Musk",
+                            "disambiguatingdescription": "X",
+                            "additionalname": "elonmusk"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "44196397",
+                            "givenname": "Elon Musk",
+                            "disambiguatingdescription": "X",
+                            "additionalname": "elonmusk"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1198468995541880834",
+                            "givenname": "Holden Culotta",
+                            "additionalname": "Holden_Culotta"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1390762874809761793",
+                            "givenname": "Defiant L\u2019s",
+                            "disambiguatingdescription": "Resist the Mainstream",
+                            "additionalname": "DefiantLs"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1222539520308105223",
+                            "givenname": "Harrison Krank",
+                            "additionalname": "HarrisonKrank"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "191871143",
+                            "givenname": "The Vigilant Fox \ud83e\udd8a",
+                            "disambiguatingdescription": "Vigilant News",
+                            "additionalname": "VigilantFox"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1694893985771274240",
+                            "givenname": "Dr. C IET 17",
+                            "additionalname": "DrC_IET17"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1499671943569625090",
+                            "givenname": "\u0139\ud83c\udd7e\ufe0fXG\u2070\u0110\u00b97\ufe0f\u20e3\u2728\ufe0f",
+                            "additionalname": "LOXGOD17"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1049265018280263680",
+                            "givenname": "Steve Will Do It",
+                            "disambiguatingdescription": "Happy Dad - Hard Seltzer & Tea",
+                            "additionalname": "stevewilldoit"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "1499671943569625090",
+                            "givenname": "\u0139\ud83c\udd7e\ufe0fXG\u2070\u0110\u00b97\ufe0f\u20e3\u2728\ufe0f",
+                            "additionalname": "LOXGOD17"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "39731494",
+                            "givenname": "Tony Bellissimo",
+                            "additionalname": "TonyBellissimo"
+                        },
+                        {
+                            "identifier": "498961017",
+                            "givenname": "Robert Griffin III",
+                            "additionalname": "RGIII"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1816261986994536780/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1816261986994536780/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1816261986994536780/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1816261986994536780"
+                        },
+                        {
+                            "userinteractioncount": "214",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "687220",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/elonmusk/status/1815930558708363717/likes"
+                        },
+                        {
+                            "userinteractioncount": "114907",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/elonmusk/status/1815930558708363717/retweets"
+                        },
+                        {
+                            "userinteractioncount": "5683",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/elonmusk/status/1815930558708363717/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "36413",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/elonmusk/status/1815930558708363717"
+                        },
+                        {
+                            "userinteractioncount": "66368642",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "661858",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/elonmusk/status/1815929451256979636/likes"
+                        },
+                        {
+                            "userinteractioncount": "138078",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/elonmusk/status/1815929451256979636/retweets"
+                        },
+                        {
+                            "userinteractioncount": "8639",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/elonmusk/status/1815929451256979636/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "44410",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/elonmusk/status/1815929451256979636"
+                        },
+                        {
+                            "userinteractioncount": "100107911",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1815443027290452405/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1815443027290452405/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1815443027290452405/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1815443027290452405"
+                        },
+                        {
+                            "userinteractioncount": "289",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "39238",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/Holden_Culotta/status/1815203542082388446/likes"
+                        },
+                        {
+                            "userinteractioncount": "8418",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/Holden_Culotta/status/1815203542082388446/retweets"
+                        },
+                        {
+                            "userinteractioncount": "403",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/Holden_Culotta/status/1815203542082388446/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "623",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/Holden_Culotta/status/1815203542082388446"
+                        },
+                        {
+                            "userinteractioncount": "2820696",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "51646",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/DefiantLs/status/1815129768846889368/likes"
+                        },
+                        {
+                            "userinteractioncount": "6140",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/DefiantLs/status/1815129768846889368/retweets"
+                        },
+                        {
+                            "userinteractioncount": "254",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/DefiantLs/status/1815129768846889368/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "262",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/DefiantLs/status/1815129768846889368"
+                        },
+                        {
+                            "userinteractioncount": "2968668",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "299358",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/HarrisonKrank/status/1815127674227925391/likes"
+                        },
+                        {
+                            "userinteractioncount": "100869",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/HarrisonKrank/status/1815127674227925391/retweets"
+                        },
+                        {
+                            "userinteractioncount": "5394",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/HarrisonKrank/status/1815127674227925391/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2889",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/HarrisonKrank/status/1815127674227925391"
+                        },
+                        {
+                            "userinteractioncount": "23310911",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "84093",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/VigilantFox/status/1809254885357134165/likes"
+                        },
+                        {
+                            "userinteractioncount": "25223",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/VigilantFox/status/1809254885357134165/retweets"
+                        },
+                        {
+                            "userinteractioncount": "877",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/VigilantFox/status/1809254885357134165/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2003",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/VigilantFox/status/1809254885357134165"
+                        },
+                        {
+                            "userinteractioncount": "4959184",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803629522576970056/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803629522576970056/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803629522576970056/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803629522576970056"
+                        },
+                        {
+                            "userinteractioncount": "236",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "23947",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/DrC_IET17/status/1803456192204701944/likes"
+                        },
+                        {
+                            "userinteractioncount": "3415",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/DrC_IET17/status/1803456192204701944/retweets"
+                        },
+                        {
+                            "userinteractioncount": "355",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/DrC_IET17/status/1803456192204701944/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "702",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/DrC_IET17/status/1803456192204701944"
+                        },
+                        {
+                            "userinteractioncount": "11794959",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803509730482287097/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803509730482287097/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803509730482287097/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803509730482287097"
+                        },
+                        {
+                            "userinteractioncount": "181",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1802771171664187507/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1802771171664187507/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1802771171664187507/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1802771171664187507"
+                        },
+                        {
+                            "userinteractioncount": "205",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "575",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/LOXGOD17/status/1795825276196384986/likes"
+                        },
+                        {
+                            "userinteractioncount": "100",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/LOXGOD17/status/1795825276196384986/retweets"
+                        },
+                        {
+                            "userinteractioncount": "11",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/LOXGOD17/status/1795825276196384986/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "19",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/LOXGOD17/status/1795825276196384986"
+                        },
+                        {
+                            "userinteractioncount": "28022",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1792068374815821824/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1792068374815821824/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1792068374815821824/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1792068374815821824"
+                        },
+                        {
+                            "userinteractioncount": "266",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "9",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1789790792120217864/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1789790792120217864/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1789790792120217864/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1789790792120217864"
+                        },
+                        {
+                            "userinteractioncount": "369",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "101575",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/stevewilldoit/status/1788828210139976120/likes"
+                        },
+                        {
+                            "userinteractioncount": "79566",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/stevewilldoit/status/1788828210139976120/retweets"
+                        },
+                        {
+                            "userinteractioncount": "2288",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/stevewilldoit/status/1788828210139976120/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "14267",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/stevewilldoit/status/1788828210139976120"
+                        },
+                        {
+                            "userinteractioncount": "12530082",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "223",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/LOXGOD17/status/1788963345128661195/likes"
+                        },
+                        {
+                            "userinteractioncount": "39",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/LOXGOD17/status/1788963345128661195/retweets"
+                        },
+                        {
+                            "userinteractioncount": "5",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/LOXGOD17/status/1788963345128661195/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "8",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/LOXGOD17/status/1788963345128661195"
+                        },
+                        {
+                            "userinteractioncount": "14552",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1788309945924165996/likes"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/TonyBellissimo/status/1788309945924165996/retweets"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/TonyBellissimo/status/1788309945924165996/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/TonyBellissimo/status/1788309945924165996"
+                        },
+                        {
+                            "userinteractioncount": "288",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "1229",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/RGIII/status/1787170244932280602/likes"
+                        },
+                        {
+                            "userinteractioncount": "63",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/RGIII/status/1787170244932280602/retweets"
+                        },
+                        {
+                            "userinteractioncount": "11",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/RGIII/status/1787170244932280602/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "25",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/RGIII/status/1787170244932280602"
+                        },
+                        {
+                            "userinteractioncount": "194340",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/profile_images/1615469577496039424/ghtrL7VJ_200x200.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "Tony Bellissimo (@TonyBellissimo) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://user?screen_name=TonyBellissimo",
+                            "title": "Tony Bellissimo (@TonyBellissimo) on X",
+                            "og:description": "#BillsMafia",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://user?screen_name=TonyBellissimo",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/TonyBellissimo",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT0H0M53S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1816197431114989868",
+                            "contenturl": "https://video.twimg.com/amplify_video/1816197182778736640/vid/avc1/720x1280/853eORWLnK7brMk7.mp4?tag=14",
+                            "uploaddate": "2024-07-24T19:43:05.000Z",
+                            "name": "@CollinRugg's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1816197182778736640/img/R6OzHujq7__NSjrS.jpg"
+                        },
+                        {
+                            "duration": "PT0H6M22S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1815929451256979636",
+                            "contenturl": "https://video.twimg.com/amplify_video/1815929105650520064/vid/avc1/1280x720/xeU2J2G42czxpU6I.mp4?tag=16",
+                            "uploaddate": "2024-07-24T01:58:14.000Z",
+                            "name": "@elonmusk's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1815929105650520064/img/wr7-IzAE7Ba_JNv0.jpg"
+                        },
+                        {
+                            "duration": "PT0H4M48S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1815439295643009381",
+                            "contenturl": "https://video.twimg.com/amplify_video/1815438822642987008/vid/avc1/1080x1920/SWddRItP6ziAsZmt.mp4?tag=16",
+                            "uploaddate": "2024-07-22T17:30:31.000Z",
+                            "name": "@stoolpresidente's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1815438822642987008/img/mr4LkkxPzUGI1l8u.jpg"
+                        },
+                        {
+                            "duration": "PT0H1M46S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1815203542082388446",
+                            "contenturl": "https://video.twimg.com/amplify_video/1815203453808873472/vid/avc1/884x494/k2ZaS4Qh6jVJ42Kz.mp4?tag=16",
+                            "uploaddate": "2024-07-22T01:53:43.000Z",
+                            "name": "@Holden_Culotta's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1815203453808873472/img/sj05jc-8FPotLJNd.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M28S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1815129768846889368",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1814067488075743232/pu/vid/avc1/1280x720/aCuA6eeVVx7lGezk.mp4?tag=12",
+                            "uploaddate": "2024-07-21T21:00:35.000Z",
+                            "name": "@DefiantLs's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1814067488075743232/pu/img/Kwl2JPWeMxuDCD8g.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M51S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1815127674227925391",
+                            "contenturl": "https://video.twimg.com/amplify_video/1815113959629836289/vid/avc1/1266x720/DkCI_bk0b-gr8BXf.mp4?tag=16",
+                            "uploaddate": "2024-07-21T20:52:15.000Z",
+                            "name": "@HarrisonKrank's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1815113959629836289/img/RrwYVcP36Z47qe_T.jpg"
+                        },
+                        {
+                            "duration": "PT0H1M54S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1809254885357134165",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1809254681337597952/pu/vid/avc1/1080x1080/4Me1JWoO9vCUUGs4.mp4?tag=14",
+                            "uploaddate": "2024-07-05T15:55:53.000Z",
+                            "name": "@VigilantFox's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1809254681337597952/pu/img/E85OZyG-SnC2jHtB.jpg"
+                        },
+                        {
+                            "duration": "PT0H1M17S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1803176747573322133",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1803166330641616896/pu/vid/avc1/576x1024/_0RlGaiuZNr4ymeo.mp4?tag=12",
+                            "uploaddate": "2024-06-18T21:23:32.000Z",
+                            "name": "@stillgray's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1803166330641616896/pu/img/Z1bsWqMQxfi9UBrB.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M50S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1803456192204701944",
+                            "contenturl": "https://video.twimg.com/amplify_video/1803456117621596160/vid/avc1/576x1024/HH3318uNcY5KkDev.mp4?tag=16",
+                            "uploaddate": "2024-06-19T15:53:57.000Z",
+                            "name": "@DrC_IET17's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1803456117621596160/img/bM2vNlgC7W8uh0YE.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M35S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1802717774462189601",
+                            "contenturl": "https://video.twimg.com/amplify_video/1802717539728015360/vid/avc1/892x720/Fg-COFe-pKMmkxaS.mp4?tag=14",
+                            "uploaddate": "2024-06-17T14:59:44.000Z",
+                            "name": "@CollinRugg's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1802717539728015360/img/ikv9v7FMZcvXASvO.jpg"
+                        },
+                        {
+                            "duration": "PT0H2M19S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1795825276196384986",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1795824981600772096/pu/vid/avc1/720x1280/S_LgHOS09PWWdJGR.mp4?tag=12",
+                            "uploaddate": "2024-05-29T14:31:25.000Z",
+                            "name": "@LOXGOD17's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1795824981600772096/pu/img/oOLQXNsgByIsHPkn.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M10S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1792016446492430532",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1792015071939346432/pu/vid/avc1/720x900/kccDZfDFO1LHM0qk.mp4?tag=12",
+                            "uploaddate": "2024-05-19T02:16:29.000Z",
+                            "name": "@NLLBandits's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1792015071939346432/pu/img/ECgDKFi9LaG1Moo0.jpg"
+                        },
+                        {
+                            "duration": "PT0H2M19S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1788963345128661195",
+                            "contenturl": "https://video.twimg.com/ext_tw_video/1788962684634791936/pu/vid/avc1/720x1280/AFbu8QX3-c8IXvDC.mp4?tag=12",
+                            "uploaddate": "2024-05-10T16:04:33.000Z",
+                            "name": "@LOXGOD17's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/ext_tw_video_thumb/1788962684634791936/pu/img/hO8ryaq4D808h-BW.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M38S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1787170244932280602",
+                            "contenturl": "https://video.twimg.com/amplify_video/1787170128699760640/vid/avc1/720x1280/ud3iNaqI6Zxbd1EZ.mp4?tag=14",
+                            "uploaddate": "2024-05-05T17:19:25.000Z",
+                            "name": "@RGIII's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1787170128699760640/img/T3xfF7T2iU4JsUzQ.jpg"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Profile posts"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/EH0aYvSG1m"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/E58MlrQZqI"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/SJqIdbA7JR"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/43LZ4zoNYN"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/5EeARifyLo"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/yUzzTC4Lds"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/VIbbCLLwLY"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/8dARnfMr7r"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/HmCRnTw6Rp"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/QvyQdVD9zD"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/UGRVhXCyGD"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/profile_images/1615469577496039424/ghtrL7VJ_200x200.jpg"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1816261986994536780",
+                            "commentcount": "0",
+                            "articlebody": "This is a demonstration or deformation? I'm disgusted\u2026don\u2019t ever burn our flag. Bunch of ass clowns.",
+                            "position": "1",
+                            "datecreated": "2024-07-24T23:59:36.000Z",
+                            "isbasedon": "https://twitter.com/CollinRugg/status/1816197431114989868",
+                            "datepublished": "2024-07-24T23:59:36.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1816261986994536780"
+                        },
+                        {
+                            "identifier": "1815965186593022395",
+                            "position": "2",
+                            "datecreated": "2024-07-24T04:20:14.000Z",
+                            "datepublished": "2024-07-24T04:20:14.000Z"
+                        },
+                        {
+                            "identifier": "1815930558708363717",
+                            "commentcount": "36413",
+                            "articlebody": "Shouldn\u2019t the nominee be decided by a party vote? Democracy etc \u2026",
+                            "datecreated": "2024-07-24T02:02:38.000Z",
+                            "datepublished": "2024-07-24T02:02:38.000Z",
+                            "url": "https://twitter.com/elonmusk/status/1815930558708363717"
+                        },
+                        {
+                            "identifier": "1815930234795135168",
+                            "position": "3",
+                            "datecreated": "2024-07-24T02:01:20.000Z",
+                            "datepublished": "2024-07-24T02:01:20.000Z"
+                        },
+                        {
+                            "identifier": "1815929451256979636",
+                            "commentcount": "44410",
+                            "articlebody": "About 3 weeks ago, the media told you that Biden was \u201csharp as a tack\u201d \ud83d\ude44 2 days ago, the poor guy was basically forced at gunpoint to resign as Dem nominee. His staff weren\u2019t even...",
+                            "datecreated": "2024-07-24T01:58:14.000Z",
+                            "datepublished": "2024-07-24T01:58:14.000Z",
+                            "url": "https://twitter.com/elonmusk/status/1815929451256979636"
+                        },
+                        {
+                            "identifier": "1815443027290452405",
+                            "commentcount": "0",
+                            "articlebody": "Where is the LIE? @stoolpresidente \ud83e\udee1 forget the pizza or sports, Dave speaks unapologetically because he has Pride in OUR freedoms.",
+                            "position": "4",
+                            "datecreated": "2024-07-22T17:45:21.000Z",
+                            "isbasedon": "https://twitter.com/stoolpresidente/status/1815439295643009381",
+                            "datepublished": "2024-07-22T17:45:21.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1815443027290452405"
+                        },
+                        {
+                            "identifier": "1815406897106952514",
+                            "position": "5",
+                            "datecreated": "2024-07-22T15:21:47.000Z",
+                            "datepublished": "2024-07-22T15:21:47.000Z"
+                        },
+                        {
+                            "identifier": "1815203542082388446",
+                            "commentcount": "623",
+                            "articlebody": "RFK Jr. on Fox News: The Democratic Party made a \u201cstrategic mistake\u201d shutting me out of the primary \u201cThey changed the primary rules while we were running the primary. They changed 60...",
+                            "datecreated": "2024-07-22T01:53:43.000Z",
+                            "datepublished": "2024-07-22T01:53:43.000Z",
+                            "url": "https://twitter.com/Holden_Culotta/status/1815203542082388446"
+                        },
+                        {
+                            "identifier": "1815221311989571796",
+                            "position": "6",
+                            "datecreated": "2024-07-22T03:04:20.000Z",
+                            "datepublished": "2024-07-22T03:04:20.000Z"
+                        },
+                        {
+                            "identifier": "1815129768846889368",
+                            "commentcount": "262",
+                            "articlebody": "Remember when Vivek Ramaswamy called this whole situation back in November?",
+                            "datecreated": "2024-07-21T21:00:35.000Z",
+                            "datepublished": "2024-07-21T21:00:35.000Z",
+                            "url": "https://twitter.com/DefiantLs/status/1815129768846889368"
+                        },
+                        {
+                            "identifier": "1815221035178082483",
+                            "position": "7",
+                            "datecreated": "2024-07-22T03:03:14.000Z",
+                            "datepublished": "2024-07-22T03:03:14.000Z"
+                        },
+                        {
+                            "identifier": "1815127674227925391",
+                            "commentcount": "2889",
+                            "articlebody": "Here is the clip that ended Kamala\u2019s first presidential campaign, X do your thing, make sure everyone sees this",
+                            "datecreated": "2024-07-21T20:52:15.000Z",
+                            "datepublished": "2024-07-21T20:52:15.000Z",
+                            "url": "https://twitter.com/HarrisonKrank/status/1815127674227925391"
+                        },
+                        {
+                            "identifier": "1809293977168093504",
+                            "position": "8",
+                            "datecreated": "2024-07-05T18:31:13.000Z",
+                            "datepublished": "2024-07-05T18:31:13.000Z"
+                        },
+                        {
+                            "identifier": "1809254885357134165",
+                            "commentcount": "2003",
+                            "articlebody": "Joe Rogan asks how we have $175 billion to send to Ukraine but NOT $5 billion to send Maui. People who lost their homes to the fire got a measly $700 while we \u201caccidentally\u201d allocated an...",
+                            "datecreated": "2024-07-05T15:55:53.000Z",
+                            "datepublished": "2024-07-05T15:55:53.000Z",
+                            "url": "https://twitter.com/VigilantFox/status/1809254885357134165"
+                        },
+                        {
+                            "identifier": "1803629522576970056",
+                            "commentcount": "0",
+                            "articlebody": "We, the United States, need to focus our attention not on the rest of the world while our cities and citizens live like this. Get the sick help, and get the homeless the counsel they need....",
+                            "position": "9",
+                            "datecreated": "2024-06-20T03:22:42.000Z",
+                            "isbasedon": "https://twitter.com/stillgray/status/1803176747573322133",
+                            "datepublished": "2024-06-20T03:22:42.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803629522576970056"
+                        },
+                        {
+                            "identifier": "1803628014871154744",
+                            "position": "10",
+                            "datecreated": "2024-06-20T03:16:43.000Z",
+                            "datepublished": "2024-06-20T03:16:43.000Z"
+                        },
+                        {
+                            "identifier": "1803456192204701944",
+                            "commentcount": "702",
+                            "articlebody": "What\u2019s A113? The more you know",
+                            "datecreated": "2024-06-19T15:53:57.000Z",
+                            "datepublished": "2024-06-19T15:53:57.000Z",
+                            "url": "https://twitter.com/DrC_IET17/status/1803456192204701944"
+                        },
+                        {
+                            "identifier": "1803509730482287097",
+                            "commentcount": "0",
+                            "articlebody": "California \ud83d\ude24",
+                            "position": "11",
+                            "datecreated": "2024-06-19T19:26:41.000Z",
+                            "isbasedon": "https://twitter.com/CollinRugg/status/1803227186176074203",
+                            "datepublished": "2024-06-19T19:26:41.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1803509730482287097"
+                        },
+                        {
+                            "identifier": "1802771171664187507",
+                            "commentcount": "0",
+                            "articlebody": "California = lost",
+                            "position": "12",
+                            "datecreated": "2024-06-17T18:31:55.000Z",
+                            "isbasedon": "https://twitter.com/CollinRugg/status/1802717774462189601",
+                            "datepublished": "2024-06-17T18:31:55.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1802771171664187507"
+                        },
+                        {
+                            "identifier": "1795972418931953846",
+                            "position": "13",
+                            "datecreated": "2024-05-30T00:16:06.000Z",
+                            "datepublished": "2024-05-30T00:16:06.000Z"
+                        },
+                        {
+                            "identifier": "1795825276196384986",
+                            "commentcount": "19",
+                            "articlebody": "As long as Josh is the face of the franchise. Our superbowl window will remain open\ud83d\udcaf Go Bills\ud83d\ude24 #BillsMafia",
+                            "datecreated": "2024-05-29T14:31:25.000Z",
+                            "datepublished": "2024-05-29T14:31:25.000Z",
+                            "url": "https://twitter.com/LOXGOD17/status/1795825276196384986"
+                        },
+                        {
+                            "identifier": "1792068374815821824",
+                            "commentcount": "0",
+                            "articlebody": "Buffalo back in the champion\u2019s bracket",
+                            "position": "14",
+                            "datecreated": "2024-05-19T05:42:50.000Z",
+                            "isbasedon": "https://twitter.com/NLLBandits/status/1792016446492430532",
+                            "datepublished": "2024-05-19T05:42:50.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1792068374815821824"
+                        },
+                        {
+                            "identifier": "1789790792120217864",
+                            "commentcount": "0",
+                            "articlebody": "\ud83e\udee1 thank you",
+                            "position": "15",
+                            "datecreated": "2024-05-12T22:52:32.000Z",
+                            "datepublished": "2024-05-12T22:52:32.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1789790792120217864"
+                        },
+                        {
+                            "identifier": "1789018603658113208",
+                            "position": "16",
+                            "datecreated": "2024-05-10T19:44:08.000Z",
+                            "datepublished": "2024-05-10T19:44:08.000Z"
+                        },
+                        {
+                            "identifier": "1788828210139976120",
+                            "commentcount": "14267",
+                            "articlebody": "Fuck it I\u2019m giving a $10,000 watch to someone who likes and retweets and follows me . Will respond in 24 hours . Will ship u a Rolex next day on god.",
+                            "datecreated": "2024-05-10T07:07:34.000Z",
+                            "datepublished": "2024-05-10T07:07:34.000Z",
+                            "url": "https://twitter.com/stevewilldoit/status/1788828210139976120"
+                        },
+                        {
+                            "identifier": "1789018536574415096",
+                            "position": "17",
+                            "datecreated": "2024-05-10T19:43:52.000Z",
+                            "datepublished": "2024-05-10T19:43:52.000Z"
+                        },
+                        {
+                            "identifier": "1788963345128661195",
+                            "commentcount": "8",
+                            "articlebody": "It's Josh Allen's month and that's the bottom line\ud83d\ude24Go Bills\ud83d\ude24 #BillsMafia",
+                            "datecreated": "2024-05-10T16:04:33.000Z",
+                            "datepublished": "2024-05-10T16:04:33.000Z",
+                            "url": "https://twitter.com/LOXGOD17/status/1788963345128661195"
+                        },
+                        {
+                            "identifier": "1788309945924165996",
+                            "commentcount": "0",
+                            "articlebody": "Bang bang play",
+                            "position": "18",
+                            "datecreated": "2024-05-08T20:48:10.000Z",
+                            "isbasedon": "https://twitter.com/nflrums/status/1787951691251229049",
+                            "datepublished": "2024-05-08T20:48:10.000Z",
+                            "url": "https://twitter.com/TonyBellissimo/status/1788309945924165996"
+                        },
+                        {
+                            "identifier": "1787342873509199935",
+                            "position": "19",
+                            "datecreated": "2024-05-06T04:45:22.000Z",
+                            "datepublished": "2024-05-06T04:45:22.000Z"
+                        },
+                        {
+                            "identifier": "1787170244932280602",
+                            "commentcount": "25",
+                            "articlebody": "Keon Coleman on what he looks forward to the most about Buffalo, \u201cWinning\u2026Playing with Josh Allen and interacting with Bills Mafia. We got the best fans in the country. I ain\u2019t lie, I...",
+                            "datecreated": "2024-05-05T17:19:25.000Z",
+                            "datepublished": "2024-05-05T17:19:25.000Z",
+                            "url": "https://twitter.com/RGIII/status/1787170244932280602"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Welcome to x.com!\nWe are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.\nFor more details, see our Privacy Policy:",
+                    "content_tokens": 37
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Twitter is an unfiltered social media platform where misinformation can spread rapidly. While it can serve as a tool for breaking news, the reliability of the information varies significantly depending on the source. It often lacks fact-checking, making it a risky platform for accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence does not address the claim concerning A113's association with adrenochrome at all. It is irrelevant to the specific inquiry regarding Pixar and does not provide any contextual support."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "A113 - Adrenochrome - 9GAG",
+                "htmlTitle": "<b>A113</b> - <b>Adrenochrome</b> - 9GAG",
+                "link": "https://9gag.com/gag/aPAvDXw",
+                "displayLink": "9gag.com",
+                "snippet": "Apr 25, 2024 ... ... Pixar staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every Pixar film.\" Reply.",
+                "htmlSnippet": "Apr 25, 2024 <b>...</b> ... <b>Pixar</b> staff) have used the number in their professional works. It is said to appear in some way, shape, or form in every <b>Pixar</b> film.&quot; Reply.",
+                "formattedUrl": "https://9gag.com/gag/aPAvDXw",
+                "htmlFormattedUrl": "https://9gag.com/gag/aPAvDXw",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPzfcGRtovKHhoTd1pGKMRveIOnaYw7OUONfe0fUCsV_fKWUFdTWtFve6M&s",
+                            "width": "194",
+                            "height": "259"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "9GAG",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#222",
+                            "og:site_name": "9GAG",
+                            "al:ios:app_name": "9GAG",
+                            "og:title": "A113 - Adrenochrome - Video",
+                            "apple-mobile-web-app-title": "9GAG",
+                            "al:android:package": "com.ninegag.android.app",
+                            "al:ios:url": "ninegag://9gag.com/gag/aPAvDXw",
+                            "og:description": "19 points \u2022 20 comments",
+                            "twitter:image": "https://images-cdn.9gag.com/photo/aPAvDXw_ogimage.jpg",
+                            "al:ios:app_store_id": "545551605",
+                            "al:android:url": "ninegag://9gag.com/gag/aPAvDXw",
+                            "twitter:site": "@9gag",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover",
+                            "og:url": "http://9gag.com/gag/aPAvDXw",
+                            "al:android:app_name": "9GAG"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img-comment-fun.9cache.com/media/aPw13Pn/a2wRld4P_700w_0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A113 - Adrenochrome - 9GAG\n===============\n(javascript:void\\(0\\);)",
+                    "content_tokens": 21
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "9gag primarily focuses on humor and entertainment. While there can be entertaining content related to pop culture, the platform is not built for credible information, and the potential for misleading memes or false information is high."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-04-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence also does not provide relevant context or arguments related to the relationship between A113 and adrenochrome. It reiterates the general presence of the number in Pixar films without addressing the claim at hand."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "How QAnon Became Obsessed With 'Adrenochrome,' an Imaginary ...",
+                "htmlTitle": "How QAnon Became Obsessed With &#39;<b>Adrenochrome</b>,&#39; an Imaginary ...",
+                "link": "https://www.thedailybeast.com/how-qanon-became-obsessed-with-adrenochrome-an-imaginary-drug-hollywood-is-harvesting-from-kids",
+                "displayLink": "www.thedailybeast.com",
+                "snippet": "Aug 14, 2020 ... Followers of the pro-Trump conspiracy theory QAnon believe Hollywood and Democratic elites take a psychedelic drug called Adrenochrome\u00a0...",
+                "htmlSnippet": "Aug 14, 2020 <b>...</b> Followers of the pro-Trump conspiracy theory QAnon believe Hollywood and Democratic elites take a psychedelic drug called <b>Adrenochrome</b>&nbsp;...",
+                "formattedUrl": "https://www.thedailybeast.com/how-qanon-became-obsessed-with-adrenoch...",
+                "htmlFormattedUrl": "https://www.thedailybeast.com/how-qanon-became-obsessed-with-<b>adrenoch</b>...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Tarpley Hitt",
+                            "title": "Reporter"
+                        },
+                        {
+                            "fn": "Tarpley Hitt",
+                            "photo": "https://img.thedailybeast.com/image/upload/c_fill,h_200,w_200,x_0,y_0/v1532978537/tarpley1_kgmsm9.jpg",
+                            "title": "Reporter"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5v-P95o7o6IfxkMxljjjCcLtplZESVJ_e_2_VZ-SydhzoBFksqjjLyGo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "role": "Reporter"
+                        },
+                        {
+                            "jobtitle": "Reporter",
+                            "name": "Tarpley Hitt"
+                        },
+                        {
+                            "image": "https://img.thedailybeast.com/image/upload/c_fill,h_200,w_200,x_0,y_0/v1532978537/tarpley1_kgmsm9.jpg",
+                            "jobtitle": "Reporter",
+                            "name": "Tarpley Hitt",
+                            "email": "Tarpley.Hitt@thedailybeast.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1686,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1597385812/200814-hitt-hollywood-blood-hero_mugwbc",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2020-08-14T08:34:37.000Z",
+                            "og:site_name": "The Daily Beast",
+                            "sailthru.expire_date": "2020-08-28T08:34:37.000Z",
+                            "title": "How QAnon Became Obsessed With \u2018Adrenochrome,\u2019 an Imaginary Drug Hollywood Is \u2018Harvesting\u2019 from Kids",
+                            "og:description": "Followers of the pro-Trump conspiracy theory QAnon believe Hollywood and Democratic elites take a psychedelic drug called Adrenochrome harvested from the fear of children.",
+                            "twitter:image": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1686,w_3000,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1597385812/200814-hitt-hollywood-blood-hero_mugwbc",
+                            "parsely-page": "{\"author\":[\"Tarpley Hitt\"],\"link\":\"https://www.thedailybeast.com/how-qanon-became-obsessed-with-adrenochrome-an-imaginary-drug-hollywood-is-harvesting-from-kids\",\"metadata\":{\"articleType\":\"article\",\"rubric\":\"TIN FOIL HAT\"},\"post_id\":\"how-qanon-became-obsessed-with-adrenochrome-an-imaginary-drug-hollywood-is-harvesting-from-kids\",\"pub_date\":\"2020-08-14T08:34:37+00:00\",\"section\":\"Entertainment\",\"tags\":[\"Donald J. Trump\",\"Democratic Party\",\"Child abuse\",\"Conspiracy theory\",\"Hollywood\",\"Pedophilia\",\"Fear\",\"Drug\",\"Conspiracy theories\",\"QAnon\",\"typeArticle\",\"Auto not brand safe\",\"feature\"],\"title\":\"How QAnon Became Obsessed With \u2018Adrenochrome,\u2019 an Imaginary Drug Hollywood Is \u2018Harvesting\u2019 from Kids\",\"type\":\"post\"}",
+                            "cxenseparse:author": "Tarpley Hitt",
+                            "twitter:site": "@thedailybeast",
+                            "article:modified_time": "2020-08-14T15:35:50.824Z",
+                            "cxenseparse:tde-franchise": "disinformation",
+                            "sailthru.date": "2020-08-14T08:34:37.000Z",
+                            "og:type": "article",
+                            "article:section": "entertainment",
+                            "cxenseparse:pageclass": "article",
+                            "og:title": "\u2018Adrenochrome\u2019: QAnon\u2019s Imaginary Drug Hollywood Is \u2018Harvesting\u2019 From Kids",
+                            "article:author": "https://www.thedailybeast.com/authors/tarpley-hitt",
+                            "publicationdate": "202008140834",
+                            "fb:app_id": "189930913679",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "cxenseparse:tde-shortheadline": "\u2018Adrenochrome\u2019: QAnon\u2019s Imaginary Drug Harvested From Kids",
+                            "cxenseparse:tde-keywords": "Donald J. Trump,Democratic Party,Child abuse,Conspiracy theory,Hollywood,Pedophilia,Fear,Drug,Conspiracy theories,QAnon",
+                            "og:url": "https://www.thedailybeast.com/how-qanon-became-obsessed-with-adrenochrome-an-imaginary-drug-hollywood-is-harvesting-from-kids",
+                            "wrap": "/content/dailybeast/entertainment",
+                            "authors": "Tarpley Hitt"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1686,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1597385812/200814-hitt-hollywood-blood-hero_mugwbc"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n#### Illustration by Elizabeth Brockway/The Daily Beast\nFollowers of the pro-Trump conspiracy theory QAnon believe Hollywood and Democratic elites take a psychedelic drug called Adrenochrome harvested from the fear of children.\nUpdated\u00a0Aug. 14, 2020\u00a011:35AM EDT\u00a0/\u00a0Published\u00a0Aug. 14, 2020\u00a04:34AM EDT\nIn recent months, the YouTube  for a song by the 1980s British post-punk band The Sisters of Mercy have veered slightly off-topic. \u201cThe favorite song \\ rich and depraved elites,\u201d wrote user AlienDude30. \u201cI like this song! - Hillary Clinton,\u201d offered AdAJanuary. A Dean Latimer added: \u201cQ chasing the goths!\u201d\nThe track, which first appeared on a seven-inch in 1982, isn\u2019t one of the Leeds-area band\u2019s better-known songs. It\u2019s an abrasive, theatrically dark tune, with early drum machine percussion and low, campy vocals. The lyrics are typical goth stuff, as is the black album artwork, which features the band\u2019s logo: a medical scalp illustration overlaid on a pentacle. But it\u2019s the title the commenters were drawn to: \u201c.\u201d\nAdrenochrome is an easy-to-come-by chemical compound, usually found as a light pink solution, that forms by the oxidation of adrenaline, the stress hormone. It is not approved...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Daily Beast covers a wide range of topics, including politics, pop culture, and more, but may sometimes prioritize sensational stories. They generally provide accurate reporting, but users should remain cautious, especially with more sensational headlines that could misrepresent facts."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-08-14"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "While this evidence discusses QAnon and adrenochrome in a general sense, it does not touch on A113 specifically. Similar to other complaints, it adds context to understanding the conspiracy but does not help answer the question of whether A113 is related to adrenochrome."
+                }
+            }
+        }
+    ]
+}

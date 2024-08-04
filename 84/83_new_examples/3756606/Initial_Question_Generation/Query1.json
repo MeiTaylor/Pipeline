@@ -1,0 +1,638 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - giant sea monster sighting Antarctica",
+                "totalResults": "339000",
+                "searchTerms": "giant sea monster sighting Antarctica",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - giant sea monster sighting Antarctica",
+                "totalResults": "339000",
+                "searchTerms": "giant sea monster sighting Antarctica",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.318483,
+        "formattedSearchTime": "0.32",
+        "totalResults": "339000",
+        "formattedTotalResults": "339,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark ...",
+                "htmlTitle": "Unknown &quot;<b>Sea Monster</b>&quot; with 20 arms discovered in the dark ...",
+                "link": "https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/",
+                "displayLink": "www.earth.com",
+                "snippet": "Aug 14, 2023 ... In the depths of the frozen Antarctic sea, a team of intrepid scientists aboard a research vessel made an astonishing discovery.",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> In the depths of the frozen <b>Antarctic sea</b>, a team of intrepid scientists aboard a research vessel made an astonishing discovery.",
+                "formattedUrl": "https://www.earth.com/.../sea-monster-with-20-arms-found-in-the-dark-anta...",
+                "htmlFormattedUrl": "https://www.earth.com/.../<b>sea</b>-<b>monster</b>-with-20-arms-found-in-the-dark-anta...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqN_8pJnIORWqrmCx0ndRii3VzaYf2lhBEtz6lr8pllTQ2Zr1pEiybBuM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg",
+                            "og:image:width": "2560",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark Antarctic waters - Earth.com",
+                            "og:site_name": "Earth.com",
+                            "twitter:image:type": "image/jpeg",
+                            "og:title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark Antarctic waters",
+                            "og:image:height": "1440",
+                            "twitter:image:height": "1440",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.",
+                            "article:publisher": "https://www.facebook.com/earth.com/",
+                            "twitter:image": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg",
+                            "twitter:site": "@earthdotcom",
+                            "article:modified_time": "2023-08-14T15:29:04+00:00",
+                            "twitter:image:width": "2560",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In the depths of the frozen , a team of intrepid scientists aboard a research vessel made an astonishing discovery. Within the pitch-black waters, the experts encountered a creature that seems to defy imagination. It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.\nAntarctic feather stars \n------------------------\nThe scientific expeditions, which spanned almost a decade from 2008 to 2017, were focused on a specific target: the pursuit of elusive or cryptic sea dwellers belonging to the genus Promachocrinus. These creatures are commonly known as Antarctic feather stars.\nWhile they may share some traits with other invertebrates such as starfish and sea cucumbers, the feather stars distinguish themselves through their considerable size and a somewhat ethereal presence when in motion.\n“Although similar to other invertebrate ocean animals, like starfish and sea cucumbers, feather stars are distinct both in their ‘large’ size and ‘otherworldly appearance’ when swimming,” said the researchers.\nEight different species identified \n-----------------------------------\nThese marine anomalies have been found to inhabit depths ranging from 65 feet to an astounding 6,500 feet beneath the waves. The team identified eight singular species, half of which had never been previously described or named by the scientific...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "List of sea serpent sightings in the Southern Ocean | Encyclopaedia ...",
+                "htmlTitle": "List of <b>sea serpent sightings</b> in the Southern Ocean | Encyclopaedia ...",
+                "link": "https://cryptidarchives.fandom.com/wiki/List_of_sea_serpent_sightings_in_the_Southern_Ocean",
+                "displayLink": "cryptidarchives.fandom.com",
+                "snippet": "The following is a list of alleged and circumstantial sea serpent sightings reported from the Southern Ocean, the waters surrounding Antarctica, ...",
+                "htmlSnippet": "The following is a list of alleged and circumstantial <b>sea serpent sightings</b> reported from the Southern Ocean, the waters surrounding <b>Antarctica</b>,&nbsp;...",
+                "formattedUrl": "https://cryptidarchives.fandom.com/.../List_of_sea_serpent_sightings_in_th...",
+                "htmlFormattedUrl": "https://cryptidarchives.fandom.com/.../List_of_<b>sea</b>_serpent_<b>sighting</b>s_in_th...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvvKm220z1CWEq2s3yRNpDl8PMDa2tPLmJnYcHTe20uIyjdpV3iUthrM&s",
+                            "width": "208",
+                            "height": "242"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.wikia.nocookie.net/cryptidarchives/images/7/71/Southern_Ocean.png/revision/latest?cb=20210817182332",
+                            "theme-color": "#eaecf0",
+                            "twitter:card": "summary",
+                            "twitter:title": "List of sea serpent sightings in the Southern Ocean ...",
+                            "og:type": "article",
+                            "og:site_name": "Encyclopaedia of Cryptozoology",
+                            "twitter:url": "https://cryptidarchives.fandom.com/wiki/List_of_sea_serpent_sightings_in_the_Southern_Ocean",
+                            "og:title": "List of sea serpent sightings in the Southern Ocean",
+                            "og:description": "The following is a list of alleged and circumstantial sea serpent sightings reported from the Southern Ocean, the waters surrounding Antarctica, and its marginal seas. During Second Japanese Antarctic Research Expedition, the research ship Sōya reportedly sighted a sea monster on 13 February 1958, in a floe of sea ice near the Flatvaer Islands, within Antarctica's Lützow-Holm Bay.[1] In Japan, this cryptid has been nicknamed Nankyoku Gojira (南極ゴジラ; Japanese: \"Antarctic Godzilla\"). The captain of",
+                            "fb:app_id": "112328095453510",
+                            "twitter:site": "@getfandom",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "twitter:description": "The following is a list of alleged and circumstantial sea serpent sightings reported from the Southern Ocean, the waters surrounding Antarctica, and its marginal seas. During Second Japanese...",
+                            "og:url": "https://cryptidarchives.fandom.com/wiki/List_of_sea_serpent_sightings_in_the_Southern_Ocean",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT05M34S",
+                            "contenturl": "https://cdn.jwplayer.com/videos/yn6PCYnH-cSpmBcaY.mp4",
+                            "uploaddate": "2024-07-30T16:18:15+00:00",
+                            "name": "Interview with the Cast of 'Those About to Die' | SDCC 2024",
+                            "thumbnailurl": "https://cdn.jwplayer.com/v2/media/yn6PCYnH/poster.jpg?width=720"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.wikia.nocookie.net/cryptidarchives/images/7/71/Southern_Ocean.png/revision/latest?cb=20210817182332"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \nWikis\n*   \n*   \nDon't have an account?\n* * *\nAdvertisement\n]\n775\npages\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n    *   \n        *   \n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \nin: , , , \nList of sea serpent sightings in the Southern Ocean\n===================================================\n*   \n*   \n*   \n]\n.\nThe following is a list of alleged and circumstantial  sightings reported from the , the waters surrounding , and its marginal seas.\nContents\n--------\n*   )\n*   )\n*   \n_Sōya_ (Lützow-Holm Bay, 1958)\\\")\\]\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n<table cellspacing=\"0\" cellpadding=\"0\" style=\"float:right; clear:right; margin: 0 0 .5em 1em; width:250px; background:rgba(246,246,246,0.3); border-collapse:collapse; border:1px solid #CCCCCC; font-size:smaller; line-height:1.5;-moz-border-radius:8px;\"><tbody><tr><td><div...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Extremely rare phantom jellyfish caught on camera",
+                "htmlTitle": "Extremely rare phantom jellyfish caught on camera",
+                "link": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Feb 10, 2023 ... Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off ...",
+                "htmlSnippet": "Feb 10, 2023 <b>...</b> Fewer than 130 <b>sightings</b> have ever been made of the mysterious deep-<b>sea creature</b>. Now a 30-foot-long specimen has been <b>spotted</b> off&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../rare-giant-phantom-jellyfish-antarct...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../rare-<b>giant</b>-phantom-jellyfish-<b>antarct</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2-zVXCMtOsX_9cht2Z-Cup8u5zFN9lshqRFisagOnk2sfgqCFeH2bos&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "08-02-2024",
+                            "og:site_name": "Animals",
+                            "twitter:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "title": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "twitter:creator": "@NatGeo",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "02-21-2023",
+                            "og:type": "article",
+                            "twitter:title": "Extremely rare phantom jellyfish caught on camera",
+                            "article:section": "Animals",
+                            "tax:locations": "Antarctica",
+                            "og:title": "Extremely rare phantom jellyfish caught on camera",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "Oceans, Deep Sea, Ocean Life, Submersibles, Citizen Science",
+                            "twitter:image:src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Jellyfish",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "tax:source": "Animals",
+                            "twitter:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:1c2f1359-5af7-42f9-b8da-0a5dafaacf0d",
+                            "og:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Extremely rare phantom jellyfish caught on camera\n=============== \n]\nSkip to content\n*   \n*   \n*   \n*   Menu\n!\nTourists recently spotted the 30-foot-long invertebrate in shallow waters off Antarctica.\nPhotograph by Mark Niesink\n*   \nExtremely rare phantom jellyfish caught on camera\n=================================================\nFewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.\nByMelissa Hobson\nFebruary 10, 2023\n•5 min read\nIn the ethereal blue glow of the water, a huge shape swept toward them. Around 30 feet long, with four billowing arms and a domed head, the creature was larger than the tourists’ personal submersible. This startling sight occurred hundreds of feet underwater off the coast of ’s Rongé Island.\nWhen they returned to their  cruise ship and showed photos to , a marine biologist with Exeter University in the U.K., he knew they’d seen “something incredibly rare.”\nAs it turns out, these lucky travelers are among only a handful of people ever to lay eyes on the giant phantom jellyfish, or _Stygiomedusa gigantea_. Until that point, in January 2022, there had been only 126 recorded observations since the species was first described in 1910—including individuals caught in nets and footage captured by remotely operated underwater vehicles, or ROVs. Even scientists with the , which has logged thousands of hours of submersible dives, have seen just nine.\n!(blob:https://www.nationalgeographic.com/b9a31d3949b1882a09ed2f8508d538f3)\n0:17\nSurprisingly, the first  sighting was not a one-off. Just a week later, in late January 2022, a different group of tourists also saw a phantom jellyfish, followed by one more, in mid...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Google Earth user finds giant 'mysterious creature' near Antarctica",
+                "htmlTitle": "Google Earth user finds <b>giant</b> &#39;mysterious <b>creature</b>&#39; near <b>Antarctica</b>",
+                "link": "https://www.hawaiinewsnow.com/story/32276330/google-earth-user-finds-giant-mysterious-creature-near-antarctica/",
+                "displayLink": "www.hawaiinewsnow.com",
+                "snippet": "Jun 21, 2016 ... Someone claims to have ...",
+                "htmlSnippet": "Jun 21, 2016 <b>...</b> Someone claims to have&nbsp;...",
+                "formattedUrl": "https://www.hawaiinewsnow.com/.../google-earth-user-finds-giant-mysterio...",
+                "htmlFormattedUrl": "https://www.hawaiinewsnow.com/.../google-earth-user-finds-<b>giant</b>-mysterio...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQiNJ-8u3wfVjY7zqQC3F9ndkSl5fKKEVsoXrM1Y5Xwx6kCPUa5G1AqSWB&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/D3KSIZNPKJCGVPKAI5KYSRE3SI.jpg?auth=ebd8cc7b6e124c2ad33b397b5ae30eee8b5134bca220d7e74b7df6e721d712a4&width=1200&height=600&smart=true",
+                            "apple-itunes-app": "app-id=450571908",
+                            "copyright": "Copyright (c) 2024",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-06-22T03:19:00Z",
+                            "og:site_name": "https://www.hawaiinewsnow.com",
+                            "rating": "general",
+                            "distribution": "global",
+                            "og:description": "Someone claims to have found a huge sea creature near Antarctica.",
+                            "twitter:creator": "@hawaiinewsnow",
+                            "article:sections_paths": "/news",
+                            "article:publisher": "https://www.facebook.com/HawaiiNewsNow/",
+                            "twitter:image": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/D3KSIZNPKJCGVPKAI5KYSRE3SI.jpg?auth=ebd8cc7b6e124c2ad33b397b5ae30eee8b5134bca220d7e74b7df6e721d712a4&width=1200&height=600&smart=true",
+                            "twitter:site": "@hawaiinewsnow",
+                            "article:modified_time": "2016-06-22T04:48:53Z",
+                            "fb:admins": "644426401",
+                            "article:has_video": "false",
+                            "og:type": "article",
+                            "twitter:title": "Google Earth user finds giant 'mysterious creature' near Antarctica",
+                            "og:title": "Google Earth user finds giant 'mysterious creature' near Antarctica",
+                            "googlebot-news": "index",
+                            "fb:pages": "192156350478",
+                            "fb:app_id": "211629172302975",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width, minimum-scale=1, initial-scale=1",
+                            "twitter:description": "Someone claims to have found a huge sea creature near Antarctica.",
+                            "og:locale": "en_US",
+                            "article:distributor_category": "staff",
+                            "article:distributor_name": "gray",
+                            "og:url": "https://www.hawaiinewsnow.com/story/32276330/google-earth-user-finds-giant-mysterious-creature-near-antarctica",
+                            "google-play-app": "app-id=com.raycom.hnn",
+                            "authors": "Nicole Bento"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/v2/D3KSIZNPKJCGVPKAI5KYSRE3SI.jpg?auth=ebd8cc7b6e124c2ad33b397b5ae30eee8b5134bca220d7e74b7df6e721d712a4&width=1200&height=600&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nDismiss Weather Alerts Alerts Bar\nGoogle Earth user finds giant 'mysterious creature' near Antarctica\n===================================================================\n!\nBy Nicole Bento\nPublished: Jun. 21, 2016 at 5:19 PM HST|Updated: Jun. 21, 2016 at 6:48 PM HST\nANTARCTICA (HawaiiNewsNow) - Google Earth users are known to make some incredible discoveries. Shipwrecks, herds of wild animals, even crimes in progress have been found on the site. But the newest find on Google Earth could top them all.\nSomeone claims to have found a huge sea creature near Antarctica.\nA now viral video on YouTube takes viewers there: Zoom in to Deception Island near Antarctica. Just off the coast, you'll find what's described as a \"massive disturbance\" in the ocean.\nOnce you've spotted it, the video demonstrates its sheer size. The unknown object is roughly 100 feet long, but that's only the portion seen above the water's surface.\n\"No idea what this is,\" wrote the owner of the video, YouTube user wowforreeel. \"When I saw it, it IMMEDIATELY made me think of a Plesiosaur fin.\"\nThe Plesiosaur is a prehistoric, extinct animal.\nMost theories are focusing on a mythical creature called a Kraken that is said to have terrorized the seas, grabbing entire ships and pulling them underwater without a trace.\nMany other people think it's nothing more than a huge rock.\nThe video was shared on YouTube on April 29 and recently took off, gaining more than 1.6 million views in only the last few days.\n**_Update: Reliable tools, such as actual paper maps, identify the \"mysterious sea creature\" as Sail Rock. It is easily identified by its upright...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "What is the likelihood that there exist huge deep sea creatures that ...",
+                "htmlTitle": "What is the likelihood that there exist <b>huge</b> deep <b>sea creatures</b> that ...",
+                "link": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 8, 2012 ... Have there been any such sightings? Any interesting read you can give me about developments in this area are very welcome!",
+                "htmlSnippet": "Jun 8, 2012 <b>...</b> Have there been any such <b>sightings</b>? Any interesting read you can give me about developments in this area are very welcome!",
+                "formattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/uqm1v",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/TheNr24 - 445 votes and 143 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/uqm1v",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/uqm1v"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "For the First Time Ever, the Colossal Squid Might Have Shown Its ...",
+                "htmlTitle": "For the First Time Ever, the <b>Colossal</b> Squid Might Have Shown Its ...",
+                "link": "https://www.popularmechanics.com/science/animals/a60983175/colossal-squid-secret-face/",
+                "displayLink": "www.popularmechanics.com",
+                "snippet": "Jun 5, 2024 ... One of the most spellbinding of these animals is the colossal squid (Mesonychoteuthis hamiltoni). When full-grown, this creature is about as ...",
+                "htmlSnippet": "Jun 5, 2024 <b>...</b> One of the most spellbinding of these animals is the <b>colossal</b> squid (Mesonychoteuthis hamiltoni). When full-grown, this <b>creature</b> is about as&nbsp;...",
+                "formattedUrl": "https://www.popularmechanics.com/science/.../colossal-squid-secret-face/",
+                "htmlFormattedUrl": "https://www.popularmechanics.com/science/.../colossal-squid-secret-face/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtcLr9-BiHNVm910MjtOdLAQY4gfDUkV99vcvEuv6lN6noU_zrJuFPBFXV&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=320:*"
+                        }
+                    ],
+                    "speakablespecification": [
+                        {
+                            "cssselector": ".content-hed"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=1.00xw:0.752xh;0,0.139xh&resize=1200:*",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-06-05T11:30:00Z",
+                            "og:site_name": "Popular Mechanics",
+                            "sailthru.tags": "science,Science,animals,Animals,Popular Mechanics-US",
+                            "sailthru.contenttype": "standard-article",
+                            "title": "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face",
+                            "og:description": "Did cameras finally spot the ocean’s most elusive monster?",
+                            "parsely-metadata": "{\"socialHeadline\":\"For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face\"}",
+                            "article:publisher": "https://www.facebook.com/popularmechanics",
+                            "twitter:image": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=1.00xw:0.752xh;0,0.139xh&resize=640:*",
+                            "next-head-count": "46",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@PopMech",
+                            "article:modified_time": "2024-07-29T14:26:00Z",
+                            "sailthru.socialtitle": "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face",
+                            "sailthru.date": "2024-06-05 11:30:00",
+                            "x-ua-compatible": "IE=edge,chrom=1",
+                            "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=0.668xw:1.00xh;0.167xw,0&resize=320:*",
+                            "og:type": "article",
+                            "article:section": "Animals",
+                            "m1": ".content-hed",
+                            "m2": ".content-dek p",
+                            "og:title": "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face",
+                            "auto-publish": "timely",
+                            "og:image:height": "600",
+                            "sailthru.image.thumb": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=0.668xw:1.00xh;0.167xw,0",
+                            "fb:app_id": "218456798186610",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:url": "https://www.popularmechanics.com/science/animals/a60983175/colossal-squid-secret-face/",
+                            "sailthru.image.full": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=1.00xw:0.752xh;0,0.139xh&resize=320:*",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://hips.hearstapps.com/hmg-prod/images/fisherman-against-fantasy-monster-royalty-free-image-1717449493.jpg?crop=0.66682xw:1xh;center,top&resize=640:*"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Science",
+                            "name": "Science",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Animals",
+                            "name": "Animals",
+                            "position": "2"
+                        },
+                        {
+                            "item": "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face",
+                            "name": "For the First Time Ever, the Colossal Squid Might Have Shown Its Secret Face",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...30 AM EDT\n!Save Article\n!\ngremlin//Getty Images\n*   Although its the largest invertebrate species in the world, scientists have never glimpsed the colossal squid (_Mesonychoteuthis hamiltoni_) in its natural habitat.\n*   However, a non-profit ocean research team named Kolossal may have finally spotted a juvenile colossal squid as it traversed the waters around Antarctica. If true, this would be the first video of its kind.\n*   The team captured this footage by rigging a deep-sea camera to a polar tourism vessel.\n* * *\nHumans spend nearly their entire lives on land, but the Earth we call home is really a water world. With 71 percent of the Earth’s surface covered by water, this expansive  has been difficult to study, and many animals of the deep ocean remain a complete mystery. One of the most spellbinding of these animals is the colossal squid (_Mesonychoteuthis hamiltoni_). When full-grown, this creature is about as long as a bus and weighs nearly 1,100 pounds.\nBelieved to live in the Southern Ocean surrounding , this immense cephalopod—the largest invertebrate species on the planet— . Scientists only get a good look at these animals when trawlers accidentally catch them in their nets. But a new kind of oceanographic study seems to have struck gold last year when international research team and  appeared to have stumbled across a juvenile colossal squid during one of its four trips to Antarctica from December of 2022 to March of 2023.\n* * *\n###### Related Story\n*   Scientists Just Discovered 100 New Life Forms]\n* * *\nThe team used a novel approach for imaging the —outfitting a polar tourism vessel called the _Ocean Endeavor_ with a deep-sea camera. Thankfully, the research team released the footage, which the website  promptly posted to YouTube.\n!\n“Antarctica is experiencing rapid and complex change, and it is critical to have a better understanding of these changes for the region’s ocean ecosystems,”  detailing the method in February. “The costs and logistical challenges to operate scientific research vessels prohibits the scaling of crucial science and discovery in the region. Yet, the  industry in Antarctica is growing rapidly, and collaboration between tourism companies and researchers provides important access to the region.”\nWhile leveraging tourism for marine exploration is a logistical win-win, finding verified footage of a colossal squid is as hard as ever. Even the short clip of the above specimen isn’t confirmed, as the video could...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Large Antarctic Sea Mammal | Cryptid Wiki | Fandom",
+                "htmlTitle": "Large <b>Antarctic Sea</b> Mammal | Cryptid Wiki | Fandom",
+                "link": "https://cryptidz.fandom.com/wiki/Large_Antarctic_Sea_Mammal",
+                "displayLink": "cryptidz.fandom.com",
+                "snippet": "The captain of the Soya nicknamed this creature \"Antarctic Godzilla\" (南極ゴジラ), as he likened its appearance to Godzilla. Some indicate that the creature ...",
+                "htmlSnippet": "The captain of the Soya nicknamed this <b>creature</b> &quot;<b>Antarctic</b> Godzilla&quot; (南極ゴジラ), as he likened its appearance to Godzilla. Some indicate that the <b>creature</b>&nbsp;...",
+                "formattedUrl": "https://cryptidz.fandom.com/wiki/Large_Antarctic_Sea_Mammal",
+                "htmlFormattedUrl": "https://cryptidz.fandom.com/wiki/Large_Antarctic_<b>Sea</b>_Mammal",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY4s5OlA8JOvZ2S43w-mIydgcHK5sz2nyI9N6RGMiLHu3vikzwNUCijAVW&s",
+                            "width": "184",
+                            "height": "273"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.wikia.nocookie.net/cryptidz/images/4/43/Nankyoku_official.jpg/revision/latest?cb=20171008224832",
+                            "theme-color": "#eaecf0",
+                            "twitter:card": "summary",
+                            "twitter:title": "Large Antarctic Sea Mammal | Cryptid Wiki | Fandom",
+                            "og:type": "article",
+                            "og:site_name": "Cryptid Wiki",
+                            "twitter:url": "https://cryptidz.fandom.com/wiki/Large_Antarctic_Sea_Mammal",
+                            "og:title": "Large Antarctic Sea Mammal",
+                            "og:description": "The Large Antarctic Sea Mammal (南極の大海獣 Nankyoku no daikaijū) is a cryptid reported by a Japanese research ship in 1958 in Antarctica. The captain of the Soya nicknamed this creature \"Antarctic Godzilla\" (南極ゴジラ), as he likened its appearance to Godzilla. Some indicate that the creature is of the same species as the Kabagon. On February 13, 1958, at about 7:00 PM, the Japanese research vessel Soya Nihongo encountered a large creature at Lutzow-Holm Bay.[1] Japanese Wikipedia article. Japanese blog",
+                            "fb:app_id": "112328095453510",
+                            "twitter:site": "@getfandom",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "twitter:description": "The Large Antarctic Sea Mammal (南極の大海獣 Nankyoku no daikaijū) is a cryptid reported by a Japanese research ship in 1958 in Antarctica. The captain of the Soya nicknamed this creature \"Antarctic...",
+                            "og:url": "https://cryptidz.fandom.com/wiki/Large_Antarctic_Sea_Mammal",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.wikia.nocookie.net/cryptidz/images/4/43/Nankyoku_official.jpg/revision/latest?cb=20171008224832"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The **Large Antarctic Sea Mammal** (南極の大海獣 Nankyoku no daikaijū) is a  reported by a  research ship in 1958 in Antarctica.\nContents\n--------\n*   \n*   \n*   \n*   \n*   \nDescription\\\\]\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nThe captain of the _Soya_ nicknamed this creature \"**Antarctic Godzilla**\" (南極ゴジラ), as he likened its appearance to . Some indicate that the creature is of the same species as the .\nSpecific time of sighting\\\\]\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nOn February 13, 1958, at about 7:00 PM, the Japanese research vessel _Soya_ Nihongo encountered a large creature at .]\nGallery\\\\]\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n]\")\n]\")\n]\")\nExternal Links\\\\]\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n*   \n*   \nReferences\\\\]\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n1.   \n| \n****\n |\n| --- |\n| **A**\n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • (confirmed) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Can huge undiscovered creatures live in the ocean? : r ...",
+                "htmlTitle": "Can <b>huge</b> undiscovered <b>creatures</b> live in the <b>ocean</b>? : r ...",
+                "link": "https://www.reddit.com/r/oceancreatures/comments/qcnj3n/can_huge_undiscovered_creatures_live_in_the_ocean/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Oct 21, 2021 ... I watched a little documentary that compared sightings of sea monsters through history with creatures we have discovered over the years.",
+                "htmlSnippet": "Oct 21, 2021 <b>...</b> I watched a little documentary that compared <b>sightings</b> of <b>sea monsters</b> through history with creatures we have discovered over the years.",
+                "formattedUrl": "https://www.reddit.com/.../can_huge_undiscovered_creatures_live_in_the_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../can_huge_undiscovered_creatures_live_in_the_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/qcnj3n",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/oceancreatures on Reddit: Can huge undiscovered creatures live in the ocean?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/oceancreatures on Reddit: Can huge undiscovered creatures live in the ocean?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/1711198430497251 - 231 votes and 68 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/qcnj3n",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/oceancreatures/comments/qcnj3n/can_huge_undiscovered_creatures_live_in_the_ocean/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/qcnj3n"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Ningen (folklore) - Wikipedia",
+                "htmlTitle": "Ningen (folklore) - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Ningen_(folklore)",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "In modern Japanese folklore since the mid-2000s, the Ningen (ニンゲン) is an aquatic humanoid whale-like creature supposedly inhabiting the subantarctic ...",
+                "htmlSnippet": "In modern Japanese folklore since the mid-2000s, the Ningen (ニンゲン) is an aquatic humanoid whale-like <b>creature</b> supposedly inhabiting the subantarctic&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Ningen_(folklore)",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Ningen_(folklore)",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "theme-color": "#eaecf0",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Ningen (folklore) - Wikipedia",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n<table><caption>Ningen</caption><tbody><tr><th scope=\"row\">Country</th><td><a href=\"https://en.wikipedia.org/wiki/Africa\" title=\"Africa\">Africa</a></td></tr><tr><th scope=\"row\">Region</th><td><a href=\"https://en.wikipedia.org/wiki/Subantarctic\" title=\"Subantarctic\">Subantarctic</a>, Antarctica</td></tr></tbody></table>\nIn modern  since the mid-2000s, the **Ningen** (ニンゲン) is an aquatic humanoid whale-like creature supposedly inhabiting the . It was invented by Japanese internet users.]#cite_note-1)\nThe legend surrounding the Ningen began in 2007 on a forum post on the Japanese online forum website, , which claims that the members of a whale research ship witnessed the creature as it surfaced near their ship off the Antarctic coast.\\_\\] Originally thinking it was a , the crew went to take a closer look, but the \"submarine\" vanished into the waves.\\_\\]\nIn 2005,  captured what many people supposed to be a Ningen near the . Many skeptics believe that the \"Ningen\" was actually an  that coincidentally looked like the sea monster.]#cite_note-2)\nIn 2010, the Japanese  published a  video showing the ocean life that they observed. Near the end of the video, a large creature with small eyes and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "A 'headless chicken monster' sighting shows just how little we know ...",
+                "htmlTitle": "A &#39;headless chicken <b>monster</b>&#39; <b>sighting</b> shows just how little we know ...",
+                "link": "https://www.washingtonpost.com/science/2018/10/22/headless-chicken-monster-sighting-shows-just-how-little-we-know-about-ocean-off-antarctica/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Oct 22, 2018 ... Researchers filmed Enypniastes eximia, also described as the “headless chicken monster,\" in the Southern Ocean.",
+                "htmlSnippet": "Oct 22, 2018 <b>...</b> Researchers filmed Enypniastes eximia, also described as the “headless chicken <b>monster</b>,&quot; in the Southern <b>Ocean</b>.",
+                "formattedUrl": "https://www.washingtonpost.com/.../headless-chicken-monster-sighting-sho...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../headless-chicken-<b>monster</b>-<b>sighting</b>-sho...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5YLy8NTyZNV1P_nBXf6J89a80rzUKIxaNHnxtV-4cq9lFx2vj2Rs-O8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "Researchers filmed Enypniastes eximia, also described as the “headless chicken monster,\" in the Southern Ocean.",
+                            "article_modified_time": "2018-10-23T17:52:37.973Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYWBND7ODBGQNLIZXYRG63G3RM.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/science/2018/10/22/headless-chicken-monster-sighting-shows-just-how-little-we-know-about-ocean-off-antarctica/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2018-10-22T19:04:53.466Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "A  ‘headless chicken monster’ sighting shows just how little we know about the ocean off Antarctica",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/science/2018/10/22/headless-chicken-monster-sighting-shows-just-how-little-we-know-about-ocean-off-antarctica/",
+                            "og:description": "Researchers filmed Enypniastes eximia, also described as the “headless chicken monster,\" in the Southern Ocean.",
+                            "article_published_time": "2018-10-22T19:04:53.466Z",
+                            "next-head-count": "85",
+                            "article_section": "Science",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2018-10-23T17:52:37.973Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "Researchers filmed Enypniastes eximia, also described as the “headless chicken monster,\" in the Southern Ocean.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "A  ‘headless chicken monster’ sighting shows just how little we know about the ocean off Antarctica",
+                            "last_updated_date": "2018-10-23T17:52:37.973Z",
+                            "og:type": "article",
+                            "twitter:title": "A  ‘headless chicken monster’ sighting shows just how little we know about the ocean off Antarctica",
+                            "article:section": "Science",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "A  ‘headless chicken monster’ sighting shows just how little we know about the ocean off Antarctica",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYWBND7ODBGQNLIZXYRG63G3RM.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Researchers filmed Enypniastes eximia, also described as the “headless chicken monster,\" in the Southern Ocean.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/science/2018/10/22/headless-chicken-monster-sighting-shows-just-how-little-we-know-about-ocean-off-antarctica/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MYWBND7ODBGQNLIZXYRG63G3RM.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... swims, flits or plods beneath the waves of the world’s oceans is a magnificent masterpiece of Mother Nature that will one day be rendered in expert detail by the people at Pixar.\nFor people who see the deep through “Finding Nemo”-colored glasses, the evidence to the contrary is mounting. There was the 50-foot decaying creature that washed up on an Indonesian island, so decomposed that people couldn’t identify what, exactly, they were taking selfies with.\nThere was the 300-toothed snake-headed shark that outlived its prehistoric contemporaries, providing 300 reasons to just say nope to the ocean. Last year, as The Washington Post’s Lindsey Bever reported, Hurricane Harvey deposited “a mysterious sea creature with fangs and no face” on a Texas beach. And then there was this bloated monstrosity, snapped by a pair of fishermen who probably still wake up in the middle of the night screaming.\nFor those who still believe that most things in the ocean are cute, if not cuddly, there is Enypniastes eximia, an ocean-bottom-dwelling sea cucumber that does a close approximation of swimming in the Southern Ocean off eastern Antarctica, according to the Australian Antarctic Division. A recent sighting by Australian scientists marked the first time this particular sea creature has been seen in the Southern Ocean.\nIf Enypniastes eximia is too much of a mouthful, the creeped-out masses have given the sea cucumber another, more fitting name: “the headless chicken monster.”\nThat’s because this sea cucumber, as captured by deep-sea cameras, looks like what would happen if an oven-ready chicken dinner decided to make a sudden dash for freedom.\n(Full disclosure: E. eximia has also been dubbed “the Spanish Dancer” by well-intentioned taxonomists with apparently little knowledge of Spain or dancing.)\nThe sea cucumber in question feasts on organic material in the sediment of the ocean floor, “walking” along the bottom and using its tentacles to grab food. Because the animal is mostly transparent, it’s possible to see the food working its way through its intestines.\nAn 11-million-ton iceberg is threatening a tiny village in Greenland\nResearchers captured the footage with a specially built camera attached to lines used to capture deep-sea fish in dark regions nearly two miles beneath the surface of the ocean.\n“We needed something that could be thrown from the side of a boat and would continue operating reliably under extreme pressure in the pitch black for long periods of time,” said Australian Antarctic Division Program leader Dirk Welsford. “Some of the footage we...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

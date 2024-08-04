@@ -1,0 +1,761 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Is Rishi Sunak video dancer confirmed as lookalike?",
+                "totalResults": "176000",
+                "searchTerms": "Is Rishi Sunak video dancer confirmed as lookalike?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Is Rishi Sunak video dancer confirmed as lookalike?",
+                "totalResults": "176000",
+                "searchTerms": "Is Rishi Sunak video dancer confirmed as lookalike?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.287491,
+        "formattedSearchTime": "0.29",
+        "totalResults": "176000",
+        "formattedTotalResults": "176,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fact-check: Does this viral video actually show Rishi Sunak dancing ...",
+                "htmlTitle": "Fact-check: Does this viral <b>video</b> actually show <b>Rishi Sunak dancing</b> ...",
+                "link": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html",
+                "displayLink": "www.moneycontrol.com",
+                "snippet": "Oct 28, 2022 ... A viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named\u00a0...",
+                "htmlSnippet": "Oct 28, 2022 <b>...</b> A viral <b>video</b> that shows a <b>Rishi Sunak lookalike dancing</b> at a club has resurfaced on social media shortly after the 42-year-old was named&nbsp;...",
+                "formattedUrl": "https://www.moneycontrol.com/.../fact-check-does-this-viral-video-actually...",
+                "htmlFormattedUrl": "https://www.moneycontrol.com/.../fact-check-does-this-viral-<b>video</b>-actually...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9ArdYvp4qLSm9041VxYs5FowfWCr_kN6Enb6r2vWzFtR-Jnv8K1zSAU&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg",
+                            "apple-itunes-app": "app-id=408654600,affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact-check: Does this viral video actually show Rishi Sunak dancing at a club?",
+                            "og:site_name": "Moneycontrol",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html",
+                            "og:title": "Fact-check: Does this viral video actually show Rishi Sunak dancing at a club?",
+                            "dailymotion-domain-verification": "dmpn9sdnwtvex9ltc",
+                            "og:article:published_time": "2022-10-28T16:34:46+05:30",
+                            "og:description": "A viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named prime minister of the United Kingdom.",
+                            "twitter:creator": "@moneycontrolcom",
+                            "fb:pages": "143902715620459",
+                            "twitter:image:src": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg",
+                            "next-head-count": "2",
+                            "last-modified": "2022-10-28T16:34:46+05:30",
+                            "twitter:site": "@moneycontrolcom",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "news_keywords": "Rishi Sunak, Rishi Sunak lookalike, Rishi Sunak doppelganger, Rishi Sunak dancing, ibiza, fact check,",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   *   FIXED DEPOSIT\n        *   \n        *   \n        *   \n        *   \n        *   TAX\n        *   \n        *    \u00a0\n        *   \n        *   LOANS & CREDIT CARDS\n        *   \n        *    \u00a0\n        *   \n        *   \n        *   \n        *   \n    *   *   TOOLS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n     | \n     | \n*   \n    *   *   EXPLORE FORUM\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   (javascript:; \"User Profile\")\n    *   *   FORUM TOPICS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   POLLS\n        *   \n        *   \n        *   \n        *   SUPPORT\n        *   \n        *   \n        *   \n        *   \n*   \n    *   *   VIDEOS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   PODCAST\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   LIVE TV\n        *   \n        *   \n*   (javascript:; \"Invest Now\")\n    ]\n    *   ### INVEST IN CRYPTOassets\n        Powered By\n    *   \n    *   ### BOTS Summit (FY 24-25)\n        Powered By\n    *   \n    *   ### Open Trading Account\n        Powered By\n    *   \n*   \n(javascript:void\\(0\\) \"Submit\")\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n !]\nFact-check: Does this viral video actually show Rishi Sunak dancing at a club?\nTrending Topics\nFact-check: Does this viral video actually show Rishi Sunak dancing at a club?\n==============================================================================\nA viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named prime minister of the United Kingdom.\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nCurated by : \nOctober 28, 2022 / 16:34 IST\n*   \n*   \n*   \n*   \n*   \n*   \n!\nUK PM Rishi Sunak (L) and his lookalike at a club (R). Image credit: @...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Moneycontrol is primarily a financial news website that offers updates on the economy and markets. While it provides credible financial reporting, its coverage can be limited on political gossip or claims involving public figures outside of financial matters. It has a history of reliable reporting within its domain but has less specialization in debunking or exposing fake news related to other topics."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses a viral video showing a 'Rishi Sunak lookalike dancing' at a club, directly confirming that the individual in the video is indeed a lookalike. The context provides strong verification regarding the identity of the dancer, directly addressing the question. It supports the claim that the individual is not Rishi Sunak himself, thus being highly relevant to the determination of the claim's truthfulness."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Balearic rave party for Sunak but is it really him? Watch the video",
+                "htmlTitle": "Balearic rave party for <b>Sunak</b> but is it really him? Watch the <b>video</b>",
+                "link": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html",
+                "displayLink": "www.majorcadailybulletin.com",
+                "snippet": "Oct 27, 2022 ... Minutes after Rishi Sunak was confirmed as the new British prime minister, a video showing a young man partying at a famous beach club in\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> Minutes after <b>Rishi Sunak</b> was <b>confirmed</b> as the new British prime minister, a <b>video</b> showing a young man partying at a famous beach club in&nbsp;...",
+                "formattedUrl": "https://www.majorcadailybulletin.com/.../balearic-rave-party-for-sunak-but-...",
+                "htmlFormattedUrl": "https://www.majorcadailybulletin.com/.../balearic-rave-party-for-<b>sunak</b>-but-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EVzBUUyitixx9DuWDT0o2aIvkebSGZUDhI26inPOktcpFObzeuQb560&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ea2221",
+                            "article:published_time": "2022-10-27T14:37:00+02:00",
+                            "og:image:width": "1200",
+                            "og:site_name": "Majorca Daily Bulletin",
+                            "twitter:url": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html",
+                            "language": "en",
+                            "og:image:type": "image/jpeg",
+                            "title": "Balearic rave party for Sunak but is it really him? Watch the video",
+                            "og:description": "Not what the new Prime Minister needs right now. The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak",
+                            "twitter:image": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "article:publisher": "https://www.facebook.com/MajorcaDaily/",
+                            "og:image:secure_url": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "mrf:tags": "keywords:Ibiza Sunak;keywords:Mallorca holiday;keywords:Rishi Sunak Balearics party;keywords:Sunak Balearics;keywords:Sunak Ibiza;keywords:Sunak double;keywords:Sunak partying Ibiza;keywords:Latest headlines",
+                            "twitter:site": "@MajorcaDaily",
+                            "article:modified_time": "2024-07-05T13:00:22+02:00",
+                            "fb:admins": "1009840697",
+                            "og:video:type": "video/youtube",
+                            "og:video:height": "720",
+                            "twitter:title": "Video of \u201cSunak\u201d partying in the Balearics goes viral",
+                            "og:type": "article",
+                            "article:section": "Latest headlines",
+                            "og:title": "Video of \u201cSunak\u201d partying in the Balearics goes viral",
+                            "og:image:height": "630",
+                            "og:video:secure_url": "https://youtu.be/WFnXMyLf5CQ",
+                            "fb:pages": "300611123394179",
+                            "og:video:width": "1280",
+                            "dc.date.issued": "2022-10-27",
+                            "article:author": "Humphrey Carter",
+                            "article:tag": "Ibiza Sunak",
+                            "fb:app_id": "205112354354",
+                            "og:video": "https://youtu.be/WFnXMyLf5CQ",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "Not what the new Prime Minister needs right now. The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak",
+                            "og:url": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u201d partying in the Balearics goes viral\n=====================================================\nNot what the new Prime Minister needs right now\n-----------------------------------------------\nVideo Player is loading.\nPlay Video\nPlaySkip Backward\nMute\nCurrent Time\u00a00:00\n/\nDuration\u00a00:00\nLoaded: 0%\nStream Type\u00a0LIVE\nSeek to live, currently behind liveLIVE\nRemaining Time\u00a0\\-0:00\n1x\nPlayback Rate\nChapters\n*   Chapters\nDescriptions\n*   descriptions off, selected\nSubtitles\n*   captions and subtitles off, selected\nAudio Track\nPicture-in-PictureFullscreen\nThis is a modal window.\nBeginning of dialog window. Escape will cancel and close the window.\nTextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-Transparent\nText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparent\nCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaque\nFont Size50%75%100%125%150%175%200%300%400%\nText Edge StyleNoneRaisedDepressedUniformDropshadow\nFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps\nReset restore all settings to the default valuesDone\nClose Modal DialogEnd of dialog window.\nRishi Sunak lookalike cut shapes at Wayne Lineker's club in Ibiza. Rishi Sunak lookalike dancing at a beach club in Ibiza | **Youtube: 3W Daily**\nPalma27/10/2022 14:37\nMinutes after **Rishi Sunak** was confirmed as the new British prime minister, **a video showing a young man partying at a famous beach club in Sant Antoni, Ibiza, was picked up by several media outlets and has gone viral.**\n>  Our new Prime Minister Rishi Sunak \ud83d\ude02 @britishmemes      \nMonths ago, the video was widely circulated and now it has been circulated again, with several media outlets suggesting that it was Sunak, 42, the youngest prime minister in the modern era.\n##### Related news\n]\n#### \n**The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak**. It is a young man who bears a striking resemblance to him.\nThe images accompanying this story were filmed at the **island\u2019s Ocean Beach Club** and were initially posted on the TikTok profile of club owner **Wayne Lineker** with the caption \u201cRishi Sunak trying to win over an Ibiza crowd today and getting votes for his campaign\u201d.\n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "This website focuses on news related to Mallorca and Balearic Islands. While it can be a reliable local source, its capability to engage extensively with international political matters or to fact-check viral claims is more limited. Therefore, it deserves a medium score, reflecting its regional focus rather than broader news verification."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This source also confirms that the dancing individual is a lookalike of Rishi Sunak, providing context about the video and its resurfacing in media. The mention of the resemblance points towards the identity verification aspect sought in the question. The details about the party setting enhance the credibility of the claim that the original attribution to Sunak is misleading."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "'I'm not sure what they're actually backing?' | Prime Minister, Rishi ...",
+                "htmlTitle": "&#39;I&#39;m not sure what they&#39;re actually backing?&#39; | Prime Minister, <b>Rishi</b> ...",
+                "link": "https://www.tiktok.com/@gbnews/video/7374082933746978080",
+                "displayLink": "www.tiktok.com",
+                "snippet": "May 28, 2024 ... 2815 Likes, 555 Comments. TikTok video from GB News (@gbnews): \u201c'I'm not sure what they're actually backing?' | Prime Minister, Rishi Sunak\u00a0...",
+                "htmlSnippet": "May 28, 2024 <b>...</b> 2815 Likes, 555 Comments. TikTok <b>video</b> from GB News (@gbnews): \u201c&#39;I&#39;m not sure what they&#39;re actually backing?&#39; | Prime Minister, <b>Rishi Sunak</b>&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/@gbnews/video/7374082933746978080",
+                "htmlFormattedUrl": "https://www.tiktok.com/@gbnews/<b>video</b>/7374082933746978080",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGlSHsRTe_L7swxIN3S4cFzzW3Nwa74KMvRvm-WGceGGcDq42PSw3Nq8&s",
+                            "width": "194",
+                            "height": "259"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://www.tiktok.com/api/img/?itemId=7374082933746978080&location=0&aid=1988",
+                            "twitter:card": "summary",
+                            "og:image:width": "576",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "al:ios:url": "snssdk1233://aweme/detail/7374082933746978080?",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "2815 likes, 555 comments. \u201c'I'm not sure what they're actually backing?' | Prime Minister, Rishi Sunak confused after more than 120 businesses pledge to back the Labour Party in the general election\u201d",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/okawis3KoD0KAEDbzAIBUVi4BWhWHwfABXARBA~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=b59d6b55&nonce=28598&refresh_token=9ba82f37d5482ed26a0e23a67ad2b1d9&x-expires=1723100400&x-signature=JAh2chsZ9PLcAwOz%2FMMSr5%2B0icA%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "TikTok \u00b7 GB News",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "TikTok \u00b7 GB News",
+                            "og:image:height": "1024",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://aweme/detail/7374082933746978080?",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "2815 likes, 555 comments. \u201c'I'm not sure what they're actually backing?' | Prime Minister, Rishi Sunak confused after more than 120 businesses pledge to back the Labour Party in the general election\u201d",
+                            "og:url": "https://www.tiktok.com/@gbnews/video/7374082933746978080",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.tiktok.com/api/img/?itemId=7374082933746978080&location=0&aid=1988"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "TikTok - Make Your Day\n===============\nLog in\n*   \n*   \n*   \n*   \n*   \nLog in to follow creators, like videos, and view comments.\nLog in\n #### Create TikTok effects, get a reward]\n#### Company\n#### Program\n#### Terms & Policies\n\u00a9 2024 TikTok",
+                    "content_tokens": 65
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "TikTok is a social media platform primarily for sharing short videos and lacks the editorial oversight that traditional news organizations have. While it can be a source of viral videos, it does not provide a reliable mechanism for filtering accurate information from misinformation. Its content can be creative and fun but is not credible for news verification."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence does not provide information regarding the video or confirmation about a lookalike. Instead, it references content unrelated to the specific question about the dancing individual\u2019s identity. This makes it largely irrelevant to the discussion at hand."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Misleading GOP videos of Biden are going viral. The fact-checks ...",
+                "htmlTitle": "Misleading GOP <b>videos</b> of Biden are going viral. The fact-checks ...",
+                "link": "https://www.nbcnews.com/politics/2024-election/misleading-gop-videos-biden-viral-fact-checks-rcna133316",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Jun 17, 2024 ... Cheap fakes can be rendered through Photoshop, lookalikes, re-contextualizing footage, speeding, or slowing.\" Still, even if they are deceptive,\u00a0...",
+                "htmlSnippet": "Jun 17, 2024 <b>...</b> Cheap fakes can be rendered through Photoshop, <b>lookalikes</b>, re-contextualizing footage, speeding, or slowing.&quot; Still, even if they are deceptive,&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../misleading-gop-videos-biden-viral-fact-check...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../misleading-gop-<b>video</b>s-biden-viral-fact-check...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNm6CQAEB73ew16Ao7gOBBdYCxsNV0i9fXLI6XAXq6TDSk1RZMXlvV5HzV&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up.",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "\u201cThe lie is sprinting the 100-meter dash and the fact-check is taking a stroll on the beach. So it\u2019s never going to catch up,\" said one Democratic strategist.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg",
+                            "branch:deeplink:description": "\u201cThe lie is sprinting the 100-meter dash and the fact-check is taking a stroll on the beach. So it\u2019s never going to catch up,\" said one Democratic strategist.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg",
+                            "twitter:site": "@NBCNews",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up.",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg",
+                            "og:title": "Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up.",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg",
+                            "socialcopy": "Misleading GOP videos of Biden are going viral. The fact-checks have trouble keeping up.",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "\u201cThe lie is sprinting the 100-meter dash and the fact-check is taking a stroll on the beach. So it\u2019s never going to catch up,\" said one Democratic strategist.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/politics/2024-election/misleading-gop-videos-biden-viral-fact-checks-rcna133316",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240617-one-time-use-joe-biden-cs-c6ced3.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... one of many quick video clips the conservative media ecosystem willed into virality over the past two weeks, leaving fact-checkers and Biden\u2019s team with little chance to catch up.\nThe Republican National Committee, major conservative media outlets and right-wing influencers have succeeded in blasting out videos that they claim  of Biden\u2019s\u00a0,\u00a0 or even\u00a0\u00a0with a substance commonly represented by a brown swirl emoji.\n and the Biden campaign have  that the videos, while they are un-doctored by artificial intelligence,  under even basic scrutiny, such as when the moments are  or from .\n\u201cFresh off being fact checked by at least 6 mainstream outlets for lying about President Biden with cheap fakes, Rupert Murdoch\u2019s sad little super PAC, the New York Post, is back to disrespecting its readers and itself once again,\u201d White House spokesperson Andrew Bates said in a statement in reference to a video of Biden at a fundraiser with former President Barack Obama over the weekend that  of the Post, a conservative tabloid.\nWhile \"deepfakes\" are misleading audio, video or images that are created or edited with artificial intelligence technology, a \"cheap fake,\" according to researchers Britt Paris and Joan Donovan, is a \" (or, none at all). Cheap fakes can be rendered through Photoshop, lookalikes, re-contextualizing footage, speeding, or slowing.\"\nStill, even if they are deceptive, the videos nonetheless play into  about Biden\u2019s age and are tailor-made for internet virality, meaning busy voters may be more likely to encounter the brief incendiary clips than the more rigorous fact-checks that chase them.\n\u201cThe lie is sprinting the 100-meter dash and the fact-check is taking a stroll on the beach. So it\u2019s never going to catch up. And it\u2019s never going to have the same reach,\u201d said Eric Schultz, a Democratic strategist and Obama spokesperson who on Sunday  the Post\u2019s characterization of the fundraiser as false.\nLast week, Republicans pushed a video of Biden in Europe attending the Group of Seven summit in which he allegedly \u201cwandered off\u201d in a confused haze before Italy\u2019s prime minister pulled him back. Uncut video and shots from wider angles showed Biden was greeting a parachutist who had just landed as part of the ceremony.\nThe controversy generated by the video grew so large that British Prime Minister Rishi Sunak was asked to give his eyewitness account of the moment.\n\u201cThey had all landed, and he was being very polite. And he just went over to kind of talk to all of them individually,\u201d Sunak .\nBefore that,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "NBC News is a well-established news organization with a strong reputation for journalistic integrity and thorough reporting. It has extensive resources for fact-checking and often covers the latest news, including political events and controversies. Its history of accuracy and commitment to ethical journalism makes it a highly reliable source."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence focuses on other misleading videos of politicians, which does not specifically address the question about Rishi Sunak and the lookalike. It provides background on misinformation but does not support or refute the specific claim regarding the identity of the dancer."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "'Raving Rishi' is an Internet sensation! Rishi Sunak look-alike ...",
+                "htmlTitle": "&#39;Raving Rishi&#39; is an Internet sensation! <b>Rishi Sunak look-alike</b> ...",
+                "link": "https://m.economictimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms",
+                "displayLink": "m.economictimes.com",
+                "snippet": "Oct 27, 2022 ... Some netizens were amused at what seemed to be Britain's 57th Prime Minister, dancing shirtless before a group of admirers at a beach party. The\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> Some netizens were amused at what seemed to be Britain&#39;s 57th Prime Minister, <b>dancing</b> shirtless before a group of admirers at a beach party. The&nbsp;...",
+                "formattedUrl": "https://m.economictimes.com/...rishi-sunaks...rishi...at.../95095672.cms",
+                "htmlFormattedUrl": "https://m.economictimes.com/...<b>rishi</b>-<b>sunak</b>s...<b>rishi</b>...at.../95095672.cms",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclUlAJXMDimPOQpnH16I41Hww_uC4PvJftCjW2s2ox5PtB-b6KRuDQPNb&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34608,resizemode-75,msid-95095672/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club.jpg",
+                            "theme-color": "#e9383e",
+                            "og:type": "article",
+                            "og:site_name": "The Economic Times",
+                            "al:android:com": "com.et.reader.activities",
+                            "og:title": "'Raving Rishi' is an Internet sensation! Rishi Sunak look-alike spotted partying at Ibiza Club",
+                            "og:description": "The unnamed guy is seen having the time of his life at a beach party.",
+                            "props": "yes",
+                            "al:android:url": "https://m.economictimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms?utm_source=test&cid=",
+                            "news_keywords": "Rishi Sunak News,raving rishi,ibiza,rishi,rishi sunak,infosys,jim sarbh,infosys",
+                            "viewport": "width=device-width, height=device-height,initial-scale=1.0,user-scalable=yes,maximum-scale=5",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://economictimes.indiatimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms",
+                            "al:android:app_name": "The Economic Times",
+                            "apple-touch-fullscreen": "yes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34608,resizemode-75,msid-95095672/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Home",
+                            "url": "https://m.economictimes.com/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Document",
+                    "content_tokens": 1
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Economic Times is a reputable financial news outlet that, while primarily focused on business and economic issues, also covers significant political news impacting the economy. It is generally reliable but may not be the first outlet to delve into celebrity or political gossip. Thus, it receives a solid score reflecting its credibility in economic reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence confirms that while some viewed the dancer as Rishi Sunak, he is indeed a lookalike. It explicitly discusses public perception against the reality, aiding in the verification process of the claim about the identity of the dancer in the video, thus making it relevant."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Divina de Campo (@divinadecampo) \u2022 Instagram photos and videos",
+                "htmlTitle": "Divina de Campo (@divinadecampo) \u2022 Instagram photos and <b>videos</b>",
+                "link": "https://www.instagram.com/_u/divinadecampo/?utm_source=ig_embed&ig_rid=47edb768-9b35-4ebb-8c4d-2404277c9d08&ig_mid=F33E479F-118F-4553-A7D8-4B8A5996A2C2",
+                "displayLink": "www.instagram.com",
+                "snippet": "325K Followers, 5711 Following, 1321 Posts - Divina de Campo (@divinadecampo) on Instagram: \"RPDR, DECODED, 1/3 @frock_destroyers Actor, singer, ex dancer,\u00a0...",
+                "htmlSnippet": "325K Followers, 5711 Following, 1321 Posts - Divina de Campo (@divinadecampo) on Instagram: &quot;RPDR, DECODED, 1/3 @frock_destroyers Actor, singer, ex <b>dancer</b>,&nbsp;...",
+                "formattedUrl": "https://www.instagram.com/_u/divinadecampo/?utm...ig...",
+                "htmlFormattedUrl": "https://www.instagram.com/_u/divinadecampo/?utm...ig...",
+                "pagemap": {
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/307806989_1481454318942831_5286580169162973150_n.jpg?stp=dst-jpg_s100x100&_nc_cat=107&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=hakxeZQGzBkQ7kNvgG0KBkV&_nc_ht=scontent-lax3-2.cdninstagram.com&oh=00_AYBUb5ldUa0u8dsYYyqi_zu2_LvWNvLBsu3gvYsTZw884w&oe=6696DB0D",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "al:ios:app_name": "Instagram",
+                            "og:title": "Divina de Campo (@divinadecampo) \u2022 Instagram photos and videos",
+                            "al:android:package": "com.instagram.android",
+                            "bingbot": "noarchive",
+                            "al:ios:url": "instagram://user?username=divinadecampo",
+                            "color-scheme": "light",
+                            "og:description": "325K Followers, 5,711 Following, 1,321 Posts - See Instagram photos and videos from Divina de Campo (@divinadecampo)",
+                            "al:ios:app_store_id": "389801252",
+                            "al:android:url": "https://instagram.com/_u/divinadecampo/",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.instagram.com/divinadecampo/",
+                            "al:android:app_name": "Instagram"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/307806989_1481454318942831_5286580169162973150_n.jpg?stp=dst-jpg_s100x100&_nc_cat=107&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=hakxeZQGzBkQ7kNvgG0KBkV&_nc_ht=scontent-lax3-2.cdninstagram.com&oh=00_AYBUb5ldUa0u8dsYYyqi_zu2_LvWNvLBsu3gvYsTZw884w&oe=6696DB0D"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Login \u2022 Instagram\n===============\n!(blob:https://www.instagram.com/a2c4acc86ce977bdb7718eba199dd413)!(blob:https://www.instagram.com/a7d152ce433b443153f919ae47dd7fc4)\nPhone number, username, or email\nPassword\nLog in\nor\nLog in with Facebook\nDon't have an account? \nGet the app.\n]](ms-windows-store://pdp/?productid=9nblggh5l9xt&referrer=appbadge&source=www.instagram.com&mode=mini&pos=770%2C570%2C780%2C580&next=https%3A%2F%2Fwww.instagram.com%2Fdivinadecampo%2F%3Fig_rid%3D47edb768-9b35-4ebb-8c4d-2404277c9d08%26ig_mid%3DF33E479F-118F-4553-A7D8-4B8A5996A2C2)\nEnglish\nAfrikaans\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u010ce\u0161tinaDanskDeutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acEnglishEnglish (UK)Espa\u00f1ol (Espa\u00f1a)Espa\u00f1ol\u0641\u0627\u0631\u0633\u06ccSuomiFran\u00e7ais\u05e2\u05d1\u05e8...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "Instagram is primarily a social media platform similar to TikTok, where users share images and videos. While it can serve as a medium for viral content, it does not function as a news source and lacks oversight over the authenticity of the information shared. Therefore, it receives a low score for its inability to verify news claims."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The content of this evidence is unrelated to Rishi Sunak or any discussion of lookalikes. It focuses solely on a social media profile and does not help in verifying identity in the context of the viral video. Therefore, it is not relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak nearly falls over as he shows off 'shocking' football skills ...",
+                "htmlTitle": "<b>Rishi Sunak</b> nearly falls over as he shows off &#39;shocking&#39; football skills ...",
+                "link": "https://www.reddit.com/r/ukpolitics/comments/1d2e4km/rishi_sunak_nearly_falls_over_as_he_shows_off/",
+                "displayLink": "www.reddit.com",
+                "snippet": "May 28, 2024 ... I'm even good at some similar things, like boules. But 10-pin bowling? I'm utterly useless at it. Like embarrassingly bad. To the point it's not\u00a0...",
+                "htmlSnippet": "May 28, 2024 <b>...</b> I&#39;m even good at some <b>similar</b> things, like boules. But 10-pin bowling? I&#39;m utterly useless at it. Like embarrassingly bad. To the point it&#39;s not&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/.../rishi_sunak_nearly_falls_over_as_he_shows_o...",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../<b>rishi</b>_<b>sunak</b>_nearly_falls_over_as_he_shows_o...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Ia_z6lGDCGQxgR9yz4vR4Hf-vri806o-p1votNDi5qu1ZGzIwy1m5MK7&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/rishi-sunak-nearly-falls-over-as-he-shows-off-shocking-v0-3nJFrVEsujT-eNW13eThHpeNtdJHCYNZ84F5wb_j828.jpg?width=1080&crop=smart&auto=webp&s=b304c1c88f61f1fe283d7aa9d43ecb5cc44f5323",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/ukpolitics on Reddit: Rishi Sunak nearly falls over as he shows off 'shocking' football skills",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/ukpolitics on Reddit: Rishi Sunak nearly falls over as he shows off 'shocking' football skills",
+                            "og:image:height": "567",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/BlackCaesarNT - 603 votes and 278 comments",
+                            "twitter:image": "https://external-preview.redd.it/rishi-sunak-nearly-falls-over-as-he-shows-off-shocking-v0-3nJFrVEsujT-eNW13eThHpeNtdJHCYNZ84F5wb_j828.jpg?width=1080&crop=smart&auto=webp&s=b304c1c88f61f1fe283d7aa9d43ecb5cc44f5323",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/ukpolitics/comments/1d2e4km/rishi_sunak_nearly_falls_over_as_he_shows_off/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/rishi-sunak-nearly-falls-over-as-he-shows-off-shocking-v0-3nJFrVEsujT-eNW13eThHpeNtdJHCYNZ84F5wb_j828.jpg?width=1080&crop=smart&auto=webp&s=b304c1c88f61f1fe283d7aa9d43ecb5cc44f5323"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a social news aggregation and discussion platform where users can post content and discuss various topics, including news. While it has subreddits dedicated to fact-checking and news analysis, the quality of information varies greatly based on the community and thread. It has potential for insightful analysis but also for misinformation, resulting in a medium score."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence pertains to Rishi Sunak\u2019s personal commentary and unrelated events, providing no information regarding the dancing individual or the status of any lookalikes. Thus, it does not contribute to the verification in the context of the question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak hints at welfare squeeze to fund plan to completely ...",
+                "htmlTitle": "<b>Rishi Sunak</b> hints at welfare squeeze to fund plan to completely ...",
+                "link": "https://uk.news.yahoo.com/rishi-sunak-hints-welfare-squeeze-193719583.html",
+                "displayLink": "uk.news.yahoo.com",
+                "snippet": "3 days ago ... The 2p cut in national insurance, which follows a similar measure in November, appears to have done little to revive Tory election hopes. An\u00a0...",
+                "htmlSnippet": "3 days ago <b>...</b> The 2p cut in national insurance, which follows a <b>similar</b> measure in November, appears to have done little to revive Tory election hopes. An&nbsp;...",
+                "formattedUrl": "https://uk.news.yahoo.com/rishi-sunak-hints-welfare-squeeze-193719583.h...",
+                "htmlFormattedUrl": "https://uk.news.yahoo.com/<b>rishi</b>-<b>sunak</b>-hints-welfare-squeeze-193719583.h...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6SlI_EOK1kiUTcxTZmj9I7UncUhyG_TcMbw3gO5AidyUp0rum2G5X-BFV&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=16aaea24-2945-36a7-afff-70b994b37239&src=web",
+                            "og:image": "https://media.zenfs.com/en/evening_standard_239/57172676776cc7c498dcb1162a463f8a",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=16aaea24-2945-36a7-afff-70b994b37239&src=web",
+                            "og:description": "The PM said getting people off welfare and into work would make it possible to \u2018sustainably keep cutting taxes\u2019",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/evening_standard_239/57172676776cc7c498dcb1162a463f8a",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@yahooNewsUK",
+                            "news_keywords": "Rishi Sunak, national insurance, Jeremy Hunt, Paul Johnson, tax system",
+                            "twitter:title": "Rishi Sunak hints at welfare squeeze to fund plan to completely scrap national insurance",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Rishi Sunak hints at welfare squeeze to fund plan to completely scrap national insurance",
+                            "og:image:height": "800",
+                            "twitter:image:src": "https://media.zenfs.com/en/evening_standard_239/57172676776cc7c498dcb1162a463f8a",
+                            "al:android:url": "yahoo://article/view?uuid=16aaea24-2945-36a7-afff-70b994b37239&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The PM said getting people off welfare and into work would make it possible to \u2018sustainably keep cutting taxes\u2019",
+                            "og:url": "https://uk.news.yahoo.com/rishi-sunak-hints-welfare-squeeze-193719583.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/evening_standard_239/57172676776cc7c498dcb1162a463f8a"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "We, Yahoo, are part of the Yahoo family of brands.\nWhen you use our sites and apps, we use cookies to:\n*   provide our sites and apps to you\n*   authenticate users, apply security measures, and prevent spam and abuse, and\n*   measure your use of our sites and apps\nIf you click '**Accept all**', we and , including 237 who are part of the IAB Transparency & Consent Framework, will also store and/or access information on a device (in other words, use cookies) and use precise geolocation data and other personal data such as IP address and browsing and search data, for personalised advertising and content, advertising and content measurement, and audience research and services development.\nIf you do not want us and our partners to use cookies and personal data for these additional purposes, click '**Reject all**'.\nIf you would like to customise your choices, click '**Manage privacy settings**'.\nYou can change your choices at any time by clicking on the 'Privacy & cookie settings' or 'Privacy dashboard' links on our sites and apps. Find out more about how we use your personal data in our  and .",
+                    "content_tokens": 234
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Yahoo News UK aggregates news from various sources, which can lead to a mixed bag of reliability in its reporting. While it often features credible articles, there are instances of less rigorous editorial control, particularly with sensational news. It has some benefits in terms of news aggregation but might lack the depth of investigation seen in more traditional outlets, thus receiving a moderate score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence is focused on a political topic unrelated to the video or identities mentioned in the claim. It does not address the question of the lookalike, making it irrelevant."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak speaks of hurt and anger at daughters hearing racial ...",
+                "htmlTitle": "<b>Rishi Sunak</b> speaks of hurt and anger at daughters hearing racial ...",
+                "link": "https://www.reddit.com/r/unitedkingdom/comments/1dqi46k/rishi_sunak_speaks_of_hurt_and_anger_at_daughters/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 28, 2024 ... 1.8K votes, 1.2K comments. 3.6M subscribers in the unitedkingdom community. For the United Kingdom of Great Britain (England, Scotland,\u00a0...",
+                "htmlSnippet": "Jun 28, 2024 <b>...</b> 1.8K votes, 1.2K comments. 3.6M subscribers in the unitedkingdom community. For the United Kingdom of Great Britain (England, Scotland,&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../rishi_sunak_speaks_of_hurt_and_anger_at_daug...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>rishi</b>_<b>sunak</b>_speaks_of_hurt_and_anger_at_daug...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJ0AVKmkkqsjoL3hRHHrH4piOkNpjMI7nt6DBDkvQ03R0gbECszDgh8JA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/rishi-sunak-speaks-of-hurt-and-anger-at-daughters-hearing-v0-H2sIsjWUD0hp91-25fHG3Oj9wE2nso2jSlIILI5Dl9w.jpg?width=1080&crop=smart&auto=webp&s=808ac8d28b3bf9bb9f1af86f5277230759098978",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/unitedkingdom on Reddit: Rishi Sunak speaks of hurt and anger at daughters hearing racial slur from Reform activists",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/unitedkingdom on Reddit: Rishi Sunak speaks of hurt and anger at daughters hearing racial slur from Reform activists",
+                            "og:image:height": "607",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/topotaul - 1,752 votes and 1,180 comments",
+                            "twitter:image": "https://external-preview.redd.it/rishi-sunak-speaks-of-hurt-and-anger-at-daughters-hearing-v0-H2sIsjWUD0hp91-25fHG3Oj9wE2nso2jSlIILI5Dl9w.jpg?width=1080&crop=smart&auto=webp&s=808ac8d28b3bf9bb9f1af86f5277230759098978",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/unitedkingdom/comments/1dqi46k/rishi_sunak_speaks_of_hurt_and_anger_at_daughters/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/rishi-sunak-speaks-of-hurt-and-anger-at-daughters-hearing-v0-H2sIsjWUD0hp91-25fHG3Oj9wE2nso2jSlIILI5Dl9w.jpg?width=1080&crop=smart&auto=webp&s=808ac8d28b3bf9bb9f1af86f5277230759098978"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a social news aggregation and discussion platform where users can post content and discuss various topics, including news. While it has subreddits dedicated to fact-checking and news analysis, the quality of information varies greatly based on the community and thread. It has potential for insightful analysis but also for misinformation, resulting in a medium score."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "Similar to the previous evidences, this content does not relate to the dancer or any verification regarding identity. It discusses a different political context wholly unrelated to the viral video, thus unhelpful."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Waving Palestinian flag may be a criminal offence, Braverman tells ...",
+                "htmlTitle": "Waving Palestinian flag may be a criminal offence, Braverman tells ...",
+                "link": "https://www.theguardian.com/politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Oct 10, 2023 ... \u201cI would encourage police to give similar consideration to the presence of symbols such as swastikas at anti-Israel demonstrations. Context is\u00a0...",
+                "htmlSnippet": "Oct 10, 2023 <b>...</b> \u201cI would encourage police to give <b>similar</b> consideration to the presence of symbols such as swastikas at anti-Israel demonstrations. Context is&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../people-supporting-hamas-in-uk-will-be-he...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../people-supporting-hamas-in-uk-will-be-he...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX_q22unM9tMqnaswbZHdpt0JgTXtjFc2_i_REE1dYxDTPvyGCcfLUce8U&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/e05bb9d30763751e41f8743e525d4cb01a6884e5/216_292_3216_1929/master/3216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12aad384e1ce6ebefc5f7a24ae0238e7",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-10-10T15:46:23.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Home secretary also suggests clampdown on pro-Arab chants in letter that will concern free speech advocates",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/e05bb9d30763751e41f8743e525d4cb01a6884e5/216_292_3216_1929/master/3216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=e99397302ab6096fc61977b22e83243f",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2023-10-13T08:32:05.000Z",
+                            "og:type": "article",
+                            "article:section": "Politics",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Waving Palestinian flag may be a criminal offence, Braverman tells police",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/rajeev-syal,https://www.theguardian.com/profile/aubrey-allegretti",
+                            "article:tag": "Rishi Sunak,Israel,Hamas,UK news,Middle East and north Africa,Palestinian territories,Politics,Suella Braverman,Israel-Gaza war",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/politics/2023/oct/10/people-supporting-hamas-in-uk-will-be-held-to-account-says-rishi-sunak",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/e05bb9d30763751e41f8743e525d4cb01a6884e5/216_292_3216_1929/master/3216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12aad384e1ce6ebefc5f7a24ae0238e7"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n=========================================================================\nThis article is more than 9 months old\nHome secretary also suggests clampdown on pro-Arab chants in letter that will concern free speech advocates\n*   \n and \nTue 10 Oct 2023 11.46 EDTFirst published on Tue 10 Oct 2023 08.16 EDT\nWaving a Palestinian flag or singing a chant advocating freedom for Arabs in the region may be a criminal offence,  has told senior police officers.\nIn a letter to chief constables in England and Wales, the home secretary urged them to clamp down on any attempts to use flags, songs or swastikas to harass or intimidate members of the Jewish community.\nHer words, which follow deadly attacks by Hamas on Israelis and a military response, will deeply concern freedom of speech advocates and members of the Muslim community.\nIn the letter, Braverman said police should not restrict themselves to potential offences related to the promotion of , a proscribed organisation.\n\u201cIt is not just explicit pro-Hamas symbols and chants that are cause for concern. I would encourage police to consider whether chants such as: \u2018From the river to the sea, Palestine will be free\u2019 should be understood as an expression of a violent desire to see Israel erased from the world, and whether its use in certain contexts may amount to a racially aggravated section 5 public order offence.\n\u201cI would encourage police to give similar consideration to the presence of symbols such as swastikas at anti-Israel demonstrations. Context is crucial. Behaviours that are legitimate in some circumstances, for example the waving of a Palestinian flag, may not be legitimate such as when intended to glorify acts of terrorism.\n\u201cNor is it acceptable to drive through Jewish neighbourhoods, or single out Jewish members of the public, to aggressively chant or wave pro-Palestinian symbols at. Where harassment is identified, I would encourage the police to take swift and appropriate enforcement action.\n\u201cI encourage all chief officers to ensure that any protests which could exacerbate community tensions by way of offensive placards, chants, or behaviours that could be construed as incitement or harassment, have a strong police presence to ensure perpetrators are appropriately dealt with, and that communities feel protected,\u201d she wrote. Home Office sources confirmed her words had been approved by government lawyers.\nDecisions on arrests are an operational matter for the police, Braverman wrote. \u201cHowever, I would urge you to ensure your forces use all available powers to prevent disorder and distress to our communities, and that your officers will act if there are any incidents that stray into criminality,\u201d she said.\nThe human rights barr...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Guardian is known for its comprehensive journalism and has a strong commitment to fact-checking and investigative reporting. It has a solid track record for covering political matters responsibly, making it a highly reliable source for news and analysis about public figures like Rishi Sunak."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-10-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence addresses a completely different political issue and does not connect to the subject of the dancing individual or the identity verification of any lookalike. Thus, it is irrelevant to the question at hand."
+                }
+            }
+        }
+    ]
+}

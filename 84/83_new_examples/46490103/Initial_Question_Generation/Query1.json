@@ -1,0 +1,683 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Joe Biden sold state secrets June 2023 meeting",
+                "totalResults": "5730000",
+                "searchTerms": "Joe Biden sold state secrets June 2023 meeting",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Joe Biden sold state secrets June 2023 meeting",
+                "totalResults": "5730000",
+                "searchTerms": "Joe Biden sold state secrets June 2023 meeting",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.310399,
+        "formattedSearchTime": "0.31",
+        "totalResults": "5730000",
+        "formattedTotalResults": "5,730,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Remarks by President Biden and Prime Minister Modi of the ...",
+                "htmlTitle": "Remarks by President <b>Biden</b> and Prime Minister Modi of the ...",
+                "link": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/",
+                "displayLink": "www.whitehouse.gov",
+                "snippet": "Jun 23, 2023 ... We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we ...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> We — I was just thanking the — anyway, I started off without you, and I <b>sold</b> a lot of <b>state secrets</b> and a lot of very important things that we&nbsp;...",
+                "formattedUrl": "https://www.whitehouse.gov/.../2023/.../remarks-by-president-biden-and-pr...",
+                "htmlFormattedUrl": "https://www.whitehouse.gov/.../<b>2023</b>/.../remarks-by-president-<b>biden</b>-and-pr...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3uyPhjBII2dknIczGPDIGAZ-0GLB6yu539Y5-xQsiZQcmFJL9DA0C3tRE&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "The White House",
+                            "og:image": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png",
+                            "og:type": "article",
+                            "article:published_time": "2023-06-23T21:30:02+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The White House",
+                            "author": "The White House",
+                            "og:title": "Remarks by President Biden and Prime Minister Modi of the Republic of India in Meeting with Senior Officials and CEOs of Technology Companies | The White House",
+                            "apple-mobile-web-app-title": "The White House",
+                            "og:image:height": "630",
+                            "google": "notranslate",
+                            "og:image:type": "image/png",
+                            "og:description": "East Room 12:14 P.M. EDT    PRESIDENT BIDEN:  Okay.  We -- I was just thanking the -- anyway, I started off without you, and",
+                            "twitter:creator": "@whitehouse",
+                            "article:publisher": "https://www.facebook.com/WhiteHouse/",
+                            "twitter:site": "@whitehouse",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2023/06/23/remarks-by-president-biden-and-prime-minister-modi-of-the-republic-of-india-in-meeting-with-senior-officials-and-ceos-of-technology-companies/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "12:14 P.M. EDT\nPRESIDENT BIDEN:  Okay.  We — I was just thanking the — anyway, I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared.  (Laughter.)\nNow, all kidding aside — look, we’re teaming up to design and develop new technologies that are going to transform the lives of our people around the world.  And together, we’re lifting the private and public partners to make this possible, including launching a new program between India and America — American astronauts, Indian astronauts, and entrepreneurs, scientists, students.\nSimply put, our countries are ta- — taking innovation and cooperation to a new level in our relationship, and thanks in large part to the folks around this table.\nSo my message today is really simple: We’ve got to keep it up, and we have to make sure we aim even higher.\nWe’re — we’re going to see more technol- — technological change — you’ve heard me say this a number of times — in the next 10 years than we saw in the last 50 years — and maybe in the next few years — the last 50 years.  And we need your help — and I’m talking to the CEOs around this table, Indian and American.  We need your help to seize the moment, to help manage the risk to our societies, our economies, and to our nations...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Social media posts misconstrue Biden's joke about selling 'state ...",
+                "htmlTitle": "Social media posts misconstrue <b>Biden&#39;s</b> joke about <b>selling</b> &#39;<b>state</b> ...",
+                "link": "https://apnews.com/article/fact-check-biden-india-modi-microsoft-google-738627587204",
+                "displayLink": "apnews.com",
+                "snippet": "Jun 27, 2023 ... CLAIM: A video shows President Joe Biden openly admitting to selling state secrets. AP'S ASSESSMENT: Missing context. Biden was making a ...",
+                "htmlSnippet": "Jun 27, 2023 <b>...</b> CLAIM: A video shows President <b>Joe Biden</b> openly admitting to <b>selling state secrets</b>. AP&#39;S ASSESSMENT: Missing context. Biden was making a&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-biden-india-modi-microsoft-google-7386...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-<b>biden</b>-india-modi-microsoft-google-7386...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0ZiiCmt2gE_c2A5FI6lJ8BZWlsoi3gCamZJQjUyJy36Zt_gh2X_2Ae1v&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-06-27T23:37:19.134",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Social media users are claiming the 80-year-old Democrat recently admitted to peddling sensitive national information.",
+                            "twitter:creator": "@philmarcelo",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-07-06T13:05:12.388",
+                            "brightspot.contentid": "00000188-ff1a-d53f-a7fc-ff1af3130000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Social media posts misconstrue Biden’s joke about selling ‘state secrets’",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"Fact-checking,AP Fact Check\",\n  \"dimension9\" : \"2023-06-27 19:37:19\",\n  \"dimension10\" : \"PHILIP MARCELO\"\n}",
+                            "ntv-kv": "Fact-checking",
+                            "og:title": "Social media posts misconstrue Biden’s joke about selling ‘state secrets’",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-06-27T19:37:19.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"Social media posts misconstrue Biden’s joke about selling ‘state secrets’\",\n  \"authors\" : [ \"PHILIP MARCELO\" ]\n}",
+                            "article:author": "https://apnews.com/author/philip-marcelo",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "Social media users are claiming the 80-year-old Democrat recently admitted to peddling sensitive national information.",
+                            "og:url": "https://apnews.com/article/fact-check-biden-india-modi-microsoft-google-738627587204",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check\",\n  \"headline\" : \"Social media posts misconstrue Biden’s joke about selling ‘state secrets’\",\n  \"publication_date\" : \"2023-06-27 19:37:19\",\n  \"author\" : \"PHILIP MARCELO\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Video\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 3531,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/0f8df84/2147483647/strip/true/crop/720x405+0+1/resize/1440x810!/quality/90/?url=https%3A%2F%2Fcdn.jwplayer.com%2Fv2%2Fmedia%2FuOv4qFez%2Fthumbnails%2FRQzMhwP3.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "A video shows President Joe Biden openly admitting",
+                            "url": "https://apnews.com/article/fact-check-biden-india-modi-microsoft-google-738627587204"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-biden-india-modi-microsoft-google-738627587204: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-biden-india-modi-microsoft-google-738627587204",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "No kidding, Biden did not confess to selling state secrets - RMIT ...",
+                "htmlTitle": "No kidding, <b>Biden</b> did not confess to <b>selling state secrets</b> - RMIT ...",
+                "link": "https://www.rmit.edu.au/news/factlab-meta/no--biden-did-not-confess-to-selling-state-secrets",
+                "displayLink": "www.rmit.edu.au",
+                "snippet": "Jul 19, 2023 ... US President Joe Biden confessed to selling state secrets. Missing context. The video is edited to remove President Biden's remark that he ...",
+                "htmlSnippet": "Jul 19, 2023 <b>...</b> US President <b>Joe Biden</b> confessed to <b>selling state secrets</b>. Missing context. The video is edited to remove President Biden&#39;s remark that he&nbsp;...",
+                "formattedUrl": "https://www.rmit.edu.au/.../no--biden-did-not-confess-to-selling-state-secret...",
+                "htmlFormattedUrl": "https://www.rmit.edu.au/.../no--<b>biden</b>-did-not-confess-to-selling-<b>state</b>-<b>secret</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNvYElPlDo5cOUc-sMFEKkhrf6EoteLFO7SLtB4-KFa-AWMZHyQEkZtjU&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://www.rmit.edu.au/content/dam/rmit/au/en/about/schools-colleges/media-and-communication/factlab/Biden-thumbnail.jpg",
+                            "caption": "US President Joe Biden jokes about selling \"state secrets\" during a meeting with Indian Prime Minister Narendra Modi"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "master",
+                            "pagetype": "news",
+                            "country": "AU",
+                            "og:image": "https://www.rmit.edu.au/content/dam/rmit/au/en/about/schools-colleges/media-and-communication/factlab/Biden-thumbnail.jpg",
+                            "twitter:card": "Summary",
+                            "twitter:title": "No kidding, Biden did not confess to selling state secrets",
+                            "og:type": "Article",
+                            "og:title": "No kidding, Biden did not confess to selling state secrets",
+                            "language": "en",
+                            "title": "No kidding, Biden did not confess to selling state secrets",
+                            "og:description": "Social media users are circulating an edited video to claim the US President sold state secrets, but it’s all a joke.",
+                            "twitter:image": "https://www.rmit.edu.au/content/dam/rmit/au/en/about/schools-colleges/media-and-communication/factlab/Biden-thumbnail.jpg",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Social media users are circulating an edited video to claim the US President sold state secrets, but it’s all a joke.",
+                            "og:url": "https://www.rmit.edu.au/news/factlab-meta/no--biden-did-not-confess-to-selling-state-secrets"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.rmit.edu.au/content/dam/rmit/au/en/about/schools-colleges/media-and-communication/factlab/Biden-thumbnail.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   (javascript:void\\(0\\);)\n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n!\nNo kidding, Biden did not confess to selling state secrets\n----------------------------------------------------------\n<table width=\"100%\" cellspacing=\"0\" cellpadding=\"1\" border=\"1\"><tbody><tr class=\"enable-hover-bg\"><td><h4><b>What was claimed</b></h4></td><td><h4><b>The verdict</b></h4></td></tr><tr><td><p>US President Joe Biden confessed to selling state secrets.</p></td><td><p>Missing context. The video is edited to remove President Biden’s remark that he was “kidding” directly after a tongue-in-cheek comment that he “has sold a lot of state secrets”.</p></td></tr></tbody></table>\n! US President Joe Biden jokes about selling \"state secrets\" during a meeting with Indian Prime Minister Narendra Modi\nBy Frank Algra-Maschio\nA video gaining traction on social media misleadingly claims to show US President Joe Biden confessing to selling state secrets and sharing confidential information.\nThe clip has been shared by several prominent figures, including Republican congresswoman Marjorie Taylor-G...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "NOT REAL NEWS: A look at what didn't happen this week | AP News",
+                "htmlTitle": "NOT REAL NEWS: A look at what didn&#39;t happen this week | AP News",
+                "link": "https://apnews.com/article/fact-check-misinformation-joe-biden-climate-change-bill-gates-5ee61b2811a07319cdebb55a27385b96",
+                "displayLink": "apnews.com",
+                "snippet": "Jun 30, 2023 ... CLAIM: A video shows President Joe Biden openly admitting to selling state secrets. THE FACTS: Biden was making a joke at the outset of a ...",
+                "htmlSnippet": "Jun 30, 2023 <b>...</b> CLAIM: A video shows President <b>Joe Biden</b> openly admitting to <b>selling state secrets</b>. THE FACTS: Biden was making a joke at the outset of a&nbsp;...",
+                "formattedUrl": "https://apnews.com/.../fact-check-misinformation-joe-biden-climate-change...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-misinformation-<b>joe</b>-<b>biden</b>-climate-change...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mZYWleuxAawKbcTgMNIgRYUT04kTnhqpT_zVMhQgHrcl1OBwd2AOWW0&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-06-30T17:16:42",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Social media users shared a range of false claims this week. Here are the facts: A clip of President Joe Biden purportedly admitting to selling “state secrets” was edited to omit when he said he was joking.",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8",
+                            "twitter:image:alt": "FILE - President Joe Biden speaks with India's Prime Minister Narendra Modi and American and Indian business leaders in the East Room of the White House, Friday, June 23, 2023, in Washington. On Friday, June 30, The Associated Press reported on a video clip being shared online that shows Biden talking about selling “state secrets” but omits when he made clear that he was joking. (AP Photo/Evan Vucci, File)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-12-01T16:31:16.833",
+                            "brightspot.contentid": "3b437d0b-930d-3600-bf1a-30adb0b54d60",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8",
+                            "og:image:alt": "FILE - President Joe Biden speaks with India's Prime Minister Narendra Modi and American and Indian business leaders in the East Room of the White House, Friday, June 23, 2023, in Washington. On Friday, June 30, The Associated Press reported on a video clip being shared online that shows Biden talking about selling “state secrets” but omits when he made clear that he was joking. (AP Photo/Evan Vucci, File)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "NOT REAL NEWS: A look at what didn't happen this week",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8",
+                            "ga-datalayer": "{\n  \"dimension1\" : \"5ee61b2811a07319cdebb55a27385b96\",\n  \"dimension15\" : \"Joe Biden,General news,Not Real News,Business,Politics,AP Fact Check,AP Fact Check\",\n  \"dimension9\" : \"2023-06-30 13:16:42\",\n  \"dimension10\" : \"THE ASSOCIATED PRESS\"\n}",
+                            "ntv-kv": "JoeBiden,Generalnews,NotRealNews,Glaciers,Politics,DonaldTrump,Business,India,NarendraModi,U.S.news,a,BillGates,Indiagovernment,n,MarjorieTaylorGreene,U.S.News",
+                            "og:title": "NOT REAL NEWS: A look at what didn't happen this week",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"a\", \"AP Fact Check\", \"Narendra Modi\", \"Marjorie Taylor Greene\", \"Donald Trump\", \"Joe Biden\", \"n\", \"India\", \"India government\", \"U.S. news\", \"General news\", \"Glaciers\", \"Politics\", \"Not Real News\", \"Bill Gates\", \"Business\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-06-30T13:16:42.000Z\",\n  \"item_id\" : \"5ee61b2811a07319cdebb55a27385b96\",\n  \"headline\" : \"NOT REAL NEWS: A look at what didn't happen this week\",\n  \"authors\" : [ \"THE ASSOCIATED PRESS\" ]\n}",
+                            "article:tag": "Joe Biden",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "Social media users shared a range of false claims this week. Here are the facts: A clip of President Joe Biden purportedly admitting to selling “state secrets” was edited to omit when he said he was joking.",
+                            "og:url": "https://apnews.com/article/fact-check-misinformation-joe-biden-climate-change-bill-gates-5ee61b2811a07319cdebb55a27385b96",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"5ee61b2811a07319cdebb55a27385b96\",\n  \"Tag_CMS\" : \"Joe Biden,General news,Not Real News,Business,Politics,AP Fact Check,AP Fact Check\",\n  \"item_ID\" : \"5ee61b2811a07319cdebb55a27385b96\",\n  \"tag_array\" : \"Joe Biden,General news,Not Real News,Business,Politics,AP Fact Check,AP Fact Check\",\n  \"headline\" : \"NOT REAL NEWS: A look at what didn't happen this week\",\n  \"publication_date\" : \"2023-06-30 13:16:42\",\n  \"author\" : \"THE ASSOCIATED PRESS\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Gallery\",\n  \"page_type\" : \"Article\",\n  \"slug_line\" : \"BC-Not-Real-News\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 12980,\n  \"primary_section\" : \"AP Fact Check\",\n  \"secondary_sections\" : \"Business,Politics,AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/c2e2572/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F28%2F62%2Ff3b2bdca2e189d4e3578f512d1d8%2Fda71dd96e47e43d790daefccb70de9f8"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/article/fact-check-misinformation-joe-biden-climate-change-bill-gates-5ee61b2811a07319cdebb55a27385b96: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/article/fact-check-misinformation-joe-biden-climate-change-bill-gates-5ee61b2811a07319cdebb55a27385b96",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Biden Jokes About Sharing State Secrets During Meeting With PM ...",
+                "htmlTitle": "<b>Biden</b> Jokes About Sharing <b>State Secrets</b> During <b>Meeting</b> With PM ...",
+                "link": "https://thepavlovictoday.com/biden-jokes-about-sharing-state-secrets-during-meeting-with-pm-modi/",
+                "displayLink": "thepavlovictoday.com",
+                "snippet": "Jun 23, 2023 ... In a show of unity and shared objectives, President Joe Biden, and Indian Prime Minister Narendra Modi sat at the center of a long table, ...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> In a show of unity and shared objectives, President <b>Joe Biden</b>, and Indian Prime Minister Narendra Modi sat at the center of a long table,&nbsp;...",
+                "formattedUrl": "https://thepavlovictoday.com/biden-jokes-about-sharing-state-secrets-durin...",
+                "htmlFormattedUrl": "https://thepavlovictoday.com/<b>biden</b>-jokes-about-sharing-<b>state</b>-<b>secrets</b>-durin...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Newsroom—ThePavlovicToday.com",
+                            "fn": "Newsroom—ThePavlovicToday.com",
+                            "url": "https://thepavlovictoday.com/author/thepavlovictoday/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzkTnQRKEWpq7uGGDo34FEsetUEZ_hUQSdNzmRAliyS8JEjvJHFIe3GXt&s",
+                            "width": "267",
+                            "height": "188"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://thepavlovictoday.com/wp-content/uploads/2023/06/Biden-Modi-Apple.jpeg",
+                            "article:published_time": "2023-06-23T17:28:43+00:00",
+                            "og:image:width": "1300",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#fff",
+                            "og:site_name": "The Pavlovic Today",
+                            "apple-mobile-web-app-title": "The Pavlovic Today",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://i0.wp.com/thepavlovictoday.com/wp-content/uploads/2022/10/cropped-FAVICON-.png?fit=270%2C270&ssl=1",
+                            "og:description": "Biden addressed the press corps, joking about sharing state secrets with chief executives and Indian officials. \"I started off without you,\" Biden told reporters.",
+                            "twitter:creator": "@PavlovicToday",
+                            "twitter:data1": "Newsroom—ThePavlovicToday.com",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@PavlovicToday",
+                            "article:modified_time": "2023-06-26T23:11:11+00:00",
+                            "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                            "application-name": "The Pavlovic Today",
+                            "og:type": "article",
+                            "author": "Newsroom—ThePavlovicToday.com",
+                            "og:title": "Biden Jokes About Sharing State Secrets During Meeting With PM Modi - The Pavlovic Today",
+                            "og:image:height": "917",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "onesignal": "wordpress-plugin",
+                            "og:locale": "en_US",
+                            "mobile-web-app-capable": "yes",
+                            "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                            "og:url": "http://thepavlovictoday.com/biden-jokes-about-sharing-state-secrets-during-meeting-with-pm-modi/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thepavlovictoday.com/wp-content/uploads/2023/06/Biden-Modi-Apple.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \nClose\n*   \n*   \n*   \n*   \n*   \n]\nWhere people come for independent news\n*   \n*   \nOpen Search\nSearch for:  Search\nMenu \n*   \n*   \n*    Open dropdown menu\n    *   \n    *   \n    *   \n*   \n*    Open dropdown menu\n    *   \n    *   \n*    Open dropdown menu\n    *   \n    *   \n*    Open dropdown menu\n    *   \n    *   \n*   \n*   \n*   \n » Biden Jokes About Sharing State Secrets During Meeting With PM Modi\nPosted in\nBiden Jokes About Sharing State Secrets During Meeting With PM Modi\n===================================================================\n! by  June 23, 2023June 26, 2023\n### SHARE THIS:\n*   \n*   \n*   \n*   \n*   \n!\nPM Modi at the White House meeting with President Biden and American CEOs. \\\nIn a show of unity and shared objectives, President Joe Biden, and Indian Prime Minister Narendra Modi sat at the center of a long table, facing the press in front of two sets of American and Indian flags.\nThe meeting, held at the White House on Friday, brought together top business executives from both nations, highlighting the importance of collaboration and innovation on a global scale. Among the notable attendees was Tim Cook, CEO of Apple, who sat to the right of PM Modi. Jeff Zients, the White House Chief of Staff, sat across from Cook, while Commerce Secretary Gina Raimondo occupied a seat next to Zients, facing Modi. Bill Nelson, the NASA Administrator, sat at the end of the table opposite Eric Garcetti, Ambassador to India and former Mayor of Los Angeles.\nAt the outset, Biden addressed the press corps, joking about sharing state secrets with chief executives and Indian officials.\n“I started off without you, and I sold a lot of state secrets and a lot of very important things that we shared,” Biden  reporters.\nDuring his remarks, President Biden emphasized the technological advancements being pursued by both the United States and India, emphasizing the potential to reshape the world. He highlighted the launch of new collaborative programs between the two nations, stating, “Our countries are taking innovation and cooperation to a new level.” Expressing gratitude to those present, he underscored the importance of sustained effort, urging everyone to aim even higher.\n“We need to help seize the moment, help manage the risk to our society, economy,” Biden acknowledged, emphasizing the need to establish “guardrails” around emerging technologies to ensure they are trustworthy, secure, and uphold shared values in human rights. He recognized the significance of the partnership with India, emphasizing its impact on pressing global issues such as climate change, space exploration...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "China's revised state secrets law has come into force. Here's what to ...",
+                "htmlTitle": "China&#39;s revised <b>state secrets</b> law has come into force. Here&#39;s what to ...",
+                "link": "https://www.aljazeera.com/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "May 1, 2024 ... Taiwan warn citizens against travelling to China amid fears new law could be used to punish regular business activities.",
+                "htmlSnippet": "May 1, 2024 <b>...</b> Taiwan warn citizens against travelling to China amid fears new law could be used to punish regular business activities.",
+                "formattedUrl": "https://www.aljazeera.com/.../chinas-revised-state-secrets-law-has-come-into...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../chinas-revised-<b>state</b>-<b>secrets</b>-law-has-come-into...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiC8OWBv2NNEs0Ksk_sss7ZlmRny1y21Tzmia4WAgeax9IUcgY1MSryA&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-03-04T074146Z_1839206299_RC2UE6AJMJX1_RTRMADP_3_CHINA-PARLIAMENT-1714538748.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "postlabel": "Explainer",
+                            "twitter:url": "https://www.aljazeera.com/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                            "pagesection": "Explainer,News,Business and Economy,Espionage,Politics",
+                            "channel": "aje",
+                            "publisheddate": "2024-05-01T07:17:52",
+                            "postid": "2870870",
+                            "source": "Al Jazeera",
+                            "displayauthors": "Al Jazeera Staff",
+                            "og:description": "Taiwan warn citizens against travelling to China amid fears new law could be used to punish regular business activities.",
+                            "taxonomyterms": "News, Business and Economy, Espionage, Politics, Asia Pacific, China, Taiwan, United States, US & Canada",
+                            "lastdate": "2024-05-01T07:17:52",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "China’s revised state secrets law has come into force. Here’s what to know",
+                            "sourcetaxonomy": "Al Jazeera",
+                            "internalreporting": "Break it down for me",
+                            "where": "Asia Pacific, China, Taiwan, United States, US & Canada",
+                            "primarytag": "Espionage",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "pageauthors": "Al Jazeera Staff",
+                            "og:type": "article",
+                            "twitter:title": "China’s revised state secrets law has come into force. Here’s what to know",
+                            "taxonomy-tags": "News, Business and Economy, Espionage, Politics",
+                            "topics": "News",
+                            "author": "Al Jazeera Staff",
+                            "og:title": "China’s revised state secrets law has come into force. Here’s what to know",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                            "tags": "Business and Economy, Espionage, Politics",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-03-04T074146Z_1839206299_RC2UE6AJMJX1_RTRMADP_3_CHINA-PARLIAMENT-1714538748.jpg?resize=1920%2C1440",
+                            "articleslug": "chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                            "postlink": "/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Taiwan warn citizens against travelling to China amid fears new law could be used to punish regular business activities.",
+                            "pagetitle": "China’s revised state secrets law has come into force. Here’s what to know",
+                            "og:url": "https://www.aljazeera.com/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/05/2024-03-04T074146Z_1839206299_RC2UE6AJMJX1_RTRMADP_3_CHINA-PARLIAMENT-1714538748.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.aljazeera.com/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.aljazeera.com/news/2024/5/1/chinas-revised-state-secrets-law-has-come-into-force-heres-what-to-know",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Marjorie Taylor Greene Touts Edited Video of Biden 'Admitting His ...",
+                "htmlTitle": "Marjorie Taylor Greene Touts Edited Video of <b>Biden</b> &#39;Admitting His ...",
+                "link": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-biden-admitting-crimes-1809149",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jun 26, 2023 ... The deceptively-edited video shows Biden saying that he sold \"state secrets\" but cuts off right before the president said that he was ...",
+                "htmlSnippet": "Jun 26, 2023 <b>...</b> The deceptively-edited video shows <b>Biden</b> saying that he <b>sold</b> &quot;<b>state secrets</b>&quot; but cuts off right before the president said that he was&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-bide...",
+                "htmlFormattedUrl": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-<b>bide</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkRNnBnYRzqhvGZr8tIzSCyF_r82oOSmecTYh5VRXycbFqpHNEIn_DVT_&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2250755/marjorie-taylor-greene-touts-edited-biden-video.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2540",
+                            "article:published_time": "2023-06-26T21:00:14-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-biden-admitting-crimes-1809149",
+                            "og:description": "The deceptively-edited video shows Biden saying that he sold \"state secrets\" but cuts off right before the president said that he was \"kidding.\"",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2250755/marjorie-taylor-greene-touts-edited-biden-video.webp?w=1600&h=900&l=50&t=49&q=88&f=66c1ab5dc91084df8553d14ecb452818",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-06-26T23:09:26-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Marjorie Taylor Greene Touts Edited Biden Video",
+                            "article:section": "News",
+                            "twitter:title": "Marjorie Taylor Greene touts edited video of Biden 'Admitting his crimes'",
+                            "og:title": "Marjorie Taylor Greene touts edited video of Biden 'Admitting his crimes'",
+                            "og:image:height": "1693",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Joe Biden",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The deceptively-edited video shows Biden saying that he sold \"state secrets\" but cuts off right before the president said that he was \"kidding.\"",
+                            "og:url": "https://www.newsweek.com/marjorie-taylor-greene-touts-edited-video-biden-admitting-crimes-1809149"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2250755/marjorie-taylor-greene-touts-edited-biden-video.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \nShare\nCopy Link\n✓ Link copied to clipboard!\n*   \n*   \n*   \n*   \n*   \nMarjorie Taylor Greene Touts Edited Video of Biden 'Admitting His Crimes'\n=========================================================================\n**Published** Jun 26, 2023 at 9:00 PM EDT **Updated** Jun 26, 2023 at 11:09 PM EDT\nCLOSE X\nBy \nWriter\nShare\nCopy Link\n✓ Link copied to clipboard!\nRepublican Representative  of Georgia is one of several online touting a deceptively-edited video of President  supposedly \"admitting his crimes out loud.\"\nThe video, first  by the Republican National Committee (RNC) Research  account, shows the president saying at a press briefing last week that he had \"sold a lot of state secrets and a lot of very important things\" during a meeting with Indian Prime Minister .\nThe clip was edited to end just before Biden clearly said that he was \"kidding\" about his comments. Modi and others present during the briefing can also be seen and heard laughing in the  of the video.\nGreene opted to share the edited version of the video to her Twitter account on Monday while arguing that the clip was evidence that may support the impeachment of the president and calling it \"so insulting to America.\"\n!\nU.S. Rep. Marjorie Taylor Greene (R-GA) speaks at a press conference at the U.S. Capitol Building on May 18, 2023, in Washington, D.C. Greene is one of several online touting a deceptively-edited video of President... U.S. Rep. Marjorie Taylor Greene (R-GA) speaks at a press conference at the U.S. Capitol Building on May 18, 2023, in Washington, D.C. Greene is one of several online touting a deceptively-edited video of President Joe Biden supposedly \"admitting his crimes out loud.\" More Anna Moneymaker/Getty\n\"'I sold a lot state secrets and a lot of very important things,'\" Greene quoted Biden while  the RNC Research video. \"Joe Biden's brain is going and he's literally admitting his crimes out loud. Impeach Biden! It's unreal and so insulting to America.\"\n> “I sold a lot state secrets and a lot of very important things.”  \n>   \n> Joe Biden’s brain is going and he’s literally admitting his crimes out loud.  \n>   \n> Impeach Biden!  \n>   \n> It’s unreal and so insulting to America...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "China broadens law on state security to include 'work secrets ...",
+                "htmlTitle": "China broadens law on <b>state</b> security to include &#39;work <b>secrets</b> ...",
+                "link": "https://www.reuters.com/world/china/china-broadens-law-state-secrets-include-work-secrets-2024-02-28/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Feb 28, 2024 ... Chinese lawmakers have expanded a state secrets law for the first time since 2010, widening the scope of restricted sensitive information to ...",
+                "htmlSnippet": "Feb 28, 2024 <b>...</b> Chinese lawmakers have expanded a <b>state secrets</b> law for the first time since 2010, widening the scope of restricted sensitive information to&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../china-broadens-law-state-secrets-include-work-s...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../china-broadens-law-<b>state</b>-<b>secrets</b>-include-work-<b>s</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrV_a-ge3n9UtkPE5o04Z27TqmfJx-Ud_FRMAg_42re3VDUUT0Qsapncnj&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/china/china-broadens-law-state-secrets-include-work-secrets-2024-02-28/?id=ZEI657CX55MWXAIMHMGFVTTQZU",
+                            "og:image": "https://www.reuters.com/resizer/v2/EGUXIBJCCZL2ZJN3UWIUOTL3WU.jpg?auth=85103caf7977daf68ff6f360953c1f6fb18159791d633aa6e860a96ed021276e&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2024-02-28T11:25:41Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "China broadens law on state security to include 'work secrets' | Reuters",
+                            "og:description": "Chinese lawmakers have expanded a state secrets law for the first time since 2010, widening the scope of restricted sensitive information to \"work secrets\", according to a full text of the law published online.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/EGUXIBJCCZL2ZJN3UWIUOTL3WU.jpg?auth=85103caf7977daf68ff6f360953c1f6fb18159791d633aa6e860a96ed021276e&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Security personnel stand guard outside the Great Hall of the People before the closing session of the Chinese People's Political Consultative Conference (CPPCC) in Beijing, China March 10, 2021. REUTERS/Carlos Garcia Rawlins",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2024-02-28T11:26:06.035Z",
+                            "render_timestamp": "2024-08-03T00:38:09.905Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "China",
+                            "og:image:alt": "Security personnel stand guard outside the Great Hall of the People before the closing session of the Chinese People's Political Consultative Conference (CPPCC) in Beijing, China March 10, 2021. REUTERS/Carlos Garcia Rawlins",
+                            "twitter:title": "China broadens law on state security to include 'work secrets'",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/EGUXIBJCCZL2ZJN3UWIUOTL3WU.jpg?auth=85103caf7977daf68ff6f360953c1f6fb18159791d633aa6e860a96ed021276e&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/china/article",
+                            "og:title": "China broadens law on state security to include 'work secrets'",
+                            "dcsext.channellist": "World;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2024-02-28T11:25:41Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Laurie Chen",
+                            "article:tag": "BSUP,CLJ,CMSS,CMSS08,CWP,DIP,DLI,GEN,INDS,INDS08,ISER,ISER08,JUDIC,LEGALS,POL,SECUR,SOCI,WWW,EASIA,ASXPAC,EMRG,CN,ASIA,LEGAL,REUTERS-LEGAL,PACKAGE:WORLD-NEWS,TOPNWS,TOPCMB,CENS,CIV,EU,INTAG,NEWS1,TRD,HK",
+                            "analyticsattributes.topicsubchannel": "China",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Chinese lawmakers have expanded a state secrets law for the first time since 2010, widening the scope of restricted sensitive information to \"work secrets\", according to a full text of the law published online.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/china/china-broadens-law-state-secrets-include-work-secrets-2024-02-28/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/EGUXIBJCCZL2ZJN3UWIUOTL3WU.jpg?auth=85103caf7977daf68ff6f360953c1f6fb18159791d633aa6e860a96ed021276e&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/china/china-broadens-law-state-secrets-include-work-secrets-2024-02-28/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/china/china-broadens-law-state-secrets-include-work-secrets-2024-02-28/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Hearing Wrap Up: IRS Whistleblowers Expose How Bidens Were ...",
+                "htmlTitle": "Hearing Wrap Up: IRS Whistleblowers Expose How <b>Bidens</b> Were ...",
+                "link": "https://oversight.house.gov/release/hearing-wrap-up-irs-whistleblowers-expose-how-bidens-were-treated-differently%EF%BF%BC/",
+                "displayLink": "oversight.house.gov",
+                "snippet": "Jul 19, 2023 ... The Department of Justice prevented investigators from following evidence that could have led to Joe Biden; divulged sensitive information to ...",
+                "htmlSnippet": "Jul 19, 2023 <b>...</b> The Department of Justice prevented investigators from following evidence that could have led to <b>Joe Biden</b>; divulged sensitive information to&nbsp;...",
+                "formattedUrl": "https://oversight.house.gov/.../hearing-wrap-up-irs-whistleblowers-expose-h...",
+                "htmlFormattedUrl": "https://oversight.house.gov/.../hearing-wrap-up-irs-whistleblowers-expose-h...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScC1LL6FLHjdlXg74PtWrSAqPr-z5g3tjsT3k9_lSTjw6NcQhtIT1FRiI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://oversight.house.gov/wp-content/uploads/2023/07/Unknown-4-1024x576.png",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "United States House Committee on Oversight and Accountability",
+                            "og:title": "Hearing Wrap Up: IRS Whistleblowers Expose How Bidens Were Treated Differently - United States House Committee on Oversight and Accountability",
+                            "twitter:label1": "Est. reading time",
+                            "og:description": "United States House Committee on Oversight and Accountability",
+                            "article:publisher": "http://facebook.com/oversight",
+                            "twitter:data1": "20 minutes",
+                            "twitter:site": "@gopoversight",
+                            "article:modified_time": "2023-10-02T18:18:13+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://oversight.house.gov/release/hearing-wrap-up-irs-whistleblowers-expose-how-bidens-were-treated-differently￼/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://oversight.house.gov/wp-content/uploads/2023/07/Unknown-4-1024x576.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "WASHINGTON—The House Committee on Oversight and Accountability today held a hearing with Internal Revenue Service (IRS) whistleblowers on the Biden criminal investigation. IRS whistleblowers who investigated Hunter Biden’s evasion of taxes on his $8.3 million in income today exposed the Department of Justice’s politicization and misconduct during the investigation. The Department of Justice prevented investigators from following evidence that could have led to Joe Biden; divulged sensitive information to Hunter Biden’s attorneys; and allowed the clock to run out to prevent charging Hunter Biden with felonies. President Biden’s politically appointed U.S. Attorneys for D.C. and Central District of California denied the U.S. Attorney in Delaware’s request to bring charges, which has now put Hunter Biden on the path to a sweetheart plea deal. Additionally, the IRS whistleblowers’ testimony confirms the Oversight Committee’s findings about the Biden family’s influence peddling schemes.\n**Key Takeaways**\n**The testimony offered by two career IRS whistleblowers shows the DOJ, FBI, and IRS’s investigation of Hunter Biden confirms the Oversight Committee’s findings about the Biden family.**\n*   According to financial records obtained by the Oversight Committee, the Biden family set up over 20 shell companies, most of which were created when Joe Biden was vice president. IRS whistleblowers have confirmed the existence of these companies.\n*   Bank records  so far by the Oversight Committee show the Biden family, their business associates, and their companies received over $10 million from foreign nationals’ and their related companies. The Bidens engaged in many intentionally complicated financial transactions through their associates to hide these payments and avoid scrutiny.\n*   Both the Oversight Committee and whistleblowers have confirmed Hunter received millions of dollars from China, Ukraine, and Romania. IRS whistleblowers...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Report on the Investigation Into Unauthorized Removal, Retention ...",
+                "htmlTitle": "Report on the Investigation Into Unauthorized Removal, Retention ...",
+                "link": "https://www.justice.gov/storage/report-from-special-counsel-robert-k-hur-february-2024.pdf",
+                "displayLink": "www.justice.gov",
+                "snippet": "Feb 5, 2024 ... As we previously discussed, at the request of the White House Counsel and personal counsel to President Biden (collectively, \"counsel\"), ...",
+                "htmlSnippet": "Feb 5, 2024 <b>...</b> As we previously discussed, at the request of the White House Counsel and personal counsel to President <b>Biden</b> (collectively, &quot;counsel&quot;),&nbsp;...",
+                "formattedUrl": "https://www.justice.gov/.../report-from-special-counsel-robert-k-hur-februa...",
+                "htmlFormattedUrl": "https://www.justice.gov/.../report-from-special-counsel-robert-k-hur-februa...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFaMj42DD-LfM_9cULxtNiYkEvEefNtlTKOXp6uZcSvnOTrfE3oNav0qq&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20240208143731-05'00'",
+                            "creationdate": "D:20240207132243-05'00'",
+                            "creator": "Canon iR-ADV C5860  PDF",
+                            "author": "Special Counsel Robert K. Hur",
+                            "subject": "Report on the Investigation Into Unauthorized Removal, Retention, and Disclosure of Classified Documents Discovered at Locatinos Including the Penn Biden Center and the Delaware Private Residence of President Joseph R. Biden, Jr.",
+                            "producer": "Adobe Acrobat Pro (32-bit) 23 Paper Capture Plug-in",
+                            "title": "Report on the Investigation Into Unauthorized Removal, Retention, and Disclosure of Classified Documents Discovered at Locatinos Including the Penn Biden Center and the Delaware Private Residence of President Joseph R. Biden, Jr."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///8f34bfda6604630a693f0b1d39b65b92acf4f432e4865930e26e83e7de0c6d93"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "U.S. Department of Justice \nSpecial Counsel's Office \nFebruary 5, 2024 \nThe Attorney General of the United States \nRe: Report of the Special Counsel on the Investigation Into Unauthorized Removal, Retention, and Disclosure of Classified Documents Discovered at Locations Including the Penn Biden Center and the Delaware Private Residence of President Joseph R. Biden, Jr. \nDear Attorney General Garland: \nEnclosed please find a \"confidential report explaining the prosecution or declination decisions\" I have reached, as required by 28 C.F.R. § 600.8(c). \nAs we previously discussed, at the request of the White Hou se Counsel and personal counsel to President Biden (collectively, \"counsel\"), I ag r ee d. with certain conditions including nondisclosure, to allow counsel to review a draft of the report for purposes of determining whether to assert any claim of privilege, and otherwise providing comments to the Special Counsel's Office. Counsel reviewed a draft of the report on February 3 and 4, 2024. \nEarlier today, counsel submitted to my office the enclosed letter. After reviewing their letter, my team and I corrected the following minor errors: \n• The draft report stated that \"[wJe reviewed the materials that were deemed to be classified at the Top Secret/Sensitive Compartmented Information level when the National Security Council conducted prepublication review for the Reagan Diaries.\" Draft Report n.811. We have amended that sentence by adding \"some of' after the word \"reviewed.\" \n• In Chapter Twelve, the draft report cited Chapter Four in a footnote. Draft Report n.892. We have amended that footnote to read \"See id.; NARA Ai:chivist 1 Tr. at 56-59, 77-78, 81-82, 93-94, 122-23.\" \n• The draft report included a section heading that read, \"MARKED CLASSIFIED DOCUMENT IN SECOND-FLOOR OFFICE.\" Draft Report at 333. We have amended that heading to read, \"MARKED CLASS...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

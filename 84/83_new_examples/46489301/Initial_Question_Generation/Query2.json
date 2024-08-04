@@ -1,0 +1,591 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Tesla fire incident June 26 2023 details",
+                "totalResults": "4030000",
+                "searchTerms": "Tesla fire incident June 26 2023 details",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Tesla fire incident June 26 2023 details",
+                "totalResults": "4030000",
+                "searchTerms": "Tesla fire incident June 26 2023 details",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.393538,
+        "formattedSearchTime": "0.39",
+        "totalResults": "4030000",
+        "formattedTotalResults": "4,030,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Ship carrying nearly 3,000 cars ablaze off Dutch coast, crew ...",
+                "htmlTitle": "Ship carrying nearly 3,000 cars ablaze off Dutch coast, crew ...",
+                "link": "https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 26, 2023 ... A fire blazed on a cargo ship off the Dutch coast with nearly 3000 vehicles on board on Wednesday, killing one member of the crew and ...",
+                "htmlSnippet": "Jul 26, 2023 <b>...</b> A <b>fire</b> blazed on a cargo ship off the Dutch coast with nearly 3000 vehicles on board on Wednesday, killing one member of the crew and&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../one-dead-cargo-ship-fire-electric-car-suspected-...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../one-dead-cargo-ship-<b>fire</b>-electric-car-suspected-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvZ1C7ftsP_WJFZ6rnTs3RtRacJVMFE7PjJEaa7KKPQIozug6ZApPM-Y&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/?id=7Y6VXSZUCJPS3KQWHXQASZIZBY",
+                            "og:image": "https://www.reuters.com/resizer/v2/6F5MBC4YRRM3HHINOPJYTOTXYM.jpg?auth=cd51a8c6168a63d99fa6811a5703d57ca68019fb00726dacf228f22bef22b7bf&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-07-26T23:26:28Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "Ship carrying nearly 3,000 cars ablaze off Dutch coast, crew member dead | Reuters",
+                            "og:description": "A fire blazed on a cargo ship off the Dutch coast with nearly 3,000 vehicles on board on Wednesday, killing one member of the crew and injuring several others, the coastguard said.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/6F5MBC4YRRM3HHINOPJYTOTXYM.jpg?auth=cd51a8c6168a63d99fa6811a5703d57ca68019fb00726dacf228f22bef22b7bf&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Smoke rises as a fire broke out on the cargo ship Fremantle Highway, at sea on July 26, 2023. Coastguard Netherlands/Handout via REUTERS",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-07-26T23:26:50.748Z",
+                            "render_timestamp": "2024-08-02T22:40:00.663Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "og:image:alt": "Smoke rises as a fire broke out on the cargo ship Fremantle Highway, at sea on July 26, 2023. Coastguard Netherlands/Handout via REUTERS",
+                            "twitter:title": "Ship carrying nearly 3,000 cars ablaze off Dutch coast, crew member dead",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/6F5MBC4YRRM3HHINOPJYTOTXYM.jpg?auth=cd51a8c6168a63d99fa6811a5703d57ca68019fb00726dacf228f22bef22b7bf&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/europe/article",
+                            "og:title": "Ship carrying nearly 3,000 cars ablaze off Dutch coast, crew member dead",
+                            "dcsext.channellist": "World;Americas;Commodities;India",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-07-26T23:26:28Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Charlotte Van Campenhout,Rishabh Jaiswal",
+                            "article:tag": "REPI:TECHNOLOGY,RATI:ELECTRIC-BATTERY,MTVID,MTPIX,COM,DIS,EHVEH,FRGT,GEN,INCEN,INDS,INDS08,SCI,SEAFT,SHIP08,SHPNG,TPT,TRAN,TRNSPT,CEEU,WEU,AMERS,EUROP,CAMER,BLUX,EZC,DE,EMRG,NL,LATAM,PA,TOPNWS,TOPCMB,AFR,MEAST,NAFR,EG,AUT,AUTO,CYCS,CYCS08,RATI:ADAS-AV-SAFETY,CARM,CARM1,SASIA,IN,ASXPAC,ASIA,DRWN,NEWS1,PXP,EASIA,JP",
+                            "analyticsattributes.topicsubchannel": "Europe",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A fire blazed on a cargo ship off the Dutch coast with nearly 3,000 vehicles on board on Wednesday, killing one member of the crew and injuring several others, the coastguard said.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/6F5MBC4YRRM3HHINOPJYTOTXYM.jpg?auth=cd51a8c6168a63d99fa6811a5703d57ca68019fb00726dacf228f22bef22b7bf&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/europe/one-dead-cargo-ship-fire-electric-car-suspected-source-dutch-coastguard-2023-07-26/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "National and Regional Collision Repair Industry News - Autobody ...",
+                "htmlTitle": "National and Regional Collision Repair Industry News - Autobody ...",
+                "link": "https://www.autobodynews.com/component/tags/tag/66?start=240",
+                "displayLink": "www.autobodynews.com",
+                "snippet": "Nikola Electric Semi Truck Fire Incident: Defective Batteries a Possibility ... Published June 26, 2023. The TeslaCybertruck appeared to have stolen the show ...",
+                "htmlSnippet": "Nikola Electric Semi Truck <b>Fire Incident</b>: Defective Batteries a Possibility ... Published <b>June 26</b>, <b>2023</b>. The <b>TeslaCybertruck</b> appeared to have stolen the show&nbsp;...",
+                "formattedUrl": "https://www.autobodynews.com/component/tags/tag/66?start=240",
+                "htmlFormattedUrl": "https://www.autobodynews.com/component/tags/tag/66?start=240",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3TfjixM97TIuxgtu_V2w0sEAwNcbSyooTa6_cvHqxP1zWabRWDKNmrgG&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.autobodynews.com/images/June_2024/JDM_Collision_full.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... **Jeff Peevy** was chairman of the _Collision Industry Conference_ (CIC), he started placing an empty chair on the stage as a reminder to attendees of an important industry constituent not generally represented at the meetings: the consumer.\n    “Those families who ride in the cars that our industry repairs should be at the forefront of our thoughts,” Peevy said at one CIC meeting that year.\n    Now the vice\n    ...\n*   ### \n    ]\n    Report: New England's Embrace of EVs, Infrastructure\n    ----------------------------------------------------\n    **Written by Brent Addleman, The Center Square  \n    Published** July 5, 2023\n    Five of six New England states have earned praise through a new report examining electric vehicles and charging infrastructure.\n    Massachusetts led the way in the _American Council for an Energy-Efficient Economy_’s report “2023 State Transportation Electrification Scorecard,” just edging out Vermont in the newest rankings.\n    “We are seeing incremental progress, not transformational progress,” **Peter Huether**, senior research analyst and lead author of the report, said in a statement. “States will have to move far more aggressively to do their part to enable the\n    ...\n*   ### \n    ]\n    Tesla Giga Texas Model Y Line to Pause, Some Workers to Shift to Cybertruck: Observer\n    -------------------------------------------------------------------------------------\n    **Written by Simon Alvarez, Teslarati  \n    Published** July 2, 2023\n    According to an observer of Gigafactory Texas, _Tesla_will be pausing Giga Texas’ Model Y line for upgrades at the beginning of July. Some staff from the EV production facility are reportedly being reassigned to the Cybertruck as well.\n    Gigafactory Texas is observed by several dedicated drone operators on a consistent basis. Among the most notable is **Joe Tegtmeyer**, who has been chronicling the progress of the Tesla site since its earliest days.\n    Citing information reportedly gathered from various channels and his own\n    ...\n*   ### \n    Nikola Electric Semi Truck Fire Incident: Defective Batteries a Possibility\n    ---------------------------------------------------------------------------\n    **Written by Suvrat Kothari, InsideEVs  \n    Published** July 1, 2023\n    A few days after multiple _Nikola_electric semi-trucks were engulfed in fire in Phoenix, AZ, new information revealed the trucks’ battery modules had defects. The company suspected foul play, but a recent investigation revealed other possible causes.\n    The Phoenix fire department responded to the incident, and its hazardous materials crew rushed to the spot to douse...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Vehicle Detail Search - 2023 HONDA RIDGELINE PU/CC AWD ...",
+                "htmlTitle": "Vehicle <b>Detail</b> Search - <b>2023</b> HONDA RIDGELINE PU/CC AWD ...",
+                "link": "https://www.nhtsa.gov/vehicle/2023/HONDA/RIDGELINE/PU%25252FCC/AWD",
+                "displayLink": "www.nhtsa.gov",
+                "snippet": "Safety Ratings. NHTSA's 5-Star Safety Ratings help consumers compare vehicle safety when searching for a car. More stars mean safer cars. Combines driver and ...",
+                "htmlSnippet": "Safety Ratings. NHTSA&#39;s 5-Star Safety Ratings help consumers compare vehicle safety when searching for a car. More stars mean safer cars. Combines driver and&nbsp;...",
+                "formattedUrl": "https://www.nhtsa.gov/vehicle/2023/HONDA/RIDGELINE/.../AWD",
+                "htmlFormattedUrl": "https://www.nhtsa.gov/vehicle/<b>2023</b>/HONDA/RIDGELINE/.../AWD",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVAMrAHkbhEl_ug3t0JMao0MIc75H8LWyOQfalg2pwrt5g94swC_ShsSe&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "governmentorganization": [
+                        {
+                            "name": "National Highway Traffic Safety Administration",
+                            "logo": "https://www.nhtsa.gov/sites/nhtsa.dot.gov/themes/nhtsa_gov/images/logo-NHTSA-property.png",
+                            "telephone": "888-327-4236",
+                            "url": "https://www.nhtsa.gov/",
+                            "sameas": "Twitter"
+                        }
+                    ],
+                    "postaladdress": [
+                        {
+                            "addresslocality": "Washington, D.C.",
+                            "postalcode": "20590",
+                            "streetaddress": "1200 New Jersey Avenue, SE"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
+                            "twitter:card": "summary",
+                            "og:site_name": "NHTSA",
+                            "twitter:site:id": "49706919",
+                            "handheldfriendly": "true",
+                            "dcterms.type": "Text",
+                            "og:title": "Vehicle Detail Search - 2023 HONDA RIDGELINE PU/CC AWD | NHTSA",
+                            "dcterms.title": "Vehicle Detail Search - 2023 HONDA RIDGELINE PU/CC AWD | NHTSA",
+                            "og:image:type": "image/png",
+                            "twitter:image": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
+                            "twitter:image:alt": "NHTSA Logo",
+                            "twitter:site": "@nhtsagov",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "dcterms.format": "text/html",
+                            "og:url": "https://www.nhtsa.gov/vehicle/2023/HONDA/RIDGELINE/PU%252FCC/AWD",
+                            "dcterms.identifier": "https://www.nhtsa.gov/vehicle/2023/HONDA/RIDGELINE/PU%252FCC/AWD"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...hip examined my truck for 3 days and did not explain any plausible cause. They sent info to Honda's America HQ in California and told me that I might not ever receive a response, and if I do it will likely be at least a few weeks from now. They have given me nothing in writing. There was no warning of any kind either during the event or afterward. The lane ahead of me was completely clear of vehicles, pedestrians, animals, etc., but it was a slight S-curve. Driving conditions were ideal. it occurred during the middle of the day with no traction or glare issues.\n**NHTSA ID Number:** 11591167\n**Incident Date** September 20, 2023\n**Consumer Location** PATILLAS, PR\n**Vehicle Identification Number** 5FPYK3F74PB\\*\\*\\*\\*\n**Summary of Complaint**\nIssues with front beams high and low auto dimming\n3 Recallsfor 2023 HONDA RIDGELINE\n---------------------------------\n* * *\nFILTER Recalls BY AFFECTED COMPONENTS\nAll (3)BACK OVER PREVENTION (1)SERVICE BRAKES, HYDRAULIC (1)STEERING (1)\n* * *\n**NHTSA Campaign Number:** 24V321000\n**Manufacturer** Honda (American Honda Motor Co.)\n**Components** BACK OVER PREVENTION\n**Potential Number of Units Affected** 187,290\n**Summary**\nHonda (America Honda Motor Co) is recalling certain 2020-2024 Ridgeline vehicles. The rearview camera (RVC) tailgate wire harness may fatigue and break, which can prevent the rearview camera image from displaying.\n**Remedy**\nDealers will replace the RVC tailgate wire harness, free of charge. Interim letters notifying owners of the safety risk were mailed July 1, 2024. Second letters will be mailed once the remedy is available. Owners may contact Honda service at 1-888-234-2138. Honda's number for this recall is YI7.\n**Notes**\nOwners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.\n**Rear-View Camera Failure**  \n**NHTSA ID:** PE24004  \n**Dated opened:** February 13, 2024\nThe Office of Defects Investigation (ODI) has received 27 complaints and a number of Early Warning Reporting (EWR) Field Reports alleging failure...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "lithium ion battery | Fortune",
+                "htmlTitle": "lithium ion battery | Fortune",
+                "link": "https://fortune.com/tag/lithium-ion-battery/",
+                "displayLink": "fortune.com",
+                "snippet": "June 26, 2023 ...",
+                "htmlSnippet": "<b>June 26</b>, <b>2023</b>&nbsp;...",
+                "formattedUrl": "https://fortune.com/tag/lithium-ion-battery/",
+                "htmlFormattedUrl": "https://fortune.com/tag/lithium-ion-battery/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIqbXdcJw16XxCILUucbktimUsAKww8u3U7qkMAAXnE9lNYjuhbTjZe3L&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffc40d",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "lithium ion battery",
+                            "og:site_name": "Fortune",
+                            "twitter:url": "https://fortune.com/tag/lithium-ion-battery/",
+                            "og:title": "lithium ion battery",
+                            "fb:pages": "56501027948",
+                            "og:height": "683",
+                            "next-head-count": "38",
+                            "viewport": "width=device-width",
+                            "og:url": "https://fortune.com/tag/lithium-ion-battery/",
+                            "og:width": "1024"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://fortune.com/img-assets/wp-content/uploads/2019/12/sebastian-meyer_congo-cobalt.jpg?w=1440&q=75"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "lithium ion battery | Fortune\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nAlready have an account?SIGN IN\nSEARCH\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nlithium ion battery\n===================\n*   ]\n    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY and \n*   ]\n    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY and \n*   ]\n    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY and \n*   ]\n    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    --------------------------------------------------------------------------------------------------------------------------------------\n    BY\n*   ]\n    ----------------------------------------------------------------...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Vehicle Detail Search - 2023 SUBARU WRX 4 DR AWD | NHTSA",
+                "htmlTitle": "Vehicle <b>Detail</b> Search - <b>2023</b> SUBARU WRX 4 DR AWD | NHTSA",
+                "link": "https://www.nhtsa.gov/vehicle/2023/SUBARU/WRX/4%20DR/AWD",
+                "displayLink": "www.nhtsa.gov",
+                "snippet": "NHTSA's 5-Star Safety Ratings help consumers compare vehicle safety when searching for a car. More stars mean safer cars. Combines driver and front passenger ...",
+                "htmlSnippet": "NHTSA&#39;s 5-Star Safety Ratings help consumers compare vehicle safety when searching for a car. More stars mean safer cars. Combines driver and front passenger&nbsp;...",
+                "formattedUrl": "https://www.nhtsa.gov/vehicle/2023/SUBARU/WRX/4%20DR/AWD",
+                "htmlFormattedUrl": "https://www.nhtsa.gov/vehicle/<b>2023</b>/SUBARU/WRX/4%20DR/AWD",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlVAMrAHkbhEl_ug3t0JMao0MIc75H8LWyOQfalg2pwrt5g94swC_ShsSe&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "governmentorganization": [
+                        {
+                            "name": "National Highway Traffic Safety Administration",
+                            "logo": "https://www.nhtsa.gov/sites/nhtsa.dot.gov/themes/nhtsa_gov/images/logo-NHTSA-property.png",
+                            "telephone": "888-327-4236",
+                            "url": "https://www.nhtsa.gov/",
+                            "sameas": "Twitter"
+                        }
+                    ],
+                    "postaladdress": [
+                        {
+                            "addresslocality": "Washington, D.C.",
+                            "postalcode": "20590",
+                            "streetaddress": "1200 New Jersey Avenue, SE"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
+                            "twitter:card": "summary",
+                            "og:site_name": "NHTSA",
+                            "twitter:site:id": "49706919",
+                            "handheldfriendly": "true",
+                            "dcterms.type": "Text",
+                            "og:title": "Vehicle Detail Search - 2023 SUBARU WRX 4 DR AWD | NHTSA",
+                            "dcterms.title": "Vehicle Detail Search - 2023 SUBARU WRX 4 DR AWD | NHTSA",
+                            "og:image:type": "image/png",
+                            "twitter:image": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
+                            "twitter:image:alt": "NHTSA Logo",
+                            "twitter:site": "@nhtsagov",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "dcterms.format": "text/html",
+                            "og:url": "https://www.nhtsa.gov/vehicle/2023/SUBARU/WRX/4%20DR/AWD",
+                            "dcterms.identifier": "https://www.nhtsa.gov/vehicle/2023/SUBARU/WRX/4%20DR/AWD"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Vehicle Detail Search - 2023 SUBARU WRX 4 DR AWD | NHTSA\n===============\nNational Highway Traffic Safety Administration, part of the ]\nToggle navigation\nMenu\n   ! Homepage]\n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n**Look up another vehicle**\nVehicle Comparison Tool\nSearch  \nVehicles Vehicle  \nComparison Tool\nSafety Ratings.\n---------------\nNHTSA’s 5-Star Safety Ratings help consumers compare vehicle safety when searching for a car. More stars mean safer cars.\nRecommended  \nSafety Technologies\n---------------------------------\nThese features have been either verified by NHTSA or reported by the vehicle manufacturers as meeting NHTSA’s performance criteria.\nRecalls & Safety Issues.\n------------------------\nThis is a record of safety issues for vehicles of this year, make, model and trim. If you are a vehicle owner, search for recalls by your Vehicle Identification Number (VIN). The vehicle identification number tells you if your car is affected.\n**Have a safety problem?**\nReport a problem with your vehicle, tires, car seats or other equipment. We review every problem as we work to keep our roads safe.\nFind recalls by VIN.\n====================\nEvery vehicle has a unique VIN. Enter a VIN to learn if a specific vehicle needs to be repaired as part of a recall.\nRecall information from this VIN lookup tool is provided by the manufacturer conducting the recall. NHTSA does not record VIN information or results provided through this tool.\n### Recently Searched\n×\n#### Vehicle Comparison\nNHTSA Information\n*   \n*   \n*   \n*   \n*   \nInformation For\n*   \n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "November 2021 - City Council • District 3",
+                "htmlTitle": "<b>November</b> 2021 - City Council • District 3",
+                "link": "https://www.cityofpasadena.net/district3/2021/11/",
+                "displayLink": "www.cityofpasadena.net",
+                "snippet": "Nov 30, 2021 ... FOR IMMEDIATE RELEASE: November 30, 2021 NEWS MEDIA CONTACT: Dan Davidson, Pasadena Homeless Count (909) 816-3460, dan@rosecitycoffee.org ...",
+                "htmlSnippet": "Nov 30, 2021 <b>...</b> FOR IMMEDIATE RELEASE: <b>November</b> 30, 2021 NEWS MEDIA CONTACT: Dan Davidson, Pasadena Homeless Count (909) 816-3460, dan@rosecitycoffee.org&nbsp;...",
+                "formattedUrl": "https://www.cityofpasadena.net/district3/2021/11/",
+                "htmlFormattedUrl": "https://www.cityofpasadena.net/district3/2021/11/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "application-name": "City of Pasadena",
+                            "msapplication-tilecolor": "#00275d",
+                            "msapplication-config": "https://www.cityofpasadena.net/district3/wp-content/themes/copblue/favicon/browserconfig.xml",
+                            "theme-color": "#00275d",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-title": "City of Pasadena",
+                            "msapplication-tileimage": "https://www.cityofpasadena.net/district3/wp-content/themes/copblue/favicon/mstile-144x144.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "November 2021 - City Council • District 3\n===============\n]\n!\n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   Close\n*   \n*   \n*   \n*   \n*   \n1.  \n2.  \n3.  **Nov Archives**\nMonth: November 2021\n====================\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nFOR IMMEDIATE RELEASE: November 30, 2021 NEWS MEDIA CONTACT: Dan Davidson, Pasadena Homeless Count (909) 816-3460, dan@rosecitycoffee.org Lisa Derderian, Pasadena Public Information Officer, City Manager’s Office (626) 744-4755, lderderian@cityofpasadena.net PASADENA, Calif.—The Pasadena Homeless Count will take place the evening of Tuesday, Jan. 25, and the morning of Wednesday, Jan. 26, 2022. The Pasadena Homeless Count sets in motion a year full of education, engagement and action for the Pasadena Partnership to End Homelessness. Each year, volunteers help count and survey... \n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nFOR IMMEDIATE RELEASE: November 30, 2021 NEWS MEDIA CONTACT: Lisa Derderian, Pasadena Public Information Officer, City Manager’s Office, (626) 744-4755, lderderian@cityofpasadena.net PASADENA, Calif.—Join Pasadena Mayor Victor M. Gordo for the Mayor’s Annual Tree Lighting Ceremony Friday, Dec. 3, 5:30-6:30 p.m., at City Hall, 100 N. Garfield Ave. Bring family and friends to this free celebration featuring local singers and dancers. The mayor will light the City’s official tree at 6 p.m., so come early for parking and a prime viewing... \n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nPasadena, Calif - The City of Pasadena is offering a $10,000 reward for information that leads to the arrest and conviction of the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "LiveOne Substantially Increases Its Share Repurchase Program ...",
+                "htmlTitle": "LiveOne Substantially Increases Its Share Repurchase Program ...",
+                "link": "https://ir.livexlive.com/news/news-details/2023/LiveOne-Substantially-Increases-Its-Share-Repurchase-Program-From-5-Million-to-7.5-Million/default.aspx",
+                "displayLink": "ir.livexlive.com",
+                "snippet": "Jul 14, 2023 ... Enters Into Non-binding LOI for a New $12.5 Million Credit Line LOS ANGELES, CA , July 14, 2023 (GLOBE NEWSWIRE) - via NewMediaWire ...",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> Enters Into Non-binding LOI for a New $12.5 Million Credit Line LOS ANGELES, CA , <b>July</b> 14, <b>2023</b> (GLOBE NEWSWIRE) - via NewMediaWire&nbsp;...",
+                "formattedUrl": "https://ir.livexlive.com/news/news-details/2023/...Its.../default.aspx",
+                "htmlFormattedUrl": "https://ir.livexlive.com/news/news-<b>details</b>/<b>2023</b>/...Its.../default.aspx",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStUoyxd_xkr9MtlmS2IAzvd9pkD_oFTZwZrjeb8UF1hCXcJsoe5TNTCBs&s",
+                            "width": "150",
+                            "height": "150"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "image": "https://s24.q4cdn.com/997504843/files/design/2021/logo/Logo-Nav.png",
+                            "url": "https://www.livexlive.com/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ml.globenewswire.com/media/813ba161-8e87-466d-80d4-a7754e2fc893/small/liveone-logo-400x400-3-png.png",
+                            "og:type": "website",
+                            "og:image:width": "150",
+                            "twitter:title": "LiveOne Substantially Increases Its Share Repurchase Program From $5 Million to $7.5 Million",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Enters Into Non-binding LOI for a New $12.5 Million Credit Line LOS ANGELES, CA , July 14, 2023 (GLOBE NEWSWIRE) - via NewMediaWire – LiveOne (Nasdaq: LVO), an award-winning, creator-first music, entertainment, and technology platform, announced today that its board of directors has authorized an increase to its stock repurchase program to a total of approximately $7.5 million worth of LiveOne's shares of common stock, inclusive of the shares that have already been repurchased. LiveOne has also entered into a non-binding Letter of Intent (the “LOI”) for a new credit line of $12.5 million to replace its current credit line. This, coupled with the stock buyback, positions LiveOne to actively pursue its next major acquisition, fortify its balance sheet, and fuel internal growth. Since beginning its buyback program in April 2022, LiveOne has repurchased 2.9 million shares of its common stock. Robert Ellin, LiveOne's CEO and Chairman, commented, \"Our confidence in LiveOne's shares being",
+                            "og:title": "LiveOne Substantially Increases Its Share Repurchase Program From $5 Million to $7.5 Million",
+                            "og:image:height": "150",
+                            "og:url": "https://ir.livexlive.com/news/news-details/2023/LiveOne-Substantially-Increases-Its-Share-Repurchase-Program-From-5-Million-to-7.5-Million/default.aspx",
+                            "twitter:image": "https://ml.globenewswire.com/media/813ba161-8e87-466d-80d4-a7754e2fc893/small/liveone-logo-400x400-3-png.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ml.globenewswire.com/media/813ba161-8e87-466d-80d4-a7754e2fc893/small/liveone-logo-400x400-3-png.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**_Enters Into Non-binding LOI for a New $12.5 Million Credit Line_**\nLOS ANGELES, CA , July 14, 2023 (GLOBE NEWSWIRE) -- via  – LiveOne (Nasdaq: LVO), an award-winning, creator-first music, entertainment, and technology platform, announced today that its board of directors has authorized an increase to its stock repurchase program to a total of approximately $7.5 million worth of LiveOne's shares of common stock, inclusive of the shares that have already been repurchased.\nLiveOne has also entered into a non-binding Letter of Intent (the “LOI”) for a new credit line of $12.5 million to replace its current credit line. This, coupled with the stock buyback, positions LiveOne to actively pursue its next major acquisition, fortify its balance sheet, and fuel internal growth.\nSince beginning its buyback program in April 2022, LiveOne has repurchased 2.9 million shares of its common stock.\nRobert Ellin, LiveOne's CEO and Chairman, commented, \"Our confidence in LiveOne's shares being severely undervalued persists, and we remain committed to aggressively repurchasing more shares.\"\nThe timing, price and actual number of shares repurchased under the stock repurchase program will be at the discretion of LiveOne's management and will depend on a variety of factors, including stock price, general business and market conditions, and alternative investment opportunities. The repurchase program will continue to be executed consistent with LiveOne's capital allocation strategy, which will continue to prioritize growing LiveOne's business.\nUnder the stock repurchase program, repurchases can be made from time to time using a variety of methods, including open market purchases, all in compliance with the rules of the U.S. Securities and Exchange Commission and other applicable legal requirements. The repurchase program does not oblig...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Self-Regulatory Organizations; Cboe BZX ... - Federal Register",
+                "htmlTitle": "Self-Regulatory Organizations; Cboe BZX ... - Federal Register",
+                "link": "https://www.federalregister.gov/documents/2023/07/19/2023-15268/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-as",
+                "displayLink": "www.federalregister.gov",
+                "snippet": "Jul 19, 2023 ... Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No.",
+                "htmlSnippet": "Jul 19, 2023 <b>...</b> Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No.",
+                "formattedUrl": "https://www.federalregister.gov/.../2023/.../2023.../self-regulatory-organizat...",
+                "htmlFormattedUrl": "https://www.federalregister.gov/.../<b>2023</b>/.../<b>2023</b>.../self-regulatory-organizat...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyoM5PYH4GhWDdaZ8dYnYt7QDiTgpVc_hTJvnYht4Bk5ert4eDlW7z9nk&s",
+                            "width": "458",
+                            "height": "110"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.federalregister.gov/assets/open_graph_site_banner.png",
+                            "og:image:width": "832",
+                            "og:type": "article",
+                            "article:published_time": "2023-07-19",
+                            "og:site_name": "Federal Register",
+                            "og:title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Shares of the Invesco Galaxy Bitcoin ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
+                            "og:image:height": "200",
+                            "medium": "news",
+                            "title": "Self-Regulatory Organizations; Cboe BZX Exchange, Inc.; Notice of Filing of a Proposed Rule Change, as Modified by Amendment No. 1, To List and Trade Shares of the Invesco Galaxy Bitcoin ETF Under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares",
+                            "csrf-param": "authenticity_token",
+                            "og:description": "Search, browse and learn about the Federal Register. Federal Register 2.0 is the unofficial daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.",
+                            "viewport": "initial-scale=1.0",
+                            "csrf-token": "Moff8d9+g4Xs3YB5rCnygaOhkoQmcCplb/7Me8tW1BRoLi97YUbkNzALMq2qhOOGYRDmyPj2U2shnm2usXOEzA==",
+                            "og:url": "https://www.federalregister.gov/documents/2023/07/19/2023-15268/self-regulatory-organizations-cboe-bzx-exchange-inc-notice-of-filing-of-a-proposed-rule-change-as",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.federalregister.gov/assets/open_graph_site_banner.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Start Preamble July 13, 2023.\nPursuant to Section 19(b)(1) of the Securities Exchange Act of 1934 (“Act”),\\\\] and Rule 19b-4 thereunder,\\\\] notice is hereby given that on June 30, 2023, Cboe BZX Exchange, Inc. (the “Exchange” or “BZX”) filed with the Securities and Exchange Commission (“Commission”) a proposed rule change to list and trade shares of the Invesco Galaxy Bitcoin ETF under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares. On July 11, 2023, the Exchange filed Amendment No. 1 to the proposed rule change, which amended and replaced the proposed rule change in its entirety. The proposed rule change, as modified by Amendment No. 1, is described in Items I, II and III below, which Items have been prepared by the Exchange. The Commission is publishing this notice to solicit comments on the proposed rule change, as modified by Amendment No. 1, from interested persons.\nI. Self-Regulatory Organization's Statement of the Terms of Substance of the Proposed Rule Change\n-------------------------------------------------------------------------------------------------\nCboe BZX Exchange, Inc. (“BZX” or the “Exchange”) is filing with the Securities and Exchange Commission (“Commission” or “SEC”) a proposed rule change to list and trade shares of the Invesco Galaxy Bitcoin ETF (the “Trust”),\\\\] under BZX Rule 14.11(e)(4), Commodity-Based Trust Shares.\nThe text of the proposed rule change is also available on the Exchange's website ( __), at the Exchange's Office of the Secretary, and at the Commission's Public Reference Room. Start Printed Page 46236\nII. Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change\n-----------------------------------------------------------------------------------------------------------------\nIn its filing with the Commission, the Exchange included statements concerning the purpose of and basis for the proposed rule change and discussed any comments it received on the proposed rule change. The text of these statements may be examined at the places specified in Item IV below. The Exchange has prepared summaries, set forth in sections A, B, and C below, of the most significant aspects of such statements.\n### A. Self-Regulatory Organization's Statement of the Purpose of, and Statutory Basis for, the Proposed Rule Change\n#### 1\\. Purpose\nThis Amendment No. 1 to SR-CboeBZX-2023-038 amends...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "June 2023 News Archive | Motor1.com",
+                "htmlTitle": "<b>June 2023</b> News Archive | Motor1.com",
+                "link": "https://www.motor1.com/news/archive/2023/06/",
+                "displayLink": "www.motor1.com",
+                "snippet": "Read the latest car news, updated daily to bring you new models, automotive news, spy shots, future cars, rumors and more.",
+                "htmlSnippet": "Read the latest car news, updated daily to bring you new models, automotive news, spy shots, future cars, rumors and more.",
+                "formattedUrl": "https://www.motor1.com/news/archive/2023/06/",
+                "htmlFormattedUrl": "https://www.motor1.com/news/archive/<b>2023</b>/06/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2mvkMFngLqPmUqCwlAgb5paeY2D9W7EkeShGcWX_9xc3TDcnGIUA6QqA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-square580x580logo": "https://cdn.motor1.com/images/static/motor1/largetile.png",
+                            "og:image": "https://cdn.motor1.com/custom/share/motor1_loadimage.jpg",
+                            "og:type": "website",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "June 2023 News Archive | Motor1.com",
+                            "og:site_name": "Motor1.com",
+                            "msapplication-square270x270logo": "https://cdn.motor1.com/images/static/motor1/mediumtile.png",
+                            "og:title": "June 2023 News Archive | Motor1.com",
+                            "og:image:height": "720",
+                            "og:description": "Read the latest car news, updated daily to bring you new models, automotive news, spy shots, future cars, rumors and more.",
+                            "fb:pages": "64968240897",
+                            "twitter:image": "https://cdn.motor1.com/custom/share/motor1_loadimage.jpg",
+                            "fb:app_id": "984245018262500",
+                            "twitter:site": "Motor1.com",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Read the latest car news, updated daily to bring you new models, automotive news, spy shots, future cars, rumors and more.",
+                            "fb:admins": "100001157785488",
+                            "og:url": "https://www.motor1.com/news/archive/2023/06/",
+                            "msapplication-square128x128logo": "https://cdn.motor1.com/images/static/motor1/smalltile.png"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.motor1.com/custom/share/motor1_loadimage.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\n]\n]\n]\n]\n]\n]\n]\n]\n]\n 2022 Toyota GR86 Blows Engine On Track, Company Agrees To Replace It]\n]\n]\n Send-Off Model\")",
+                    "content_tokens": 36
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "A sitemap for every Dallas Morning News article for the year 2023.",
+                "htmlTitle": "A sitemap for every Dallas Morning News article for the year <b>2023</b>.",
+                "link": "https://www.dallasnews.com/sitemap/2023/july/26/",
+                "displayLink": "www.dallasnews.com",
+                "snippet": "July 26, 2023. SITEMAP. > 2023. > JULY · Cowboys' Jerry Jones responds to upset Oxnard neighbors dealing with obstructed views. by David Moore.",
+                "htmlSnippet": "<b>July 26</b>, <b>2023</b>. SITEMAP. &gt; 2023. &gt; JULY &middot; Cowboys&#39; Jerry Jones responds to upset Oxnard neighbors dealing with obstructed views. by David Moore.",
+                "formattedUrl": "https://www.dallasnews.com/sitemap/2023/july/26/",
+                "htmlFormattedUrl": "https://www.dallasnews.com/sitemap/<b>2023</b>/july/<b>26</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-LNpJfgLiZrL98IB_jbWVuVCC51a_Wv7RJY0JN31vlGr__pkvL-xKPA&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#000000",
+                            "og:image": "https://www.dallasnews.com/pf/resources/images/logos/meta-default.png?d=656",
+                            "theme-color": "#329ce8",
+                            "twitter:title": "A sitemap for every Dallas Morning News article for the year 2023.",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "og:site_name": "Dallas News",
+                            "msvalidate.01": "19895CC0CAFBF42741C03BC7B3FBC0C8",
+                            "og:title": "A sitemap for every Dallas Morning News article for the year 2023.",
+                            "msapplication-tileimage": "resources/motif/images/favicon-144x144.png",
+                            "title": "A sitemap for every Dallas Morning News article for the year 2023.",
+                            "twitter:creator": "@dallasnews",
+                            "og:description": "Sitemap for Dallas Morning News articles for the year 2023.",
+                            "twitter:dnt": "on",
+                            "article:publisher": "https://www.facebook.com/dallasmorningnews",
+                            "twitter:image": "https://www.dallasnews.com/pf/resources/images/logos/meta-default.png?d=656",
+                            "twitter:site": "@dallasnews",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Sitemap for Dallas Morning News articles for the year 2023.",
+                            "fb:page_id": "20946638799",
+                            "fb:admins": "1043783589",
+                            "norton-safeweb-site-verification": "1xgiu2x94l2h70xibyhunkuga-377twdekufdak6z-evwwcxpgjt91zskqb1ktua3oc0366zusmvc3895w250xejc2a1w36v1ktx6k8v3bqfpc5ubsghl1xwax9xcr1f",
+                            "og:url": "https://www.dallasnews.com/sitemap/2023/july/26/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.dallasnews.com/pf/resources/images/logos/meta-default.png?d=656"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   ",
+                    "content_tokens": 190
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,708 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - distinguishing features of ribbon worms",
+                "totalResults": "564000",
+                "searchTerms": "distinguishing features of ribbon worms",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - distinguishing features of ribbon worms",
+                "totalResults": "564000",
+                "searchTerms": "distinguishing features of ribbon worms",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.27075,
+        "formattedSearchTime": "0.27",
+        "totalResults": "564000",
+        "formattedTotalResults": "564,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Freshwater Ribbon Worms (Nemertea) from the Great Smoky ...",
+                "htmlTitle": "Freshwater <b>Ribbon Worms</b> (Nemertea) from the Great Smoky ...",
+                "link": "https://meridian.allenpress.com/jncas/article/130/2/60/128142/Freshwater-Ribbon-Worms-Nemertea-from-the-Great",
+                "displayLink": "meridian.allenpress.com",
+                "snippet": "Jun 1, 2014 ... Some specimen photographs are provided and a discussion is given on specimen characteristics and their possible identification. Ribbon worms are ...",
+                "htmlSnippet": "Jun 1, 2014 <b>...</b> Some specimen photographs are provided and a discussion is given on specimen <b>characteristics</b> and their possible identification. <b>Ribbon worms</b> are&nbsp;...",
+                "formattedUrl": "https://meridian.allenpress.com/.../Freshwater-Ribbon-Worms-Nemertea-fro...",
+                "htmlFormattedUrl": "https://meridian.allenpress.com/.../Freshwater-<b>Ribbon</b>-<b>Worms</b>-Nemertea-fro...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "//allen.silverchair-cdn.com/Themes/Client/app/img/favicons/v-638552060009016671/browserconfig.xml",
+                            "citation_publication_date": "2014/06/01",
+                            "og:image": "https://allen.silverchair-cdn.com/allen/content_public/journal/jncas/issue/130/2/2/m_21675880-130_2_cover.jpeg?Expires=1785417849&Signature=eiykurDc2nLVNbxI2eD27eQB4VpiPnq9bt1qCK6JJSjMwYBRSFsOjbXLI8okzbytef~jEGKmp~D3Fb2m~HGpoqtV57EHb2bDnQ0ZgcNgPK3Rbe9PqAfWPumSPxlpRDE3UNCM2fMTAhCK-Xr3vymz6QgbYxE-OfzZsSxmCgOIwglNqQpU8ckzHoYom2rZVTgQpTLeeQ07b7Q83Ae0mRTdYamguF1wrXsD2kWdI8htLyvT5VFddYlNaPkDEb-A6~0vJAHm0aEl81zhDjTSmzU6~acCy8kcr9T5jFdDnt0Jfv9DgX35UkcVqrKwMejAmQcr2IZP6sj4ReJqUVfxmlo5WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "theme-color": "#002f65",
+                            "citation_author_institution": "Principal Investigator, Park Study GRSM-00341, Corresponding author, 101 William Street, Vernon, AL 35592 e-mail:",
+                            "citation_title": "Freshwater Ribbon Worms (Nemertea) from the Great Smoky Mountains National Park",
+                            "og:site_name": "Allen Press",
+                            "citation_reference": "citation_title=Nemertean genera and species of the world: an annotated checklist of original names and description citations, synonyms, current taxonomic status, habitats and recorded zoogeographic distribution; citation_author=GIBSON  R;  citation_journal_title=Journ. Nat. Hist.;  citation_year=1995;  citation_volume=29;  citation_pages=271-562;",
+                            "citation_publisher": "Allen Press",
+                            "citation_journal_title": "Journal of North Carolina Academy of Science",
+                            "og:description": "Abstract. Freshwater ribbon worms collected in the Great Smoky Mountains National Park from 9 June 2007 until 28 September 2010 are reported. All six specimens are identified as genus Prostoma. Species identification is not concluded and also no conclusion is made whether any of the specimens are of a new or undescribed species. Some specimen photographs are provided and a discussion is given on specimen characteristics and their possible identification. Ribbon worms are not previously reported in the Great Smoky Mountains National Park.",
+                            "og:image:secure_url": "https://allen.silverchair-cdn.com/allen/content_public/journal/jncas/issue/130/2/2/m_21675880-130_2_cover.jpeg?Expires=1785417849&Signature=eiykurDc2nLVNbxI2eD27eQB4VpiPnq9bt1qCK6JJSjMwYBRSFsOjbXLI8okzbytef~jEGKmp~D3Fb2m~HGpoqtV57EHb2bDnQ0ZgcNgPK3Rbe9PqAfWPumSPxlpRDE3UNCM2fMTAhCK-Xr3vymz6QgbYxE-OfzZsSxmCgOIwglNqQpU8ckzHoYom2rZVTgQpTLeeQ07b7Q83Ae0mRTdYamguF1wrXsD2kWdI8htLyvT5VFddYlNaPkDEb-A6~0vJAHm0aEl81zhDjTSmzU6~acCy8kcr9T5jFdDnt0Jfv9DgX35UkcVqrKwMejAmQcr2IZP6sj4ReJqUVfxmlo5WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_author_email": "wildnature52@yahoo.com",
+                            "citation_issn": "2167-5872",
+                            "citation_pdf_url": "https://meridian.allenpress.com/jncas/article-pdf/130/2/60/1818541/2167-5880-130_2_60.pdf",
+                            "citation_xml_url": "https://meridian.allenpress.com/jncas/article-xml/130/2/60/128142",
+                            "citation_lastpage": "64",
+                            "og:type": "article",
+                            "og:image:alt": "Issue Cover",
+                            "citation_journal_abbrev": "Journal of North Carolina Academy of Science",
+                            "og:image:url": "https://allen.silverchair-cdn.com/allen/content_public/journal/jncas/issue/130/2/2/m_21675880-130_2_cover.jpeg?Expires=1785417849&Signature=eiykurDc2nLVNbxI2eD27eQB4VpiPnq9bt1qCK6JJSjMwYBRSFsOjbXLI8okzbytef~jEGKmp~D3Fb2m~HGpoqtV57EHb2bDnQ0ZgcNgPK3Rbe9PqAfWPumSPxlpRDE3UNCM2fMTAhCK-Xr3vymz6QgbYxE-OfzZsSxmCgOIwglNqQpU8ckzHoYom2rZVTgQpTLeeQ07b7Q83Ae0mRTdYamguF1wrXsD2kWdI8htLyvT5VFddYlNaPkDEb-A6~0vJAHm0aEl81zhDjTSmzU6~acCy8kcr9T5jFdDnt0Jfv9DgX35UkcVqrKwMejAmQcr2IZP6sj4ReJqUVfxmlo5WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "og:title": "Freshwater Ribbon Worms (Nemertea) from the Great Smoky Mountains National Park",
+                            "citation_author": "Glasgow, Benny C.",
+                            "citation_issue": "2",
+                            "citation_firstpage": "60",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.7572/2167-5880-130.2.60",
+                            "citation_volume": "130",
+                            "og:url": "https://dx.doi.org/10.7572/2167-5880-130.2.60",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://allen.silverchair-cdn.com/allen/content_public/journal/jncas/issue/130/2/2/m_21675880-130_2_cover.jpeg?Expires=1785417849&Signature=eiykurDc2nLVNbxI2eD27eQB4VpiPnq9bt1qCK6JJSjMwYBRSFsOjbXLI8okzbytef~jEGKmp~D3Fb2m~HGpoqtV57EHb2bDnQ0ZgcNgPK3Rbe9PqAfWPumSPxlpRDE3UNCM2fMTAhCK-Xr3vymz6QgbYxE-OfzZsSxmCgOIwglNqQpU8ckzHoYom2rZVTgQpTLeeQ07b7Q83Ae0mRTdYamguF1wrXsD2kWdI8htLyvT5VFddYlNaPkDEb-A6~0vJAHm0aEl81zhDjTSmzU6~acCy8kcr9T5jFdDnt0Jfv9DgX35UkcVqrKwMejAmQcr2IZP6sj4ReJqUVfxmlo5WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "meridian.allenpress.com\n-----------------------\nVerify you are human by completing the action below.\n----------------------------------------------------\nVerification is taking longer than expected. Check your Internet connection and  if the issue persists.",
+                    "content_tokens": 39
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Ribbon worm | Anatomy, Habitat & Adaptations | Britannica",
+                "htmlTitle": "<b>Ribbon worm</b> | Anatomy, <b>Habitat</b> &amp; Adaptations | Britannica",
+                "link": "https://www.britannica.com/animal/ribbon-worm",
+                "displayLink": "www.britannica.com",
+                "snippet": "Ribbon worm, any member of the invertebrate phylum Nemertea (sometimes called Nemertinea, or Rhynchocoela), which includes mainly free-living forms but also ...",
+                "htmlSnippet": "<b>Ribbon worm</b>, any member of the invertebrate phylum Nemertea (sometimes called Nemertinea, or Rhynchocoela), which includes mainly free-living forms but also&nbsp;...",
+                "formattedUrl": "https://www.britannica.com/animal/ribbon-worm",
+                "htmlFormattedUrl": "https://www.britannica.com/animal/<b>ribbon</b>-worm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2XYYHgdnoD53dMe7dIwnQAbmM6KKt1JqSWzSPNRSCJdONWIMsaIDI8x0&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.britannica.com/mendel-resources/3-123/images/social/eb-thistle-social-image.jpg?v=3.123.17",
+                            "fb:app_id": "1887621861548296",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "ARTICLE",
+                            "twitter:site": "@britannica",
+                            "og:site_name": "Encyclopedia Britannica",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Ribbon worm, any member of the invertebrate phylum Nemertea (sometimes called Nemertinea, or Rhynchocoela), which includes mainly free-living forms but also a few parasites of crustaceans, mollusks, and sea squirts. The majority of the approximately 900 known nemertean species are found in marine",
+                            "og:title": "Ribbon worm | Anatomy, Habitat & Adaptations",
+                            "og:url": "https://www.britannica.com/animal/ribbon-worm",
+                            "og:description": "Ribbon worm, any member of the invertebrate phylum Nemertea (sometimes called Nemertinea, or Rhynchocoela), which includes mainly free-living forms but also a few parasites of crustaceans, mollusks, and sea squirts. The majority of the approximately 900 known nemertean species are found in marine",
+                            "twitter:image": "https://cdn.britannica.com/mendel-resources/3-123/images/social/eb-thistle-social-image.jpg?v=3.123.17"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.britannica.com/mendel-resources/3-123/images/social/eb-thistle-social-image.jpg?v=3.123.17"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Our editors will review what you’ve submitted and determine whether to revise the article.\nOur editors will review what you’ve submitted and determine whether to revise the article.\nribbon worm,  any member of the invertebrate phylum Nemertea (sometimes called Nemertinea, or Rhynchocoela), which includes mainly free-living forms but also a few parasites of crustaceans, mollusks, and sea squirts. The majority of the approximately 900 known nemertean species are found in marine habitats. Some, however, live in freshwater or on land. The name proboscis worm derives from the muscular eversible proboscis, which is housed in a fluid-filled chamber above the gut. This tube-shaped organ, which in many aquatic forms has a needlelike stylet, is typically used to trap prey. The stylet may also be used for burrowing; in land-dwelling species it may be used for rapid movement.\nThe ribbon worms are the simplest animals to possess a circulatory system and a gut with a separate mouth and anus. The body is usually long and slender and is often extended greatly during movement. Most species are less than 20 cm (8 inches) long, but the giant species Lineus longissimus may reach a length of 30 m (100 feet). Some forms that swim in deep water are flat and broad, with finlike appendages. Often uniformly coloured, various species of ribbon worms are vividly patterned with stripes, bands, speckles, or geometric shapes.\nMale and female ribbon worms occur in most species, with annual reproduction typical...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "14 Fun Facts about Marine Ribbon Worms | Smithsonian",
+                "htmlTitle": "14 Fun <b>Facts</b> about Marine <b>Ribbon Worms</b> | Smithsonian",
+                "link": "https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/",
+                "displayLink": "www.smithsonianmag.com",
+                "snippet": "Mar 15, 2013 ... A defining characteristic of ribbon worms is the presence of a proboscis—a unique muscular structure inside the worm's body. When attacking ...",
+                "htmlSnippet": "Mar 15, 2013 <b>...</b> A defining <b>characteristic</b> of <b>ribbon worms</b> is the presence of a proboscis—a <b>unique</b> muscular structure inside the worm&#39;s body. When attacking&nbsp;...",
+                "formattedUrl": "https://www.smithsonianmag.com/.../14-fun-facts-about-marine-ribbon-wor...",
+                "htmlFormattedUrl": "https://www.smithsonianmag.com/.../14-fun-facts-about-marine-<b>ribbon</b>-<b>wor</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxaZpg0RyOEWao5qrmp6MU2v4arCZgCrnJAbYE-EkfN_WzJsf9ZW-Lh7So&s",
+                            "width": "307",
+                            "height": "164"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "1cb4877f178228486592ed27f73e9fd1",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Smithsonian Magazine",
+                            "apple-mobile-web-app-title": "Smithsonian Magazine",
+                            "twitter:creator": "@emilygfrost",
+                            "og:description": "Ribbon worms swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed, and much more",
+                            "twitter:image": "https://th-thumbnailer.cdn-si-edu.com/CWPJ_XILinhp6mxMesZGFjU6nrE=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg",
+                            "twitter:site": "@SmithsonianMag",
+                            "image": "https://th-thumbnailer.cdn-si-edu.com/iKPvqh9LTYEXUBw56FfxICCqNkU=/fit-in/1600x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg",
+                            "twitter:title": "14 Fun Facts about Marine Ribbon Worms",
+                            "og:image:alt": "Ribbon worms come in all shapes and sizes. This one, with white stripes along the body, was found off the coast of Mexico.",
+                            "og:type": "article",
+                            "article:section": "Science, Wildlife, , Our Planet, , Blogs, , Surprising Science, , Articles",
+                            "author": "Smithsonian Magazine",
+                            "og:title": "14 Fun Facts about Marine Ribbon Worms",
+                            "fb:pages": "47619793252",
+                            "article:tag": "Oceans, Oceans Portal",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "419418791549947",
+                            "apple-mobile-web-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "Ribbon worms swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed, and much more",
+                            "com.silverpop.brandeddomains": "www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com",
+                            "category": "Science",
+                            "og:url": "https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://th-thumbnailer.cdn-si-edu.com/Pt3bPDXUoeBMySPjDdeMLcnnfWA=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "FRESHWATER RIBBON WORMS (NEMERTEA) FROM THE GREAT ...",
+                "htmlTitle": "FRESHWATER <b>RIBBON WORMS</b> (NEMERTEA) FROM THE GREAT ...",
+                "link": "https://www.jstor.org/stable/24336665",
+                "displayLink": "www.jstor.org",
+                "snippet": "because this is a distinguishing characteristic in some species of Prostoma (Gibson and Moore 1976). Also, there were no characteristics seen in the two ...",
+                "htmlSnippet": "because this is a <b>distinguishing characteristic</b> in some species of Prostoma (Gibson and Moore 1976). Also, there were no <b>characteristics</b> seen in the two&nbsp;...",
+                "formattedUrl": "https://www.jstor.org/stable/24336665",
+                "htmlFormattedUrl": "https://www.jstor.org/stable/24336665",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyzahNsGRYzMEEzgRrUnT20R_ljjr3tWwz2V5_yPiOeXndujJ33CE3bnI&s",
+                            "width": "262",
+                            "height": "192"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20170112084537-05'00'",
+                            "creationdate": "D:20170112084537-05'00'",
+                            "creator": "page2pdf-2.1",
+                            "producer": "iText® 5.5.9 ©2000-2015 iText Group NV (AGPL-version)",
+                            "title": "FRESHWATER RIBBON WORMS (NEMERTEA) FROM THE GREAT SMOKY MOUNTAINS NATIONAL PARK"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///8c0beb76ad4a1c1b9e677d4c3a380a92a134cead9dabeab1dcb6f78a351565b2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...cadadc)\nLog in\nYour institution has access to JSTOR’s AI-powered research tool in beta. Log in or create a JSTOR personal account to get started.Register\nWorkspaceAdvanced SearchBy subjectBy titlePublishersCollectionsImagesGet supportHelp logging inContact us\nAll Content Images\n**Advanced Search**\nSearch all content\nRegister\nLog in\nYour institution has access to JSTOR’s AI-powered research tool in beta. Log in or create a JSTOR personal account to get started.\nBrowseBy subject  \nJournals and booksBy title  \nJournals and booksPublishersCollectionsImages\nWorkspaceYour Artstor image groups were copied to Workspace. The Artstor website will be retired on Aug 1st.\njournal article\nFRESHWATER RIBBON WORMS (NEMERTEA) FROM THE GREAT SMOKY MOUNTAINS NATIONAL PARK\nBENNY C. GLASGOW and PAULA PIERCE\nJournal of the North Carolina Academy of Science\nVol. 130, No. 2 (Summer, 2014), pp. 60-64 (5 pages)\nPublished By: North Carolina Academy of Sciences, Inc.\n!\nhttps://www.jstor.org/stable/24336665\nCite\n**Read and download**  \nLog in through your school or library\nAlternate access options  \nFor independent researchers\n**Read Online**  \nRead 100 articles/month free\n**Subscribe to JPASS**  \nUnlimited reading + 10 downloads\n!\nThis is a preview. Log in through your library .\n!\nAbstractFreshwater ribbon worms collected in the Great Smoky Mountains National Park from 9 June 2007 until 28 September 2010 are reported. All six specimens are identified as genus Prostoma. Species identification is not concluded and also no conclusion is made whether any of the specimens are of a new or undescribed species. Some specimen photographs are provided and a discussion is given on specimen characteristics and their possible identification. Ribbon worms are not previously reported in the Great Smoky Mountains National Park.\nJournal InformationThe Journal of the North Carolina Academy of Science (formerly the Journal of the Elisha Mitchell Scientific Society, Vol. 1-118) is the oldest continuously published state science academy journal in the United States, first published in 1884. The Journal publishes scholarly articles in all scientific disciplines; recent articles have addressed topics in biochemistry, behavior, chemistry, genetics, ecology, botany, aquatic ecology, meteorology, mathematics, mammalogy, ichthyology, physiology, and environmental science,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Worms: Phyla Platyhelmintes, Nematoda, and Annelida | manoa ...",
+                "htmlTitle": "<b>Worms</b>: Phyla Platyhelmintes, Nematoda, and Annelida | manoa ...",
+                "link": "https://manoa.hawaii.edu/exploringourfluidearth/biological/invertebrates/worms-phyla-platyhelmintes-nematoda-and-annelida",
+                "displayLink": "manoa.hawaii.edu",
+                "snippet": "Although many different kinds of animals are commonly lumped together as “worms,” there are several distinct phyla that fit the category. Worms are typically ...",
+                "htmlSnippet": "Although many different kinds of animals are commonly lumped together as “<b>worms</b>,” there are several <b>distinct</b> phyla that fit the category. <b>Worms</b> are typically&nbsp;...",
+                "formattedUrl": "https://manoa.hawaii.edu/.../worms-phyla-platyhelmintes-nematoda-and-an...",
+                "htmlFormattedUrl": "https://manoa.hawaii.edu/.../<b>worms</b>-phyla-platyhelmintes-nematoda-and-an...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCGvxcPVm3UXjcqu9LZxVMnIfFWX5H35D5oDD90d_SdE7QF0v5iEqo5tlz&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "handheldfriendly": "true",
+                            "viewport": "width=1200, minimum-scale=0.34, maximum-scale=1.6",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://manoa.hawaii.edu/exploringourfluidearth/sites/default/files/styles/half_page_width/public/Fig3.35B-Tomopteris.jpeg?itok=oDGbV9GW"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Introduction to Worms\n---------------------\nMost people are familiar with earthworms found in garden soil. Although many different kinds of animals are commonly lumped together as “worms,” there are several distinct phyla that fit the category. Worms are typically long, thin creatures that get around efficiently without legs. The different phyla of worms display a great range in size, complexity, and body structure. Flatworms (phylum Platyhelminthes) are simple animals that are slightly more complex than a cnidarian. Roundworms (phylum Nematoda) have a slightly more complex body plan. Segmented worms (phylum Annelida) are the most complex animals with worm-like body plans. A study of worms can illuminate a possible history of how some organ systems and body features evolved.\n**Fig. 3.35.** (**A**) A whale shark (_Rhincodon typus_; a vertebrate animal)\nImage courtesy of Tanaka Juuyoh, \n**Fig. 3.35.** (**B**) A swimming polychaete worm (_Tomopteris_ sp.; an invertebrate animal in the phylum Annelida)\n* * *\nWorms are invertebrate animals with bilateral symmetry. Worms have a definite anterior (head) end and a posterior (tail) end. The **ventral** surface of worms and other organisms is the bottom side of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "33.5: Ribbon Worms (Nemertea) - Biology LibreTexts",
+                "htmlTitle": "33.5: <b>Ribbon Worms</b> (Nemertea) - Biology LibreTexts",
+                "link": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Map%3A_Raven_Biology_12th_Edition/33%3A_Protostomes/33.05%3A_Ribbon_Worms_(Nemertea)",
+                "displayLink": "bio.libretexts.org",
+                "snippet": "Dec 4, 2021 ... Identify the key features of the Phylum Nemertea. Key Points. The Nemertini are mostly bottom-dwelling marine organisms, although some are ...",
+                "htmlSnippet": "Dec 4, 2021 <b>...</b> Identify the key <b>features</b> of the Phylum Nemertea. Key Points. The Nemertini are mostly bottom-dwelling marine organisms, although some are&nbsp;...",
+                "formattedUrl": "https://bio.libretexts.org/.../33.05%3A_Ribbon_Worms_(Nemertea)",
+                "htmlFormattedUrl": "https://bio.libretexts.org/.../33.05%3A_<b>Ribbon</b>_<b>Worms</b>_(Nemertea)",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTajIxW8JyPtbo0mpbTFMFRhrlo9wzCyrSApKs5dzQp_IREaGKstrWmgmRo&s",
+                            "width": "224",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://a.mtstatic.com/@public/production/site_4463/1641605944-social-share.png",
+                            "og:type": "article",
+                            "article:published_time": "2021-12-04T15:55:43Z",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "33.5: Ribbon Worms (Nemertea)",
+                            "og:site_name": "Biology LibreTexts",
+                            "og:title": "33.5: Ribbon Worms (Nemertea)",
+                            "twitter:image": "https://a.mtstatic.com/@public/production/site_4463/1641605944-social-share.png",
+                            "twitter:site": "@LibreTexts",
+                            "article:modified_time": "2021-12-15T15:43:26Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Map%3A_Raven_Biology_12th_Edition/33%3A_Protostomes/33.05%3A_Ribbon_Worms_(Nemertea)"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://a.mtstatic.com/@public/production/site_4463/1641605944-social-share.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\\_System\" : \"property get \\()\", \"51:\\_The\\_Reproductive\\_System\" : \"property get \\()\", \"52:\\_Animal\\_Development\" : \"property get \\()\", \"53:\\_Behavioral\\_Biology\" : \"property get \\()\", \"54:\\_Ecology\\_of\\_Individuals\\_and\\_Populations\" : \"property get \\()\", \"55:\\_Community\\_Ecology\" : \"property get \\()\", \"56:\\_Dynamics\\_of\\_Ecosystems\" : \"property get \\()\", \"57:\\_The\\_Biosphere\\_and\\_Human\\_Impacts\" : \"property get \\()\", \"58:\\_Conservation\\_Biology\" : \"property get \\()\", \"zz:\\_Back\\_Matter\" : \"property get \\()\" }\nSat, 04 Dec 2021 15:55:43 GMT\n33.5: Ribbon Worms (Nemertea)\n74306\n74306\nlkloepper@saintmarys.edu\n{ }\nAnonymous\nAnonymous\n2\nfalse\nfalse\n\\-bio-13720\" \\]\n\\-bio-13720\" \\]\nhttps://bio.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2Fbio.libretexts.org%2FBookshelves%2FIntroductory\\_and\\_General\\_Biology%2FMap%253A\\_Raven\\_Biology\\_12th\\_Edition%2F33%253A\\_Protostomes%2F33.05%253A\\_Ribbon\\_Worms\\_(Nemertea)\n]\n1.  !\n2.  # \"Search site\")\n        Search  Search\n    # \"Go back to previous article\")\n3.  1.  Sign in\n    2.   Username\n         Password\n        Sign in\n    3.  # \"Sign in\")\n        *   \n        *   \nContents\n1.  \n2.  \n3.  \n4.  \n5.  \n6.  33.5: Ribbon Worms (Nemertea)\nExpand/collapse global location\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   )\n    *  ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Phylum Nemertea | Biology for Majors II",
+                "htmlTitle": "Phylum Nemertea | Biology for Majors II",
+                "link": "https://courses.lumenlearning.com/wm-biology2/chapter/phylum-nemertea/",
+                "displayLink": "courses.lumenlearning.com",
+                "snippet": "Learning Outcomes. Describe the unique anatomical and morphological features of Nemertea. The Nemertea are colloquially known as ribbon worms. Most species of ...",
+                "htmlSnippet": "Learning Outcomes. Describe the <b>unique</b> anatomical and morphological <b>features</b> of Nemertea. The Nemertea are colloquially known as <b>ribbon worms</b>. Most species of&nbsp;...",
+                "formattedUrl": "https://courses.lumenlearning.com/wm-biology2/chapter/phylum-nemertea/",
+                "htmlFormattedUrl": "https://courses.lumenlearning.com/wm-biology2/chapter/phylum-nemertea/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaYdXY8_ze0Lf7WLLwedeCzMVXfYu9A-SO4tjeRagTSKQOS-4203U2u20&s",
+                            "width": "287",
+                            "height": "176"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "copyrightholder": "Lumen Learning",
+                            "inlanguage": "en"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1223/2017/04/12152509/Figure_28_03_06-e1492010742445.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "### Learning Outcomes\n*   Describe the unique anatomical and morphological features of Nemertea\nThe Nemertea are colloquially known as ribbon worms. Most species of phylum **Nemertea** are marine, predominantly benthic or bottom dwellers, with an estimated 900 species known. However, nemertini have been recorded in freshwater and terrestrial habitats as well. Most nemerteans are carnivores, feeding on worms, clams, and crustaceans. Some species are scavengers, and some nemertini species, like _Malacobdella grossa_, have also evolved commensalistic relationships with some mollusks. Some species have devastated commercial fishing of clams and crabs. Nemerteans have almost no predators and two species are sold as fish bait.\nMorphology\n----------\n!\nFigure 1. The proboscis worm (_Parborlasia corrugatus_) is a scavenger that combs the sea floor for food. The species is a member of the phylum Nemertea. The specimen shown here was photographed in the Ross Sea, Antarctica. (credit: Henry Kaiser, National Science Foundation)\nRibbon worms vary in size from 1 cm to several meters. They show bilateral symmetry and remarkable contractile properties. Because of their contractility, they can change their morph...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Macroscopic Editor, Progression, and Principles - Page 2 - Gameplay",
+                "htmlTitle": "Macroscopic Editor, Progression, and Principles - Page 2 - Gameplay",
+                "link": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor-progression-and-principles/943?page=2",
+                "displayLink": "forum.revolutionarygamesstudio.com",
+                "snippet": "Aug 30, 2022 ... But in regards to more specific features that showed up later in evolutionary history, such as the evolution of fur and the such, you have a ...",
+                "htmlSnippet": "Aug 30, 2022 <b>...</b> But in regards to more specific <b>features</b> that showed up later in evolutionary history, such as the evolution of fur and the such, you have a&nbsp;...",
+                "formattedUrl": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor.../943?...",
+                "htmlFormattedUrl": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor.../943?...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQV-QI8Bkl3eKkCDriwiuT_OKTqzvE8ccPlKqKW4GDNmJ7_2GIV2ErK6g&s",
+                            "width": "185",
+                            "height": "272"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://thrivedevforum-uploads.b-cdn.net/original/1X/6d65d6a09c507641c3052c5378812b599265eecc.png"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Deus",
+                            "url": "https://forum.revolutionarygamesstudio.com/u/Deus"
+                        },
+                        {
+                            "name": "Deus",
+                            "url": "Deus"
+                        },
+                        {
+                            "name": "Buckly",
+                            "url": "Buckly"
+                        },
+                        {
+                            "name": "MirrorMonkey2",
+                            "url": "MirrorMonkey2"
+                        },
+                        {
+                            "name": "Buckly",
+                            "url": "Buckly"
+                        },
+                        {
+                            "name": "MirrorMonkey2",
+                            "url": "MirrorMonkey2"
+                        },
+                        {
+                            "name": "Deus",
+                            "url": "Deus"
+                        },
+                        {
+                            "name": "Buckly",
+                            "url": "Buckly"
+                        },
+                        {
+                            "name": "Deus",
+                            "url": "Deus"
+                        },
+                        {
+                            "name": "MirrorMonkey2",
+                            "url": "MirrorMonkey2"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Revolutionary Games Studio"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "3",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "0",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "2",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        },
+                        {
+                            "userinteractioncount": "1",
+                            "interactiontype": "http://schema.org/LikeAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://thrivedevforum-uploads.b-cdn.net/optimized/2X/0/0ec4211f6bc5322491387d2616e874ad74821aa7_2_699x1024.png",
+                            "theme-color": "#2b2b2b",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Macroscopic Editor, Progression, and Principles",
+                            "article:published_time": "2022-11-08T18:12:56+00:00",
+                            "og:site_name": "Thrive Development Forum",
+                            "twitter:url": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor-progression-and-principles/943?page=2",
+                            "og:title": "Macroscopic Editor, Progression, and Principles",
+                            "og:description": "I think that’s more a question specifically related to progression more so than the underlying mechanics of the macroscopic editor. After trying to make an editor concept while trying to keep progression (specifically, early eumetazoan evolution) in mind, I can say it’s pretty difficult to create a universally applicable editor by limiting focus to a specific era of evolutionary history while trying to extrapolate these findings to other eras of evolutionary history at the same time. Like Buckly...",
+                            "twitter:image": "https://thrivedevforum-uploads.b-cdn.net/optimized/2X/0/0ec4211f6bc5322491387d2616e874ad74821aa7_2_699x1024.png",
+                            "og:ignore_canonical": "true",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes, viewport-fit=cover",
+                            "twitter:description": "I think that’s more a question specifically related to progression more so than the underlying mechanics of the macroscopic editor. After trying to make an editor concept while trying to keep progression (specifically, early eumetazoan evolution) in mind, I can say it’s pretty difficult to create a universally applicable editor by limiting focus to a specific era of evolutionary history while trying to extrapolate these findings to other eras of evolutionary history at the same time. Like Buckly...",
+                            "og:article:section": "Gameplay",
+                            "og:url": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor-progression-and-principles/943?page=2",
+                            "og:article:section:color": "AB9364"
+                        }
+                    ],
+                    "discussionforumposting": [
+                        {
+                            "articlesection": "Gameplay",
+                            "text": "I wanted to make a post which compiled my previous posts and will serve as a place for future concepts related to how we deal with the macroscopic editor since I feel like they’re some of...",
+                            "headline": "Macroscopic Editor, Progression, and Principles",
+                            "url": "https://forum.revolutionarygamesstudio.com/t/macroscopic-editor-progression-and-principles/943",
+                            "datepublished": "2022-08-31T02:20:57Z"
+                        }
+                    ],
+                    "comment": [
+                        {
+                            "datemodified": "2022-11-08T18:25:51Z",
+                            "position": "21",
+                            "text": "I think that’s more a question specifically related to progression more so than the underlying mechanics of the macroscopic editor. After trying to make an editor concept while trying to...",
+                            "datepublished": "2022-11-08T18:12:56Z"
+                        },
+                        {
+                            "datemodified": "2022-11-19T15:29:10Z",
+                            "position": "22",
+                            "text": "A bit late to the party, I know, but if it really comes down to it we could potentially end up hiding parts the player cannot utilize in later stages of the… stage. Obviously we will need...",
+                            "datepublished": "2022-11-19T15:24:27Z"
+                        },
+                        {
+                            "image": "https://thrivedevforum-uploads.b-cdn.net/original/2X/e/e830430fb3c0cf8dfcb39374201fb464d3670a98.jpeg",
+                            "datemodified": "2022-12-20T21:45:14Z",
+                            "position": "23",
+                            "text": "I thought about Bucklys suggested macroscopic editor interface and overall I really like it. But I have one important gripe with the internals tab: In my opinion the left panel feels a bit...",
+                            "datepublished": "2022-12-20T21:45:14Z"
+                        },
+                        {
+                            "datemodified": "2022-12-21T03:17:06Z",
+                            "position": "24",
+                            "text": "You raise a good point! Being able to avoid a popup menu would be nice as it clears up the player’s vision. Using the left panel to display the statistics of the currently selected metaball...",
+                            "datepublished": "2022-12-21T03:17:06Z"
+                        },
+                        {
+                            "datemodified": "2022-12-21T10:06:14Z",
+                            "position": "25",
+                            "text": "Thanks for your reply! I think I get what you’re saying and I’m going to make an alternative mock-up which takes these changes into account. I may not fully understand what you mean by...",
+                            "datepublished": "2022-12-21T10:06:14Z"
+                        },
+                        {
+                            "image": "https://thrivedevforum-uploads.b-cdn.net/original/2X/2/2921d3160a6c2a377d4b42b9a12f533bb5c6ae67.jpeg",
+                            "datemodified": "2023-03-03T22:23:21Z",
+                            "position": "26",
+                            "text": "I had this thought train about how we can deal with developing playstyles in the late-multicellular/Aware Stage. I think this stage will be Thrive’s cool “gig” in a way, considering there...",
+                            "datepublished": "2023-03-03T22:23:21Z"
+                        },
+                        {
+                            "datemodified": "2023-03-08T17:20:48Z",
+                            "position": "27",
+                            "text": "I think this is a great run-down of the process of accounting for potential variety in Thrive. Maybe I’ll post a link on our wiki page to this, or condense it into a paragraph to help prime...",
+                            "datepublished": "2023-03-08T17:20:48Z"
+                        },
+                        {
+                            "datemodified": "2023-12-15T20:02:03Z",
+                            "position": "28",
+                            "text": "Hello all, As I’ve been getting more motivation to get involved with Thrive again, I’ve been dumping some thought into this topic just to get the creative juices flowing. I wanted a rough...",
+                            "datepublished": "2023-12-15T20:02:03Z"
+                        },
+                        {
+                            "datemodified": "2023-12-21T15:34:52Z",
+                            "position": "29",
+                            "text": "Very evocative and sensible post. It does a good job of not making the early multicellular stage seem like an impossible thing to implement, but rather like a huge but doable task. Since gameplay...",
+                            "datepublished": "2023-12-21T15:34:52Z"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thrivedevforum-uploads.b-cdn.net/optimized/2X/0/0ec4211f6bc5322491387d2616e874ad74821aa7_2_699x1024.png"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "← previous page",
+                            "url": "← previous page"
+                        },
+                        {
+                            "name": "Home",
+                            "url": "Home"
+                        },
+                        {
+                            "name": "Categories",
+                            "url": "Categories"
+                        },
+                        {
+                            "name": "Guidelines",
+                            "url": "Guidelines"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "Terms of Service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "Privacy Policy"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Gameplay",
+                            "name": "Gameplay",
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated].... The macroscopic editor is the final organic editor in the game and possibly where players will be spending most of their time in the creature stages, so we must be very considerate about it’s accessibility and practicality.\nI would like confirmation from our programming team about the feasibility of it’s implementation and the work that might be needed to make this concept a reality when possible, and of course I would like to hear everyone’s thoughts on the concept and how agreeable it is.  \nShould everyone be in favor of this, we can begin filling in the finer details of the editor, and finally move on to the gameplay side of the macroscopic stage.\nIt’s a general comment, but I’ve always wondered: if we’re aiming for an “Earthlike” progression of life, won’t most of these buttons not get used for most of the game? The last time tetrapods gained a new limb metaball was before we crawled onto land. Most of the evolution we think of in complex animals is really fine-tuning existing structures, not sticking on new parts.\nNow if this is just a focus on Macroscopic and we’re trying to focus on the Cambrian explosion where everything is kind of the same jelly critter on the outside but with wildly different arrangements of jelly parts, my argument probably holds a lot less merit.\nI think that’s more a question specifically related to progression more so than the underlying mechanics of the macroscopic editor. After trying to make an editor concept while trying to keep progression (specifically, early eumetazoan evolution) in mind, I can say it’s pretty difficult to create a universally applicable editor by limiting focus to a specific era of evolutionary history while trying to extrapolate these findings to other eras of evolutionary history at the same time. Like Buckly has done, I think it’s better if we create general principles and envision general mechanics first, then think of specific case studies and refine the details as we go along, which is something I’ll be focusing on.\nAlso something of interest: Williston’s Law. A user on the community forums in this thread () put it this way:\n> _“most organisms have ended up with their characteristic arrangement of parts by first evolving many similar parts and then specializing or losing those parts over time.”_\nHence, for example, many types of bony fish having more fins than tetrapods have limbs, or the ancestor of arthropods tending to have many more limbs than current arthropods such as was seen in trilobites. Note that Williston’s Law isn’t necessarily canon - currently scientists prefer explanations of variances in...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "worm - Students | Britannica Kids | Homework Help",
+                "htmlTitle": "<b>worm</b> - Students | Britannica Kids | Homework Help",
+                "link": "https://kids.britannica.com/students/article/worm/277799",
+                "displayLink": "kids.britannica.com",
+                "snippet": "Different groups of worms may have significantly different internal characteristics. Flatworms, for example, lack a coelom—a cavity in the body between the ...",
+                "htmlSnippet": "Different groups of worms may have significantly different internal <b>characteristics</b>. <b>Flatworms</b>, for example, lack a coelom—a cavity in the body between the&nbsp;...",
+                "formattedUrl": "https://kids.britannica.com/students/article/worm/277799",
+                "htmlFormattedUrl": "https://kids.britannica.com/students/article/worm/277799",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsrxAoDQIJLXNtuhhrW_59DozOaxVmCp3hzgrIqOSDBMqmtNEsk7IPFo&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://kids.britannica.com/resources/img/shared/eb-bkids-open-graph-07-14-17-A2.jpg",
+                            "msapplication-config": "/resources/icons/favicons/school/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "505",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Britannica Kids",
+                            "og:title": "worm",
+                            "og:image:height": "265",
+                            "og:image:type": "image/jpg",
+                            "msapplication-tileimage": "/resources/icons/favicons/bkids/bkids-favicon-144a.png",
+                            "og:description": "Adult animals that have soft, elongated, often tubelike bodies and that lack backbones are commonly called worms. Worms are so different from one another that zoologists do…",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://kids.britannica.com/students/article/worm/277799"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://kids.britannica.com/resources/img/shared/eb-bkids-open-graph-07-14-17-A2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A beardworm’s “beard” is made of about 200,000 tentacles. Beardworms live near seafloor vents.\n\n\nAdult animals that have soft, elongated, often tubelike bodies and that lack backbones are commonly called worms. Worms are so different from one another that zoologists do not classify them together in a single group; they place them in about a dozen different and often unrelated taxonomic groups called phyla. In everyday language the name worm may be loosely applied to other animals as well—to the larvae, or immature forms, of some insects, for example, or even to some vertebrates, such as the blindworm, a limbless, snakelike lizard. However, the name is properly applied only to certain adult invertebrates.\nWorms play a major role in virtually all ecosystems. Some terrestrial worms condition the soil. Many worms are parasites of plants and animals, including humans. Many free-living, or nonparasitic, worms form an important link in food chains.\nAll worms are bilaterally symmetrical, meaning that the two sides of their bodies are identical. They lack scales and true limbs, though they may have appendages such as fins and bristles. Many worms have sense organs to detect chemical changes in their environments, and some have light-sensing organs.\nDifferent groups of worms may have significantly different internal characteristics. Flatworms, for example, lack a coelom—a cavity in the body between the internal organs and the body wall. They may also lack a digestive tract, or the digestive tract may be greatly simplified. Proboscis worms also lack a coelom, but they are more advanced than flatworms, in terms of evolution, because they have a complete gut with a separate mouth and anus and a true circulatory system. Roundworms have a complete digestive system and a pseudocoel, or false coelom. Segmented worms are the most advanced because they have a true coelom and well-developed digestive, respiratory, circulatory, and nervous systems.\nSome worms are extremely mobile; they may burrow, crawl, or swim. Other worms are sedentary and live in burrows or tubes that they have built for themselves. Some worms are scavengers, others are carnivorous predators, and still others are totally parasitic.\nSome worms reproduce sexually. Hermaphroditism, the condition in which a single individual possesses both male and female reproductive parts...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Nemertea - Wikipedia",
+                "htmlTitle": "Nemertea - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Nemertea",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Nemertea is a phylum of animals also known as ribbon worms or proboscis worms, consisting of about 1300 known species. Most ribbon worms are very slim, ...",
+                "htmlSnippet": "Nemertea is a phylum of animals also known as <b>ribbon worms</b> or proboscis worms, consisting of about 1300 known species. Most <b>ribbon worms</b> are very slim,&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Nemertea",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Nemertea",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nemertea_by_Joubin.jpg/1200px-Nemertea_by_Joubin.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Nemertea - Wikipedia",
+                            "og:image:height": "1986",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Not to be confused with the roundworm phylum . For the Romanian village, see .\n| NemerteaTemporal range: Middle Triassic–recent\nPossible Ordovician and Carboniferous records\n |\n| --- |\n| ] |\n|  \"Taxonomy (biology)\") ] |\n| Domain: |  |\n| Kingdom: |  |\n| Subkingdom: |  |\n| _Clade_: |  |\n| _Clade_: |  |\n| _Clade_: |  |\n| (unranked): |  |\n| (unranked): |  |\n| Superphylum: |  |\n| Phylum: | Nemertea  \n, 1851 |\n| Classes |\n| \n*   \n*   \n*    (= )\n |\n|  \"Synonym (taxonomy)\") ] |\n| Nemertini  \nNemertinea  \nRhynchocoela\n |\n**Nemertea** is a  of  also known as **ribbon worms** or **proboscis worms**, consisting of about 1300 known species.]] Most ribbon worms are very slim, usually only a few millimeters wide, although a few have relatively short but wide bodies. Many have patterns of yellow, orange, red and green coloration. The foregut, stomach and intestine run a little below the midline of the body, the  is at the tip of the tail, and the mouth is under the front. A little above the gut is the rhynchocoel, a cavity which mostly runs above the midline and ends a little short of the rear of the body. All species have a  which lies in the rhynchocoel when inactive but  to emerge just above the mouth to capture the animal's prey with venom. A highly extensible muscle in the back of the rhynchocoel pulls the proboscis in when an attack ends. A few species with stubby bodies  and have suckers at the front and back ends, with which they attach to a  \"Host (biology)\").\nThe brain is a ring of four , positioned around the rhynchocoel near the animal's front end. At least a pair of  connect to the brain and run along the length of the body. Most...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

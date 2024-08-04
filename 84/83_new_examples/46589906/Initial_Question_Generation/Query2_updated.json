@@ -1,0 +1,833 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Does holding a device to the head amplify radio signals?",
+                "totalResults": "26800000",
+                "searchTerms": "Does holding a device to the head amplify radio signals?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Does holding a device to the head amplify radio signals?",
+                "totalResults": "26800000",
+                "searchTerms": "Does holding a device to the head amplify radio signals?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.364703,
+        "formattedSearchTime": "0.36",
+        "totalResults": "26800000",
+        "formattedTotalResults": "26,800,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Eli5 Why does putting a car key fob next to your head increase its ...",
+                "htmlTitle": "Eli5 Why <b>does</b> putting a car key fob next to your <b>head increase</b> its ...",
+                "link": "https://www.reddit.com/r/explainlikeimfive/comments/1828w87/eli5_why_does_putting_a_car_key_fob_next_to_your/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Nov 23, 2023 ... I'm an Electrical Engineering student going for my Master's and specializing in RF and electromagnetics. Key fobs operate at about 300 MHz,\u00a0...",
+                "htmlSnippet": "Nov 23, 2023 <b>...</b> I&#39;m an Electrical Engineering student going for my Master&#39;s and specializing in <b>RF</b> and electromagnetics. Key fobs operate at about 300 MHz,&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../eli5_why_does_putting_a_car_key_fob_next_to...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../eli5_why_<b>does</b>_putting_a_car_key_fob_next_to...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/1828w87",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/explainlikeimfive on Reddit: Eli5 Why does putting a car key fob next to your head increase its range",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/explainlikeimfive on Reddit: Eli5 Why does putting a car key fob next to your head increase its range",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Dismal-Cause-3025 - 750 votes and 125 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/1828w87",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/explainlikeimfive/comments/1828w87/eli5_why_does_putting_a_car_key_fob_next_to_your/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/1828w87"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reddit.com/r/explainlikeimfive/comments/1828w87/eli5_why_does_putting_a_car_key_fob_next_to_your/: 404 Client Error: Not Found for url: https://r.jina.ai/https://www.reddit.com/r/explainlikeimfive/comments/1828w87/eli5_why_does_putting_a_car_key_fob_next_to_your/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a community-driven platform where users share information and opinions. While it can provide firsthand accounts and diverse perspectives, the quality and reliability of information can vary significantly. There is a risk of encountering misinformation, and without proper moderation, some claims may not be thoroughly vetted. Therefore, while it can be useful for discussion, it is not a highly reliable source for verifying factual claims."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-11-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This Reddit post discusses the operation frequency of key fobs and suggests that positioning the fob near one's head may have some effect. However, it does not delve deep enough into the scientific principles involved or explain how the amplification occurs, thus limiting its usefulness in assessing the claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Why does a remote car key work when held to your head/body ...",
+                "htmlTitle": "Why <b>does</b> a remote car key work when held to your <b>head</b>/body ...",
+                "link": "https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body",
+                "displayLink": "physics.stackexchange.com",
+                "snippet": "Mar 4, 2014 ... I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head.",
+                "htmlSnippet": "Mar 4, 2014 <b>...</b> I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to <b>hold</b> the transmitter next to my <b>head</b>.",
+                "formattedUrl": "https://physics.stackexchange.com/.../why-does-a-remote-car-key-work-wh...",
+                "htmlFormattedUrl": "https://physics.stackexchange.com/.../why-<b>does</b>-a-remote-car-key-work-wh...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQnsx8qdNKlVS_c15JlYQtZJmpcQtoZpEcCSsAWY1PSVdbJ2UZx2tuqdY&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "qapage": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228",
+                            "primaryimageofpage": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228",
+                            "name": "Why does a remote car key work when held to your head/body?",
+                            "description": "I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head. It worked, so I tried the following later that day: ..."
+                        }
+                    ],
+                    "question": [
+                        {
+                            "image": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon.png?v=12bcbe40b6e0",
+                            "upvotecount": "146",
+                            "commentcount": "7",
+                            "answercount": "8",
+                            "name": "Why does a remote car key work when held to your head/body?",
+                            "datecreated": "2014-03-04T15:12:18",
+                            "text": "I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head. It worked, so I tried the following later that...",
+                            "url": "Share"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "upvotecount": "127",
+                            "commentcount": "19",
+                            "text": "This is a really interesting question. It turns out that your body is reasonably conductive (think salt water, more on that in the answer to this question), and that it can couple to RF sources...",
+                            "datecreated": "2014-03-04T17:06:00",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "81",
+                            "commentcount": "5",
+                            "text": "As promised in the comments to my answer, I went out and measured the effect in a number of different configurations (a couple of days later than promised :-)). For those of you who just want...",
+                            "datecreated": "2014-03-16T17:13:36",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "15",
+                            "commentcount": "8",
+                            "text": "Remote \"key fob\" designers intentionally limit size so they conveniently fit in your pocket. However, the convenience comes at a big price - the tiny loop antenna inside is extremely inefficient,...",
+                            "datecreated": "2014-03-05T15:21:37",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "10",
+                            "commentcount": "4",
+                            "text": "The way it works has nothing to do with your body. Remotes have their antenna as a more or less circular trace on the board (a loop antenna). The strongest signal is when the top or base of...",
+                            "datecreated": "2014-03-04T23:09:43",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "2",
+                            "text": "The folks at Remcom set out to debunk this myth. https://www.remcom.com/examples/keyless-entry.html They ended up showing why it works. Great software, I've designed a bunch of 2.4 GHz antennas...",
+                            "datecreated": "2018-11-01T18:12:47",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "1",
+                            "text": "I don't think that holding the fob to the head does much good, but what does make a huge difference is holding it high up. The simplest flat plane multipath reflection model predicts that the...",
+                            "datecreated": "2014-03-06T15:00:26",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "0",
+                            "text": "Unfortunately I can't remember where I read this, but I recently read a theory/explanation that it's merely because the key is being held higher up.",
+                            "datecreated": "2014-03-06T10:56:09",
+                            "url": "Share"
+                        },
+                        {
+                            "upvotecount": "-2",
+                            "commentcount": "4",
+                            "text": "Are you sure holding it to your head really makes it better? Your experiment is very poorly designed because you have only sampled instances where the remote wasn't working when your head wasn't...",
+                            "datecreated": "2014-03-05T21:37:14",
+                            "url": "Share"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Yababaa"
+                        },
+                        {
+                            "name": "Yababaa"
+                        },
+                        {
+                            "name": "Chris Mueller"
+                        },
+                        {
+                            "name": "Chris Mueller"
+                        },
+                        {
+                            "name": "neonzeon"
+                        },
+                        {
+                            "name": "Phil Perry"
+                        },
+                        {
+                            "name": "user103218"
+                        },
+                        {
+                            "name": "hyportnex"
+                        },
+                        {
+                            "name": "shauneba"
+                        },
+                        {
+                            "name": "Phil Frost"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Why does a remote car key work when held to your head/body?",
+                            "og:site_name": "Physics Stack Exchange",
+                            "twitter:domain": "physics.stackexchange.com",
+                            "viewport": "width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0",
+                            "twitter:description": "I was trying to unlock my car with a keyfob, but I was out of range. A friend of mine said that I have to hold the transmitter next to my head. It worked, so I tried the following later that day:\r\n...",
+                            "og:url": "https://physics.stackexchange.com/questions/101913/why-does-a-remote-car-key-work-when-held-to-your-head-body"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.sstatic.net/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   Put key next to my head (it worked)\n*   Put key on my chest (it worked)\n*   Put key on my leg (didn't work)\nSo first I thought it has to do with height of the transmitter. But I am out of range if I use the key at the same height as my head but not right next to my head. Same applies when my key is at the same height as my chest. So it has nothing to do with height (as it appears).\nThen I thought, my body is acting like an antenna, but how is that possible if I am holding the key? Why would it only amplify the signal if I hold it against my head and not if I simply hold it into my hand?\n.\n*   \n*   \n*   \n*   \nShare a link to this question\nCopy link\nCite\nFollow \nFollow this question to receive notifications\nYababaa\nasked Mar 4, 2014 at 15:12\n]\nYababaa\n2,23944 gold badges1818 silver badges2323 bronze badges\n7\n*   2\n      is some sort of explanation. \n    \u2013\u00a0\n*   8\n     You left your tin foil hat on? :-) \n    \u2013\u00a0\n*   7\n     Related:  \n    \u2013\u00a0\n*   4\n     If you really want an answer to this, you should , not a physicist. \n    \u2013\u00a0\n*   1\n     The skeptic answer, in the skeptics SE, is horrible :-( Armchair quoting from internet, plus standard blurb about confirmation bias. Tell about groupthinking to these guys. \n    \u2013\u00a0\n\u00a0|\u00a0 \n8 Answers 8\n-----------\nSorted by: \nHighest score (default) Date modified (newest first) Date created (oldest first)\nThis answer is useful\n127\nSave this answer.\nShow activity on this post.\nThis is a really interesting question. It turns out that your body is reasonably conductive (think salt water, more on that in the answer to ), and that it can couple to RF sources capacitively. Referring to the ; they typically operate at an RF frequency of 315\u00a0MHz315\u00a0MHz, the wavelength of which is about 1\u00a0m1\u00a0m. Effective antennas (ignoring ) typically have a length of \u03bb2\\=12m\u22481.5\u00a0ft\u03bb2\\=12m\u22481.5\u00a0ft.\nSo, the effect is probably caused by one or...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This is a question-and-answer site focused specifically on physics and related mathematics. The community consists of scientists and enthusiasts who provide answers based on established scientific principles. Information is usually well-researched and cited, making it a credible source for evaluating claims that relate to physics, such as the effects of holding a key fob to the head as an amplifier."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2014-03-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This Stack Exchange post provides a detailed explanation that links the human body and head acting as an effective antenna for RF signals due to its conductive properties. It directly addresses how the key fob's range can be improved when it is placed near the head, making it highly relevant to the question and claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Amplify Car Remote Distance With Your Brain!! : 3 Steps (with ...",
+                "htmlTitle": "<b>Amplify</b> Car Remote Distance With Your <b>Brain</b>!! : 3 Steps (with ...",
+                "link": "https://www.instructables.com/Amplify-Car-Remote-Distance-With-Your-Brain/",
+                "displayLink": "www.instructables.com",
+                "snippet": "Most car remotes can only go about 50-65 feet from your car before they stop working. Some people don't even get that far (maybe your battery is dying on your\u00a0...",
+                "htmlSnippet": "Most car remotes <b>can</b> only go about 50-65 feet from your car before they stop working. Some people don&#39;t even get that far (maybe your battery <b>is</b> dying on your&nbsp;...",
+                "formattedUrl": "https://www.instructables.com/Amplify-Car-Remote-Distance-With-Your-B...",
+                "htmlFormattedUrl": "https://www.instructables.com/<b>Amplify</b>-Car-Remote-Distance-With-Your-B...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZW-x7E2kouW_LWXvVMaUccU3rCMUpzOy5aZRbQEleSI2zO3p7HfENJFE&s",
+                            "width": "246",
+                            "height": "205"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://content.instructables.com/FBW/W0FL/IP5RFR10/FBWW0FLIP5RFR10.jpg?auto=webp&frame=1"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://content.instructables.com/FBW/W0FL/IP5RFR10/FBWW0FLIP5RFR10.jpg?auto=webp&frame=1",
+                            "adsk-search-crawler-pagename": "instructables:www:amplify-car-remote-distance-with-your-brain",
+                            "og:type": "article",
+                            "og:image:width": "300",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Amplify Car Remote Distance With Your Brain!!",
+                            "thumbnail": "https://content.instructables.com/FBW/W0FL/IP5RFR10/FBWW0FLIP5RFR10.jpg?auto=webp&frame=1",
+                            "og:site_name": "Instructables",
+                            "apple-mobile-web-app-title": "Instructables",
+                            "og:title": "Amplify Car Remote Distance With Your Brain!!",
+                            "og:image:height": "250",
+                            "channel": "life-hacks",
+                            "og:description": "Amplify Car Remote Distance With Your Brain!!: You're in a crowded parking lot and forgot where you parked your car. You try pushing the button on your remote, but the car is apparently too far away. You can spend the next thirty minutes racing up and down the parking lot, holding your arm in th\u2026",
+                            "twitter:image": "https://content.instructables.com/FBW/W0FL/IP5RFR10/FBWW0FLIP5RFR10.jpg?auto=webp&fit=bounds&frame=1",
+                            "fb:app_id": "140028286058792",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@instructables",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://www.instructables.com/Amplify-Car-Remote-Distance-With-Your-Brain/",
+                            "category": "living"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://content.instructables.com/FBW/W0FL/IP5RFR10/FBWW0FLIP5RFR10.jpg?auto=webp&frame=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "12,672\n58\nFeatured\nYou're in a crowded parking lot and forgot where you parked your car. You try pushing the button on your remote, but the car is apparently too far away. You can spend the next thirty minutes racing up and down the parking lot, holding your arm in the air, hitting the button furiously, and looking foolish (we've all been there, don't worry, LOL)...OR, you can use YOUR BRAIN!\nMost car remotes can only go about 50-65 feet from your car before they stop working. Some people don't even get that far (maybe your battery is dying on your remote, or it needs replacing, etc?). \nWhatever the case is for you, as long as your remote is working from any distance, this will help to amplify that distance for your remote, whether by 5 or 20 feet! When I got as far as the remote would work (with using my brain), it was about 85 feet away (20 feet out of the normal range). :) \nSimply put the remote up to your head (let's just say around your temple area), and click the button. \nVOILA! It works! \nPut your remote to the test by stepping back (like I do in the video below) to see how far you can get using this technique. Mechanics looking for a customer's car often times will use this approach. \n\nSome people say to put it under your chin or up to your cheek, but if these techniques work, it's for the same reason as this one. If they don't work, it's typically because they aren't having the remote close enough to your brain to accomplish the following things...\nYour brain is about 75% water. Most speculate that the radio...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Instructables is a platform for DIY projects and instructional content, often generated by users. While it can contain useful how-to guides and tips, the quality of information varies since it lacks rigorous oversight. Users can share personal experiences, which may not be reliable for scientific accuracy in terms of claims about technology. It can serve as a supplementary resource, but caution is advised."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This Instructables article discusses experiences with amplifying remote key fob distances by holding them at the head, explaining that the human body may play a role in this effect. While it provides credible anecdotal evidence, it lacks a scientific basis, hence limiting its relevance."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "YSK that pressing your car key fob up against your temple or under ...",
+                "htmlTitle": "YSK that pressing your car key fob up against your temple or under ...",
+                "link": "https://www.reddit.com/r/YouShouldKnow/comments/oqvq0s/ysk_that_pressing_your_car_key_fob_up_against/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 24, 2021 ... 274 votes, 75 comments. If you take your car key fob and press it up to the skin on your temple and or under your chin/jaw, you can\u00a0...",
+                "htmlSnippet": "Jul 24, 2021 <b>...</b> 274 votes, 75 comments. If you take your car key fob and press it up to the skin on your temple and or under your chin/jaw, you <b>can</b>&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../ysk_that_pressing_your_car_key_fob_up_again...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../ysk_that_pressing_your_car_key_fob_up_again...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/oqvq0s",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/YouShouldKnow on Reddit: YSK that pressing your car key fob up against your temple or under your chin extends/increases the range of it's signal to the car.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/YouShouldKnow on Reddit: YSK that pressing your car key fob up against your temple or under your chin extends/increases the range of it's signal to the car.",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Rick_C-69 - 274 votes and 75 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/oqvq0s",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/YouShouldKnow/comments/oqvq0s/ysk_that_pressing_your_car_key_fob_up_against/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a community-driven platform where users share information and opinions. While it can provide firsthand accounts and diverse perspectives, the quality and reliability of information can vary significantly. There is a risk of encountering misinformation, and without proper moderation, some claims may not be thoroughly vetted. Therefore, while it can be useful for discussion, it is not a highly reliable source for verifying factual claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-07-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This Reddit discussion provides a brief account of experiences with key fobs but doesn\u2019t provide a clear scientific explanation or principles that would help understand why the effect occurs. Thus, its relevance is limited."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Why does holding a car fob next to your head increase the range ...",
+                "htmlTitle": "Why <b>does holding</b> a car fob next to your <b>head increase</b> the range ...",
+                "link": "https://www.quora.com/Why-does-holding-a-car-fob-next-to-your-head-increase-the-range",
+                "displayLink": "www.quora.com",
+                "snippet": "May 6, 2024 ... A key fob normally transmits in all directions at once (so-called \u201comnidirectional\u201d) so much of the signal is wasted. However, if you can\u00a0...",
+                "htmlSnippet": "May 6, 2024 <b>...</b> A key fob normally transmits in all directions at once (so-called \u201comnidirectional\u201d) so much of the <b>signal is</b> wasted. However, if you <b>can</b>&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Why-does-holding-a-car-fob-next-to-your-head-in...",
+                "htmlFormattedUrl": "https://www.quora.com/Why-<b>does</b>-<b>holding</b>-a-car-fob-next-to-your-<b>head</b>-in...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Why-does-holding-a-car-fob-next-to-your-head-increase-the-range#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhy-does-holding-a-car-fob-next-to-your-head-increase-the-range&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Something went wrong. Wait a moment and try again.",
+                    "content_tokens": 11
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Quora is a question-and-answer platform where users can ask questions and receive answers from community members. While some responses may be insightful and come from knowledgeable individuals, the platform does not guarantee accuracy or reliability. Misinformation can spread easily, so while it can be helpful for gathering opinions, it should not be relied upon for factual verification."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "A Quora post contains limited information and does not provide a scientific explanation regarding the interaction of the key fob signal with the body. It mentions a general observation but lacks depth and applicability, resulting in a low score."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Cell Phones and Cancer Risk Fact Sheet - NCI",
+                "htmlTitle": "Cell Phones and Cancer Risk Fact Sheet - NCI",
+                "link": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+                "displayLink": "www.cancer.gov",
+                "snippet": "Apr 4, 2024 ... Has the incidence of brain and central nervous system cancers changed during the time cell phone use increased?",
+                "htmlSnippet": "Apr 4, 2024 <b>...</b> Has the incidence of <b>brain</b> and central nervous <b>system</b> cancers changed during the time cell <b>phone</b> use increased?",
+                "formattedUrl": "https://www.cancer.gov/about-cancer/causes.../risk/.../cell-phones-fact-sheet",
+                "htmlFormattedUrl": "https://www.cancer.gov/about-cancer/causes.../risk/.../cell-phones-fact-sheet",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK69_irgfNlJBMp_zFNmob6ItVWNtPIuFw6nAegjKayxT1p4viX3pztA8g&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "question": [
+                        {
+                            "name": "Why has there been concern that cell phones may cause cancer?"
+                        },
+                        {
+                            "name": "Is the radiation from cell phones harmful?"
+                        },
+                        {
+                            "name": "Has the incidence of brain and central nervous system cancers changed during the time cell phone use increased?"
+                        },
+                        {
+                            "name": "How is radiofrequency radiation exposure measured in studies of groups of people?"
+                        },
+                        {
+                            "name": "What has research shown about the link between cell phone use and cancer risk?"
+                        },
+                        {
+                            "name": "What are the findings from studies of the human body?"
+                        },
+                        {
+                            "name": "What are the findings from experiments in laboratory animals?"
+                        },
+                        {
+                            "name": "Why are the findings from different studies of cell phone use and cancer risk inconsistent?"
+                        },
+                        {
+                            "name": "What are other possible health effects from cell phone use?"
+                        },
+                        {
+                            "name": "What have expert organizations said about the cancer risk from cell phone use?"
+                        },
+                        {
+                            "name": "Has radiofrequency radiation from cell phone use been associated with cancer risk in children?"
+                        },
+                        {
+                            "name": "Which US federal agencies have a role in evaluating the effects of or regulating cell phones?"
+                        },
+                        {
+                            "name": "Where can I find more information about radiofrequency radiation from my cell phone?"
+                        },
+                        {
+                            "name": "What can cell phone users do to reduce their exposure to radiofrequency radiation?"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "text": "There are two main reasons why people are concerned that cell (or mobile) phones might have the potential to cause certain types of cancer or other health problems: Cell phones emit radiation..."
+                        },
+                        {
+                            "text": "Cell phones emit radiation in the radiofrequency region of the electromagnetic spectrum. Second-, third-, and fourth-generation cell phones (2G, 3G, 4G) emit radiofrequency in the frequency..."
+                        },
+                        {
+                            "text": "No. Investigators have studied whether the incidence of brain or other central nervous system cancers (that is, the number of new cases of these cancers diagnosed each year) has changed during..."
+                        },
+                        {
+                            "text": "Epidemiologic studies use information from several sources, including questionnaires and data from cell phone service providers, to estimate radiofrequency radiation exposure in groups of people...."
+                        },
+                        {
+                            "text": "Researchers have carried out several types of population studies to investigate the possibility of a relationship between cell phone use and the risk of tumors, both malignant (cancerous) and..."
+                        },
+                        {
+                            "text": "Researchers have carried out several kinds of studies to investigate possible effects of cell phone use on the human body. In 2011, two small studies were published that examined brain glucose..."
+                        },
+                        {
+                            "text": "Early studies involving laboratory animals showed no evidence that radiofrequency radiation increased cancer risk or enhanced the cancer-causing effects of known chemical carcinogens (35\u201338)...."
+                        },
+                        {
+                            "text": "A few studies have shown some evidence of statistical association of cell phone use and brain tumor risks in humans, but most studies have found no association. Reasons for these discrepancies..."
+                        },
+                        {
+                            "text": "The most consistent health risk associated with cell phone use is distracted driving and vehicle accidents (46, 47). Several other potential health effects have been reported with cell phone..."
+                        },
+                        {
+                            "text": "In 2011, the International Agency for Research on Cancer (IARC)Exit Disclaimer, a component of the World Health Organization, appointed an expert working group to review all available evidence..."
+                        },
+                        {
+                            "text": "There are theoretical considerations as to why the potential health effects of cell phone use should be investigated separately in children. Their nervous systems are still developing and,..."
+                        },
+                        {
+                            "text": "The National Institutes of Health (NIH), including the National Cancer Institute (NCI), conducts research on cell phone use and the risks of cancer and other diseases. FDA and FCC share regulatory..."
+                        },
+                        {
+                            "text": "The dose of the energy that people absorb from any source of radiation is estimated using a measure called the specific absorption rate (SAR), which is expressed in watts per kilogram of body..."
+                        },
+                        {
+                            "text": "FDA has suggested some steps that concerned cell phone users can take to reduce their exposure to radiofrequency radiation: Reduce the amount of time spent using your cell phone. Use speaker..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Cancer.gov",
+                            "og:image": "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/100/200/4/files/woman-on-phone-feature.jpg",
+                            "msapplication-config": "/profiles/custom/cgov_site/themes/custom/cgov/static/images/design-elements/icons/favicons/browserconfig.xml?v=1",
+                            "og:type": "Website",
+                            "twitter:card": "summary",
+                            "dcterms.ispartof": "Causes and Prevention",
+                            "handheldfriendly": "true",
+                            "dcterms.type": "cgvArticle",
+                            "og:title": "Cell Phones and Cancer Risk Fact Sheet",
+                            "apple-mobile-web-app-title": "Cancer.gov",
+                            "dcterms.subject": "About Cancer",
+                            "og:description": "A fact sheet that outlines the available evidence regarding use of cellular/mobile telephones and cancer risk.",
+                            "cgdp.domain": "cgov",
+                            "dcterms.issued": "04/05/2024 - 08:00",
+                            "dcterms.isreferencedby": "event1",
+                            "viewport": "width=device-width, user-scalable=yes, initial-scale=1, minimum-scale=1",
+                            "mobileoptimized": "width",
+                            "cgdp.template": "default",
+                            "og:url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet",
+                            "dcterms.coverage": "nciglobal,ncienterprise"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_social_media/public/cgov_image/media_image/100/200/4/files/woman-on-phone-feature.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... phones emit radiation in the  region of the . Second-, third-, and fourth-generation cell phones (2G, 3G, 4G) emit radiofrequency in the frequency range of 0.7\u20132.7 GHz. Fifth-generation (5G) cell phones are anticipated to use the frequency spectrum up to 80 GHz.\nThese frequencies all fall in the nonionizing range of the spectrum, which is low frequency and low energy. The energy is too low to damage DNA. By contrast, , which includes , , and cosmic rays, is high frequency and high energy. Energy from ionizing radiation can damage DNA. DNA damage can cause changes to genes that may increase the risk of cancer.\nThe NCI fact sheet  lists sources of . More information about ionizing radiation can be found on the  page.\nThe human body does absorb energy from devices that emit radiofrequency radiation. The only consistently recognized biological effect of radiofrequency radiation absorption in humans that the general public might encounter is heating to the area of the body where a cell phone is held (e.g., the ear and head). However, that heating is not sufficient to measurably increase core body temperature. There are no other clearly established dangerous health effects on the human body from radiofrequency radiation.\nHas the incidence of brain and central nervous system cancers changed during the time cell phone use increased?\n-----------------------------------------------------------------------------------------------------------------\nNo. Investigators have studied whether the  of brain or other  cancers (that is, the number of new cases of these cancers diagnosed each year) has changed during the time that cell phone use increased dramatically. These studies found:\n*   stable incidence rates for adult  in the United States (), Nordic countries () and Australia () during the past several decades\n*   stable incidence rates for  brain tumors in the United States during 1993\u20132013 ()\n*   stable incidence rates for acoustic neuroma (), which are , and  (), which are usually nonmalignant, among US adults since 2009\u00a0\nIn addition, studies using cancer incidence data have tested different scenarios (simulations) determining whether the incidence trends are in line with various levels of risk as reported in studies of cell phone use and brain tumors between 1979 and 2008 (, ). These simulations showed that many risk changes reported in \u00a0were not consistent with incidence data, implying that \u00a0and errors in the study may have distorted the findings.\nBecause these studies examine cancer incidence trends over time in populations rather than comparing risk in people who do and don\u2019t use cell phones, their ability to observe potential small differences in risk among...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "As the official website of the National Cancer Institute, this government resource provides extensively researched and peer-reviewed information regarding cancer. Its reliability and commitment to accuracy make it an excellent resource for scientific health claims. While not directly related to the key fob claim, the credibility benchmark it sets is noteworthy."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-04-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This fact sheet discusses general radio frequency radiation but is not directly relevant to the specific phenomenon of key fobs increasing in range when held to the head. It lacks specificity to the claim being evaluated."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Tech Myth: Holding the Car Remote to Your Head Increases Its ...",
+                "htmlTitle": "Tech Myth: <b>Holding</b> the Car Remote to Your <b>Head</b> Increases Its ...",
+                "link": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+                "displayLink": "www.apartmenttherapy.com",
+                "snippet": "May 4, 2009 ... ... increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic?",
+                "htmlSnippet": "May 4, 2009 <b>...</b> ... <b>increase</b> the range of the remote <b>signal</b>. <b>Is</b> this just an old tech wives tale, or <b>is</b> there something legit about this voodoo car magic?",
+                "formattedUrl": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+                "htmlFormattedUrl": "https://www.apartmenttherapy.com/tech-myth-<b>holding</b>-the-care-rem-83663",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABHyVzeK-P-GilvxtmOz5wsjK3q8768OeHtgyHmb6YnPDWAagELNAdXo&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Apartment Therapy",
+                            "twitter:url": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+                            "msapplication-tileimage": "/static/icons/metro-tile.png",
+                            "title": "Tech Myth: Holding the Car Remote to Your Head Increases Its Range",
+                            "og:description": "This entry comes to you courtesy of the fact that I\u2019ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car\u2019s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal.",
+                            "twitter:image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_800,h_400/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg",
+                            "pocket-site-verification": "b6b063df97d6ce546dc847fe053b32",
+                            "ahrefs-site-verification": "aa7e6ad938f66b4cf3bc7ae24d2a85cc16647606df7568a2f2b5c1109b9d81fd",
+                            "next-head-count": "44",
+                            "twitter:site": "AptTherapy",
+                            "flipboard-image": "https://cdn.apartmenttherapy.info/image/fetch/f_jpg,q_auto:eco,c_fill,g_auto,w_1500/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg",
+                            "fb:admins": "1917611",
+                            "flipboard-date": "1241452800",
+                            "msapplication-tilecolor": "#F12330",
+                            "thumbnail": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg",
+                            "og:type": "article",
+                            "twitter:title": "Tech Myth: Holding the Car Remote to Your Head Increases Its Range",
+                            "og:title": "Tech Myth: Holding the Car Remote to Your Head Increases Its Range",
+                            "qc:section": "design ideas",
+                            "fb:pages": "30065974282",
+                            "flipboard-article": "This entry comes to you courtesy of the fact that I\u2019ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car\u2019s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal. Is this just an old tech wives",
+                            "flipboard-author": "Taryn Williford",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1",
+                            "twitter:description": "This entry comes to you courtesy of the fact that I\u2019ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car\u2019s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal.",
+                            "og:url": "https://www.apartmenttherapy.com/tech-myth-holding-the-care-rem-83663",
+                            "flipboard-title": "Tech Myth: Holding the Car Remote to Your Head Increases Its Range"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/https%3A%2F%2Fstorage.googleapis.com%2Fgen-atmedia%2F2%2F2009%2F05%2F109271740f1f6b5347a54a96953156acf25693b9.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " This entry comes to you courtesy of the fact that I\u2019ve heard this maybe-myth told to me more than once in the past few weeks my friends and complete strangers alike. My car\u2019s keyless entry remote, for lack of a better word, sucks. I practically have to be next to the car to get it to work. Alas, plenty of the aforementioned people have given me the tip to hold the remote to my chin with my mouth slightly open to increase the range of the remote signal. Is this just an old tech wives tale, or is there something legit about this voodoo car magic? \n Although it sounds absolutely bonkers when you first hear it (and actually it sounds just as crazy even after you do some research on it), this actually works. And for good reason, too: The oral cavity and fluids in your skull do some kind of crazy wizardry to the remote signal when you\u2019re holding the key fob to your chin. It\u2019s kind of like the reason why those ancient \u201crabbit ear\u201d TV antennas gave you better reception when you were touching them. \n The New York Times asked a Silicon Valley radio engineer, Tim Pozar, for his take on how the trick turns your head into a DIY antenna. \n If you ask William Van Winkle, it\u2019s a lot more than a few car lengths. He wrote this article for Tom\u2019s Guide earlier this month and totally confirmed that it increased his car\u2019s remote control effectiveness by about twice the length that it was before: \n Great trick! \n The home you love starts here\n The home you love starts here\nMore From Us\nFollow along\nNewsletter\nEnjoy a daily dose of house tours, before & afters, decorating hacks, and more.\n\u00a9 2024 Apartment Therapy, LLC / Terms of UsePrivacy PolicyEU and US State Data Subject Requests",
+                    "content_tokens": 371
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Apartment Therapy is a home and lifestyle website with a focus on design and tips for living spaces. While it offers tips and informative content, it may not focus on scientific accuracy or verification. It\u2019s useful for lifestyle topics but should not be prioritized for assessing technical claims like the one regarding key fobs."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2009-05-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "The article discusses the idea of human anatomy acting as an amplifier for the remote signal, providing a plausible scientific angle similar to some others but does not elaborate much on the specifics. Nonetheless, it supports the concept that there may be a physical interaction, giving it a good relevance score."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Does holding a car remote to your head increase range? - Quora",
+                "htmlTitle": "<b>Does holding</b> a car remote to your <b>head increase</b> range? - Quora",
+                "link": "https://www.quora.com/Does-holding-a-car-remote-to-your-head-increase-range",
+                "displayLink": "www.quora.com",
+                "snippet": "Sep 17, 2020 ... If you want to see the light, open the camera on your phone or iPad. It can see it. Watch the screen, turn the lights low, and you'll be able to\u00a0...",
+                "htmlSnippet": "Sep 17, 2020 <b>...</b> If you want to see the light, open the camera on your <b>phone</b> or iPad. It <b>can</b> see it. Watch the screen, turn the lights low, and you&#39;ll be able to&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Does-holding-a-car-remote-to-your-head-increase-r...",
+                "htmlFormattedUrl": "https://www.quora.com/<b>Does</b>-<b>holding</b>-a-car-remote-to-your-<b>head</b>-increase-r...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8G1e2iSgGLFbuVRrGASIQzuIQEjZaTgNtPHrmljhuRGyNWwBqndi4au4&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Does-holding-a-car-remote-to-your-head-increase-range#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FDoes-holding-a-car-remote-to-your-head-increase-range&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://qph.cf2.quoracdn.net/main-qimg-3340f686a2d37fd5f0208840a032f3e1-lq"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Does holding a car remote to your head increase range? - Quora\n===============\nSomething went wrong. Wait a moment and try again.\nTry again\nSkip to content\nSkip to search\nSign In\nDoes holding a car remote to your head increase range?\nAll related (59)\nSort\nRecommended\n]\nFormer DJ/Announcer/Producer/Engineer at Kansas City Area Commercial Radio (1970\u20131992) \u00b7 Author has 1.2K answers and 1M answer views\n\u00a0\u00b7\u00a0\nOriginally Answered:  \u00b7\nMaybe because you're aiming it better. Your remote is just a flashlight. It's flashing a fast code the TV or whatever understands. Color is infra red, just lower/longer than red you can see, but it's just light. If it's aimed right at the receptor, your face or anything else close will have no effect.\nIf you want to see the light, open the camera on your phone or iPad. It can see it. Watch the screen, turn the lights low, and you'll be able to see the remote beam on the walls and stuff. Easy way to check and see if your remote is working.\nUpvote \u00b7\n92\n]\nAN/CRM-114 Maintenance Instructor (civ) at 843 Bomb Wing (Heavy) , Burpleson AFB (1959\u2013present) \u00b7 Author has 4.4K answers and 38.6M answer views\n\u00a0\u00b7\u00a0\nOriginally Answered:  \u00b7\nI think you\u2019re raising the antenna higher, which would increase the \u201cradio horizon\u201d for frequencies like VHF and some UHF that propagate in straight lines.\nIf it\u2019s an RF remote, there may be some resonance with your head that could increate the effective transmit power. Your body has a lot of salt that makes it at least partially conductive.\nIR remotes are still the most common - and they are line of sight.\n!\nContinue Reading\nI think you\u2019re raising the antenna higher, which would increase the \u201cradio horizon\u201d for frequencies like VHF and some UHF that propagate in straight lines.\nIf it\u2019s an RF remote, there may be some resonance with your head that could increate the effective transmit power...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Quora is a question-and-answer platform where users can ask questions and receive answers from community members. While some responses may be insightful and come from knowledgeable individuals, the platform does not guarantee accuracy or reliability. Misinformation can spread easily, so while it can be helpful for gathering opinions, it should not be relied upon for factual verification."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-09-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This Quora post provides anecdotal answers and hints at some radio physics principles but lacks depth in explaining why it works. Thus, it contributes some context but does not significantly inform the understanding of the phenomenon."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Why does holding a key fob to your head increase its range ...",
+                "htmlTitle": "Why <b>does holding</b> a key fob to your <b>head increase</b> its range ...",
+                "link": "https://news.ycombinator.com/item?id=38921441",
+                "displayLink": "news.ycombinator.com",
+                "snippet": "A more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.",
+                "htmlSnippet": "A more likely theory <b>is</b> that the fob transmitter (and antenna) <b>is</b> tuned to put out max <b>signal</b> when near the body. This <b>is</b> it&#39;s normal use.",
+                "formattedUrl": "https://news.ycombinator.com/item?id=38921441",
+                "htmlFormattedUrl": "https://news.ycombinator.com/item?id=38921441",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "viewport": "width=device-width, initial-scale=1.0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Hacker News new | past | comments | ask | show | jobs | submit\tlogin\n\tWhy does holding a key fob to your head increase its range? (physics.stackexchange.com)\n\t603 points by jasonhansel 6 months ago | hide | past | favorite | 147\u00a0comments\nJohnythree 6 months ago | next \nA more likely theory is that the fob transmitter (and antenna) is tuned to put out max signal when near the body. This is it's normal use.\nIf however you tested it with the fob somewhat isolated it would then be out of tune.\neg in the factory it would be tuned at a set distance from a \"dummy body\".\nIt's the same with a walkie-talkie radio. The antenna must be tuned when held in the hand, as your body provides the missing earth or ground-plane.\nYou can easily demonstrate this. Mount an antenna on a ground-plane with a length of coax, a SWR meter and a transmitter. Tune the antenna so the SWR is 1:1 and then move you hand close to the antenna. Once your hand gets withing a wavelength or so, the effect of the \"detuning\" can be readily seen on the SWR meter.\njpk 6 months ago | parent | next \nThis reminds me of a class in college where one project was to make a waveguide WiFi antenna. You know the ones; often built out of a Pringles can.\nOn the day the project was due, we each demo'd our antennas and the instructor recorded their range, SNR, etc. Most in the class followed the Pringles...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Although primarily a discussion platform for tech and startup news, the quality of discussions can vary widely. Users often share links to quality content, but the site primarily aggregates content rather than verifying it. While tech-savvy, it doesn\u2019t offer dedicated checks for accuracy, so while you might find good insights, consider it more of a mixed bag."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This Hacker News post suggests that the transmitter of the key fob is likely tuned to output a stronger signal when near the body due to the effects of tuning and resonance. This explanation provides a scientific basis for the amplification effect, making it very relevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Hearing Aids \u2014 Styles/Types & How They Work | NIDCD",
+                "htmlTitle": "Hearing Aids \u2014 Styles/Types &amp; How They Work | NIDCD",
+                "link": "https://www.nidcd.nih.gov/health/hearing-aids",
+                "displayLink": "www.nidcd.nih.gov",
+                "snippet": "Oct 11, 2022 ... The hearing aid receives sound through a microphone, which converts the sound waves to electrical signals and sends them to an amplifier. The\u00a0...",
+                "htmlSnippet": "Oct 11, 2022 <b>...</b> The hearing aid receives sound through a microphone, which converts the sound <b>waves</b> to electrical <b>signals</b> and sends them to an <b>amplifier</b>. The&nbsp;...",
+                "formattedUrl": "https://www.nidcd.nih.gov/health/hearing-aids",
+                "htmlFormattedUrl": "https://www.nidcd.nih.gov/health/hearing-aids",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxP5D0TVeB0mCBhiwyl_nwna_mYqWIldSZz7-Ze-61n6ZpgMlCel0dRuM&s",
+                            "width": "433",
+                            "height": "116"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary",
+                            "twitter:title": "Hearing Aids",
+                            "og:site_name": "NIDCD",
+                            "twitter:site:id": "@nidcd",
+                            "handheldfriendly": "true",
+                            "og:title": "Hearing Aids",
+                            "og:description": "On this page:",
+                            "twitter:creator": "@nidcd",
+                            "twitter:image": "https://www.nidcd.nih.gov/sites/default/files/Site%20Branding%20Images/nidcd-logo.png",
+                            "twitter:image:alt": "NIDCD logo",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "A hearing aid is a small electronic device that you wear in or behind your ear. It makes some sounds louder so that a person with hearing loss can listen, communicate, and participate more fully in daily activities.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.nidcd.nih.gov/health/hearing-aids"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nidcd.nih.gov/sites/default/themes/nidcd/images/NIDCD-Header-Logo-Tagline.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "What is a hearing aid?\n----------------------\nA hearing aid is a small electronic device that you wear in or behind your ear. It makes some sounds louder so that a person with hearing loss can listen, communicate, and participate more fully in daily activities. A hearing aid can help people hear more in both quiet and noisy situations. However, only about one out of five people who would benefit from a hearing aid actually uses one.\nA hearing aid has three basic parts: a microphone, amplifier, and speaker. The hearing aid receives sound through a microphone, which converts the sound waves to electrical signals and sends them to an amplifier. The amplifier increases the power of the signals and then sends them to the ear through a speaker.\nHow can hearing aids help?\n--------------------------\nHearing aids are primarily useful in improving the hearing and speech comprehension of people who have hearing loss that results from damage to the small sensory cells in the inner ear, called hair cells. This type of hearing loss is called sensorineural hearing loss. The damage can occur as a result of disease, aging, or injury from noise or certain medicines.\nA hearing aid magnifies sound vibrations entering the ear. Surviving hair cells detect the larger vibrations and convert them into neural signals that are passed along to the brain. The greater the damage to a person\u2019s hair cells, the more severe the hearing loss, and the greater the hearing aid amplification needed to make up the difference. However, there are practical limits to the amount of amplification a hearing aid can provide. In addition, if the inner ear is too damaged, even large vibrations will not be converted into neural signals. In this situation, a hearing aid would be ineffective.\nWhere can I get help with my hearing loss?\n------------------------------------------\nIf you or an adult family member have questions or concerns about hearing loss, you have options.  are a new category of hearing...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "The National Institute on Deafness and Other Communication Disorders is a reputable government source providing scientifically validated information. It has excellent credibility and expertise in communications, making it a strong source for understanding the principles of signal transmission, including electromagnetic waves, which could relate to the claim."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-11"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This document discusses the function of hearing aids and does not relate to key fobs or the scientific principles associated with their effective range, leading to a score that reflects its irrelevance."
+                }
+            }
+        }
+    ]
+}

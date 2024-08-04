@@ -1,0 +1,682 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Walmart water turns to jelly news report",
+                "totalResults": "5410000",
+                "searchTerms": "Walmart water turns to jelly news report",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Walmart water turns to jelly news report",
+                "totalResults": "5410000",
+                "searchTerms": "Walmart water turns to jelly news report",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.427688,
+        "formattedSearchTime": "0.43",
+        "totalResults": "5410000",
+        "formattedTotalResults": "5,410,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Walmart offers way to turn leftover opioids into useless gel",
+                "htmlTitle": "<b>Walmart</b> offers way to <b>turn</b> leftover opioids <b>into</b> useless <b>gel</b>",
+                "link": "https://www.statnews.com/2018/01/17/walmart-leftover-opioids-gel/",
+                "displayLink": "www.statnews.com",
+                "snippet": "Jan 17, 2018 ... The small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns ...",
+                "htmlSnippet": "Jan 17, 2018 <b>...</b> The small packets, made by DisposeRX, contain a powder that is poured <b>into</b> prescription bottles. When mixed with warm <b>water</b>, the powder <b>turns</b>&nbsp;...",
+                "formattedUrl": "https://www.statnews.com/2018/01/17/walmart-leftover-opioids-gel/",
+                "htmlFormattedUrl": "https://www.stat<b>news</b>.com/2018/01/17/<b>walmart</b>-leftover-opioids-gel/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu7lpBaFnxHpr1rakqyrllNigOlw-jucIYG_YOyUFkUVbb68NRdCNBeD4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "bc:authors": "Associated Press",
+                            "og:image": "https://www.statnews.com/wp-content/uploads/2017/09/AP_17228537565688-1024x576.jpg",
+                            "apple-itunes-app": "app-id=1324796990",
+                            "article:published_time": "2018-01-17T14:40:58+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "STAT",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "bc:tags": "opioids",
+                            "msapplication-tileimage": "https://www.statnews.com/wp-content/uploads/2023/06/cropped-STAT-Favicon-Round-270x270.png",
+                            "og:description": "Walmart is helping customers get rid of leftover opioids by giving them packets that turn the addictive painkillers into a useless gel.",
+                            "twitter:creator": "@statnews",
+                            "article:publisher": "https://www.facebook.com/statnews/",
+                            "twitter:data1": "Associated Press",
+                            "twitter:data2": "2 minutes",
+                            "bc:headline": "Walmart offers way to turn leftover opioids into useless gel",
+                            "twitter:site": "@statnews",
+                            "article:modified_time": "2023-07-25T01:48:57+00:00",
+                            "bc:thumbnail": "https://www.statnews.com/wp-content/uploads/2017/09/AP_17228537565688-80x80.jpg",
+                            "bc:card": "https://www.statnews.com/wp-content/uploads/2017/09/AP_17228537565688-768x432.jpg",
+                            "og:type": "article",
+                            "cxenseparse:pageclass": "article",
+                            "author": "Associated Press",
+                            "addsearch-custom-field": "asset_type=story page",
+                            "og:title": "Walmart offers way to turn leftover opioids into useless gel",
+                            "og:image:height": "576",
+                            "bc:restricted": "0",
+                            "bc:primarycategoryurl": "https://www.statnews.com/category/health/",
+                            "referrer": "origin",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.statnews.com/2018/01/17/walmart-leftover-opioids-gel/",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.statnews.com/wp-content/uploads/2017/09/AP_17228537565688-1024x576.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   Disease\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Features\n    *   \n    *   \n    *   \nColumns\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nDon't miss out\nSubscribe to STAT+ today, for the best life sciences journalism in the industry\nWalmart offers way to turn leftover opioids into useless gel\n============================================================\n_By_ Associated PressJan. 17, 2018\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n   !\nWalmart is helping customers get rid of leftover opioids by giving them packets that turn the painkillers into a useless gel. Patrick Sison/AP\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nWalmart is helping customers get rid of leftover opioids by giving them packets that turn the addictive painkillers into a useless gel.\nThe retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.\nadvertisement\nThe small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns the pills into a biodegradable gel that can be thrown in the trash.\nIt works on other prescription drugs and for pills, tablets, capsules, liquids or patches, according to DisposeRx.\n----------------------------------------------------------------------------------------------------------------------------------------------------------------\nAround 4 million Americans are addicted to prescription painkillers, according to the Drug Enforcement Administration. The agency says these drugs are often obtained from friends and family who leave them in home medicine cabinets.\nadvertisement\nResearch has shown that surgery patients often end up with  and store them improperly at home. Authorities say opioid painkillers should be kept in their original packaging and locked inside a cabinet out of the reach of children.\nWalmart says its pharmacy customers can request a free packet at any time. The company also will offer patients with a chronic opioid prescription a packet every six months.\nPainkiller maker Mallinckrodt PLC has a similar program. It said last fall that it has donated about 1.5 million drug disposal pouches across the country and will increase that total to 2 million early this year.\nSign up for Morning Rounds\n--------------------------\nYour daily dose of news in health and medicine.\nPlease enter a valid email address.\nSome drugstore chains like CVS and Walgreens also collect unused medications at many of their stores. People can also take leftovers to hospital pharmacies or police stations.\nUnused prescriptions also can...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Walmart offers way to turn leftover opioids into useless gel ...",
+                "htmlTitle": "<b>Walmart</b> offers way to <b>turn</b> leftover opioids <b>into</b> useless <b>gel</b> ...",
+                "link": "https://www.13newsnow.com/article/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/291-508785771",
+                "displayLink": "www.13newsnow.com",
+                "snippet": "Jan 17, 2018 ... The small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns ...",
+                "htmlSnippet": "Jan 17, 2018 <b>...</b> The small packets, made by DisposeRX, contain a powder that is poured <b>into</b> prescription bottles. When mixed with warm <b>water</b>, the powder <b>turns</b>&nbsp;...",
+                "formattedUrl": "https://www.13newsnow.com/article/news/walmart.../291-508785771",
+                "htmlFormattedUrl": "https://www.13<b>news</b>now.com/article/<b>news</b>/<b>walmart</b>.../291-508785771",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgoov1DLZR3CPU6NUn7HEX79_zhsL07nTS8cFIvF6thPCVdZ6hpjgDqK0&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1453203448",
+                            "og:image": "https://media.13newsnow.com/assets/WVEC/images/501317911/501317911_1140x641.jpg",
+                            "theme-color": "#045ea8",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "13newsnow.com",
+                            "og:description": "The retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.",
+                            "twitter:image": "https://media.13newsnow.com/assets/WVEC/images/501317911/501317911_1140x641.jpg",
+                            "twitter:site": "13NewsNow",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "13newsnow,news,health,facebook-instant",
+                            "twitter:title": "Walmart offers way to turn leftover opioids into useless gel",
+                            "twitter:domain": "www.13newsnow.com/",
+                            "og:title": "Walmart offers way to turn leftover opioids into useless gel",
+                            "og:image:height": "641",
+                            "og:article:published_time": "1/17/2018 9:07:52 AM",
+                            "twitter:image:src": "https://media.13newsnow.com/assets/WVEC/images/501317911/501317911_1140x641.jpg",
+                            "site": "13newsnow.com",
+                            "fb:app_id": "202186816999542",
+                            "viewport": "width=device-width",
+                            "twitter:description": "The retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.13newsnow.com/article/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/291-508785771",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.13newsnow.com/assets/WVEC/images/501317911/501317911_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...]\n        #### \n*   \n*   \n*   ]\n*   \n    Search:  Search\n Norfolk, VA »]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBreaking News\nWalmart offers way to turn leftover opioids into useless gel\n============================================================\nThe retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.\n! !\nCredit: smartstock / Thinkstock\nA bottle with a hydrocodone (the generic name for drug sold under other names by various pharmaceutical companies) label and hydrocodone tablets.\nAuthor: Associated Press\nPublished: 9:07 AM EST January 17, 2018\nUpdated: 9:09 AM EST January 17, 2018\n]\nWalmart is helping customers get rid of leftover opioids by giving them packets that turn the addictive painkillers into a useless gel.\nThe retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.\nThe small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns the pills into a biodegradable gel that can be thrown in the trash.\nResearch has shown that surgery patients often end up with leftover opioid painkillers and store the drugs improperly at home\nWalmart says the powder also works with other prescription drugs. The company says its pharmacy customers can request a free packet at any time.\nClose Ad\n#### More Videos\n!\nNext up in 5\nExample video title will go here for this video\n*   !\n    Next up in 5\n    Example video title will go here for this video\n*   !\n*   !\n*   !\n*   !\nIn Other News\n#### U.S. Federal Reserve expected to cut interest rates soon\nBefore You Leave, Check This Out\n--------------------------------\n!\n!\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n© 2024 WVEC-TV. All Rights Reserved.\n!\nWVEC would like to send you push notifications about the latest news and weather.\n---------------------------------------------------------------------------------\nNotifications can be turned off anytime in the browser settings.\nNo Thanks Allow",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Amazon and Walmart Say They Will Stop Selling Water Beads ...",
+                "htmlTitle": "Amazon and <b>Walmart</b> Say They Will Stop Selling <b>Water</b> Beads ...",
+                "link": "https://www.consumerreports.org/babies-kids/toys/amazon-to-stop-selling-water-bead-toys-a2333261526/",
+                "displayLink": "www.consumerreports.org",
+                "snippet": "Jan 8, 2024 ... 22. The company says that the popular water bead brand Orbeez will now be prohibited and that water beads sold as ammunition for “gel blaster” ...",
+                "htmlSnippet": "Jan 8, 2024 <b>...</b> 22. The company says that the popular <b>water</b> bead brand Orbeez will now be prohibited and that <b>water</b> beads sold as ammunition for “<b>gel</b> blaster”&nbsp;...",
+                "formattedUrl": "https://www.consumerreports.org/.../amazon-to-stop-selling-water-bead-toy...",
+                "htmlFormattedUrl": "https://www.consumer<b>report</b>s.org/.../amazon-to-stop-selling-<b>water</b>-bead-toy...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb78ecZHHnRrOU6rapb4QwGQSOjDJ0AkVz6tuTHEAvFmMpgx-6fNJFVRk2&s",
+                            "width": "168",
+                            "height": "300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "article",
+                            "og:image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1702481059/prod/content/dam/CRO-Images-2023/12December/Special-Projects/CR-SP-InlineHero-Water-Bead-followup-retailer-response-12-23-V3",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Amazon, Target, and Walmart Announce They Will Stop Selling Water Beads Marketed for Children via @ConsumerReports",
+                            "og:site_name": "Consumer Reports",
+                            "og:title": "Amazon, Target, and Walmart Announce They Will Stop Selling Water Beads Marketed for Children - Consumer Reports",
+                            "og:description": "Amazon and Walmart say they will stop the sale of water beads that are marketed for kids; the toys have been linked to deaths and injuries in children.",
+                            "twitter:image": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1702481059/prod/content/dam/CRO-Images-2023/12December/Special-Projects/CR-SP-InlineHero-Water-Bead-followup-retailer-response-12-23-V3",
+                            "last-modified": "2024-01-08T15:22Z",
+                            "fb:app_id": "551478298314138",
+                            "parsely-tags": "PS|toys,PS|water beads,BO|amazon,BO|ebay,SU|advertising & marketing,SU|product safety,BO|consumer product safety commission,BO|walmart,PS|baby & toddler,BO|target,SU|child safety,|advice/tips (outside of products & services)",
+                            "twitter:site": "@consumerreports",
+                            "viewport": "width=device-width, user-scalable=yes, initial-scale=1",
+                            "twitter:description": "Amazon and Walmart say they will stop the sale of water beads that are marketed for kids; the toys have been linked to deaths and injuries in children.",
+                            "og:locale": "en_US",
+                            "publishdate": "2023-12-12T15:45Z",
+                            "og:url": "https://www.consumerreports.org/babies-kids/toys/amazon-to-stop-selling-water-bead-toys-a2333261526/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3259389353670601294"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\n                \n\n                        Home Improvement\n                    \n\n                    Home Improvement Essential\n                \n\n                    Best Wood Stains\n                \n\n                        Home Safety & Security\n                    \n\n                    HOME SAFETY\n                \n\n                    Best DIY Home Security Systems\n                \n\n                                    Appliances\n                                \n\n                        Kitchen\n                    \n\n                    REPAIR OR REPLACE?\n                \n\n                    What to Do With a Broken Appliance\n                \n\n                        Small Appliances\n                    \n\n                    TOP PICKS FROM CR\n                \n\n                    Best Small Kitchen Appliances\n                \n\n                        Laundry & Cleaning\n                    \n\n                    Top Picks From CR\n                \n\n                    Best Washing Machines\n                \n\n                        Heating, Cooling & Air\n                    \n\n                    TOP PICKS FROM CR\n                \n\n                    Most Reliable Central Air-Conditioning Systems\n                \n\n                                    Electronics\n                                \n\n                        Home Entertainment\n                    \n\n                    FIND YOUR NEW TV\n                \n\n                    Best TVs\n                \n\n                        Home Office\n                    \n\n                    Save Money\n                \n\n                    Cheapest Printers for Ink Costs\n                \n\n                        Smartphones & Wearables\n                    \n\n                    BEST SMARTPHONES\n                \n\n                    Find the Right Phone for You\n                \n\n                        Digital Security & Privacy\n                    \n\n                    MEMBER BENEFIT\n                \n\n                    CR Security Planner\n                \n\n                More\n            \n\n                            Take Action\n                        \nThe retailers, along with Michaels and others, acted after pressure from regulators, lawmakers, and parent advocates\nAmid mounting pressure, Amazon, Walmart, and Target tell Consumer Reports that they have changed their policies on water beads: The companies will no longer allow the products to be sold if they are being marketed for children. \n“In the interest of safety, Amazon will no longer allow the sale of water beads that are marketed to children, including as toys, art supplies, or for sensory play,” an Amazon spokesperson told CR. “We work hard to ensure the products offered in our store are safe, and we have teams dedicated to developing and updating our policies, evaluating listings, and continuously monitoring our store to prevent unsafe and noncompliant products from being listed.”\nAmazon’s sellers will have to comply with the new policy by Dec. 22. The company says that the popular water bead brand Orbeez will now be prohibited and that water beads sold as ammunition for “gel blaster” guns will not be allowed if they are marketed for children.\nWalmart tells CR it will prohibit the sale of all water bead toys and craft supplies that are marketed for children under age 9, both in stores and online.\nTarget initially declined to comment, but after the publication of this story, the company told CR that it has also decided to change its policy regarding water beads.\n“At Target, our top priority is the safety of our guests,” said Emily Bisek, a Target spokesperson. “Given growing safety...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Walmart offers way to turn leftover opioids into useless gel",
+                "htmlTitle": "<b>Walmart</b> offers way to <b>turn</b> leftover opioids <b>into</b> useless <b>gel</b>",
+                "link": "https://www.boston.com/news/business/2018/01/17/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                "displayLink": "www.boston.com",
+                "snippet": "Jan 17, 2018 ... Walmart announced new moves Monday, Oct. 9, 2017, to speed up the ... When mixed with warm water, the powder turns the pills into a ...",
+                "htmlSnippet": "Jan 17, 2018 <b>...</b> <b>Walmart</b> announced <b>new</b> moves Monday, Oct. 9, 2017, to speed up the ... When mixed with warm <b>water</b>, the powder <b>turns</b> the pills <b>into</b> a&nbsp;...",
+                "formattedUrl": "https://www.boston.com/news/.../walmart-offers-way-to-turn-leftover-opioi...",
+                "htmlFormattedUrl": "https://www.boston.com/<b>news</b>/.../<b>walmart</b>-offers-way-to-turn-leftover-opioi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzEBGoVZkM2oX4GFXEjfCwBmyPdgGOreOi7xfvr2erwaz6YJhTYnt1is&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://bdc2020.o0bc.com/wp-content/uploads/2017/11/d0058f3c9d3d496ebb630f3aaaab297e-d0058f3c9d3d496ebb630f3aaaab297e-0-768x432.jpg",
+                            "article:published_time": "1970-01-01T00:00:00+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Boston.com",
+                            "tec-api-origin": "https://www.boston.com",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://bdc2020.o0bc.com/wp-content/uploads/2021/05/BDC_Logo_2020_Social_WhiteBG-609c79a967eee.png",
+                            "og:description": "Walmart giving pharmacy customers packet that turns leftover opioids into useless gel",
+                            "twitter:creator": "@BostonDotCom",
+                            "article:publisher": "https://www.facebook.com/boston",
+                            "twitter:image": "https://bdc2020.o0bc.com/wp-content/uploads/2017/11/d0058f3c9d3d496ebb630f3aaaab297e-d0058f3c9d3d496ebb630f3aaaab297e-0-768x432.jpg",
+                            "twitter:data1": "Associated Press",
+                            "twitter:data2": "2 minutes",
+                            "twitter:site": "@BostonDotCom",
+                            "article:modified_time": "2018-01-17T17:34:25+00:00",
+                            "article:content_tier": "free",
+                            "tec-api-version": "v1",
+                            "og:type": "article",
+                            "author": "Associated Press",
+                            "og:title": "Walmart offers way to turn leftover opioids into useless gel",
+                            "og:image:height": "769",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.boston.com/news/business/2018/01/17/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://bdc2020.o0bc.com/wp-content/uploads/2017/11/d0058f3c9d3d496ebb630f3aaaab297e-d0058f3c9d3d496ebb630f3aaaab297e-0-768x432.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n*   \n*   \n*   \nWalmart offers way to turn leftover opioids into useless gel\n============================================================\n!\nFILE - In an Aug. 26, 2016, file photo, people walk in and out of a Walmart store, in Dallas. Walmart announced new moves Monday, Oct. 9, 2017, to speed up the return process for online purchases, including letting some shoppers keep the stuff they don‚Äôt want and still get a refund. (AP Photo/Tony Gutierrez, File) _Tony Gutierrez / AP, File_\nBy The Associated Press, Associated Press\nJanuary 17, 2018\n*   \n*   \n*   \n*   Email\n*   \nWalmart is helping customers get rid of leftover opioids by giving them packets that turn the addictive painkillers into a useless gel.\nThe retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.\nThe small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns the pills into a biodegradable gel that can be thrown in the trash.\nIt works on other prescription drugs and for pills, tablets, capsules, liquids or patches, according to DisposeRx.\nAround 4 million Americans are addicted to prescription painkillers, according to the U.S. Drug Enforcement Administration. The agency says these drugs are often obtained from friends and family who leave them in home medicine cabinets.\nAdvertisement:\nResearch has shown that surgery patients often end up with leftover opioid painkillers and store them improperly at home. Authorities say opioid painkillers should be kept in their original packaging and locked inside a cabinet out of the reach of children.\nWalmart says its pharmacy customers can request a free packet at any time. The company also will offer patients with a chronic opioid prescription a packet every six months.\nPainkiller maker...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Walmart Offers Way To Turn Leftover Opioids Into Useless Gel - CBS ...",
+                "htmlTitle": "<b>Walmart</b> Offers Way To <b>Turn</b> Leftover Opioids <b>Into</b> Useless <b>Gel</b> - CBS ...",
+                "link": "https://www.cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                "displayLink": "www.cbsnews.com",
+                "snippet": "Jan 17, 2018 ... The small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns ...",
+                "htmlSnippet": "Jan 17, 2018 <b>...</b> The small packets, made by DisposeRX, contain a powder that is poured <b>into</b> prescription bottles. When mixed with warm <b>water</b>, the powder <b>turns</b>&nbsp;...",
+                "formattedUrl": "https://www.cbsnews.com/.../news/walmart-offers-way-to-turn-leftover-opi...",
+                "htmlFormattedUrl": "https://www.cbs<b>news</b>.com/.../<b>news</b>/<b>walmart</b>-offers-way-to-turn-leftover-opi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbsgvJT3a1Qck_liAu4JIYTIs-6k1Cv9gOHX1UINOA23Gym2UiuoIJjvGu&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets1.cbsnewsstatic.com/hub/i/r/2013/06/17/ce99e643-e578-4b6b-8d84-57d465b963ed/thumbnail/1200x630/de6cbcab8084e13388fe53df9f8ee210/prescription-medicine_85554577.jpg?v=d7dedd293aad546f97f947149642d369",
+                            "twitter:app:url:iphone": "cbsnewsapp://cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "twitter:app:id:googleplay": "com.treemolabs.apps.cbsnews",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#101010",
+                            "twitter:app:url:ipad": "cbsnewsapp://cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "apple-mobile-web-app-title": "CBS News",
+                            "al:android:package": "com.treemolabs.apps.cbsnews",
+                            "twitter:app:name:googleplay": "CBS News",
+                            "al:ios:url": "cbsnewsapp://cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "twitter:app:id:iphone": "334256223",
+                            "og:description": "The retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.",
+                            "al:ios:app_store_id": "334256223",
+                            "article:publisher": "https://www.facebook.com/CBSNewsTexas/",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://assets1.cbsnewsstatic.com/hub/i/r/2013/06/17/ce99e643-e578-4b6b-8d84-57d465b963ed/thumbnail/1200x630/de6cbcab8084e13388fe53df9f8ee210/prescription-medicine_85554577.jpg?v=d7dedd293aad546f97f947149642d369",
+                            "twitter:site": "@CBSNewsTexas",
+                            "news_keywords": "Walmart",
+                            "twitter:app:country": "US",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "twitter:title": "Walmart Offers Way To Turn Leftover Opioids Into Useless Gel",
+                            "al:ios:app_name": "CBS News",
+                            "og:title": "Walmart Offers Way To Turn Leftover Opioids Into Useless Gel",
+                            "og:image:height": "630",
+                            "twitter:app:id:ipad": "334256223",
+                            "color-scheme": "only light",
+                            "al:web:url": "https://www.cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "fb:pages": "108571612499317",
+                            "al:android:url": "cbsnewsapp://cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "fb:app_id": "1536620209892267",
+                            "twitter:app:url:googleplay": "cbsnewsapp://cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:app:name:ipad": "CBS News",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0",
+                            "twitter:description": "The retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://www.cbsnews.com/texas/news/walmart-offers-way-to-turn-leftover-opioids-into-useless-gel/",
+                            "al:android:app_name": "CBS News",
+                            "twitter:app:name:iphone": "CBS News",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets1.cbsnewsstatic.com/hub/i/r/2013/06/17/ce99e643-e578-4b6b-8d84-57d465b963ed/thumbnail/1200x630/de6cbcab8084e13388fe53df9f8ee210/prescription-medicine_85554577.jpg?v=d7dedd293aad546f97f947149642d369"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n]\nWalmart Offers Way To Turn Leftover Opioids Into Useless Gel\n============================================================\n] January 17, 2018 / 5:27 AM CST / CBS Texas\n*   \n*   \n*   \nWalmart is helping customers get rid of leftover opioids by giving them packets that turn the addictive painkillers into a useless gel.\nThe retail giant announced Wednesday that it will provide the packets free with opioid prescriptions filled at its 4,700 U.S. pharmacies.\nThe small packets, made by DisposeRX, contain a powder that is poured into prescription bottles. When mixed with warm water, the powder turns the pills into a biodegradable gel that can be thrown in the trash.\nResearch has shown that surgery patients often end up with leftover opioid painkillers and store the drugs improperly at home  \nWalmart says the powder also works with other prescription drugs.\nThe company says its pharmacy customers can request a free packet at any time.\n_(© Copyright 2018 The Associated Press. All Rights Reserved. This material may not be published, broadcast, rewritten or redistributed.)_\n### More from CBS News\n Chevron moving its headquarters from California to Texas]\n Expect more drone deliveries in North Texas soon]\n Dozens of United Way volunteers help out Dallas ISD school]\n Saharan dust continues to linger over Dallas-Fort Worth, creating hazy skies]\n 2-year-old reported kidnapped in North Texas found safe: Police]\nIn:*   \n© 2018 CBS Broadcasting Inc. All Rights Reserved.\n### Featured Local Savings...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "K-Y Jelly Personal Lubricant, Water Based Lube For Sexual ...",
+                "htmlTitle": "K-Y <b>Jelly</b> Personal Lubricant, <b>Water</b> Based Lube For Sexual ...",
+                "link": "https://www.walmart.com/ip/K-Y-Jelly-Personal-Lubricant-Water-Based-Lube-For-Sexual-Wellness-Vaginal-Moisturizer-5-fl-oz/41737351",
+                "displayLink": "www.walmart.com",
+                "snippet": "Buy K-Y Jelly Personal Lubricant, Water Based Lube For Sexual Wellness, Vaginal Moisturizer, 5 fl oz at Walmart.com.",
+                "htmlSnippet": "Buy K-Y <b>Jelly</b> Personal Lubricant, <b>Water</b> Based Lube For Sexual Wellness, Vaginal Moisturizer, 5 fl oz at <b>Walmart</b>.com.",
+                "formattedUrl": "https://www.walmart.com/ip/K-Y-Jelly-Personal...Water.../41737351",
+                "htmlFormattedUrl": "https://www.<b>walmart</b>.com/ip/K-Y-<b>Jelly</b>-Personal...<b>Water</b>.../41737351",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdagFvWzvyzsKnFS5aFT0I_iodoJAwV2u21lJG78T4ot1VCZEDnkpLj193&s",
+                            "width": "224",
+                            "height": "224"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i5.walmartimages.com/seo/K-Y-Jelly-Personal-Lubricant-Water-Based-Lube-For-Sexual-Wellness-Vaginal-Moisturizer-5-fl-oz_80271b26-391d-4e57-8b8f-61d42b6d5c99.6a78096f530a624d5ba73ae26d0497f6.jpeg",
+                            "next-head-count": "18",
+                            "fb:app_id": "105223049547814",
+                            "og:type": "product.item",
+                            "og:site_name": "Walmart.com",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1, interactive-widget=resizes-content",
+                            "og:title": "K-Y Jelly Personal Lubricant, Water Based Lube For Sexual Wellness, Vaginal Moisturizer, 5 fl oz - Walmart.com",
+                            "og:url": "https://www.walmart.com/ip/K-Y-Jelly-Personal-Lubricant-Water-Based-Lube-For-Sexual-Wellness-Vaginal-Moisturizer-5-fl-oz/41737351",
+                            "og:description": "Buy K-Y Jelly Personal Lubricant, Water Based Lube For Sexual Wellness, Vaginal Moisturizer, 5 fl oz at Walmart.com"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i5.walmartimages.com/seo/K-Y-Jelly-Personal-Lubricant-Water-Based-Lube-For-Sexual-Wellness-Vaginal-Moisturizer-5-fl-oz_80271b26-391d-4e57-8b8f-61d42b6d5c99.6a78096f530a624d5ba73ae26d0497f6.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Robot or human?\n===============\nRobot or human?\n===============\nActivate and hold the button to confirm that you’re human. Thank You!\n* * *\n©2024 Walmart Stores, Inc.",
+                    "content_tokens": 36
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Walmart Launches Groundbreaking Disposal Solution to Aid in Fight ...",
+                "htmlTitle": "<b>Walmart</b> Launches Groundbreaking Disposal Solution to Aid in Fight ...",
+                "link": "https://corporate.walmart.com/news/2018/01/17/walmart-launches-groundbreaking-disposal-solution-to-aid-in-fight-against-opioid-abuse-and-misuse",
+                "displayLink": "corporate.walmart.com",
+                "snippet": "Jan 17, 2018 ... * Known as DisposeRx, the small packet contains ingredients that, according to the manufacturer, when emptied into a pill bottle with warm water ...",
+                "htmlSnippet": "Jan 17, 2018 <b>...</b> * Known as DisposeRx, the small packet contains ingredients that, according to the manufacturer, when emptied <b>into</b> a pill bottle with warm <b>water</b>&nbsp;...",
+                "formattedUrl": "https://corporate.walmart.com/news/.../walmart-launches-groundbreaking-d...",
+                "htmlFormattedUrl": "https://corporate.<b>walmart</b>.com/<b>news</b>/.../<b>walmart</b>-launches-groundbreaking-d...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75L720m4xn4YSnZckk6bBfbgh45EfFvb-RRbdQDMlBWP5jA_Zecm5gg&s",
+                            "width": "35",
+                            "height": "37"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "News",
+                            "og:image": "https://corporate.walmart.com/content/dam/corporate/site-images/spark.svg",
+                            "og:type": "website",
+                            "twitter:title": "Walmart Launches Groundbreaking Disposal Solution to Aid in Fight Against Opioid Abuse and Misuse",
+                            "twitter:card": "summary_large_image",
+                            "og:title": "Walmart Launches Groundbreaking Disposal Solution to Aid in Fight Against Opioid Abuse and Misuse",
+                            "useshorturls": "/content/corporate/en_us",
+                            "og:description": "En español »BENTONVILLE, Ark. – January 17, 2018 – In an effort to help curb abuse and misuse, Walmart is launching a first-of-its kind opioid disposal solution – available at no cost – in all company pharmacies.* Known as DisposeRx, the small packet contains ingredients that, according to the manufacturer, when emptied into a pill bottle with…",
+                            "og:image:secure_url": "https://corporate.walmart.com/content/dam/corporate/site-images/spark.svg",
+                            "twitter:image": "https://corporate.walmart.com/content/dam/corporate/site-images/spark.svg",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "En español »BENTONVILLE, Ark. – January 17, 2018 – In an effort to help curb abuse and misuse, Walmart is launching a first-of-its kind opioid disposal solution – available at no cost – in all company pharmacies.* Known as DisposeRx, the small packet contains ingredients that, according to the manufacturer, when emptied into a pill bottle with…",
+                            "publishdate": "2018-01-17T21:45:25",
+                            "og:url": "https://corporate.walmart.com/news/2018/01/17/walmart-launches-groundbreaking-disposal-solution-to-aid-in-fight-against-opioid-abuse-and-misuse",
+                            "unique-id": "corporate-2018-8"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://corporate.walmart.com/content/dam/corporate/site-images/spark.svg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "articlebody": "Press Center View Press Center En español » BENTONVILLE, Ark. – January 17, 2018 – In an effort to help curb abuse and misuse, Walmart is launching a first-of-its kind opioid disposal..."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Jan. 17, 2018\nEn español »\nBENTONVILLE, Ark. – January 17, 2018 – In an effort to help curb abuse and misuse, Walmart is launching a first-of-its kind opioid disposal solution – available at no cost – in all company pharmacies.* Known as DisposeRx, the small packet contains ingredients that, according to the manufacturer, when emptied into a pill bottle with warm water, ultimately enable patients to responsibly dispose of leftover medications in their trash. \nAccording to the Substance Abuse and Mental Health Services Administration and the National Institute of Drug Abuse, more than 65 percent of people misusing prescription opioids are getting them from family and friends, and personal prescriptions are one of the main sources of nonmedical opioid abuse. DisposeRx provides a virtually effortless way for patients to destroy leftover opioids and a way to do so without ever leaving home. \nThe innovative disposal solution will now be provided in addition to ongoing counseling available to Walmart patients on proper opioid use when filling an opioid prescription at any one of its 4,700 pharmacies nationwide. Now, pharmacists can also counsel patients on how to use DisposeRx and distribute an opioid awareness brochure outlining risks and helpful resources. \n“The health and safety of our patients is a critical priority; that’s why we’re taking an active role in fighting our nation’s opioid issue – an issue that has affected so many families and communities across America,” said Marybeth Hays, executive vice president of Consumables and Health and Wellness at Walmart U.S. “While this issue requires many resources to solve, we are confident this unique, easy-to-use disposal solution, DisposeRx, will make a meaningful impact on the lives of many...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Help - Odd chicken texture - Food52",
+                "htmlTitle": "Help - Odd chicken texture - Food52",
+                "link": "https://food52.com/hotline/33382-help-odd-chicken-texture",
+                "displayLink": "food52.com",
+                "snippet": "Aug 24, 2016 ... Now that is absolutely disgusting and totally inhumane. It's enough to turn one off chicken forever! Upvote; Reply; Flag Inappropriate.",
+                "htmlSnippet": "Aug 24, 2016 <b>...</b> Now that is absolutely disgusting and totally inhumane. It&#39;s enough to <b>turn</b> one off chicken forever! Upvote; Reply; Flag Inappropriate.",
+                "formattedUrl": "https://food52.com/hotline/33382-help-odd-chicken-texture",
+                "htmlFormattedUrl": "https://food52.com/hotline/33382-help-odd-chicken-texture",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYNFESkBzrps6F6_0mDNISfvPvH8hmXbOgpk8lotIrslGBUBu5KPfA7UO&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://food52.com/assets/hotline/f52_logo.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "sailthru.date": "2016-08-24 12:50:08 -0400",
+                            "og:image": "https://food52.com/assets/hotline/f52_logo.jpg",
+                            "og:type": "food_prod:question",
+                            "thumbnail": "https://food52.com/assets/hotline/f52_logo.jpg",
+                            "og:site_name": "Food52",
+                            "twitter:site:id": "21769127",
+                            "sailthru.tags": "chicken,hotline",
+                            "msvalidate.01": "F298E853CF03751CAD3FE09E0A2FD491",
+                            "og:title": "Help - Odd chicken texture",
+                            "csrf-param": "authenticity_token",
+                            "fb:pages": "133148554015",
+                            "og:description": "I have been having an issue on and off with the texture of my chicken.  The chicken is fully cooked through (I can tell based on internal...",
+                            "fb:app_id": "174162069306426",
+                            "twitter:site": "@food52",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "csrf-token": "KltdaqhyfHVfe0wjAAGm208YTM96bImOvNrOUxVkY6bCaozmpSQKQ6WLKYTEf+XluWWzbCwiYVPGHaX2dS2L8Q==",
+                            "og:url": "https://food52.com/hotline/33382-help-odd-chicken-texture",
+                            "sailthru.author": "JessicaHansen"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://food52.com/assets/hotline/f52_logo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "I have been having an issue on and off with the texture of my chicken.  The chicken is fully cooked through (I can tell based on internal temp, time in the oven, color of the chicken and juices), but the texture of the chicken is funny, almost like it hasn't been thoroughly cooked.  When I cut into the chicken I feel resistance (like you would when butchering raw chicken rather than cutting/carving cooked chicken) and there is a strange almost squeaky mouth feel.  This has happened to me  with bone in, skin on chicken breasts and also skinless boneless breasts.  Usually when this happens to me, there are some pieces of chicken that are fine, but others that are decidedly not.  At first, I thought it was a result of cooking frozen chicken that hadn't fully thawed.  But last night, this happened when I roasted some never frozen bone in breasts from the fridge.  Could this have something to do with how I'm cooking the meat?  Or is it a sad byproduct of factory farmed chicken breasts?  Has anyone else had this problem?\nOur best tips for eating thoughtfully and living joyfully, right in your inbox.",
+                    "content_tokens": 245
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Shooting of teen in Goddard Walmart parking lot spotlights concerns ...",
+                "htmlTitle": "Shooting of teen in Goddard <b>Walmart</b> parking lot spotlights concerns ...",
+                "link": "https://www.kwch.com/2024/06/06/shooting-teen-goddard-walmart-parking-lot-spotlights-concerns-with-orbeez-challenge/",
+                "displayLink": "www.kwch.com",
+                "snippet": "Jun 5, 2024 ... New information ...",
+                "htmlSnippet": "Jun 5, 2024 <b>...</b> <b>New</b> information&nbsp;...",
+                "formattedUrl": "https://www.kwch.com/.../shooting-teen-goddard-walmart-parking-lot-spotl...",
+                "htmlFormattedUrl": "https://www.kwch.com/.../shooting-teen-goddard-<b>walmart</b>-parking-lot-spotl...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXxCVfXs-9w_MT47-ASwfB6jL4i6JVz9cZmkjAiDYrGOsiuE_BMTDXLy8&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/2TKQO6XBY5FD7CJNYF6JJ36RIU.png?auth=4d63f93429b003c8f120a880c98b78d719e81ca75a8a9cc66285c3eaa3f158a1&width=1200&height=600&smart=true",
+                            "apple-itunes-app": "app-id=1102846121",
+                            "copyright": "Copyright (c) 2024",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-06-06T03:33:12.618Z",
+                            "og:site_name": "https://www.kwch.com",
+                            "rating": "general",
+                            "distribution": "global",
+                            "og:description": "New information released Wednesday provides information into what police said led up to a shooting last month in the parking lot of the Goddard Walmart.",
+                            "twitter:creator": "@KWCH12",
+                            "article:sections_paths": "/news,/news/crime,/news/safety,/news/factfinder12",
+                            "article:publisher": "https://www.facebook.com/kwchnews/",
+                            "twitter:image": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/2TKQO6XBY5FD7CJNYF6JJ36RIU.png?auth=4d63f93429b003c8f120a880c98b78d719e81ca75a8a9cc66285c3eaa3f158a1&width=1200&height=600&smart=true",
+                            "twitter:site": "@KWCH12",
+                            "article:modified_time": "2024-06-06T03:33:12.618Z",
+                            "news_keywords": "\"Orbeez Challenge\",Orbeez gun,gel blaster,teen shot,Goddard Walmart,parking lot shooting,Wichita,Kansas,KWCH",
+                            "fb:admins": "644426401",
+                            "article:has_video": "true",
+                            "article:distributor_subcategory": "gray-original-content",
+                            "og:type": "article",
+                            "twitter:title": "Shooting of teen in Goddard Walmart parking lot spotlights concerns with ‘Orbeez Challenge’",
+                            "article:section": "News",
+                            "og:title": "Shooting of teen in Goddard Walmart parking lot spotlights concerns with ‘Orbeez Challenge’",
+                            "googlebot-news": "index",
+                            "fb:pages": "175112542420",
+                            "fb:app_id": "238829226505501",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width, minimum-scale=1, initial-scale=1",
+                            "twitter:description": "New information released Wednesday provides information into what police said led up to a shooting last month in the parking lot of the Goddard Walmart.",
+                            "og:locale": "en_US",
+                            "article:distributor_category": "staff",
+                            "article:distributor_name": "Gray TV Stations (English)",
+                            "og:url": "https://www.kwch.com/2024/06/06/shooting-teen-goddard-walmart-parking-lot-spotlights-concerns-with-orbeez-challenge/",
+                            "google-play-app": "app-id=com.newssynergy.kwch",
+                            "authors": "Branden Stitt,Matt Heilman"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gray-kwch-prod.cdn.arcpublishing.com/resizer/v2/2TKQO6XBY5FD7CJNYF6JJ36RIU.png?auth=4d63f93429b003c8f120a880c98b78d719e81ca75a8a9cc66285c3eaa3f158a1&width=1200&height=600&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Shooting of teen in Goddard Walmart parking lot spotlights concerns with ‘Orbeez Challenge’\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nDismiss Breaking News Alerts Bar\nShooting of teen in Goddard Walmart parking lot spotlights concerns with ‘Orbeez Challenge’\n===========================================================================================\nBy  and \nPublished: Jun. 5, 2024 at 10:33 PM CDT\nWICHITA, Kan. (KWCH) - New information released Wednesday provides information into what police said led up to . A document that 12 News obtained details circumstances surrounding the shooting of an 18-year-old and the arrest of 47-year-old Ruben Contreras.\nContreras is charged with attempted first-degree murder in connection with the May 11 shooting of the teen.\nCourt documents say the teen and two of his friends were driving around the Walmart parking, allegedly shooting a gel blaster at people. Contreras’ daughter was one of the people the teens allegedly shot at. She called her father.\nDetectives said Contreras arrived in the parking lot and attempted to confront the teens as they were in a car backing out of a parking space. That’s when Contreras ran to the driver’s side and appeared to pull out a gun, firing one round into the vehicle, and striking the driver. The car continued forward and crashed.\nThe driver remained in the car while his friends ran away, police said. Contreras remained at the scene and was taken into custody.\nThe shooting highlights a social media game called the “Orbeez Challenge.” in which teens use a gel blaster that shoots water-based gel beads. Across the U.S., police report seeing cases where kids take the challenge too far, even freezing the beads. The action leads to criminal charges.\nThis week, 12 News is taking a closer look into the issues surrounding the “Orbeez Challenge.” We spoke with a teen named Tomas...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Boy, 18, is left paralyzed from waist down after water pistol prank in ...",
+                "htmlTitle": "Boy, 18, is left paralyzed from waist down after <b>water</b> pistol prank in ...",
+                "link": "https://www.dailymail.co.uk/news/article-13503259/Kansas-teen-paralyzed-water-prank-Walmart-shot.html",
+                "displayLink": "www.dailymail.co.uk",
+                "snippet": "Jun 6, 2024 ... Anakin Zehring and his friends were shooting a toy water gel blaster at two other teens on May 11 at the Walmart Supercenter in Goddard, ...",
+                "htmlSnippet": "Jun 6, 2024 <b>...</b> Anakin Zehring and his friends were shooting a toy <b>water gel</b> blaster at two other teens on May 11 at the <b>Walmart</b> Supercenter in Goddard,&nbsp;...",
+                "formattedUrl": "https://www.dailymail.co.uk/news/.../Kansas-teen-paralyzed-water-prank-W...",
+                "htmlFormattedUrl": "https://www.dailymail.co.uk/<b>news</b>/.../Kansas-teen-paralyzed-<b>water</b>-prank-<b>W</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXGcOuGa1JG25_jzt5u3rtfs6TQvhKk9uPkuV4KLzrZnYJMR7jFCB8NY&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.dailymail.co.uk/1s/2024/06/06/21/85814079-0-image-m-25_1717704679524.jpg",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-06-06T21:39:26+0100",
+                            "og:image:width": "1200",
+                            "og:site_name": "Mail Online",
+                            "twitter:url": "https://www.dailymail.co.uk/news/article-13503259/Kansas-teen-paralyzed-water-prank-Walmart-shot.html",
+                            "channel": "News",
+                            "articleid": "13503259",
+                            "al:android:package": "com.dailymail.online",
+                            "article:location": "region:US",
+                            "y_key": "1a7e912afbfcab2f",
+                            "twitter:app:id:iphone": "384101264",
+                            "al:ios:url": "dailymail-fb://article/13503259/",
+                            "og:description": "Anakin Zehring and his friends were shooting a toy water gel blaster at two other teens on May 11 at the Walmart Supercenter in Goddard, Kansas when things took a turn for the worse.",
+                            "twitter:image": "https://i.dailymail.co.uk/1s/2024/06/06/21/85815661-0-image-a-9_1717706193232.jpg",
+                            "article:publisher": "https://www.facebook.com/DailyMail",
+                            "al:ios:app_store_id": "384101264",
+                            "divclasspage": "articlePage",
+                            "article:modified_time": "2024-06-06T21:42:11+0100",
+                            "news_keywords": "dailymail,news",
+                            "mol:headline": "Boy, 18, is left paralyzed from waist down after water pistol prank in Walmart parking lot erupted into real gunfire",
+                            "article:content_tier": "free",
+                            "twitter:account_id": "15438913",
+                            "twitter:title": "Boy paralyzed after water pistol prankerupted into real gunfire",
+                            "article:section": "News",
+                            "og:type": "article",
+                            "al:ios:app_name": "MailOnline",
+                            "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+                            "author": "Ishita Srivastava",
+                            "og:title": "Boy paralyzed after water pistol prankerupted into real gunfire",
+                            "twitter:app:id:ipad": "400442503",
+                            "og:image:height": "675",
+                            "app_store_id": "app-id=384101264",
+                            "fb:pages": "164305410295882",
+                            "article:author": "https://www.facebook.com/DailyMail",
+                            "article:tag": "Kansas teen paralyzed water prank Walmart shot",
+                            "al:android:url": "dailymail-fb://article/13503259/",
+                            "fb:app_id": "146202712090395",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                            "doc-class": "Living Document",
+                            "twitter:description": "Anakin Zehring and his friends were shooting a toy water gel blaster at two other teens on May 11 at the Walmart Supercenter in Goddard, Kansas when things took a turn for the worse.",
+                            "original-source": "https://www.dailymail.co.uk/news/article-13503259/Kansas-teen-paralyzed-water-prank-Walmart-shot.html",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.dailymail.co.uk/news/article-13503259/Kansas-teen-paralyzed-water-prank-Walmart-shot.html",
+                            "al:android:app_name": "Daily Mail Online",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.dailymail.co.uk/1s/2024/06/06/21/85814079-0-image-m-25_1717704679524.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... parking lot erupted into real gunfire\n====================================================================================================================\nBy \nPublished: 16:39 EDT, 6 June 2024 | Updated: 16:42 EDT, 6 June 2024\n*   \n*   \n*   \n*   \n**34** shares\nA high school senior has been left paralyzed from waist down after a water pistol fight escalated into a real shooting in a  parking.\nAnakin Zehring and his friends were shooting a toy water gel blaster at two other teens on May 11 at the Walmart Supercenter in Goddard,  when things took a turn for the worse.\nOne of the teens that Anakin and his friends got with the water gun reportedly ended up calling a relative who allegedly shot the 18-year-old with a real gun while he was sitting in the driver’s seat of a blue car.\nThe Sedgwick County Sheriff's Office has since arrested Ruben Contreras, 47, in connection to the shooting and charged him with attempted first-degree murder.\n!\nAnakin Zehring and his friends were shooting a toy water gel blaster at two other teens when he was shot in the spine by one of the teens' relatives\n!\nThe Sedgwick County Sheriff's Office has since arrested Ruben Contreras, 47, (pictured) in connection to the shooting and charged him with attempted first-degree murder\nAnakin's father Jeremy Zehring explained what happened at the scene: 'I pulled up his locator on his car, and I noticed it was at the Goddard Walmart.\n'So I started calling him and calling him. It kept going to voicemail.'\nAfter hearing police reports that a shooting occurred in the same parking lot, the distressed father frantically reached the area.\n'I tried to rush to the car, but they stopped me, they said it was an investigation. I was like, well, where's my son? And they're like Anakin. I said Yes. Where's my son? And they're like, well, he's been transported to the hospital,' he told .\nThe teen's mother, Kenly has since revealed that the bullet caused significant damage to Anakin's body.\nHis duodenum (upper part of the small intestine) was left punctured and spinal cord damaged which caused loss of sensation from the waist down.\n!\nThe teen was a senior at Campus High School and planned to become an engineer after graduating\n!\nThe teen's mother, Kenly has since revealed that the bullet caused significant damage to Anakin's body - forcing doctors to fuse his L1, L2, and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

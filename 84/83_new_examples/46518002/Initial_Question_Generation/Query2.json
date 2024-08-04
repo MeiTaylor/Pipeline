@@ -1,0 +1,572 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NASA reports asteroid impact Moon June 2023",
+                "totalResults": "310000",
+                "searchTerms": "NASA reports asteroid impact Moon June 2023",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NASA reports asteroid impact Moon June 2023",
+                "totalResults": "310000",
+                "searchTerms": "NASA reports asteroid impact Moon June 2023",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.389935,
+        "formattedSearchTime": "0.39",
+        "totalResults": "310000",
+        "formattedTotalResults": "310,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Next Five Asteroid Approaches",
+                "htmlTitle": "Next Five <b>Asteroid</b> Approaches",
+                "link": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches",
+                "displayLink": "www.jpl.nasa.gov",
+                "snippet": "The Asteroid Watch dashboard tracks asteroids and comets that will make relatively close approaches to Earth. The dashboard displays the date of closest ...",
+                "htmlSnippet": "The <b>Asteroid</b> Watch dashboard tracks <b>asteroids</b> and comets that will make relatively close approaches to Earth. The dashboard displays the date of closest&nbsp;...",
+                "formattedUrl": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches",
+                "htmlFormattedUrl": "https://www.jpl.<b>nasa</b>.gov/<b>asteroid</b>-watch/next-five-approaches",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAk9sRAPFgGr3R0FDzzgMSxBPUP49i1hjisVhwHfp2NKPvruAOBJD3vo&s",
+                            "width": "260",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Next Five Asteroid Approaches",
+                            "og:site_name": "NASA Jet Propulsion Laboratory (JPL)",
+                            "author": "https://www.jpl.nasa.gov/",
+                            "msapplication - tileimage": "/ms-icon-144x144.png",
+                            "apple-mobile-web-app-title": "JPL",
+                            "og:title": "Next Five Asteroid Approaches",
+                            "twitter:creator": "@nasajpl",
+                            "twitter:image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg",
+                            "theme - color": "#ba0c2f",
+                            "twitter:image:alt": "This view of asteroid Bennu ejecting particles from its surface on Jan. 6, 2019, was created by combining two images taken by the NavCam 1 imager aboard NASA's OSIRIS-REx spacecraft.",
+                            "twitter:site": "@nasajpl",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "publisher": "https://www.jpl.nasa.gov/",
+                            "msapplication - tilecolor": "#ba0c2f",
+                            "og:url": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA23554.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...110 Feet\n110\n FT |  M\nClosest Earth Approach\n4,450,000 Miles\n4,450,000\n MI |  KM\nName\nDate\nAug. 3, 2024\n !BUILDING-SIZE\nApproximate Size\n410 Feet\n410\n FT |  M\nClosest Earth Approach\n4,610,000 Miles\n4,610,000\n MI |  KM\nName\nDate\nAug. 4, 2024\n !AIRPLANE-SIZE\nApproximate Size\n70 Feet\n70\n FT |  M\nClosest Earth Approach\n2,400,000 Miles\n2,400,000\n MI |  KM\nName\nDate\nAug. 5, 2024\n !AIRPLANE-SIZE\nApproximate Size\n99 Feet\n99\n FT |  M\nClosest Earth Approach\n3,490,000 Miles\n3,490,000\n MI |  KM\nName\nDate\nAug. 5, 2024\n !AIRPLANE-SIZE\nApproximate Size\n90 Feet\n90\n FT |  M\nClosest Earth Approach\n1,120,000 Miles\n1,120,000\n MI |  KM\nName\nDate\nAug. 6, 2024\n### **About the Asteroid Watch Dashboard**\nThe Asteroid Watch dashboard tracks asteroids and comets that will make relatively close approaches to Earth. The dashboard displays the date of closest approach, approximate object diameter, relative size and distance from Earth for each encounter. The object's name is displayed by hovering over its encounter date. Clicking on the encounter date will display a Web page with details about that object.\nThe dashboard displays the next five Earth approaches to within 4.6 million miles (7.5 million kilometers or 19.5 times the distance to the moon); an object larger than about 150 meters that can approach the Earth to within this distance is termed a potentially hazardous object.\nThe average distance between Earth and the moon is about 239,000 miles (385,000 kilometers).\n### Find Out More\nAsteroid Watch home page\nAbout JPL\nMissions\nNews\nGalleries\nEvents\nVisit\nTopics\nMore\nGet the Latest from JPL\nFollow Us\nJPL is a federally funded research and development center managed for NASA by Caltech.\nMore from JPL\nRelated NASA Sites\nSite Managers: Veronica McGregor, Randal Jackson\nSite Editors: Tony Greicius, Naomi Hartono\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "115 Years Ago: The Tunguska Asteroid Impact Event - NASA",
+                "htmlTitle": "115 Years Ago: The Tunguska <b>Asteroid Impact</b> Event - <b>NASA</b>",
+                "link": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "Jun 30, 2023 ... On June 30, 1908, an asteroid plunged into Earth's atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely ...",
+                "htmlSnippet": "Jun 30, 2023 <b>...</b> On <b>June</b> 30, 1908, an <b>asteroid</b> plunged into Earth&#39;s atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/.../115-years-ago-the-tunguska-asteroid-impact-event...",
+                "htmlFormattedUrl": "https://www.<b>nasa</b>.gov/.../115-years-ago-the-tunguska-<b>asteroid</b>-<b>impact</b>-event...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBuJdnntQoMKU6GtPLn-Q1fJwRrm6k2Teacjsz0uslEVnMv_NaAfOrNWl&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "684",
+                            "article:published_time": "2023-06-30T12:13:05-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "post",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "John Uri",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "On June 30, 1908, an asteroid plunged into Earth’s atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely populated region",
+                            "searchgov_custom1": "1::390303",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg",
+                            "twitter:data1": "Andrea Dunn",
+                            "twitter:data2": "6 minutes",
+                            "parsely-type": "post",
+                            "article:modified_time": "2024-07-24T15:58:16-04:00",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "NASA History",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "article:section": "NASA History",
+                            "og:image:alt": "Image of the felled trees resulting from the Tunguska asteroid air blast, photographed during one the scientific expeditions in the 1920s.",
+                            "twitter:title": "115 Years Ago: The Tunguska Asteroid Impact Event - NASA",
+                            "og:title": "115 Years Ago: The Tunguska Asteroid Impact Event - NASA",
+                            "og:image:height": "455",
+                            "og:updated_time": "2024-07-24T15:58:16-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "115 Years Ago: The Tunguska Asteroid Impact Event",
+                            "parsely-pub-date": "2023-06-30T16:13:05Z",
+                            "parsely-tags": "NASA Centers & Facilities,Johnson Space Center,NASA History",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "On June 30, 1908, an asteroid plunged into Earth’s atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely populated region",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2023/07/tunguska-3-kulik-expedition-photo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 11 min read ### Former Space Communications, Navigation Interns Pioneer NASA’s Future article 1 week ago] 3 min read ### NASA Releases First Integrated Ranking of Civil Space Challenges article 2 weeks ago]\n### Featured\n 3 min read ### Three NASA Interns Expand Classroom Access to NASA Data article 1 week ago]\n### Featured\n 4 min read ### NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo article 16 hours ago] 3 min read ### NASA’s First-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan article 3 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana article 18 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\n7 min read\n115 Years Ago: The Tunguska Asteroid Impact Event\n=================================================\n### John Uri\n#### Johnson Space Center\nJun 30, 2023\nArticle\n*   \n*   \n*   \n*   \nOn June 30, 1908, an asteroid plunged into Earth’s atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely populated region reported seeing a fireball and hearing a large explosion. They also reported massive forest fires, and trees blown over for miles. Because of the remoteness of the site, the event garnered little attention even within Tsarist Russia and much less outside. The first scientific expedition did not reach the area until 1927, but still found ample evidence of the asteroid’s destruction caused by the shock wave and heat blast from the aerial explosion. Archaeologists have found evidence of similar events in the past, and smaller asteroids regularly break up in the atmosphere causing little or no damage. NASA established the Planetary Defense Coordination Office and during the DART mission tested the technology to redirect a small asteroid should one pose a danger to Earth in the future.\n!\n_Modern map of Russia, showing the location of the 1908 Tunguska event._\n_**Wikipedia**_\n!\n_Schematic map of the Tunguska site, showing  \nthe epicenter located beneath the blast, and the areas of burned and flattened trees._\n_**Christopher O. Johnston and Eric C. Stern, Icarus**_\nAt about...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "NASA's Planetary Radar Tracks Two Large Asteroid Close ...",
+                "htmlTitle": "<b>NASA&#39;s</b> Planetary Radar Tracks Two Large <b>Asteroid</b> Close ...",
+                "link": "https://www.jpl.nasa.gov/news/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches",
+                "displayLink": "www.jpl.nasa.gov",
+                "snippet": "Jul 3, 2024 ... These seven radar observations by the Deep Space Network's Goldstone Solar System Radar shows the mile-wide asteroid 2011 UL21 during its June ...",
+                "htmlSnippet": "Jul 3, 2024 <b>...</b> These seven radar observations by the Deep Space Network&#39;s Goldstone Solar System Radar shows the mile-wide <b>asteroid</b> 2011 UL21 during its <b>June</b>&nbsp;...",
+                "formattedUrl": "https://www.jpl.nasa.gov/.../nasas-planetary-radar-tracks-two-large-asteroid-...",
+                "htmlFormattedUrl": "https://www.jpl.<b>nasa</b>.gov/.../<b>nasa</b>s-planetary-radar-tracks-two-large-<b>asteroid</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0BRAghEj10gXcrmehIjPM4pz-VYSJzk1BgnYTGMD9fRYFTOc0dMTCz0X&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Jet Propulsion Laboratory",
+                            "url": "https://www.jpl.nasa.gov/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_2024mk.2024Jun30_CROP.png",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "twitter:title": "NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches",
+                            "og:site_name": "NASA Jet Propulsion Laboratory (JPL)",
+                            "author": "https://www.jpl.nasa.gov/",
+                            "msapplication - tileimage": "/ms-icon-144x144.png",
+                            "apple-mobile-web-app-title": "JPL",
+                            "og:title": "NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches",
+                            "twitter:creator": "@nasajpl",
+                            "og:description": "The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth.",
+                            "twitter:image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_2024mk.2024Jun30_CROP.png",
+                            "theme - color": "#ba0c2f",
+                            "twitter:image:alt": "Asteroid 2024 MK",
+                            "twitter:site": "@nasajpl",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth.",
+                            "og:locale": "en_US",
+                            "publisher": "https://www.jpl.nasa.gov/",
+                            "msapplication - tilecolor": "#ba0c2f",
+                            "og:url": "https://www.jpl.nasa.gov/news/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_2024mk.2024Jun30_CROP.png"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "image": "https://d2pn8kiwq2w21t.cloudfront.net/original_images/1_2024mk.2024Jun30_CROP.png",
+                            "articlebody": "Scientists at NASA’s Jet Propulsion Laboratory in Southern California recently tracked two asteroids as they flew by our planet. One turned out to have a little moon orbiting it, while the...",
+                            "articlesection": "Asteroids and Comets",
+                            "abstract": "The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth.",
+                            "headline": "NASA’s Planetary Radar Tracks Two Large Asteroid Close Approaches",
+                            "datepublished": "2024-07-03T07:00:00.000Z"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... increments about 16 hours after its closest approach with Earth.\n\n      The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth.\n    \nScientists at NASA’s Jet Propulsion Laboratory in Southern California recently tracked two asteroids as they flew by our planet. One turned out to have a little moon orbiting it, while the other had been discovered only 13 days before its closest approach to Earth. There was no risk of either near-Earth object impacting our planet, but the radar observations taken during these two close approaches will provide valuable practice for planetary defense, as well as information about their sizes, orbits, rotation, surface details, and clues as to their composition and formation.\nPassing Earth on June 27 at a distance of 4.1 million miles (6.6 million kilometers), or about 17 times the distance between the Moon and Earth, the asteroid 2011 UL21 was discovered in 2011 by the NASA-funded Catalina Sky Survey, in Tucson, Arizona. But this is the first time it has come close enough to Earth to be imaged by radar. While the nearly mile-wide (1.5-kilometer-wide) object is classified as being potentially hazardous, calculations of its future orbits show that it won’t pose a threat to our planet for the foreseeable future.\nThese seven radar observations by the Deep Space Network’s Goldstone Solar System Radar shows the mile-wide asteroid 2011 UL21 during its June 27 close approach with Earth from about 4 million miles away. The asteroid and its small moon (a bright dot at the bottom of the image) are circled in white.\nUsing the Deep Space Network’s 230-foot-wide (70-meter) Goldstone Solar System Radar, called Deep Space Station 14 (DSS-14), near Barstow, California, JPL scientists transmitted radio waves to the asteroid and received the reflected signals by the same antenna. In addition to determining the asteroid is roughly spherical, they discovered that it’s a binary system: A smaller asteroid, or moonlet, orbits it from a distance of about 1.9 miles (3 kilometers).\nNews from Infinity and Beyond\n“It is thought that about two-thirds of asteroids of this size are binary systems, and their discovery is particularly important because we can use measurements of their relative positions to estimate their mutual orbits, masses, and densities, which provide key information about how they may have formed,” said Lance Benner, principal scientist at JPL who helped lead the observations.\nAssembled into this animation, observations from NASA’s Goldstone Solar System Radar show...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "All NASA News - NASA",
+                "htmlTitle": "All <b>NASA News</b> - <b>NASA</b>",
+                "link": "https://www.nasa.gov/news/all-news/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "On the eve of the 55th anniversary of the Apollo 11 Moon landing, NASA's Johnson Space Center in Houston commemorated the unsung heroes who helped make ...",
+                "htmlSnippet": "On the eve of the 55th anniversary of the Apollo 11 <b>Moon</b> landing, <b>NASA&#39;s</b> Johnson Space Center in Houston commemorated the unsung heroes who helped make&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/news/all-news/",
+                "htmlFormattedUrl": "https://www.<b>nasa</b>.gov/news/all-news/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "article:published_time": "2023-06-30T08:59:39-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "page",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "Brian Dunbar",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "searchgov_custom1": "1::383829",
+                            "parsely-type": "index",
+                            "article:modified_time": "2023-10-13T12:38:12-04:00",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/news/all-news/",
+                            "parsely-section": "General",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "twitter:title": "All NASA News - NASA",
+                            "og:title": "All NASA News - NASA",
+                            "og:updated_time": "2023-10-13T12:38:12-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "All NASA News",
+                            "parsely-pub-date": "2023-06-30T12:59:39Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/news/all-news/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "New NASA Web Content\n--------------------\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\n]\n 4 min read\nOn the eve of the 55th anniversary of the Apollo 11 Moon landing, NASA’s Johnson Space Center in Houston commemorated the unsung heroes who helped make humanity’s first steps on the Moon possible.  To celebrate their enduring legacy, Johnson named…\n]\n1 min read\nTeams transport NASA’s SLS (Space Launch System) core stage into the Vehicle Assembly Building at the agency’s Kennedy Space Center in Florida on July 24, 2024. Tugboats and towing vessels moved the Pegasus barge and 212-foot-long core stage 900-miles to…\n]\n6 min read\nDr. Ariadna Farrés-Basiana would look up at the sky and marvel at the immensity of space when she was younger. Now, the bounds are limitless as she helps NASA explore the expansive universe by computing the trajectories and maneuvers to…\n]\n5 min read\nEach Aug. 4, Coast Guard Day commemorates the founding on Aug. 4, 1790, of the U.S. Coast Guard as the Revenue-Marine by Secretary of the Treasury Alexander Hamilton. Although considered an internal event for active duty and reserve Coast Guard…\n]\n2 min read\nUnder a new agreement, NASA will host supercomputing resources for the University of California, Berkeley, at the agency’s Ames Research Center in California’s Silicon Valley. The agreement is part of an expanding partnership between Ames and UC Berkeley and will…\n]\n20...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "What Medieval Witnesses Saw Was Not Big Lunar Impact, Grad ...",
+                "htmlTitle": "What Medieval Witnesses Saw Was Not Big <b>Lunar Impact</b>, Grad ...",
+                "link": "https://science.nasa.gov/solar-system/moon/what-medieval-witnesses-saw-was-not-big-lunar-impact-grad-student-says/",
+                "displayLink": "science.nasa.gov",
+                "snippet": "The idea that what humans witnessed and chronicled in 1178 A.D. was a major meteor impact that created the 22-kilometer (14-mile) lunar crater called ...",
+                "htmlSnippet": "The idea that what humans witnessed and chronicled in 1178 A.D. was a major <b>meteor impact</b> that created the 22-kilometer (14-mile) <b>lunar</b> crater called&nbsp;...",
+                "formattedUrl": "https://science.nasa.gov/.../moon/what-medieval-witnesses-saw-was-not-big-...",
+                "htmlFormattedUrl": "https://science.<b>nasa</b>.gov/.../<b>moon</b>/what-medieval-witnesses-saw-was-not-big-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQXBr_c6dKgmpt6BZfSmNLZl-zDL4_zDXbNo0Ppu2HcoLveKFYr7QikQ&s",
+                            "width": "356",
+                            "height": "142"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "/nasa-social-logo.webp",
+                            "twitter:title": "What Medieval Witnesses Saw Was Not Big Lunar Impact, Grad Student Says - NASA Science",
+                            "twitter:card": "summary_large_image",
+                            "searchgov_custom3": "post",
+                            "og:title": "What Medieval Witnesses Saw Was Not Big Lunar Impact, Grad Student Says - NASA Science",
+                            "og:description": "The idea that what humans witnessed and chronicled in 1178 A.D. was a major meteor impact that created the 22-kilometer (14-mile) lunar crater called Giordano Bruno is myth, a University of Arizona graduate student has discovered.",
+                            "parsely-title": "What Medieval Witnesses Saw Was Not Big Lunar Impact, Grad Student Says - NASA Science",
+                            "twitter:image": "/nasa-social-logo.webp",
+                            "parsely-pub-date": "2001-04-18 07:00:00",
+                            "parsely-type": "post",
+                            "parsely-tags": "Earth's Moon",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The idea that what humans witnessed and chronicled in 1178 A.D. was a major meteor impact that created the 22-kilometer (14-mile) lunar crater called Giordano Bruno is myth, a University of Arizona graduate student has discovered.",
+                            "parsely-link": "https://science.nasa.gov/solar-system/moon/what-medieval-witnesses-saw-was-not-big-lunar-impact-grad-student-says/",
+                            "parsely-image-url": "/nasa-social-logo.webp",
+                            "parsely-section": "solar-system",
+                            "og:url": "https://science.nasa.gov/solar-system/moon/what-medieval-witnesses-saw-was-not-big-lunar-impact-grad-student-says/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://science.nasa.gov/wp-content/uploads/2024/07/lunar-pits.webp?w=4096&format=png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Aeronautics\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Technology\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Universe\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Solar System\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Español\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Science\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n]\n*   Explore\nSearchSubmit\n]\n*   News & Events\n*   Multimedia\n*   \n4 min read\nWhat Medieval Witnesses Saw Was Not Big Lunar Impact, Grad Student Says\n=======================================================================\n!\nNASA Science Editorial Team\nApr 18, 2001\nArticle\n*   \n*   \n*   \n*   \nhttp://uanews.opi.arizona.edu/cgi-bin/WebObjects/UANews.woa/wa/SRStoryDetails?ArticleID=3561\n**University of Arizona News Services**\nThe idea that what humans witnessed and chronicled in 1178 A.D. was a major meteor impact that created the 22-kilometer (14-mile) lunar crater called Giordano Bruno is myth, a University of Arizona graduate student has discovered.\nAnd this should be welcome news for those worried by Deep Impact movie scenarios.\nThe idea that 12th century people saw the impact that created a lunar crater more than 10 times as wide as Meteor Crater in northern Arizona has been popular since it was first proposed 25 years ago. But it doesn't hold up under scientific scrutiny, said Paul Withers of the UA Lunar and Planetary Laboratory.\nSuch an impact would have resulted in a blinding, blizzard-like, week-long meteor storm on Earth - yet there are no such accounts in any known historical record, including the European, Chinese, Arabic, Japanese and Korean astronomical archives, Withers said. He reports the analysis and other tests of the hypothesis in this month's issue of Meteoritics and Planetary Science.\nThe dramatic passage in question appears in the medieval chronicles of Gervase of Canterbury.\nAbout an hour after sunset June 18, 1178 A.D., a band of five eyewitnesses watched as the upper horn...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "ARES | Orbital Debris Program Office | Quarterly News",
+                "htmlTitle": "ARES | Orbital Debris Program Office | Quarterly <b>News</b>",
+                "link": "https://orbitaldebris.jsc.nasa.gov/quarterly-news/",
+                "displayLink": "orbitaldebris.jsc.nasa.gov",
+                "snippet": "ISS Maneuvers to Avoid Potential Collisions Twice in August 2023 · Derelict Cosmos Communications Spacecraft Breaks Up in June 2023 · Gene Stansbery, Former NASA ...",
+                "htmlSnippet": "ISS Maneuvers to Avoid Potential Collisions Twice in <b>August 2023</b> &middot; Derelict Cosmos Communications Spacecraft Breaks Up in <b>June 2023</b> &middot; Gene Stansbery, Former <b>NASA</b>&nbsp;...",
+                "formattedUrl": "https://orbitaldebris.jsc.nasa.gov/quarterly-news/",
+                "htmlFormattedUrl": "https://orbitaldebris.jsc.<b>nasa</b>.gov/quarterly-news/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "##2b5797",
+                            "theme-color": "##ffffff",
+                            "viewport": "width=device-width,initial-scale=1.0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    |    |    \n  |    |    |  \n  |    |    |    |    \n  |    |    |    |    \n  |    |    |    |    \n  |    |    |    |    \n  |    |    |    |    \n  |    |    |  \n### 2024\n **| Volume 28 - Issue 3**\n*   NASA Issues Its First Space Sustainability Strategy\n*   Updates to the NASA Procedural Requirements for Orbital Debris Mitigation\n*   Laboratory Radar Cross Section Measurements\n*   Experimental Hypervelocity Impacts of Non-spherical Projectiles on Whipple Shields\n*   Meeting Report\n*   Upcoming Meetings\n*   Monthly Object Type Charts by Number and Mass\n*   Space Missions and Satellite Box Score\n **| Volume 28 - Issue 2**\n*   2024 UN COPUOS STSC Session\n*   Evolution of the Cosmos 1408 Breakup Cloud\n*   Modeling the Small Debris Population in ORDEM\n*   Meeting Report\n*   Upcoming Meetings\n*   Monthly Effective Mass of Objects in Earth Orbit Plot\n*   DAS 3.2.6 Release\n*   Space Missions and Satellite Box Score\n **| Volume 28 - Issue 1**\n*   The Second International Orbital Debris Conference\n*   ISS Maneuvers to Avoid Potential November 2023 Collision\n*   Goldstone Radar Measurements of the Orbital Debris Environment: 2022\n*   Orbital Debris Program Office Laboratory Updates\n*   Conference and Workshop Reports\n*   Upcoming Meetings\n*   IOC II Conference Abstracts from the NASA HVIT\n*   IOC II Conference Abstracts from the NASA ODPO\n*   Space Missions and Satellite Box Score\n### 2023\n **| Volume 27 - Issue 4**\n*   ISS Maneuvers to Avoid Potential Collisions Twice in August 2023\n*   Derelict Cosmos Communications Spacecraft Breaks Up in June 2023\n*   Gene Stansbery, Former NASA Program Manager for Orbital Debris, Passes\n*   HUSIR Radar Measurements of the Orbital Debris Environment: 2022\n*   Thirty Years Later: A Look Back at the 1993 JSC Perseid Stormwatch Center\n*   IOC II Commences in December 2023\n*   NASA ODPO and HVIT Abstract\n*   Conference Report\n*   Orbital De...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "2023 Report on Top Management and Performance Challenges",
+                "htmlTitle": "<b>2023 Report</b> on Top Management and Performance Challenges",
+                "link": "https://oig.nasa.gov/wp-content/uploads/2024/01/mc-2023.pdf",
+                "displayLink": "oig.nasa.gov",
+                "snippet": "Cover photo: NASA's Space Launch System rocket carrying the Orion spacecraft launches on the Artemis I mission, Wednesday,. November 16, 2022, from Launch ...",
+                "htmlSnippet": "Cover photo: <b>NASA&#39;s</b> Space Launch System rocket carrying the Orion spacecraft launches on the Artemis I mission, Wednesday,. November 16, 2022, from Launch&nbsp;...",
+                "formattedUrl": "https://oig.nasa.gov/wp-content/uploads/2024/01/mc-2023.pdf",
+                "htmlFormattedUrl": "https://oig.<b>nasa</b>.gov/wp-content/uploads/2024/01/mc-<b>2023</b>.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AVOetmYDxKhzLgyH5r1YI4fb1taN7EFj1WV1yF08pJWJvLyWajjmSY0&s",
+                            "width": "251",
+                            "height": "201"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20231101090529-04'00'",
+                            "creationdate": "D:20231031104006-04'00'",
+                            "creator": "Adobe InDesign 19.0 (Windows)",
+                            "producer": "Adobe PDF Library 17.0",
+                            "title": "2023 Report on Top Management and Performance Challenges"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///ef1d1d9c24e4a87d7e27f9ffed2426fe74fd588bb14944c08c72bec23c2be1f4"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "# NASA Office of Inspector General \n## November 2023 \n# 2023 Report on NASA’s \n# TOP MANAGEMENT and PERFORMANCE CHALLENGES \n# 2023 Report on NASA’s \n# TOP MANAGEMENT \n# and PERFORMANCE \n# CHALLENGES \n> Office of Inspector General\n> November 2023\n2\nOffice of Inspector General \nTo report fraud, waste, abuse, or mismanagement, contact the NASA OIG Hotline at 800-424-9183 or \n800-535-8134 (TDD) or visit https://oig.nasa.gov/hotline.html. You can also write to NASA Inspector General, \nP.O. Box 23089, L’Enfant Plaza Station, Washington, D.C. 20026. The identity of each writer and caller can be \nkept confidential, upon request, to the extent permitted by law. \nTo suggest ideas or request future audits, contact the Assistant Inspector General for Audits at \nhttps://oig.nasa.gov/aboutAll.html .\n> Cover photo: NASA’s Space Launch System rocket carrying the Orion spacecraft launches on the Artemis I mission, Wednesday,\n> November 16, 2022, from Launch Complex 39B at NASA’s Kennedy Space Center in Florida.\n> Source: NASA. 31\n# TABLE OF CONTENTS \nMessage from the Inspector General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2\nChallenge 1: Returning Humans to the Moon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4\nChallenge 2: Improving Management of Major Programs and Projects . . . . . . . . . . 7\nChallenge 3: Sustaining a Human Presence in Low Earth Orbit . . . . . . . . . . . . . . . 10 \nChallenge 4: Maturing Information Technology Management and Security . . . . . . 13 \nChallenge 5: Improving Oversight and Management of Contracts, Grants, and \nCooperative Agreements . ....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Asteroid's Chance of Earth Impact in 2027 Now 96%",
+                "htmlTitle": "<b>Asteroid&#39;s</b> Chance of Earth <b>Impact</b> in 2027 Now 96%",
+                "link": "https://cneos.jpl.nasa.gov/pd/cs/pdc17/Chodas-Day2-Briefing.pdf",
+                "displayLink": "cneos.jpl.nasa.gov",
+                "snippet": "May 11, 2017 ... Based on new tracking observations taken this week, IAWN has confirmed that asteroid 2017 PDC is on a course that almost certainly.",
+                "htmlSnippet": "May 11, 2017 <b>...</b> Based on new tracking observations taken this week, IAWN has confirmed that <b>asteroid</b> 2017 PDC is on a course that almost certainly.",
+                "formattedUrl": "https://cneos.jpl.nasa.gov/pd/cs/pdc17/Chodas-Day2-Briefing.pdf",
+                "htmlFormattedUrl": "https://cneos.jpl.<b>nasa</b>.gov/pd/cs/pdc17/Chodas-Day2-Briefing.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpuizdCK7x450kgWyTsSIfve29NBZ_Smv4LIaNGjiNTAEniny6LfguCnM&s",
+                            "width": "258",
+                            "height": "195"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20170516194702Z00'00'",
+                            "creator": "PowerPoint",
+                            "creationdate": "D:20170516194702Z00'00'",
+                            "author": "Chodas, Paul W (392R)",
+                            "producer": "Mac OS X 10.12.3 Quartz PDFContext",
+                            "title": "Chodas-Day2-Briefing"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///994ae39490c108e16cfedce148b044dee22924e7e9b8ce767c6d76f0d3d78c2f"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "Press Conference: Nov. 30, 2018 \nAsteroid’s Chance of Earth Impact in 2027 Now 96% \nPaul Chodas (Jet Propulsion Laboratory/California Institute of Technology) \n> 2017 Planetary Defense Conference, Tokyo, Japan\nEXERCISE ONLY!! Jet Propulsion Laboratory \n> California Institute of Technology\nChance of Impact in 2027 is Now 96% \n• Based on new tracking observations taken this week, IAWN has \nconfirmed that asteroid 2017 PDC is on a course that almost certainly \nwill impact the Earth on July 21, 2027, less than 9 years from now \n• The asteroid brightened just enough to be detected by the NASA’s \nHubble Space Telescope (HST) and the National Astronomical \nObservatory of Japan’s large 8 -meter Subaru Telescope \n• The new measurements did not eliminate the possibility of impact, as \nhad been hoped; IAWN now estimates the impact probability at 96% \n• Prior to this week the asteroid was unobservable for 11 months, during \nwhich time the impact probability was 26%; after this week the asteroid \nis again too faint to be observed for another 11 months \n• The possible impact locations are confined to a region stretching from \nChina, across North and South Korea, Japan, and into the Pacific \n• For more info: https:// cneos.jpl.nasa.gov /pd /cs /pdc17/day2.html \nEXERCISE ONLY!! Jet Propulsion Laboratory \n> California Institute of Technology\nPossible Impact Locations for 2017 PDC \nNations most at risk from the effects of a land impact or airburst: \nChina, North and South Korea, and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Eyes on Asteroids - Home - NASA/JPL",
+                "htmlTitle": "Eyes on <b>Asteroids</b> - Home - <b>NASA</b>/JPL",
+                "link": "https://eyes.nasa.gov/apps/asteroids",
+                "displayLink": "eyes.nasa.gov",
+                "snippet": "Explore the 3D world of Asteroids, Comets and NEOs. Learn about past and future missions, tracking and predicting orbits, and close approaches to Earth.",
+                "htmlSnippet": "Explore the 3D world of <b>Asteroids</b>, Comets and NEOs. Learn about past and future missions, tracking and predicting orbits, and close approaches to Earth.",
+                "formattedUrl": "https://eyes.nasa.gov/apps/asteroids",
+                "htmlFormattedUrl": "https://eyes.<b>nasa</b>.gov/apps/<b>asteroid</b>s",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDU-RdxT-dLgywLyaZPk-_2MK0UOWltoFQNIiTFn6aa5Gyz-MUzAOaFY&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#2b5797",
+                            "og:image": "https://eyes.nasa.gov/apps/asteroids/og_img.jpg",
+                            "msapplication-config": "./browserconfig.xml",
+                            "og:type": "website",
+                            "theme-color": "#000000",
+                            "og:site_name": "Eyes on Asteroids - NASA/JPL",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=no",
+                            "og:title": "Eyes on Asteroids - NASA/JPL",
+                            "og:url": "https://eyes.nasa.gov/apps/asteroids",
+                            "og:description": "Explore the 3D world of Asteroids, Comets and NEOs. Learn about past and future missions, tracking and predicting orbits, and close approaches to Earth."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://eyes.nasa.gov/apps/asteroids/og_img.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Eyes on Asteroids - NASA/JPL\n===============\nLoading",
+                    "content_tokens": 12
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Near-Earth Asteroids as of August 2024 - NASA Science",
+                "htmlTitle": "Near-Earth <b>Asteroids</b> as of <b>August</b> 2024 - <b>NASA</b> Science",
+                "link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/",
+                "displayLink": "science.nasa.gov",
+                "snippet": "... close approaches, and other timely facts about comets and asteroids that could pose an impact hazard with Earth. Here is what we've found so far.",
+                "htmlSnippet": "... close approaches, and other timely facts about comets and <b>asteroids</b> that could pose an <b>impact</b> hazard with Earth. Here is what we&#39;ve found so far.",
+                "formattedUrl": "https://science.nasa.gov/science-research/planetary.../near-earth-asteroids/",
+                "htmlFormattedUrl": "https://science.<b>nasa</b>.gov/science-research/planetary.../near-earth-<b>asteroid</b>s/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMdWcBh9UkMWNv_9eONSrqbjLPbuO0VWo6QIHTmShJUChrNVOGxU7xNQ&s",
+                            "width": "146",
+                            "height": "345"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://science.nasa.gov/wp-content/uploads/2023/09/planetary-defense-by-the-numbers-february-infographic.png?w=640",
+                            "twitter:title": "Near-Earth Asteroids as of August 2024 - NASA Science",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Labeled infographic highlighting to-date near-Earth asteroid data from NASA’s Planetary Defense Coordination Office.",
+                            "og:image:width": "640",
+                            "searchgov_custom3": "post",
+                            "og:title": "Near-Earth Asteroids as of August 2024 - NASA Science",
+                            "og:image:height": "1511",
+                            "twitter:image:height": "1511",
+                            "og:description": "August 2024 Each month, NASA’s Planetary Defense Coordination Office releases a monthly update featuring the most recent figures on NASA’s planetary defense efforts, near-Earth object close approaches, and other timely facts about comets and asteroids that could pose an impact hazard with Earth. Here is what we’ve found so far.",
+                            "parsely-title": "Near-Earth Asteroids as of August 2024 - NASA Science",
+                            "twitter:image": "https://science.nasa.gov/wp-content/uploads/2023/09/planetary-defense-by-the-numbers-february-infographic.png?w=640",
+                            "parsely-pub-date": "2023-09-29 12:05:56",
+                            "twitter:image:alt": "Labeled infographic highlighting to-date near-Earth asteroid data from NASA’s Planetary Defense Coordination Office.",
+                            "parsely-type": "post",
+                            "parsely-tags": "General, Planetary Defense, Planetary Defense Coordination Office, Planetary Science, Planetary Science Division, Science &amp; Research, Science Mission Directorate",
+                            "twitter:image:width": "640",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "August 2024 Each month, NASA’s Planetary Defense Coordination Office releases a monthly update featuring the most recent figures on NASA’s planetary defense efforts, near-Earth object close approaches, and other timely facts about comets and asteroids that could pose an impact hazard with Earth. Here is what we’ve found so far.",
+                            "parsely-link": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/",
+                            "parsely-image-url": "https://science.nasa.gov/wp-content/uploads/2023/09/planetary-defense-by-the-numbers-february-infographic.png?w=640",
+                            "parsely-section": "science-research",
+                            "og:url": "https://science.nasa.gov/science-research/planetary-science/planetary-defense/near-earth-asteroids/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://science.nasa.gov/wp-content/uploads/2023/09/planetary-defense-by-the-numbers-february-infographic.png?w=640"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Learning Resources\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Aeronautics\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Technology\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Universe\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Solar System\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Español\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Science\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n]\n*   Explore\nSearchSubmit\n]\n*   News & Events\n*   Multimedia\n*   \n1 min read\nNear-Earth Asteroids as of August 2024\n======================================\n!\nNASA Science Editorial Team\nSep 29, 2023\nArticle\n*   \n*   \n*   \n*   \nContents\n--------\n*   \nAugust 2024\n-----------\n!\nEach month, NASA’s Planetary Defense Coordination Office releases a monthly update featuring the most recent figures on NASA’s planetary defense efforts, near-Earth object close approaches, and other timely facts about comets and asteroids that could pose an impact hazard with Earth. Here is what we've found so far.\nShare\n-----\n*   \n*   \n*   \n*   \nDetails\n-------\nLast Updated\nAug 02, 2024\nEditor\nNASA Science Editorial Team\nRelated Terms\n-------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nExplore More\n------------\n 2 min read ### NASA Ames to Host Supercomputing Resources for UC Berkeley Researchers Under a new agreement, NASA will host supercomputing resources for the University of California, Berkeley, at the agency’s Ames Research Center in California’s Silicon Valley. The agreement is part of an expanding partnership between Ames and UC Berkeley and will support the development of novel computing algorithms and software for a wide variety of scientific \\ Article16 hours ago]\n 20 min read ### MESSENGER – From Setbacks to Success The excerpts below are taken from Discovery Program oral history interviews conducted in 2009 by Dr. Susan Niebur and tell the story of the hurdles...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

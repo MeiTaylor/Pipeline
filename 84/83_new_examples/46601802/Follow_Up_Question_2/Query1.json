@@ -1,0 +1,572 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - How does low temperature affect ice formation",
+                "totalResults": "167000000",
+                "searchTerms": "How does low temperature affect ice formation",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - How does low temperature affect ice formation",
+                "totalResults": "167000000",
+                "searchTerms": "How does low temperature affect ice formation",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.333579,
+        "formattedSearchTime": "0.33",
+        "totalResults": "167000000",
+        "formattedTotalResults": "167,000,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Science of Snow | National Snow and Ice Data Center",
+                "htmlTitle": "Science of Snow | National Snow and <b>Ice</b> Data Center",
+                "link": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow",
+                "displayLink": "nsidc.org",
+                "snippet": "For snow to fall, moisture must be present in the atmosphere. Snowstorms also rely heavily on temperature, but not necessarily the temperature we feel on ...",
+                "htmlSnippet": "For snow to fall, moisture must be present in the atmosphere. Snowstorms also rely heavily on <b>temperature</b>, but not necessarily the <b>temperature</b> we feel on&nbsp;...",
+                "formattedUrl": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow",
+                "htmlFormattedUrl": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpx_fMxOniakn6ZSQHzgyPSbaV7PSuMAc_NhRYrxEBkZP7yzSdmnAcdoc&s",
+                            "width": "200",
+                            "height": "203"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://nsidc.org/themes/custom/nsidc/images/logos/nsidc-logo.png",
+                            "og:type": "Section Page",
+                            "og:image:width": "100",
+                            "og:image:alt": "NSIDC Logo",
+                            "twitter:card": "summary",
+                            "twitter:title": "Science of Snow",
+                            "og:site_name": "National Snow and Ice Data Center",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow",
+                            "og:title": "Science of Snow",
+                            "og:image:height": "100",
+                            "twitter:image:height": "100",
+                            "og:description": "For snow to fall, moisture must be present in the atmosphere. Snowstorms also rely heavily on temperature, but not necessarily the temperature we feel on the ground.",
+                            "twitter:image": "https://nsidc.org,/themes/custom/nsidc/images/logos/nsidc-logo.png",
+                            "twitter:site": "@NSIDC",
+                            "twitter:image:width": "100",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "For snow to fall, moisture must be present in the atmosphere. Snowstorms also rely heavily on temperature, but not necessarily the temperature we feel on the ground.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://nsidc.org/learn/parts-cryosphere/snow/science-snow"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nsidc.org/themes/custom/nsidc/images/logos/nsidc-logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "For snow to fall, moisture must be present in the atmosphere. Snowstorms also rely heavily on temperature, but not necessarily the temperature we feel on the ground. Snow forms when the atmospheric temperature is at or below freezing (0°C or 32°F). If the ground temperature is at or below freezing, the snow will reach the ground. However, the snow can still reach the ground when the ground temperature is above freezing if the conditions are just right. In this case, snowflakes will begin to melt as they reach this higher temperature layer; the melting creates evaporative cooling, which cools the air immediately around the snowflake. This cooling slows down melting. As a general rule, though, snow will not form if the ground temperature is at least 5°C (41°F).\nWhile it can be too warm to snow, it cannot be too cold to snow. Snow can occur even at incredibly low temperatures, as long as there is some source of moisture and some way to lift or cool the air. It is true, however, that most heavy snowfalls occur when there is relatively warm air near the ground—typically -9°C (15°F) or warmer—since warmer air can hold more water vapor.\nBecause snow formation requires moisture, very cold but very dry areas may rarely receive snow. Antarctica's Dry Valleys, for instance, form the largest ice-free portion...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Icing Hazards",
+                "htmlTitle": "Icing Hazards",
+                "link": "https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/icing.htm",
+                "displayLink": "www.weather.gov",
+                "snippet": "NOTE: If an aircraft has been in below freezing temperatures and then is located in above freezing temperatures, the aircraft's surface temperature can remain ...",
+                "htmlSnippet": "NOTE: If an aircraft has been in below <b>freezing temperatures</b> and then <b>is</b> located in above <b>freezing temperatures</b>, the aircraft&#39;s surface <b>temperature can</b> remain&nbsp;...",
+                "formattedUrl": "https://www.weather.gov/source/zhu/ZHU_Training_Page/.../icing.htm",
+                "htmlFormattedUrl": "https://www.weather.gov/source/zhu/ZHU_Training_Page/.../icing.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx5WQxht4a9G7fJjpxcevkwzKRsurQ0nfCvhHt-BhX-78V2J0cuH8toXJc&s",
+                            "width": "279",
+                            "height": "181"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.weather.gov/source/zhu/ZHU_Training_Page/icing_stuff/icing/ice_threat.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]..., is any deposit or coating of ice on an object, caused by the impingement and freezing of liquid (usually supercooled) hydrometeors; to be distinguished from hoarfrost in that the latter results from the deposition of water vapor.\r\n   \r\n  Factors which affect the icing threat include:\nParticle size\nParticle concentration\nShape of aircraft surfaces\nAircraft speed\nEnvironmental temperature\nAircraft surface temperature (must be 0°C or colder)\nThe size of droplets affects the rate\r\n  of catch. Small drops tend to follow the airflow and are carried around the wing. Large,\r\n  heavy drops tend to strike the wing. When a small drop does hit, it will spread back over\r\n  the wing only a small distance. The large drop spreads farther. As for airspeed, the\r\n  number of droplets struck by the aircraft in a certain time increases as the airspeed\r\n  increases. The curvature of the leading edge of the wing also has an effect on the rate of\r\n  catch. Thin wings catch more droplets than do thick wings. The rate of catch is,\r\n  therefore, greatest for an aircraft with thin wings flying at high speed through a cloud\r\n  with large droplets and a high liquid water content.\nNecessary conditions for icing include:\nAir temperatures 0°C or colder\nNOTE: If an aircraft has been in below freezing temperatures and then is located in above freezing temperatures, the aircraft's surface temperature can remain below freezing for some time. Therefore icing still may be possible in temperatures that are above freezing.\nSupercooled liquid water droplets or wet snowflakes\nNOTE: Supercooled liquid water droplets predominantly found at temperatures ranging from 0°C to -20°C. Although rare, small amounts of supercooled water droplets can be found at temperatures as cold as -40°C. The smaller and purer the droplets, the lower are their freezing points.\nNOTE: When a supercooled droplet strikes an object such as the surface of an aircraft, the impact destroys the internal stability of the droplet and raises its freezing temperature. This is known as aerodynamic heating - the temperature rise resulting from adiabatic compression and friction as the aircraft penetrates the air.\n\n\nHOW ICING AFFECTS THE AIRPLANE\n\nIce collects on and seriously hampers the\r\n  function of not only wings and control surfaces and propellers, but also windscreens and\r\n  canopies, radio antennas, pilot tubes and static vents, carburetors and air intakes.\r\n  Turbine engines are especially vulnerable. Ice forming on the intake...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Science of Sea Ice | National Snow and Ice Data Center",
+                "htmlTitle": "Science of Sea <b>Ice</b> | National Snow and <b>Ice</b> Data Center",
+                "link": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice",
+                "displayLink": "nsidc.org",
+                "snippet": "First, the freezing temperature of salt water is lower than freshwater; ocean temperatures must reach -1.8°C (28.8°F) to freeze. Secondly, in contrast to fresh ...",
+                "htmlSnippet": "First, the <b>freezing temperature</b> of salt water <b>is lower</b> than freshwater; ocean <b>temperatures</b> must reach -1.8°C (28.8°F) to <b>freeze</b>. Secondly, in contrast to fresh&nbsp;...",
+                "formattedUrl": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice",
+                "htmlFormattedUrl": "https://nsidc.org/learn/parts-cryosphere/sea-<b>ice</b>/science-sea-<b>ice</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpx_fMxOniakn6ZSQHzgyPSbaV7PSuMAc_NhRYrxEBkZP7yzSdmnAcdoc&s",
+                            "width": "200",
+                            "height": "203"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://nsidc.org/themes/custom/nsidc/images/logos/nsidc-logo.png",
+                            "og:type": "Section Page",
+                            "og:image:width": "100",
+                            "og:image:alt": "NSIDC Logo",
+                            "twitter:card": "summary",
+                            "twitter:title": "Science of Sea Ice",
+                            "og:site_name": "National Snow and Ice Data Center",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice",
+                            "og:title": "Science of Sea Ice",
+                            "og:image:height": "100",
+                            "twitter:image:height": "100",
+                            "og:description": "Sea ice is classified by stages of development that relate to thickness and age. A simple classification categorizes sea ice into two primary age groups: first-year or multiyear.",
+                            "twitter:image": "https://nsidc.org,/themes/custom/nsidc/images/logos/nsidc-logo.png",
+                            "twitter:site": "@NSIDC",
+                            "twitter:image:width": "100",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "Sea ice is classified by stages of development that relate to thickness and age. A simple classification categorizes sea ice into two primary age groups: first-year or multiyear.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nsidc.org/themes/custom/nsidc/images/logos/nsidc-logo.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... ice is sometimes split into two subcategories, based on color: \n    *   gray ice (10 to 15 centimeters, or 3.9 to 5.9 inches thick) \n    *   gray-white ice (15 to 30 centimeters, or 5.9 to 11.8 inches thick)\n*   First-year ice is thicker than 30 centimeters (11.8 inches), but has not survived a summer melt season.\n*   Multiyear ice is ice that has survived a summer melt season and is much thicker than younger ice, typically ranging from 2 to 4 meters (78.7 to 157.5 inches) thick. \n]\nThis complex mixture of different types of Antarctic sea ice was photographed on Oct. 13, 2012, in the Bellingshausen Sea with the Digital Mapping System (DMS) on board the NASA DC-8 flying laboratory. — Credit: NASA/Digital Mapping System\n* * *\nHow sea ice forms\n-----------------\nSea ice forms, grows, and melts in salty ocean water. This sets it apart from other forms of ice like icebergs, glaciers, and lake and river ice. Icebergs and glaciers form from snow falling on land. Lake and river ice from fresh water. Lake ice tends to freeze as a smooth layer, while sea ice develops into various shapes because of the constant turbulence of ocean water.\nSea ice forms more slowly than freshwater ice for two main reasons. First, the freezing temperature of salt water is lower than freshwater; ocean temperatures must reach -1.8°C (28.8°F) to freeze. Secondly, in contrast to fresh water, the salt in ocean water causes the density of the water to increase as it nears the freezing point. As a result, salt water sinks away from the surface before it cools enough to freeze. Generally, the top 100 to 150 meters (300 to 450 feet) of water must cool to the freezing point for sea ice to form. Furthermore, other factors cause sea ice formation to be a slow process.\n### Stages of ice formation\nAs the ocean water begins to freeze, small needle-like ice crystals called frazil form. These crystals are typically 3 to 4 millimeters (0.12 to 0.16 inches) in diameter. Because salt doesn't freeze, the crystals expel salt into the water, and frazil crystals consist of nearly pure fresh water. Sheets of sea ice form when frazil crystals float to the surface, accumulate and bond together. This process often expels...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Characterizing Intracellular Ice Formation of Lymphoblasts Using ...",
+                "htmlTitle": "Characterizing Intracellular <b>Ice Formation</b> of Lymphoblasts Using ...",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0006349517305167",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "Jun 20, 2017 ... Low-temperature light microscopy studies have correlated darkening of the cell during freezing with IIF (see (3) for review) and high-speed ...",
+                "htmlSnippet": "Jun 20, 2017 <b>...</b> <b>Low</b>-<b>temperature</b> light microscopy studies have correlated darkening of the cell during <b>freezing</b> with IIF (see (3) for review) and high-speed&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S0006349517305167",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S0006349517305167",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq64WXloAwU-S01VZ4DbOrIgmXlEyQ7kILB3Ew0e0cUYgJlhTABbLbp6E&s",
+                            "width": "115",
+                            "height": "150"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S0006349516X00148-cov150h.gif",
+                            "citation_publication_date": "2017/06/20",
+                            "citation_title": "Characterizing Intracellular Ice Formation of Lymphoblasts Using Low-Temperature Raman Spectroscopy",
+                            "citation_author_institution": "Department of Mechanical Engineering, University of Minnesota, Minneapolis, Minnesota",
+                            "citation_reference": "citation_journal_title=Cryobiology;citation_author=S.P. Leibo;citation_author=P. Mazur;citation_title=The role of cooling rates in low-temperature preservation;citation_firstpage=447;citation_lastpage=452;citation_volume=8;citation_publication_date=1971;",
+                            "citation_publisher": "Cell Press",
+                            "citation_article_type": "Full-length article",
+                            "citation_type": "JOUR",
+                            "citation_journal_title": "Biophysical Journal",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"abs0010\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"abssec0010\"><p id=\"abspara0010\">Raman microspectroscopy was used to quantify freezing response of cells to various cooling rates and solution compositions. The distribution pattern of cytochrome <em>c</em> in individual cells was used as a measure of cell viability in the frozen state and this metric agreed well with the population-averaged viability and trypan blue staining experiments. Raman imaging of cells demonstrated that intracellular ice formation (IIF) was common and did not necessarily result in cell death. The amount of intracellular ice as well as ice crystal size played a role in determining whether or not ice inside the cell was a lethal event. Intracellular ice crystals were colocated to the sections of cell membrane in close proximity to extracellular ice. Increasing the distance between extracellular ice and ",
+                            "og:title": "Characterizing Intracellular Ice Formation of Lymphoblasts Using Low-Temperature Raman Spectroscopy",
+                            "citation_author": "Guanglin Yu",
+                            "citation_pii": "S0006349517305167",
+                            "citation_issue": "12",
+                            "og:description": "Raman microspectroscopy was used to quantify freezing response of cells to various cooling rates and solution compositions. The distribution pattern o…",
+                            "citation_online_date": "2017/06/20",
+                            "citation_author_email": "hubel001@umn.edu",
+                            "citation_firstpage": "2653",
+                            "citation_issn": "0006-3495",
+                            "citation_doi": "10.1016/j.bpj.2017.05.009",
+                            "dc.identifier": "10.1016/j.bpj.2017.05.009",
+                            "citation_volume": "112",
+                            "citation_lastpage": "2663"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S0006349516X00148-cov150h.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "404 Not Found\n===============\n404 Not Found\n=============\n* * *\nnginx",
+                    "content_tokens": 14
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "DEW AND FROST DEVELOPMENT",
+                "htmlTitle": "DEW AND <b>FROST</b> DEVELOPMENT",
+                "link": "https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/Dew_Frost/Dew_Frost.htm",
+                "displayLink": "www.weather.gov",
+                "snippet": "When temperatures drop below freezing and the temperature reaches the dew or frost point, the ice on the ground is termed frost or frozen dew. \"Frost\" can form ...",
+                "htmlSnippet": "When <b>temperatures</b> drop below <b>freezing</b> and the <b>temperature</b> reaches the dew or <b>frost</b> point, the <b>ice</b> on the ground <b>is</b> termed <b>frost</b> or frozen dew. &quot;<b>Frost</b>&quot; <b>can form</b>&nbsp;...",
+                "formattedUrl": "https://www.weather.gov/source/zhu/ZHU_Training.../Dew_Frost.htm",
+                "htmlFormattedUrl": "https://www.weather.gov/source/zhu/ZHU_Training.../Dew_Frost.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SVjygxBuRgB0F_7L9QkHmyoMZ_OtRgexGXLAD0MB_8PZFLMvj1Tw4eeW&s",
+                            "width": "251",
+                            "height": "201"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.weather.gov/source/zhu/ZHU_Training_Page/fog_stuff/Dew_Frost/rain.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**METEOROLOGIST JEFF HABY**\nWhen temperatures drop below freezing and the temperature reaches the dew or frost point, the ice on the ground is termed frost or frozen dew. \"Frost\" can form in two ways: Either by deposition or freezing. Depositional frost is also known as white frost or hoar frost. It occurs when the dewpoint (now called the frost point) is below freezing. When this frost forms the water vapor goes directly to the solid state. Depositional frost covers the vegetation, cars, etc. with ice crystal patterns (treelike branching pattern). If the depositional frost is thick enough, it resembles a light snowfall.Frost that forms due to the freezing of liquid water is best referred to as frozen dew. Initially, both the dewpoint and temperature are above freezing when dew forms. Longwave radiational cooling gradually lowers the temperature to at or below freezing during the night. Cold air advection can also do the trick (e.g. Cold front moving through in the middle of the night after dew has formed). Once the temperature falls to freezing, the condensed dew droplets freeze. Frozen dew looks different from white frost. Frozen dew does not have the crystal patterns of white frost. White frost tends to looks whiter while frozen dew tends to look slicker and more difficult to see.\nFrost and frozen dew can delay people in the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The importance of contrail ice formation for mitigating the climate ...",
+                "htmlTitle": "The importance of contrail <b>ice formation</b> for mitigating the climate ...",
+                "link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD024696",
+                "displayLink": "agupubs.onlinelibrary.wiley.com",
+                "snippet": "Mar 19, 2016 ... Contrail-induced cloudiness is currently the largest short-lived atmospheric perturbation due to aviation. Therefore, contrail cirrus clouds are ...",
+                "htmlSnippet": "Mar 19, 2016 <b>...</b> Contrail-induced cloudiness <b>is</b> currently the largest short-lived atmospheric perturbation due to aviation. Therefore, contrail cirrus clouds <b>are</b>&nbsp;...",
+                "formattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD024696",
+                "htmlFormattedUrl": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JD024696",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_keywords": "contrail",
+                            "og:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/94e5f44d-9ceb-4a75-bc20-7cc8bb808a8b/jgrd.v121.7.cover.jpg?trick=1719207929502",
+                            "citation_publication_date": "2016/04/16",
+                            "citation_title": "The importance of contrail ice formation for mitigating the climate impact of aviation",
+                            "citation_author_institution": "Deutsches Zentrum für Luft- und Raumfahrt Institut für Physik der Atmosphäre Wessling Germany",
+                            "og:site_name": "AGU Journals",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Journal of Geophysical Research: Atmospheres",
+                            "mathjax-version": "3",
+                            "og:description": "<em>Journal of Geophysical Research: Atmospheres</em> is an AGU journal publishing original research articles that advance and improve the understanding of atmospheric properties and processes.",
+                            "twitter:image": "https://agupubs.onlinelibrary.wiley.com/cms/asset/94e5f44d-9ceb-4a75-bc20-7cc8bb808a8b/jgrd.v121.7.cover.jpg?trick=1719207929502",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2016/04/06",
+                            "citation_issn": "2169-8996",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/2015JD024696",
+                            "publication_doi": "10.1002/2015JD024696",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/2015JD024696",
+                            "citation_lastpage": "3505",
+                            "og:type": "Article",
+                            "pbcontext": ";article:article:doi\\:10.1002/2015JD024696;issue:issue:doi\\:10.1002/jgrd.v121.7;page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:21698996;website:website:agupubs;journal:journal:21562202d;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                            "og:title": "The importance of contrail ice formation for mitigating the climate impact of aviation",
+                            "citation_author": "B. Kärcher",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/2015JD024696",
+                            "citation_issue": "7",
+                            "citation_firstpage": "3497",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1002/2015JD024696",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1002/2015JD024696",
+                            "citation_volume": "121",
+                            "og:url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015JD024696",
+                            "article_references": "Kärcher, B. (2016), The importance of contrail ice formation for mitigating the climate impact of aviation, J. Geophys. Res. Atmos.,  121,  3497–3505, doi:10.1002/2015JD024696."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://agupubs.onlinelibrary.wiley.com/cms/asset/94e5f44d-9ceb-4a75-bc20-7cc8bb808a8b/jgrd.v121.7.cover.jpg?trick=1719207929502"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "agupubs.onlinelibrary.wiley.com\n-------------------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nagupubs.onlinelibrary.wiley.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 49
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Salt more important than cold polar temps in sea ice formation ...",
+                "htmlTitle": "Salt more important than <b>cold</b> polar temps in sea <b>ice formation</b> ...",
+                "link": "https://www.sciencedaily.com/releases/2022/11/221116150658.htm",
+                "displayLink": "www.sciencedaily.com",
+                "snippet": "Nov 16, 2022 ... When polar seas freeze and ice forms, it is not only due to cold air chilling the surface of the water. Even more important is that warm ...",
+                "htmlSnippet": "Nov 16, 2022 <b>...</b> When polar seas <b>freeze</b> and <b>ice forms</b>, it <b>is</b> not only due to <b>cold</b> air chilling the surface of the water. Even more important <b>is</b> that warm&nbsp;...",
+                "formattedUrl": "https://www.sciencedaily.com/releases/2022/11/221116150658.htm",
+                "htmlFormattedUrl": "https://www.sciencedaily.com/releases/2022/11/221116150658.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmKnN1CIsIrKL9lFdYuRe41qNe4mlODo9Qhl-OsS4RSmxfLEOV45gT5U1V&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "last-modified": "Fri, 02 Aug 2024 03:15:01 GMT",
+                            "og:image": "https://www.sciencedaily.com/images/scidaily-icon.png",
+                            "expires": "Fri, 02 Aug 2024 04:15:01 GMT",
+                            "og:type": "article",
+                            "og:site_name": "ScienceDaily",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Salt more important than cold polar temps in sea ice formation",
+                            "og:url": "https://www.sciencedaily.com/releases/2022/11/221116150658.htm",
+                            "og:description": "When polar seas freeze and ice forms, it is not only due to cold air chilling the surface of the water. Even more important is that warm water is prevented from rising to the surface from the depths of the ocean, due to the much lower salinity of the surface water."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.sciencedaily.com/images/scidaily-icon.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Salt more important than cold polar temps in sea ice formation | ScienceDaily\n===============\n]\n* * *\nYour source for the latest research news\n**New!** Sign up for our free ****.\nScience News\nfrom research organizations\n* * *\nSalt more important than cold polar temps in sea ice formation\n==============================================================\nDate:\nNovember 16, 2022\nSource:\nUniversity of Gothenburg\nSummary:\nWhen polar seas freeze and ice forms, it is not only due to cold air chilling the surface of the water. Even more important is that warm water is prevented from rising to the surface from the depths of the ocean, due to the much lower salinity of the surface water.\nShare:\nFULL STORY\n* * *\nWhen polar seas freeze and ice forms, it is not only due to cold air chilling the surface of the water. Even more important is that warm water is prevented from rising to the surface from the depths of the ocean, due to the much lower salinity of the surface water. Researchers from the University of Gothenburg and elsewhere have described this effect in a new scientific study.\nSea ice forms in the polar regions because it gets so cold in winter. However, cold water is heavier than warm water, so the chilled water should sink and not remain on the surface. This sinking should bring the warmer water back to the surface preventing ice to form in the oceans. Researchers from the University of Gothenburg and elsewhere are now presenting an explanation as to why it is not so. The study is presented in the journal _Science Advances_.\n\"The salinity of the surface water is lower, thanks to the supply of freshwater from melting ice at the poles and precipitation to the ocean. The difference in salinity between the surface water and the deeper water is an important factor for the formation of sea ice at low temperatures at the poles. Without the difference in salinity, the water would not have become stratified, leading to continuous mixing of sea water, thus preventing the formation of ice,\" says Fabien Roquet, professor of physical oceanography at the University of Gothenburg.\n**Difference in salinity creates a \"lid\"**\nThe surface of the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Interplay of vitrification and ice formation in a cryoprotectant ...",
+                "htmlTitle": "Interplay of vitrification and <b>ice formation</b> in a cryoprotectant ...",
+                "link": "https://www.pnas.org/doi/full/10.1073/pnas.2112248119",
+                "displayLink": "www.pnas.org",
+                "snippet": "Mar 18, 2022 ... SignificanceStudying water crystallization at low temperature and the lower limit of ice formation is crucial both for a fundamental ...",
+                "htmlSnippet": "Mar 18, 2022 <b>...</b> SignificanceStudying water crystallization at <b>low temperature</b> and the <b>lower</b> limit of <b>ice formation is</b> crucial both for a fundamental&nbsp;...",
+                "formattedUrl": "https://www.pnas.org/doi/full/10.1073/pnas.2112248119",
+                "htmlFormattedUrl": "https://www.pnas.org/doi/full/10.1073/pnas.2112248119",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAiSVyMMUwPx3vrVqgUFxO1oaZruptC0bVZL3vMciMVAmw3qRmp6cFyFE8&s",
+                            "width": "188",
+                            "height": "268"
+                        }
+                    ],
+                    "ScholarlyArticle": [
+                        {
+                            "datePublished": "March 18, 2022",
+                            "noopener": "View Citations",
+                            "keywords": "Keywordsaqueous solutionsnanocrystallization kineticsout-of-equilibrium liquidslow-density amorphous waterpolarized neutron scattering",
+                            "name": "Interplay of vitrification and ice formation in a cryoprotectant aqueous solution at low temperature",
+                            "noreferrer": "View Citations"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "National Academy of Sciences",
+                            "og:image": "https://www.pnas.org/cms/asset/d2c611a7-03ee-4ab4-b89d-db05c8920d07/keyimage.jpg",
+                            "citation_publication_date": "2022/03/22",
+                            "citation_title": "Interplay of vitrification and ice formation in a cryoprotectant aqueous solution at low temperature",
+                            "og:site_name": "PNAS",
+                            "citation_publisher": "Proceedings of the National Academy of Sciences",
+                            "citation_journal_title": "Proceedings of the National Academy of Sciences",
+                            "dc.format": "text/HTML",
+                            "dc.rights": "Copyright © 2022 the Author(s). Published by PNAS.",
+                            "og:description": "The proneness of water to crystallize is a major obstacle to understanding its putative\nexotic behavior in the supercooled state. It also represent...",
+                            "citation_online_date": "2022/03/18",
+                            "dc.type": "research-article",
+                            "dc.creator": "Christiane  Alba-Simionesco",
+                            "publication_doi": "10.1073/pnas.2112248119",
+                            "citation_pdf_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2112248119",
+                            "dc.description": "SignificanceStudying water crystallization at low temperature and the lower limit of ice formation is crucial both for a fundamental understanding of water and for practical reasons such as cryopre...",
+                            "og:type": "Article",
+                            "citation_article_type": "research article",
+                            "dc.coverage": "world",
+                            "og:title": "Interplay of vitrification and ice formation in a cryoprotectant aqueous solution at low temperature | PNAS",
+                            "pbcontext": ";journal:journal:pnas;article:article:doi\\:10.1073/pnas.2112248119;page:string:Article/Chapter View;requestedJournal:journal:pnas;ctype:string:Journal Content;website:website:pnas-site;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text;issue:issue:doi\\:10.1073/pnas.2022.119.issue-12",
+                            "citation_author": "Alba-Simionesco, Christiane",
+                            "dc.date": "2022-3-18",
+                            "citation_abstract_html_url": "https://www.pnas.org/doi/abs/10.1073/pnas.2112248119",
+                            "citation_issue": "12",
+                            "citation_firstpage": "e2112248119",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1073/pnas.2112248119",
+                            "dc.title": "Interplay of vitrification and ice formation in a cryoprotectant aqueous solution at low temperature",
+                            "dc.subject": "aqueous solutions; nanocrystallization kinetics; out-of-equilibrium liquids; low-density amorphous water; polarized neutron scattering",
+                            "dc.identifier": "202112248",
+                            "citation_volume": "119",
+                            "dc.language": "EN",
+                            "og:url": "https://www.pnas.org/doi/abs/10.1073/pnas.2112248119"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.pnas.org/cms/asset/d2c611a7-03ee-4ab4-b89d-db05c8920d07/keyimage.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\nEnter journal, DOI, article type, keywords, authors, etc.\nSearching:\nAnywhere\n Search\nSUGGESTED SEARCHES:\nQuick Search anywhere\nEnter journal, DOI, article type, keywords, authors, etc.\n]\n*   \n*   _]\n*   \n*   \n*   \n*   \n*   _]\nFree access\nShare on\n*   \n*   \n*   \n*   \nInterplay of vitrification and ice formation in a cryoprotectant aqueous solution at low temperature\n====================================================================================================\n  ],  , , +3 ,  ,  ,  , and  ] \\-3\nEdited by Andrea Liu, Department of Physics & Astronomy, University of Pennsylvania, Philadelphia, PA; received July 12, 2021; accepted November 21, 2021\nMarch 18, 2022\n119 (12) e2112248119\n*   Contents\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \nSignificance\n------------\nStudying water crystallization at low temperature and the lower limit of ice formation is crucial both for a fundamental understanding of water and for practical reasons such as cryopreservation. By taking advantage of the polarized neutron scattering technique and by considering a nanosegregated water–glycerol solution, we are able to characterize the key parameters of ice formation at temperatures near and below the calorimetric glass transition of the solution and provide a general rule for estimating the lower temperature limit of water crystallization in a broad range of aqueous solutions. We also show that nanosegregated water in the glassy solution at low temperature is not in a high-density form but in a low-density one.\nAbstract\n--------\nThe proneness of water to crystallize is a major obstacle to understanding its putative exotic behavior in the supercooled state. It also represents a strong practical limitation to cryopreservation of biological systems. Adding some concentration of glycerol, which has a cryoprotective effect preventing, to some degree, water crystallization, has been proposed as a possible way out, provided the concentration is small enough for water to retain some of its bulk character and/or for limiting the damage caused by glycerol on living organisms. Contrary to previous expectations, we show that, in the “marginal” glycerol molar concentration ≈ 18%, at which vitrification is possible with no crystallization on rapid cooling, water crystallizes upon isothermal annealing even...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Cryopreservation and its clinical applications - PMC",
+                "htmlTitle": "Cryopreservation and its clinical applications - PMC",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395684/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Jan 10, 2017 ... Cryopreservation is a process that preserves organelles, cells, tissues, or any other biological constructs by cooling the samples to very ...",
+                "htmlSnippet": "Jan 10, 2017 <b>...</b> Cryopreservation <b>is</b> a process that preserves organelles, cells, tissues, or any other biological constructs by cooling the samples to very&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395684/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5395684/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Elsevier",
+                            "citation_publication_date": "2017/03",
+                            "citation_title": "Cryopreservation and its clinical applications",
+                            "citation_author_institution": "College of Medicine, Inje University, Busan, Korea",
+                            "citation_journal_title": "Integrative Medicine Research",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC5395684/",
+                            "ncbi_phid": "D0BDEB6C4AB2BED500005874CDF8FA9D.1.m_2",
+                            "ncbi_db": "pmc",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC5395684/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "28462139",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "citation_author": "Tae Hoon Jang",
+                            "citation_abstract_html_url": "/pmc/articles/PMC5395684/?report=abstract",
+                            "citation_issue": "1",
+                            "dc.contributor": "Tae Hoon Jang",
+                            "citation_firstpage": "12",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1016/j.imr.2016.12.001",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Cryopreservation and its clinical applications",
+                            "ncbi_domain": "imr",
+                            "citation_volume": "6"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   \n*   \n*   PMC5395684\nIntegr Med Res. 2017 Mar; 6(1): 12–18.\n,a,1 ,a,1 ,a ,a ,a ,a ,a ,b,⁎ and b,⁎\nAbstract\n--------\nCryopreservation is a process that preserves organelles, cells, tissues, or any other biological constructs by cooling the samples to very low temperatures. The responses of living cells to ice formation are of theoretical interest and practical relevance. Stem cells and other viable tissues, which have great potential for use in basic research as well as for many medical applications, cannot be stored with simple cooling or freezing for a long time because ice crystal formation, osmotic shock, and membrane damage during freezing and thawing will cause cell death. The successful cryopreservation of cells and tissues has been gradually increasing in recent years, with the use of cryoprotective agents and temperature control equipment. Continuous understanding of the physical and chemical properties that occur in the freezing and thawing cycle will be necessary for the successful cryopreservation of cells or tissues and their clinical applications. In this review, we briefly address representative cryopreservation processes, such as slow freezing and vitrification, and the available cryoprotective agents. In addition, some adverse effects of cryopreservation are mentioned.\n**Keywords:** cryoinjury, cryopreservation, cryoprotective agent, slow freezing, vitrification\n1. Introduction\n---------------\nBiological and chemical reactions in living cells are dramatically...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "How insects survive cold: The potential effect of a mild winter - Field ...",
+                "htmlTitle": "How insects survive <b>cold</b>: The potential <b>effect</b> of a mild winter - Field ...",
+                "link": "https://www.canr.msu.edu/news/how_insects_survive_cold_the_potential_effect_of_a_mild_winter",
+                "displayLink": "www.canr.msu.edu",
+                "snippet": "Mar 14, 2023 ... Large insect populations are possible this year, but many factors determine overwintering survival and success.",
+                "htmlSnippet": "Mar 14, 2023 <b>...</b> Large insect populations <b>are</b> possible this year, but many factors determine overwintering survival and success.",
+                "formattedUrl": "https://www.canr.msu.edu/.../how_insects_survive_cold_the_potential_effe...",
+                "htmlFormattedUrl": "https://www.canr.msu.edu/.../how_insects_survive_cold_the_potential_effe...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMe69AVSrkWNGSFH21O9zUzhSZrs3O2m-nBL8Ih-i7Vb8OKSxfo4aP-19L&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://www.canr.msu.edu/contentAsset/image/8a1e8c2d-c03a-442e-85c4-bfd8848f841e/fileAsset/filter/Resize,Crop,Jpeg/resize_w/300/crop_w/300/crop_h/200/crop_x/0/crop_y/0/jpeg_q/50"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.canr.msu.edu/contentAsset/image/8a1e8c2d-c03a-442e-85c4-bfd8848f841e/fileAsset/filter/Resize,Crop,Jpeg/resize_w/300/crop_w/300/crop_h/200/crop_x/0/crop_y/0/jpeg_q/50",
+                            "og:type": "article",
+                            "twitter:title": "How insects survive cold: The potential effect of a mild winter - Field Crops",
+                            "twitter:card": "summary",
+                            "thumbnail": "https://www.canr.msu.edu/contentAsset/image/8a1e8c2d-c03a-442e-85c4-bfd8848f841e/fileAsset/filter/Resize,Crop,Jpeg/resize_w/300/crop_w/300/crop_h/200/crop_x/0/crop_y/0/jpeg_q/50",
+                            "og:site_name": "Field Crops",
+                            "msvalidate.01": "5DC6B98B9F1DF8E1632E3F23703570EB",
+                            "og:title": "How insects survive cold: The potential effect of a mild winter",
+                            "og:description": "Large insect populations are possible this year, but many factors determine overwintering survival and success.",
+                            "twitter:image": "https://www.canr.msu.edu/contentAsset/image/8a1e8c2d-c03a-442e-85c4-bfd8848f841e/fileAsset/filter/Resize,Crop,Jpeg/resize_w/300/crop_w/300/crop_h/200/crop_x/0/crop_y/0/jpeg_q/50",
+                            "referrer": "unsafe-url",
+                            "twitter:image:alt": "Bee in a white flower with snow surrounding.",
+                            "twitter:site": "@MSUExtension",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "Large insect populations are possible this year, but many factors determine overwintering survival and success.",
+                            "og:url": "https://www.canr.msu.edu/news/how_insects_survive_cold_the_potential_effect_of_a_mild_winter"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.canr.msu.edu/contentAsset/image/8a1e8c2d-c03a-442e-85c4-bfd8848f841e/fileAsset/filter/Resize,Crop,Jpeg/resize_w/300/crop_w/300/crop_h/200/crop_x/0/crop_y/0/jpeg_q/50"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nChristina DiFonzo<difonzo@msu.edu>, Michigan State University Extension, Department of Entomology -\r\n                    March 14, 2023\n\nLarge insect populations are possible this year, but many factors determine overwintering survival and success.\nFreezing temperatures are detrimental to many forms of life, including most insects. Insects are exothermic (cold-blooded), which means they cannot produce their own body heat. In order to survive and thrive in climates such as ours, insects have developed several ways to deal with cold weather.\nThe first strategy is to avoid freezing conditions altogether. The classic example of this is the monarch butterfly, which migrates south in the fall to overwintering sites in Mexico. In the spring, the monarch population makes its way back north. Eventually, the children or grandchildren of last year’s monarchs return to Michigan. Pest insects such as armyworms, earworms, potato leafhoppers and some grain aphids do not survive the winter in Michigan either. Instead, populations continuously reproduce in southern states, and insects move north with spring weather fronts to recolonize northern states.\nInsects that do overwinter in Michigan have ways to survive typical winter weather. Death by freezing isn’t so much related to low temperature itself as it is the result of ice crystals forming in the body. Rapid formation and expansion of ice crystals cause cells to burst, resulting...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

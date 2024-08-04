@@ -1,0 +1,670 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Baikonur Cosmodrome location details in videos",
+                "totalResults": "109000",
+                "searchTerms": "Baikonur Cosmodrome location details in videos",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Baikonur Cosmodrome location details in videos",
+                "totalResults": "109000",
+                "searchTerms": "Baikonur Cosmodrome location details in videos",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.26196,
+        "formattedSearchTime": "0.26",
+        "totalResults": "109000",
+        "formattedTotalResults": "109,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "A visit to Kazakhstan's Baikonur cosmodrome | DW English - YouTube",
+                "htmlTitle": "A visit to Kazakhstan&#39;s <b>Baikonur cosmodrome</b> | DW English - <b>YouTube</b>",
+                "link": "https://www.youtube.com/watch?v=UOe5JmJyxSc",
+                "displayLink": "www.youtube.com",
+                "snippet": "Jun 6, 2018 ... German astronaut Alexander Gerst is set to take off abroad a Soyuz rocket from Kazakhstan's Baikonur spaceport for his second trip into\u00a0...",
+                "htmlSnippet": "Jun 6, 2018 <b>...</b> German astronaut Alexander Gerst is set to take off abroad a Soyuz rocket from Kazakhstan&#39;s <b>Baikonur</b> spaceport for his second trip into&nbsp;...",
+                "formattedUrl": "https://www.youtube.com/watch?v=UOe5JmJyxSc",
+                "htmlFormattedUrl": "https://www.youtube.com/watch?v=UOe5JmJyxSc",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5q_PsFal8x_VT7Qx0-2j9x832Oz6iskPGm8YtQNem2U-xuORzvaeR_hA&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/watch?v=UOe5JmJyxSc&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "theme-color": "rgba(0, 0, 0, 0)",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "twitter:url": "https://www.youtube.com/watch?v=UOe5JmJyxSc",
+                            "og:url": "https://www.youtube.com/watch?v=UOe5JmJyxSc"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.ytimg.com/vi/UOe5JmJyxSc/hqdefault.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A visit to Kazakhstan's Baikonur cosmodrome | DW English - YouTube\n===============\nA visit to Kazakhstan's Baikonur cosmodrome | DW English\nSearch\nWatch later\nShare\nCopy link\nInfo\nShopping\nTap to unmute\n2x\n!\nIf playback doesn't begin shortly, try restarting your device.\n!\n\u2022\nShare\nInclude playlist\nAn error occurred while retrieving sharing information. Please try again later.\n0:00\n0:00 / 2:33\u2022Live\n\u2022\n\u2022\nScroll for details",
+                    "content_tokens": 111
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "YouTube is a widely used platform for sharing videos, including user-generated content. While it serves as a repository for diverse opinions and evidence, it also hosts a significant amount of unverified and potentially misleading information. The credibility of content on YouTube varies greatly depending on the source of the video. Official channels (e.g., news organizations or reputable experts) may provide reliable information, while personal accounts and unverified claims may not. Therefore, while YouTube is valuable for accessing video content, it lacks rigorous editorial oversight, leading to a middle-ground score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-06-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This video discusses the Baikonur Cosmodrome and features a space launch, indicating its operational status in Kazakhstan. However, it doesn\u2019t provide specific details that directly connect to the video in question or explicitly confirm the video's location at Baikonur."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Two abandoned Soviet space shuttles left in the Kazakh steppe | CNN",
+                "htmlTitle": "Two abandoned Soviet <b>space</b> shuttles left in the Kazakh steppe | CNN",
+                "link": "https://www.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Two Soviet-era space shuttles from the Buran program lie abandoned in a hangar in the Baikonur space center in Kazakhstan.",
+                "htmlSnippet": "Two Soviet-era space shuttles from the Buran program lie abandoned in a hangar in the <b>Baikonur space</b> center in Kazakhstan.",
+                "formattedUrl": "https://www.cnn.com/style/article/baikonur-buran-soviet.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/style/article/<b>baikonur</b>-buran-soviet.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUbhj8shmlkAxK9K9MGDKPNuf7jRzSC3iS_-biJeuSd9PdQJiGZoLuNA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/171031113111-baikonurburan5b.jpg?q=x_0,y_8,h_1123,w_1997,c_crop/w_800",
+                            "twitter:title": "Abandoned ruins of Soviet space shuttles | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2017-11-21T00:54:05Z",
+                            "og:site_name": "CNN",
+                            "author": "Jacopo Prisco",
+                            "og:title": "Abandoned ruins of Soviet space shuttles | CNN",
+                            "meta-section": "style",
+                            "type": "article",
+                            "og:description": "Two Soviet-era space shuttles from the Buran program lie abandoned in a hangar in the Baikonur space center in Kazakhstan.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/171031113111-baikonurburan5b.jpg?q=x_0,y_8,h_1123,w_1997,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "aviation and aerospace industry, business and industry sectors, business, economy and trade, space and astronomy, space industry, space shuttle, spacecraft and satellites, destinations and attractions, eastern europe, europe, military, museums and galleries, nasa, russia, space exploration, space stations, us federal departments and agencies, us government independent agencies, celestial bodies and objects, earth, planets and moons, cold war, unrest, conflicts and war, defense industry, accidents, accidents, disasters and safety, aircraft, building and structure collapses, germany, ukraine, western europe",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNNstyle",
+                            "article:modified_time": "2017-12-21T19:44:12Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Two Soviet-era space shuttles from the Buran program lie abandoned in a hangar in the Baikonur space center in Kazakhstan.",
+                            "template_type": "article_leaf",
+                            "theme": "style",
+                            "og:url": "https://www.cnn.com/style/article/baikonur-buran-soviet-space-shuttle/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/171031113111-baikonurburan5b.jpg?q=x_0,y_8,h_1123,w_1997,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nAd Feedback\nTwo abandoned Soviet space shuttles left in the Kazakh steppe\n=============================================================\n]\n, CNN\n5 minute read\nUpdated 2:44 PM EST, Thu December 21, 2017\nLink Copied!\n!\nA Soviet-era Buran shuttle lies abandoned in a hangar at the Baikonur Cosmodrome in Kazakhstan. It's been gathering dust here for nearly 30 years. French photographer David de Rueda has visited the site, which is not open to the public, three times between 2015 and 2017, taking these photographs.\nDavid de Rueda\n!. After the long trek through the steppe we were quite exhausted but we couldn't sleep because it was too cold. Being there was so unreal and exciting it gave me enough power to take the pictures I was looking for,\" said de Rueda in an email interview.]\nA building called MKZ houses two of the shuttles, only one of which was designed to fly into space: \"This is the first photo ever showing both space shuttles and the entire MZK building. It's the main piece of my first trip \\. After the long trek through the steppe we were quite exhausted but we couldn't sleep because it was too cold. Being there was so unreal and exciting it gave me enough power to take the pictures I was looking for,\" said de Rueda in an...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "CNN is a prominent news organization with a reputation for providing national and international news. It adheres to journalistic standards that include fact-checking and sourcing information. While CNN has faced critiques for bias and sensationalism at times, its commitment to journalistic integrity gives it a high score regarding truthfulness and reliability. It is also known for covering stories that can help contextualize claims like UFO sightings."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-11-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This article provides information about the Soviet space shuttles located at the Baikonur Cosmodrome. This relevance is moderate because it establishes the historical significance of the site within Kazakhstan, but it doesn\u2019t directly tie into the specific details needed to confirm the video's location."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Baikonur Cosmodrome - Kazakhstan - YouTube",
+                "htmlTitle": "<b>Baikonur Cosmodrome</b> - Kazakhstan - <b>YouTube</b>",
+                "link": "https://www.youtube.com/watch?v=GErgxdshOts",
+                "displayLink": "www.youtube.com",
+                "snippet": "Dec 2, 2013 ... For more information, visit the Nuclear Threat Initiative's Baikonur Cosmodrome page: http://www.nti.org/facilities/466/ Media inquiries:\u00a0...",
+                "htmlSnippet": "Dec 2, 2013 <b>...</b> For more <b>information</b>, visit the Nuclear Threat Initiative&#39;s <b>Baikonur Cosmodrome</b> page: http://www.nti.org/facilities/466/ Media inquiries:&nbsp;...",
+                "formattedUrl": "https://www.youtube.com/watch?v=GErgxdshOts",
+                "htmlFormattedUrl": "https://www.youtube.com/watch?v=GErgxdshOts",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW_RCl_qB0oBq61jGUYcgKJml16kwLBJG_YY_Fd40zJsv1R0_sy4aEBZ8&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/watch?v=GErgxdshOts&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "theme-color": "rgba(0, 0, 0, 0)",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "twitter:url": "https://www.youtube.com/watch?v=GErgxdshOts",
+                            "og:url": "https://www.youtube.com/watch?v=GErgxdshOts"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.ytimg.com/vi/_AIAdk_-h0A/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBEDgVl1gJEYxrQlnl6jHAAj7IAOQ"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Baikonur Cosmodrome - Kazakhstan - YouTube\n===============\nBaikonur Cosmodrome - Kazakhstan\nSearch\nWatch later\nShare\nCopy link\nInfo\nShopping\nTap to unmute\n2x\n!\nIf playback doesn't begin shortly, try restarting your device.\n!\n\u2022\nShare\nInclude playlist\nAn error occurred while retrieving sharing information. Please try again later.\n0:00\n0:00 / 4:52\u2022Live\n\u2022\n\u2022\nScroll for details",
+                    "content_tokens": 99
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "YouTube is a widely used platform for sharing videos, including user-generated content. While it serves as a repository for diverse opinions and evidence, it also hosts a significant amount of unverified and potentially misleading information. The credibility of content on YouTube varies greatly depending on the source of the video. Official channels (e.g., news organizations or reputable experts) may provide reliable information, while personal accounts and unverified claims may not. Therefore, while YouTube is valuable for accessing video content, it lacks rigorous editorial oversight, leading to a middle-ground score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2013-12-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This video mentions Baikonur, hence slightly supports the notion of the Cosmodrome being a spaceport in Kazakhstan. However, it lacks specific details from the video that would confirm its setting in Baikonur."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Baikonur Cosmodrome - Wikipedia",
+                "htmlTitle": "<b>Baikonur Cosmodrome</b> - <b>Wikipedia</b>",
+                "link": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "The Baikonur Cosmodrome is a spaceport operated by Russia within Kazakhstan. Located in the Kazakh city of Baikonur, it is the largest operational space\u00a0...",
+                "htmlSnippet": "The <b>Baikonur Cosmodrome</b> is a spaceport operated by Russia within Kazakhstan. <b>Located</b> in the Kazakh city of Baikonur, it is the largest operational space&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Baikonur_Cosmodrome",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Baikonur</b>_<b>Cosmodrome</b>",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "baikonurtour.com",
+                            "note": "Owner/OperatorRoscosmosRussian Aerospace Forces",
+                            "fn": "Baikonur Cosmodrome",
+                            "nickname": "Kazakh: \u0411\u0430\u0439\u049b\u043e\u04a3\u044b\u0440 \u0493\u0430\u0440\u044b\u0448 \u0430\u0439\u043b\u0430\u0493\u044b Russian: \u041a\u043e\u0441\u043c\u043e\u0434\u0440\u043e\u043c \u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440",
+                            "label": "Kazakhstan (leased to Russia)",
+                            "category": "Spaceport",
+                            "url": "baikonurtour.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Baikonur_Cosmodrome_Soyuz_launch_pad.jpg/1200px-Baikonur_Cosmodrome_Soyuz_launch_pad.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Baikonur Cosmodrome - Wikipedia",
+                            "og:image:height": "798",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "| Baikonur Cosmodrome\n: \u0411\u0430\u0439\u049b\u043e\u04a3\u044b\u0440 \u0493\u0430\u0440\u044b\u0448 \u0430\u0439\u043b\u0430\u0493\u044b  \n: \u041a\u043e\u0441\u043c\u043e\u0434\u0440\u043e\u043c \u0411\u0430\u0439\u043a\u043e\u043d\u0443\u0440\n |\n| --- |\n| ]\nThe Cosmodrome's \"\" launchpad on 10 October 2008, prior to the rollout of .\n |\n| \n*   : _none_\n*   : _none_\n*   : GC0015\n |\n| Summary |\n| Airport type |  |\n| Owner/Operator | \n*   \n*   \n |\n| Location | \u00a0! (leased to \u00a0!) |\n| Built | 1955 |\n|  |  () |\n| Elevation\u00a0 | 90\u00a0m / 295\u00a0ft |\n|  |  |\n| Website |  |\n| Map |\n| \n]\n!\nBaikonur Cosmodrome\nLocation in Kazakhstan\n]\n!\nBaikonur Cosmodrome\nLocation relative to Russia (leased until 2050)\n]\n!\nBaikonur Cosmodrome\nLocation in the former \n |\nThe **Baikonur Cosmodrome**] is a  operated by  within . Located in the Kazakh city of , it is the largest operational space launch facility in terms of area.] All Russian  are launched from Baikonur.]\nSituated in the , some 90 metres (300\u00a0ft) above sea level, it is 200 kilometres (120\u00a0mi) to the east of the  and north of the . It is close to , a station on the . Russia, as the official successor state to the , has retained control over the facility since 1991; it originally assumed this role through the post-Soviet  (CIS), but ratified an agreement with Kazakhstan in 2005 that allowed it to lease the spaceport until 2050. It is jointly managed by  and the .\\_\\]\nIn 1955, the  \"Ministry of Defense (Soviet Union)\") issued a decree and founded the Baikonur Cosmodrome.] It was originally built as the chief base of operations for the . The Cosmodrome served as the launching point for  and . The launchpad used for both missions...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Wikipedia is a collaborative online encyclopedia known for its extensive references and citations. Most entries are continuously updated by users and include sources that can be verified. While there is a risk of misinformation being posted, the community and editorial processes typically correct inaccuracies over time. Wikipedia is a valuable starting point for research, especially on general topics, and can guide readers to more reliable sources."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This Wikipedia entry provides a comprehensive overview of the Baikonur Cosmodrome, stating its significance as a spaceport in Kazakhstan. It helps establish the credibility of the claim but does not address specifics from the video."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Everything you need to know about Baikonur Cosmodrome! - YouTube",
+                "htmlTitle": "Everything you need to know about <b>Baikonur Cosmodrome</b>! - <b>YouTube</b>",
+                "link": "https://www.youtube.com/watch?v=StdeqSd7Wtw",
+                "displayLink": "www.youtube.com",
+                "snippet": "Oct 27, 2021 ... BaikonurCosmodrome #Baikonur #Soyuz #SpaceTalk #SpaceNews This is a clip from our full episode Space Talk Season 1 Episode 1 - Baikonur\u00a0...",
+                "htmlSnippet": "Oct 27, 2021 <b>...</b> BaikonurCosmodrome #<b>Baikonur</b> #Soyuz #SpaceTalk #SpaceNews This is a clip from our full episode <b>Space</b> Talk Season 1 Episode 1 - <b>Baikonur</b>&nbsp;...",
+                "formattedUrl": "https://www.youtube.com/watch?v=StdeqSd7Wtw",
+                "htmlFormattedUrl": "https://www.youtube.com/watch?v=StdeqSd7Wtw",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV1OOvYE9vBFK7jCuH3AlwXKnjQ6wUNgZzuUwXumOcQv8byWF6btQUxQdu&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=544007664, app-argument=https://m.youtube.com/watch?v=StdeqSd7Wtw&referring_app=com.apple.mobilesafari-smartbanner, affiliate-data=ct=smart_app_banner_polymer&pt=9008",
+                            "theme-color": "rgba(0, 0, 0, 0)",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no,",
+                            "twitter:url": "https://www.youtube.com/watch?v=StdeqSd7Wtw",
+                            "og:url": "https://www.youtube.com/watch?v=StdeqSd7Wtw"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.ytimg.com/vi/8a1-gfqXvSg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCag3DMahvKeu-8LPBkTYIQ8fJz6w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "- YouTube\n===============\nSearch\nWatch later\nShare\nCopy link\nInfo\nShopping\nTap to unmute\n2x\n!\nIf playback doesn't begin shortly, try restarting your device.\n!\n\u2022\nShare\nInclude playlist\nAn error occurred while retrieving sharing information. Please try again later.\n0:00\n0:00 / 0:00\u2022Live\n\u2022\n\u2022\nScroll for details\n  \u2022\nNaN / NaN\n\u2022\nNaN / NaN\nBack ]\nSearch\nSearch\n ]",
+                    "content_tokens": 103
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "YouTube is a widely used platform for sharing videos, including user-generated content. While it serves as a repository for diverse opinions and evidence, it also hosts a significant amount of unverified and potentially misleading information. The credibility of content on YouTube varies greatly depending on the source of the video. Official channels (e.g., news organizations or reputable experts) may provide reliable information, while personal accounts and unverified claims may not. Therefore, while YouTube is valuable for accessing video content, it lacks rigorous editorial oversight, leading to a middle-ground score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While this video relates to Baikonur, it doesn't provide specific content that would confirm or clarify the video's claims about UFO sightings or the urban night scenes depicted."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "ESA Television - Videos - 2018 - 11 - Space Station 20th: longest ...",
+                "htmlTitle": "ESA Television - <b>Videos</b> - 2018 - 11 - <b>Space</b> Station 20th: longest ...",
+                "link": "https://www.esa.int/esatv/Videos/2018/11/Space_Station_20th_longest_continuous_timelapse_from_space",
+                "displayLink": "www.esa.int",
+                "snippet": "Nov 19, 2018 ... Description. Since the very first module Zarya was launched from the Baikonur Cosmodrome on 20 November 1998, the International Space Station\u00a0...",
+                "htmlSnippet": "Nov 19, 2018 <b>...</b> <b>Description</b>. Since the very first module Zarya was launched from the <b>Baikonur Cosmodrome</b> on 20 November 1998, the International Space Station&nbsp;...",
+                "formattedUrl": "https://www.esa.int/.../Videos/.../Space_Station_20th_longest_continuous_ti...",
+                "htmlFormattedUrl": "https://www.esa.int/.../<b>Videos</b>/.../Space_Station_20th_longest_continuous_ti...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH1WctsP32wddFFrBA4NtxYmYd-n7A38VITLJe8ilTdMejjgWfBQyr-Q&s",
+                            "width": "200",
+                            "height": "113"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "copyright": "Copyright 2013 \u00a9 European Space Agency. All rights reserved.",
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.esa.int/extension/esadam/design/esadam/images/global/esa_tv_notification.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Details\n-------\n]\n*   **Video** Online only\n*   **Title** Space Station 20th: longest continuous timelapse from space\n*   **Released**: 19/11/2018\n*   **Length** 00:14:41\n*   **Language** English\n*   **Footage Type** Music Clip\n*   **Copyright** ESA/NASA\n*   **Description**Since the very first module Zarya was launched from the Baikonur Cosmodrome on 20 November 1998, the International Space Station has delivered a whole new perspective on this planet we call home. Join us as we celebrate 20 years of international collaboration and research for the benefit of Earth with ESA astronaut Alexander Gerst\u2019s longest timelapse yet.\n    In just under 15 minutes, this clip takes you from Tunisia across Beijing and through Australia in two trips around the world. You can follow the Station\u2019s location using the map at the top right-hand-side of the screen alongside annotations on the photos themselves. As the map is a two-dimensional representation of Earth\u2019s globe the ground track of the Space Station appears to be wavy.\n    This timelapse comprises approximately 21 375 images of Earth captured by Alexander from the International Space Station orbiting at 400 km altitude and shown 12.5 times faster than actual speed. The images were taken from the European-built Cupola observatory on 6 October 2018.\n    At 28 800 km/h it only takes 90 minutes for the weightless laboratory to make a complete circuit of Earth so the video shows the world passing from day to night and back again twice. The darker regions on the map shows where night is on Earth.\n    As the Space Station flies into the night the solar wings rotate to get ready to capture...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The European Space Agency (ESA) website hosts official scientific information and space mission updates. As an authoritative body in the field of space exploration, ESA provides highly credible and accurate information regarding space phenomena, including potential explanations for UFO sightings. Its focus on scientific research and transparency bolsters its reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-11-19"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This video highlights a specific historical point about Baikonur but does not provide any evidence linking to the specific details about the UFO or the video\u2019s events. It therefore has low relevance."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Baikonur Cosmodrome Rocket Launch Schedule: Today & Upcoming",
+                "htmlTitle": "<b>Baikonur Cosmodrome</b> Rocket Launch Schedule: Today &amp; Upcoming",
+                "link": "https://www.spacelaunchschedule.com/category/baikonur-cosmodrome/",
+                "displayLink": "www.spacelaunchschedule.com",
+                "snippet": "Baikonur Cosmodrome Rocket Launch Schedule: Live Video Feed, Trajectory, Location, Booster Landing Information Today & Upcoming - Space Launch Schedule.",
+                "htmlSnippet": "<b>Baikonur Cosmodrome</b> Rocket Launch Schedule: Live <b>Video</b> Feed, Trajectory, <b>Location</b>, Booster Landing <b>Information</b> Today &amp; Upcoming - Space Launch Schedule.",
+                "formattedUrl": "https://www.spacelaunchschedule.com/category/baikonur-cosmodrome/",
+                "htmlFormattedUrl": "https://www.spacelaunchschedule.com/category/<b>baikonur</b>-<b>cosmodrome</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCTjY5gd03zZ2PlEenrkM4KjcIIY_Xy17qZrfCKdyWIoZqnuEQfV0nHrA&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "Event": [
+                        {
+                            "endDate": "2024-12-31T00:00:00Z",
+                            "eventStatus": "http://schema.org/EventScheduled",
+                            "name": "Soyuz 2.1a | Bion-M No. 2",
+                            "description": "Bion-M is the next generation of Russian biological",
+                            "eventAttendanceMode": "http://schema.org/MixedEventAttendanceMode",
+                            "startDate": "2024-12-31T00:00:00Z"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.spacelaunchschedule.com/wp-content/uploads/falcon-heavy-cover.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Space Launch Schedule",
+                            "og:title": "Baikonur Cosmodrome Rocket Launch Schedule: Today & Upcoming - Space Launch Schedule",
+                            "og:image:height": "683",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.spacelaunchschedule.com/wp-content/uploads/cropped-rocket-monkey-head-logo-2-270x270.png",
+                            "og:description": "Baikonur Cosmodrome Rocket Launch Schedule: Live Video Feed, Trajectory, Location, Booster Landing Information Today & Upcoming - Space Launch Schedule",
+                            "twitter:site": "@SpaceLaunches",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.spacelaunchschedule.com/category/baikonur-cosmodrome/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.spacelaunchschedule.com/wp-content/uploads/falcon-heavy-cover.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Baikonur Cosmodrome Rocket Launch Schedule: Today & Upcoming - Space Launch Schedule\n===============\n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBaikonur Cosmodrome Rocket Launch Schedule: Today & Upcoming\n============================================================\nDiscover the upcoming **Baikonur Cosmodrome rocket launch schedule**, featuring today's and upcoming launches. Our page offers detailed insights into each mission, including trajectory, crew details, mission objectives, rocket specifications, launch location, and booster landing updates. Watch live Baikonur Cosmodrome video feeds and stay informed about the latest developments.\nWe provide comprehensive information on prime  and  viewing locations for upcoming Baikonur Cosmodrome launches from  and , ensuring you never miss a moment of the action. Whether it's a launch happening today, next week, or next month, our page serves as your ultimate destination for all things Baikonur Cosmodrome. Stay ahead of the curve with essential updates on rocket launches, spacecraft deployments, booster landings, and more. Join us as we embark on an exhilarating journey through space exploration.\n### Russian Federal Space Agency (ROSCOSMOS)\nGo For Launch\nThu \u2022 Aug 15th, 2024  \n3:20 AM UTC...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This website provides schedules for upcoming space launches from various space agencies and entities. While it appears to have good information about space-related activities, it may not cover broader scientific topics extensively. Still, it is a reliable source for information related to space launches, which can give context to claims of UFO sightings in relation to human activities."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This source discusses the Baikonur rocket launch schedule, establishing its operational relevance in Kazakhstan. However, it doesn\u2019t offer any details confirming the specifics of the claim or the video content."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Baikonur Cosmodrome (NIIP-5/GIK-5)",
+                "htmlTitle": "<b>Baikonur Cosmodrome</b> (NIIP-5/GIK-5)",
+                "link": "https://www.russianspaceweb.com/baikonur.html",
+                "displayLink": "www.russianspaceweb.com",
+                "snippet": "The second launch pad for R-7-based rockets has been operating at Site 31 since 1960. Launch facilities for R-16 ICBM and Kosmos-1 launcher. Around November\u00a0...",
+                "htmlSnippet": "The second launch pad for R-7-based rockets has been operating at <b>Site</b> 31 since 1960. Launch facilities for R-16 ICBM and Kosmos-1 launcher. Around November&nbsp;...",
+                "formattedUrl": "https://www.russianspaceweb.com/baikonur.html",
+                "htmlFormattedUrl": "https://www.russianspaceweb.com/<b>baikonur</b>.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZw-c9gUpcnvZjgYPj-33ErqHh9mJmASI1ThVvroWgOKKapkbaQ74frg&s",
+                            "width": "144",
+                            "height": "350"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.russianspaceweb.com/images/logos/insider_content_200.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of the Soviet Union trying to pinpoint the new test site. In the summer of 1957, only weeks after the first test flight of the , the U-2 mission brought its fruit - the pictures of the  in Tyuratam. Yet, for decades to come the Soviet government would not confirm the exact location of the test range.\nVIRTUAL GUIDE TO BAIKONUR COSMODROME\n]****\nBaikonur Cosmodrome, aka TyNIIP-5 test range, is traditionally subdivided into three regions, which used to be dominated by the launch and processing facilities of the major players in the Soviet rocketry -- Sergei Korolev, Mikhail Yangel and Vladimir Chelomei. These regions are known as \"center,\" \"right flank\" and \"left flank.\"\n]\n****\nA virtual tour along the historic road, connecting the town of Baikonur, formerly known as Leninsk, with the launch facilities deep in the steppe. The infamous \"motovoz\" -- a diesel-powered train shuttling between the town and launch complexes -- has been perhaps the most enduring icon of Baikonur, immortalized in a popular folk song about the center.\n]\n****\nThe very first launch complex founded in 1955 in Tyuratam included a single launch pad at Site 1 and the assembly and processing buildings at Site 2 and 2B. The original R-7 rocket blasted off from Site 1 in May 1957. The world's first artificial satellite was launched from the same pad on October 4, 1957. Following the launch of Vostok-1 in 1961, the Site 1 was nicknamed Gagarin's pad. The complex has remained operational at the turn of the 21st century, after hosting around 400 launches. The second launch pad for R-7-based rockets has been operating at Site 31 since 1960.\n!\n**Launch facilities for R-16 ICBM and Kosmos-1 launcher**\nAround November 1959, the construction of the first launch pads for the  missile started at Site 41. The facility included two surface pads designated PU-3 (Puskovaya Ustanovka) and PU-4. The concrete works started here on December 5, 1959, and according to the construction schedule signed on December 17, 1959, the pads were expected to be ready by September 1960. The first launch attempt took place here in October 1960, however it ended in a  in the history of rocket...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This site specializes in covering the Russian space program and providing detailed analysis and updates. It is well-regarded for its thoroughness and accuracy regarding space-related topics. While it may focus primarily on Russian space activities, it remains a credible source for understanding related phenomena that could connect with UFO claims."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses the history and structure of the Baikonur Cosmodrome, but does not focus on confirming details linked with the UFO or the specific urban scene shown in the video."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "British YouTube travel star Benjamin Rich arrested at Baikonur ...",
+                "htmlTitle": "British <b>YouTube</b> travel star Benjamin Rich arrested at <b>Baikonur</b> ...",
+                "link": "https://www.reuters.com/world/uk/british-youtube-star-rich-arrested-baikonur-cosmodrome-russia-2022-05-07/",
+                "displayLink": "www.reuters.com",
+                "snippet": "May 7, 2022 ... British YouTube travel star Benjamin Rich arrested at Baikonur Cosmodrome, Russia says. By Reuters. May 8, 20224:48 AM PDTUpdated 2 years ago.",
+                "htmlSnippet": "May 7, 2022 <b>...</b> British <b>YouTube</b> travel star Benjamin Rich arrested at <b>Baikonur Cosmodrome</b>, Russia says. By Reuters. May 8, 20224:48 AM PDTUpdated 2 years ago.",
+                "formattedUrl": "https://www.reuters.com/.../british-youtube-star-rich-arrested-baikonur-cos...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../british-youtube-star-rich-arrested-<b>baikonur</b>-<b>cos</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM77a7GP5h3DAauKpYAWeQxbcQGHLcoVWgtoqIlFEOMf8YSQWZHHETY1g&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/world/uk/british-youtube-star-rich-arrested-baikonur-cosmodrome-russia-2022-05-07/?id=NPPSWYQ6FRM2HMU4JEVIGV3GLE",
+                            "og:image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2022-05-08T11:48:22Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "World",
+                            "title": "British YouTube travel star Benjamin Rich arrested at Baikonur Cosmodrome, Russia says | Reuters",
+                            "og:description": "British YouTube travel blogger Benjamin Rich, who specialises in remote and sometimes dangerous parts of the world, has been arrested at the Baikonur Cosmodrome in Kazakhstan, the head of the Russian space agency Roscosmos said on Saturday.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2022-05-08T11:49:00.370Z",
+                            "render_timestamp": "2024-07-31T23:32:09.982Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "metered",
+                            "og:type": "article",
+                            "article:section": "United Kingdom",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "British YouTube travel star Benjamin Rich arrested at Baikonur Cosmodrome, Russia says",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+                            "dcsext.dartzone": "/4735792/reuters.com/world/uk/article",
+                            "og:title": "British YouTube travel star Benjamin Rich arrested at Baikonur Cosmodrome, Russia says",
+                            "dcsext.channellist": "World;Asia Pacific",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2022-05-08T11:48:22Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters",
+                            "article:tag": "CLJ,CRIM,DIP,GEN,POL,SCI,SPEX,UK,GB,CEEU,WEU,EUROP,RU,BY,NASIA,ASXPAC,CISC,EMRG,ASIA,ENT,GBE,KZ,CASIA",
+                            "analyticsattributes.topicsubchannel": "United Kingdom",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "British YouTube travel blogger Benjamin Rich, who specialises in remote and sometimes dangerous parts of the world, has been arrested at the Baikonur Cosmodrome in Kazakhstan, the head of the Russian space agency Roscosmos said on Saturday.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/world/uk/british-youtube-star-rich-arrested-baikonur-cosmodrome-russia-2022-05-07/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/world/uk/british-youtube-star-rich-arrested-baikonur-cosmodrome-russia-2022-05-07/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/world/uk/british-youtube-star-rich-arrested-baikonur-cosmodrome-russia-2022-05-07/",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Reuters is a global news organization with a strong foundation in journalism. It is known for its reliability, commitment to accuracy, and a robust fact-checking process. As one of the leading news agencies in the world, it provides high-quality reporting on a wide range of topics, making it a valuable source for verifying claims such as UFO sightings."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-05-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While it mentions the Baikonur Cosmodrome incident with a YouTube travel star, it does not provide useful details related to the video's content or its claims."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Kazakhstan Wants Rocket Launch Site Back from Russia | Space",
+                "htmlTitle": "Kazakhstan Wants Rocket <b>Launch Site</b> Back from Russia | <b>Space</b>",
+                "link": "https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html",
+                "displayLink": "www.space.com",
+                "snippet": "Dec 10, 2012 ... 10). Russia has launched manned and unmanned missions from Baikonur Cosmodrome for decades; since the breakup of the Soviet Union in the 1990s,\u00a0...",
+                "htmlSnippet": "Dec 10, 2012 <b>...</b> 10). Russia has launched manned and unmanned missions from <b>Baikonur Cosmodrome</b> for decades; since the breakup of the Soviet Union in the 1990s,&nbsp;...",
+                "formattedUrl": "https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdicti...",
+                "htmlFormattedUrl": "https://www.space.com/18838-<b>baikonur</b>-<b>cosmodrome</b>-kazakhstan-jurisdicti...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGerzxfuzt_f6mSq_DxIBiFMUZI1x5iJNFNyDYYXC7qrHZv_N1bfZ5CuU&s",
+                            "width": "212",
+                            "height": "238"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "copyrightholder": "(Image credit: Roscosmos)",
+                            "width": "338",
+                            "caption": "A Russian Soyuz-FG rocket launches 5 satellites from Baikonur launch site on July 22, 2012, at 10:00 Moscow time. (Image credit: Roscosmos)",
+                            "description": "A Russian Soyuz-FG rocket launches 5 satellites from Baikonur launch site on July 22, 2012, at 10:00 Moscow time. (Image credit: Roscosmos)",
+                            "url": "https://cdn.mos.cms.futurecdn.net/REjAxdxpDBoRNdvYptq6WY.jpg",
+                            "height": "600"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "6873911a0960244b0806d7a9a2aba69b",
+                            "og:image": "https://cdn.mos.cms.futurecdn.net/LBYcKtX3j9pC9BDK5xz3EA-1200-80.jpg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2012-12-10T21:46:01Z",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#3669c9",
+                            "og:site_name": "Space.com",
+                            "taboola:url": "https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html",
+                            "parsely-author": "Space.com Staff",
+                            "msapplication-tileimage": "https://vanilla.futurecdn.net/space/1014624/apple-touch-icon.png",
+                            "twitter:creator": "@SPACEdotcom",
+                            "article:publisher": "https://www.facebook.com/spacecom",
+                            "twitter:image": "https://cdn.mos.cms.futurecdn.net/REjAxdxpDBoRNdvYptq6WY-1200-80.jpg",
+                            "pub_date": "2012-12-10T21:46:01+00:00",
+                            "parsely-type": "post",
+                            "twitter:site": "@SPACEdotcom",
+                            "article:modified_time": "2012-12-10T21:46:01Z",
+                            "parsely-link": "https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html",
+                            "parsely-image-url": "https://cdn.mos.cms.futurecdn.net/REjAxdxpDBoRNdvYptq6WY.jpg",
+                            "parsely-section": "Human Spaceflight",
+                            "twitter:account_id": "9696142",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "twitter:title": "Kazakhstan Wants Rocket Launch Site Back from Russia",
+                            "parsely-post-id": "vdRDXKz4ekvYaRSdsxaWe7",
+                            "msvalidate.01": "CC462E6DF91492086145CA5EBDCB615E",
+                            "og:title": "Kazakhstan Wants Rocket Launch Site Back from Russia",
+                            "parsely-title": "Kazakhstan Wants Rocket Launch Site Back from Russia",
+                            "parsely-pub-date": "2012-12-10T21:46:01Z",
+                            "parsely-tags": "Category: Human Spaceflight,Category: Space Exploration,Category: News,soyuz,Russia space program,russian rocket launch,russia launch,baikonur,russian space program,russian spaceflight,cosmodrome,serversidehawk",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mos.fie.futurecdn.net/uyhgawbmc02uaww6-16455340654394.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.space.com/18838-baikonur-cosmodrome-kazakhstan-jurisdiction.html",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Space.com covers news related to space exploration, technology, and science with an emphasis on factual reporting and scientific accuracy. It serves as a credible source of information in the context of space-related phenomena and includes articles written by knowledgeable reporters and experts in the field. This contributes to its high credibility and trustworthiness."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2012-12-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This discusses Kazakhstan's interest in the Baikonur Cosmodrome, showing its background importance. However, it lacks specific information that would help confirm or deny the details surrounding the video or its contents regarding UFOs."
+                }
+            }
+        }
+    ]
+}

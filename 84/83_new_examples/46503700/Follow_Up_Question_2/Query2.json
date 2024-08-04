@@ -1,0 +1,662 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - fact check Stop Zelenskyy Stop War billboard video",
+                "totalResults": "12200",
+                "searchTerms": "fact check Stop Zelenskyy Stop War billboard video",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - fact check Stop Zelenskyy Stop War billboard video",
+                "totalResults": "12200",
+                "searchTerms": "fact check Stop Zelenskyy Stop War billboard video",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.307893,
+        "formattedSearchTime": "0.31",
+        "totalResults": "12200",
+        "formattedTotalResults": "12,200"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did Tokyo Billboard Show 'Stop War, Stop Zelensky ...",
+                "htmlTitle": "<b>Fact Check</b>: Did Tokyo <b>Billboard</b> Show &#39;<b>Stop War</b>, <b>Stop</b> Zelensky ...",
+                "link": "https://www.newsweek.com/fact-check-did-tokyo-billboard-show-stop-war-zelensky-1816358",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jul 31, 2023 ... ... video of what appears to be a billboard in Japan, stating \"Stop War, Stop Zelenskyy.\" Sign up for Newsletter Newsletter. The Bulletin. Your ...",
+                "htmlSnippet": "Jul 31, 2023 <b>...</b> ... <b>video</b> of what appears to be a <b>billboard</b> in Japan, stating &quot;<b>Stop War</b>, <b>Stop Zelenskyy</b>.&quot; Sign up for Newsletter Newsletter. The Bulletin. Your&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/fact-check-did-tokyo-billboard-show-stop-war-...",
+                "htmlFormattedUrl": "https://www.newsweek.com/<b>fact</b>-<b>check</b>-did-tokyo-<b>billboard</b>-show-<b>stop</b>-<b>war</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvvX7upfJRcNvaL-v-3m-E-H83SFGpzmq6THLzlTpwGy1j47xlyACDxLmN&s",
+                            "width": "273",
+                            "height": "185"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2263642/comp-volodymyr-zelenskyi-shibuya-tokyo.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "1769",
+                            "article:published_time": "2023-07-31T10:23:37-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/fact-check-did-tokyo-billboard-show-stop-war-zelensky-1816358",
+                            "og:description": "The Ukrainian president was seemingly targeted in a billboard shown in one of Japan's busiest areas.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2263642/comp-volodymyr-zelenskyi-shibuya-tokyo.webp",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-07-31T10:23:37-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Comp, Volodymyr Zelenskyi  and Shibuya, Tokyo",
+                            "article:section": "Fact Check",
+                            "twitter:title": "Fact Check: Did Tokyo billboard show \"Stop War, Stop Zelensky\"?",
+                            "og:title": "Fact Check: Did Tokyo billboard show \"Stop War, Stop Zelensky\"?",
+                            "og:image:height": "1200",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Fact Check",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Ukrainian president was seemingly targeted in a billboard shown in one of Japan's busiest areas.",
+                            "og:url": "https://www.newsweek.com/fact-check-did-tokyo-billboard-show-stop-war-zelensky-1816358"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2263642/comp-volodymyr-zelenskyi-shibuya-tokyo.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-07-31T10:23:37-04:00",
+                            "claimReviewed": "Did Tokyo billboard show \"Stop War, Stop Zelensky\"?",
+                            "url": "https://www.newsweek.com/fact-check-did-tokyo-billboard-show-stop-war-zelensky-1816358"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Kishida to Kyiv in March 2023, and attending the G7 summit in Hiroshima two months later.\nZelensky appealed directly to other leaders during his visit to Japan in May, comparing the destruction of Bakhmut in the east of Ukraine to the decimation of Hiroshima during World War II.\nHowever, according to at least one tweet shared online this week, support toward the Ukrainian leader is not well-shared across the country, with a billboard in one of Japan's busiest districts seemingly carrying anti-Zelensky propaganda.\n!\nVolodymyr Zelensky during a joint press conference on July 11, 2023 in Kyiv, Ukraine and a photo of Shibuya, Tokyo, Japan. A video shared by a YouTuber appeared to show an anti-Zelensky billboard on show... Volodymyr Zelensky during a joint press conference on July 11, 2023 in Kyiv, Ukraine and a photo of Shibuya, Tokyo, Japan. A video shared by a YouTuber appeared to show an anti-Zelensky billboard on show in the busy Shibuya neighborhood. More Vitalii Nosach/Global Images Ukraine via Getty; Getty\nThe Claim\n by YouTuber Jackson Hinkle, posted on July 31, 2023, viewed 447,000 times, shows a video of what appears to be a billboard in Japan, stating \"Stop War, Stop Zelenskyy.\"\n! Newsletter\nThe Bulletin\nYour Morning Starts Here\nBegin your day with a curated outlook of top news around the world and why it matters.\n        I want to receive special offers and promotions from Newsweek\nBy clicking on SIGN ME UP, you agree to Newsweek's  & . You may unsubscribe at any time.\nThe Facts\nZelensky has been a regular target of misleading video footage shared on social media. A heavily edited video of _Lord of the Rings_ actor Elijah Wood went viral earlier this month  a false narrative that has followed the leader throughout the conflict.\nLike others before it, the video of the anti-Zelensky billboard is not real. It's an edit of a video posted two years ago, viewed eight million times, on YouTube showing someone walking around Shibuya, among the busiest and most popular neighborhoods in Tokyo.\n! **Exclusively Available to Subscribers** \nThe clip used on  appears around 21:20 into the video, shared below.\nThe billboard shows a few images of Japanese models, not the anti-Zelensky messaging as the edited clip on Twitter suggests.\nIt's not clear whether regulations and restrictions in Japan would have made the display of such an ad illegal were it shown in Tokyo.\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Billboard in Japan displaying anti-Zelenskiy message is altered ...",
+                "htmlTitle": "<b>Billboard</b> in Japan displaying anti-Zelenskiy message is altered ...",
+                "link": "https://www.reuters.com/article/fact-check/billboard-in-japan-displaying-anti-zelenskiy-message-is-altered-idUSL1N39J0XW/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Aug 2, 2023 ... ... stop Zelenskyy, stop war.” “Meanwhile, in Japan, they demand that Zelensky stop the war,” read the Ukrainian text superimposed on the video ...",
+                "htmlSnippet": "Aug 2, 2023 <b>...</b> ... <b>stop Zelenskyy</b>, <b>stop war</b>.” “Meanwhile, in Japan, they demand that Zelensky <b>stop</b> the <b>war</b>,” read the Ukrainian text superimposed on the <b>video</b>&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check/billboard-in-japan-displaying-anti-ze...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>fact</b>-<b>check</b>/<b>billboard</b>-in-japan-displaying-anti-ze...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULOd4UaI2NRMEYgbkeiFOygqQAUuOPuwHNAkBG1Tz9IZx2Th3d8D4bn-V&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/billboard-in-japan-displaying-anti-zelenskiy-message-is-altered-idUSL1N39J0XW/?id=L1N39J0XW",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-08-02T12:41:17.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Billboard in Japan displaying anti-Zelenskiy message is altered | Reuters",
+                            "og:description": "Video of a digital billboard on a busy street in Japan has been edited to replace the advertisements on the screen with a message against Ukrainian President Volodymyr Zelenskiy reading: “stop Zelenskyy, stop war.”",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-08-02T11:46:13.000Z",
+                            "render_timestamp": "2024-08-01T15:08:35.355Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Billboard in Japan displaying anti-Zelenskiy message is altered",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Billboard in Japan displaying anti-Zelenskiy message is altered",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-08-02T12:41:17.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "article:tag": "ASIA,ASXPAC,CEEU,EASIA,EMRG,EUROP,GEN,JP,POL,UA",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Video of a digital billboard on a busy street in Japan has been edited to replace the advertisements on the screen with a message against Ukrainian President Volodymyr Zelenskiy reading: “stop Zelenskyy, stop war.”",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/billboard-in-japan-displaying-anti-zelenskiy-message-is-altered-idUSL1N39J0XW/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/fact-check/billboard-in-japan-displaying-anti-zelenskiy-message-is-altered-idUSL1N39J0XW/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/fact-check/billboard-in-japan-displaying-anti-zelenskiy-message-is-altered-idUSL1N39J0XW/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Tokyo video doctored to add anti-Zelensky billboard | Fact Check",
+                "htmlTitle": "Tokyo <b>video</b> doctored to add anti-Zelensky <b>billboard</b> | <b>Fact Check</b>",
+                "link": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Aug 1, 2023 ... A video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.",
+                "htmlSnippet": "Aug 1, 2023 <b>...</b> A <b>video</b> circulating online appears to show a prominent digital <b>billboard</b> in Japan saying, &quot;<b>Stop war</b>&quot; and &quot;<b>Stop Zelenskyy</b>.",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                "htmlFormattedUrl": "https://<b>factcheck</b>.afp.com/doc.afp.com.33QE3H2",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_vFIlQ0dtRwc037HoinXNGF7AXOm8q8k8tuuYIApsI-y3cV97jpDo9_DJ&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//ccc961aa00364c9ca826443651d937be.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Tokyo video doctored to add anti-Zelensky billboard",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33QE3H2",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.\" But the clip has been doctored; the sign featured people -- not the anti-Ukraine message -- in otherwise matching footage posted to YouTube in 2020, prior to Russia's invasion."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-08//ccc961aa00364c9ca826443651d937be.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-01T21:49:00",
+                            "claimReviewed": "A video shows a billboard in Japan saying \"Stop",
+                            "name": "Tokyo video doctored to add anti-Zelensky billboard",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33QE3H2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nA video circulating online appears to show a prominent digital billboard in Japan saying, \"Stop war\" and \"Stop Zelenskyy.\" But the clip has been doctored; the sign featured people -- not the anti-Ukraine message -- in otherwise matching footage posted to YouTube in 2020, prior to Russia's invasion.\n\"Billboard that says 'Stop Zelensky, Stop War' in Japan,\" says a  from The Post Millennial, a conservative Canadian website that has previously spread .\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\n posts  the  video  across , which is rebranding as \"X,\" and other  such as ,  and .\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\nScreenshot from Twitter, which is being rebranded as \"X,\" taken August 1, 2023\nThe clip also spread in ,  and .\nBut  (archived ) from nearly three years ago shows the same digital billboard making no mention of the country's war with Russia or its leader, President Volodymyr Zelensky.\nAFP found the original video, titled \"Night Walk in Tokyo Shibuya,\" by conducting a  using . It was posted to YouTube on October...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Video altered to show anti-Zelenskyy billboard in Japan | Fact check",
+                "htmlTitle": "<b>Video</b> altered to show anti-<b>Zelenskyy billboard</b> in Japan | <b>Fact check</b>",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Aug 3, 2023 ... ... video of a crowd crossing a city street at night. \"'Stop Zelensky, Stop War!' In Japan,\" reads the video's caption, which is describing a ...",
+                "htmlSnippet": "Aug 3, 2023 <b>...</b> ... <b>video</b> of a crowd crossing a city street at night. &quot;&#39;<b>Stop</b> Zelensky, <b>Stop War</b>!&#39; In Japan,&quot; reads the <b>video&#39;s</b> caption, which is describing a&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/.../video...zelenskyy-billboard...fact...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/.../<b>video</b>...<b>zelenskyy</b>-<b>billboard</b>...<b>fact</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgBZJJOmN81Fyl1DGtGGgcHkiEB5WolCTes3iv4mnpxJZilPnw4BCxcI6&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "1999",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of anti-Zelenskyy billboard in Japan is altered, predates Russia invasion | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of anti-Zelenskyy billboard in Japan is altered, predates Russia invasion | Fact check",
+                            "og:image:height": "1125",
+                            "google": "notranslate",
+                            "og:description": "The original video shows a different advertisement in place of the anti-Zelenskyy message. It also predates Russia's invasion of Ukraine.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Chris Mueller",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The original video shows a different advertisement in place of the anti-Zelenskyy message. It also predates Russia's invasion of Ukraine.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2022/09/15/USAT/22d9f42f-931e-454c-be53-f24293437d58-AP_Russia_Ukraine_War-3.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-03T19:42:44Z",
+                            "claimReviewed": "Video shows digital billboard in Japan with",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/08/03/video-altered-to-show-anti-zelenskyy-billboard-in-japan-fact-check/70515056007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim: Video shows digital billboard in Japan with anti-Zelenskyy message\n-----------------------------------------------------------------------------\nA July 30 post (, ) on X, formerly Twitter, shows video of a crowd crossing a city street at night.\n\"'Stop Zelensky, Stop War!' In Japan,\" reads the video's caption, which is describing a message that seems to appear on a digital billboard.\nThe video was retweeted more than 9,000 times in four days. It was shared on Facebook more than 50 times, according to CrowdTangle, a social media analytics tool.\n**Follow us on Facebook!**\nOur rating: Altered\n-------------------\nThe video was altered to include the anti-Zelenskyy billboard. The original video shows a different advertisement in its place, and it was posted online more than a year before Russia's invasion of Ukraine.\nVideo edited to include anti-Zelenskyy display\n----------------------------------------------\nThe clip in the post was taken from a  uploaded to YouTube on Oct. 18, 2020, by a verified account called \"Virtual Japan,\" which posts  in Japan.\nIt shows the same buildings, vehicles and people as the clip in the post, but the digital billboard in question does not show a message critical of Ukrainian President Volodymyr Zelenskyy. Instead, it shows white Japanese writing on a pink background followed by images of people.\nAn image of the intersection in Shibuya City, Tokyo, taken in October 202...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Fact-Check | Does This Video Show Anti-Zelenskyy Billboards Being ...",
+                "htmlTitle": "<b>Fact</b>-<b>Check</b> | Does This <b>Video</b> Show Anti-<b>Zelenskyy Billboards</b> Being ...",
+                "link": "https://www.thequint.com/news/webqoof/stop-zelenskyy-stop-war-digital-billboard-shibuya-japan-viral-video-fact-check",
+                "displayLink": "www.thequint.com",
+                "snippet": "Aug 5, 2023 ... A video which shows a digital billboard on a building saying \"Stop Zelenskyy, Stop War\" is going viral on the internet with users claiming ...",
+                "htmlSnippet": "Aug 5, 2023 <b>...</b> A <b>video</b> which shows a digital <b>billboard</b> on a building saying &quot;<b>Stop Zelenskyy</b>, <b>Stop War</b>&quot; is going viral on the internet with users claiming&nbsp;...",
+                "formattedUrl": "https://www.thequint.com/.../stop-zelenskyy-stop-war-digital-billboard-shib...",
+                "htmlFormattedUrl": "https://www.thequint.com/.../<b>stop</b>-<b>zelenskyy</b>-<b>stop</b>-<b>war</b>-digital-<b>billboard</b>-shib...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwq_KqiMqj95oNJXiGI7JqHwQIMNFWd7ebt5cWNjmV2do6bhrym70Bgtk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.thequint.com/thequint%2F2023-08%2F6c728475-800f-4bad-bf58-180cb6267255%2FABHISHEK_WQ___2023_08_05T111837_922.jpg",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Does This Video Show Anti-Zelenskyy Billboards in Japan? No!",
+                            "article:published_time": "2023-08-05T15:29:40+05:30",
+                            "og:site_name": "TheQuint",
+                            "twitter:domain": "https://www.thequint.com",
+                            "twitter:url": "https://www.thequint.com/news/webqoof/stop-zelenskyy-stop-war-digital-billboard-shibuya-japan-viral-video-fact-check",
+                            "author": "Abhishek Anand",
+                            "og:title": "Does This Video Show Anti-Zelenskyy Billboards in Japan? No!",
+                            "title": "Fact-Check | Does This Video Show Anti-Zelenskyy Billboards Being Put Up in Japan? No!",
+                            "og:description": "Fact-Check | A digitally altered video is being shared on the internet with a false claim stating that it shows anti-Zelenskyy billboards being put up in Japan.",
+                            "twitter:image": "https://images.thequint.com/thequint%2F2023-08%2F6c728475-800f-4bad-bf58-180cb6267255%2FABHISHEK_WQ___2023_08_05T111837_922.jpg",
+                            "fb:app_id": "907794602598966",
+                            "twitter:site": "@TheQuint",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "article:modified_time": "2023-08-05T15:29:40+05:30",
+                            "viewport": "width=device-width,height=device-height,initial-scale=1.0,maximum-scale=1,minimum-scale=1.0",
+                            "twitter:description": "We found that the video has been altered to add texts against Zelenskyy on the digital billboard.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://www.thequint.com/news/webqoof/stop-zelenskyy-stop-war-digital-billboard-shibuya-japan-viral-video-fact-check",
+                            "apple-touch-fullscreen": "yes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.thequint.com/thequint%2F2023-08%2F6c728475-800f-4bad-bf58-180cb6267255%2FABHISHEK_WQ___2023_08_05T111837_922.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-05T15:29:40+05:30",
+                            "claimReviewed": "Video is recent and shows a billboard saying",
+                            "url": "https://www.thequint.com/news/webqoof/stop-zelenskyy-stop-war-digital-billboard-shibuya-japan-viral-video-fact-check"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "A video which shows a digital billboard on a building saying \"Stop Zelenskyy, Stop War\" is going viral on the internet with users claiming that it was recently put up in 's Shibuya district.\n**What have users said?:** Those sharing the video have uploaded it with a caption, \"Japan is starting to wake up. An advertising banner appeared on a building in Tokyo, the Shibuya district: 'Stop war. Stop, Zelenskyy'.\"\n!\nAn archive of the post can be seen .\n(Source: X/Screenshot)\nA Canadian magazine_, ,_ also shared the video on their official X (formerly known as Twitter) handle. Archives of more similar posts can be viewed , , , and .\n**Are these claims true?:** No, the video has been altered to add texts against Ukrainian President . The original video, which dates back to October 2020, featured different people on the billboard.\n**How did we find that out?:** Taking Shibuya district as reference, we performed a keyword search on YouTube and came across a video on a verified channel called ''.\n*   The video was titled, \"4K HDR Night Walk in Tokyo Shibuya (東京散歩).\"\n*   It was uploaded on 19 October 2020.\n*   The longer version also shows people wearing masks, which indicated a possibility of the video being recorded during the pandemic.\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "A Video of the Tokyo Billboard 'Stop War, Stop Zelenskyy' Is ...",
+                "htmlTitle": "A <b>Video</b> of the Tokyo <b>Billboard</b> &#39;<b>Stop War</b>, <b>Stop Zelenskyy</b>&#39; Is ...",
+                "link": "https://misbar.com/en/factcheck/2023/08/06/a-video-of-the-tokyo-billboard-stop-war-stop-zelenskyy-is-manipulated",
+                "displayLink": "misbar.com",
+                "snippet": "Aug 6, 2023 ... Misbar investigated the widely circulated video and found the claim to be fake.The video is digitally altered to show the anti-Zelensky ...",
+                "htmlSnippet": "Aug 6, 2023 <b>...</b> Misbar investigated the widely circulated <b>video</b> and found the claim to be fake.The <b>video</b> is digitally altered to show the anti-Zelensky&nbsp;...",
+                "formattedUrl": "https://misbar.com/.../factcheck/.../a-video-of-the-tokyo-billboard-stop-war-...",
+                "htmlFormattedUrl": "https://misbar.com/.../<b>factcheck</b>/.../a-<b>video</b>-of-the-tokyo-<b>billboard</b>-<b>stop</b>-<b>war</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQduXfPX3J_Pv6iti_ZAczWxnRphFctN8h3erPiOIo0safrCGHlCoDwcM0&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images-prod.misbar.com/factcheck/5d630c9af8d5e222ae1b9798179a56dc801fa08e_watermark.jpg",
+                            "og:image:width": "500",
+                            "og:type": "article",
+                            "twitter:title": "A Video of the Tokyo Billboard 'Stop War, Stop Zelenskyy' Is Manipulated | Misbar",
+                            "twitter:card": "summary_large_image",
+                            "og:title": "A Video of the Tokyo Billboard 'Stop War, Stop Zelenskyy' Is Manipulated | Misbar",
+                            "og:image:height": "500",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Misbar investigated the widely circulated video and found the claim to be fake.The video is digitally altered to show the anti-Zelensky billboard.&nbsp;The Vide",
+                            "twitter:image": "https://images-prod.misbar.com/factcheck/5d630c9af8d5e222ae1b9798179a56dc801fa08e_watermark.jpg",
+                            "fb:app_id": "578123236215725",
+                            "twitter:site": "@misbar",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "Misbar investigated the widely circulated video and found the claim to be fake.The video is digitally altered to show the anti-Zelensky billboard.&nbsp;The Vide",
+                            "og:url": "https://misbar.com/en/factcheck/2023/08/06/a-video-of-the-tokyo-billboard-stop-war-stop-zelenskyy-is-manipulated?q=%2Fen%2Ffactcheck%2F2023%2F08%2F06%2Fa-video-of-the-tokyo-billboard-stop-war-stop-zelenskyy-is-manipulated"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images-prod.misbar.com/factcheck/5d630c9af8d5e222ae1b9798179a56dc801fa08e_watermark.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-06T04:32:00Z",
+                            "claimReviewed": "A video shows a banner displayed on a building",
+                            "name": "A Video of the Tokyo Billboard 'Stop War, Stop",
+                            "description": "Misbar investigated the widely circulated video",
+                            "url": "https://misbar.com/factcheck/2023/08/06/a-video-of-the-tokyo-billboard-stop-war-stop-zelenskyy-is-manipulated"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n!\nAR\nTrending now\n*   \n*   \n!\nA Video of the Tokyo Billboard 'Stop War, Stop Zelenskyy' Is Manipulated\n============================================================================\nWesam Abo Marq]\n!\n6th August 2023\n!\n!\n!\nThe Japanese anti-Zelenskyy sign was manipulated (Twitter)\nEmerging story\n--------------\nSocial media users, mainly pro-Russia, circulated a video purporting to feature a banner on a building in Japan with the message: \"Stop Zelenskyy! Stop the war!\"\n!\nMisleading\nThe Claim\n---------\nA video shows a banner displayed on a building in Japan that reads: \"Stop Zelenskyy! Stop the war!\"\nNews posted on\n--------------\nSpriter]Towhee]Luis]Leandro]Keithb]\nMisbar’s Analysis\n-----------------\n investigated the widely circulated video and found the claim to be fake.\nThe video is digitally altered to show the anti-Zelensky billboard.\nThe Video Showing a Japanese Anti-Zelenskyy Sign Was Manipulated\n----------------------------------------------------------------\nThe original video does not feature the  billboard. The original video dates back to October 19, 2020. The footage shows a person walking around the bustling Shibuya neighborhood in Tokyo, , and videotaping the scene.\n!\n_**Photo Description:** A screenshot of the original video from YouTube._\n's team compared the viral video with the longer original version and discovered that the viral video appears approximately 21:25 into the original video.\n!\n_**Photo Description:** A screenshot of the original video and the circulating video._\nAccording to the 2022 guidelines set by the Japanese Consumer Affairs Agency, it is not clear whether such a billboard, if real, would be considered prohibited since it does not promote any product or have any affiliation with a Japanese political party or organization.\nFurthermore, no reliable media outlets reported the video showing the anti-Zelenskyy message.\nShibuya AI Vision\n-----------------\nThe advertisement banner seen in the video is known as Shibuya Ai Vision. Reports indicate that it is a large vertical screen used to convey messages related to love, birthdays, and special occasions to people globally.\nThe screen is located near other commercial centers, such as Shibuya Modi and Shibuya 109, with their main entrance at Shibuya crossing, a famous and bustling scramble crossing in Tokyo. Moreover, Shibuya boasts two of the busiest railway stations in the world, namely Shibuya and Shinjuku stations.\n!\n_**Photo Description...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "The Fact-Checked Disinformation Detected In The EU – EDMO",
+                "htmlTitle": "The <b>Fact</b>-<b>Checked</b> Disinformation Detected In The EU – EDMO",
+                "link": "https://edmo.eu/thematic-areas/war-in-ukraine/the-fact-checked-disinformation-detected-in-the-eu/",
+                "displayLink": "edmo.eu",
+                "snippet": "Factcheck: video of Zelenskyy with false subtitles goes viral, https://www ... Ukraine: No, this video does not prove a war staging - it shows a music video ...",
+                "htmlSnippet": "<b>Factcheck</b>: <b>video</b> of <b>Zelenskyy</b> with false subtitles goes viral, https://www ... Ukraine: No, this <b>video</b> does not prove a <b>war</b> staging - it shows a music <b>video</b>&nbsp;...",
+                "formattedUrl": "https://edmo.eu/.../war.../the-fact-checked-disinformation-detected-in-the-e...",
+                "htmlFormattedUrl": "https://edmo.eu/.../<b>war</b>.../the-<b>fact</b>-<b>check</b>ed-disinformation-detected-in-the-e...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-tileimage": "https://edmo.eu/wp-content/uploads/2024/04/edmo-favicon.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...rafo\n*   Portugal, Polígrafo\n*   Romania, AFP Verificat\n*   Romania/Moldova, AFP Verificat\n*   Russia, Demagog\n*   Serbia\n*   Slovakia, AFP Fakty\n*   Slovenia, Ostro\n*   Spain, AFP Comprovem\n*   Spain, AFP Factual\n*   Spain, EFE Verifica\n*   Spain, MALDITA.ES\n*   Spain, Newtral\n*   Spain, Verificat\n*   Sweden, Källkritikbyrån\n*   Switzerland, dpa-factchecking.com\n*   United Kingdom, Logically Facts\nAustria, MimikamaAustria, dpa-factchecking.comAustria, dpa-facthcecking.comBelgium, AFP FactuelBelgium, DPABelgium, Factcheck VlaanderenBelgium, KnackBelgium, dpa-factchecking.comBelgium, dpa-facthcecking.comBulgaria, AFP ProveriCroatia, Provera činjenicaCzech Republic, AFP Na pravou míruCzech Republic, AFP NapravoumiruCzech Republic, Demagog.czCzech, AFP Na pravou miruDenmark, TjekDetDenmark, Tjekdet.dkEstonia, Eesti PäevalehtFinland, AFP FaktankartiskusFinland, AFP FaktantarkistusFrance, AFPFrance, AFP FactcheckFrance, AFP FactcheckFrance, AFP FactuelGermany, AFP FaktencheckGermany, CorrectivGermany, correctivGermany, dpa-factchecking.comGermany, dpa-facthcecking.comGermany/Austia, AFP FaktencheckGreece, AFP Factcheck GreekGreece, AFP FactcheckgreekGreece, Ellinika HoaxesHungary AFP TénykérdésHungary, AFP TenykerdesIreland, The Journal - FactCheckItaly, Facta NewsItaly, Facta newsItaly, Facta.newsItaly, PagellaPoliticaLatvia, Re:BalticaLithuania, 15minLithuania, DelfiLuxembourg, dpa-factchecking.comLuxembourg, dpa-facthcecking.comLuxemburg, dpa-factchecking.comLuxmbourg, dpa-factchecking.comNetherlands, AFPNetherlands, AFP Fackten...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The New York Banner Blaming Israel for Bombing Hospitals is ...",
+                "htmlTitle": "The New York Banner Blaming Israel for Bombing Hospitals is ...",
+                "link": "https://mythdetector.ge/en/the-new-york-banner-blaming-israel-for-bombing-hospitals-is-fabricated/",
+                "displayLink": "mythdetector.ge",
+                "snippet": "Oct 19, 2023 ... Update 20.10.2023: A video showing the same inscription on a New York building was added to the material. \"Myth Detector\" cannot rule out ...",
+                "htmlSnippet": "Oct 19, 2023 <b>...</b> Update 20.10.2023: A <b>video</b> showing the same inscription on a New York building was added to the material. &quot;Myth Detector&quot; cannot rule out&nbsp;...",
+                "formattedUrl": "https://mythdetector.ge/.../the-new-york-banner-blaming-israel-for-bombin...",
+                "htmlFormattedUrl": "https://mythdetector.ge/.../the-new-york-banner-blaming-israel-for-bombin...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxAHJ0oJ1gYvfKKjuOFwCxNXN4IN1N5hk4Se7Kd5d2jbJfbTfdOP4Yavk&s",
+                            "width": "309",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://mythdetector.ge/wp-content/uploads/2023/10/The-New-York-Banner-Blaming-Israel-for-Bombing-Hospitals-is-Fabricated-1.jpg",
+                            "og:image:width": "1000",
+                            "article:published_time": "2023-10-19T14:51:47+04:00",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "mythdetector.ge",
+                            "twitter:url": "https://mythdetector.ge/en/the-new-york-banner-blaming-israel-for-bombing-hospitals-is-fabricated/",
+                            "twitter:image:height": "527",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Update 20.10.2023: A video showing the same inscription on a New York building was added to the material. \"Myth Detector\"",
+                            "twitter:creator": "@https://twitter.com/MythDetector",
+                            "twitter:image": "https://mythdetector.ge/wp-content/uploads/2023/10/The-New-York-Banner-Blaming-Israel-for-Bombing-Hospitals-is-Fabricated-1.jpg",
+                            "article:publisher": "https://www.facebook.com/MythDetectorEnglish",
+                            "og:image:secure_url": "https://mythdetector.ge/wp-content/uploads/2023/10/The-New-York-Banner-Blaming-Israel-for-Bombing-Hospitals-is-Fabricated-1.jpg",
+                            "twitter:site": "@https://twitter.com/MythDetector",
+                            "article:modified_time": "2023-10-20T17:58:35+04:00",
+                            "twitter:image:width": "1000",
+                            "og:type": "article",
+                            "twitter:title": "The New York Banner Blaming Israel for Bombing Hospitals is Fabricated",
+                            "og:image:alt": "The New York Banner Blaming Israel for Bombing Hospitals is Fabricated",
+                            "author": "Ani Kistauri",
+                            "og:title": "The New York Banner Blaming Israel for Bombing Hospitals is Fabricated",
+                            "og:image:height": "527",
+                            "og:updated_time": "2023-10-20T17:58:35+04:00",
+                            "article:author": "https://www.facebook.com/",
+                            "article:tag": "Banner",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Update 20.10.2023: A video showing the same inscription on a New York building was added to the material. \"Myth Detector\"",
+                            "og:locale": "en_US",
+                            "og:url": "https://mythdetector.ge/en/the-new-york-banner-blaming-israel-for-bombing-hospitals-is-fabricated/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mythdetector.ge/wp-content/uploads/2023/10/The-New-York-Banner-Blaming-Israel-for-Bombing-Hospitals-is-Fabricated-1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Update 20.10.2023:** A video showing the same inscription on a New York building was added to the material. “Myth Detector” cannot rule out that the inscription was projected to the building for a certain period of time, although the verdict of the material remains unchanged because no banner was placed on the building.\nOn October 18, Facebook users supporting the pro-Kremlin “Conservative Movement” ( , ) published a photo of an English-language banner with the following inscription: “Israel Bombs Hospitals; Biden Pays For It.” According to the description, the banner is placed in New York.\nAn identical photo was shared by Russian-language Facebook users (, , ) and the online publication .\n]]\n**The photo disseminated on social media is likely to be altered and it was not placed in Manhattan, New York, which is confirmed by the following signs:**\n1.  **No similar banner can be found on the photo and video materials taken on October 18, 2023;**\n2.  **The building on which the billboard was supposed to be placed was built in 2019, and no advertising or other types of billboards have been placed on it since that time.**\nThe photo circulating social networks showing a billboard in New York was taken at night. The photo shows a yellow taxi and several buildings, including...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Israel embassy pulls 'inappropriate' video imagining Hamas attack ...",
+                "htmlTitle": "Israel embassy pulls &#39;inappropriate&#39; <b>video</b> imagining Hamas attack ...",
+                "link": "https://www.aljazeera.com/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Dec 28, 2023 ... South Korea objected to footage posted by Israeli embassy depicting hypothetical abduction of a mother in Seoul.",
+                "htmlSnippet": "Dec 28, 2023 <b>...</b> South Korea objected to footage posted by Israeli embassy depicting hypothetical abduction of a mother in Seoul.",
+                "formattedUrl": "https://www.aljazeera.com/.../israel-embassy-pulls-inappropriate-video-ima...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/.../israel-embassy-pulls-inappropriate-<b>video</b>-ima...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1UDKjiRPIbQ7FbWAzd2-CRGRZcdpPvUQ214cIgNCyd8nv0lRaMal4Iddn&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-10-17T050309Z_1146147911_RC21U3A2FV62_RTRMADP_3_ISRAEL-PALESTINIANS-SOUTHKOREA-1703759740-e1703765113218.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                            "pagesection": "News,Gaza,Israel-Palestine conflict,Media,Social Media",
+                            "channel": "aje",
+                            "publisheddate": "2023-12-28T11:33:00",
+                            "postid": "2584252",
+                            "source": "Al Jazeera and news agencies",
+                            "og:description": "South Korea objected to footage posted by Israeli embassy depicting hypothetical abduction of a mother in Seoul.",
+                            "taxonomyterms": "News, Gaza, Israel-Palestine conflict, Media, Social Media, Asia Pacific, Israel, Middle East, South Korea",
+                            "lastdate": "2023-12-28T11:33:00",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Israel embassy pulls ‘inappropriate’ video imagining Hamas attack on Seoul",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Inform me",
+                            "where": "Asia Pacific, Israel, Middle East, South Korea",
+                            "primarytag": "Israel-Palestine conflict",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Israel embassy pulls ‘inappropriate’ video imagining Hamas attack on Seoul",
+                            "taxonomy-tags": "News, Gaza, Israel-Palestine conflict, Media, Social Media",
+                            "topics": "News",
+                            "og:title": "Israel embassy pulls ‘inappropriate’ video imagining Hamas attack on Seoul",
+                            "ia:markup_url": "https://www.aljazeera.com/ia_markup/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                            "tags": "Gaza, Israel-Palestine conflict, Media, Social Media",
+                            "contenttype": "post",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-10-17T050309Z_1146147911_RC21U3A2FV62_RTRMADP_3_ISRAEL-PALESTINIANS-SOUTHKOREA-1703759740-e1703765113218.jpg?resize=1920%2C1440",
+                            "articleslug": "israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                            "postlink": "/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "South Korea objected to footage posted by Israeli embassy depicting hypothetical abduction of a mother in Seoul.",
+                            "pagetitle": "Israel embassy pulls ‘inappropriate’ video imagining Hamas attack on Seoul",
+                            "og:url": "https://www.aljazeera.com/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2023/12/2023-10-17T050309Z_1146147911_RC21U3A2FV62_RTRMADP_3_ISRAEL-PALESTINIANS-SOUTHKOREA-1703759740-e1703765113218.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.aljazeera.com/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.aljazeera.com/news/2023/12/28/israel-embassy-pulls-inappropriate-video-imagining-hamas-attack-on-seoul",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Tucker Carlson says Ukraine is not a democracy. Here are the facts.",
+                "htmlTitle": "Tucker Carlson says Ukraine is not a democracy. Here are the <b>facts</b>.",
+                "link": "https://www.washingtonpost.com/politics/2022/02/24/tucker-carlson-says-ukraine-is-not-democracy-here-are-facts/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Feb 24, 2022 ... “In July 2019 the country held early parliamentary elections that observers also considered free and fair.” ✓. Follow Fact-checking politicians.",
+                "htmlSnippet": "Feb 24, 2022 <b>...</b> “In July 2019 the country held early parliamentary elections that observers also considered free and fair.” ✓. Follow <b>Fact</b>-<b>checking</b> politicians.",
+                "formattedUrl": "https://www.washingtonpost.com/.../tucker-carlson-says-ukraine-is-not-dem...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../tucker-carlson-says-ukraine-is-not-dem...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu2wxa-VGNhq9wud4YGBFXn9ZQ1HrlphTJUyYrrwQ497Mfvolt56OZTFk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "Democracy experts say Ukraine is a democracy in transition, a \"hybrid regime\" seeking to break free of Russian influence.",
+                            "article_modified_time": "2022-02-25T17:04:42.424Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXAZTQRIYFB7VKE22R4CBR7BUU.bmp&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/politics/2022/02/24/tucker-carlson-says-ukraine-is-not-democracy-here-are-facts/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-02-24T18:34:16.105Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Analysis | Tucker Carlson says Ukraine is not a democracy. Here are the facts.",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/politics/2022/02/24/tucker-carlson-says-ukraine-is-not-democracy-here-are-facts/",
+                            "og:description": "Democracy experts say Ukraine is a democracy in transition, a \"hybrid regime\" seeking to break free of Russian influence.",
+                            "article_published_time": "2022-02-24T18:34:16.105Z",
+                            "next-head-count": "85",
+                            "article_section": "Fact Checker",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2022-02-25T17:04:42.424Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "Democracy experts say Ukraine is a democracy in transition, a \"hybrid regime\" seeking to break free of Russian influence.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Analysis | Tucker Carlson says Ukraine is not a democracy. Here are the facts.",
+                            "last_updated_date": "2022-02-25T17:04:42.424Z",
+                            "og:type": "article",
+                            "twitter:title": "Analysis | Tucker Carlson says Ukraine is not a democracy. Here are the facts.",
+                            "article:section": "Fact Checker",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Analysis | Tucker Carlson says Ukraine is not a democracy. Here are the facts.",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXAZTQRIYFB7VKE22R4CBR7BUU.bmp&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Democracy experts say Ukraine is a democracy in transition, a \"hybrid regime\" seeking to break free of Russian influence.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/politics/2022/02/24/tucker-carlson-says-ukraine-is-not-democracy-here-are-facts/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BXAZTQRIYFB7VKE22R4CBR7BUU.bmp&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... has done. And by the way, Ukraine is a pure client state of the United States State Department — again, that’s fine. We are not mad about that, go ahead and run Ukraine if you want, if you think you can do a better job than Ukrainians. Just don’t tell us it’s a democracy.”\nTo some extent, whether Ukraine is a democracy is a matter of opinion, so we will not offer a Pinocchio rating. But Carlson — who has  for Hungarian President Viktor Orbán and his crackdown on civil liberties — is stacking the deck against Ukraine. It is a fledgling democracy, with significant growing pains, largely the result of Russian pressure and interference in its affairs. It is certainly not “a tyranny.”\n### The Facts\nUkraine has many aspects of a democracy. The president, who is head of state and commander in chief, is chosen by a popular election. The legislature has a mix of single-seat and proportional representation. The prime minister is chosen through a legislative majority and is head of government. The  is appointed by the president upon  by the Supreme Council of Justice.\n“In April 2019 Volodymyr Zelensky was elected president in an election considered free and fair by international and domestic observers,” the State Department said in . “In July 2019 the country held early parliamentary elections that observers also considered free and fair.”\nBut what’s on paper is not necessarily the same as what happens in practice. Ukraine’s constitution, for instance, guarantees the right to peaceful assembly, but there is no law that specifically provides for freedom of assembly.\nThe country has struggled to build up a lasting democratic infrastructure as it has veered between leaders who lean toward Russia or toward the West. Corruption remains a serious problem that government officials have only halfheartedly addressed.\nZelensky has been engaged in a bitter political feud with the man he defeated in a landslide 2019 election, Petro Poroshenko. Prosecutors have sought to arrest Poroshenko on charges of treason and supporting terrorism, but a court in January  he could await trial while released on his own recognizance. Poroshenko had been accused of facilitating coal purchases for government enterprises from mines under the control of Moscow-backed insurgents in eastern Ukraine, helping finance the militants. He  the charges are politically motivated.\nFreedom House, a nonpartisan think tank that ranks democracies, has  Ukraine “a transitional or hybrid regime” in one recent report and “partly free” in a .\nHungary, Carlson’s fave, is  as...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

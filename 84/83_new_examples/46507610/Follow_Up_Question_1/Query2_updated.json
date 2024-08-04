@@ -1,0 +1,822 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Rishi Sunak lookalike Ibiza dancing news update",
+                "totalResults": "54000",
+                "searchTerms": "Rishi Sunak lookalike Ibiza dancing news update",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Rishi Sunak lookalike Ibiza dancing news update",
+                "totalResults": "54000",
+                "searchTerms": "Rishi Sunak lookalike Ibiza dancing news update",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.282654,
+        "formattedSearchTime": "0.28",
+        "totalResults": "54000",
+        "formattedTotalResults": "54,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video of Rishi Sunak doppelg\u00e4nger throwing shapes in Wayne ...",
+                "htmlTitle": "Video of <b>Rishi Sunak</b> doppelg\u00e4nger throwing shapes in Wayne ...",
+                "link": "https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html",
+                "displayLink": "www.dailymail.co.uk",
+                "snippet": "Jan 24, 2022 ... Video has emerged of a Rishi Sunak lookalike dancing at a beach club in Ibiza; It shows doppelg\u00e4nger wearing sunglasses, Versace shorts and\u00a0...",
+                "htmlSnippet": "Jan 24, 2022 <b>...</b> Video has emerged of a <b>Rishi Sunak lookalike dancing</b> at a beach club in <b>Ibiza</b>; It shows doppelg\u00e4nger wearing sunglasses, Versace shorts and&nbsp;...",
+                "formattedUrl": "https://www.dailymail.co.uk/news/.../Video-Rishi-Sunak-doppelg-nger-thro...",
+                "htmlFormattedUrl": "https://www.dailymail.co.uk/<b>news</b>/.../Video-<b>Rishi</b>-<b>Sunak</b>-doppelg-nger-thro...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUgi-wPlJ3nusCYZ1mso_BTSg6VbybK-Px9sIC3RHyky6OvvLYD9LKB8NA&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.dailymail.co.uk/1s/2022/01/24/11/53299823-0-image-a-25_1643022835073.jpg",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-01-24T11:13:35+0000",
+                            "og:image:width": "636",
+                            "og:site_name": "Mail Online",
+                            "twitter:url": "https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html",
+                            "channel": "News",
+                            "article:location": "region:GB",
+                            "og:description": "The footage shows a man, who has since been dubbed 'Raving Rishi', cutting shapes at a sunny party surrounded by hundreds of party-goers at Wayne Lineker's O Beach Ibiza.",
+                            "article:publisher": "https://www.facebook.com/DailyMail",
+                            "divclasspage": "articlePage",
+                            "article:modified_time": "2022-01-24T12:18:47+0000",
+                            "mol:headline": "'Raving Rishi living his best life when Boris gets fired': Video of Chancellor's doppelg\u00e4nger throwing shapes in Wayne Lineker's Ibiza club sets social media on fire\u00a0",
+                            "og:video:type": "video/mp4",
+                            "og:video:height": "358",
+                            "al:ios:app_name": "MailOnline",
+                            "author": "Jamie Phillips",
+                            "twitter:app:id:ipad": "400442503",
+                            "app_store_id": "app-id=384101264",
+                            "fb:pages": "164305410295882",
+                            "og:video:width": "636",
+                            "article:author": "https://www.facebook.com/DailyMail",
+                            "article:tag": "Video Rishi Sunak doppelg nger throwing shapes Wayne Linekers Ibiza club",
+                            "og:video": "https://videos.dailymail.co.uk/video/mol/2022/01/24/5296247419944519305/1024x576_MP4_5296247419944519305.mp4",
+                            "mobile-web-app-capable": "yes",
+                            "al:android:app_name": "Daily Mail Online",
+                            "articleid": "10434917",
+                            "al:android:package": "com.dailymail.online",
+                            "y_key": "1a7e912afbfcab2f",
+                            "twitter:app:id:iphone": "384101264",
+                            "al:ios:url": "dailymail-fb://article/10434917/",
+                            "twitter:image": "https://i.dailymail.co.uk/1s/2022/01/24/11/53299823-0-image-a-25_1643022835073.jpg",
+                            "al:ios:app_store_id": "384101264",
+                            "news_keywords": "dailymail,news,Rishi Sunak,Boris Johnson",
+                            "article:content_tier": "free",
+                            "twitter:account_id": "15438913",
+                            "twitter:title": "Video of Rishi Sunak lookalike dancing in Wayne Lineker's Ibiza club",
+                            "article:section": "News",
+                            "og:type": "article",
+                            "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+                            "og:title": "Video of Rishi Sunak lookalike dancing in Wayne Lineker's Ibiza club",
+                            "og:image:height": "382",
+                            "al:android:url": "dailymail-fb://article/10434917/",
+                            "fb:app_id": "146202712090395",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                            "doc-class": "Living Document",
+                            "twitter:description": "The footage shows a man, who has since been dubbed 'Raving Rishi', cutting shapes at a sunny party surrounded by hundreds of party-goers at Wayne Lineker's O Beach Ibiza.",
+                            "original-source": "https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html",
+                            "og:url": "https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.dailymail.co.uk/1s/2022/01/24/11/53299823-0-image-a-25_1643022835073.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.dailymail.co.uk/news/article-10434917/Video-Rishi-Sunak-doppelg-nger-throwing-shapes-Wayne-Linekers-Ibiza-club.html",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The Daily Mail often focuses on sensational stories and entertainment, leading to questions regarding its journalistic integrity. While it does report on facts, it can sometimes sensationalize news, which may compromise accuracy. As a result, it is not always seen as a reliable source for serious news or fact-checking."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-01-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "The evidence discusses a video that emerged showing a lookalike of Rishi Sunak dancing in Ibiza. It refers to the individual as a 'doppelg\u00e4nger' of Sunak, confirming that the man in the video is not actually Rishi Sunak but someone who closely resembles him."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak News: 'Raving Rishi' is an Internet sensation! Rishi ...",
+                "htmlTitle": "<b>Rishi Sunak News</b>: &#39;Raving Rishi&#39; is an Internet sensation! Rishi ...",
+                "link": "https://m.economictimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms",
+                "displayLink": "m.economictimes.com",
+                "snippet": "Oct 27, 2022 ... Some netizens were amused at what seemed to be Britain's 57th Prime Minister, dancing shirtless before a group of admirers at a beach party. The\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> Some netizens were amused at what seemed to be Britain&#39;s 57th Prime Minister, <b>dancing</b> shirtless before a group of admirers at a beach party. The&nbsp;...",
+                "formattedUrl": "https://m.economictimes.com/...rishi-sunaks...rishi...dancing...ibiza.../95095...",
+                "htmlFormattedUrl": "https://m.economictimes.com/...<b>rishi</b>-<b>sunak</b>s...<b>rishi</b>...<b>dancing</b>...<b>ibiza</b>.../95095...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQclUlAJXMDimPOQpnH16I41Hww_uC4PvJftCjW2s2ox5PtB-b6KRuDQPNb&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34608,resizemode-75,msid-95095672/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club.jpg",
+                            "theme-color": "#e9383e",
+                            "og:type": "article",
+                            "og:site_name": "The Economic Times",
+                            "al:android:com": "com.et.reader.activities",
+                            "og:title": "'Raving Rishi' is an Internet sensation! Rishi Sunak look-alike spotted partying at Ibiza Club",
+                            "og:description": "The unnamed guy is seen having the time of his life at a beach party.",
+                            "props": "yes",
+                            "al:android:url": "https://m.economictimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms?utm_source=test&cid=",
+                            "news_keywords": "Rishi Sunak News,raving rishi,ibiza,rishi,rishi sunak,infosys,jim sarbh,infosys",
+                            "viewport": "width=device-width, height=device-height,initial-scale=1.0,user-scalable=yes,maximum-scale=5",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://economictimes.indiatimes.com/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club/articleshow/95095672.cms",
+                            "al:android:app_name": "The Economic Times",
+                            "apple-touch-fullscreen": "yes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34608,resizemode-75,msid-95095672/magazines/panache/british-pm-rishi-sunaks-look-alike-raving-rishi-spotted-dancing-shirtless-at-ibiza-club.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Home",
+                            "url": "https://m.economictimes.com/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Document",
+                    "content_tokens": 1
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Economic Times is a reputable publication that provides credible news related to economics and finance. However, while it generally maintains good quality standards, it does have some variability in reporting on lighter news items or entertainment topics. It is trustworthy for economic articles but may not be the sole source for verification of every viral claim."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence mentions people being amused by the appearance of someone supposedly resembling the newly appointed Prime Minister but does not provide solid confirmation that it is a lookalike or additional verification details."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Viral video does not show Rishi Sunak dancing at a party \u2013 HKBU ...",
+                "htmlTitle": "Viral video does not show <b>Rishi Sunak dancing</b> at a party \u2013 HKBU ...",
+                "link": "https://factcheck.hkbu.edu.hk/home/en/fc_report_eng/22102702/",
+                "displayLink": "factcheck.hkbu.edu.hk",
+                "snippet": "Nov 7, 2022 ... The video was published in July 2019 on Instagram by Wayne Lineker. It actually shows people dancing at a club in Ibiza, Spain. In recent years,\u00a0...",
+                "htmlSnippet": "Nov 7, 2022 <b>...</b> The video was published in July 2019 on Instagram by Wayne Lineker. It actually shows people <b>dancing</b> at a club in <b>Ibiza</b>, Spain. In recent years,&nbsp;...",
+                "formattedUrl": "https://factcheck.hkbu.edu.hk/home/en/fc_report_eng/22102702/",
+                "htmlFormattedUrl": "https://factcheck.hkbu.edu.hk/home/en/fc_report_eng/22102702/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05w6UuNLjdHeEtHpv5tfXCHYsghiJlxrHI_eiw-ixppHCL8Dr9KnI3-4&s",
+                            "width": "190",
+                            "height": "265"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "msapplication-tileimage": "https://factcheck.hkbu.edu.hk/home/wp-content/uploads/2022/02/fc_Logo_mobile-1.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.hkbu.edu.hk/home/wp-content/uploads/2022/11/Rishi-1.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Categories FactCheck ReportsRishi SunakUnited Kingdom\n]\nScreenshot of the tweet.\nThe Claim and Our Verdict\n**The claim**: A video claims to show Britain\u2019s new Prime Minister Rishi Sunak dancing at a party.\n**Fact-checking:**\n1.  There is no evidence that the man in the viral video is Rishi Sunak. The video was published in July 2019 on Instagram by Wayne Lineker. It actually shows people dancing at a club in Ibiza, Spain. In recent years, Lineker has repeatedly posted the same video on social media to express his stance and attitude towards different social events.\n2.  Several media outlets and fact-checking organizations have debunked similar claims, clarifying that the man in the video is not Rishi Sunak but his lookalike. The French news channel France 24 has pointed out that Sunak has a mole on the left side of his face, but the man in the video does not.\n3.  According to Sunak\u2019s official social media accounts, in July 2019, he stayed in the U.K. and attended various events in the country. Therefore, he did not go to Ibiza in Spain, nor he appeared in the viral video.\n**Our verdict**: The man dancing in the viral video is not Britain\u2019s new Prime Minister Rishi Sunak.\nNews Brief\nA  of a man dancing was shared Oct. 26, 2022, on Twitter, with the caption \u201cBritain\u2019s new Prime Minister.\u201d It claims that the man dancing in the video is Rishi Sunak, U.K.\u2019s new Prime Minister.\nAccording to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website belongs to the Hong Kong Baptist University\u2019s Fact-Checking team, which provides dedicated fact-checking services. It follows rigorous journalistic standards, focusing on truthfulness and accuracy. Their primary goal is to combat misinformation, giving them a high score for reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-11-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence effectively debunks claims that the video shows Rishi Sunak by detailing how the video was published earlier and pointing out that the dancing individual is a lookalike. It provides factual verification and supports the claim of mistaken identity."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Balearic rave party for Sunak but is it really him? Watch the video",
+                "htmlTitle": "Balearic rave party for <b>Sunak</b> but is it really him? Watch the video",
+                "link": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html",
+                "displayLink": "www.majorcadailybulletin.com",
+                "snippet": "Oct 27, 2022 ... Minutes after Rishi Sunak was confirmed as the new British prime minister, a video showing a young man partying at a famous beach club in\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> Minutes after <b>Rishi Sunak</b> was confirmed as the <b>new</b> British prime minister, a video showing a young man partying at a famous beach club in&nbsp;...",
+                "formattedUrl": "https://www.majorcadailybulletin.com/news/.../balearic-rave-party-for-suna...",
+                "htmlFormattedUrl": "https://www.majorcadailybulletin.com/<b>news</b>/.../balearic-rave-party-for-<b>suna</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EVzBUUyitixx9DuWDT0o2aIvkebSGZUDhI26inPOktcpFObzeuQb560&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ea2221",
+                            "article:published_time": "2022-10-27T14:37:00+02:00",
+                            "og:image:width": "1200",
+                            "og:site_name": "Majorca Daily Bulletin",
+                            "twitter:url": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html",
+                            "language": "en",
+                            "og:image:type": "image/jpeg",
+                            "title": "Balearic rave party for Sunak but is it really him? Watch the video",
+                            "og:description": "Not what the new Prime Minister needs right now. The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak",
+                            "twitter:image": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "article:publisher": "https://www.facebook.com/MajorcaDaily/",
+                            "og:image:secure_url": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg",
+                            "mrf:tags": "keywords:Ibiza Sunak;keywords:Mallorca holiday;keywords:Rishi Sunak Balearics party;keywords:Sunak Balearics;keywords:Sunak Ibiza;keywords:Sunak double;keywords:Sunak partying Ibiza;keywords:Latest headlines",
+                            "twitter:site": "@MajorcaDaily",
+                            "article:modified_time": "2024-07-05T13:00:22+02:00",
+                            "fb:admins": "1009840697",
+                            "og:video:type": "video/youtube",
+                            "og:video:height": "720",
+                            "twitter:title": "Video of \u201cSunak\u201d partying in the Balearics goes viral",
+                            "og:type": "article",
+                            "article:section": "Latest headlines",
+                            "og:title": "Video of \u201cSunak\u201d partying in the Balearics goes viral",
+                            "og:image:height": "630",
+                            "og:video:secure_url": "https://youtu.be/WFnXMyLf5CQ",
+                            "fb:pages": "300611123394179",
+                            "og:video:width": "1280",
+                            "dc.date.issued": "2022-10-27",
+                            "article:author": "Humphrey Carter",
+                            "article:tag": "Ibiza Sunak",
+                            "fb:app_id": "205112354354",
+                            "og:video": "https://youtu.be/WFnXMyLf5CQ",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "Not what the new Prime Minister needs right now. The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak",
+                            "og:url": "https://www.majorcadailybulletin.com/news/local/2022/10/27/107267/balearic-rave-party-for-sunak-but-really-him-watch-the-video.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://md.gsstatic.es/sfAttachPlugin/facebook/113551.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u201d partying in the Balearics goes viral\n=====================================================\nNot what the new Prime Minister needs right now\n-----------------------------------------------\nVideo Player is loading.\nPlay Video\nPlaySkip Backward\nMute\nCurrent Time\u00a00:00\n/\nDuration\u00a00:00\nLoaded: 0%\nStream Type\u00a0LIVE\nSeek to live, currently behind liveLIVE\nRemaining Time\u00a0\\-0:00\n1x\nPlayback Rate\nChapters\n*   Chapters\nDescriptions\n*   descriptions off, selected\nSubtitles\n*   captions and subtitles off, selected\nAudio Track\nPicture-in-PictureFullscreen\nThis is a modal window.\nBeginning of dialog window. Escape will cancel and close the window.\nTextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-Transparent\nText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparent\nCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaque\nFont Size50%75%100%125%150%175%200%300%400%\nText Edge StyleNoneRaisedDepressedUniformDropshadow\nFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps\nReset restore all settings to the default valuesDone\nClose Modal DialogEnd of dialog window.\nRishi Sunak lookalike cut shapes at Wayne Lineker's club in Ibiza. Rishi Sunak lookalike dancing at a beach club in Ibiza | **Youtube: 3W Daily**\nPalma27/10/2022 14:37\nMinutes after **Rishi Sunak** was confirmed as the new British prime minister, **a video showing a young man partying at a famous beach club in Sant Antoni, Ibiza, was picked up by several media outlets and has gone viral.**\n>  Our new Prime Minister Rishi Sunak \ud83d\ude02 @britishmemes      \nMonths ago, the video was widely circulated and now it has been circulated again, with several media outlets suggesting that it was Sunak, 42, the youngest prime minister in the modern era.\n##### Related news\n]\n#### \n**The resemblance is unmistakable but it is a \u2018double\u2019 of Sunak**. It is a young man who bears a striking resemblance to him.\nThe images accompanying this story were filmed at the **island\u2019s Ocean Beach Club** and were initially posted on the TikTok profile of club owner **Wayne Lineker** with the caption \u201cRishi Sunak trying to win over an Ibiza crowd today and getting votes for his campaign\u201d.\n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Mallorca Daily Bulletin primarily focuses on news relating to Mallorca and Balearic Islands. Although they provide local news and some updates relevant to tourists, their coverage may lack the in-depth investigative rigor seen in larger publications, affecting their overall reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "The evidence confirms that the man dancing is indeed a young man who closely resembles Rishi Sunak, referred to as his lookalike. It provides context around the video but does not delve deeper into further verification."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Old Video Of Rishi Sunak's Doppelganger Dancing At A Beach ...",
+                "htmlTitle": "Old Video Of <b>Rishi Sunak&#39;s</b> Doppelganger <b>Dancing</b> At A Beach ...",
+                "link": "https://thelogicalindian.com/fact-check/rishi-sunaks-doppelganger-dance-goes-viral-with-false-claim-38289",
+                "displayLink": "thelogicalindian.com",
+                "snippet": "Oct 27, 2022 ... The viral vial video dates back to July 2019 and the man in the video is not Rishi Sunak but his lookalike. The viral video has nothing to\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> The viral vial video dates back to July 2019 and the man in the video is not <b>Rishi Sunak</b> but his <b>lookalike</b>. The viral video has nothing to&nbsp;...",
+                "formattedUrl": "https://thelogicalindian.com/.../rishi-sunaks-doppelganger-dance-goes-viral-...",
+                "htmlFormattedUrl": "https://thelogicalindian.com/.../<b>rishi</b>-<b>sunak</b>s-doppelganger-dance-goes-viral-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9H2qrYP9MI_b-C5l1uwr4Jr-7cQtXf5KurkY9NV2_SfJ2UuEHG-QYI1g&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://thelogicalindian.com/h-upload/2022/10/27/225155-new-project-2022-10-27t144401877.jpg?width=500&height=300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://thelogicalindian.com/h-upload/2022/10/27/225157-facebook-cover-2022-10-27t144336913.jpg",
+                            "copyright": "The Logical Indian",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2022-10-27T15:33:40+05:30",
+                            "og:image:width": "1200",
+                            "twitter:url": "https://thelogicalindian.com/fact-check/rishi-sunaks-doppelganger-dance-goes-viral-with-false-claim-38289",
+                            "language": "en",
+                            "title": "Old Video Of Rishi Sunak's Doppelganger Dancing At A Beach Goes Viral With False Claim",
+                            "rankz-verification": "wFLPRyecoxQFYILb",
+                            "og:description": "The viral vial video dates back to July 2019 and the man in the video is not Rishi Sunak but his lookalike. The viral video has nothing to do with the newly appointed British PM Rishi Sunak.",
+                            "og:image:secure_url": "https://thelogicalindian.com/h-upload/2022/10/27/225157-facebook-cover-2022-10-27t144336913.jpg",
+                            "twitter:image": "https://thelogicalindian.com/h-upload/2022/10/27/225157-facebook-cover-2022-10-27t144336913.jpg",
+                            "twitter:image:alt": "Old Video Of Rishi Sunak's Doppelganger Dancing At A Beach Goes Viral With False Claim",
+                            "article:modified_time": "2022-10-27T15:33:40+05:30",
+                            "news_keywords": "Rishi Sunak, UK, Prime Minister, Dance, Old Video, Spain",
+                            "fb:use_automatic_ad_placement": "enable=true ad_density=default",
+                            "application-name": "The Logical Indian",
+                            "image": "https://thelogicalindian.com/h-upload/2022/10/27/225155-new-project-2022-10-27t144401877.jpg",
+                            "og:type": "article",
+                            "twitter:title": "Old Video Of Rishi Sunak's Doppelganger Dancing At A Beach Goes Viral With False Claim",
+                            "article:section": "Fact Check",
+                            "handheldfriendly": "true",
+                            "msvalidate.01": "7E3B2BFC48B0C321B22BC2015198C829",
+                            "author": "Jakir Hassan",
+                            "og:title": "Old Video Of Rishi Sunak's Doppelganger Dancing At A Beach Goes Viral With False Claim",
+                            "article:updated_time": "2022-10-27T15:33:40+05:30",
+                            "og:image:height": "630",
+                            "google": "notranslate",
+                            "article:tag": "Rishi Sunak,UK,Prime Minister,Dance,old video,Spain",
+                            "referrer": "origin",
+                            "fb:app_id": "2668531266804798",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=10.0,user-scalable=yes,minimum-scale=1.0",
+                            "twitter:description": "The viral vial video dates back to July 2019 and the man in the video is not Rishi Sunak but his lookalike. The viral video has nothing to do with the newly appointed British PM Rishi Sunak.",
+                            "original-source": "https://thelogicalindian.com/fact-check/rishi-sunaks-doppelganger-dance-goes-viral-with-false-claim-38289",
+                            "og:url": "https://thelogicalindian.com/fact-check/rishi-sunaks-doppelganger-dance-goes-viral-with-false-claim-38289"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thelogicalindian.com/h-upload/2022/10/27/225157-facebook-cover-2022-10-27t144336913.jpg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-10-27T15:33:40+05:30",
+                            "claimReviewed": "The Man Dancing At A Beach In The Video Is Rishi Sunak",
+                            "dateModified": "2022-10-27T15:33:40+05:30",
+                            "url": "https://thelogicalindian.com/fact-check/rishi-sunaks-doppelganger-dance-goes-viral-with-false-claim-38289"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Tags\n!\nImage Credit: , \nOld Video Of Rishi Sunak's Doppelganger Dancing At A Beach Goes Viral With False Claim\n======================================================================================\n### India,\u00a0 27 Oct 2022 10:03 AM\n### \u00a0|\u00a0\n]\nAs the founding editor, Bharat had been heading the newsroom during the formation years of the organization and worked towards editorial policies, conceptualizing and designing campaign strategies and collaborations. He believes that through the use of digital media, one could engage the millennial's in rational conversations about pertinent social issues, provoking them to think and bring a behavioral change accordingly.\n### \n]\nA journalist at heart loves the in-depth work of reporting, writing, editing, research, and data analysis. A digital and social media enthusiast.\nThe viral vial video dates back to July 2019 and the man in the video is not Rishi Sunak but his lookalike. The viral video has nothing to do with the newly appointed British PM Rishi Sunak.\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n(javascript:void\\(0\\))\n(javascript:void\\(0\\))\n(javascript:void\\(0\\);)\nRishi Sunak became the Prime Minister of Britain after the dramatic exit of Boris Johnson and Liz Truss from the prime ministerial position of Britain. After his appointment, many videos and pictures of Rishi Sunak are being shared on social media with misleading claims. One such video is going viral on social media. In the viral video, a man can be seen dancing and partying on the beach. While sharing this video, people on social media claimed that the man in the viral video is Rishi Sunak.\nA Twitter user shared this video and wrote a caption which reads, \"UK new PM@RishiSunak in an old video dancing to the tunes, it seems UK fate is in safe hands now.\"\n> UK new PM  in an old video dancing to the tunes, it seems UK fate is in safe hands now \ud83d\ude00\n> \n> \u2014 Manoj (@Nixachar) \nAnother user wrote, \"Kattar Hindu PM Rishi Sunak.\"\n> In case anyone were curious about what chaddi the new British PM wears\u2026 \n> \n> \u2014 Amit Schandillia (@Schandillia) \nIt is being widely shared on  and  with a similar claim.\nClaim:\n------\nViral video shows Rishi Sunak dancing on a beach.\nFact Check:\n-----------\nThe Logical Indian fact-check team verified the viral claim and found it to be false. The man in the viral video is...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Logical Indian is known for its focus on social issues and community-driven news stories. They aim to promote factual reporting and social causes. However, while they do strive for accuracy, some articles may lean towards advocacy, which can sometimes affect neutrality."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "The evidence states with clarity that the individual in the viral video is not Rishi Sunak but his lookalike. It also mentions that the video dates back to July 2019, which provides a historical basis for the claims."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak and Keir Starmer Clash Over Trans Rights | TikTok",
+                "htmlTitle": "<b>Rishi Sunak</b> and Keir Starmer Clash Over Trans Rights | TikTok",
+                "link": "https://www.tiktok.com/@pinknews/video/7384925703822658848",
+                "displayLink": "www.tiktok.com",
+                "snippet": "Jun 26, 2024 ... There is a choice on that question at this election, because Keir Starmer has not matched my pledge to reform the Equalities Act to pass new law\u00a0...",
+                "htmlSnippet": "Jun 26, 2024 <b>...</b> There is a choice on that question at this election, because Keir Starmer has not matched my pledge to reform the Equalities Act to pass <b>new</b> law&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/@pinknews/video/7384925703822658848",
+                "htmlFormattedUrl": "https://www.tiktok.com/@pink<b>news</b>/video/7384925703822658848",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHaFTeguBH8RkXdn8bQYlAlsKszmWnJ5_7P2KNAQwpCPT4MCelgY3RJRUX&s",
+                            "width": "168",
+                            "height": "300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://www.tiktok.com/api/img/?itemId=7384925703822658848&location=0&aid=1988",
+                            "twitter:card": "summary",
+                            "og:image:width": "576",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "al:ios:url": "snssdk1233://aweme/detail/7384925703822658848?",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "30.4K likes, 1255 comments. \u201cRishi Sunak and Keir Starmer clashed over trans rights during the BBC\u2019s Prime Ministerial Debate on 26th June.  Answering a question from a viewer on women\u2019s-only spaces, the two political leaders debated on the Equality Act.  Sunak said he wanted to \u201cchang[e] the law so that the old Equalities Act recognises that sex means biological sex.\u201d\u2028\u2028\u201cThat will allow us to [\u2026] protect female-only spaces, female-only services. It's crystal clear for you. There is a choice on that question at this election, because Keir Starmer has not matched my pledge to reform the Equalities Act to pass new law,\u201d the Conservative leader added. \u201cIt's very important that we protect women's spaces,\u201d said Labour leader Keir Starmer. \u201cBut what I will also say is that I do recognise that there are a small number of people who are born into a gender that they don't identify with, and I will treat them as I treat all human beings, with dignity and respect,\u201d he continued.\u201d",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/04c8e3d37fa7488b9e16c5b99fe5918e_1719437059~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=b59d6b55&nonce=54691&refresh_token=fa853b31c6f33c2819fa87b5f182e42b&x-expires=1723183200&x-signature=q8%2BYLRtJ8Gk3wsb19fFZED3fO%2BQ%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "TikTok \u00b7 PinkNews \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "TikTok \u00b7 PinkNews \ud83c\udff3\ufe0f\u200d\ud83c\udf08\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+                            "og:image:height": "1024",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://aweme/detail/7384925703822658848?",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "30.4K likes, 1255 comments. \u201cRishi Sunak and Keir Starmer clashed over trans rights during the BBC\u2019s Prime Ministerial Debate on 26th June.  Answering a question from a viewer on women\u2019s-only spaces, the two political leaders debated on the Equality Act.  Sunak said he wanted to \u201cchang[e] the law so that the old Equalities Act recognises that sex means biological sex.\u201d\u2028\u2028\u201cThat will allow us to [\u2026] protect female-only spaces, female-only services. It's crystal clear for you. There is a choice on that question at this election, because Keir Starmer has not matched my pledge to reform the Equalities Act to pass new law,\u201d the Conservative leader added. \u201cIt's very important that we protect women's spaces,\u201d said Labour leader Keir Starmer. \u201cBut what I will also say is that I do recognise that there are a small number of people who are born into a gender that they don't identify with, and I will treat them as I treat all human beings, with dignity and respect,\u201d he continued.\u201d",
+                            "og:url": "https://www.tiktok.com/@pinknews/video/7384925703822658848",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.tiktok.com/api/img/?itemId=7384925703822658848&location=0&aid=1988"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "TikTok - Make Your Day\n===============\nLog in\n*   \n*   \n*   \n*   \n*   \nLog in to follow creators, like videos, and view comments.\nLog in\n #### Create TikTok effects, get a reward]\n#### Company\n#### Program\n#### Terms & Policies\n\u00a9 2024 TikTok",
+                    "content_tokens": 65
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 2,
+                    "justification": "TikTok is primarily a social media platform where users share short videos. While entertaining, it is not a credible source for news or fact verification. The nature of the content is driven by user-generated submissions, often leading to the spread of misinformation rather than verified news."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is not relevant to the question, as it relates to political content and does not mention the individual being a lookalike or any verification of the dancing man in the video."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Rishi Sunak Lookalike 'Raving Rishi' Raves At Wayne Lineker's ...",
+                "htmlTitle": "<b>Rishi Sunak Lookalike</b> &#39;Raving Rishi&#39; Raves At Wayne Lineker&#39;s ...",
+                "link": "https://www.ladbible.com/entertainment/rishi-sunak-lookalike-raving-rishi-raves-at-wayne-linekers-club-20220124",
+                "displayLink": "www.ladbible.com",
+                "snippet": "Jan 24, 2022 ... The video was posted by Wayne Lineker after it emerged that clubs in Ibiza will be allowed to open in April.",
+                "htmlSnippet": "Jan 24, 2022 <b>...</b> The video was posted by Wayne Lineker after it emerged that clubs in <b>Ibiza</b> will be allowed to open in April.",
+                "formattedUrl": "https://www.ladbible.com/.../rishi-sunak-lookalike-raving-rishi-raves-at-wa...",
+                "htmlFormattedUrl": "https://www.ladbible.com/.../<b>rishi</b>-<b>sunak</b>-<b>lookalike</b>-raving-<b>rishi</b>-raves-at-wa...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR-QkwUxiFM5h23mwLfH_8jMDdFp0uzNWKAQnEKyJA2iUSwU5FDIR0hZEa&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt9896e098f86d3bbd/61eec5d6b0100463b19deafd/Screenshot_2022-01-24_at_15.26.39.png",
+                            "theme-color": "#111111",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Rishi Sunak Lookalike 'Raving Rishi' Raves At Wayne Lineker's Ibiza Club",
+                            "og:site_name": "LADbible",
+                            "og:title": "Rishi Sunak Lookalike 'Raving Rishi' Raves At Wayne Lineker's Ibiza Club",
+                            "og:description": "The video was posted by Wayne Lineker after it emerged that clubs in Ibiza will be allowed to open in April",
+                            "twitter:creator": "@ladbible",
+                            "twitter:image": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt9896e098f86d3bbd/61eec5d6b0100463b19deafd/Screenshot_2022-01-24_at_15.26.39.png",
+                            "fb:app_id": "331116490288120",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "twitter:description": "The video was posted by Wayne Lineker after it emerged that clubs in Ibiza will be allowed to open in April",
+                            "og:url": "https://www.ladbible.com/entertainment/rishi-sunak-lookalike-raving-rishi-raves-at-wayne-linekers-club-20220124"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt9896e098f86d3bbd/61eec5d6b0100463b19deafd/Screenshot_2022-01-24_at_15.26.39.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nPublished 16:03 24 Jan 2022 GMT\nThe video was posted by Wayne Lineker after it emerged that clubs in Ibiza will be allowed to open in April\n-----------------------------------------------------------------------------------------------------------\nPeople have picked up on a  lookalike throwing some shapes at Wayne Lineker's  club. Here he is in all his glory:\nThe video shows the man dubbed 'Raving Rishi' wearing some black Versace shorts and sporting a pair of sunglasses with a signature Ocean Beach orange cup in his hand.\nVery aware the camera is on him, he's pulled out his gun fingers as people made space for him and (what looks like) his pal on the dance floor.\nThe video was posted by Wayne in response to news that clubs in Ibiza will be able to open in April.\nWayne, 59, wrote on Instagram: \"This is crazy right now. It\u2019s literally going mad. People booking Ibiza flights, already getting full after today\u2019s announcements.\"\n!\nInstagram/@waynelineker\nHe went on: \"I\u2019m nervous what\u2019s gonna happen on the morning of the 31st jan when bed bookings open and events are announced for\u00a0@obeachibizaI I told you 'this will be the summer of our lives'.\"\nHe then added the hashtags 'no restrictions', 'no masks', 'just party' and 'back to life' at the end of his post.\nCommenting on the 12 second clip, one person wrote: \"...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "LadBible is known for entertainment and light news but has gained some credibility for covering trending topics. However, its sensational style means that it isn't always reliable for serious topics, particularly those involving accurate reporting on public figures and events."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-01-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "The evidence provides information about the video being posted by Wayne Lineker, suggesting it shows a lookalike of Rishi Sunak. While it gives context, it lacks concrete verification details."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Fact-check: Does this viral video actually show Rishi Sunak dancing ...",
+                "htmlTitle": "Fact-check: Does this viral video actually show <b>Rishi Sunak dancing</b> ...",
+                "link": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html",
+                "displayLink": "www.moneycontrol.com",
+                "snippet": "Oct 28, 2022 ... A viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named\u00a0...",
+                "htmlSnippet": "Oct 28, 2022 <b>...</b> A viral video that shows a <b>Rishi Sunak lookalike dancing</b> at a club has resurfaced on social media shortly after the 42-year-old was named&nbsp;...",
+                "formattedUrl": "https://www.moneycontrol.com/news/.../fact-check-does-this-viral-video-ac...",
+                "htmlFormattedUrl": "https://www.moneycontrol.com/<b>news</b>/.../fact-check-does-this-viral-video-ac...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9ArdYvp4qLSm9041VxYs5FowfWCr_kN6Enb6r2vWzFtR-Jnv8K1zSAU&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg",
+                            "apple-itunes-app": "app-id=408654600,affiliate-data=ct=smartbanner_mobileweb&pt=8949&utm_source=smart_banner",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Fact-check: Does this viral video actually show Rishi Sunak dancing at a club?",
+                            "og:site_name": "Moneycontrol",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html",
+                            "og:title": "Fact-check: Does this viral video actually show Rishi Sunak dancing at a club?",
+                            "dailymotion-domain-verification": "dmpn9sdnwtvex9ltc",
+                            "og:article:published_time": "2022-10-28T16:34:46+05:30",
+                            "og:description": "A viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named prime minister of the United Kingdom.",
+                            "twitter:creator": "@moneycontrolcom",
+                            "fb:pages": "143902715620459",
+                            "twitter:image:src": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg",
+                            "next-head-count": "2",
+                            "last-modified": "2022-10-28T16:34:46+05:30",
+                            "twitter:site": "@moneycontrolcom",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+                            "news_keywords": "Rishi Sunak, Rishi Sunak lookalike, Rishi Sunak doppelganger, Rishi Sunak dancing, ibiza, fact check,",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.moneycontrol.com/news/trends/fact-check-does-this-viral-video-actually-show-rishi-sunak-dancing-at-a-club-9406841.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.moneycontrol.com/static-mcnews/2022/10/Rishi-Sunak-lookalike-770x435.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   *   FIXED DEPOSIT\n        *   \n        *   \n        *   \n        *   \n        *   TAX\n        *   \n        *    \u00a0\n        *   \n        *   LOANS & CREDIT CARDS\n        *   \n        *    \u00a0\n        *   \n        *   \n        *   \n        *   \n    *   *   TOOLS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n     | \n     | \n*   \n    *   *   EXPLORE FORUM\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   (javascript:; \"User Profile\")\n    *   *   FORUM TOPICS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   POLLS\n        *   \n        *   \n        *   \n        *   SUPPORT\n        *   \n        *   \n        *   \n        *   \n*   \n    *   *   VIDEOS\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   PODCAST\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   LIVE TV\n        *   \n        *   \n*   (javascript:; \"Invest Now\")\n    ]\n    *   ### INVEST IN CRYPTOassets\n        Powered By\n    *   \n    *   ### BOTS Summit (FY 24-25)\n        Powered By\n    *   \n    *   ### Open Trading Account\n        Powered By\n    *   \n*   \n(javascript:void\\(0\\) \"Submit\")\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n !]\nFact-check: Does this viral video actually show Rishi Sunak dancing at a club?\nTrending Topics\nFact-check: Does this viral video actually show Rishi Sunak dancing at a club?\n==============================================================================\nA viral video that shows a Rishi Sunak lookalike dancing at a club has resurfaced on social media shortly after the 42-year-old was named prime minister of the United Kingdom.\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nCurated by : \nOctober 28, 2022 / 16:34 IST\n*   \n*   \n*   \n*   \n*   \n*   \n!\nUK PM Rishi Sunak (L) and his lookalike at a club (R). Image credit: @...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Moneycontrol is a well-respected source for finance and market news. It generally provides quality content and keeps a firm stance on accuracy, making it a reliable source for financial news, though it may not focus on broader news stories as much."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence discusses the viral spread of a video showcasing a lookalike of Sunak at a club. It effectively reiterates the claim regarding the individual's resemblance and further supports the notion that it isn\u2019t Sunak himself."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Viral Video Does Not Show Rishi Sunak At Beach Party",
+                "htmlTitle": "Viral Video Does Not Show <b>Rishi Sunak</b> At Beach Party",
+                "link": "https://newschecker.in/fact-check/sunak-at-beach-party-false/",
+                "displayLink": "newschecker.in",
+                "snippet": "Oct 27, 2022 ... Displaying visuals from the viral video, the report elaborated, \u201cA video of a Rishi Sunak doppelg\u00e4nger dancing at Wayne Lineker's Ibiza club has\u00a0...",
+                "htmlSnippet": "Oct 27, 2022 <b>...</b> Displaying visuals from the viral video, the report elaborated, \u201cA video of a <b>Rishi Sunak</b> doppelg\u00e4nger <b>dancing</b> at Wayne Lineker&#39;s <b>Ibiza</b> club has&nbsp;...",
+                "formattedUrl": "https://newschecker.in/fact-check/sunak-at-beach-party-false/",
+                "htmlFormattedUrl": "https://<b>news</b>checker.in/fact-check/<b>sunak</b>-at-beach-party-false/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6-VBpQBSb0KZMvM-u8qImum4YobdkZ1hQWCya8lgZQLhXBiJVPNTrfMG&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://newschecker.in/wp-content/uploads/2021/02/final-logo-300x58.png"
+                        },
+                        {
+                            "width": "696",
+                            "url": "https://newschecker.in/wp-content/uploads/2022/10/Saurabh-Article-FI-Super-Latest-2022-10-25T201922.963-696x522-1.jpg",
+                            "height": "522"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Vasudha Beri",
+                            "url": "https://newschecker.in/author/vasudha/"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Newschecker"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://newschecker.in/wp-content/uploads/2022/10/Saurabh-Article-FI-Super-Latest-2022-10-25T201922.963-696x522-1.jpg",
+                            "og:image:width": "696",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Newschecker",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://newschecker.in/wp-content/uploads/2022/04/cropped-New-Project-1-1-270x270.png",
+                            "og:description": "A video is going viral on social media platforms claiming to show the newly appointed PM of the UK Rishi Sunak at beach party. Newschecker found the claim to...",
+                            "twitter:creator": "@LVani1234",
+                            "og:image:secure_url": "https://newschecker.in/wp-content/uploads/2022/10/Saurabh-Article-FI-Super-Latest-2022-10-25T201922.963-696x522-1.jpg",
+                            "twitter:image": "https://newschecker.in/wp-content/uploads/2022/10/Saurabh-Article-FI-Super-Latest-2022-10-25T201922.963-696x522-1.jpg",
+                            "twitter:data1": "Vasudha Beri",
+                            "twitter:data2": "2 minutes",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Sunak At Beach Party",
+                            "twitter:title": "Viral Video Does Not Show Rishi Sunak At Beach Party",
+                            "author": "Vasudha Beri",
+                            "og:title": "Viral Video Does Not Show Rishi Sunak At Beach Party",
+                            "og:image:height": "522",
+                            "og:updated_time": "2022-10-27T12:29:11+05:30",
+                            "article:author": "https://www.facebook.com/",
+                            "article:tag": "Fact Check",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "A video is going viral on social media platforms claiming to show the newly appointed PM of the UK Rishi Sunak at beach party. Newschecker found the claim to...",
+                            "og:locale": "en_US",
+                            "og:url": "https://newschecker.in/fact-check/sunak-at-beach-party-false/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://newschecker.in/wp-content/uploads/2022/10/Saurabh-Article-FI-Super-Latest-2022-10-25T201922.963-696x522-1.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "datemodified": "2022-10-27T12:29:11+05:30",
+                            "headline": "Rishi Sunak At Beach Party? No, Viral Video Features UK PM\u2019s Doppelganger",
+                            "datepublished": "2022-10-27T12:19:35+05:30"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2022-10-27",
+                            "claimReviewed": "Rishi Sunak seen dancing at a beach party.",
+                            "url": "https://newschecker.in/fact-check/sunak-at-beach-party-false/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...al Video Features UK PM\u2019s Doppelganger\n=========================================================================\nWritten By \nOctober 27, 2022\n7192\n]\n### Authors\n(blob:https://newschecker.in/3d7e3536fb2191eecfa4af1023c9b129)]\n##### \nVasudha noticed the growing problem of mis/disinformation online after studying New Media at ACJ in Chennai and became interested in separating facts from fiction. She is interested in learning how global issues affect individuals on a micro level. Before joining Newschecker\u2019s English team, she was working with Latestly.\n_(The article was originally published in  by Saurabh Pandey)_\nClaim\n-----\nThe newly appointed Prime Minister of the UK, ****, is seen dancing at a beach party.\n](data:image/svg+xml,%3Csvg%20xmlns=)\nScreenshot of Facebook post by @ashley.millsdale\nFact\n----\nWe conducted Google reverse image searches on the keyframes of the viral video which led us to a report by , dated January 24, 2022, titled \u2018Raving Rishi living his best life when Boris gets fired\u2019: Video of **Chancellor\u2019s doppelg\u00e4nger** throwing shapes in Wayne Lineker\u2019s Ibiza club sets social media on fire\u2019\nDisplaying visuals from the viral video, the report elaborated, \u201cA video of a **Rishi Sunak doppelg\u00e4nger** dancing at Wayne Lineker\u2019s Ibiza club has set social media alight. The footage shows a man, who has since been dubbed \u2018Raving Rishi\u2019, cutting shapes at a sunny party\u00a0 surrounded by hundreds of party-goers.\u201d\n(blob:https://newschecker.in/6924d057e0400429f0cc70a1e266db91)](data:image/svg+xml,%3Csvg%20xmlns=)\nScreengrab from Daily Mail website\nIt added, \u201cIt is unclear when the video was taken or the identity of **Mr Sunak\u2019s lookalike**, but the footage appears to have been taken at Mr Lineker\u2019s O Beach Ibiza club on the Spanish party island.\u201d\nThe video clip was reportedly posted on Wayne Lineker\u2019s Instagram page \u2013 the owner of the beach club in Ibiza.\nA report by , dated January 24, 2022, corroborated with the details of the Daily Mail article, while calling the man \u201ca very convincing doppelganger\u201d of Sunak.\nAnother report by ****, dated January 24, 2022, also identified the man seen partying in the viral footage as Rishi Sunak\u2019s look alike...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NewsChecker is dedicated to fact-checking in the Indian context and aims to provide clarity on misinformation. It employs blockchain technology for verification and maintains a good reputation for being thorough, which supports a higher quality score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-10-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence supports the assertion that the video features a lookalike and discusses how the video and claims have circulated, reinforcing that it does not show Rishi Sunak himself."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Is this Rishi Sunak dancing 'shirtless' at Ibiza club? Viral video sets ...",
+                "htmlTitle": "Is this <b>Rishi Sunak dancing</b> &#39;shirtless&#39; at <b>Ibiza</b> club? Viral video sets ...",
+                "link": "https://www.tribuneindia.com/news/diaspora/is-this-rishi-sunak-dancing-shirtless-at-ibiza-club-viral-video-sets-internet-on-fire-has-over-3-6-million-views-447534/",
+                "displayLink": "www.tribuneindia.com",
+                "snippet": "Nov 4, 2022 ... Chandigarh, November 4 An old video showing a Rishi Sunak lookalike dancing at a club has resurfaced on social media.",
+                "htmlSnippet": "Nov 4, 2022 <b>...</b> Chandigarh, November 4 An old video showing a <b>Rishi Sunak lookalike dancing</b> at a club has resurfaced on social media.",
+                "formattedUrl": "https://www.tribuneindia.com/news/.../is-this-rishi-sunak-dancing-shirtless-a...",
+                "htmlFormattedUrl": "https://www.tribuneindia.com/<b>news</b>/.../is-this-<b>rishi</b>-<b>sunak</b>-<b>dancing</b>-shirtless-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJRYoLgG8z4MfsU_XaIVDcgod4cNMqv9vFZDe-agBT8FR91nhf9kMOR7I&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc4YTdlNTYwLTRlNjQtMTFlZi1hNTk0LTViNDVkNTZmYzdhMi5qcGc=",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Is this Rishi Sunak dancing shirtless at Ibiza club? Viral video sets Internet on fire; has over 3.6 million views - The Tribune",
+                            "og:site_name": "The Tribune",
+                            "og:title": "Is this Rishi Sunak dancing shirtless at Ibiza club? Viral video sets Internet on fire; has over 3.6 million views - The Tribune",
+                            "og:image:height": "628",
+                            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+                            "msapplication-navbutton-color": "#0d1c3d",
+                            "og:description": "Chandigarh, November 4 An old video showing a Rishi Sunak lookalike dancing at a club has resurfaced on social media. It went viral in no time as soon as the 42-year-old was named the prime minister of the United...",
+                            "twitter:image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc4YTdlNTYwLTRlNjQtMTFlZi1hNTk0LTViNDVkNTZmYzdhMi5qcGc=",
+                            "apple-mobile-web-app-status-bar-style": "#0d1c3d",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=5",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.tribuneindia.com/news/diaspora/is-this-rishi-sunak-dancing-shirtless-at-ibiza-club-viral-video-sets-internet-on-fire-has-over-3-6-million-views-447534/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc4YTdlNTYwLTRlNjQtMTFlZi1hNTk0LTViNDVkNTZmYzdhMi5qcGc="
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...' at Ibiza club? Viral video sets Internet on fire; has over 3.6 million views\n====================================================================================================================\n]\n##### \n03:11 PM Nov 04, 2022 IST\n*   ]\n*   ]\n*   ]\n*   ](whatsapp://send?text=https://www.tribuneindia.com/news/diaspora/is-this-rishi-sunak-dancing-shirtless-at-ibiza-club-viral-video-sets-internet-on-fire-has-over-3-6-million-views-447534/IsthisRishiSunakdancing'shirtless'atIbizaclub?ViralvideosetsInternetonfire;hasover3.6millionviews)\n  Follow us] Connect with us]\n!\n  !]\nAdvertisement\n**Chandigarh, November 4**\nAn old video showing a Rishi Sunak lookalike dancing at a club has resurfaced on social media. It went viral in no time as soon as the 42-year-old was named the prime minister of the United Kingdom.\nThe video has been circulated with claims that it features Sunak, but here is a fact check.\nA quick Google search says he is not Rishi Sunak. The man dancing has a striking resemblance to Rishi Sunak. In the video, he is seen holding a drink in his hand and is seen dancing at a club in Ibiza with other partygoers.\n> \n> \n> \u2014 No Context Brits (@NoContextBrits) \nOn Twitter, the video has garnered over 3.6 million views. The clip had earlier gone viral in January.\nThe video was shot at Wayne Lineker\u2019s O Beach Ibiza club.\nWayne Lineker\u2019s Instagram profile also reveals that the video was first uploaded in July 2019. Lineker is the owner of the O Beach Ibiza Club on the Spanish island.\n> View this post on Instagram\n> \n> \nMoreover, fact-checking website Boom Live did a further investigation of Sunak\u2019s social media profiles and found no evidence that he had been in Ibiza in July 2019. Instead, the British leader had attended an event with North Yorkshire students on July 10 and a community event at July 15, 2019.\nRishi Sunak is the first Hindu Prime Minister of Indian origin in the UK.\nAdvertisement\nAdvertisement\nAdvertisement\nAdvertisement\n'\nAbout us\n--------\n]\nTop News in India: Tribune brings you the Breaking News & Latest News Headlines from India and around the World. Read exclusive Live News updates on politics, entertainment...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Tribune is a reputable Indian newspaper providing a range of news topics. While generally reliable, its reporting can sometimes vary in depth and accuracy, particularly in sensational stories, earning it a moderate quality score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2022-11-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence supplies strong confirmation regarding the video featuring a lookalike and includes information on the video's viral nature and prior conclusions drawn from fact-checking. It effectively addresses the question at hand."
+                }
+            }
+        }
+    ]
+}

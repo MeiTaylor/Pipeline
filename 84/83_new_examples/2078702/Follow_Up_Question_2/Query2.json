@@ -1,0 +1,590 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Reverse escape techniques in Secret Service training",
+                "totalResults": "29400000",
+                "searchTerms": "Reverse escape techniques in Secret Service training",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Reverse escape techniques in Secret Service training",
+                "totalResults": "29400000",
+                "searchTerms": "Reverse escape techniques in Secret Service training",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.340702,
+        "formattedSearchTime": "0.34",
+        "totalResults": "29400000",
+        "formattedTotalResults": "29,400,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Escape and Evade! An Ex-CIA Agent Teaches Us Evasive Driving",
+                "htmlTitle": "<b>Escape</b> and Evade! An Ex-CIA <b>Agent</b> Teaches Us Evasive Driving",
+                "link": "https://www.motortrend.com/features/evade-escape-evasive-driving-school-feature/",
+                "displayLink": "www.motortrend.com",
+                "snippet": "Jul 18, 2022 ... Hanson runs his own security and executive protection business, and while he is not allowed to specifically link them, his course is based on ...",
+                "htmlSnippet": "Jul 18, 2022 <b>...</b> Hanson runs his own <b>security</b> and executive protection business, and while he is not allowed to specifically link them, his <b>course</b> is based on&nbsp;...",
+                "formattedUrl": "https://www.motortrend.com/.../evade-escape-evasive-driving-school-featur...",
+                "htmlFormattedUrl": "https://www.motortrend.com/.../evade-<b>escape</b>-evasive-driving-school-featur...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpC5Uk-BVH6kWKgiXKvH4Q8NL9xr4eSEi5nbFiV9-53xZ7DITWAgSpAaB&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.motortrend.com/uploads/2022/07/Escape-and-Evade-School-082.jpg",
+                            "og:image:width": "2048",
+                            "og:type": "article",
+                            "article:published_time": "2022-07-18T15:00:05.000Z",
+                            "article:section": "features",
+                            "twitter:card": "summary",
+                            "twitter:title": "Evade and Escape! An Ex-CIA Agent Teaches Us Evasive Driving",
+                            "og:site_name": "MotorTrend",
+                            "og:title": "Escape and Evade! An Ex-CIA Agent Teaches Us Evasive Driving",
+                            "og:image:height": "1152",
+                            "twitter:image:height": "1152",
+                            "og:description": "We attend the Escape and Evasion Driving Experience to see what a former federal agent can teach us about avoiding trouble.",
+                            "twitter:image": "https://www.motortrend.com/uploads/2022/07/Escape-and-Evade-School-082.jpg",
+                            "twitter:site": "@motortrend",
+                            "article:modified_time": "2022-07-19T18:14:55.000Z",
+                            "twitter:image:width": "2048",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "We see what a former federal agent can teach us about avoiding trouble—and what to do if we can't.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.motortrend.com/features/evade-escape-evasive-driving-school-feature/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.motortrend.com/uploads/2022/07/Escape-and-Evade-School-082.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... such escape techniques appeals to many, but as a short, fat, out-of-shape journalist whose idea of exercise is lifting a Philly cheesesteak to my mouth, I'm not one of them. I don't own a firearm or even a decent set of running shoes. (If you see me running, something behind me is on fire.) I am the polar opposite of a survivalist: In the event of a nuclear war, my goal is to die in the initial attack. Barring that, I'll be the guy on the roof with a sign that says, \"Unarmed; house full of money, food, and tools.\"\nSo it is rather unfortunate that I waited until after my plane tickets were booked to read the message in detail and realizeexactlywhat I was in for, which is to learn how to avoid being captured by bad guys—and how to escape if it happens anyway.\nNeither the class nor the teacher was what I expected. I envisioned Hanson as a bulky, shouty, camo-clad man who would rip off his wrap-around sunglasses and fix me with a glare that dismissed me as worthless and weak. Instead, he turned out to be a tidy, well-spoken sort with a physique that was muscular but lean, and thin enough that I feared he'd disappear if he turned sideways. Hanson runs his own security and executive protection business, and while he is not allowed to specifically link them, his course is based on CIA techniques he passed on to spies he recruited—or rather would have done had he actually recruited spies, which of course he did not do and the CIA does not do, or so I have been assured by the stern-looking men in suits who just showed up at my doorstep.\nThe people who take the class are not the militia-wannabe types I envisioned, either. Instead, Hanson's workshops attract folks with well-founded concerns about carjacking or kidnapping-for-ransom, including high-profile executives and high-net-worth individuals (which means me and my fellowMotorTrendstaffers are all safe). For them, getting robbed or snatched is a real concern, and they want to learn how to get away—preferably by car—from a bad situation and how to escape from a worse one.\nSee All 38 Photos\nIt turns out one does not need a steroid-enhanced physique to master the techniques Hanson teaches. Take escaping when your wrists are duct-taped in front of you. (Kidnappers like duct tape because it's cheap and strong and raises little suspicion when purchased, and they generally bind your wrists in front so that you're less likely to stumble and fall when they need to move you quickly.) Hanson's instructions are all about speed and angle rather than raw strength: Put your hands above your head, arms angled like the roof of a house, then rapidly move them down and apart. Get the angle right and the tape...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Language of Espionage | International Spy Museum",
+                "htmlTitle": "Language of Espionage | International Spy Museum",
+                "link": "https://www.spymuseum.org/education-programs/spy-resources/language-of-espionage/",
+                "displayLink": "www.spymuseum.org",
+                "snippet": "An agent who pays spies and bribes authorities. Bang and Burn. Demolition and sabotage operations. Birdwatcher. Slang used by British Intelligence for a spy.",
+                "htmlSnippet": "An <b>agent</b> who pays spies and bribes authorities. Bang and Burn. Demolition and sabotage operations. Birdwatcher. Slang used by British <b>Intelligence</b> for a spy.",
+                "formattedUrl": "https://www.spymuseum.org/education-programs/.../language-of-espionage...",
+                "htmlFormattedUrl": "https://www.spymuseum.org/education-programs/.../language-of-espionage...",
+                "pagemap": {
+                    "wpfooter": [
+                        {
+                            "copyrightyear": "2024"
+                        }
+                    ],
+                    "website": [
+                        {
+                            "url": "//www.spymuseum.org"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "logo": "https://www.spymuseum.org/images/logo-schema.png",
+                            "url": "International Spy Museum"
+                        },
+                        {
+                            "logo": "https://www.spymuseum.org/images/logo-schema.png",
+                            "url": "International Spy Museum"
+                        },
+                        {
+                            "logo": "https://www.spymuseum.org/images/logo-schema.png",
+                            "url": "International Spy Museum"
+                        },
+                        {
+                            "url": "https://www.spymuseum.org/",
+                            "sameas": "Facebook"
+                        },
+                        {
+                            "url": "https://www.spymuseum.org/",
+                            "sameas": "Facebook"
+                        },
+                        {
+                            "logo": "https://www.spymuseum.org/images/logo-schema.png",
+                            "url": "International Spy Museum"
+                        }
+                    ],
+                    "postaladdress": [
+                        {
+                            "addresslocality": "Washington",
+                            "postalcode": "20024",
+                            "addressregion": "DC",
+                            "name": "International Spy Museum",
+                            "streetaddress": "700 L'Enfant Plaza, SW",
+                            "email": "info@spymuseum.org"
+                        },
+                        {
+                            "addresslocality": "Washington",
+                            "postalcode": "20024",
+                            "addressregion": "DC",
+                            "name": "International Spy Museum",
+                            "streetaddress": "700 L'Enfant Plaza, SW",
+                            "email": "info@spymuseum.org"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "msapplication-config": "https://www.spymuseum.org/favicons/browserconfig.xml",
+                            "og:image": "https://spy-museum.s3.amazonaws.com/files/resources/shutterstock-484846993.jpg",
+                            "theme-color": "#da001a",
+                            "og:type": "website",
+                            "og:site_name": "International Spy Museum",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:title": "Language of Espionage",
+                            "mobile-web-app-capable": "yes",
+                            "msapplication-tileimage": "https://www.spymuseum.org/favicons/mstile-144x144.png",
+                            "og:description": "Learn spy terms, phrases, and code words with the International Spy Museum. Put in the work here and you’ll be using spy lingo in no time."
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "maincontentofpage": "Language of Espionage Get 10% Off If you expect to make it out there, you’re going to need to learn the lingo. Put in the work here and you’ll be talking the talk in no time. Check out..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://spy-museum.s3.amazonaws.com/files/resources/shutterstock-484846993.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "SpyCast",
+                            "url": "SpyCast"
+                        },
+                        {
+                            "name": "Visit",
+                            "url": "Visit"
+                        },
+                        {
+                            "name": "Book an Event",
+                            "url": "Book an Event"
+                        },
+                        {
+                            "name": "SpyCast",
+                            "url": "SpyCast"
+                        },
+                        {
+                            "name": "Visit",
+                            "url": "Visit"
+                        },
+                        {
+                            "name": "Book an Event",
+                            "url": "Book an Event"
+                        },
+                        {
+                            "name": "About Us",
+                            "url": "About Us"
+                        },
+                        {
+                            "name": "About Us",
+                            "url": "About Us"
+                        },
+                        {
+                            "name": "Visit",
+                            "url": "Visit"
+                        },
+                        {
+                            "name": "Book an Event",
+                            "url": "Book an Event"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Education & Programs",
+                            "name": "Education & Programs",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Spy Resources",
+                            "name": "Spy Resources",
+                            "position": "3"
+                        }
+                    ],
+                    "searchaction": [
+                        {
+                            "query-input": "name=q",
+                            "target": "https://www.spymuseum.org/search?q={q}"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "#### If you expect to make it out there, you’re going to need to learn the lingo. Put in the work here and you’ll be talking the talk in no time. Check out our glossary of spy terms and code words.\n                                Q          V    X  Y  Z\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n* * *\n### A\n#### Agent\nA person unofficially employed by an intelligence service, often as a source of information.\n#### Agent-in-Place\nA government employee who is influenced to cooperate with a foreign government instead of defecting; now working for two employers instead of one.\n#### Agent-of-Influence\nA person who works within the government or media of a target country to influence national policy.\n#### Asset\nA clandestine source or method, usually an agent.\n* * *\n### B\n#### Babysitter\nBodyguard.\n#### Bagman\nAn agent who pays spies and bribes authorities.\n#### Bang and Burn\nDemolition and sabotage operations.\n#### Birdwatcher\nSlang used by British Intelligence for a spy.\n#### Black Bag Job\nSecret entry into a home or office to steal or copy materials.\n#### Black Operations\nCovert operations that are not attributable to the organization performing them.\n#### Black Propaganda\nA disinformation that is deniable by (and not traceable to) its source.\n#### Blowback\nA deception planted abroad by an intelligence agency to mislead another country that returns to the originating nation with bad consequences.\n#### Blown\nDiscovery of an agent's true identity or a clandestine activity's real purpose.\n#### Bombe\nPolish electro-magnetic device created to help decipher  settings; early precursor to the modern computer.\n#### Bona Fides\nProof of a person's claimed identity.\n#### Bridge Agent\nAn agent who acts as a courier from a case officer to an agent in a denied area.\n#### Brush Pass\nA brief encounter where something is passed between case officer and agent.\n#### Burned\nWhen a case officer or agent is compromised.\n* * *\n### C\n#### Camp Peary\n's secret domestic training base (also known as \"The Farm\").\n#### Camp X\nCanada's...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "National Security Agency | Central Security Service",
+                "htmlTitle": "National Security Agency | Central <b>Security Service</b>",
+                "link": "https://www.nsa.gov/",
+                "displayLink": "www.nsa.gov",
+                "snippet": "The National Security Agency/Central Security Service leads the U.S. Government in cryptology that encompasses both signals intelligence insights and ...",
+                "htmlSnippet": "The National Security Agency/Central <b>Security Service</b> leads the U.S. Government in cryptology that encompasses both signals intelligence insights and&nbsp;...",
+                "formattedUrl": "https://www.nsa.gov/",
+                "htmlFormattedUrl": "https://www.nsa.gov/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZUpTdIEbjmS-QtNLRjoLbK40jWPbv_NkXuIhCM4vyrDx3dXuSy1Ojz84&s",
+                            "width": "181",
+                            "height": "78"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msvalidate.01": "7EE1F22AB66E1A85160FBCD0639498F1",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "contact": "dma.meade.web-mil-service-desk@mail.mil",
+                            "host": "DMA Public Web"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nsa.gov/Portals/75/logos.png?ver=EYzGyE75m8q1mOtvsu3iBQ%3D%3D"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "National Security Agency | Central Security Service\n=============== \nAn official website of the United States government\nHere's how you know\n**Official websites use .gov**\nA **.gov** website belongs to an official government organization in the United States.\n**Secure .gov websites use HTTPS**\nA **lock ( )** or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.\nToggle navigation\n]\nNational Security Agency/Central Security Service\nNSA/CSS\nSearch NSA:  \nSearch NSA:  \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \nGenerating foreign intelligence insights.  \nApplying cybersecurity expertise.  \nSecuring the future.\n====================================================================================================\nWe leverage our advantages in technology and cybersecurity consistent with our authorities to strengthen national defense and secure national security systems.\nOur Mission\n-----------\n### Cybersecurity\nNSA Cybersecurity prevents and eradicates threats to U.S. national security systems with a focus on the Defense Industrial Base and the improvement of our weapons’ security. Through our , NSA partners with allies, private industry, academics, and researchers...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Escape The Case: Home",
+                "htmlTitle": "<b>Escape</b> The Case: Home",
+                "link": "https://escapethecase.com/",
+                "displayLink": "escapethecase.com",
+                "snippet": "The Venture Up Escape Game underscores the whole group is actually one big team, more powerful together, and ultimately Better Together.",
+                "htmlSnippet": "The Venture Up <b>Escape</b> Game underscores the whole group is actually one big team, more powerful together, and ultimately Better Together.",
+                "formattedUrl": "https://escapethecase.com/",
+                "htmlFormattedUrl": "https://<b>escape</b>thecase.com/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Escape The Case",
+                            "twitter:site": "@VentureUp",
+                            "article:modified_time": "2023-06-27T01:59:49+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:title": "Home - Escape The Case",
+                            "og:locale": "en_US",
+                            "og:url": "https://escapethecase.com/",
+                            "msapplication-tileimage": "https://escapethecase.com/wp-content/uploads/2023/06/cropped-cropped-escape-logo-1-270x270.png",
+                            "og:description": "The Venture Up Escape Game underscores the whole group is actually one big team, more powerful together, and ultimately Better Together",
+                            "article:publisher": "https://www.facebook.com/pages/Venture-Up-Team-Building/150323178338976"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... getting _out_ of a room, but how to break into a mysterious metal case by cracking codes and solving a variety of integrated challenges. It is a portable escape room experience for groups of all sizes.\nThese elaborately themed cases and high-tech challenges include clues, alarms, music, codes, video, social media, problem solving, blue tooth locks… directional locks… alphabetical,… and numerical locks.\nTeams are put to the test, as box after box of engaging challenges force your team(s) to work together to “break in” before the time runs out. This activity is geared for a 1.5 – 2.5 hours and teams of 8 – 12 people each.\n—\n_The final twist of these events occur when all teams must work together, combining codes to open the final series of Cases. This collaboration underscores the whole group is actually one big team, more powerful together, more innovative together and ultimately **Better Together**_\nPrevious\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nNext\nPrevious\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\n!\nNext\n*   1\n*   2\n### Share this page\nShare this...  \n Facebook] Pinterest] Twitter] Linkedin]\n### ]\n### _Let’s talk about your team!_\n888.305.1065\ninfo@ventureup.com  \n### What Clients Say...\n\"In two short hours Venture Up was able to break down barriers, get our group interacting in a productive way, and most importantly, taught them applicable team and communication lessons along the way. As an academic program, I appreciated that after each activity, or group of activities, the Venture Up leader would tie back the lesson to credible research including Harvard Business Review cases and current MIT research. I highly recommend Venture Up to any organization looking for a way to get their teams engaged and thinking about collaboration and communication.\"\n\\- Nikkole McCartin\nDirector\nExecutive MBA\n\"The team had a blast! We will be looking to have a class once a quarter with the next one around February-March. Thanks again for a great time!\"\n\\- Tali Kirschbaum\nAzFSM Trainer\n\"A note of thanks for the very helpful training afforded our staff by Venture Up. The training they provided at the Merchant Marine Academy was very well received. The various exercises and interactions proved most beneficial to the participants. Our staff members are sometimes very difficult to engage, due to the stressful nature of our jobs. Venture Up, however, was able to get them involved and engaged in short order.\"\n\\- Cheryl L. Holmes\nDeputy, Chief Officer\n\"... I want to thank you for all the time and effort you put into our team-building program. Both personally...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Evasive Driving School | Tactical Driving | Security Driver",
+                "htmlTitle": "Evasive Driving School | Tactical Driving | <b>Security</b> Driver",
+                "link": "https://www.lasorsa.com/evasive-driving-course/",
+                "displayLink": "www.lasorsa.com",
+                "snippet": "Defensive & Evasive Driving Course. This course will be tailored to meet your training needs – whether you are a protection specialist, executive chauffeur, ...",
+                "htmlSnippet": "Defensive &amp; Evasive Driving <b>Course</b>. This <b>course</b> will be tailored to meet your <b>training</b> needs – whether you are a protection specialist, executive chauffeur,&nbsp;...",
+                "formattedUrl": "https://www.lasorsa.com/evasive-driving-course/",
+                "htmlFormattedUrl": "https://www.lasorsa.com/evasive-driving-course/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU5ZaYH0Ktxopi3ikkKVpN3KlrUByYAFE4G3R08-fkaNIWaEnvhy9BDQw&s",
+                            "width": "280",
+                            "height": "180"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.lasorsa.com/wp-content/uploads/2014/11/dedc-tahoe-2.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1968",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "LaSorsa & Associates - Executive Protection - Training - Consulting - Investigations",
+                            "og:title": "Evasive Driving School | Tactical Driving | Security Driver",
+                            "og:image:height": "1262",
+                            "twitter:label1": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.lasorsa.com/wp-content/uploads/2018/07/cropped-gmail-image-270x270.png",
+                            "og:description": "Evasive Driving School. Lasorsa & Associates teach you tactical driving with our evasive drivers course. Sign up to learn to become a security driver today.",
+                            "article:publisher": "https://www.facebook.com/LaSorsaAndAssociates",
+                            "twitter:data1": "5 minutes",
+                            "twitter:site": "@lasorsatraining",
+                            "article:modified_time": "2023-08-22T14:26:00+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.lasorsa.com/evasive-driving-course/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.lasorsa.com/wp-content/uploads/2014/11/dedc-tahoe-2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \nDefensive & Evasive Driving Course\n==================================\n]\n===================================================================================================================================================================================\nDefensive & Evasive Driving Course\n==================================\n**Defensive & Evasive Driving Course**\nThis course will be tailored to meet your training needs – whether you are a protection specialist, executive chauffeur, security contractor, executive or public figure and even their family members – **_our course will increase your survivability._**\n**Contact us for more information on our Evasive Driving Course:  \n888-831-0809 or   \nor fill out the form to the RIGHT**\n============================================================================================\n!\n**TRAINING TO A STANDARD**  \nEach student in our evasive driving course will be required to demonstrate a skill on each exercise which exceeds the minimum requirements established for security driving techniques.  \nThe U.S. Secret Service and Department of State Worldwide Protective Service (WPS) standards were utilized as benchmarks in the development of our standards.  \nThe certificate you will receive when you complete the training will indicate that you have met and exceeded these standards and will serve as a testament to your capabilities as a security driving professional.\nClick the link below for course critiques from our students:\n====================================================================================================\nMost executive protection specialists and those newcomers to the business tend to focus on their training dollars on firearms training. While training for that .01 chance is appropriate, it is vitally important to the safety of your client and your effectiveness as a protection professional to be well trained in evasive driving, so invest where it matters most.\n–\n**Think of it this way –**  \n**you _may_ have to use your weapon, but you _will_ drive the vehicle.**\n-----------------------------------------------------------------------------------------------------\n–\nOur defensive & evasive driving course is designed for executive protection agents and is great chauffeur training, security driver training and protective driving training for protection specialists as well as anyone wanting to gain knowledge and experience in evasive driving concepts, accident avoidance and skid control. An emphasis is placed on developing intuitive driving skills that will allow the student to recognize and respond to the vehicle’s feedback in order to survive life threatening situations ranging from deliberate attacks or ambushes to motor vehicle accidents. This course prepares the executive chauffeur or private security contractor with the driving skills necessary to survive an attack while on the road.\n–\n!\n–\n**We can arrange this training for your group at locations across the US or Internationally.  \nContact us to discuss arrangements.**\n_Please use the form below to submit your request for a Custom Training Program_  \n****\n#### **–**\n**Defensive/Evasive Driving Course $2,050**\n\\-Vehicle Mechanics & the Science of Driving  \n\\-Vehicle Types...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Black Hat USA 2024 | Trainings Schedule",
+                "htmlTitle": "Black Hat USA 2024 | Trainings Schedule",
+                "link": "https://www.blackhat.com/us-24/training/schedule/",
+                "displayLink": "www.blackhat.com",
+                "snippet": "Take your cybersecurity skills to the next level with our infrastructure services security course. Ideal for enterprise admins, security officers, and ...",
+                "htmlSnippet": "Take your cybersecurity <b>skills</b> to the next level with our infrastructure <b>services security course</b>. Ideal for enterprise admins, <b>security</b> officers, and&nbsp;...",
+                "formattedUrl": "https://www.blackhat.com/us-24/training/schedule/",
+                "htmlFormattedUrl": "https://www.blackhat.com/us-24/<b>training</b>/schedule/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqZO8CPL5u3qHBziTjB3XBMQnC_RgC-C-EsJkL16J3nCvf3ocrLf0VEQ&s",
+                            "width": "364",
+                            "height": "105"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.blackhat.com/images/logo.png",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:title": "Black Hat",
+                            "og:description": "Black Hat"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.blackhat.com/images/logo.png"
+                        }
+                    ],
+                    "event": [
+                        {
+                            "summary": "360° Ransomware Response: Detection, Negotiation, Recovery, and Prevention",
+                            "location": "Location: TBD",
+                            "preformers": "lmg security (sherri davidoff and matt durrin)"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   Trust mapping and abuse\n        *   Privilege Escalation\n        *   Advanced Kerberos Attacks\n        *   Advanced cross forest trust abuse\n        *   Attacking Azure AD integration\n        *   Abusing trusts for MS products\n        *   Credentials Replay Attacks\n        *   Persistence\n        *   Defenses\n        *   Bypassing defenses\n        Attendees will get free two-month access to an AD environment comprising of multiple domains and forests and a Certified Red Team Expert Exam (CRTE) certification attempt. \n        **Location:**  TBD\n        specterops\n        **Tracks**:\n        PenTesting,\n        Defense\n        **Format**: 2 Day Trainings\n        **Location**: South Seas Ballroom - A\n        **Experience**: In-Person\n        Stop being passive with your Active Directory! Kerberos, ADUC, Golden Tickets, Security Principals – have you come across these or similar words in penetration test reports or security bulletins and felt a little… lost? Active Directory comprises many components that fulfill complex architectural requirements but can also open cracks through which attackers may slip. Active Directory: Security Fundamentals demystifies the various Active Directory components and illustrates how these components can potentially introduce risks to your organization. This course empowers network defenders to directly look under the hood of their Active Directory architecture and understand their environment better than attackers. Instructors share their knowledge and personal experiences testing Active Directory in hundreds of environments to reveal not only common pitfalls in securing their environment but also how they commonly occur. \n        **Location:**  TBD\n        adam shostack\n        **Format**: 2 Day Trainings\n        **Location**: Lagoon - J\n        **Skill Level**: All\n        **Experience**: In-Person\n        Threat modeling is the best way for security professionals to get a seat at the table and influence a project early. It's how we get systematic, structured and comprehensive about the products and services we deliver. This is a rare public opportunity to take a course from \"the person who wrote the books.\" (Threat Modeling: Designing for Security and Threats: What Every Engineer Should Learn from Star Wars) \n        **Location:**  TBD\n        korstiaan stam from invictus incident response b.v.\n        **Tracks**:\n        Forensics,\n        Defense\n        **Format**: 2 Day Trainings\n        **Location**: Jasmine - B\n        **Skill Level**: Intermediate/Advanced\n        **Experience**: In-Person\n        In this comprehensive two-day hands-on training, immerse yourself in the intricacies of forensics and incident response within the Microsoft cloud environment. This course delves into both Microsoft 365 and Microsoft Azure, providing practical insights into investigating cyber attacks...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Secret Agent Update Guide : r/BitLifeApp",
+                "htmlTitle": "<b>Secret Agent</b> Update Guide : r/BitLifeApp",
+                "link": "https://www.reddit.com/r/BitLifeApp/comments/1bb0l2u/secret_agent_update_guide/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 10, 2024 ... So I would assume that any agents that are frowning are the double agents. The opposite of the mafia.",
+                "htmlSnippet": "Mar 10, 2024 <b>...</b> So I would assume that any <b>agents</b> that are frowning are the double <b>agents</b>. The <b>opposite</b> of the mafia.",
+                "formattedUrl": "https://www.reddit.com/r/BitLifeApp/.../secret_agent_update_guide/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/BitLifeApp/.../<b>secret</b>_agent_update_guide/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/1bb0l2u",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/BitLifeApp on Reddit: Secret Agent Update Guide",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/BitLifeApp on Reddit: Secret Agent Update Guide",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Ihesincere - 129 votes and 105 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/1bb0l2u",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/BitLifeApp/comments/1bb0l2u/secret_agent_update_guide/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/1bb0l2u"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "How do I terminate a Reverse SSH session and return to the initial ...",
+                "htmlTitle": "How do I terminate a <b>Reverse</b> SSH session and return to the initial ...",
+                "link": "https://learningnetwork.cisco.com/s/question/0D53i00000Kt6TtCAJ/how-do-i-terminate-a-reverse-ssh-session-and-return-to-the-initial-ssh-session",
+                "displayLink": "learningnetwork.cisco.com",
+                "snippet": "Feb 16, 2020 ... Have u tried Ctrl-Shift-6, X on Terminal server console without login into other devices? like ping some bogus domain which router tries to ...",
+                "htmlSnippet": "Feb 16, 2020 <b>...</b> Have u tried Ctrl-Shift-6, X on Terminal server console without login into other <b>devices</b>? like ping some bogus domain which router tries to&nbsp;...",
+                "formattedUrl": "https://learningnetwork.cisco.com/.../how-do-i-terminate-a-reverse-ssh-sessi...",
+                "htmlFormattedUrl": "https://learningnetwork.cisco.com/.../how-do-i-terminate-a-<b>reverse</b>-ssh-sessi...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0, minimal-ui"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Loading\n×Sorry to interrupt\nCSS Error",
+                    "content_tokens": 9
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "What is it like to be a US Secret Service Agent, and how long does it ...",
+                "htmlTitle": "What is it like to be a US <b>Secret Service</b> Agent, and how long does it ...",
+                "link": "https://www.quora.com/What-is-it-like-to-be-a-US-Secret-Service-Agent-and-how-long-does-it-take-to-train-them",
+                "displayLink": "www.quora.com",
+                "snippet": "Mar 12, 2023 ... How long is the training of US Secret Service agents? The Basic Criminal Investigator Course at the Federal Law Enforcement ...",
+                "htmlSnippet": "Mar 12, 2023 <b>...</b> How long is the <b>training</b> of US <b>Secret Service</b> agents? The Basic Criminal Investigator <b>Course</b> at the Federal Law Enforcement&nbsp;...",
+                "formattedUrl": "https://www.quora.com/What-is-it-like-to-be-a-US-Secret-Service-Agent-an...",
+                "htmlFormattedUrl": "https://www.quora.com/What-is-it-like-to-be-a-US-<b>Secret</b>-<b>Service</b>-Agent-an...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/What-is-it-like-to-be-a-US-Secret-Service-Agent-and-how-long-does-it-take-to-train-them#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhat-is-it-like-to-be-a-US-Secret-Service-Agent-and-how-long-does-it-take-to-train-them&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Being a U.S. Secret Service agent is a demanding and challenging job that requires a high level of physical and mental fitness, as well as specialized training in law enforcement and security. Secret Service agents are responsible for protecting the President, Vice President, their families, and other high-ranking government officials, as well as investigating financial crimes and counterfeiting.\nThe training process for Secret Service agents is rigorous and can take several months to complete. The initial training program, which takes place at the Federal Law Enforcement Training Center (FLETC) in Glynco, Georgia, lasts approximately 7 months. During this time, trainees receive intensive instruction in criminal law, firearms training, physical fitness, and defensive tactics.\nAfter completing the initial training program, new agents go through a period of on-the-job training, which can last up to 18 months. During this time, they work alongside experienced agents and receive further training in specialized areas such as protective intelligence, protective operations, and investigative techniques.\nIn addition to initial training, Secret Service agents are required to complete ongoing training throughout their careers to maintain their skills and stay up-to-date on the latest security and law enforcement techniques.\nThe job of a Secret Service agent can be demanding and stressful, but it can also be rewarding and fulfilling. Agents have the opportunity to work closely with high-level government officials and to play a crucial role in protecting the safety and security of the United States.\nIt's important to note that becoming a Secret Service agent is a highly competitive process, and not everyone who applies will be accepted into the training program. Applicants must meet strict eligibility requirements, including having a clean criminal record, passing a rigorous physical fitness test, and demonstrating a commitment to public service.\n!",
+                    "content_tokens": 346
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "POWERS TO ARREST AND APPROPRIATE USE OF FORCE ...",
+                "htmlTitle": "POWERS TO ARREST AND APPROPRIATE USE OF FORCE ...",
+                "link": "https://www.bsis.ca.gov/forms_pubs/poa.pdf",
+                "displayLink": "www.bsis.ca.gov",
+                "snippet": "the person has completed equivalent military training in lieu of completing a course of training in security officer skills pursuant to subdivision (a). The ...",
+                "htmlSnippet": "the person has completed equivalent military <b>training</b> in lieu of completing a <b>course</b> of <b>training</b> in <b>security</b> officer <b>skills</b> pursuant to subdivision (a). The&nbsp;...",
+                "formattedUrl": "https://www.bsis.ca.gov/forms_pubs/poa.pdf",
+                "htmlFormattedUrl": "https://www.bsis.ca.gov/forms_pubs/poa.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB6RUoUbuqt2jC5n9ZeJRvhH08vtyxVTVgn-t5J_HzQ229K-pHZ8nOp0y&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20231228090630-08'00'",
+                            "creationdate": "D:20231218163505-08'00'",
+                            "creator": "Acrobat PDFMaker 23 for Word",
+                            "sourcemodified": "D:20231219003445",
+                            "author": "Bureau of Security and Investigative Services",
+                            "producer": "Adobe PDF Library 23.3.45",
+                            "company": "DCA",
+                            "title": "POWERS TO ARREST AND APPROPRIATE USE OF FORCE TRAINING MANUAL"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///dac5a1f9fab84cd99c061f0cd0b140567b4d563b248f081305e43edf1a8ab48c"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "# DEPARTMENT OF CONSUMER AFFAIRS \n# Bureau of Security and Investigative Services \n# POWERS TO ARREST AND APPROPRIATE USE OF FORCE TRAINING MANUAL \n# July 2023 \n> STATE OF CALIFORNIA (Revised July 2023)\n> BSIS Power to Arrest Training Manual Page 2\n# Table of Contents \nTable of Contents............................................................................................................ 2 \nInstructor/Employer Introduction and Training Requirements ......................................... 5 \nSteps to Administering Training .................................................................................... 14 \nPART A: Power to Arrest............................................................................................... 16 \n1. The Roles and Responsibilities of Security Personnel.......................................... 16 \nBackground of the Private Security Profession .................................................. 16 \nRoles and Responsibilities ................................................................................. 17 \nAreas of Responsibility ....................................................................................... 18 \nPrevention is the Key.......................................................................................... 19 \nObserve and Report ........................................................................................... 19 \nGetting Help........................................................................................................ 19 \nRelations with Peace Officers and Law Enforcement ......................................... 20 \nObservation and Report Writing ......................................................................... 20 \nProfessional Conduct of Security Personnel ...................................................... 21 \nContractional Obligations and Company Policies ............................................... 21 \nReal-life Scenarios ............................................................................................. 22 \nSection A-1 Review Questions ........................................................................... 23 \n2. Encounters and Arrest .......................................................................................... 24 \nAuthority to Question .......................................................................................... 24 \nA Basis for Making Decisions ............................................................................. 24 \nInspections ......................................................................................................... 25 \nCitizen’s Arrest ................................................................................................... 25 \nWhat Factors should you Consider?................................................................... 26 \nArrestable Offenses............................................................................................ 26 \nInfraction............................................................................................................. ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "Question": "Is there credible evidence verifying that an asteroid impact and explosion occurred on the Moon's surface?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question asks for credible evidence of an asteroid impact and explosion on the Moon's surface, which requires verification from authoritative sources or recent data not contained in the provided information.",
+        "Queries": {
+            "Query1": {
+                "query": "Asteroid impact on the Moon verified evidence",
+                "searching_goal": "This query aims to find credible resources that confirm whether any recent asteroids have impacted the Moon and whether the video in question is authentic or CGI."
+            },
+            "Query2": {
+                "query": "NASA reports asteroid impact Moon June 2023",
+                "searching_goal": "This query seeks to gather information about any recent NASA findings related to asteroid impacts on the Moon, specifically focusing on events that occurred around June 2023, which could provide context for the video mentioned."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Lunar Rocks and Soils from Apollo Missions",
+            "link": "https://curator.jsc.nasa.gov/lunar/",
+            "snippet": "Aug 16, 2023 ... Shiny, black impact-generated glass was splashed on the side. Between 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) ...",
+            "content": {
+                "content": "Lunar Rocks and Soils from Apollo Missions\n===============                \nLunar Samples\n=============\n | \nSite Actions\n------------\n*   \n*   \n*   \n*   \n]\nSite Sections\n-------------\n*   \n*   \n*   \n*   \n*   \n*   \n--------------------------------------------------------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n### Breadcrumbs\n → Lunar Samples\n### Page Navigation\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n#### Contextual Navigation\n*   \n#### External Links\n*   \n### Lunar Rocks and Soils from Apollo Missions\n> !A one-Kg (2.2 lbs) Apollo 16 breccia rock formed from meteorite impact. Shiny, black impact-generated glass was splashed on the side.\nBetween 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) of lunar rocks, core samples, pebbles, sand and dust from the lunar surface. The six space flights returned 2200 separate samples from six different exploration sites on the Moon. In addition, three automated Soviet spacecraft returned important samples totaling 300 grams (approximately 3/4 pound) from three other lunar sites. The  at Johnson Space Center is the chief repository for the Apollo samples. The lunar sample laboratory is where pristine lunar samples are prepared for shipment to scientists and educators. Nearly 400 samples are distributed each year for research and teaching projects.\n> !Astronaut collecting lunar soil sample.\nStudy of rock and soil samples from the Moon continues to yield useful information about the early history of the Moon, the Earth, and the inner solar system. Recent computer models indicate that the Moon could have been formed from the debris resulting from the Earth being struck a glancing blow by a planetary body about the size of Mars. The chemical composition of the Moon, derived from studies of lunar rocks, is compatible with this theory of the origin of the Moon. We have learned that a crust formed on the Moon 4.4 billion years ago. This crust formation, the intense meteor...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "This is the official curatorial site for the Johnson Space Center, which deals with space exploration artifacts. Similar to the previous NASA site, the information provided here is curated by experts and can be relied upon for accuracy and reliability. The site is focused on historical and ongoing space missions, so it is a very credible source for evaluating any claims related to the Moon or asteroids."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-08-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 4,
+                "Relevance Justification": "While this evidence describes the collection of lunar rocks that show evidence of previous impacts, it does not specifically address any recent asteroid-related explosions nor the specific event depicted in the video."
+            },
+            "total_score": 23
+        },
+        {
+            "title": "Impact event - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Impact_event",
+            "snippet": "Impact events have been found to regularly occur in planetary systems, though the most frequent involve asteroids, comets or meteoroids and have minimal effect.",
+            "content": {
+                "content": "]\nDamage to trees caused by the . The object, just 50–80 metres (150–240 feet) across, exploded 6–10 km (4–6 miles) above the surface, shattering windows hundreds of km away.\nAn **impact event** is a  between  causing measurable effects.] Impact events have been found to regularly occur in , though the most frequent involve ,  or  and have minimal effect. When large objects impact  such as the , there can be significant physical and biospheric consequences, as the impacting body is usually traveling at several kilometres a second (a minimum of 11.2 km/s (7.0 mi/s) for an Earth impacting body]), though atmospheres mitigate many surface impacts through .  and  are dominant landforms on many of the 's solid objects and present the strongest empirical evidence for their frequency and scale.\nImpact events appear to have played a significant role in the  since its formation. Major impact events have significantly shaped , and have been implicated in the . Impact events also appear to have played a significant role in the . Impacts may have helped deliver the building blocks for life (the  theory relies on this premise). Impacts have been suggested as the . They have also been implicated in several . The prehistoric , 66 million years ago, is believed to not only be the cause of the ] but acceleration of the , leading to their dominance and, in turn, setting in place conditions for the eventual rise of .]\nThroughout recorded history, hundreds of Earth impacts (and exploding ) have been reported, with some occurrences causing deaths, injuries, property damage,...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "Wikipedia is generally considered a reliable source for information, as it follows a crowd-sourced model where users can edit articles. Each entry is typically referenced with sources, making it easier to verify claims. However, since it is editable by the public, inaccuracies can occur, particularly on less popular topics. Overall, it is a good starting point for reputable information, but verification of cited sources is important."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 7,
+                "Relevance Justification": "This Wikipedia article discusses impact events across planetary systems and mentions the frequency of asteroid impacts, which contributes relevant context about impacts on planetary surfaces. While it doesn’t specifically verify an explosion on the Moon's surface, it supports that impacts are a common occurrence, which could be connected to the claim."
+            },
+            "total_score": 22
+        },
+        {
+            "title": "Asteroid shower on the Earth-Moon system immediately before the ...",
+            "link": "https://www.nature.com/articles/s41467-020-17115-6",
+            "snippet": "Jul 21, 2020 ... However, ancient meteoroid impacts and their relations to environmental changes are not well understood because of erosion and/or resurfacing ...",
+            "content": {
+                "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nNature Communications\nvolume 11, Article number: 3453 (2020)\n            Cite this article\n\n24k Accesses\n16 Citations\n1135 Altmetric\nMetrics details\nMeteoroid bombardment of the Earth-Moon system must have caused catastrophic damage to the terrestrial ecosphere. However, ancient meteoroid impacts and their relations to environmental changes are not well understood because of erosion and/or resurfacing processes on Earth. Here, we investigate the formation ages of 59 lunar craters with fresh morphologies and diameters greater than approximately 20 km and first find that 8 of 59 craters were formed simultaneously. Considering the radiometric ages of ejecta from Copernicus crater and impact glass spherules from various Apollo landing sites, we conclude that sporadic meteoroid bombardment occurred across the whole Moon at approximately 800 Ma. Based on crater scaling laws and collision probabilities with the Earth and Moon, we suggest that at least (4–5) × 1016 kg of meteoroids, approximately 30–60 times more than the Chicxulub impact, must have plunged into the Earth-Moon system immediately before the Cryogenian, which was an era of great environmental changes.\nUnderstanding meteoroid bombardment of the Earth system is an issue of both great scientific interest and practical importance because impacts are potentially hazardous to the Earth. Since the 541 Ma Cambrian biodiversity explosion, mass extinction events have occurred at least five times (the so-called Big five events)1, and extra-ter...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "Nature is a well-respected scientific journal known for its high editorial standards and peer-reviewed articles. It is a reliable source for scientific research and findings. Given its commitment to accurate reporting and research integrity, it is highly credible for claims related to scientific discoveries or events."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2020-07-21"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This article indicates a historical analysis of lunar impacts and mentions crater formations. It helps provide context for understanding the nature of impacts on the Moon and indirectly supports the occurrence of significant impacts."
+            },
+            "total_score": 22
+        }
+    ],
+    "Query2": [
+        {
+            "title": "NASA's Planetary Radar Tracks Two Large Asteroid Close ...",
+            "link": "https://www.jpl.nasa.gov/news/nasas-planetary-radar-tracks-two-large-asteroid-close-approaches",
+            "snippet": "Jul 3, 2024 ... These seven radar observations by the Deep Space Network's Goldstone Solar System Radar shows the mile-wide asteroid 2011 UL21 during its June ...",
+            "content": {
+                "content": "[Content truncated]... increments about 16 hours after its closest approach with Earth.\n\n      The Deep Space Network’s Goldstone planetary radar had a busy few days observing asteroids 2024 MK and 2011 UL21 as they safely passed Earth.\n    \nScientists at NASA’s Jet Propulsion Laboratory in Southern California recently tracked two asteroids as they flew by our planet. One turned out to have a little moon orbiting it, while the other had been discovered only 13 days before its closest approach to Earth. There was no risk of either near-Earth object impacting our planet, but the radar observations taken during these two close approaches will provide valuable practice for planetary defense, as well as information about their sizes, orbits, rotation, surface details, and clues as to their composition and formation.\nPassing Earth on June 27 at a distance of 4.1 million miles (6.6 million kilometers), or about 17 times the distance between the Moon and Earth, the asteroid 2011 UL21 was discovered in 2011 by the NASA-funded Catalina Sky Survey, in Tucson, Arizona. But this is the first time it has come close enough to Earth to be imaged by radar. While the nearly mile-wide (1.5-kilometer-wide) object is classified as being potentially hazardous, calculations of its future orbits show that it won’t pose a threat to our planet for the foreseeable future.\nThese seven radar observations by the Deep Space Network’s Goldstone Solar System Radar shows the mile-wide asteroid 2011 UL21 during its June 27 close approach with Earth from about 4 million miles away. The asteroid and its small moon (a bright dot at the bottom of the image) are circled in white.\nUsing the Deep Space Network’s 230-foot-wide (70-meter) Goldstone Solar System Radar, called Deep Space Station 14 (DSS-14), near Barstow, California, JPL scientists transmitted radio waves to the asteroid and received the reflected signals by the same antenna. In addition to determining the asteroid is roughly spherical, they discovered that it’s a binary system: A smaller asteroid, or moonlet, orbits it from a distance of about 1.9 miles (3 kilometers).\nNews from Infinity and Beyond\n“It is thought that about two-thirds of asteroids of this size are binary systems, and their discovery is particularly important because we can use measurements of their relative positions to estimate their mutual orbits, masses, and densities, which provide key information about how they may have formed,” said Lance Benner, principal scientist at JPL who helped lead the observations.\nAssembled into this animation, observations from NASA’s Goldstone Solar System Radar show...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "This entry is a duplicate of the first, maintaining the same high standards of reliability and accuracy as previously discussed."
+            },
+            "Newness": {
+                "NewnessScore": 7,
+                "Date": "2024-07-03"
+            },
+            "Relevance": {
+                "RelevanceScore": 0,
+                "Relevance Justification": "Similar to evidence1, this evidence discusses close approaches of asteroids to Earth and tracking efforts but does not mention the Moon or any impact that occurred there. It does not support or refute the claim."
+            },
+            "total_score": 17
+        },
+        {
+            "title": "Next Five Asteroid Approaches",
+            "link": "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches",
+            "snippet": "The Asteroid Watch dashboard tracks asteroids and comets that will make relatively close approaches to Earth. The dashboard displays the date of closest ...",
+            "content": {
+                "content": "[Content truncated]...110 Feet\n110\n FT |  M\nClosest Earth Approach\n4,450,000 Miles\n4,450,000\n MI |  KM\nName\nDate\nAug. 3, 2024\n !BUILDING-SIZE\nApproximate Size\n410 Feet\n410\n FT |  M\nClosest Earth Approach\n4,610,000 Miles\n4,610,000\n MI |  KM\nName\nDate\nAug. 4, 2024\n !AIRPLANE-SIZE\nApproximate Size\n70 Feet\n70\n FT |  M\nClosest Earth Approach\n2,400,000 Miles\n2,400,000\n MI |  KM\nName\nDate\nAug. 5, 2024\n !AIRPLANE-SIZE\nApproximate Size\n99 Feet\n99\n FT |  M\nClosest Earth Approach\n3,490,000 Miles\n3,490,000\n MI |  KM\nName\nDate\nAug. 5, 2024\n !AIRPLANE-SIZE\nApproximate Size\n90 Feet\n90\n FT |  M\nClosest Earth Approach\n1,120,000 Miles\n1,120,000\n MI |  KM\nName\nDate\nAug. 6, 2024\n### **About the Asteroid Watch Dashboard**\nThe Asteroid Watch dashboard tracks asteroids and comets that will make relatively close approaches to Earth. The dashboard displays the date of closest approach, approximate object diameter, relative size and distance from Earth for each encounter. The object's name is displayed by hovering over its encounter date. Clicking on the encounter date will display a Web page with details about that object.\nThe dashboard displays the next five Earth approaches to within 4.6 million miles (7.5 million kilometers or 19.5 times the distance to the moon); an object larger than about 150 meters that can approach the Earth to within this distance is termed a potentially hazardous object.\nThe average distance between Earth and the moon is about 239,000 miles (385,000 kilometers).\n### Find Out More\nAsteroid Watch home page\nAbout JPL\nMissions\nNews\nGalleries\nEvents\nVisit\nTopics\nMore\nGet the Latest from JPL\nFollow Us\nJPL is a federally funded research and development center managed for NASA by Caltech.\nMore from JPL\nRelated NASA Sites\nSite Managers: Veronica McGregor, Randal Jackson\nSite Editors: Tony Greicius, Naomi Hartono\n...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "This entry is a duplicate of the first, maintaining the same high standards of reliability and accuracy as previously discussed."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 2,
+                "Relevance Justification": "The evidence discusses the Asteroid Watch dashboard that tracks near-Earth objects but does not provide information about any actual impact or explosion on the Moon's surface. It is loosely related to the topic of asteroids but does not address the claim of an asteroid impacting the Moon."
+            },
+            "total_score": 14
+        },
+        {
+            "title": "115 Years Ago: The Tunguska Asteroid Impact Event - NASA",
+            "link": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+            "snippet": "Jun 30, 2023 ... On June 30, 1908, an asteroid plunged into Earth's atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely ...",
+            "content": {
+                "content": "[Content truncated]... 11 min read ### Former Space Communications, Navigation Interns Pioneer NASA’s Future article 1 week ago] 3 min read ### NASA Releases First Integrated Ranking of Civil Space Challenges article 2 weeks ago]\n### Featured\n 3 min read ### Three NASA Interns Expand Classroom Access to NASA Data article 1 week ago]\n### Featured\n 4 min read ### NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo article 16 hours ago] 3 min read ### NASA’s First-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan article 3 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana article 18 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\n7 min read\n115 Years Ago: The Tunguska Asteroid Impact Event\n=================================================\n### John Uri\n#### Johnson Space Center\nJun 30, 2023\nArticle\n*   \n*   \n*   \n*   \nOn June 30, 1908, an asteroid plunged into Earth’s atmosphere and exploded in the skies over Siberia. Local eyewitnesses in the sparsely populated region reported seeing a fireball and hearing a large explosion. They also reported massive forest fires, and trees blown over for miles. Because of the remoteness of the site, the event garnered little attention even within Tsarist Russia and much less outside. The first scientific expedition did not reach the area until 1927, but still found ample evidence of the asteroid’s destruction caused by the shock wave and heat blast from the aerial explosion. Archaeologists have found evidence of similar events in the past, and smaller asteroids regularly break up in the atmosphere causing little or no damage. NASA established the Planetary Defense Coordination Office and during the DART mission tested the technology to redirect a small asteroid should one pose a danger to Earth in the future.\n!\n_Modern map of Russia, showing the location of the 1908 Tunguska event._\n_**Wikipedia**_\n!\n_Schematic map of the Tunguska site, showing  \nthe epicenter located beneath the blast, and the areas of burned and flattened trees._\n_**Christopher O. Johnston and Eric C. Stern, Icarus**_\nAt about...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "This entry is a duplicate of the second, again reflecting NASA's consistent reliability and authority on matters of space, science, and technology."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-06-30"
+            },
+            "Relevance": {
+                "RelevanceScore": 0,
+                "Relevance Justification": "This evidence centers on the Tunguska event on Earth, which happened over a century ago. It does not relate to or provide any information about an asteroid impact on the Moon, rendering it irrelevant to the claim."
+            },
+            "total_score": 14
+        }
+    ],
+    "RelevantEvidence": {
+        "Query1_evidence_1": {
+            "title": "Lunar Rocks and Soils from Apollo Missions",
+            "link": "https://curator.jsc.nasa.gov/lunar/",
+            "snippet": "Aug 16, 2023 ... Shiny, black impact-generated glass was splashed on the side. Between 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) ...",
+            "content": "Lunar Rocks and Soils from Apollo Missions\n===============                \nLunar Samples\n=============\n | \nSite Actions\n------------\n*   \n*   \n*   \n*   \n]\nSite Sections\n-------------\n*   \n*   \n*   \n*   \n*   \n*   \n--------------------------------------------------------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n### Breadcrumbs\n → Lunar Samples\n### Page Navigation\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n#### Contextual Navigation\n*   \n#### External Links\n*   \n### Lunar Rocks and Soils from Apollo Missions\n> !A one-Kg (2.2 lbs) Apollo 16 breccia rock formed from meteorite impact. Shiny, black impact-generated glass was splashed on the side.\nBetween 1969 and 1972 six Apollo missions brought back 382 kilograms (842 pounds) of lunar rocks, core samples, pebbles, sand and dust from the lunar surface. The six space flights returned 2200 separate samples from six different exploration sites on the Moon. In addition, three automated Soviet spacecraft returned important samples totaling 300 grams (approximately 3/4 pound) from three other lunar sites. The  at Johnson Space Center is the chief repository for the Apollo samples. The lunar sample laboratory is where pristine lunar samples are prepared for shipment to scientists and educators. Nearly 400 samples are distributed each year for research and teaching projects.\n> !Astronaut collecting lunar soil sample.\nStudy of rock and soil samples from the Moon continues to yield useful information about the early history of the Moon, the Earth, and the inner solar system. Recent computer models indicate that the Moon could have been formed from the debris resulting from the Earth being struck a glancing blow by a planetary body about the size of Mars. The chemical composition of the Moon, derived from studies of lunar rocks, is compatible with this theory of the origin of the Moon. We have learned that a crust formed on the Moon 4.4 billion years ago. This crust formation, the intense meteor...[Content truncated]"
+        },
+        "Query1_evidence_2": {
+            "title": "Impact event - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Impact_event",
+            "snippet": "Impact events have been found to regularly occur in planetary systems, though the most frequent involve asteroids, comets or meteoroids and have minimal effect.",
+            "content": "]\nDamage to trees caused by the . The object, just 50–80 metres (150–240 feet) across, exploded 6–10 km (4–6 miles) above the surface, shattering windows hundreds of km away.\nAn **impact event** is a  between  causing measurable effects.] Impact events have been found to regularly occur in , though the most frequent involve ,  or  and have minimal effect. When large objects impact  such as the , there can be significant physical and biospheric consequences, as the impacting body is usually traveling at several kilometres a second (a minimum of 11.2 km/s (7.0 mi/s) for an Earth impacting body]), though atmospheres mitigate many surface impacts through .  and  are dominant landforms on many of the 's solid objects and present the strongest empirical evidence for their frequency and scale.\nImpact events appear to have played a significant role in the  since its formation. Major impact events have significantly shaped , and have been implicated in the . Impact events also appear to have played a significant role in the . Impacts may have helped deliver the building blocks for life (the  theory relies on this premise). Impacts have been suggested as the . They have also been implicated in several . The prehistoric , 66 million years ago, is believed to not only be the cause of the ] but acceleration of the , leading to their dominance and, in turn, setting in place conditions for the eventual rise of .]\nThroughout recorded history, hundreds of Earth impacts (and exploding ) have been reported, with some occurrences causing deaths, injuries, property damage,...[Content truncated]"
+        },
+        "Query1_evidence_3": {
+            "title": "Asteroid shower on the Earth-Moon system immediately before the ...",
+            "link": "https://www.nature.com/articles/s41467-020-17115-6",
+            "snippet": "Jul 21, 2020 ... However, ancient meteoroid impacts and their relations to environmental changes are not well understood because of erosion and/or resurfacing ...",
+            "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nNature Communications\nvolume 11, Article number: 3453 (2020)\n            Cite this article\n\n24k Accesses\n16 Citations\n1135 Altmetric\nMetrics details\nMeteoroid bombardment of the Earth-Moon system must have caused catastrophic damage to the terrestrial ecosphere. However, ancient meteoroid impacts and their relations to environmental changes are not well understood because of erosion and/or resurfacing processes on Earth. Here, we investigate the formation ages of 59 lunar craters with fresh morphologies and diameters greater than approximately 20 km and first find that 8 of 59 craters were formed simultaneously. Considering the radiometric ages of ejecta from Copernicus crater and impact glass spherules from various Apollo landing sites, we conclude that sporadic meteoroid bombardment occurred across the whole Moon at approximately 800 Ma. Based on crater scaling laws and collision probabilities with the Earth and Moon, we suggest that at least (4–5) × 1016 kg of meteoroids, approximately 30–60 times more than the Chicxulub impact, must have plunged into the Earth-Moon system immediately before the Cryogenian, which was an era of great environmental changes.\nUnderstanding meteoroid bombardment of the Earth system is an issue of both great scientific interest and practical importance because impacts are potentially hazardous to the Earth. Since the 541 Ma Cambrian biodiversity explosion, mass extinction events have occurred at least five times (the so-called Big five events)1, and extra-ter...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "Is there credible evidence verifying that an asteroid impact and explosion occurred on the Moon's surface?",
+        "Answer": "There is credible evidence verifying that asteroid impacts, including explosions, have occurred on the Moon's surface. Here are several key points supporting this conclusion:\n\n1. **Lunar Geological History**: The Moon's surface is extensively marked by craters, formed by impacts from meteoroids, asteroids, and comets over billions of years. The presence of these craters, which are dominant landforms on the Moon, serves as direct evidence of its history of impact events. Many of these impacts have had significant physical consequences, influencing the geological landscape of the Moon and contributing to its characterization as a body shaped by violent collisions.\n\n2. **Apollo Mission Findings**: Between 1969 and 1972, six Apollo missions returned a plethora of lunar samples, which include rocks and soils formed by impact events. Studies of these samples have provided insights into the early history of the Moon and have confirmed that impact events have possibly contributed to its formation and surface composition. The presence of impact-generated glass in lunar rocks further corroborates evidence of significant impacts having occurred on the Moon's surface.\n\n3. **Research on Ancient Impacts**: Recent studies have investigated the ages and effects of meteoroid bombardment on the Moon. One study identified 59 lunar craters with morphologies indicating recent formation, concluding that meteoroid impacts have occurred across the Moon and have played a crucial role in its geological history. This indicates that substantial impacts have not only occurred in the past but also that the frequency of these events might be higher than previously understood.\n\nGiven the consistent findings from lunar geology, the analysis of Apollo samples, and the research on ancient impacts, we have robust evidence supporting the occurrence of impacts on the Moon. Therefore, we can confidently assert that there is credible evidence verifying that asteroid impacts and explosions have indeed occurred on the Moon's surface.",
+        "Confidence": "90%"
+    }
+}

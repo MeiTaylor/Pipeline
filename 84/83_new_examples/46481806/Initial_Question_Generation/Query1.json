@@ -1,0 +1,543 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Nova Kakhovka flood June 6 2023 dam failure report",
+                "totalResults": "15200",
+                "searchTerms": "Nova Kakhovka flood June 6 2023 dam failure report",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Nova Kakhovka flood June 6 2023 dam failure report",
+                "totalResults": "15200",
+                "searchTerms": "Nova Kakhovka flood June 6 2023 dam failure report",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.304213,
+        "formattedSearchTime": "0.30",
+        "totalResults": "15200",
+        "formattedTotalResults": "15,200"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Maps: Damage from the Nova Kakhovka dam collapse in Ukraine",
+                "htmlTitle": "Maps: Damage from the <b>Nova Kakhovka dam collapse</b> in Ukraine",
+                "link": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM-BLAST/lbpggabezpq/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jun 8, 2023 ... UN preliminary analysis provides the first look at flood damage.",
+                "htmlSnippet": "Jun 8, 2023 <b>...</b> UN preliminary <b>analysis</b> provides the first look at <b>flood</b> damage.",
+                "formattedUrl": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM.../lbpggabezpq/",
+                "htmlFormattedUrl": "https://www.reuters.com/graphics/UKRAINE-CRISIS/<b>DAM</b>.../lbpggabezpq/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHhkCgN55tNylhM6k88bMWnrdFspJtk_NbEcNG4cfJ8o75Z0llc2bXks&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM-BLAST/lbpggabezpq/cdn/images/reuters-graphics.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Mapping the damage from the Nova Kakhovka dam collapse",
+                            "og:site_name": "Reuters",
+                            "twitter:domain": "https://www.reuters.com",
+                            "og:title": "Mapping the damage from the Nova Kakhovka dam collapse",
+                            "og:description": "UN preliminary analysis provides the first look at flood damage in southern Ukraine.",
+                            "twitter:creator": "@ReutersGraphics",
+                            "twitter:image": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM-BLAST/lbpggabezpq/cdn/images/reuters-graphics.jpg",
+                            "twitter:image:alt": "Image of flooding along the Dnipro River",
+                            "fb:app_id": "319194411438328",
+                            "twitter:site": "@ReutersGraphics",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "UN preliminary analysis provides the first look at flood damage in southern Ukraine.",
+                            "fb:admins": "616167736",
+                            "og:url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM-BLAST/lbpggabezpq/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAM-BLAST/lbpggabezpq/cdn/images/reuters-graphics.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Graphics\nAnalysts from the United Nations Satellite Centre - Unosat have begun to assess the damage caused by the collapse of the Nova Kakhovka dam in Ukraine on June 6.\nPreliminary analysis of satellite images of  the nearby city of Nova Kakhovka has concluded there is significant flooding and damage to buildings along both banks of the Dnipro River below the dam’s reservoir.\nThis map illustrates the areas in Khersonska Oblast, Ukraine, that were flooded according to satellite imagery  after the collapse of the Nova Kakhovka dam near Kherson.\nNote: Preliminary analysis.\nSource: Flooded areas (United Nations Satellite Centre - Unosat)\nThe dam’s reservoir holds 18 cubic kilometres (4.3 cubic miles) of water - a volume roughly equal to the Great Salt Lake in the U.S. state of Utah. \nIt is not known how many people may have died as a result of the flooding. The Russian-installed mayor of Nova Kakhovka said on Thursday at least five people had died but the total death toll is sure to be much higher.\nDownstream, UN analysis shows significant flooding along a 90 km stretch of the Dnipro River to the Black Sea. \nHundreds of Ukrainians were rescued from rooftops in the flood-stricken southern region of Kherson on Thursday after floodwaters submerged villages, fields and roads.\nKherson's Ukrainian governor, Oleksandr Prokudin, said 68% of the flooded territory was on the Russian-occupied bank of the Dnipro River.\nThe “average level of flooding” in the Kherson region on Thursday morning was 5.61 meters (18.41 ft), he said.\nThis map illustrates the areas in...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Canals in Ukraine are Drying Up",
+                "htmlTitle": "Canals in Ukraine are Drying Up",
+                "link": "https://earthobservatory.nasa.gov/images/151622/canals-in-ukraine-are-drying-up",
+                "displayLink": "earthobservatory.nasa.gov",
+                "snippet": "Jul 26, 2023 ... After the breach of Kakhovka Dam and the flood that ensued, farmers in the area are coping with depleted water supplies.",
+                "htmlSnippet": "Jul 26, 2023 <b>...</b> After the <b>breach</b> of <b>Kakhovka Dam</b> and the <b>flood</b> that ensued, farmers in the area are coping with depleted water supplies.",
+                "formattedUrl": "https://earthobservatory.nasa.gov/images/.../canals-in-ukraine-are-drying-u...",
+                "htmlFormattedUrl": "https://earthobservatory.nasa.gov/images/.../canals-in-ukraine-are-drying-u...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "webmaster": "Paul.D.Przyborski.1",
+                            "dc.publisher": "NASA Earth Observatory",
+                            "dc.description": "After the breach of Kakhovka Dam and the flood that ensued, farmers in the area are coping with depleted water supplies.",
+                            "dc.publisher.address": "https://earthobservatory.nasa.gov/contact/",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Canals in Ukraine are Drying Up",
+                            "thumbnail": "https://eoimages.gsfc.nasa.gov/images/imagerecords/151000/151622/ukraineflooding_oli2_2023160_th.jpg",
+                            "orgcode": "610",
+                            "dc.format": "text/html",
+                            "dc.date": "2023-07-27",
+                            "twitter:image": "https://eoimages.gsfc.nasa.gov/images/imagerecords/151000/151622/ukraineflooding_oli2_2023160_th.jpg",
+                            "content-owner": "Paul.D.Przyborski.1",
+                            "rno": "Robert.C.Levy.1",
+                            "twitter:image:alt": "Canals in Ukraine are Drying Up",
+                            "twitter:site": "@nasaearth",
+                            "dc.type": "Text.Article",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "After the breach of Kakhovka Dam and the flood that ensued, farmers in the area are coping with depleted water supplies.",
+                            "csrf-token": "J5P3A4Kyn8JnT2nJR7Yx8O2Y90MyiQkmVdAeEYu3",
+                            "dc.title": "Canals in Ukraine are Drying Up",
+                            "dc.identifier": "https://earthobservatory.nasa.gov/",
+                            "dc.subject": "climate change, global climate change, global warming, natural hazards, Earth, environment, remote sensing, atmosphere, land processes, oceans, volcanoes, land cover, Earth science data, NASA, environmental processes, Blue Marble, global maps",
+                            "dc.language": "en",
+                            "dc.date.x-metadatalastmodified": "2023-08-03"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...LI-2 on Landsat 9, respectively.\nJune 1 -  9, 2023JPEG\nThe NASA Harvest team—in partnership with Sertit (University of Strasbourg)—used Planet and Sentinel-3 data to produce a comprehensive map of flooded croplands, flooded villages, and open water that they provided to the Ukrainian Ministry of Agriculture as part of the humanitarian response efforts following the dam breach. They also continue to monitor the main canal inlets from the Kakhovka Reservoir and are developing methods to use satellites to track how much irrigation water fields receive throughout the summer.\nNASA Harvest analysts will also be monitoring the health of crops using tools such as the GIMMS Global Agricultural Monitoring tool and the AGMET EO Indicator dashboard. These tools had not yet shown a major drop in the greenness of crops by early July 2023 due to regular rains, though the loss of irrigation water could begin to brown crops in the future.\nThe semiarid steppe ecosystems found in the Kherson, Zaporizhzhia, and Dnipropetrovsk oblasts generally receive 100 to 120 millimeters (4 to 5 inches) of rain during the summer growing season—not typically enough for some crops to thrive without irrigation. More than 12,000 kilometers of canals constructed since the 1960s have provided irrigation water for up to 500,000 hectares (1,900 square miles) of croplands, turning the region into one of the most productive farming regions in Ukraine. Canal water is also used for drinking water, industry, and other public uses.\nThe Ukrainian Grain Council has estimated that the flood could lead to a 14 percent reduction in the volume of Ukraine’s grain exports. In late June 2023, NASA Harvest estimated that Ukraine would produce 25 million tons of wheat this year, about two million tons lower than the five-year average. NASA Harvest will continue to monitor the situation in the coming months and will post updates in its news feed.\nNASA Earth Observatory images by Lauren Dauphin using Landsat data from the U.S. Geological Survey, and Planet Labs images courtesy of Inbal Becker-Reshef. Story by Adam Voiland.\nView this area in EO Explorer\nAfter the breach of Kakhovka Dam and the flood that ensued, farmers in the area are coping with depleted water supplies.\nImage of the Day for July 27, 2023\n\nImage of the Day\nWater\n\nView more Images of the Day:\nShifting rainfall patterns are projected to leave millions of people without consistent access to food in late 202...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Destruction of the Kakhovka Dam - Wikipedia",
+                "htmlTitle": "Destruction of the <b>Kakhovka Dam</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Destruction_of_the_Kakhovka_Dam",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "The Kakhovka Dam was breached in the early hours of 6 June 2023, causing extensive flooding along the lower Dnieper river, also called the Dnipro, ...",
+                "htmlSnippet": "The <b>Kakhovka Dam</b> was breached in the early hours of <b>6 June 2023</b>, causing extensive <b>flooding</b> along the lower Dnieper river, also called the Dnipro,&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Destruction_of_the_Kakhovka_Dam",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Destruction_of_the_<b>Kakhovka</b>_<b>Dam</b>",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "North Crimean Canal Intake"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Flooding_in_Kherson_after_the_destruction_of_the_Kakhovka_Dam_2023.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Destruction of the Kakhovka Dam - Wikipedia",
+                            "og:image:height": "628",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "| Destruction of the Kakhovka Dam |\n| --- |\n| Part of the  \"Dnieper campaign (2022–present)\")  \nof the  |\n| ]Flooding downstream from the dam\n |\n| Location | , , Ukraine |\n|  |  |\n| Date | 6 June 2023  \nbetween 02:00 and 02:54 () |\n| Attack type\n |  |\n| Weapons | Unknown |\n| Deaths | 59 reported by Russian authorities]]]  \nBetween 200 and 300 in  according to local health workers] |\n| Perpetrators | Disputed; Russia is blamed by most experts] |\nThe  was  in the early hours of 6 June 2023,]]] causing extensive flooding along the lower , also called the Dnipro, in . The dam was  of the , which had seized it in the early days of the .]] Many experts have concluded that Russian forces likely blew up a segment of the dam to hinder .]] Russian authorities have denied the accusation.\nThe dam was about 30 m (98 ft) tall and 3.2 km (2 mi) long;] the breached segment was about 85 m (279 ft) long.] Two days after the breach, the average level of flooding in the  region was 5.61 m (18.4 ft), according to local officials.]]\nThere were signs of an explosion at the time of the breach. Both Ukrainian and Russian sources reported hearing blasts from the dam's ,]] regional  detected explosions in the area,]] and a satellite detected the infrared heat signature of an explosion.]\nWater levels in the , controlled by Russia, had been rising for months and were at a 30-year high when the dam failed.] Thousands of residents downstream were evacuated, and floods submerged several villages in Ukrainian- and Russian-controlled areas. By 21 June, 58 people were reported to have been killed and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "A disaster in photos: Nova Kakhovka dam breach in Ukraine ...",
+                "htmlTitle": "A <b>disaster</b> in photos: <b>Nova Kakhovka dam breach</b> in Ukraine ...",
+                "link": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/stories/disaster-photos-nova-kakhovka-dam-breach-ukraine_en",
+                "displayLink": "civil-protection-humanitarian-aid.ec.europa.eu",
+                "snippet": "Jun 27, 2023 ... In the early hours of 6 June, an explosion destroyed a critical infrastructure in southern Ukraine – the Nova Kakhovka dam.",
+                "htmlSnippet": "Jun 27, 2023 <b>...</b> In the early hours of <b>6 June</b>, an explosion destroyed a critical infrastructure in southern Ukraine – the <b>Nova Kakhovka dam</b>.",
+                "formattedUrl": "https://civil-protection-humanitarian-aid.ec.europa.eu/.../disaster-photos-no...",
+                "htmlFormattedUrl": "https://civil-protection-humanitarian-aid.ec.europa.eu/.../disaster-photos-<b>no</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-FEeRg0tGK6k_5Fv0x4iYtxstUyJPeInDu_1T6u5gyN-Z449j0jgxU68&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:determiner": "auto",
+                            "og:image": "https://civil-protection-humanitarian-aid.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2023-06/Nova%20Kakhovka%20dam%20breach%20in%20Ukraine%2005.jpg?itok=n2RNeveH",
+                            "og:type": "website",
+                            "og:image:alt": "People and a dog being evacuated in a rubber boat.",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "A disaster in photos: Nova Kakhovka dam breach in Ukraine",
+                            "og:site_name": "European Civil Protection and Humanitarian Aid Operations",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/stories/disaster-photos-nova-kakhovka-dam-breach-ukraine_en",
+                            "og:title": "A disaster in photos: Nova Kakhovka dam breach in Ukraine",
+                            "og:description": "In the early hours of 6 June, an explosion destroyed a critical infrastructure in southern Ukraine – the Nova Kakhovka dam. This vast amount of water was unleashed downstream along the Dnipro river, flooding dozens of settlements.",
+                            "twitter:image": "https://civil-protection-humanitarian-aid.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2023-06/Nova%20Kakhovka%20dam%20breach%20in%20Ukraine%2005.jpg?itok=n2RNeveH",
+                            "twitter:image:alt": "People and a dog being evacuated in a rubber boat.",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "In the early hours of 6 June, an explosion destroyed a critical infrastructure in southern Ukraine – the Nova Kakhovka dam. This vast amount of water was unleashed downstream along the Dnipro river, flooding dozens of settlements.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/stories/disaster-photos-nova-kakhovka-dam-breach-ukraine_en"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://civil-protection-humanitarian-aid.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2023-06/Nova%20Kakhovka%20dam%20breach%20in%20Ukraine%2005.jpg?itok=n2RNeveH"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n*   \n*   \n*   \n*   \nSearch\nSearch\nSearch\nEuropean Civil Protection and Humanitarian Aid Operations\nMenu\nClose\nMenu\nBack\nPrevious itemsNext items\n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n1.  \n2.  …\n3.  \n4.  \n5.  A disaster in photos: Nova Kakhovka dam breach in Ukraine\nA disaster in photos: Nova Kakhovka dam breach in Ukraine\n=========================================================\n!\n© People in Need, 2023 (Photographer: Alberto Lores)\nIn the early hours of 6 June, an explosion destroyed a critical infrastructure in southern Ukraine – the Nova Kakhovka dam. The dam held back the amount of water equal to that of the Great Salt Lake in the USA. This vast amount of water was unleashed downstream along the Dnipro river, flooding dozens of settlements.\nThis disaster has put thousands of lives at risk, making the already dire conditions faced by Ukrainian people even worse. Entire villages have been swept away, the farmland has become unusable, and deadly mines are being washed up onto the shores.\nThe affected communities have been cut off water and electricity, leaving them completely dependent on humanitarian assistance.\nThe consequences of this disaster extend beyond human suffering, as there will likely be significant ecological devastation in years to come.\nTo address the crisis, the EU’s humanitarian partners are providing emergency assistance on the ground. They are delivering drinking water, ready-to-eat food, shelter equipment, and cash assistance.\nIn addition, the EU has  via its Civil Protection Mechanism and rescEU strategic reserves. This assistance includes water pumps, tankers, boats, rescue vehicles, generators, and mobile water treatment stations.\nThe photos below offer a glimpse into the devastating aftermath of the Nova Kakhovka dam breach.\n!\nIn the early hours of June 6, an explosion destroyed a critical infrastructure in southern Ukraine – the Nova Kakhovka dam.\n© People in Need, 2023 (Photographer: Alberto L...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Russian Offensive Campaign Assessment, June 7, 2023 | Institute ...",
+                "htmlTitle": "Russian Offensive Campaign Assessment, <b>June</b> 7, <b>2023</b> | Institute ...",
+                "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-7-2023",
+                "displayLink": "www.understandingwar.org",
+                "snippet": "Jun 7, 2023 ... The destruction of the Kakhovka Hydroelectric Power Plant (KHPP) dam is significantly changing the geography and topography of the Kherson ...",
+                "htmlSnippet": "Jun 7, 2023 <b>...</b> The destruction of the <b>Kakhovka</b> Hydroelectric Power Plant (KHPP) <b>dam</b> is significantly changing the geography and topography of the Kherson&nbsp;...",
+                "formattedUrl": "https://www.understandingwar.org/.../russian-offensive-campaign-assessme...",
+                "htmlFormattedUrl": "https://www.understandingwar.org/.../russian-offensive-campaign-assessme...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LCneCzOicp7ASTe3-9FyDwkVNVfjwB_joTAZEXx6qBJvNsVcBmt9PA&s",
+                            "width": "125",
+                            "height": "125"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "og:site_name": "Institute for the Study of War",
+                            "og:title": "Institute for the Study of War",
+                            "fb:admins": "100003039833570",
+                            "og:url": "http://dev-isw.bivings.com/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.understandingwar.org/sites/default/files/styles/square_thumbnail/public/ISW%20LOGO%20FINAL%20ACRONYM%20%20%20NAME_ISW%20LOGO%20FINAL%20ACRONYM%20NAME%20CMYK_1308.png?itok=fVAUhn6w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Russian Offensive Campaign Assessment, June 7, 2023  \n**  \n**Kateryna Stepanenko, Karolina Hird, Grace Mappes, Nicole Wolkov, George Barros, and Fredrick W. Kagan  \n**  \n**June 7, 2023, 8:45 pm ET**\n**Click**  **to see ISW’s interactive map of the Russian invasion of Ukraine. This map is updated daily alongside the static maps present in this report.**\n**Click**  **to access ISW’s archive of interactive time-lapse maps of the Russian invasion of Ukraine. These maps complement the static control-of-terrain map that ISW produces daily by showing a dynamic frontline. ISW will update this time-lapse map archive monthly.**\n**_Note: The data cutoff for this product was 3pm ET on June 7. ISW will cover subsequent reports in the June 8 Russian Offensive Campaign Assessment._**\n**The destruction of the Kakhovka Hydroelectric Power Plant (KHPP) dam is significantly changing the geography and topography of the Kherson frontline sector in southern Ukraine.** Near-infrared (NIR) imagery captured at 0400 am ET on June 7 indicates that the flooding is heavily disrupting Russian prepared defensive positions on the east (left) bank of the Dnipro River – especially affecting Russian first-line positions in Hola Prystan and Oleshky. Various sources reported that Oleshky, Hola Prystan, Kozacha Laheri, and Dnipryany are almost entirely flooded with water levels rising to the height of a one-story buildings in some areas.\\ The Ukrainian headquarters established to remediate the consequences of the dam’s destruction reported that as of June 7 29 settlements are partially or fully flooded, 19 of which are located on the Ukrainian-controlled territory and 10 on Russian occupied territories.\\ Russian sources published footage indicating that water had begun receding in Nova Kakhovka and had dropped by 30cm.\\ Russian sources also claimed that water levels decreased by three to four meters in some areas from a high of 10 meters.\\ Water levels in nearby Mykolaiv City reportedly increased by 70cm as of June 7.\\ Flooding will...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "June 6, 2023 Russia-Ukraine news | CNN",
+                "htmlTitle": "<b>June 6, 2023</b> Russia-Ukraine <b>news</b> | CNN",
+                "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-06-23/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "The collapse of the Nova Kakhovka dam on the Dnipro River on Tuesday promted evacuations due to rising floodwaters in the Russian-occupied Kherson region in ...",
+                "htmlSnippet": "The <b>collapse</b> of the <b>Nova Kakhovka dam</b> on the Dnipro River on Tuesday promted evacuations due to rising <b>floodwaters</b> in the Russian-occupied Kherson region in&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/europe/live-news/russia-ukraine-war.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDVsBRENAQLlLmUI7Qm11R-1adV9MJLvkRs7jhVkBErQgVb12kdroCr9Q&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230605131941-donetsk-oblast-ukraine-screengrab.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "June 6, 2023 Russia-Ukraine news | CNN",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-06T04:00:16Z",
+                            "og:site_name": "CNN",
+                            "author": "Tara Subramaniam,Jessie Yeung,Sana Noor Haq,Sebastian Shukla,Schams Elwazer,Caolán Magee,Aditi Sangal,Adrienne Vogt,Elise Hammond,Maureen Chowdhury,Tori B. Powell",
+                            "og:title": "June 6, 2023 Russia-Ukraine news | CNN",
+                            "meta-section": "world",
+                            "type": "live-story",
+                            "og:description": "The collapse of the Nova Kakhovka dam on the Dnipro River on Tuesday promted evacuations due to rising floodwaters in the Russian-occupied Kherson region in southern Ukraine. Follow live updates here.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230605131941-donetsk-oblast-ukraine-screengrab.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-06-07T04:01:03.906Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "The collapse of the Nova Kakhovka dam on the Dnipro River on Tuesday promted evacuations due to rising floodwaters in the Russian-occupied Kherson region in southern Ukraine. Follow live updates here.",
+                            "template_type": "article_livestory",
+                            "meta-branding": "live-story-v2",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-06-06-23/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230605131941-donetsk-oblast-ukraine-screengrab.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...iberate sabotage” by Ukraine, adding that Russian President Vladimir Putin was being kept informed about the situation. \n    \n\n            Peskov claimed the attack was “planned and carried out by order received from Kyiv, from the Kyiv regime. The Kyiv regime must bear full responsibility for all the consequences.”  \n    \n\n            He claimed Ukraine wanted to “deprive Crimea of water” and to distract from the battlefield. \n    \n\n            Peskov said: “Having launched large-scale offensive operations two days ago, now the Ukrainian Armed Forces are not achieving their goals. These offensive actions are choking.”\n    \n\nSome context: Multiple senior Ukrainian officials and military figures accused the Kremlin of sabotaging the dam on Tuesday, saying Russian forces destroyed the dam “in panic.”\n\n\n            This incident occurred a day after Deputy Defense Minister Hanna Maliar said a Ukrainian offensive is “taking place in several directions,” heightening speculation that a major push by Kyiv to recapture land held by Russia’s occupying forces could be getting underway.\n    \n\n            NATO Secretary General Jens Stoltenberg said the collapse of a crucial dam and hydro-electric power plant in the Russian-occupied Kherson region demonstrates “the brutality of Russia’s war in Ukraine.”  \n    \n\n            “The destruction of the Kakhovka dam today puts thousands of civilians at risk and causes severe environmental damage,” Stoltenberg tweeted on Tuesday. \n    \n\n            “This is an outrageous act, which demonstrates once again the brutality of #Russia’s war in #Ukraine.”\n    \n\n            Stoltenberg is in the Slovakian capital Bratislava for a meeting of the “Bucharest Nine,” the group of Eastern flank NATO allies – Bulgaria, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Romania and Slovakia. \n    \n\n            Western allies of Ukraine, including the transatlantic military alliance, have remained key supporters of Kyiv during the conflict by donating military aid or imposing sanctions against Russia.\n    \n\nCNN’s Olga Voitovych and Sophie Jeong contributed reporting.\n\n\n            Ukraine’s energy ministry said the collapse of a major dam and hydro-electric power plant in Russian-occupied Kherson has caused “no threats” to the country’s electricity supply amid fears of large-scale devastation.\n    \n\n            The overnight incident at the Nova Kakhovka dam in the southern region has not directly affected nationwide power systems but regional power supplies are at risk due to flooding, the ministry said in a statement. \n    \n\n            It said: “There are no threats to the stability of electricity supply. The generated electricity is sufficient to cover the needs of consumers.” \n    \n\n            Nearly 12,000...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Russian Offensive Campaign Assessment, June 6, 2023 | Institute ...",
+                "htmlTitle": "Russian Offensive Campaign Assessment, <b>June 6</b>, <b>2023</b> | Institute ...",
+                "link": "https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-june-6-2023",
+                "displayLink": "www.understandingwar.org",
+                "snippet": "Jun 6, 2023 ... Damage to the Kakhovka Hydroelectric Power Plant (KHPP) dam in the early hours of June 6 caused massive flooding of the Dnipro River delta, ...",
+                "htmlSnippet": "Jun 6, 2023 <b>...</b> Damage to the <b>Kakhovka</b> Hydroelectric Power Plant (KHPP) <b>dam</b> in the early hours of <b>June 6</b> caused massive <b>flooding</b> of the Dnipro River delta,&nbsp;...",
+                "formattedUrl": "https://www.understandingwar.org/.../russian-offensive-campaign-assessme...",
+                "htmlFormattedUrl": "https://www.understandingwar.org/.../russian-offensive-campaign-assessme...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEQvAtCtBpQNiUPqc5WttelPWPQyBs6ZI83-xJh42Z0aWPh4HLWOO&s",
+                            "width": "125",
+                            "height": "125"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:type": "website",
+                            "og:site_name": "Institute for the Study of War",
+                            "og:title": "Institute for the Study of War",
+                            "fb:admins": "100003039833570",
+                            "og:url": "http://dev-isw.bivings.com/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.understandingwar.org/sites/default/files/styles/square_thumbnail/public/ISW%20Logo%20%28thumbnails%20cover%20image%29_35.jpg?itok=Ov4LmPM9"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 35 missiles.\\ The Ukrainian General Staff also reported that Russian forces targeted Kharkiv City with S-300 surface-to-air missiles.\\ Ukrainian Southern Operational Command Spokesperson Natalia Humenyuk noted that the fact that Russia only launched Kh-101/555-type missiles and returned all sea-based Kalibr missile carriers to their base points before the strike may suggest that Russia is running out of Kalibrs to launch.\\ Humenyuk’s comments are consistent with periodic Ukrainian tallies of the numbers of Kalibrs remaining and Russia’s capacity to produce them. \\ The Russian Ministry of Defense (MoD) claimed that Russian aerospace forces conducted the strike with long-range air-launched missiles against Ukrainian ”decision-making centers” and struck all intended targets.\\ The UK MoD reported on June 5 that Russian forces have recently heavily relied on Iranian drones to try to attrit Ukrainian air defense missile capabilities, but the fact that Ukraine is still managing to employ air defense systems against cruise missiles to such high effect suggests that these Russian efforts have been largely unsuccessful.\\\n**Russian sources claimed that the pro-Ukrainian all-Russian Russian Volunteer Corps (RDK) and the Freedom of Russian Legion (LSR) are gone from a border settlement in Belgorod Oblast as of June 6.** Russian sources published footage of Russian forces stating that they are in control of Novaya Tavolzhanka (a small village about 3km from the Kharkiv-Belgorod Oblast border) and that RDK and LSR elements are no longer present in the settlement.\\ The Ukrainian Main Military Intelligence Directorate (GUR) reported that a senior Russian officer of the Belgorod Operational Group, Colonel Andrey Stesev, was killed in action in Novaya Tavolzhanka overnight on June 4-5.\\ The Freedom of Russia Legion (LSR) claimed on June 6 that its forces killed Stesev.\\\n**Wagner Group financier Yevgeny Prigozhin continued to directly threaten the Russian Ministry of Defense (MoD) and the Russian military command if they do not fulfill his demands for a larger independent army and political influence in Russia.** Prigozhin threatened on June 5 that Wagner forces will “go to Belgorod” without explicit permission from the Russian MoD if the Russian military command does not “liberate” Belgorod Oblast border areas from various all-Russian pro-Ukrainian groups operating on Russian soil and improve the situation in Shebekino (a settlement 6km from the international border).\\ Prigozhin presented letters that he reportedly received from Shebekino residents who complained that the Russian military is neglecting their safety and called on...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Yale Report: Hospitals, Schools, Farmland Impacted by Destruction ...",
+                "htmlTitle": "Yale <b>Report</b>: Hospitals, Schools, Farmland Impacted by Destruction ...",
+                "link": "https://ysph.yale.edu/news-article/yale-report-hospitals-schools-farmland-impacted-by-destruction-of-ukraine-dam/",
+                "displayLink": "ysph.yale.edu",
+                "snippet": "Jun 20, 2023 ... Map illustrating the extent of flooding of the Dnipro River downstream from the Kakhovka Hydroelectric Station Dam in Nova Kakhovka, as of 06 ...",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> Map illustrating the extent of <b>flooding</b> of the Dnipro River downstream from the <b>Kakhovka</b> Hydroelectric Station <b>Dam</b> in <b>Nova Kakhovka</b>, as of <b>06</b>&nbsp;...",
+                "formattedUrl": "https://ysph.yale.edu/.../yale-report-hospitals-schools-farmland-impacted-by...",
+                "htmlFormattedUrl": "https://ysph.yale.edu/.../yale-<b>report</b>-hospitals-schools-farmland-impacted-by...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBDc9vsEyN4spiRoSw75IEVMls9_tvw5GCAGA1LwNIbuV92vKabHnVY2Y&s",
+                            "width": "274",
+                            "height": "184"
+                        }
+                    ],
+                    "Article": [
+                        {}
+                    ],
+                    "speakablespecification": [
+                        {
+                            "xpath": "/html/head/meta[@property='og:title']/@content"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#1271e3",
+                            "og:image": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/1e3e72b8-e478-4ede-a0fb-cbdb38076e9a",
+                            "msapplication-config": "https://cdn1.medicine.yale.edu/browser-configs/ysph/browserconfig.xml",
+                            "site-name": "Yale School of Public Health",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "author": "Colin Poitras",
+                            "og:title": "Yale Report:  Hospitals, Schools, Farmland Impacted by Destruction of Ukraine Dam",
+                            "og:image:height": "630",
+                            "title": "Yale Report:  Hospitals, Schools, Farmland Impacted by Destruction of Ukraine Dam",
+                            "og:description": "Key elements of civilian infrastructure along the Dnipro River in southern Ukraine have been impacted by the June 6 destruction of the Kakhovka Dam, researchers",
+                            "og:image:secure_url": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/1e3e72b8-e478-4ede-a0fb-cbdb38076e9a",
+                            "publish-date": "6/20/2023",
+                            "twitter:image:alt": "Kakhovka Flooding",
+                            "fb:app_id": "604142276782606",
+                            "twitter:site": "@YaleSPH",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:url": "https://ysph.yale.edu/news-article/yale-report-hospitals-schools-farmland-impacted-by-destruction-of-ukraine-dam/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/1e3e72b8-e478-4ede-a0fb-cbdb38076e9a"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n        *   \n        *   \n    *   \n        *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n    *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n        *   \n            *   \n        *   \n            *   \n            *   \n                *   \n        *   \n            *   \n            *   \n        *   \n            *   \n        *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n        *   \n            *   \n        *   \n        *   \n        *   \n            *   \n            *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n            *   \n            *   \n        *   \n            *   \n        *   \n            *   \n            *   \n        *   \n            *   \n        *   \n        *   \n            *   \n    *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n        *   \n            *   \n            *   \n            *   \n            *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n        *   \n        *   \n        *   \n            *   \n                *   \n                *   \n                *   \n            *   \n                *   \n        *   \n            *   \n            *   \n            *   \n                *   \n            *   \n            *...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Here are the key theories on what caused Ukraine's catastrophic ...",
+                "htmlTitle": "Here are the key theories on what caused Ukraine&#39;s catastrophic ...",
+                "link": "https://www.cnn.com/2023/06/08/europe/nova-kakhovka-destruction-theories-intl/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jun 9, 2023 ... The collapse of the Nova Kakhovka dam in southern Ukraine is one of the biggest industrial disasters in Europe for decades.",
+                "htmlSnippet": "Jun 9, 2023 <b>...</b> The <b>collapse</b> of the <b>Nova Kakhovka dam</b> in southern Ukraine is one of the biggest industrial disasters in Europe for decades.",
+                "formattedUrl": "https://www.cnn.com/2023/06/08/europe/nova-kakhovka.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/<b>2023</b>/06/08/europe/<b>nova</b>-<b>kakhovka</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCvTbqdB_63KQYGL0xbjMUEsfWRnCUCblJ8O9CRjTNRyxAPhSZPs27dBT&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/230608131956-nova-kakhovka-dam-destruction-theories-split.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "Here are the key theories on what caused Ukraine’s catastrophic dam collapse | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-08T16:12:25Z",
+                            "og:site_name": "CNN",
+                            "author": "Ivana Kottasová,Gianluca Mezzofiore",
+                            "og:title": "Here are the key theories on what caused Ukraine’s catastrophic dam collapse | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "The collapse of the Nova Kakhovka dam in southern Ukraine is one of the biggest industrial disasters in Europe for decades. The catastrophe has destroyed entire villages, flooded farmland, deprived tens of thousands of people of power and clean water and caused massive ecological damage.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/230608131956-nova-kakhovka-dam-destruction-theories-split.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "accidents, disasters and safety, armed forces, brand safety-nsf accidents and disasters, brand safety-nsf sensitive, brand safety-nsf war and military, business and industry sectors, business, economy and trade, continents and regions, crimea, dams and locks, domestic alerts, domestic-business, domestic-health and science, domestic-international news, eastern europe, electric power industry, energy and utilities, environment and natural resources, environmentalism, europe, explosions, floods and flooding, hydropower, iab-business and finance, iab-disasters, iab-environment, iab-home utilities, iab-industries, iab-personal finance, iab-power and energy industry, iab-science, iab-water services, international alerts, international-business, international-health and science, kyiv, lakes and waterways, military, natural disasters, natural resources management, nuclear energy, political figures - intl, renewable energy, russia, russia-ukraine conflict, transportation and warehousing, transportation infrastructure,",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2023-06-09T14:44:37Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "The collapse of the Nova Kakhovka dam in southern Ukraine is one of the biggest industrial disasters in Europe for decades. The catastrophe has destroyed entire villages, flooded farmland, deprived tens of thousands of people of power and clean water and caused massive ecological damage.",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2023/06/08/europe/nova-kakhovka-destruction-theories-intl/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/230608131956-nova-kakhovka-dam-destruction-theories-split.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            The collapse of the Nova Kakhovka dam in southern Ukraine is one of the biggest industrial and ecological disasters in Europe for decades. The catastrophe has destroyed entire villages, flooded farmland, deprived tens of thousands of people of power and clean water, and caused massive environmental damage. \n    \n\n            It’s still impossible to say whether the dam collapsed because it was deliberately targeted or if the breach could have been caused by structural failure. The dam and hydroelectric power plant are under Russian control and therefore inaccessible to independent investigators, leaving experts around the world trying to piece together what happened based on limited visual evidence.\n    \n\n            Several Western officials have blamed Russia for the disaster, either directly accusing Moscow of targeting the dam or saying that Russia is responsible simply because it is the aggressor in the war on Ukraine.\n    \n\n            United Nations Secretary-General António Guterres described the destruction as “another devastating consequence of the Russian invasion of Ukraine,” but added that the UN doesn’t have access to information to independently verify the cause.\n    \n\n            A NATO military official told CNN that, while it will take some time before they know for certain who was responsible for the destruction of the Nova Kakhovka dam in Ukraine, they believe Russia was likely behind it. The official added that Russia stood the most to gain by the move, which could potentially slow down an anticipated Ukrainian counter...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Potential Long-Term Impact of the Destruction of the Kakhovka Dam ...",
+                "htmlTitle": "Potential Long-Term Impact of the Destruction of the <b>Kakhovka Dam</b> ...",
+                "link": "https://reliefweb.int/report/ukraine/potential-long-term-impact-destruction-kakhovka-dam-unct-joint-analytical-note-9-june-2023",
+                "displayLink": "reliefweb.int",
+                "snippet": "Jun 9, 2023 ... Analysis in English on Ukraine about Agriculture, Climate Change and Environment, Flood, Technological Disaster and more; published on 9 Jun ...",
+                "htmlSnippet": "Jun 9, 2023 <b>...</b> <b>Analysis</b> in English on Ukraine about Agriculture, Climate Change and Environment, <b>Flood</b>, Technological <b>Disaster</b> and more; published on 9 Jun&nbsp;...",
+                "formattedUrl": "https://reliefweb.int/report/.../potential-long-term-impact-destruction-kakho...",
+                "htmlFormattedUrl": "https://reliefweb.int/<b>report</b>/.../potential-long-term-impact-destruction-<b>kakho</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJcjeD7fFN7S25HuVAQYLX6-85tEt2gW-wwuQh_1zp7FbqvKKPuDrPvort&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://reliefweb.int/sites/default/files/styles/large/public/previews/53/d8/53d87dbf-2d4c-424f-92f6-833b26e62829.png",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ReliefWeb",
+                            "handheldfriendly": "true",
+                            "og:title": "Potential Long-Term Impact of the Destruction of the Kakhovka Dam: UNCT Joint Analytical Note (9 June 2023) - Ukraine",
+                            "og:description": "Analysis in English on Ukraine about Agriculture, Climate Change and Environment, Flood, Technological Disaster and more; published on 9 Jun 2023 by UN RC/HC Ukraine and UNCT Ukraine",
+                            "fb:app_id": "1916193535375038",
+                            "twitter:site": "@reliefweb",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "original-source": "https://ukraine.un.org/en/235545-potential-long-term-impact-destruction-kakhovka-dam",
+                            "og:url": "https://reliefweb.int/report/ukraine/potential-long-term-impact-destruction-kakhovka-dam-unct-joint-analytical-note-9-june-2023"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://reliefweb.int/sites/default/files/styles/large/public/previews/53/d8/53d87dbf-2d4c-424f-92f6-833b26e62829.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nUkraine\n\nThe Kakhovka dam's destruction on 6 June 2023, as a consequence of Russia’s war on Ukraine, has led to the flooding of downstream communities, prompting an urgent need for population evacuation and humanitarian assistance. The Kakhovka reservoir played a crucial role in providing energy, drinking water, irrigation, and river transport to various regions in southern Ukraine, as well as supplying water for industries in Kryvyi Rih, Nikopol, Marhanets, and other cities and areas. The release of over 18 cubic km of water within a span of 3-4 days poses a significant threat to nearly 80 settlements, potentially affecting around 100,000 inhabitants directly, while up to one million people could lose access to drinking water.\nHowever, the destruction of the dam, beyond these immediate humanitarian needs, will have a significant impact in the longer term on a much larger geographical area and population. It will have severe, long-term impacts on Ukraine's environment, economy and society, including possible displacement and migration of population, and is likely to cast a dark shadow over the country for decades to come.\n1. Health, water and sanitation\nThe Kakhovka reservoir served as a crucial water source for numerous major cities located to the north, west, and south, including Kryvyi Rih, Mykolaiv, Berdyansk, as well as many smaller cities and settlements. The destruction of the dam has disrupted or contaminated the water supply in all these regions. The interruption in water flow has affected not only households but also municipal networks and agricultural irrigation systems in Kherson, Zaporizhzhia, and Crimea.\nThe flooding poses additional long-term health risks due to discharge of hazardous chemicals from manufacturing plants located downstream. The floodwaters are also contaminated with biological hazards such as sewage wastewater and dead wildlife. This creates a heightened risk of waterborne diseases, including cholera, diarrhea, and others.\nThe water supply challenges resulting from the dam's destruction may also lead to the temporary closure of health facilities, causing disruptions in essential health services. This situation is particularly concerning for the older population and people with disabilities residing in the area, many of whom have chronic noncommunicable diseases. Additionally, the crisis will have a significant impact...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

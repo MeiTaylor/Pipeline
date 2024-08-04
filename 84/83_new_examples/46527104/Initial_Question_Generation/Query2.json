@@ -1,0 +1,693 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - NASA Jack Fischer spacewalk details",
+                "totalResults": "9700",
+                "searchTerms": "NASA Jack Fischer spacewalk details",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - NASA Jack Fischer spacewalk details",
+                "totalResults": "9700",
+                "searchTerms": "NASA Jack Fischer spacewalk details",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.246903,
+        "formattedSearchTime": "0.25",
+        "totalResults": "9700",
+        "formattedTotalResults": "9,700"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "NASA Astronaut Jack Fischer Prepares for Friday Spacewalk - NASA",
+                "htmlTitle": "<b>NASA Astronaut Jack Fischer</b> Prepares for Friday <b>Spacewalk</b> - <b>NASA</b>",
+                "link": "https://www.nasa.gov/image-article/nasa-astronaut-jack-fischer-prepares-friday-spacewalk/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "May 11, 2017 ... ... information to external science experiments. The photograph was taken by astronaut Thomas Pesquet of the European Space Agency, who will ...",
+                "htmlSnippet": "May 11, 2017 <b>...</b> ... <b>information</b> to external science experiments. The photograph was taken by <b>astronaut</b> Thomas Pesquet of the European Space Agency, who will&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/.../nasa-astronaut-jack-fischer-prepares-friday-spacew...",
+                "htmlFormattedUrl": "https://www.<b>nasa</b>.gov/.../<b>nasa</b>-astronaut-<b>jack</b>-<b>fischer</b>-prepares-friday-<b>spacew</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNUfReEQMEqFocNqKzWn3i_T02GGU5ONLbcc3WRBziLCVdhXA-617uqOEg&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2023/03/34186178940_4d6c970114_o.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "image-article",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "NASA",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "Expedition 51 Flight Engineer Jack Fischer of NASA is seen inside the International Space Station in his spacesuit during a fit check, in preparation for a spacewalk on Friday, May 12, 2017. This will be the 200th spacewalk at the station for assembly and maintenance, the ninth spacewalk for NASA astronaut Peggy Whitson and the first for Fischer.",
+                            "searchgov_custom1": "1::425394",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2023/03/34186178940_4d6c970114_o.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2023/03/34186178940_4d6c970114_o.jpg",
+                            "parsely-type": "post",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/image-article/nasa-astronaut-jack-fischer-prepares-friday-spacewalk/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2023/03/34186178940_4d6c970114_o.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "General",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "og:image:alt": "Astronaut in spacesuit floats inside space station module",
+                            "twitter:title": "NASA Astronaut Jack Fischer Prepares for Friday Spacewalk - NASA",
+                            "og:title": "NASA Astronaut Jack Fischer Prepares for Friday Spacewalk - NASA",
+                            "og:image:height": "682",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "NASA Astronaut Jack Fischer Prepares for Friday Spacewalk",
+                            "parsely-pub-date": "2017-05-11T15:48:00Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Expedition 51 Flight Engineer Jack Fischer of NASA is seen inside the International Space Station in his spacesuit during a fit check, in preparation for a spacewalk on Friday, May 12, 2017. This will be the 200th spacewalk at the station for assembly and maintenance, the ninth spacewalk for NASA astronaut Peggy Whitson and the first for Fischer.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/image-article/nasa-astronaut-jack-fischer-prepares-friday-spacewalk/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2023/03/34186178940_4d6c970114_o.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 3 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana article 19 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\n1 min read\nNASA Astronaut Jack Fischer Prepares for Friday Spacewalk\n=========================================================\n!\n### NASA\nMay 11, 2017\nImage Article\n*   \n*   \n*   \n*   \n]\nExpedition 51 Flight Engineer Jack Fischer of NASA is seen inside the International Space Station in his spacesuit during a fit check, in preparation for a spacewalk on Friday, May 12, 2017. This will be the 200th spacewalk at the station for assembly and maintenance, the ninth spacewalk for NASA astronaut Peggy Whitson and the first for Fischer.\nExpedition 51 Flight Engineer Jack Fischer of NASA is seen inside the International Space Station (ISS) in his spacesuit during a fit check, in preparation for a . Fischer and Expedition 51 Commander Peggy Whitson of NASA will exit the station’s Quest airlock to replace an avionics box that routes command and data information to external science experiments. The photograph was taken by astronaut Thomas Pesquet of the European Space Agency, who will assist the spacewalkers on Friday from inside the station.\nThis will be the 200th  at the station for assembly and maintenance, the ninth spacewalk for Whitson and the first for Fischer, , “Test driving my spacesuit for a walk outside on Friday w/…I don’t think I can smile any bigger–well, maybe I will on Friday!”\n_Image Credit: ESA/NASA_\n!\n### National Aeronautics and Space Administration\nNASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n### Follow NASA\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Page Last Updated:\n    May 11, 2017\n*   Page Editor:\n*   Responsible NASA Official:\n    Abigail Bowman",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Watch two NASA astronauts complete the 200th spacewalk outside ...",
+                "htmlTitle": "Watch two <b>NASA astronauts</b> complete the 200th <b>spacewalk</b> outside ...",
+                "link": "https://www.theverge.com/2017/5/12/15629362/watch-spacewalk-200th-nasa-iss-live-peggy-whitson-jack-fischer",
+                "displayLink": "www.theverge.com",
+                "snippet": "May 12, 2017 ... NASA astronauts Peggy Whitson and Jack Fischer will perform the 200th spacewalk outside the International Space Station (ISS).",
+                "htmlSnippet": "May 12, 2017 <b>...</b> <b>NASA astronauts</b> Peggy Whitson and <b>Jack Fischer</b> will perform the 200th <b>spacewalk</b> outside the International Space Station (ISS).",
+                "formattedUrl": "https://www.theverge.com/.../watch-spacewalk-200th-nasa-iss-live-peggy-w...",
+                "htmlFormattedUrl": "https://www.theverge.com/.../watch-<b>spacewalk</b>-200th-<b>nasa</b>-iss-live-peggy-w...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfEZ8bIWeh5Uck5HtpA_8rbhvkMyh4V1A2jb-eY2-WDxUKt8fpsQVePEo&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.vox-cdn.com/thumbor/b88K6herjuSeu-PytISvtaCDdgQ=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn0.vox-cdn.com/uploads/chorus_asset/file/6262893/NASA_spacewalk_Scott_Kelly.0.jpg",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2017-05-12T10:41:20.000Z",
+                            "og:image:width": "1200",
+                            "og:site_name": "The Verge",
+                            "apple-mobile-web-app-title": "Verge",
+                            "parsely-author": "James Vincent",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "A landmark spacewalk to carry out some necessary repairs",
+                            "next-head-count": "33",
+                            "parsely-type": "post",
+                            "twitter:site": "@verge",
+                            "article:modified_time": "2017-05-12T10:41:20.000Z",
+                            "parsely-link": "https://www.theverge.com/2017/5/12/15629362/watch-spacewalk-200th-nasa-iss-live-peggy-whitson-jack-fischer",
+                            "parsely-image-url": "https://cdn.vox-cdn.com/thumbor/b88K6herjuSeu-PytISvtaCDdgQ=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn0.vox-cdn.com/uploads/chorus_asset/file/6262893/NASA_spacewalk_Scott_Kelly.0.jpg",
+                            "parsely-section": "front-page",
+                            "og:type": "article",
+                            "author": "James Vincent",
+                            "og:title": "Watch two NASA astronauts complete the 200th spacewalk outside the ISS",
+                            "og:image:height": "628",
+                            "parsely-title": "Watch two NASA astronauts complete the 200th spacewalk outside the ISS",
+                            "parsely-pub-date": "2017-05-12T10:41:20.000Z",
+                            "fb:app_id": "549923288395304",
+                            "parsely-tags": "verge,front-page,science,space,nasa",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "og:url": "https://www.theverge.com/2017/5/12/15629362/watch-spacewalk-200th-nasa-iss-live-peggy-whitson-jack-fischer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.vox-cdn.com/thumbor/b88K6herjuSeu-PytISvtaCDdgQ=/0x0:4928x3280/1200x628/filters:focal(2464x1640:2465x1641)/cdn0.vox-cdn.com/uploads/chorus_asset/file/6262893/NASA_spacewalk_Scott_Kelly.0.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\nMenu\n*   /\n*   /\n*   \nWatch two NASA astronauts complete the 200th spacewalk outside the ISS\n======================================================================\nWatch two NASA astronauts complete the 200th spacewalk outside the ISS\n======================================================================\n/\nA landmark spacewalk to carry out some necessary repairs\n--------------------------------------------------------\nBy , a senior reporter who has covered AI, robotics, and more for eight years at The Verge.\nMay 12, 2017, 10:41 AM UTC\nShare this story\n----------------\n0 Comments / 0 New\nToday, NASA astronauts Peggy Whitson and Jack Fischer will perform the 200th spacewalk outside the International Space Station (ISS). Live coverage of the milestone event will begin in the stream above around 6:30AM ET, with the spacewalk itself scheduled to start 8AM and continue for six and a half hours.\nFor Fischer (wearing the space suit with no stripes), it will be a new experience — it’s his first ever spacewalk. But for Whitson, the commander on the current (and 51st) expedition to the ISS, it’ll be a familiar job. She holds the record for the most spacewalks by a female US astronaut, and today’s outing will be her ninth. The 57-year-old Whitson has also spent more days off the planet than any other woman (more than 500 days in total) and will be recognizable by the red stripes on her space suit.\nThe pair have a few different repairs to carry out while trussed to the exterior of the ISS. These include replacing a large avionics box that supplies electricity and data connections for various onboard science experiments, and installing a fabric shield designed to protect against micrometeorites on one of the spacecraft’s pressurized mating adapters. These adapters help connect different modules of the ISS. The one being worked on today, PMA-3, is currently installed on the Harmony module, where it will be used to host a new docking port for commercial crewed spacecraft arriving at the ISS.\nFor Whiston, today’s spacewalk also involves a little bit of unfinished business, albeit of the rather unglamorous kind. The fabric shield she and Fischer will be installing is a replacement for one that Whitson . The shield is about two inches thick and measures about five feet by two feet. It’s part of an array of measures that protect the ISS against space debris, ensuring that the events of 2013 film _Gravity_ don’t play out in real life.\n0 Comments / 0 New\nMost Popular\nMost Popular\n1....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "NASA TV Coverage Set for 200th Spacewalk at International Space ...",
+                "htmlTitle": "<b>NASA</b> TV Coverage Set for 200th <b>Spacewalk</b> at International Space ...",
+                "link": "https://www.nasa.gov/news-release/nasa-tv-coverage-set-for-200th-spacewalk-at-international-space-station/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "May 9, 2017 ... NASA astronauts Peggy Whitson and Flight Engineer Jack Fischer will perform a landmark 200th spacewalk at the International Space Station Friday, May 12.",
+                "htmlSnippet": "May 9, 2017 <b>...</b> <b>NASA astronauts</b> Peggy Whitson and Flight Engineer <b>Jack Fischer</b> will perform a landmark 200th <b>spacewalk</b> at the International Space Station Friday, May 12.",
+                "formattedUrl": "https://www.nasa.gov/.../nasa-tv-coverage-set-for-200th-spacewalk-at-inter...",
+                "htmlFormattedUrl": "https://www.<b>nasa</b>.gov/.../<b>nasa</b>-tv-coverage-set-for-200th-<b>spacewalk</b>-at-inter...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrgBQQQFeinWIshucy7v9_dk-LJQY_-1PswAK642V6CEpV2TS3_eoZpxi-&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2017/04/whitson-spacewalk.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "press-release",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "NASA",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "NASA astronauts Peggy Whitson and Flight Engineer Jack Fischer will perform a landmark 200th spacewalk at the International Space Station Friday, May 12. Live",
+                            "searchgov_custom1": "1::55396",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2017/04/whitson-spacewalk.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2017/04/whitson-spacewalk.jpg",
+                            "parsely-type": "post",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/news-release/nasa-tv-coverage-set-for-200th-spacewalk-at-international-space-station/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2017/04/whitson-spacewalk.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "Missions",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "article:section": "Expedition 51",
+                            "og:image:alt": "NASA astronaut Peggy Whitson holds the record for most spacewalks conducted by a female astronaut.",
+                            "twitter:title": "NASA TV Coverage Set for 200th Spacewalk at International Space Station - NASA",
+                            "og:title": "NASA TV Coverage Set for 200th Spacewalk at International Space Station - NASA",
+                            "og:image:height": "682",
+                            "og:updated_time": "2023-07-26T14:55:04-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "NASA TV Coverage Set for 200th Spacewalk at International Space Station",
+                            "parsely-pub-date": "2017-05-09T21:12:00Z",
+                            "parsely-tags": "NASA Centers & Facilities,NASA Headquarters,Expedition 51,Humans in Space,International Space Station (ISS),Johnson Space Center",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "NASA astronauts Peggy Whitson and Flight Engineer Jack Fischer will perform a landmark 200th spacewalk at the International Space Station Friday, May 12. Live",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/news-release/nasa-tv-coverage-set-for-200th-spacewalk-at-international-space-station/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2017/04/whitson-spacewalk.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... read ### Three NASA Interns Expand Classroom Access to NASA Data article 1 week ago]\n### Featured\n 4 min read ### NASA Johnson Dedicates Dorothy Vaughan Center to Women of Apollo article 17 hours ago] 3 min read ### NASA’s First-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan article 3 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana article 19 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\n2 min read\nNASA TV Coverage Set for 200th Spacewalk at International Space Station\n=======================================================================\n!\n### NASA\nMay 09, 2017\nMEDIA ADVISORYM17-052\n*   \n*   \n*   \n*   \n]\nNASA astronaut Peggy Whitson is seen during a Jan. 6, 2017, spacewalk during Expedition 50 aboard the International Space Station. **Credits: NASA**\nNASA astronauts Peggy Whitson and Flight Engineer Jack Fischer will perform a landmark 200th spacewalk at the International Space Station Friday, May 12. Live coverage will begin at 6:30 a.m. EDT on NASA Television and the agency’s .\nWhitson, Expedition 51 commander, and Fischer will venture outside the Quest airlock to replace a large avionics box that supplies electricity and data connections to the science experiments, and replacement hardware stored outside the station.\nThe ExPRESS Carrier Avionics, or ExPCA is located on the starboard 3 truss of the station on one of the depots housing critical spare parts. It will be replaced with a unit delivered to the station last month aboard the Orbital ATK Cygnus cargo spacecraft.\nIn addition, Whitson and Fischer will install a connector that will route data to the  and help the crew determine the most efficient way to conduct future maintenance on cosmic ray detector.\nDuring the planned 6.5-hour spacewalk, the astronauts also will install a protective shield on the Pressurized Mating Adapter-3, which was moved from the Tranquility to the Harmony module in March. This adapter will host a new international docking port for the arrival of commercial crew spacecraft. Whitson and Fischer also will rig a new high-definition camera and pair of wireless antennas to the exterior of the outpost.\nWhit...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Retired NASA astronaut Jack Fischer talks spacesuit challenges and ...",
+                "htmlTitle": "Retired <b>NASA astronaut Jack Fischer</b> talks spacesuit challenges and ...",
+                "link": "https://www.space.com/jack-fischer-virtual-astronaut-series",
+                "displayLink": "www.space.com",
+                "snippet": "Oct 30, 2020 ... Pesquet, a European Space Agency astronaut, was the intravehicular crew member who assisted the spacewalking astronauts with everything EVA- ...",
+                "htmlSnippet": "Oct 30, 2020 <b>...</b> Pesquet, a European Space Agency <b>astronaut</b>, was the intravehicular crew member who assisted the <b>spacewalking astronauts</b> with everything EVA-&nbsp;...",
+                "formattedUrl": "https://www.space.com/jack-fischer-virtual-astronaut-series",
+                "htmlFormattedUrl": "https://www.space.com/<b>jack</b>-<b>fischer</b>-virtual-astronaut-series",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQl4ZPsKzLTZyrHYKPLlR167M1j4WFV5YrDe1-E_HITwJvTzz9oKJcplY&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "copyrightholder": "(Image credit: NASA)",
+                            "width": "338",
+                            "caption": "NASA astronaut Jack Fischer gives a thumbs-up sign while wearing an extravehicular mobility unit (EMU) spacesuit ahead of a May 12, 2017 spacewalk at the International Space Station. (Image...",
+                            "description": "NASA astronaut Jack Fischer gives a thumbs-up sign while wearing an extravehicular mobility unit (EMU) spacesuit ahead of a May 12, 2017 spacewalk at the International Space Station. (Image...",
+                            "url": "https://cdn.mos.cms.futurecdn.net/uE7AcSAdstZNgB8NJ8xFie.jpg",
+                            "height": "600"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "6873911a0960244b0806d7a9a2aba69b",
+                            "og:image": "https://cdn.mos.cms.futurecdn.net/uE7AcSAdstZNgB8NJ8xFie-1200-80.jpg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2020-10-29T11:43:51Z",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#3669c9",
+                            "og:site_name": "Space.com",
+                            "taboola:url": "https://www.space.com/jack-fischer-virtual-astronaut-series",
+                            "parsely-author": "Elizabeth Howell",
+                            "msapplication-tileimage": "https://vanilla.futurecdn.net/space/1016505/apple-touch-icon.png",
+                            "twitter:creator": "@SPACEdotcom",
+                            "article:publisher": "https://www.facebook.com/spacecom",
+                            "twitter:image": "https://cdn.mos.cms.futurecdn.net/uE7AcSAdstZNgB8NJ8xFie-1200-80.jpg",
+                            "pub_date": "2020-10-29T11:43:51+00:00",
+                            "parsely-type": "post",
+                            "twitter:site": "@SPACEdotcom",
+                            "article:modified_time": "2020-10-30T15:31:32.550Z",
+                            "parsely-link": "https://www.space.com/jack-fischer-virtual-astronaut-series",
+                            "parsely-image-url": "https://cdn.mos.cms.futurecdn.net/uE7AcSAdstZNgB8NJ8xFie.jpg",
+                            "parsely-section": "International Space Station",
+                            "twitter:account_id": "9696142",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "twitter:title": "Astronaut Jack Fischer talks spacesuit challenges and the International Space Station in 'Virtual Astronaut' panel",
+                            "parsely-post-id": "mWsdTh4dbL8SjWeL9JRKTf",
+                            "msvalidate.01": "CC462E6DF91492086145CA5EBDCB615E",
+                            "og:title": "Astronaut Jack Fischer talks spacesuit challenges and the International Space Station in 'Virtual Astronaut' panel",
+                            "parsely-title": "Astronaut Jack Fischer talks spacesuit challenges and the International Space Station in 'Virtual Astronaut' panel",
+                            "parsely-pub-date": "2020-10-29T11:43:51Z",
+                            "parsely-tags": "Category: International Space Station,Category: Space Exploration,Category: Missions,Category: Other,Category: News,jack fischer,virtual astronaut,nasa,type_news,channel_other,syndicate,serversidehawk,videoarticle",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.space.com/jack-fischer-virtual-astronaut-series"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.mos.cms.futurecdn.net/uE7AcSAdstZNgB8NJ8xFie-1200-80.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.space.com/jack-fischer-virtual-astronaut-series: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.space.com/jack-fischer-virtual-astronaut-series",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Briefing, NASA Television Coverage Set for Upcoming US Spacewalks",
+                "htmlTitle": "Briefing, <b>NASA</b> Television Coverage Set for Upcoming US <b>Spacewalks</b>",
+                "link": "https://www.nasa.gov/news-release/briefing-nasa-television-coverage-set-for-upcoming-us-spacewalks/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "Sep 28, 2017 ... Vande Hei will be conducting his first two spacewalks. For more information about the International Space Station and its crew, visit: https:// ...",
+                "htmlSnippet": "Sep 28, 2017 <b>...</b> Vande Hei will be conducting his first two <b>spacewalks</b>. For more <b>information</b> about the International Space Station and its crew, visit: https://&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/.../briefing-nasa-television-coverage-set-for-upcomin...",
+                "htmlFormattedUrl": "https://www.<b>nasa</b>.gov/.../briefing-<b>nasa</b>-television-coverage-set-for-upcomin...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEK2Bk_T4lB_CnjMAJr77fHS2ArJx-0BE0PMyAOlGuTnfKBv9YrARmXrf&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2017/09/fischer-spacewalk.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "press-release",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "NASA",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "Three American astronauts aboard the International Space Station will embark on a trio of spacewalks in October to perform station maintenance. NASA",
+                            "searchgov_custom1": "1::51310",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2017/09/fischer-spacewalk.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2017/09/fischer-spacewalk.jpg",
+                            "parsely-type": "post",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/news-release/briefing-nasa-television-coverage-set-for-upcoming-us-spacewalks/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2017/09/fischer-spacewalk.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "Missions",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "article:section": "Expedition 53",
+                            "og:image:alt": "In this May 2017 photo, NASA astronaut Jack Fischer works outside the U.S. Destiny laboratory module of the space station.",
+                            "twitter:title": "Briefing, NASA Television Coverage Set for Upcoming US Spacewalks - NASA",
+                            "og:title": "Briefing, NASA Television Coverage Set for Upcoming US Spacewalks - NASA",
+                            "og:image:height": "681",
+                            "og:updated_time": "2023-07-26T15:01:31-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "Briefing, NASA Television Coverage Set for Upcoming US Spacewalks",
+                            "parsely-pub-date": "2017-09-28T18:06:00Z",
+                            "parsely-tags": "NASA Centers & Facilities,NASA Headquarters,Expedition 53,International Space Station (ISS),Johnson Space Center",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Three American astronauts aboard the International Space Station will embark on a trio of spacewalks in October to perform station maintenance. NASA",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/news-release/briefing-nasa-television-coverage-set-for-upcoming-us-spacewalks/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2017/09/fischer-spacewalk.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...05 a.m., however, the spacewalks may begin earlier if the crew is running ahead of schedule.\nU.S. media may attend the preview briefing at Johnson and other participating NASA centers, and must request credentials in advance. Media interested in participating by telephone must call the Johnson newsroom at 281-483-5111 no later than 1:45 p.m. on the day of the briefing.\nExpedition 53 Commander Randy Bresnik of NASA will lead all three spacewalks, joined on Oct. 5 and 10 by Flight Engineer Mark Vande Hei, also of NASA. Flight Engineer Joe Acaba of NASA will join Bresnik on Oct. 18 for the third spacewalk.\nDuring the first spacewalk, Bresnik and Vande Hei will replace one of two Latching End Effectors (LEE) on the station’s robotic arm, Canadarm2. One of the Canadarm2 grappling mechanisms experienced a stall of its motorized latches last month, but the problem has had no effect on planned station operations. A spare LEE is stored outside on the station’s truss. Canadarm2 has two identical Latching End Effectors used to grapple visiting cargo vehicles and payloads, provide data and telemetry to the rest of the Canadian-built Mobile Base System and the unique capability to “walk” from one location on the station’s truss to another.\nThe second and third spacewalks will be devoted to lubricating the newly replaced Canadarm2 end effector and replacing cameras on the left side of the station’s truss and the right side of the station’s U.S. Destiny laboratory.\nThe spacewalks will be the third, fourth and fifth of Bresnik’s career and the third for Acaba. Vande Hei will be conducting his first two spacewalks.\nFor more information about the International Space Station and its crew, visit:\nhttps://www.nasa.gov/station\n\\-end-\nTabatha Thompson  \nHeadquarters, Washington  \n202-358-1100  \ntabatha.t.thompson@nasa.gov  \nKelly Humphries  \nJohnson Space Center, Houston  \n281-483-5111  \nkelly.o.humphries@nasa.gov\n!\n### National Aeronautics and Space Administration\nNASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Astronauts Talk Spacewalks Live!",
+                "htmlTitle": "<b>Astronauts</b> Talk <b>Spacewalks</b> Live!",
+                "link": "https://www.issnationallab.org/what-is-a-spacewalk-really-like/",
+                "displayLink": "www.issnationallab.org",
+                "snippet": "Feb 19, 2018 ... NASA astronauts Randy Bresnik and Jack Fischer have completed seven spacewalks. They'll talk about them on Facebook Live on Feb.",
+                "htmlSnippet": "Feb 19, 2018 <b>...</b> <b>NASA astronauts</b> Randy Bresnik and <b>Jack Fischer</b> have completed seven <b>spacewalks</b>. They&#39;ll talk about them on Facebook Live on Feb.",
+                "formattedUrl": "https://www.issnationallab.org/what-is-a-spacewalk-really-like/",
+                "htmlFormattedUrl": "https://www.issnationallab.org/what-is-a-<b>spacewalk</b>-really-like/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTMqiCU8PWQUCu2FTFHiwzD-c4wzXRZh_nH0aQWF8Bra_PzHYfOn1PWUw&s",
+                            "width": "298",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.issnationallab.org/wp-content/uploads/spacewalking-astronaut.jpg",
+                            "og:image:width": "900",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "What is a Spacewalk Really Like?",
+                            "twitter:url": "https://www.issnationallab.org/what-is-a-spacewalk-really-like/",
+                            "og:title": "What is a Spacewalk Really Like?",
+                            "og:image:height": "510",
+                            "og:description": "Between the two of them, NASA astronauts Randy Bresnik and Jack Fischer have completed seven spacewalks lasting nearly 40 hours. Did you ever wonder what it is really like to",
+                            "twitter:image": "https://www.issnationallab.org/wp-content/uploads/spacewalking-astronaut.jpg",
+                            "facebook-domain-verification": "6wwqqevippglm07adae92i3k0umm0v",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Between the two of them, NASA astronauts Randy Bresnik and Jack Fischer have completed seven spacewalks lasting nearly 40 hours. Did you ever wonder what it is really like to",
+                            "og:url": "https://www.issnationallab.org/what-is-a-spacewalk-really-like/"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "text": "Between the two of them, NASA astronauts Randy Bresnik and Jack Fischer have completed seven spacewalks lasting nearly 40 hours. Did you ever wonder what it is really like to “walk” outside...",
+                            "headline": "What is a Spacewalk Really Like?",
+                            "datepublished": "2018-02-19T11:34:26-05:00"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.issnationallab.org/wp-content/uploads/spacewalking-astronaut.jpg"
+                        }
+                    ],
+                    "wpheader": [
+                        {
+                            "headline": "ISS National Laboratory"
+                        }
+                    ],
+                    "searchaction": [
+                        {
+                            "query-input": "name=s",
+                            "target": "https://www.issnationallab.org/?s={s}"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   *   \n                *   \n                *   \n                *   \n            *   \n*   Partnerships\n    *   *   *   \n            *   \n            *   \n        *   *   \n            *   \n            *   \n            *   \n        *   *   \n            *   \n            *   \n*   Research\n    *   *   *   \n                *   \n                *   \n            *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n        *   *   \n                *   \n                *   \n                *   \n                *   \n            *   \n        *   *   \n            *   \n            *   \n                *   \n                *   \n            *   \n            *   \n*   Education\n    *   *   *   \n                *   \n            *   \n            *   \n                *   \n                *   \n        *   *   \n                *   \n                    *   \n                    *   \n                    *   \n                *   \n                *   \n        *   *   \n                *   \n                *   \n                *   \n                *   \n                *   \n                *   \n*   Media & Events\n    *   *   *   \n            *   \n            *   \n        *   *   \n            *   \n            *   \n            *   \n        *   *   \n            *   \n                *   \n                *   \n*   Connect\n    *   *   *   \n            *   \n                *   \n                *   \n                *   \n        *   *   \n        *   *   \n                *   \n                *   \n                *   \n                *   \n                *   \n*   \n*   \n-------------------------------------------------------------------\n]\nMedia Credit: Image courtesy of NASA\nWhat is a Spacewalk _Really_ Like?\n==================================\nFebruary 19, 2018\nBetween the two of them, NASA astronauts Randy Bresnik and Jack Fischer have completed seven spacewalks lasting nearly 40 hours. Did you ever wonder what it is really like to “walk” outside the International Space Station as it orbits the Earth? If you do, you could have the opportunity to ask and learn during a Facebook Live on Tuesday, Feb. 20 at 9:00 a.m.\nMore from the ISS National Lab\n------------------------------\n--------------------------------------------------------------------------------------------------------------------------\n]\n----------------------------------------------------------------------------------------------------------------------------------------------\n]\nISS National Lab Missions Flown\n-------------------------------\nFrom the 1st launch back in 2013 to the most recent one, take a look back at all the science that launched to the ISS National Lab!\n]\nResearch Opportunities\n----------------------\nGet details on our current and upcoming research opportunities.\nsidebar\n-------\n*   Connect with Us\n*   \n*   \n*   \n*   \n*   \n*   \n!\n*   \n*   \n*   \n*   \n*   \n*   \n_ISS National Laboratory®_ is a registered trademark of the National Aeronautics and Space Administration (NASA), used with permission. The _ISS National...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "ISS Astronauts Ready for Unplanned Spacewalk ...",
+                "htmlTitle": "ISS <b>Astronauts</b> Ready for Unplanned <b>Spacewalk</b> ...",
+                "link": "https://spacepolicyonline.com/news/iss-astronauts-ready-for-unplanned-spacewalk/",
+                "displayLink": "spacepolicyonline.com",
+                "snippet": "May 22, 2017 ... Posted: May 22, 2017 12:00 am ET | Last Updated: May 23, 2017 12:27 am ET | Learn about NASA astronauts Peggy Whitson and Jack Fischer ...",
+                "htmlSnippet": "May 22, 2017 <b>...</b> Posted: May 22, 2017 12:00 am ET | Last Updated: May 23, 2017 12:27 am ET | Learn about <b>NASA astronauts</b> Peggy Whitson and <b>Jack Fischer</b>&nbsp;...",
+                "formattedUrl": "https://spacepolicyonline.com/.../iss-astronauts-ready-for-unplanned-spacew...",
+                "htmlFormattedUrl": "https://spacepolicyonline.com/.../iss-astronauts-ready-for-unplanned-<b>spacew</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSKZRD1nn6A8NFTX9cvt4yPSjx-24BjrMnb6lvhfALuDMOI83kl4PlFW9V&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width",
+                            "tec-api-origin": "https://spacepolicyonline.com",
+                            "og:title": "ISS Astronauts Ready for Unplanned Spacewalk",
+                            "language": "en-US",
+                            "title": "ISS Astronauts Ready for Unplanned Spacewalk",
+                            "og:url": "https://spacepolicyonline.com/news/iss-astronauts-ready-for-unplanned-spacewalk/",
+                            "og:description": "Posted: May 22, 2017 12:00 am ET | Last Updated: May 23, 2017 12:27 am ET | Learn about NASA astronauts Peggy Whitson and Jack Fischer getting ready for an unplanned spacewalk to replace a failed data relay unit -- a multiplexer-demultiplexer or MDM box -- on the Intermational Space Station in May 2017.",
+                            "tec-api-version": "v1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://spacepolicyonline.com/_images/Whitson%20Fisher%20May%2012%202017%20EVA.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ria currently holds that record at 67 hours 40 minutes.  Russia’s Anatoly Solveyev holds the world record of 82 hours 22 minutes on a total of 16 EVAs throughout his career.\nWhitson will be joined by NASA astronaut Jack Fischer on his second spacewalk.  NASA TV coverage will begin at 6:30 am ET.\nThe failure of the multiplexer-demultiplexer (MDM) box on Saturday was completely unexpected.  The ISS has two redundant MDM units and this one was just replaced on a March 30 spacewalk conducted by Whitson and NASA astronaut Shane Kimbrough.   The data relay box control ISS radiators, solar arrays, cooling loops and other hardware.  The other MDM is working perfectly.  A software problem is thought to be the problem.   Whitson, who is in command of the ISS, prepared and tested a spare MDM box on Sunday.\nOn the March 30 EVA, Whitson set a new EVA duration record for a woman, surpassing NASA astronaut Sunita Williams’ record of 50 hours and 40 minutes.  Whitson extended her record on a May 12 EVA with Fischer.  She now has 57 hours 35 minutes of time on spacewalks.\n!  \n_NASA astronauts Jack Fischer (left)_ _and Peggy Whitson (right)_ _preparing for May 12, 2017 spacewalk from the International Space Station.  Photo credit: NASA_\n##### Last Updated: May 23, 2017 12:27 am ET\n* * *\nUser Comments\n-------------\nSpacePolicyOnline.com has the right (but not the obligation) to monitor the comments and to remove any materials it deems inappropriate.  We do not post comments that include links to other websites since we have no control over that content nor can we verify the security of such links.\n#### Calendar\n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   #### \n*   \n*   \n*   \n### SPACEPOLICYONLINE.COM\n |  | \n © 2017 Space and Technology Policy Group, LLC, All Rights Reserved\nThis website uses cookies to help us give you the best experience when you visit our website. By continuing to use this website...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "200th spacewalk upgrades Alpha Magnetic Spectrometer | CERN",
+                "htmlTitle": "200th <b>spacewalk</b> upgrades Alpha Magnetic Spectrometer | CERN",
+                "link": "https://home.cern/news/news/experiments/200th-spacewalk-upgrades-alpha-magnetic-spectrometer",
+                "displayLink": "home.cern",
+                "snippet": "May 19, 2017 ... On 12 May, Commander Peggy Whitson and Flight Engineer Jack Fischer of NASA conducted the four-hour spacewalk, while ESA astronaut Thomas ...",
+                "htmlSnippet": "May 19, 2017 <b>...</b> On 12 May, Commander Peggy Whitson and Flight Engineer <b>Jack Fischer</b> of <b>NASA</b> conducted the four-hour <b>spacewalk</b>, while ESA <b>astronaut</b> Thomas&nbsp;...",
+                "formattedUrl": "https://home.cern/.../200th-spacewalk-upgrades-alpha-magnetic-spectromet...",
+                "htmlFormattedUrl": "https://home.cern/.../200th-<b>spacewalk</b>-upgrades-alpha-magnetic-spectromet...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZRPH4GtKNNw6NHKdcAgNb8NqpJ0f6JADYJrMvrqAKOsgR0Sa1gvq3xwZ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cds.cern.ch/images//file?size=medium",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "200th spacewalk upgrades Alpha Magnetic Spectrometer",
+                            "og:site_name": "CERN",
+                            "handheldfriendly": "true",
+                            "og:title": "200th spacewalk upgrades Alpha Magnetic Spectrometer",
+                            "og:description": "The 200th spacewalk at the International Space Station (ISS) included a new installation on the Alpha Magnetic Spectrometer (AMS) – a particle-physics detector that was assembled at CERN. On 12 May, Commander Peggy Whitson and Flight Engineer Jack Fischer of NASA conducted the four-hour spacewalk, while ESA astronaut Thomas Pesquet stayed inside the ISS to drive the station arm that positions the two astronauts. One of their tasks involved replacing a cable with a bus terminator – a type of connector – to carry data between AMS and the space shuttle. During the spacewalk, the AMS team stationed at CERN in the experiment’s Payload and Operations Control Centre (POCC), were able to check that the bus terminator was properly functioning. This connection will be used from 2018, when a new thermal cooling system for the AMS silicon tracker is put into place. The AMS cooling pump system was developed by the collaboration at CERN, and a similar system is now also used by some of the LHC experiments to cool",
+                            "twitter:image": "https://cds.cern.ch/images//file?size=medium",
+                            "twitter:site": "@cern",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The 200th spacewalk at the International Space Station (ISS) included a new installation on the Alpha Magnetic Spectrometer (AMS) – a particle-physics detector that was assembled at CERN. On 12 May, Commander Peggy Whitson and Flight Engineer Jack Fischer of NASA conducted the four-hour spacewalk, while ESA astronaut Thomas Pesquet stayed inside the ISS to drive the station arm that positions the two astronauts. One of their tasks involved replacing a cable with a bus terminator – a type of connector – to carry data between AMS and the space shuttle. During the spacewalk, the AMS team stationed at CERN in the experiment’s Payload and Operations Control Centre (POCC), were able to check that the bus terminator was properly functioning. This connection will be used from 2018, when a new thermal cooling system for the AMS silicon tracker is put into place. The AMS cooling pump system was developed by the collaboration at CERN, and a similar system is now also used by some of the LHC experiments to cool",
+                            "mobileoptimized": "width",
+                            "og:url": "https://home.cern/news/news/experiments/200th-spacewalk-upgrades-alpha-magnetic-spectrometer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://home.cern/sites/default/files/2018-06/spacewalk.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    Courier\n    Physics\n    1 July, 2024\n    ### \n    Image\n    Accelerators\n    20 June, 2018\n    ### \n    Brochure\n    Knowledge sharing\n    10 May, 2022\n    *   By Topic\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   By format\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   By audience\n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    E.G. BIRTH OF WEB, LHC PAGE 1, BULLETIN... E.G. BIRTH OF WEB, LHC...\n    Search\n    Search\n*   | en\n    *   *   \n        *   \n* * *\n200th spacewalk upgrades Alpha Magnetic Spectrometer\n====================================================\nThe 200th ISS spacewalk included a new installation on the Alpha Magnetic Spectrometer (AMS)\n19 May, 2017\n|\nBy \n!\nAstronaut Peggy Whitson during the 200th spacewalk from the International Space Station (Image credit: NASA)\nThe 200th spacewalk at the International Space Station (ISS) included a new installation on the Alpha Magnetic Spectrometer () – a particle-physics detector that was assembled at CERN.\nOn 12 May, Commander Peggy Whitson and Flight Engineer Jack Fischer of NASA conducted the four-hour spacewalk, while ESA astronaut Thomas Pesquet stayed inside the ISS to drive the station arm that positions the two astronauts.\nOne of their tasks involved replacing a cable with a bus terminator – a type of connector – to carry data between AMS and the space shuttle. During the spacewalk, the AMS team stationed at CERN in the experiment’s Payload and Operations Control Centre (POCC), were able to check that the bus terminator was properly functioning. This connection will be used from 2018, when a new thermal cooling system for the AMS silicon tracker is put into place.\nThe AMS cooling pump system was developed by the collaboration at CERN, and a similar system is now also used by some of the  to cool their trackers. Despite only needing one pump, AMS was flown to space with four. Now, three of the four pumps are no longer functioning and so multiple spacewalks are planned for 2018 to replace these with a new cooling system, which would extend the life of AMS in space by 12 years.\nAMS was launched in 2011 on the penultimate flight of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Astronauts Restore Space Station to Full Health in Quick Repair ...",
+                "htmlTitle": "<b>Astronauts</b> Restore Space Station to Full Health in Quick Repair ...",
+                "link": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html",
+                "displayLink": "www.space.com",
+                "snippet": "May 23, 2017 ... NASA astronauts sped through an urgent spacewalk this morning (May 23) to replace a malfunctioning computer relay box outside the International Space Station.",
+                "htmlSnippet": "May 23, 2017 <b>...</b> <b>NASA astronauts</b> sped through an urgent <b>spacewalk</b> this morning (May 23) to replace a malfunctioning computer relay box outside the International Space Station.",
+                "formattedUrl": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair...",
+                "htmlFormattedUrl": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGerzxfuzt_f6mSq_DxIBiFMUZI1x5iJNFNyDYYXC7qrHZv_N1bfZ5CuU&s",
+                            "width": "212",
+                            "height": "238"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "copyrightholder": "(Image credit: NASA TV)",
+                            "width": "338",
+                            "caption": "During a spacewalk May 23, NASA astronaut Jack Fischer waved at French astronaut Thomas Pesquet, filming from inside the International Space Station, as Fischer worked to install wireless antennas...",
+                            "description": "During a spacewalk May 23, NASA astronaut Jack Fischer waved at French astronaut Thomas Pesquet, filming from inside the International Space Station, as Fischer worked to install wireless antennas...",
+                            "url": "https://cdn.mos.cms.futurecdn.net/65NhLbrKavxgourwZEWaRc.jpg",
+                            "height": "600"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "6873911a0960244b0806d7a9a2aba69b",
+                            "og:image": "https://cdn.mos.cms.futurecdn.net/DvkRhrTHBy2KcRhqq52M4G-1200-80.jpg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2017-05-23T14:26:19Z",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#3669c9",
+                            "og:site_name": "Space.com",
+                            "taboola:url": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html",
+                            "parsely-author": "Sarah Lewin",
+                            "msapplication-tileimage": "https://vanilla.futurecdn.net/space/1017549/apple-touch-icon.png",
+                            "twitter:creator": "@SPACEdotcom",
+                            "article:publisher": "https://www.facebook.com/spacecom",
+                            "twitter:image": "https://cdn.mos.cms.futurecdn.net/65NhLbrKavxgourwZEWaRc-1200-80.jpg",
+                            "pub_date": "2017-05-23T14:26:19+00:00",
+                            "parsely-type": "post",
+                            "twitter:site": "@SPACEdotcom",
+                            "article:modified_time": "2017-05-23T14:26:19Z",
+                            "parsely-link": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html",
+                            "parsely-image-url": "https://cdn.mos.cms.futurecdn.net/65NhLbrKavxgourwZEWaRc.jpg",
+                            "parsely-section": "International Space Station",
+                            "twitter:account_id": "9696142",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "twitter:title": "Astronauts Restore Space Station to Full Health in Quick Repair Spacewalk",
+                            "parsely-post-id": "SVk3Y2jUbEi3AgcXUkZAUb",
+                            "msvalidate.01": "CC462E6DF91492086145CA5EBDCB615E",
+                            "og:title": "Astronauts Restore Space Station to Full Health in Quick Repair Spacewalk",
+                            "parsely-title": "Astronauts Restore Space Station to Full Health in Quick Repair Spacewalk",
+                            "parsely-pub-date": "2017-05-23T14:26:19Z",
+                            "parsely-tags": "Category: International Space Station,Category: Space Exploration,Category: Missions,Category: News,thomas pesquet,spacewalk,repair,eva,peggy whitson,jack fischer,mdm,space tourism,nasa,serversidehawk,videoarticle",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mos.fie.futurecdn.net/uyhgawbmc02uaww6-16455340654394.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.space.com/36963-astronauts-perform-vital-space-station-repair.html",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Jack Fischer Presentation and Q&A | College of Engineering ...",
+                "htmlTitle": "<b>Jack Fischer</b> Presentation and Q&amp;A | College of Engineering ...",
+                "link": "https://www.colorado.edu/engineering/jack-fischer-presentation-and-qa",
+                "displayLink": "www.colorado.edu",
+                "snippet": "Mar 2, 2018 ... Jack D. Fischer (Colonel, US Air Force) was selected by NASA in July 2009. Having grown up in nearby Louisville, Colorado, Fischer served as a Flight Engineer.",
+                "htmlSnippet": "Mar 2, 2018 <b>...</b> <b>Jack</b> D. <b>Fischer</b> (Colonel, US Air Force) was selected by <b>NASA</b> in July 2009. Having grown up in nearby Louisville, Colorado, <b>Fischer</b> served as a Flight Engineer.",
+                "formattedUrl": "https://www.colorado.edu/engineering/jack-fischer-presentation-and-qa",
+                "htmlFormattedUrl": "https://www.colorado.edu/engineering/<b>jack</b>-<b>fischer</b>-presentation-and-qa",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM8yFdifBD-uVp9OAM5XXPpJAf8qw1UkSsSk25ZRdpsLmvY7aUIxqp7SqU&s",
+                            "width": "377",
+                            "height": "134"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.colorado.edu/engineering/sites/default/files/styles/medium/public/page/jack_fischer2.png?itok=WYrPrx8a",
+                            "og:image:width": "750",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Jack Fischer Presentation and Q&A",
+                            "article:published_time": "2018-02-14T13:41:46-07:00",
+                            "og:site_name": "College of Engineering & Applied Science",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.colorado.edu/engineering/jack-fischer-presentation-and-qa",
+                            "og:title": "Jack Fischer Presentation and Q&A",
+                            "og:image:height": "267",
+                            "og:image:type": "image/png",
+                            "og:updated_time": "2018-02-28T15:49:45-07:00",
+                            "og:description": "Friday, March 2 | 1 p.m.",
+                            "article:modified_time": "2018-02-28T15:49:45-07:00",
+                            "viewport": "width=device-width",
+                            "twitter:description": "Friday, March 2 | 1 p.m.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.colorado.edu/engineering/jack-fischer-presentation-and-qa"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.colorado.edu/engineering/sites/default/files/styles/medium/public/page/jack_fischer2.png?itok=WYrPrx8a"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Jack Fischer Presentation and Q&A | College of Engineering & Applied Science | University of Colorado Boulder\n===============\n]\nSearch\n------\nEnter the terms you wish to search for. \nClose\nCollege of Engineering & Applied Science\nMenu\nMain menu\n---------\n*   \n*   \n*   \n*   \n*   \n*   \nSecondary Menu\n--------------\n*   \n*   \n*   \n*   \n*   \nMobile menu\n-----------\n*   \n*   \n*   \n*   \n*   \n*   \n!\nJack Fischer Presentation and Q&A\n=================================\nFriday, March 2 | 1 p.m. – 2 p.m.\n---------------------------------\n, Main Campus\n------------------------------------------------------------------------------------\n* * *\n### **About Jack Fischer**\nJack D. Fischer (Colonel, U.S. Air Force) was selected by NASA in July 2009. Having grown up in nearby Louisville, Colorado, Fischer served as a Flight Engineer aboard the International Space Station of the Expedition 51/52. During his 2017 mission, he logged 136 days in space with two spacewalks. He holds a Bachelor of Science in Astronautical Engineering from the U.S. Air Force Academy, and a Master of Science in Aeronautics and Astronautics from the Massachusetts Institute of Technology (MIT). Colonel Fischer is an Air Force Command pilot with over 3,000 flight hours in more than 45 types of aircraft. While he was onboard the ISS last year, Colonel Fischer supported and helped operate several experiments from  Space Technologies in the  department.\nJack Fischer RSVP\n-----------------\nRegistration is now closed. Any unfilled seats will be offered to walk-ins 5 minutes before showtime.\n*   \n*   \n*   \n*   \n*   \nDepartments\n-----------\n*   \n*   \n*   \n*   \n*   \n*   \nPrograms\n--------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nAffiliates & Partners\n---------------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nFooter menu\n-----------\n*   \n*   \n*   \n*   \n---------------------------------------------------------------------------------\nPhone: 303-492-5071  \nEmail: \n]\n****  \n© Regents of the University of Colorado  \n •  • ",
+                    "content_tokens": 465
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,640 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Is the Anne Hathaway Jon Stewart joke real?",
+                "totalResults": "1140000",
+                "searchTerms": "Is the Anne Hathaway Jon Stewart joke real?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Is the Anne Hathaway Jon Stewart joke real?",
+                "totalResults": "1140000",
+                "searchTerms": "Is the Anne Hathaway Jon Stewart joke real?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.279904,
+        "formattedSearchTime": "0.28",
+        "totalResults": "1140000",
+        "formattedTotalResults": "1,140,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Jon Stewart and Anne Hathaway Laughing at the Plot of Her Movie ...",
+                "htmlTitle": "<b>Jon Stewart</b> and <b>Anne Hathaway</b> Laughing at the Plot of Her Movie ...",
+                "link": "https://www.vanityfair.com/hollywood/2015/01/anne-hathaway-laughing-the-daily-show",
+                "displayLink": "www.vanityfair.com",
+                "snippet": "Jan 22, 2015 ... Jon Stewart cracked a few jokes about Hathaway's friend Jenny Lewis and her band Rilo Kiley. Hathaway gently mocked her own singing in her ...",
+                "htmlSnippet": "Jan 22, 2015 <b>...</b> <b>Jon Stewart</b> cracked a few <b>jokes</b> about <b>Hathaway&#39;s</b> friend Jenny Lewis and her band Rilo Kiley. <b>Hathaway</b> gently mocked her own singing in her&nbsp;...",
+                "formattedUrl": "https://www.vanityfair.com/.../01/anne-hathaway-laughing-the-daily-show",
+                "htmlFormattedUrl": "https://www.vanityfair.com/.../01/<b>anne</b>-<b>hathaway</b>-laughing-the-daily-show",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVOoRvkvdweBpzg7lHCZHnKELmEAEcNguwfykE8i-YG_zkno4XZNB-HA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/16:9/w_1280,c_limit/anne-hathaway-laughing-daily-show.png",
+                            "copyright": "Copyright (c) Condé Nast 2024",
+                            "article:published_time": "2015-01-22T08:32:05.392Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Vanity Fair",
+                            "parsely-metadata": "{\"description\":\"The rest of the interview is totally derailed by uncontrollable laughter from Stewart and Hathaway.\",\"image-16-9\":\"https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/16:9/w_1000,c_limit/anne-hathaway-laughing-daily-show.png\",\"image-1-1\":\"https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/1:1/w_1000,c_limit/anne-hathaway-laughing-daily-show.png\"}",
+                            "og:description": "The rest of the interview is totally derailed by uncontrollable laughter from Stewart and Hathaway.",
+                            "twitter:creator": "@VanityFair",
+                            "twitter:image": "https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/16:9/w_1280,c_limit/anne-hathaway-laughing-daily-show.png?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@VanityFair",
+                            "article:modified_time": "2015-01-22T08:32:05.392Z",
+                            "news_keywords": "anne hathaway,jon stewart,the daily show",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "54c0adb7e9008ac637167761",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "Watch Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie",
+                            "parsely-post-id": "54c0adb7e9008ac637167761",
+                            "twitter:domain": "https://www.vanityfair.com",
+                            "pinterest:image": "https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/2:3/w_1000,h_1500,c_limit/anne-hathaway-laughing-daily-show.png",
+                            "author": "Condé Nast",
+                            "og:title": "Watch Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie",
+                            "fb:pages": "8810407571",
+                            "article:author": "Joanna Robinson",
+                            "fb:app_id": "256281040558",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The rest of the interview is totally derailed by uncontrollable laughter from Stewart and Hathaway.",
+                            "og:url": "https://www.vanityfair.com/hollywood/2015/01/anne-hathaway-laughing-the-daily-show",
+                            "google-signin-client_id": "1065629119444-svrqo31taikd2j0ji4dgjs9q3vul4133.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.vanityfair.com/photos/54c0b2d89438bf65466dec5e/16:9/w_1280,c_limit/anne-hathaway-laughing-daily-show.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Watch Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie\n----------------------------------------------------------------------------------------------------\n**Anne Hathaway’s** interview on _The Daily Show_ last night started innocently enough. **Jon Stewart** cracked a few jokes about  and her band Rilo Kiley. Hathaway gently mocked her own singing in her latest film, . But then the evening took a sharp turn. When Hathaway finished describing the plot of her latest film, she and Stewart both dissolved into uncontrollable laughter. In their defense, the plot description starts with a Ph.D. student in Morocco and ends with a teenager in a coma. Sometimes all you can do is laugh.\nWatching it again, it looks like there _might_ be an edit between the end of Hathaway’s description and when Stewart loses it. (There’s a more obvious edit later in the segment.) But not knowing whether we’re in on the whole joke doesn’t make the derailing of this interview (the giggles continue throughout) any less enjoyable.\n### Hollywood Daily\nFilm, TV, and entertainment industry news. Plus, every Friday, a special Awards Insider edition.\nRead More\nFor the first _Daily Show_ episode since the attempt on Trump’s life, Stewart invited an old sparring partner back into the ring to discuss this “terrible fucking week.”\nIn an excerpt from his new memoir, the director of _Crazy Rich Asians_ and _Wicked_ remembers the shock and awe.\nBy Jon M. Chu with Jeremy McCarter...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Can't Stop Laughing About How Serious Her New ...",
+                "htmlTitle": "<b>Anne Hathaway</b> Can&#39;t Stop Laughing About How Serious Her New ...",
+                "link": "https://www.vulture.com/2015/01/anne-hathaway-jon-stewart-cannot-stop-giggling.html",
+                "displayLink": "www.vulture.com",
+                "snippet": "Jan 22, 2015 ... ... Jokes. Last night on The Daily Show, Anne Hathaway and Jon Stewart got a true case of the giggles. You've been there: Something happens, and ...",
+                "htmlSnippet": "Jan 22, 2015 <b>...</b> ... <b>Jokes</b>. Last night on The <b>Daily Show</b>, <b>Anne Hathaway</b> and <b>Jon Stewart</b> got a <b>true</b> case of the giggles. You&#39;ve been there: Something happens, and&nbsp;...",
+                "formattedUrl": "https://www.vulture.com/.../anne-hathaway-jon-stewart-cannot-stop-gigglin...",
+                "htmlFormattedUrl": "https://www.vulture.com/.../<b>anne</b>-<b>hathaway</b>-<b>jon</b>-<b>stewart</b>-cannot-stop-gigglin...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVBx-aKUn6OEjiAmCaOH_I7JTP3TkHivaBP9del04z0xzo9C4943mol9zq&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Vulture",
+                            "msapplication-tilecolor": "#00bcf1",
+                            "og:image": "https://pyxis.nymag.com/v1/imgs/184/6b4/23a96d3631e683d85735664f9c356cb0db-22-anne-hathaway-jon-stewart.1x.rsocial.w1200.jpg",
+                            "twitter:title": "Anne Hathaway Can’t Stop Laughing About How Serious Her New Movie Is; Charms Jon Stewart, the World",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "sailthru.tags": "last night on late night, the daily show, anne hathaway, tv",
+                            "og:site_name": "Vulture",
+                            "og:title": "Anne Hathaway Can’t Stop Laughing About How Serious Her New Movie Is; Charms Jon Stewart, the World",
+                            "apple-mobile-web-app-title": "Vulture",
+                            "vertical": "Vulture",
+                            "type": "Article",
+                            "msapplication-tileimage": "https://assets.vulture.com/media/sites/vulture/icon.144x144.png",
+                            "og:description": "Be endeared.",
+                            "twitter:image": "https://pyxis.nymag.com/v1/imgs/184/6b4/23a96d3631e683d85735664f9c356cb0db-22-anne-hathaway-jon-stewart.2x.rsocial.w600.jpg",
+                            "article:publisher": "https://www.facebook.com/Vulture",
+                            "sectionoverride": "Vulture",
+                            "article:tag": "last night on late night, the daily show, anne hathaway, tv",
+                            "parsely-tags": "last night on late night, the daily show, anne hathaway, tv, featuretype:feature",
+                            "fb:app_id": "158902697551841",
+                            "twitter:site": "@vulture",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Be endeared.",
+                            "og:url": "https://www.vulture.com/2015/01/anne-hathaway-jon-stewart-cannot-stop-giggling.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pyxis.nymag.com/v1/imgs/184/6b4/23a96d3631e683d85735664f9c356cb0db-22-anne-hathaway-jon-stewart.1x.rsocial.w1200.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nLike Us Follow Us Follow Us\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nAnne Hathaway Can’t Stop Laughing About How Serious Her New Movie Is; Charms Jon Stewart, the World\nSearch\n------ \nThings you buy through our links may earn _Vox Media_ a commission.\n Jan. 22, 2015\nAnne Hathaway Can’t Stop Laughing About How Serious Her New Movie Is; Charms Jon Stewart, the World\n===================================================================================================\n]\nBy , a Vulture writer and host of Good One: A Podcast About Jokes\nLast night on _The Daily Show_, Anne Hathaway and Jon Stewart got a true case of the giggles. You’ve been there: _Something_ happens, and for some reason, it is the funniest possible thing, so you laugh, and then the fact that you laugh makes you laugh more, and you literally cannot stop yourself. In this case, it was all set off by how incredibly serious Hathaway’s new movie, _Song One_, sounds, and how casually she describes the plot to Jon. This proves that anything can be funny if you say it over and over again, even if it’s describing your brother getting into a car accident and falling into a coma.\n### Tags:\n*   \n*   \n*   \n*   \nAnne Hathaway & Jon Stewart Cannot Stop Giggling\n!\nThings you buy through our links may earn _Vox Media_ a commission.\n### Most Viewed Stories\n1.  \n2.  \n3.  \n4.  \n5.   \n1.  \n2.   \n3.  \n4.  \n5.  \n### Editor’s Picks\n*    olympics 2024 Unpacking the Gender Panic in Olympic Women’s Boxing Unpacking the Gender Panic in Olympic Women’s Boxing]\n*    stop the presses Everybody Is Mad at Bloomberg for Its Embargo-Breaking Gershkovich Scoop Everybody Is Mad at Bloomberg for Its Gershkovich Scoop]\n*    bucket wars The War of the Popcorn Buckets Is Just Getting Started The War of the Popcorn Buckets Is Just Getting Started]\nSign In to Comment\n### Most Popular\n1.  \n2.  \n3.  \n4.  \n5.   \n1.  \n2.   \n3.  \n4.  \n5.  \n### Latest News from Vulture\n]     ]     ]     ]    ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Is the Anne Hathaway 6.9 joke video real? Viral clip ...",
+                "htmlTitle": "Fact Check: <b>Is the Anne Hathaway</b> 6.9 <b>joke</b> video <b>real</b>? Viral clip ...",
+                "link": "https://www.sportskeeda.com/pop-culture/news-fact-check-is-anne-hathaway-6-9-joke-video-real-viral-clip-debunked",
+                "displayLink": "www.sportskeeda.com",
+                "snippet": "Aug 7, 2023 ... For those unaware the viral clip, which is being used as a deepfake, of Anne Hathaway laughing with host Jon Stewart is from her visit to the ...",
+                "htmlSnippet": "Aug 7, 2023 <b>...</b> For those unaware the viral clip, which is being used as a deepfake, of <b>Anne Hathaway</b> laughing with host <b>Jon Stewart</b> is from her visit to the&nbsp;...",
+                "formattedUrl": "https://www.sportskeeda.com/.../news-fact-check-is-anne-hathaway-6-9-jok...",
+                "htmlFormattedUrl": "https://www.sportskeeda.com/.../news-fact-check-is-<b>anne</b>-<b>hathaway</b>-6-9-<b>jok</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNUXmx_h0HMh2k579bFo8IVpIHI-9d0LBebMRGCZhgLAxPjYzGM6BrxSc&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://staticg.sportskeeda.com/editor/2023/08/b25c5-16914195497730-1920.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: Is the Anne Hathaway 6.9 joke video real? Viral clip debunked",
+                            "article:published_time": "2023-08-07T15:32:30+00:00",
+                            "author": "Deeksha",
+                            "og:title": "Fact Check: Is the Anne Hathaway 6.9 joke video real? Viral clip debunked",
+                            "google": "notranslate",
+                            "fb:pages": "116151972998",
+                            "og:description": "A video of actor Anne Hathaway laughing at an inappropriate joke is doing its rounds online.",
+                            "twitter:image": "https://staticg.sportskeeda.com/editor/2023/08/b25c5-16914195497730-1920.jpg",
+                            "fb:app_id": "394687130715834",
+                            "article:modified_time": "2023-08-07T15:32:30+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                            "news_keywords": "Anne Hathaway, Anne Hathaway 6.9 joke, what is Anne Hathaway 6.9 joke",
+                            "twitter:description": "A video of actor Anne Hathaway laughing at an inappropriate joke is doing its rounds online.",
+                            "fb:admins": "603431824",
+                            "og:url": "https://www.sportskeeda.com/pop-culture/news-fact-check-is-anne-hathaway-6-9-joke-video-real-viral-clip-debunked"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://staticg.sportskeeda.com/editor/2023/08/b25c5-16914195497730-1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... !(blob:https://www.sportskeeda.com/d5e6f9f9ba4ec244147bb96406df9788) 0 Discuss\n ! 0 Discuss\n!\n!\nWhat's your opinion?\nFact Check: Is the Anne Hathaway 6.9 joke video real? Viral clip debunked\nDiscuss Now\n!\n!\nIs the Anne Hathaway 6.9 joke video real? Viral clip debunked (Image via Getty Images)\n ! \nA video of actor Anne Hathaway laughing at an inappropriate joke is doing its rounds online. In the viral clip, Hathaway was seen talking to American TV host Jon Stewart and she asks him the double entendre joke and then gives the answer herself. However, the clip that is garnering massive attention online is a deepfake video and was created by the use of Artificial Technology.\nThe viral clip of Hathaway cracking the joke has made several people believe that she did in fact crack the joke on The Daily Show. The video is currently being circulated on social media platforms like Youtube, Instagram, and TikTok and it has managed to amass millions of views.\n!\nFor those unaware the viral clip, which is being used as a deepfake, of Anne Hathaway laughing with host Jon Stewart is from her visit to the show back in 2015.\n* * *\nAnne Hathaway 6.9 joke video is not real and was created by the use of AI\n-------------------------------------------------------------------------\nAs internet users came across the viral clip of Anne Hathaway cracking the joke, they started sharing hilarious reactions and fell for the fake video too. However, according to _HITC_, this viral clip was created using advanced AI technology in which they copied Hathaway's voice and edited her face to make it seem as if the video is real.\nExpand Tweet\n> \nExpand Tweet\nIt is worth noting that this deepfake video used a clip from 2015 when Anne appeared on The Daily Show. During the show, she was talking about her then-latest movie, _Song One_, and laughed about it.\n!\nIn the original clip of The Daily Show, she talked about the plot of the movie _Song One_. She said,\n> “And then her little brother who’s 19 calls her up and says ‘I’m dropping out of college’ to become a musician. And she doesn’t react very well and they haven’t spoken for six months and then he gets hit by a car and is in a coma.”\nAs Anne Hathaway says this, she started laughing at it and Jon Stewart joins in. They  Hathaway's statement for about seven minutes and then...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Is the Anne Hathaway 6.9 joke real? | indy100",
+                "htmlTitle": "<b>Is the Anne Hathaway</b> 6.9 <b>joke real</b>? | indy100",
+                "link": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                "displayLink": "www.indy100.com",
+                "snippet": "Aug 8, 2023 ... A viral TikTok of Anne Hathaway making a 6.9 joke during an appearance on 'The Daily Show' with Jon Stewart is actually fake and uses AI ...",
+                "htmlSnippet": "Aug 8, 2023 <b>...</b> A viral TikTok of <b>Anne Hathaway</b> making a 6.9 <b>joke</b> during an appearance on &#39;The <b>Daily Show</b>&#39; with <b>Jon Stewart</b> is actually fake and uses AI&nbsp;...",
+                "formattedUrl": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                "htmlFormattedUrl": "https://www.indy100.com/tiktok/<b>anne</b>-<b>hathaway</b>-69-<b>joke</b>-fake",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgijPLaruSoGSyEHxYsb5t55ZHsDcPqQro1628Cx5-gWyajPngkZBKOgMY&s",
+                            "width": "318",
+                            "height": "158"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "theme-color": "#647187",
+                            "article:published_time": "2023-08-08T08:58:55+00:00",
+                            "og:site_name": "indy100",
+                            "article:image_count": "0",
+                            "og:description": "There is a clip on TikTok making the rounds of Anne Hathaway sharing a 6.9 joke - however, the video is fake.Due to artificial intelligence, the video appears realistic as it eerily portrays the voice of the Princess Diaries actor.In the clip, Hathaway is a guest on The Daily Show and is chatting to...",
+                            "twitter:image": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4",
+                            "twitter:site": "@",
+                            "article:modified_time": "2023-08-08T08:58:55+00:00",
+                            "article:author_name": "Sinead Butler",
+                            "og:type": "article",
+                            "article:section": "TikTok",
+                            "article:word_count": "394",
+                            "article:video_count": "1",
+                            "og:title": "Is the Anne Hathaway 6.9 joke real?",
+                            "og:image:height": "600",
+                            "fb:pages": "500624210050210",
+                            "article:author": "https://www.facebook.com/500624210050210",
+                            "article:tag": "the daily show",
+                            "referrer": "always",
+                            "fb:app_id": "774315275936299",
+                            "article:content_type": "story",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0",
+                            "og:url": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Is the Anne Hathaway 6.9 joke real? | indy100\n===============\n*   \n*   \n!(blob:https://www.indy100.com/17ced2e74ec05f2be474ccf5db9862a2)Join the news democracyWhere your votes  \ndecide the Top 100\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Wishlist\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   More\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Wishlist\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   More\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nSearch\nIs the Anne Hathaway 6.9 joke real?\n===================================\nAug 08, 2023\n!(javascript:;)\nResurfaced clip shows Anne Hathaway refusing to talk about conversation with Anna …\ncontent.jwplatform.com\nThere is a clip on TikTok making the rounds of  sharing a 6.9 joke - however, the video is fake.\nDue to artificial intelligence, the video appears realistic as it eerily portrays the voice of the __ actor.\nIn the clip, Hathaway is a guest on __ and is chatting to then-host , where she seems to ask him a joke: \"What is 6.9?\"\n** to our free Indy100 weekly newsletter**\nTo which Hathaway then drops the punchline: \" “A good thing ruined by a period,\" which prompted laughter from Stewart who had his head in his hands while the actor also covers her mouth as she chuckled.\nThe video has gone viral with people sharing their thoughts on the fake interaction, one person said: \"She caught him so off guard,\" while another added: \"Anne Hathaway is a national treasure.\"\n> What is 6.9? #annehathaway #joke #comedycentral #funnyclip #yourcomedycave\nBut some were also quick to point out that the clip was not real as they wrote: \"This isn't real. It's all A.I.\"\nSo how was this fake clip created?\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Watch Jon Stewart and Anne Hathaway Lose It on TV!",
+                "htmlTitle": "Watch <b>Jon Stewart</b> and <b>Anne Hathaway</b> Lose It on TV!",
+                "link": "https://www.eonline.com/news/617218/jon-stewart-and-anne-hathaway-totally-lose-it-after-she-describes-the-plot-of-her-latest-movie-watch-the-video",
+                "displayLink": "www.eonline.com",
+                "snippet": "Jan 22, 2015 ... It looks like there might be a slight edit to the clip, as if we're missing some part of the joke that would cause them to laugh so hard. But in ...",
+                "htmlSnippet": "Jan 22, 2015 <b>...</b> It looks like there might be a slight edit to the clip, as if we&#39;re missing some part of the <b>joke</b> that would cause them to laugh so hard. But in&nbsp;...",
+                "formattedUrl": "https://www.eonline.com/.../jon-stewart-and-anne-hathaway-totally-lose-it-a...",
+                "htmlFormattedUrl": "https://www.eonline.com/.../<b>jon</b>-<b>stewart</b>-and-<b>anne</b>-<b>hathaway</b>-totally-lose-it-a...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdOyTDRg6Chgr4bMMvQHQnolluglJqwC6F1Y6nXDaD4UQXthYfWHvvS7Q&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://akns-images.eonline.com/eol_images/Entire_Site/2015022/rs_600x600-150122071752-600.Anne-Hathaway-Daily-Show-JR-12215.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+                            "sailthru.edition": "us",
+                            "og:image:width": "1080",
+                            "article:published_time": "2015-01-22T15:24:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "E! Online",
+                            "sailthru.tags": "movies,anne_hathaway,jon_stewart,the_daily_show",
+                            "twitter:url": "https://www.eonline.com/news/617218/jon-stewart-and-anne-hathaway-totally-lose-it-after-she-describes-the-plot-of-her-latest-movie-watch-the-video",
+                            "sailthru.contenttype": "news",
+                            "sailthru.ed.cid": "us_617218",
+                            "og:description": "She appeared to promote her new movie Song One",
+                            "twitter:image": "https://akns-images.eonline.com/eol_images/Entire_Site/2015022/rs_600x600-150122071752-600.Anne-Hathaway-Daily-Show-JR-12215.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top",
+                            "twitter:site": "https://twitter.com/eonline",
+                            "article:modified_time": "2015-01-22T17:19:25.000Z",
+                            "sailthru.title": "Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie—Watch the Video!",
+                            "fb:admins": "10101649",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2015 01 22 07:24:00",
+                            "og:type": "article",
+                            "twitter:title": "Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie—Watch the Video! - E! Online",
+                            "msvalidate.01": "564B986CE3CECCAE84779191BEC6B755",
+                            "og:title": "Jon Stewart and Anne Hathaway Totally Lose It After She Describes the Plot of Her Latest Movie—Watch the Video! - E! Online",
+                            "og:image:height": "1080",
+                            "sailthru.cid": "617218",
+                            "fb:pages": "89033370735",
+                            "article:tag": "movies,anne_hathaway,jon_stewart,the_daily_show",
+                            "fb:app_id": "195662528604",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                            "twitter:description": "She appeared to promote her new movie Song One",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.eonline.com/news/617218/jon-stewart-and-anne-hathaway-totally-lose-it-after-she-describes-the-plot-of-her-latest-movie-watch-the-video",
+                            "sailthru.image.full": "https://akns-images.eonline.com/eol_images/Entire_Site/2015022/rs_600x600-150122071752-600.Anne-Hathaway-Daily-Show-JR-12215.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://akns-images.eonline.com/eol_images/Entire_Site/2015022/rs_600x600-150122071752-600.Anne-Hathaway-Daily-Show-JR-12215.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...5 3:24 PMTags\n**Anne Hathaway**'s new movie, _Song One_, is a romantic drama that will probably have more than a few tear-jerking moments, but when the actress stopped by _The_ _Daily Show_ Wednesday, she and **Jon Stewart** couldn't help but laugh about it.\nTheir interview started as normal as ever, with Stewart making a few quips about the music in the movie and Hathaway's friend **Jenny Lewis** and her band **Rilo Kiley**, but when the _Les Misérables_ star described the plot of new independent film, uncontrollable laughter ensued.\nIt looks like there might be a _slight_ edit to the clip, as if we're missing some part of the joke that would cause them to laugh so hard. But in her defense, she did describe it in such a way that began with a PhD student and ended with a boy in a coma, and it did sound a _little_ silly. While she definitely didn't mean for it to come out that way, both of them couldn't control themselves.\n!Comedy Central\n\"Your brother's in a coma, that is true,\" Stewart said while tearing up from laughing so hard. \"I've seen it and that was still a bit of a spoiler alert. I'm sorry.\"\nPractically in tears, Hathaway recalled that a journalist told her that while he was watching the coma scene, he fell off his treadmill! Of course, the talk show host couldn't pass up the opportunity to mock himself when she said that.\n\"Here's the only difference between me and that guy,\" he said. \"I don't use the treadmill! I did fall off there, but I do not use it.\"\nTRENDING STORIES\nUndo\nUndo\nUndo\nUndo\nUndo\nThe duo tried to get back to their normal interview conversation, but it never happened. They stuck to their goofy selves and continued to laugh their way through the rest of the interview, even while talking about the \"serious and important in-depth exploration of family dynamics.\"\nHathaway not only stars in but also produces the film.\n**Watch the video above to see Stewart and Hathaway completely lose it!**\nUndo\nUndo\nSkip\nTRENDING STORIES\nUndo\nUndo\nUndo\nUndo\nUndo\nUndo\nUndo\nUndo\nUndo\nYou May Like\nLearn More\nUndo\nLearn More\nUndo\nGet Quote\nUndo\nLearn More\nUndo\nGet Quote\nUndo\nLearn More\nUndo\nSign Up\nUndo\n\")\n\")\nLearn more\nUndo...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Jon Stewart 69 Joke | TikTok",
+                "htmlTitle": "<b>Anne Hathaway Jon Stewart</b> 69 <b>Joke</b> | TikTok",
+                "link": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-69-joke",
+                "displayLink": "www.tiktok.com",
+                "snippet": "original sound - The Late Night Clips ... Brother, who's 19, calls her up and says, I'm dropping out of college, right? MUSICIAN and she doesn't react very well.",
+                "htmlSnippet": "original sound - The Late Night Clips ... Brother, who&#39;s 19, calls her up and says, I&#39;m dropping out of college, right? MUSICIAN and she doesn&#39;t react very well.",
+                "formattedUrl": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-69-joke",
+                "htmlFormattedUrl": "https://www.tiktok.com/discover/<b>anne</b>-<b>hathaway</b>-<b>jon</b>-<b>stewart</b>-69-<b>joke</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Dfddtsd18H9z-urgGAPYP31RQXhX0YVq4dx1u99G6Tq1RYP0JX0Dg1hz&s",
+                            "width": "213",
+                            "height": "236"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/7551846c45564740a4731dc42141ba80_1694640238~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=38567&refresh_token=a6495c8fb9523d792856c2fd9d1512cf&x-expires=1723179600&x-signature=NT6z9dGZ6PQdMVAF5bJKm%2F1Ry5Y%3D&shp=b59d6b55&shcp=-",
+                            "twitter:card": "summary",
+                            "og:image:width": "360",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "pumbaa-ctx": "login=0,ftc=0",
+                            "al:ios:url": "snssdk1233://user/profile/",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "79.7M posts. Discover videos related to Anne Hathaway Jon Stewart 69 Joke on TikTok. See more videos about Anne Hathaway Jon Stewart 69, 69 Joke on Daily Show Anne Hathaway, Anne Hathaway Liberal Movie, Anne Hzthway Joke, Anne Hathaway Singing Against Kelly, Anne Hathaway Tech Movie.",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/7551846c45564740a4731dc42141ba80_1694640238~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=38567&refresh_token=a6495c8fb9523d792856c2fd9d1512cf&x-expires=1723179600&x-signature=NT6z9dGZ6PQdMVAF5bJKm%2F1Ry5Y%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "Anne Hathaway Jon Stewart 69 Joke | TikTok",
+                            "og:image:alt": "Anne Hathaway Jon Stewart 69 Joke | TikTok",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "Anne Hathaway Jon Stewart 69 Joke | TikTok",
+                            "og:image:height": "360",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://user/profile/",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "79.7M posts. Discover videos related to Anne Hathaway Jon Stewart 69 Joke on TikTok. See more videos about Anne Hathaway Jon Stewart 69, 69 Joke on Daily Show Anne Hathaway, Anne Hathaway Liberal Movie, Anne Hzthway Joke, Anne Hathaway Singing Against Kelly, Anne Hathaway Tech Movie.",
+                            "og:url": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-69-joke",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.tiktok.com/api/img/?itemId=7290827557816077611&location=0&aid=1988"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...9? #annehathaway #joke #comedycentral #funnyclip #yourcomedycave\n]\n6.9 Well Damn 😂 (#4u2Share) #DailyShow #Joke #6.9 #SixPointNine #DailyShowJoke #AnneHathaway\n]\nAnne Hathaway just can't stop laughing! #annehathaway #laughing #lol #film #jonstewart #foryou\n]\n#yougotafriendinme #imlistening #imhere #talk #therapy #therapytiktok #foryou #funny #joke #foryoupage #annehathaway #jonstewart #dailyshow\n]\nGotcha!! #funny #annehathaway #jokes\n]\nWhat is 6.9? #annehathaway #ai #joke #laugh #foryou\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nNo disrespect to Jersey… #EverybodysInLA #JohnMulaney #JonStewart #NewJersey #NetflixIsAJokeFest @johnmulaney\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\n#fyp #xyzbca #xyzbcafypシ #annehathaway #dadjokes\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nsorry i had to share 😂😂💀 #dadjokes #dadjoke #annehathaway #funny #comedy #fyp #foryoupage #badjoke #sorry #ifihadtohearitsodoyou\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nHer reaction😂😂 #annehathaway #selenakyle #hollywood #xyzbca\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nSi vas a ver una serie que sea esta‼️📈📈📈 #annehathaway #j...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Anne Hathaway Made This '69' Joke with Jon Stewart?",
+                "htmlTitle": "Fact Check: <b>Anne Hathaway</b> Made This &#39;69&#39; <b>Joke</b> with <b>Jon Stewart</b>?",
+                "link": "https://www.msn.com/en-us/entertainment/news/fact-check-anne-hathaway-made-this-69-joke-with-jon-stewart/ar-AA1f1Lm1",
+                "displayLink": "www.msn.com",
+                "snippet": "Claim: A video authentically showed actress Anne Hathaway sharing a joke with comedian Jon Stewart, asking him “What is 6.9? A good thing ruined by a period ...",
+                "htmlSnippet": "Claim: A video authentically showed actress <b>Anne Hathaway</b> sharing a <b>joke</b> with comedian <b>Jon Stewart</b>, asking him “What is 6.9? A good thing ruined by a period&nbsp;...",
+                "formattedUrl": "https://www.msn.com/...anne-hathaway...joke...jon-stewart/ar-AA1f1Lm1",
+                "htmlFormattedUrl": "https://www.msn.com/...<b>anne</b>-<b>hathaway</b>...<b>joke</b>...<b>jon</b>-<b>stewart</b>/ar-AA1f1Lm1",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZzXtzNmr4BaUW1avJhUJ7YExEDKy8qRBhLaVcG6hXHLU8Jp1M2pnCSK6&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Fact Check: Anne Hathaway Made This '69' Joke with Jon Stewart?",
+                            "og:image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1f1NW0.img?w=1200&h=675&m=4&q=79",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:section": "entertainment",
+                            "article:published_time": "1691614920",
+                            "og:site_name": "MSN",
+                            "og:title": "Fact Check: Anne Hathaway Made This '69' Joke with Jon Stewart?",
+                            "og:description": "It's explicit.",
+                            "sharing_url": "http://www.msn.com/en-us/entertainment/news/fact-check-anne-hathaway-made-this-69-joke-with-jon-stewart/ar-AA1f1Lm1?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+                            "article:author": "Nur Ibrahim",
+                            "article:tag": "jokes",
+                            "article:modified_time": "1719064320",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "search.interest": "Movies",
+                            "og:locale": "en-us",
+                            "og:url": "http://www.msn.com/en-us/entertainment/news/fact-check-anne-hathaway-made-this-69-joke-with-jon-stewart/ar-AA1f1Lm1?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1f1NW0.img?w=1200&h=675&m=4&q=79"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!(blob:https://www.msn.com/a6ead9acc5af34cb22c78a05ed144ef7)\n  Continue reading\nMore for You\n------------\n  !(blob:https://www.msn.com/a6ead9acc5af34cb22c78a05ed144ef7)\n  Continue reading\nMore for You\n------------",
+                    "content_tokens": 75
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Jon Stewart Kamala Hauk Tuah | TikTok",
+                "htmlTitle": "<b>Jon Stewart</b> Kamala Hauk Tuah | TikTok",
+                "link": "https://www.tiktok.com/discover/jon-stewart-kamala-hauk-tuah",
+                "displayLink": "www.tiktok.com",
+                "snippet": "1 day ago ... Omg! I don't know if you seen the interview. between Anne Hathaway and John Stewart. that is right now on TikTok, but it is so funny ...",
+                "htmlSnippet": "1 day ago <b>...</b> Omg! I don&#39;t know if you seen the interview. between <b>Anne Hathaway</b> and <b>John Stewart</b>. that is right now on TikTok, but it is so <b>funny</b>&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/discover/jon-stewart-kamala-hauk-tuah",
+                "htmlFormattedUrl": "https://www.tiktok.com/discover/<b>jon</b>-<b>stewart</b>-kamala-hauk-tuah",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/22c7d272c5894e58bb8f06352d1bb298_1721872743~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=59771&refresh_token=8939c6d7ce09459631100c98102b0a08&x-expires=1723255200&x-signature=s5blG3g5rKQZIH%2BfDDN8TU%2FvNNY%3D&shp=b59d6b55&shcp=-",
+                            "twitter:card": "summary",
+                            "og:image:width": "360",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "pumbaa-ctx": "login=0,ftc=0",
+                            "al:ios:url": "snssdk1233://user/profile/",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "26M posts. Discover videos related to Jon Stewart Kamala Hauk Tuah on TikTok. See more videos about How to Open Knudsen Juice Bottle, How to Make Soft Ice with Flavor Packets, How to Sew Holes in Bamboo Pjs, How Long Does It Take for A Red Ink Chest Tattoo to Heal, Coming to Harris Last Night in Atlanta, New in Marshalls Toddler Shoes 2024.",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/22c7d272c5894e58bb8f06352d1bb298_1721872743~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=59771&refresh_token=8939c6d7ce09459631100c98102b0a08&x-expires=1723255200&x-signature=s5blG3g5rKQZIH%2BfDDN8TU%2FvNNY%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "Jon Stewart Kamala Hauk Tuah | TikTok",
+                            "og:image:alt": "Jon Stewart Kamala Hauk Tuah | TikTok",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "Jon Stewart Kamala Hauk Tuah | TikTok",
+                            "og:image:height": "360",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://user/profile/",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "26M posts. Discover videos related to Jon Stewart Kamala Hauk Tuah on TikTok. See more videos about How to Open Knudsen Juice Bottle, How to Make Soft Ice with Flavor Packets, How to Sew Holes in Bamboo Pjs, How Long Does It Take for A Red Ink Chest Tattoo to Heal, Coming to Harris Last Night in Atlanta, New in Marshalls Toddler Shoes 2024.",
+                            "og:url": "https://www.tiktok.com/discover/jon-stewart-kamala-hauk-tuah",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-p-0068-tx2/22c7d272c5894e58bb8f06352d1bb298_1721872743~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=59771&refresh_token=8939c6d7ce09459631100c98102b0a08&x-expires=1723255200&x-signature=s5blG3g5rKQZIH%2BfDDN8TU%2FvNNY%3D&shp=b59d6b55&shcp=-"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "TikTok - Make Your Day\n===============\nLog in\n*   \n*   \n*   \n*   \n*   \nLog in to follow creators, like videos, and view comments.\nLog in\n #### Create TikTok effects, get a reward]\n#### Company\n#### Program\n#### Terms & Policies\n© 2024 TikTok",
+                    "content_tokens": 65
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Laugh Uncontrollably While Describing Her Coma ...",
+                "htmlTitle": "<b>Anne Hathaway</b> Laugh Uncontrollably While Describing Her Coma ...",
+                "link": "https://www.reddit.com/r/television/comments/2ta39n/anne_hathaway_laugh_uncontrollably_while/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jan 22, 2015 ... Anne Hathaway is the closest to being an actual Disney princess. She's very beautiful but her eyes are too big for her small face. Big mouth ...",
+                "htmlSnippet": "Jan 22, 2015 <b>...</b> <b>Anne Hathaway</b> is the closest to being an <b>actual</b> Disney princess. She&#39;s very beautiful but her eyes are too big for her small face. Big mouth&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/.../anne_hathaway_laugh_uncontrollably_while/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/.../<b>anne</b>_<b>hathaway</b>_laugh_uncontrollably_while/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC-MET6Zp1tUp5U6pUWL8nhI5uRjBJBO430ii5soEYDCRywsLVctPHOqY_&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.redd.it/o0h58lzmax6a1.png",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "Reddit logo",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/television on Reddit: Anne Hathaway Laugh Uncontrollably While Describing Her Coma Movie",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/television on Reddit: Anne Hathaway Laugh Uncontrollably While Describing Her Coma Movie",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/iamnotbush - 2,193 votes and 771 comments",
+                            "twitter:image": "https://i.redd.it/o0h58lzmax6a1.png",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/television/comments/2ta39n/anne_hathaway_laugh_uncontrollably_while/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.redd.it/o0h58lzmax6a1.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Jon Stewart Joke | TikTok",
+                "htmlTitle": "<b>Anne Hathaway Jon Stewart Joke</b> | TikTok",
+                "link": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-joke",
+                "displayLink": "www.tiktok.com",
+                "snippet": "5 days ago ... That is true. I'm sorry. I appreciate the work you did. as a producer and as an actress. Thank you very much. Very much. I also wanna say ...",
+                "htmlSnippet": "5 days ago <b>...</b> That is <b>true</b>. I&#39;m sorry. I appreciate the work you did. as a producer and as an actress. Thank you very much. Very much. I also wanna say&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-joke",
+                "htmlFormattedUrl": "https://www.tiktok.com/discover/<b>anne</b>-<b>hathaway</b>-<b>jon</b>-<b>stewart</b>-<b>joke</b>",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/aebfdeceef0044698feacd69e8ba857c_1692208507~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=17148&refresh_token=e0a01e39f4375e84a0eedf6f00a06a9a&x-expires=1723183200&x-signature=xsrWNc0brbzT8MYKhllJBKzkiPc%3D&shp=b59d6b55&shcp=-",
+                            "twitter:card": "summary",
+                            "og:image:width": "360",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "pumbaa-ctx": "login=0,ftc=0",
+                            "al:ios:url": "snssdk1233://user/profile/",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "88.7M posts. Discover videos related to Anne Hathaway Jon Stewart Joke on TikTok. See more videos about Anne Hathaway Jon Stewart 69, Anne Hzthway Joke, Anne Hathaway Jail Movie, Bonnie Anne Stewart, Anne Hathaway Jake, Anne Hathaway Scarlet Jo Hanson Movie.",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/aebfdeceef0044698feacd69e8ba857c_1692208507~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=17148&refresh_token=e0a01e39f4375e84a0eedf6f00a06a9a&x-expires=1723183200&x-signature=xsrWNc0brbzT8MYKhllJBKzkiPc%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "Anne Hathaway Jon Stewart Joke | TikTok",
+                            "og:image:alt": "Anne Hathaway Jon Stewart Joke | TikTok",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "Anne Hathaway Jon Stewart Joke | TikTok",
+                            "og:image:height": "360",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://user/profile/",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "88.7M posts. Discover videos related to Anne Hathaway Jon Stewart Joke on TikTok. See more videos about Anne Hathaway Jon Stewart 69, Anne Hzthway Joke, Anne Hathaway Jail Movie, Bonnie Anne Stewart, Anne Hathaway Jake, Anne Hathaway Scarlet Jo Hanson Movie.",
+                            "og:url": "https://www.tiktok.com/discover/anne-hathaway-jon-stewart-joke",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/aebfdeceef0044698feacd69e8ba857c_1692208507~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=17148&refresh_token=e0a01e39f4375e84a0eedf6f00a06a9a&x-expires=1723183200&x-signature=xsrWNc0brbzT8MYKhllJBKzkiPc%3D&shp=b59d6b55&shcp=-"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Can't stop laughing #annehathaway #mathewmaconaughey #katehudson #bradleycooper #jimmyfallon #jonstewart #fypシ #viral #fyp #foryourpage #hilarious #comedyvideo #funny ##laughter #🤣 #🤣🤣🤣 #😂 #cantstoplaughing #celebrity #celebrities\n]\nGotcha!! #funny #annehathaway #jokes\n]\nReally Dude #movieclips #moviescene #tv #annehathaway #office #really #wow #fired #nottodaysatan 😬😬😮😮😧\n]\nlike a fine wine, Jon #NetflixIsAJokeFest #JonStewart #standup #comedy #netflix #netflixisajokefest\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nTheir reaction is priceless 😭 • #AnneHathaway #Joke #ComedyCentral\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nHer reaction😂😂 #annehathaway #selenakyle #hollywood #xyzbca\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\n#AnneHathaway’s ‘Tonight Show’ interview takes cringey turn after audience reacts in silence to her question\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nyall the idea of you is nuts #annehathaway @Anne Hathaway @madeline daniels\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\n6.9 Well Damn 😂 (#4u2Share) #DailyShow #Joke #6.9 #SixPointNine #DailyShowJoke #AnneHathaway\n(blob:https://www.tiktok.com/b9a31d3949b1882a09ed2f8508d538f3)]\nAnne Hathaway has sparked a vicious online debate after she was seen interacting with fans in a viral video. 👆🏼 In footage...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

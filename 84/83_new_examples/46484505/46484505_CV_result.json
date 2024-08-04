@@ -1,0 +1,32 @@
+{
+    "Claim": "Fabio, the model, was hit in the face by a goose while riding a roller coaster in 1999, leaving his nose bloodied.",
+    "Video_information": {
+        "video_date": 20200417.0,
+        "platform": "twitter",
+        "video_headline": "That time in 1999 when Fabio was riding a rollercoaster at Busch Gardens Williamsburg and a goose hit him in the face during. ",
+        "video_transcript": "I wish I could Oh, no. I wanna thank everybody for coming. I'm here today, just to say, you know, it's like it was a miracle, but, it wasn't a freak accident, and it's gonna happen again. And, you know, I cannot live with my conscience knowing that the ride is still running. And maybe, you know, a person or even a child can be killed.",
+        "Video_descriptor": "The video begins with a man, who has long blonde hair and is wearing a light blue shirt, speaking directly to the camera, setting a personal tone for what follows. The scene transitions to an outdoor amusement park setting where the man appears again, holding onto a safety bar or handle while riding bumper cars alongside a group of people, which showcases moments of fun as they bump into each other, reflecting a playful atmosphere. However, a contrasting moment is captured in a key frame revealing the same man, now with a visible red mark on his face and a serious demeanor, suggesting he may have sustained some injuries during the ride, contributing an element of tension to the otherwise jovial scenes. Amidst this, other images depict the exhilarating experience of amusement park rides, including a roller coaster ascending with riders eagerly seated and a vibrant purple coaster poised against a clear sky, all reinforcing the lively yet unpredictable nature of the amusement park setting. As the video concludes, it comes back to the group still engaged in the bumper car activity, encapsulating the mix of excitement and risk inherent to such attractions. The camera captures various moments throughout the day, blending the thrill of rides with the potential for mishaps, ultimately portraying a vivid snapshot of a bustling day at the amusement park."
+    },
+    "Initial_Question_Generation": {
+        "Primary_Question": "Was the incident of Fabio being hit by a goose on the roller coaster officially reported?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "What specific injuries did Fabio sustain from the goose incident?",
+            "Secondary_Question_2": "Is there corroborating evidence supporting that this incident occurred at Busch Gardens Williamsburg?",
+            "Secondary_Question_3": "How did the amusement park address safety after the goose incident involving Fabio?"
+        },
+        "Question": "Was the incident of Fabio being hit by a goose on the roller coaster officially reported?",
+        "Answer": "Yes, the incident of Fabio being hit by a goose while riding a roller coaster was officially reported. This incident occurred on March 29, 1999, at Busch Gardens Williamsburg during the grand opening of the Apollo's Chariot roller coaster. Reports state that a goose flew into Fabio's face while he was in the front seat, leading to a cut on his nose and some blood, although his injuries were minor compared to the fate of the goose, which did not survive the collision. In a retrospective account, Fabio himself addressed the incident and noted that most people have the story wrong, stating, \"I was never hit by the goose,\" but he acknowledged the event as significant and a \"freak accident\" that could have had worse consequences. Various articles from credible news sources have documented this accident, confirming that it was widely covered in the media at the time and remains a notable event in amusement park history.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The existing information provides a clear and detailed account of the incident involving Fabio being hit by a goose while riding a roller coaster at Busch Gardens Williamsburg on March 29, 1999. The QA_CONTEXT states that the incident was officially reported and described how a goose collided with Fabio, resulting in a cut on his nose and some blood. Additionally, while Fabio mentioned that 'most people have the story wrong,' he acknowledged the incident as a significant and 'freak accident.' This aligns with the claim that Fabio was indeed hit in the face by a goose, confirming its truthfulness. There are credible news sources and reports that document the event, indicating a high reliability of the provided information."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "The incident involving Fabio being struck by a goose while riding a roller coaster was officially reported. It occurred on March 29, 1999, at Busch Gardens Williamsburg during the grand opening of Apollo's Chariot. Fabio did sustain a cut on his nose and some minor injuries, and this incident was covered widely by media at the time. Although Fabio later claimed that 'I was never hit by the goose,' he acknowledged it as a significant event and a 'freak accident.' The details are consistent with the video wherein the seriousness of the incident is indicated by Fabio's visible red mark on his face, despite the playful backdrop of the amusement park rides. Thus, the claim aligns with the documented history of the incident [Initial_Question_Generation_Query 1_evidence 1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

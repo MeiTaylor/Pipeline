@@ -1,0 +1,1619 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Joe Biden You're one sexy kid video claim fact check",
+                "totalResults": "600000",
+                "searchTerms": "Joe Biden You're one sexy kid video claim fact check",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Joe Biden You're one sexy kid video claim fact check",
+                "totalResults": "600000",
+                "searchTerms": "Joe Biden You're one sexy kid video claim fact check",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.399583,
+        "formattedSearchTime": "0.40",
+        "totalResults": "600000",
+        "formattedTotalResults": "600,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Video of Joe Biden whispering an inappropriate remark to a baby is ...",
+                "htmlTitle": "<b>Video</b> of <b>Joe Biden</b> whispering an inappropriate remark to <b>a</b> baby is ...",
+                "link": "https://www.reuters.com/article/fact-check/video-of-joe-biden-whispering-an-inappropriate-remark-to-a-baby-is-altered-idUSL1N3952B0/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jul 19, 2023 ... Audio can then be heard: “Let me whisper you a secret, you're one sexy kid. Don't tell mommy what I told you.” Examples of the altered clip ...",
+                "htmlSnippet": "Jul 19, 2023 <b>...</b> Audio can then be heard: “Let me whisper you a secret, <b>you</b>&#39;<b>re one sexy kid</b>. Don&#39;t tell mommy what I told you.” Examples of the altered clip&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/.../fact-check/video-of-joe-biden-whispering-an-in...",
+                "htmlFormattedUrl": "https://www.reuters.com/.../<b>fact</b>-<b>check</b>/<b>video</b>-of-<b>joe</b>-<b>biden</b>-whispering-an-in...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULOd4UaI2NRMEYgbkeiFOygqQAUuOPuwHNAkBG1Tz9IZx2Th3d8D4bn-V&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/video-of-joe-biden-whispering-an-inappropriate-remark-to-a-baby-is-altered-idUSL1N3952B0/?id=L1N3952B0",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-07-19T18:02:07.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Video of Joe Biden whispering an inappropriate remark to a baby is altered | Reuters",
+                            "og:description": "A clip showing U.S. President Joe Biden whispering an inappropriate remark to a child is digitally altered. No such remark can be heard in the original video.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-07-19T18:02:07.000Z",
+                            "render_timestamp": "2024-08-02T07:29:00.424Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Video of Joe Biden whispering an inappropriate remark to a baby is altered",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Video of Joe Biden whispering an inappropriate remark to a baby is altered",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-07-19T18:02:07.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A clip showing U.S. President Joe Biden whispering an inappropriate remark to a child is digitally altered. No such remark can be heard in the original video.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/video-of-joe-biden-whispering-an-inappropriate-remark-to-a-baby-is-altered-idUSL1N3952B0/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/fact-check/video-of-joe-biden-whispering-an-inappropriate-remark-to-a-baby-is-altered-idUSL1N3952B0/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/fact-check/video-of-joe-biden-whispering-an-inappropriate-remark-to-a-baby-is-altered-idUSL1N3952B0/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Video Shows Biden Whispering to Child, 'You're One ...",
+                "htmlTitle": "<b>Fact Check</b>: <b>Video</b> Shows <b>Biden</b> Whispering to <b>Child</b>, &#39;<b>You</b>&#39;<b>re One</b> ...",
+                "link": "https://www.yahoo.com/news/fact-check-video-shows-biden-203400893.html",
+                "displayLink": "www.yahoo.com",
+                "snippet": "Sep 14, 2023 ... Claim: A video authentically shows U.S. President Joe Biden whispering to a child, \"You're one sexy kid.\" Rating:.",
+                "htmlSnippet": "Sep 14, 2023 <b>...</b> <b>Claim</b>: A <b>video</b> authentically shows U.S. President <b>Joe Biden</b> whispering to a child, &quot;<b>You</b>&#39;<b>re one sexy kid</b>.&quot; Rating:.",
+                "formattedUrl": "https://www.yahoo.com/.../fact-check-video-shows-biden-203400893.html",
+                "htmlFormattedUrl": "https://www.yahoo.com/.../<b>fact</b>-<b>check</b>-<b>video</b>-shows-<b>biden</b>-203400893.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhCkzfWYQ_xIbq8EutobYTCo7OfBCuoTnok6GGeeFL7lbff43XFhT1wPkS&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=3678c713-de6c-345f-89f1-c9291196e909&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/0bcf4f3b2683927820d63b7fee1a7be6",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=3678c713-de6c-345f-89f1-c9291196e909&src=web",
+                            "og:description": "A search for the original source of the altered video revealed it had been recorded at Fort Liberty in North Carolina on June 9, 2023.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/0bcf4f3b2683927820d63b7fee1a7be6",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@YahooNews",
+                            "news_keywords": "Joe Biden, manipulated video",
+                            "twitter:title": "Fact Check: Video Shows Biden Whispering to Child, 'You're One Sexy Kid'?",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: Video Shows Biden Whispering to Child, 'You're One Sexy Kid'?",
+                            "og:image:height": "675",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/0bcf4f3b2683927820d63b7fee1a7be6",
+                            "al:android:url": "yahoo://article/view?uuid=3678c713-de6c-345f-89f1-c9291196e909&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A search for the original source of the altered video revealed it had been recorded at Fort Liberty in North Carolina on June 9, 2023.",
+                            "og:url": "https://www.yahoo.com/news/fact-check-video-shows-biden-203400893.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/0bcf4f3b2683927820d63b7fee1a7be6"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n### \nNew on Yahoo\n*   \n*   \n*   \n*   \n*   ] \n*   \n*   \n© 2024 All rights reserved.\nSearch query \nSelect edition\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   More\n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   New on Yahoo\n            *   \n            *   \n        *   USEnglish\nAdvertisement\nRead full article\nSnopes]\nFact Check: Video Shows Biden Whispering to Child, 'You're One Sexy Kid'?\n=========================================================================\nJordan Liles\nSeptember 14, 2023 at 1:34 PM·3 min read\nLink Copied\n!\nA manipulated video showed US President  telling a child the words you're one sexy kid. BRENDAN SMIALOWSKI/AFP via Getty Images\n*   Oops!\n    Something went wrong.\n    Please try again later.\n    More content below\n**Claim:**\nA video authentically shows U.S. President Joe Biden whispering to a child, \"You're one sexy kid.\"\n**Rating:**\n]\nRating: Fake\nIn September 2023, online users shared a video that appeared to feature U.S. President Joe Biden whispering to a child and saying, \"You're one sexy kid.\"\nFor example, we found multiple postings of this video on ,  and .\n> \nHowever, the sound in the video had been altered, as both  and  previously reported.\nThe Original Video\n------------------\nThe original, unedited  ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Manipulated video of Joe Biden with child sparks lewd comments ...",
+                "htmlTitle": "Manipulated <b>video</b> of <b>Joe Biden</b> with <b>child</b> sparks lewd comments ...",
+                "link": "https://factcheck.afp.com/doc.afp.com.33PE9VM",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "Jul 20, 2023 ... A video viewed millions of times across social media appears to show Joe Biden telling a child he is \"one sexy kid.",
+                "htmlSnippet": "Jul 20, 2023 <b>...</b> A <b>video</b> viewed millions of times across social media appears to show <b>Joe Biden</b> telling a child he is &quot;<b>one sexy kid</b>.",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.33PE9VM",
+                "htmlFormattedUrl": "https://<b>factcheck</b>.afp.com/doc.afp.com.33PE9VM",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuim42rS7Qag_iTyFIPAPuqX04N7oanBKHoc0v9vOeymsKP7Y9aWYssMz-&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-07//99c183ccd31d773b08f4eecdfb6f1aa0.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Manipulated video of Joe Biden with child sparks lewd comments",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.33PE9VM",
+                            "og:updated_time": "2024-04-17T18:44:09+02:00",
+                            "og:description": "A video viewed millions of times across social media appears to show Joe Biden telling a child he is \"one sexy kid.\" But the clip's audio has been altered; the original recording the minor's mother uploaded to TikTok shows the US president made no such remark."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2023-07//99c183ccd31d773b08f4eecdfb6f1aa0.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-07-20T21:54:00",
+                            "claimReviewed": "A video shows Joe Biden telling a child, \"You're",
+                            "name": "Manipulated video of Joe Biden with child sparks",
+                            "url": "https://factcheck.afp.com/doc.afp.com.33PE9VM"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a child off-camera in the shaky and misleading zoomed-in video shared online, before leaning in and exiting the frame. \"You're one sexy kid.\"\n\"Don't tell mommy what I told you,\" the Democratic president adds as he comes back into view and smiles for a picture.\nThe clip rocketed across platforms including Twitter, TikTok and Facebook, while also circulating on apps catering to conservatives, such as former president Donald Trump's Truth Social.\nThe earliest iteration AFP found was a July 9, 2023 post from a meme account on Instagram, which led to similar posts on the site, denouncing Biden in unfavorable terms.\n\"Do you think this is appropriate?\" says one July 11 Instagram post that received more than 1 million views. \"Why would he say such a thing to a minor or anyone… especially at an event.\"\nBut the voice on the video has been digitally manipulated to insert the \"sexy kid\" comment -- adding to a baseless narrative fueled by the QAnon conspiracy theory and, in some instances, Trump, that Biden abuses women and children.\nThe original footage, uncovered via reverse image searches, shows Biden saying only \"Let me whisper you a secret\" and \"Don't tell mommy what I told you.\" He then poses for what he thinks is a photo before the mother of the child tells him she is recording a video.\nThe woman, who goes by \"Lizz H\" on TikTok, posted the recording to the platform on June 9, 2023 (archived here), with text over the video reading: \"so I met the president of the United States today.\"\nThe meeting took place at Fort Liberty, a military base in the state of North Carolina, where Biden signed an executive order aimed at bolstering economic opportunities for military families. C-SPAN footage of the event (archived here) shows Biden interacting with the mother and her child at approximately the 48-minute mark. \nAsked in a comment under her post what Biden told her son, the mother said: \"I don't think he told him anything because I didn't hear him say anything I think he just pretended to say something.\"\nReplying to another user, she joked that Biden said her son \"will be the first Mexican president of the United States.\"\nAFP reached out to the woman and the White House for additional comment, but no responses were forthcoming.\nAnother altered version of the video previously circulated online, with a loud sniffing noise dubbed over the audio to make it appear as though Biden had leaned in to smell the child.\nAFP has debunked other misinformation accusing Biden of inappropriate conduct...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Video of Biden making lewd remark to a child is altered | Fact check",
+                "htmlTitle": "<b>Video</b> of <b>Biden</b> making lewd remark to <b>a child</b> is altered | <b>Fact check</b>",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/09/22/video-of-biden-making-lewd-remark-to-a-child-is-altered-fact-check/70921759007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Sep 22, 2023 ... No, Joe Biden didn't make a sexual remark to a child. The audio was edited into footage of Biden making a different comment.",
+                "htmlSnippet": "Sep 22, 2023 <b>...</b> No, <b>Joe Biden</b> didn&#39;t make a sexual remark to a child. The audio was edited into footage of Biden making a different comment.",
+                "formattedUrl": "https://www.usatoday.com/.../factcheck/.../video...biden...fact-check/70921...",
+                "htmlFormattedUrl": "https://www.usatoday.com/.../<b>factcheck</b>/.../<b>video</b>...<b>biden</b>...<b>fact</b>-<b>check</b>/70921...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BoqRJqtpbBk5oq9IWVpueigiSdboZRb4gOwvux7pXc0z1yrhDGLA8S8&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2023/09/05/USAT/2d44bcf8-ece4-4d7a-9552-53aa858a67fb-AFP_AFP_33UD76D.jpeg?crop=7534,4238,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Video of Biden whispering lewd remark to child is altered | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Video of Biden whispering lewd remark to child is altered | Fact check",
+                            "og:image:height": "1801",
+                            "google": "notranslate",
+                            "og:description": "No, Joe Biden didn't make a sexual remark to a child. The audio was edited into footage of Biden making a different comment.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Gabrielle Settles",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2023/09/05/USAT/2d44bcf8-ece4-4d7a-9552-53aa858a67fb-AFP_AFP_33UD76D.jpeg?crop=7534,4238,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "No, Joe Biden didn't make a sexual remark to a child. The audio was edited into footage of Biden making a different comment.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/09/22/video-of-biden-making-lewd-remark-to-a-child-is-altered-fact-check/70921759007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2023/09/05/USAT/2d44bcf8-ece4-4d7a-9552-53aa858a67fb-AFP_AFP_33UD76D.jpeg?crop=7534,4238,x0,y0&width=3200&height=1801&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-09-22T20:25:33Z",
+                            "claimReviewed": "Video shows Biden whispering a lewd remark to a child",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/09/22/video-of-biden-making-lewd-remark-to-a-child-is-altered-fact-check/70921759007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim: Video shows Biden whispering a lewd remark to a child\n----------------------------------------------------------------\nA Sept. 19 Instagram video (, ) shows what appears to be a close-up view of President Joe Biden as he leans in to whisper something to a child.\nHis face goes out of frame, but what sounds like his voice can be heard saying, “You’re one sexy kid. Don’t tell Mommy what I told you. You got it?”\nA woman turns the camera onto herself and Biden, and there’s a short pause before she’s heard saying, “I’m recording you.”\n“He didn’t (know) it was being recorded!” reads on-screen text included in the video. The Instagram post was liked more than 1,000 times in a day.\n**Follow us on Facebook!** \nOur rating: Altered\n-------------------\nThe video is altered. Biden does not make a lewd remark in the original footage.\nNo lewd remark in original footage\n----------------------------------\nThe Instagram post is an altered version of a video first shared on . The TikTok video shows Biden briefly talking with a woman holding an infant and then taking a selfie with a group of people. At no point does the president make a lewd remark to the woman or anyone else.\nThe video was taken during a June visit Biden...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Video Shows Biden Whispering to Child, 'You're One Sexy Kid ...",
+                "htmlTitle": "<b>Video</b> Shows <b>Biden</b> Whispering to <b>Child</b>, &#39;<b>You</b>&#39;<b>re One Sexy Kid</b> ...",
+                "link": "https://www.allsides.com/news/2023-09-15-0623/facts-and-fact-checking-video-shows-biden-whispering-child-youre-one-sexy-kid",
+                "displayLink": "www.allsides.com",
+                "snippet": "Sep 15, 2023 ... In September 2023, online users shared a video that appeared to feature U.S. President Joe Biden whispering to a child and saying, \"You're ...",
+                "htmlSnippet": "Sep 15, 2023 <b>...</b> In September 2023, online users shared a <b>video</b> that appeared to feature U.S. President <b>Joe Biden</b> whispering to a child and saying, &quot;<b>You</b>&#39;<b>re</b>&nbsp;...",
+                "formattedUrl": "https://www.allsides.com/.../facts-and-fact-checking-video-shows-biden-whi...",
+                "htmlFormattedUrl": "https://www.allsides.com/.../<b>fact</b>s-and-<b>fact</b>-<b>check</b>ing-<b>video</b>-shows-<b>biden</b>-whi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVq1RfgcDahuFHm49MArCWVoSBgBWVJF4pwheAVFqpO--YPlO7gP-Ot8&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "FACT CHECK: Video Shows Biden Whispering to Child, 'You're One Sexy Kid'?",
+                            "article:published_time": "2023-09-15T06:23:20-07:00",
+                            "og:site_name": "AllSides",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.allsides.com/news/2023-09-15-0623/facts-and-fact-checking-video-shows-biden-whispering-child-youre-one-sexy-kid",
+                            "og:title": "FACT CHECK: Video Shows Biden Whispering to Child, 'You're One Sexy Kid'?",
+                            "apple-mobile-web-app-title": "AllSides",
+                            "og:updated_time": "2023-09-15T06:23:20-07:00",
+                            "og:description": "In September 2023, online users shared a video that appeared to feature U.S. President Joe Biden whispering to a child and saying, \"You're one sexy...",
+                            "twitter:image": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png",
+                            "fb:app_id": "555035668344688",
+                            "article:modified_time": "2023-09-15T06:23:20-07:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "In September 2023, online users shared a video that appeared to feature U.S. President Joe Biden whispering to a child and saying, \"You're one sexy kid.\" For example, we found multiple",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.allsides.com/news/2023-09-15-0623/facts-and-fact-checking-video-shows-biden-whispering-child-youre-one-sexy-kid"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nIn September 2023, online users shared a video that appeared to feature U.S. President Joe Biden whispering to a child and saying, \"You're one sexy kid.\"\nFor example, we found multiple postings of this video on TikTok, Truth Social and YouTube.\nHowever, the sound in the video had been altered, as both AFP and Reuters previously reported.\n \nSimilarity Hub is a project between AllSides and More Like Us that highlights survey data on topics on which Americans largely agree. Its goal is to correct political misperceptions, highlight common ground, and help people feel calmer and more united.\nExplore more data in the Similarity Hub\nDiscover more common ground on Facts and Fact Checking\nAugust 2nd, 2024\nThe Alliance for Citizen Engagement\nAugust 2nd, 2024",
+                    "content_tokens": 178
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "A video of Biden speaking at a White House children's event was ...",
+                "htmlTitle": "<b>A video</b> of <b>Biden</b> speaking at <b>a</b> White House <b>children&#39;s</b> event was ...",
+                "link": "https://apnews.com/ap-fact-check/a-video-of-biden-speaking-at-a-white-house-childrens-event-was-edited-to-add-offensive-audio-00000188e85ed582afdeff7e3d220000",
+                "displayLink": "apnews.com",
+                "snippet": "Jun 23, 2023 ... CLAIM: A video of President Joe Biden speaking at the White House during a “Take Your Child to Work Day” event shows him being interrupted ...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> <b>CLAIM</b>: A <b>video</b> of President <b>Joe Biden</b> speaking at the White House during a “Take Your Child to Work Day” event shows him being interrupted&nbsp;...",
+                "formattedUrl": "https://apnews.com/...fact-check/a-video-of-biden-speaking-at-a-white-hous...",
+                "htmlFormattedUrl": "https://apnews.com/...<b>fact</b>-<b>check</b>/a-<b>video</b>-of-<b>biden</b>-speaking-at-a-white-hous...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh60ZJx7f4fZqjRRmDQxe1m2DVOZwgDoW_-lCfNc3sZEU3xZ-WYy4mJhI&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-06-23T13:14:32.019",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "CLAIM: A video of President Joe Biden speaking at the White House during a “Take Your Child to Work Day” event shows him being interrupted by a child who yells, “shut the f--- up.”",
+                            "twitter:creator": "@melissa_goldin",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg",
+                            "twitter:image:alt": "President Joe Biden speaks as he welcomes children to the White House for \"Take Your Child to Work Day,\" Thursday, April 27, 2023, in Washington. (AP Photo/Evan Vucci)",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-06-28T17:01:42.025",
+                            "brightspot.contentid": "00000188-e85e-d582-afde-ff7e3d220000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg",
+                            "og:image:alt": "President Joe Biden speaks as he welcomes children to the White House for \"Take Your Child to Work Day,\" Thursday, April 27, 2023, in Washington. (AP Photo/Evan Vucci)",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "A video of Biden speaking at a White House children’s event was edited to add offensive audio",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg",
+                            "ga-datalayer": "{\n  \"dimension15\" : \"AP Fact Check\",\n  \"dimension9\" : \"2023-06-23 09:14:32\",\n  \"dimension10\" : \"MELISSA GOLDIN\"\n}",
+                            "og:title": "A video of Biden speaking at a White House children’s event was edited to add offensive audio",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-06-23T09:14:32.000Z\",\n  \"item_id\" : null,\n  \"headline\" : \"A video of Biden speaking at a White House children’s event was edited to add offensive audio\",\n  \"authors\" : [ \"MELISSA GOLDIN\" ]\n}",
+                            "article:author": "https://apnews.com/author/melissa-goldin",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "CLAIM: A video of President Joe Biden speaking at the White House during a “Take Your Child to Work Day” event shows him being interrupted by a child who yells, “shut the f--- up.”",
+                            "og:url": "https://apnews.com/ap-fact-check/a-video-of-biden-speaking-at-a-white-house-childrens-event-was-edited-to-add-offensive-audio-00000188e85ed582afdeff7e3d220000",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Tag_CMS\" : \"AP Fact Check\",\n  \"tag_array\" : \"AP Fact Check\",\n  \"headline\" : \"A video of Biden speaking at a White House children’s event was edited to add offensive audio\",\n  \"publication_date\" : \"2023-06-23 09:14:32\",\n  \"author\" : \"MELISSA GOLDIN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 2209,\n  \"primary_section\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/b7e73ea/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fb42f94d3228e4fb9bb80750acb43b813%2F3000.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://apnews.com/ap-fact-check/a-video-of-biden-speaking-at-a-white-house-childrens-event-was-edited-to-add-offensive-audio-00000188e85ed582afdeff7e3d220000: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://apnews.com/ap-fact-check/a-video-of-biden-speaking-at-a-white-house-childrens-event-was-edited-to-add-offensive-audio-00000188e85ed582afdeff7e3d220000",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "False claims of 'deepfake' President Biden go viral",
+                "htmlTitle": "False <b>claims</b> of &#39;deepfake&#39; President <b>Biden</b> go viral",
+                "link": "https://www.bbc.com/news/62338593",
+                "displayLink": "www.bbc.com",
+                "snippet": "Jul 28, 2022 ... People are falsely claiming a video of US President Joe Biden posted by the Democratic Party is a deepfake. A deepfake is a video created ...",
+                "htmlSnippet": "Jul 28, 2022 <b>...</b> People are falsely claiming a <b>video</b> of US President <b>Joe Biden</b> posted by the Democratic Party is a deepfake. A deepfake is a <b>video</b> created&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/62338593",
+                "htmlFormattedUrl": "https://www.bbc.com/news/62338593",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg0UTb0lOzVPp-pxxyovsSm13QjoCU96WtcpZi_DZwk2gqEcuwGx835vk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/17E37/production/_126074879_7409223d-f449-4ee0-b648-44cd020cf5a1.jpg",
+                            "twitter:title": "False claims of 'deepfake' President Biden go viral",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Biden",
+                            "theme-color": "#ffffff",
+                            "og:title": "False claims of 'deepfake' President Biden go viral",
+                            "og:description": "People are falsely claiming a video of the US president has been digitally altered.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/17E37/production/_126074879_7409223d-f449-4ee0-b648-44cd020cf5a1.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Biden",
+                            "viewport": "width=device-width",
+                            "twitter:description": "People are falsely claiming a video of the US president has been digitally altered."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/17E37/production/_126074879_7409223d-f449-4ee0-b648-44cd020cf5a1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "People are falsely claiming a video of US President Joe Biden posted by the Democratic Party is a deepfake.\nA deepfake is a video created using artificial intelligence to show someone saying or doing something they didn't do.\nWe've looked into the video.\nSocial media users have claimed the video has been altered to superimpose the president's face on an actor's body using artificial intelligence. \nIn the 17-second clip President Biden speaks about the 6 January riots which saw protesters storm the US Capitol building. The riot is currently being investigated by a congressional panel.\nThe video was published on the Democrats' official Twitter account on Wednesday, and quickly became part of a wider conspiracy theory.\nPosts doubting the legitimacy of the video have been shared thousands of times, including by prominent pundits from the right-wing US television channels Newsmax and One America News. \nOne reason people have cast doubt on the video is because they say President Biden looks different in another video published on the same day - which some people have also claimed is fake.\nBut the differences in his appearance are clearly due to the lighting used when filming.\nPeople have also claimed the video is suspicious because he doesn't blink - but that wouldn't prove the video was a deepfake.  \nOne post that has been retweeted almost 40,000 times says \"a normal person blinks their eye...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Was Joe Biden caught on video calling a girl 'one sexy kid'? - Black ...",
+                "htmlTitle": "Was <b>Joe Biden</b> caught on <b>video</b> calling <b>a</b> girl &#39;<b>one sexy kid</b>&#39;? - Black ...",
+                "link": "https://blackdotresearch.sg/biden-sexy-kid/",
+                "displayLink": "blackdotresearch.sg",
+                "snippet": "Mar 28, 2024 ... Don't tell mommy what I told you. You got it?” The president then poses with the girl, before she informs him that she is in fact recording the ...",
+                "htmlSnippet": "Mar 28, 2024 <b>...</b> Don&#39;t tell mommy what I told <b>you</b>. <b>You</b> got it?” The president then poses with the girl, before she informs him that she is in <b>fact</b> recording the&nbsp;...",
+                "formattedUrl": "https://blackdotresearch.sg/biden-sexy-kid/",
+                "htmlFormattedUrl": "https://blackdotresearch.sg/<b>biden</b>-<b>sexy</b>-<b>kid</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsl6GPChlzZdr4FwayuR3gFQShjCqpNK7V5hFm2VhArUoM80maShexuNHX&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blackdotresearch.sg/wp-content/uploads/2024/03/featured-4.png",
+                            "og:type": "article",
+                            "article:published_time": "2024-03-28T14:01:09+00:00",
+                            "og:image:width": "1614",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Black Dot Research",
+                            "author": "Omar Farook",
+                            "og:title": "Was Joe Biden caught on video calling a girl ‘one sexy kid’? - Black Dot Research",
+                            "og:image:height": "1079",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Estimated reading time",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://blackdotresearch.sg/wp-content/uploads/2019/04/cropped-Screenshot-2019-04-25-15.48.12-270x270.png",
+                            "og:description": "Black Dot Research is part of the Black Dot Communications Group based in Singapore. We are a market and social research agency specialising in understanding and analysing the views and opinions of Singaporeans. Our agile and robust research methods uncover insights that matter the most to the local landscape.",
+                            "article:publisher": "https://www.facebook.com/BDRFactCheck/",
+                            "twitter:data1": "Omar Farook",
+                            "twitter:data2": "3 minutes",
+                            "article:modified_time": "2024-03-28T14:05:31+00:00",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                            "og:locale": "en_GB",
+                            "og:url": "https://blackdotresearch.sg/biden-sexy-kid/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://blackdotresearch.sg/wp-content/uploads/2024/03/featured-4.png"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "Was Joe Biden caught on video calling a girl ‘one sexy kid’? - Black Dot Research\n===============\n]\n*   \n*   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n        *   \n*   \n*   \n*   \n     Search\nWas Joe Biden caught on video calling a girl ‘one sexy kid’?\n============================================================\nBy  March 28, 2024 \n*   \nWe came across the following post on the social media platform X:\n!\nThe post includes what appears to be a video, taken on a phone, of the US president speaking to a supporter, who seems to be a girl or a young woman.\nFrom the audio, Biden appears to say, “Let me whisper you a secret. You’re one sexy kid. Don’t tell mommy what I told you. You got it?”\nThe president then poses with the girl, before she informs him that she is in fact recording the interaction, to which Biden reacts with surprise.\nThe audio therefore appears to implicate the president with sexual harassment of a minor.\n### **Altered Audio**\nWhen we did a search on the comments attributed to Biden in the video, we found that it was an altered version of the original, and a similar claim with a different altered version had been debunked by  in October 2023.\nPolitifact indicated that the original video was recorded at a , where Biden signed an executive order ‘aimed at advancing economic security for military families’. They also included a link to a  uploaded on 10 June 2023, which they indicated was the original video.\nThe video, by creator saucedofamily, appears to show that the ‘girl’ featured is actually a mother who is carrying a baby. The baby cannot be seen in the altered version, which is cropped.\nIn the original video, it is clear that Biden is speaking to the child, while referring to the woman carrying the child as the mother in his comments.\nThe audio does not record Biden saying, ‘You’re one sexy kid,”. However, the rest of the audio is the same as in the altered video.\n!\n!\nThe creator also claims that the comments the president made were audible to her, and that he told her baby that ‘he will be the first Mexican president’.\nPolitifact reported that an altered version of the video had  in October 2023, where it has been flagged by Politifact and the Portuguese factchecker Poligrafo.\nWe therefore find the claim that Biden made inappropriate comments towards a girl or young woman...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Did you see the video of Joe Biden sniffing the baby recently? : r ...",
+                "htmlTitle": "Did <b>you</b> see the <b>video</b> of <b>Joe Biden</b> sniffing the baby recently? : r ...",
+                "link": "https://www.reddit.com/r/AskConservatives/comments/14z5lfg/did_you_see_the_video_of_joe_biden_sniffing_the/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 14, 2023 ... 25 votes, 113 comments. This video was widely shared in conservative media recently, showing Biden leaning in and loudly sniffing a baby.",
+                "htmlSnippet": "Jul 14, 2023 <b>...</b> 25 votes, 113 comments. This <b>video</b> was widely shared in conservative media recently, showing <b>Biden</b> leaning in and loudly sniffing a baby.",
+                "formattedUrl": "https://www.reddit.com/.../did_you_see_the_video_of_joe_biden_sniffing_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../did_you_see_the_<b>video</b>_of_<b>joe</b>_<b>biden</b>_sniffing_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/14z5lfg",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/AskConservatives on Reddit: Did you see the video of Joe Biden sniffing the baby recently?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/AskConservatives on Reddit: Did you see the video of Joe Biden sniffing the baby recently?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/TomatilloNo4484 - 25 votes and 113 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/14z5lfg",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/AskConservatives/comments/14z5lfg/did_you_see_the_video_of_joe_biden_sniffing_the/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "President Biden (@POTUS) / X",
+                "htmlTitle": "President <b>Biden</b> (@POTUS) / X",
+                "link": "https://twitter.com/potus",
+                "displayLink": "twitter.com",
+                "snippet": "Congressional Republicans are fighting for more tax cuts for billionaires and big corporations. While they try to take us back, we will keep fighting for the ...",
+                "htmlSnippet": "Congressional Republicans are fighting for more tax cuts for billionaires and big corporations. While they try to take us back, we will keep fighting for the&nbsp;...",
+                "formattedUrl": "https://twitter.com/potus",
+                "htmlFormattedUrl": "https://twitter.com/potus",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOsl0yHxR_bb6CD7Tn-g8KUBHnJWoTJB34cysdPyp1j4Krh9wfmNeIx2c&s",
+                            "width": "200",
+                            "height": "200"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT9B25gWkAAQHq9.jpg",
+                            "width": "3000",
+                            "caption": "President Biden greets Americans previously detained in Russia on the tarmac of Joint Base Andrews.",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT9B25gWkAAQHq9?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT9B3VuW8AAWDgg.jpg",
+                            "width": "3000",
+                            "caption": "President Biden greets Americans previously detained in Russia on the tarmac of Joint Base Andrews.",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT9B3VuW8AAWDgg?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT9B3v9WUAAiJ5R.jpg",
+                            "width": "3000",
+                            "caption": "President Biden greets Americans previously detained in Russia on the tarmac of Joint Base Andrews.",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT9B3v9WUAAiJ5R?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT8Aj81WUAI9ReJ.jpg",
+                            "width": "3000",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT8Aj81WUAI9ReJ?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT6hPjcWwAABuWv.jpg",
+                            "width": "1200",
+                            "caption": "Americans previously detained in Russia are pictured on a plane.",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT6hPjcWwAABuWv?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT6X8GhXoAAtMsH.jpg",
+                            "width": "3000",
+                            "caption": "President Biden welcomes families of Americans detained in Russia to the Oval Office.",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT6X8GhXoAAtMsH?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT6DGJDWkAAE7SS.jpg",
+                            "width": "1064",
+                            "caption": "Today, three American citizens and one American green-card holder who were unjustly imprisoned in Russia are finally coming home: Paul Whelan, Evan Gershkovich, Alsu Kurmasheva, and Vladimir...",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT6DGJDWkAAE7SS?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT29CqKWEAA3NLv.jpg",
+                            "width": "3000",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT29CqKWEAA3NLv?format=jpg&name=thumb"
+                        },
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GT2iIGZWoAES-JU.jpg",
+                            "width": "2160",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GT2iIGZWoAES-JU?format=jpg&name=thumb"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        },
+                        {
+                            "identifier": "1349149096909668363",
+                            "givenname": "President Biden",
+                            "additionalname": "POTUS"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "18960",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819218137386008868/likes"
+                        },
+                        {
+                            "userinteractioncount": "3550",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819218137386008868/retweets"
+                        },
+                        {
+                            "userinteractioncount": "337",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819218137386008868/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1957",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819218137386008868"
+                        },
+                        {
+                            "userinteractioncount": "2908282",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "21109",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819516272788262914/likes"
+                        },
+                        {
+                            "userinteractioncount": "4220",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819516272788262914/retweets"
+                        },
+                        {
+                            "userinteractioncount": "197",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819516272788262914/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1551",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819516272788262914"
+                        },
+                        {
+                            "userinteractioncount": "638471",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "32518",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819439787763269782/likes"
+                        },
+                        {
+                            "userinteractioncount": "3781",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819439787763269782/retweets"
+                        },
+                        {
+                            "userinteractioncount": "76",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819439787763269782/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "707",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819439787763269782"
+                        },
+                        {
+                            "userinteractioncount": "755566",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "13081",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819395232720376184/likes"
+                        },
+                        {
+                            "userinteractioncount": "3245",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819395232720376184/retweets"
+                        },
+                        {
+                            "userinteractioncount": "153",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819395232720376184/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2705",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819395232720376184"
+                        },
+                        {
+                            "userinteractioncount": "545235",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "17688",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819386424577122662/likes"
+                        },
+                        {
+                            "userinteractioncount": "3921",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819386424577122662/retweets"
+                        },
+                        {
+                            "userinteractioncount": "645",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819386424577122662/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "7540",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819386424577122662"
+                        },
+                        {
+                            "userinteractioncount": "1771554",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "59641",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819245206933234045/likes"
+                        },
+                        {
+                            "userinteractioncount": "8654",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819245206933234045/retweets"
+                        },
+                        {
+                            "userinteractioncount": "366",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819245206933234045/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1775",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819245206933234045"
+                        },
+                        {
+                            "userinteractioncount": "1204600",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "27939",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819196950475833657/likes"
+                        },
+                        {
+                            "userinteractioncount": "5510",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819196950475833657/retweets"
+                        },
+                        {
+                            "userinteractioncount": "453",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819196950475833657/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1349",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819196950475833657"
+                        },
+                        {
+                            "userinteractioncount": "1072402",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "28633",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819183840323068231/likes"
+                        },
+                        {
+                            "userinteractioncount": "5957",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819183840323068231/retweets"
+                        },
+                        {
+                            "userinteractioncount": "210",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819183840323068231/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2259",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819183840323068231"
+                        },
+                        {
+                            "userinteractioncount": "812699",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "47045",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819173397210726607/likes"
+                        },
+                        {
+                            "userinteractioncount": "9927",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819173397210726607/retweets"
+                        },
+                        {
+                            "userinteractioncount": "333",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819173397210726607/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1797",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819173397210726607"
+                        },
+                        {
+                            "userinteractioncount": "960512",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "134882",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819068590680682579/likes"
+                        },
+                        {
+                            "userinteractioncount": "23308",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819068590680682579/retweets"
+                        },
+                        {
+                            "userinteractioncount": "2288",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819068590680682579/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "6271",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819068590680682579"
+                        },
+                        {
+                            "userinteractioncount": "5648109",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "49907",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819058362698400016/likes"
+                        },
+                        {
+                            "userinteractioncount": "9475",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819058362698400016/retweets"
+                        },
+                        {
+                            "userinteractioncount": "550",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819058362698400016/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2161",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819058362698400016"
+                        },
+                        {
+                            "userinteractioncount": "1370188",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "17493",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819048063001894938/likes"
+                        },
+                        {
+                            "userinteractioncount": "3772",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819048063001894938/retweets"
+                        },
+                        {
+                            "userinteractioncount": "168",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819048063001894938/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "1658",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819048063001894938"
+                        },
+                        {
+                            "userinteractioncount": "590018",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "5509",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819044277168521438/likes"
+                        },
+                        {
+                            "userinteractioncount": "1353",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819044277168521438/retweets"
+                        },
+                        {
+                            "userinteractioncount": "100",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819044277168521438/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "738",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819044277168521438"
+                        },
+                        {
+                            "userinteractioncount": "462544",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "36235",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819039135304208760/likes"
+                        },
+                        {
+                            "userinteractioncount": "6127",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819039135304208760/retweets"
+                        },
+                        {
+                            "userinteractioncount": "623",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819039135304208760/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "6928",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819039135304208760"
+                        },
+                        {
+                            "userinteractioncount": "1552923",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "57920",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819037875658170412/likes"
+                        },
+                        {
+                            "userinteractioncount": "13038",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819037875658170412/retweets"
+                        },
+                        {
+                            "userinteractioncount": "691",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819037875658170412/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "4108",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819037875658170412"
+                        },
+                        {
+                            "userinteractioncount": "1776766",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "54580",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1819035443930800616/likes"
+                        },
+                        {
+                            "userinteractioncount": "11989",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1819035443930800616/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1570",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1819035443930800616/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "3364",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1819035443930800616"
+                        },
+                        {
+                            "userinteractioncount": "3115347",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "55460",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1818984202253087174/likes"
+                        },
+                        {
+                            "userinteractioncount": "8681",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1818984202253087174/retweets"
+                        },
+                        {
+                            "userinteractioncount": "1268",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1818984202253087174/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "10077",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1818984202253087174"
+                        },
+                        {
+                            "userinteractioncount": "3814280",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "13057",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1818817686261977551/likes"
+                        },
+                        {
+                            "userinteractioncount": "3545",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1818817686261977551/retweets"
+                        },
+                        {
+                            "userinteractioncount": "179",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1818817686261977551/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2340",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1818817686261977551"
+                        },
+                        {
+                            "userinteractioncount": "565595",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "21386",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1818817676493344783/likes"
+                        },
+                        {
+                            "userinteractioncount": "5322",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1818817676493344783/retweets"
+                        },
+                        {
+                            "userinteractioncount": "244",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1818817676493344783/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "3244",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1818817676493344783"
+                        },
+                        {
+                            "userinteractioncount": "846298",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        },
+                        {
+                            "userinteractioncount": "10715",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/POTUS/status/1818788090607009809/likes"
+                        },
+                        {
+                            "userinteractioncount": "3448",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/POTUS/status/1818788090607009809/retweets"
+                        },
+                        {
+                            "userinteractioncount": "189",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/POTUS/status/1818788090607009809/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "2386",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/POTUS/status/1818788090607009809"
+                        },
+                        {
+                            "userinteractioncount": "558237",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_200x200.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "profile",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "President Biden (@POTUS) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://user?screen_name=POTUS",
+                            "title": "President Biden (@POTUS) on X",
+                            "og:description": "46th President of the United States, husband to @FLOTUS, proud dad & pop. Tweets may be archived: https://t.co/HDhBZBkKpU Text me: (302) 404-0880",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://user?screen_name=POTUS",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/POTUS",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT0H1M50S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1819516272788262914",
+                            "contenturl": "https://video.twimg.com/amplify_video/1819516167624572929/vid/avc1/1920x1080/Gr0SRTV89mfc0sus.mp4?tag=16",
+                            "uploaddate": "2024-08-02T23:30:59.000Z",
+                            "name": "@POTUS's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GUA4Z9tW8AA-J7Y.jpg"
+                        },
+                        {
+                            "duration": "PT0H0M12S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1819439787763269782",
+                            "contenturl": "https://video.twimg.com/amplify_video/1819439737305784320/vid/avc1/1080x1920/GnSLBzIAfsVOSuAR.mp4?tag=16",
+                            "uploaddate": "2024-08-02T18:27:03.000Z",
+                            "name": "@POTUS's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1819439737305784320/img/oUy0lwIbfIqASxrr.jpg"
+                        },
+                        {
+                            "duration": "PT0H2M13S",
+                            "embedurl": "https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&frame=false&hideCard=false&hideThread=false&lang=en&id=1819196950475833657",
+                            "contenturl": "https://video.twimg.com/amplify_video/1819196825062039553/vid/avc1/1920x1080/AA5YGNq-peUAR4Jw.mp4?tag=16",
+                            "uploaddate": "2024-08-02T02:22:06.000Z",
+                            "name": "@POTUS's video Tweet",
+                            "description": "Embedded video",
+                            "caption": "Embedded video",
+                            "thumbnailurl": "https://pbs.twimg.com/amplify_video_thumb/1819196825062039553/img/5g5zdCOPM8g7YKUG.jpg"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Profile posts"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/0B5iOzYKk0"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/R2XYf8w6Br"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/AawiZO6tjn"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/PIp7ghOs7z"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/2xglu30HE9"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/KSikbcgnUA"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/1rYNBTt9tJ"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/v4Sv4fxsPd"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/d8eeqle3uS"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/wWGA83Ss8A"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/AzgUjoca5O"
+                        },
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/YnAUMnwrEr"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/profile_images/1380530524779859970/TfwVAbyX_200x200.jpg"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1819218137386008868",
+                            "commentcount": "1957",
+                            "articlebody": "Join @VP and me as we greet Americans freed from Russia at Joint Base Andrews.",
+                            "position": "1",
+                            "datecreated": "2024-08-02T03:46:18.000Z",
+                            "datepublished": "2024-08-02T03:46:18.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819218137386008868"
+                        },
+                        {
+                            "identifier": "1819516272788262914",
+                            "commentcount": "1551",
+                            "articlebody": "There's nothing this country can't do when we act together.",
+                            "position": "2",
+                            "datecreated": "2024-08-02T23:30:59.000Z",
+                            "datepublished": "2024-08-02T23:30:59.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819516272788262914"
+                        },
+                        {
+                            "identifier": "1819439787763269782",
+                            "commentcount": "707",
+                            "articlebody": "Congrats to @katieledecky, now the most decorated female U.S. Olympian ever. As I’ve said before, you are a symbol of perseverance and strength with a heart of gold that shines for the nation...",
+                            "position": "3",
+                            "datecreated": "2024-08-02T18:27:03.000Z",
+                            "datepublished": "2024-08-02T18:27:03.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819439787763269782"
+                        },
+                        {
+                            "identifier": "1819395232720376184",
+                            "commentcount": "2705",
+                            "articlebody": "I won't stop fighting to lower costs by taking on price gouging, capping drug costs, and building more homes. Congressional Republicans are fighting for more tax cuts for billionaires and big...",
+                            "position": "4",
+                            "datecreated": "2024-08-02T15:30:00.000Z",
+                            "datepublished": "2024-08-02T15:30:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819395232720376184"
+                        },
+                        {
+                            "identifier": "1819386424577122662",
+                            "commentcount": "7540",
+                            "articlebody": "Since Kamala and I took office, our economy has created nearly 16 million jobs, unemployment has been at a 50-year low, and incomes have risen faster than prices. There’s more to do, but...",
+                            "position": "5",
+                            "datecreated": "2024-08-02T14:55:00.000Z",
+                            "datepublished": "2024-08-02T14:55:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819386424577122662"
+                        },
+                        {
+                            "identifier": "1819245206933234045",
+                            "commentcount": "1775",
+                            "articlebody": "Tonight is about reuniting families. Welcome home, Paul, Evan, and Alsu. You're right where you belong.",
+                            "position": "6",
+                            "datecreated": "2024-08-02T05:33:51.000Z",
+                            "datepublished": "2024-08-02T05:33:51.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819245206933234045"
+                        },
+                        {
+                            "identifier": "1819196950475833657",
+                            "commentcount": "1349",
+                            "articlebody": "Every parent, child, spouse, and loved one who joined me in the Oval Office today has been praying for this day for a long time. In just a few short hours when our fellow Americans return home,...",
+                            "position": "7",
+                            "datecreated": "2024-08-02T02:22:06.000Z",
+                            "datepublished": "2024-08-02T02:22:06.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819196950475833657"
+                        },
+                        {
+                            "identifier": "1819183840323068231",
+                            "commentcount": "2259",
+                            "articlebody": "Today's deal included the release of seven Russian political prisoners. They stood up for democracy and their own leaders threw them in prison. We helped secure their release because we stand...",
+                            "position": "8",
+                            "datecreated": "2024-08-02T01:30:00.000Z",
+                            "datepublished": "2024-08-02T01:30:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819183840323068231"
+                        },
+                        {
+                            "identifier": "1819173397210726607",
+                            "commentcount": "1797",
+                            "articlebody": "The deal we made to bring home wrongfully detained Americans would not have been possible without our allies. They stepped up and stood by us. So for anyone who questions whether allies matter,...",
+                            "position": "9",
+                            "datecreated": "2024-08-02T00:48:31.000Z",
+                            "datepublished": "2024-08-02T00:48:31.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819173397210726607"
+                        },
+                        {
+                            "identifier": "1819068590680682579",
+                            "commentcount": "6271",
+                            "articlebody": "After enduring unimaginable suffering and uncertainty, the Americans detained in Russia are safe, free, and have begun their journeys back into the arms of their families.",
+                            "position": "10",
+                            "datecreated": "2024-08-01T17:52:03.000Z",
+                            "datepublished": "2024-08-01T17:52:03.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819068590680682579"
+                        },
+                        {
+                            "identifier": "1819058362698400016",
+                            "commentcount": "2161",
+                            "articlebody": "Today, I stood beside the families of Paul, Evan, Alsu, and Vladimir in the Oval Office as they spoke to their loved ones for the first time since they regained freedom. These families never...",
+                            "position": "11",
+                            "datecreated": "2024-08-01T17:11:24.000Z",
+                            "datepublished": "2024-08-01T17:11:24.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819058362698400016"
+                        },
+                        {
+                            "identifier": "1819048063001894938",
+                            "commentcount": "1658",
+                            "articlebody": "Today, we remember all those still wrongfully detained or held hostage around the world. And reaffirm our pledge to their families: We see you. We are with you. And we will never stop working...",
+                            "position": "12",
+                            "datecreated": "2024-08-01T16:30:29.000Z",
+                            "datepublished": "2024-08-01T16:30:29.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819048063001894938"
+                        },
+                        {
+                            "identifier": "1819044277168521438",
+                            "commentcount": "738",
+                            "articlebody": "Join me as I deliver remarks on the release of Americans detained in Russia.",
+                            "position": "13",
+                            "datecreated": "2024-08-01T16:15:26.000Z",
+                            "datepublished": "2024-08-01T16:15:26.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819044277168521438"
+                        },
+                        {
+                            "identifier": "1819039135304208760",
+                            "commentcount": "6928",
+                            "articlebody": "I will not stop working until every American wrongfully detained or held hostage around the world is reunited with their family.",
+                            "position": "14",
+                            "datecreated": "2024-08-01T15:55:00.000Z",
+                            "datepublished": "2024-08-01T15:55:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819039135304208760"
+                        },
+                        {
+                            "identifier": "1819037875658170412",
+                            "commentcount": "4108",
+                            "articlebody": "The deal that secured the freedom of Paul, Evan, Alsu, and Vladimir was a feat of diplomacy. All told, we’ve negotiated the release of 16 people from Russia – some of whom were unjustly...",
+                            "position": "15",
+                            "datecreated": "2024-08-01T15:50:00.000Z",
+                            "datepublished": "2024-08-01T15:50:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819037875658170412"
+                        },
+                        {
+                            "identifier": "1819035443930800616",
+                            "commentcount": "3364",
+                            "articlebody": "Paul Whelan, Evan Gershkovich, Alsu Kurmasheva, and Vladimir Kara-Murza are coming home.",
+                            "position": "16",
+                            "datecreated": "2024-08-01T15:40:20.000Z",
+                            "datepublished": "2024-08-01T15:40:20.000Z",
+                            "url": "https://twitter.com/POTUS/status/1819035443930800616"
+                        },
+                        {
+                            "identifier": "1818984202253087174",
+                            "commentcount": "10077",
+                            "articlebody": "You ought to be able to sit next to your child on a flight without paying more. Today, my Administration is proposing a ban on airlines charging those fees. It'll save a family of four as much...",
+                            "position": "17",
+                            "datecreated": "2024-08-01T12:16:43.000Z",
+                            "datepublished": "2024-08-01T12:16:43.000Z",
+                            "url": "https://twitter.com/POTUS/status/1818984202253087174"
+                        },
+                        {
+                            "identifier": "1818817686261977551",
+                            "commentcount": "2340",
+                            "articlebody": "My new National Security Memorandum would enable our government to disrupt drug cartels more quickly and effectively. It will increase intelligence collection on traffickers’ evolving tactics....",
+                            "position": "18",
+                            "datecreated": "2024-08-01T01:15:03.000Z",
+                            "datepublished": "2024-08-01T01:15:03.000Z",
+                            "url": "https://twitter.com/POTUS/status/1818817686261977551"
+                        },
+                        {
+                            "identifier": "1818817676493344783",
+                            "commentcount": "3244",
+                            "articlebody": "My Administration made naloxone – the life-saving medication that reverses the effects of opioids – widely available over the counter. And we’ve invested over $82 billion in treatment,...",
+                            "position": "19",
+                            "datecreated": "2024-08-01T01:15:00.000Z",
+                            "datepublished": "2024-08-01T01:15:00.000Z",
+                            "url": "https://twitter.com/POTUS/status/1818817676493344783"
+                        },
+                        {
+                            "identifier": "1818788090607009809",
+                            "commentcount": "2386",
+                            "articlebody": "Today, I issued a National Security Memorandum directing every federal Department and Agency to do even more to stop the flow of drugs – including fentanyl – into the U.S. This is a time...",
+                            "position": "20",
+                            "datecreated": "2024-07-31T23:17:26.000Z",
+                            "datepublished": "2024-07-31T23:17:26.000Z",
+                            "url": "https://twitter.com/POTUS/status/1818788090607009809"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Welcome to x.com!\nWe are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.\nFor more details, see our Privacy Policy:",
+                    "content_tokens": 37
+                }
+            }
+        }
+    ]
+}

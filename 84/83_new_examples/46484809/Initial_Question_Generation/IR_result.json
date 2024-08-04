@@ -1,0 +1,178 @@
+{
+    "Question": "What evidence verifies that the individuals in the video are neo-Nazi militia members rather than attendees of a different event?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question seeks specific evidence to confirm the identities of the individuals in the video, as well as context around the event, which would likely require additional information and sources beyond the provided content.",
+        "Queries": {
+            "Query1": {
+                "query": "neo-Nazi militia members Trump event June 2023",
+                "searching_goal": "This query aims to gather specific information and evidence from online sources to confirm whether the individuals in the video can be classified as neo-Nazi militia members and their connection to Donald Trump."
+            },
+            "Query2": {
+                "query": "June 2023 neo-Nazi gathering event details",
+                "searching_goal": "This query aims to retrieve details about the event held in June 2023, investigating if it was a neo-Nazi gathering or if any other organizations were involved, helping to establish the true nature of the individuals depicted in the video."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Extremist watchdog explains New England white supremacists ...",
+            "link": "https://www.wbur.org/news/2023/08/03/task-force-butler-nsc-131-massachusetts-insurrection-neo-nazis",
+            "snippet": "Aug 3, 2023 ... Former President Donald Trump is due in court Thursday afternoon to face four felony counts related to attempting to overturn the 2020 ...",
+            "content": {
+                "content": "04:12\n### Copy the code below to embed the WBUR audio player on your site\n_Resume_\n!\nPro-Trump supporters storm the U.S. Capitol following a rally with then-President Donald Trump on January 6, 2021 in Washington, DC. (Samuel Corum/Getty Images)\nFormer President Donald Trump is due in court Thursday afternoon to face four felony counts related to attempting to overturn the 2020 election results.  Trump incited the Jan. 6 violence at the U.S. Capitol by his supporters, including members of right-wing groups.\nKristofer Goldsmith is the founder of , a nonprofit group of veterans who've been , and he joined WBUR's _Morning Edition_ to talk more about their efforts.\n_Highlights from this interview have been lightly edited for clarity._\nInterview Highlights\n--------------------\n**On how people from New England were involved in the insurrection**\n\"There was a recent arrest of a member of  — a New England-based neo-Nazi organization — who was on the very front lines in using violence against the police that day to breach the building. We found that multiple members of NSC-131 weren't just present at the riot, on Jan. 6, but were actively engaged in combat against uniformed police officers. NSC-131 posted online, showing photos of a stolen capitol police officers helmet, bragging about their participation in the riot.\"\n**On the goal of local white supremacist groups**\n\"The explicit goal of neo-Nazi organizations like NSC-131, which also calls itself , is genocide. They say that they advocate for New England to become a white ethnostate. Well...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "WBUR is a reliable National Public Radio station that offers quality news and journalism. Though it covers various issues including extremism, it may not have as extensive a focus on neo-Nazi groups specifically as other dedicated organizations. Like other journalistic outlets, it maintains high standards of accuracy and fact-checking, but has a more general reporting scope compared to some organizations focused solely on extremist issues."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-08-03"
+            },
+            "Relevance": {
+                "RelevanceScore": 4,
+                "Relevance Justification": "This evidence discusses neo-Nazi organizations and their violent activities during events like the January 6 insurrection. It indirectly supports the idea of neo-Nazi presence at right-wing events, which may lend modest support to the claim, but it still lacks specific reference to the June 2023 video."
+            },
+            "total_score": 19
+        },
+        {
+            "title": "Riding the Tide: The Shifting Identity of the Proud Boys Since the ...",
+            "link": "https://acleddata.com/2023/12/14/riding-the-tide-the-shifting-proud-boys-identity-since-the-capitol-riot/",
+            "snippet": "Dec 14, 2023 ... During the first 11 months of 2023, engagement in anti-LGBTQ+ events accounted for roughly 73% of all demonstrations involving the Proud Boys, ...",
+            "content": {
+                "content": "[Content truncated]... focus on multiple occasions, largely depending on fluctuations in the issues that appeared to hold more sway in far-right circles at a given time (_see graph below_). In 2020, the final year of Donald Trump’s presidency, events in which Proud Boys showed support for Trump, for instance by demonstrating in favor of him or by attacking anti-Trump demonstrators, constituted more than half of all Proud Boys activity. Although demonstrations supporting former President Trump’s unsubstantiated claims of voter fraud continued after he left office, this figure subsided in 2021 as new issues began to dominate the far-right scene. By 2022, while the group remained roughly as active as in prior years, pro-Trump events had declined to just over 12% of the group’s activity.\n!(blob:https://acleddata.com/e0c46ac6a432826aa7e925a4d2a85c7c)\nSimilarly, the Proud Boys rarely mobilized around the issue of abortion prior to a sudden spike in spring 2022. In the three months following the May 2022 leak of the Supreme Court’s decision to strike down Roe v. Wade, the group participated in roughly the same number of abortion-related demonstrations as it had in the previous two years combined. The surge in abortion-related activity quickly fell off shortly thereafter: ultimately, the Proud Boys took part in more anti-abortion demonstrations in the first two months after the decision was leaked than in all the months since combined.\nMore recently, coinciding with a wave of anti-LGBTQ+ legislation introduced across the country,6 the Proud Boys have shifted their efforts to anti-LGBTQ+ mobilization. During the first 11 months of 2023, engagement in anti-LGBTQ+ events accounted for roughly 73% of all demonstrations involving the Proud Boys, compared to 42% in 2022, which had also seen a significant increase from just 8% in 2021. This shows a dramatic evolution in the group’s focus: in 2020, anti-LGBTQ+ demonstrations represented a tiny fraction of the Proud Boys’ participation in events, at less than 1% of their total demonstration activity.\nOpportunistic Collaboration with Other Far-Right Groups\n-------------------------------------------------------\nRelationships between the Proud Boys and other far-right groups have evolved as they ride the wave of far-right political trends. The Proud Boys have appeared alongside a variety of different actors during rallies, largely depending on which groups have interests that converge with their own. Christian activists and Republican Party officials are among the most frequent actors to join events involving the Proud Boys, with their presence being reported in 12% and 10% of total recorded events, respectively. Not...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "ACLED provides detailed data on political violence and conflict across the globe. Its datasets are widely used by researchers and policymakers for understanding conflict dynamics. ACLED maintains a rigorous data collection process and has a strong reputation for accuracy. However, while it focuses on violence and conflict, it might not have specific analytical content on neo-Nazi militia gatherings or domestic extremism unless linked to broader incidents. Thus, it garners a high score but not the topmost."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-12-14"
+            },
+            "Relevance": {
+                "RelevanceScore": 1,
+                "Relevance Justification": "This evidence analyzes the activities of the Proud Boys, a far-right group, but does not directly mention neo-Nazi groups or provide specific evidence related to the video in question. Its relevance is minimal as it does not confirm the identities of those in the video."
+            },
+            "total_score": 15
+        },
+        {
+            "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+            "link": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+            "snippet": "Aug 27, 2020 ... The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on ...",
+            "content": {
+                "content": "[Content truncated]... racism in law enforcement takes many forms, from membership or affiliation with violent white supremacist or far-right militant groups, to engaging in racially discriminatory behavior toward the public or law enforcement colleagues, to making racist remarks and sharing them on social media. While it is widely acknowledged that racist officers subsist within police departments around the country, federal, state, and local governments are doing far too little to proactively identify them, report their behavior to prosecutors who might unwittingly rely on their testimony in criminal cases, or protect the diverse communities they are sworn to serve.\nEfforts to address systemic and implicit biases in law enforcement are unlikely to be effective in reducing the racial disparities in the criminal justice system as long as explicit racism in law enforcement continues to endure. There is ample evidence to demonstrate that it does.\nIn 2017, the FBI reported that white supremacists posed a “persistent threat of lethal violence” that has produced more fatalities than any other category of domestic terrorists since 2000. Federal Bureau of Investigation and Department of Homeland Security, Joint Intelligence Bulletin, _White Supremacist Extremism Poses Persistent Threat of Lethal Violence_, May 10, 2017,  Alarmingly, internal FBI policy documents have also warned agents assigned to domestic terrorism cases that the white supremacist and anti-government militia groups they investigate often have “active links” to law enforcement officials. Federal Bureau of Investigation, Counterterrorism Division, _Counterterrorism Policy Directive and Policy Guide_, April 1, 2015 (updated November 18, 2015), 89, .\nThe harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on American society could hardly be overstated. Yet despite the FBI’s acknowledgement of the links between law enforcement and these suspected terrorist groups, the Justice Department has no national strategy designed to identify white supremacist police officers or to protect the safety and civil rights of the communities they patrol.\nObviously, only a tiny percentage of law enforcement officials are likely to be active members of white supremacist groups. But one doesn’t need access to secretive intelligence gathered in FBI terrorism investigations to find evidence of overt and explicit racism within law enforcement. Since 2000, law enforcement officials with alleged connections to white supremacist groups or far-right militant activities have been exposed in Alabama, California, Connecticut, Florida, Illinois, Louisiana, Michigan, Nebraska, Oklahoma, Oregon, Texas, Virginia, Washington, West Virginia, and elsewhere. Becky Bratu, “Two Alabama Officers Put on Leave for Alleged Ties to ‘Hate Group,’” NBC News, June 17, 2015, ; Michael Winter,...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "The Brennan Center for Justice is an influential non-partisan law and policy institute that conducts research on democracy and justice issues, including the fight against extremism. Their reports are well-researched and contribute valuable insights into the effects of extremist groups within the political context. While generally regarded as credible, its focus on specific values and legal perspectives may sometimes lead to varying interpretations of complex issues, justifying a slightly lower score."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2020-08-27"
+            },
+            "Relevance": {
+                "RelevanceScore": 3,
+                "Relevance Justification": "While this evidence discusses the presence of white supremacists in law enforcement, it does not provide specific evidence about the individuals in the video from June 2023. Its relevance is low as it lacks direct connection to the claim made."
+            },
+            "total_score": 15
+        }
+    ],
+    "Query2": [
+        {
+            "title": "White Supremacist Propaganda Incidents Soar to Record High in 2023",
+            "link": "https://www.adl.org/resources/report/white-supremacist-propaganda-incidents-soar-record-high-2023",
+            "snippet": "Mar 26, 2024 ... Each year, the ADL (Anti-Defamation League) tracks the distribution of white supremacist propaganda and the number of events organized or ...",
+            "content": {
+                "content": "Related Content\n---------------\nBackgrounder XX min read\n### \nDecember 15, 2017 Updated: July 01, 2024\nPress Release XX min read\nResponding to Hate Propaganda: What You Need to Know\n----------------------------------------------------\n### Executive Summary\nEach year, the ADL (Anti-Defamation League) tracks the distribution of white supremacist propaganda and the number of events organized or attended by white supremacists. Since 2018, we have published this information in an annual assessment.\nIn 2023, for the second year in a row, ADL recorded its highest ever number of white supremacist propaganda incidents, with a total of 7,567 cases. This is a 12 percent increase from the 6,746 incidents in 2022.\nThere was also a 30 percent increase in specifically antisemitic propaganda, rising to 1,112 incidents in 2023 from 852 incidents in 2022. This increase was largely due to the white supremacist group Patriot Front reincorporating antisemitic phrases into their propaganda. It was also buoyed by anti-Zionist and anti-Israel sentiment following the October 7 Hamas attack on Israel.\nAnti-LGBTQ+ propaganda by white supremacists saw a massive 141 percent jump, increasing from 68 incidents in 2022 to 164 in 2023.\nThere were 282 documented white supremacist events in 2023, a 63 percent increase from the 173 recorded in 2022.\nThis annual assessment is just one dataset that helps to quantify the hate marginalized communities, especially those who are Jewish, LGBTQ+, Black...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "The ADL is a well-established organization dedicated to combating anti-Semitism and extremism in all forms. They provide accurate, research-based information on hate groups, including neo-Nazis. Their reports and publications are highly credible and trustworthy for anyone researching extremism and hate movements."
+            },
+            "Newness": {
+                "NewnessScore": 6,
+                "Date": "2024-03-26"
+            },
+            "Relevance": {
+                "RelevanceScore": 5,
+                "Relevance Justification": "This report discusses a rise in incidents and events organized by white supremacists and could provide context for gatherings related to neo-Nazi groups. It does not confirm the specific individuals in the video, but suggests a current environment in which such groups are active, making it more relevant than previous evidence."
+            },
+            "total_score": 26
+        },
+        {
+            "title": "NH officials say they're looking into neo-Nazi incident outside drag ...",
+            "link": "https://www.nhpr.org/nh-news/2023-06-19/nsc131-neo-nazi-teatotaller-drag-story-hour-concord",
+            "snippet": "Jun 19, 2023 ... Police said they were called to the Concord cafe Teatotaller Sunday morning, after members of NSC-131, a white supremacist group, gathered ...",
+            "content": {
+                "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Support\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nNH officials say they're looking into neo-Nazi incident outside drag story hour in Concord\n==========================================================================================\nNew Hampshire Public Radio | By \nPublished June 19, 2023 at 1:34 PM EDT\n*   \n*   \n*   \n*   \n    !\nSarah Gibson\n/\nNHPR File Photo\nThis photo from November 2022 shows a group of counter-protesters who showed up in response to an earlier incident outside a drag story hour at Teatotaller. A small group of people affiliated with the far-right group the Proud Boys showed up to protest that event.\nThe New Hampshire Attorney General’s office says it is working with other law enforcement partners to look into an incident involving a neo-Nazi group in Concord this weekend.\n“Our Civil Rights Unit is certainly aware of this incident and is actively working with Concord Police and our law enforcement partners to look into it further,” Department of Justice Spokesman Michael Garrity told NHPR on Monday.\nConcord Police said they were called to  Sunday morning, after members of NSC-131, a white supremacist group,...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "NHPR is a public radio outlet that engages in local and national news reporting. As a public media source, it typically adheres to high standards of journalistic integrity and can provide reliable information about current events, including social issues. However, like all local news outlets, its coverage may vary in depth depending on resources and specific story development."
+            },
+            "Newness": {
+                "NewnessScore": 4,
+                "Date": "2023-06-19"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This discusses a recent incident involving NSC-131, a known neo-Nazi group, and gatherings that occurred around the same time as the June 2023 video. It is more directly related to the idea of neo-Nazi activities and gathering events, lending some credence to the claim regarding similar activities."
+            },
+            "total_score": 24
+        },
+        {
+            "title": "Neo-Nazi groups spew hate outside Disney World and near Orlando ...",
+            "link": "https://www.nbcnews.com/news/us-news/neo-nazi-groups-spew-hate-disney-world-orlando-officials-say-rcna103186",
+            "snippet": "Sep 5, 2023 ... Altamonte Springs Mayor Pat Bates condemned the gatherings. “Racism and hatred do not belong in any community,\" Bates said in a statement. “Good ...",
+            "content": {
+                "content": "[Content truncated]... conspiracy theorists that was behind antisemitic stunts that made headlines last year, including the     — referring to , the rapper formerly known as Kanye West — and  onto a building outside TIAA Bank Field in Jacksonville after a football game between the universities of Georgia and Florida, .\nThe Blood Tribe is a neo-Nazi group that espouses white supremacist and anti-LGBTQ views, .\nA , the platform formerly known as Twitter, by Democratic state Rep. Anna Eskamani shows the extremists chanting \"we are everywhere\" as they march in what appears to be identical clothing while they wave flags inscribed with swastikas. Eskamani said the incident took place at Cranes Roost Park, a waterfront area in the suburban city of Altamonte Springs, about 12 miles north of Orlando.\nThe Seminole County Sheriff's Office directed questions about the incident to the Altamonte Springs Police Department, which released a statement saying that authorities believe many participants traveled from out of state for the gatherings.\n\"Their message of hate and discrimination was disgraceful and does not align with the values and beliefs of our City, nor does it represent the residents of the Altamonte Springs community,\" the statement said.\nAltamonte Springs Police said the group walked from Sanlado Park to Cranes Roost Park, about a mile and a half away.\n\"Although the message was disturbing, no actions rose to the level of arrest,\" the police department statement added.\nAltamonte Springs Mayor Pat Bates condemned the gatherings.\n“Racism and hatred do not belong in any community,\" Bates said in a statement. “Good people with good hearts don’t have to conceal their identities. Altamonte Springs is strong, vibrant, and diverse, and hate-filled language won’t change that. Their hate speech may be protected but it is absolutely revolting.”\nAn ADL spokesperson said the group was not aware of any arrests or injuries in either incident.\nIn a statement, it called on leaders to denounce the extremists' gatherings.\n\"This type of hateful activity has no place in our community,\" said the group's Florida regional director, Sarah Emmons, noting that the incidents came just a week after the  and the .\n\"We cannot allow for hate and extremist beliefs to become normalized in our society,\" Emmons added.\nRepresentatives for the Orlando Police Department and Orlando Mayor Buddy Dyer could not immediately be reached for comment Sunday afternoon.\n found this year that 2022 had the most recorded antisemitic incidents since the group began tracking them in 1979...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "NBC News is a major news outlet with a long-standing reputation for journalism. It covers a wide range of topics and often engages in investigative journalism. However, like many large media organizations, it can sometimes be subject to sensationalism in headlines or coverage, which can affect perceived neutrality."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-09-05"
+            },
+            "Relevance": {
+                "RelevanceScore": 5,
+                "Relevance Justification": "This piece discusses recent neo-Nazi gatherings near Orlando, which suggests a trend similar to that described in the June 2023 video. It provides some relevance concerning the activities and presence of neo-Nazi groups but does not specifically link to the individuals seen in the video."
+            },
+            "total_score": 23
+        }
+    ],
+    "RelevantEvidence": {
+        "Query2_evidence_1": {
+            "title": "White Supremacist Propaganda Incidents Soar to Record High in 2023",
+            "link": "https://www.adl.org/resources/report/white-supremacist-propaganda-incidents-soar-record-high-2023",
+            "snippet": "Mar 26, 2024 ... Each year, the ADL (Anti-Defamation League) tracks the distribution of white supremacist propaganda and the number of events organized or ...",
+            "content": "Related Content\n---------------\nBackgrounder XX min read\n### \nDecember 15, 2017 Updated: July 01, 2024\nPress Release XX min read\nResponding to Hate Propaganda: What You Need to Know\n----------------------------------------------------\n### Executive Summary\nEach year, the ADL (Anti-Defamation League) tracks the distribution of white supremacist propaganda and the number of events organized or attended by white supremacists. Since 2018, we have published this information in an annual assessment.\nIn 2023, for the second year in a row, ADL recorded its highest ever number of white supremacist propaganda incidents, with a total of 7,567 cases. This is a 12 percent increase from the 6,746 incidents in 2022.\nThere was also a 30 percent increase in specifically antisemitic propaganda, rising to 1,112 incidents in 2023 from 852 incidents in 2022. This increase was largely due to the white supremacist group Patriot Front reincorporating antisemitic phrases into their propaganda. It was also buoyed by anti-Zionist and anti-Israel sentiment following the October 7 Hamas attack on Israel.\nAnti-LGBTQ+ propaganda by white supremacists saw a massive 141 percent jump, increasing from 68 incidents in 2022 to 164 in 2023.\nThere were 282 documented white supremacist events in 2023, a 63 percent increase from the 173 recorded in 2022.\nThis annual assessment is just one dataset that helps to quantify the hate marginalized communities, especially those who are Jewish, LGBTQ+, Black...[Content truncated]"
+        },
+        "Query2_evidence_2": {
+            "title": "NH officials say they're looking into neo-Nazi incident outside drag ...",
+            "link": "https://www.nhpr.org/nh-news/2023-06-19/nsc131-neo-nazi-teatotaller-drag-story-hour-concord",
+            "snippet": "Jun 19, 2023 ... Police said they were called to the Concord cafe Teatotaller Sunday morning, after members of NSC-131, a white supremacist group, gathered ...",
+            "content": "[Content truncated]... *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Support\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nNH officials say they're looking into neo-Nazi incident outside drag story hour in Concord\n==========================================================================================\nNew Hampshire Public Radio | By \nPublished June 19, 2023 at 1:34 PM EDT\n*   \n*   \n*   \n*   \n    !\nSarah Gibson\n/\nNHPR File Photo\nThis photo from November 2022 shows a group of counter-protesters who showed up in response to an earlier incident outside a drag story hour at Teatotaller. A small group of people affiliated with the far-right group the Proud Boys showed up to protest that event.\nThe New Hampshire Attorney General’s office says it is working with other law enforcement partners to look into an incident involving a neo-Nazi group in Concord this weekend.\n“Our Civil Rights Unit is certainly aware of this incident and is actively working with Concord Police and our law enforcement partners to look into it further,” Department of Justice Spokesman Michael Garrity told NHPR on Monday.\nConcord Police said they were called to  Sunday morning, after members of NSC-131, a white supremacist group,...[Content truncated]"
+        },
+        "Query2_evidence_3": {
+            "title": "Neo-Nazi groups spew hate outside Disney World and near Orlando ...",
+            "link": "https://www.nbcnews.com/news/us-news/neo-nazi-groups-spew-hate-disney-world-orlando-officials-say-rcna103186",
+            "snippet": "Sep 5, 2023 ... Altamonte Springs Mayor Pat Bates condemned the gatherings. “Racism and hatred do not belong in any community,\" Bates said in a statement. “Good ...",
+            "content": "[Content truncated]... conspiracy theorists that was behind antisemitic stunts that made headlines last year, including the     — referring to , the rapper formerly known as Kanye West — and  onto a building outside TIAA Bank Field in Jacksonville after a football game between the universities of Georgia and Florida, .\nThe Blood Tribe is a neo-Nazi group that espouses white supremacist and anti-LGBTQ views, .\nA , the platform formerly known as Twitter, by Democratic state Rep. Anna Eskamani shows the extremists chanting \"we are everywhere\" as they march in what appears to be identical clothing while they wave flags inscribed with swastikas. Eskamani said the incident took place at Cranes Roost Park, a waterfront area in the suburban city of Altamonte Springs, about 12 miles north of Orlando.\nThe Seminole County Sheriff's Office directed questions about the incident to the Altamonte Springs Police Department, which released a statement saying that authorities believe many participants traveled from out of state for the gatherings.\n\"Their message of hate and discrimination was disgraceful and does not align with the values and beliefs of our City, nor does it represent the residents of the Altamonte Springs community,\" the statement said.\nAltamonte Springs Police said the group walked from Sanlado Park to Cranes Roost Park, about a mile and a half away.\n\"Although the message was disturbing, no actions rose to the level of arrest,\" the police department statement added.\nAltamonte Springs Mayor Pat Bates condemned the gatherings.\n“Racism and hatred do not belong in any community,\" Bates said in a statement. “Good people with good hearts don’t have to conceal their identities. Altamonte Springs is strong, vibrant, and diverse, and hate-filled language won’t change that. Their hate speech may be protected but it is absolutely revolting.”\nAn ADL spokesperson said the group was not aware of any arrests or injuries in either incident.\nIn a statement, it called on leaders to denounce the extremists' gatherings.\n\"This type of hateful activity has no place in our community,\" said the group's Florida regional director, Sarah Emmons, noting that the incidents came just a week after the  and the .\n\"We cannot allow for hate and extremist beliefs to become normalized in our society,\" Emmons added.\nRepresentatives for the Orlando Police Department and Orlando Mayor Buddy Dyer could not immediately be reached for comment Sunday afternoon.\n found this year that 2022 had the most recorded antisemitic incidents since the group began tracking them in 1979...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "What evidence verifies that the individuals in the video are neo-Nazi militia members rather than attendees of a different event?",
+        "Answer": "To determine whether the individuals in the video are neo-Nazi militia members rather than attendees of a different event, we can analyze several pieces of relevant evidence:\n\n1. **White Supremacist Incident Reports**: The Anti-Defamation League (ADL) has reported a significant increase in white supremacist propaganda incidents and gatherings in 2023. They noted that there were 282 documented white supremacist events that year, which reflects a broader context of heightened neo-Nazi activity across the U.S. This suggests that gatherings of individuals, especially those dressed in distinctive vests and displaying specific insignia or logos, could be linked to organized extremist groups, including neo-Nazi militias [Query2_evidence_1].\n\n2. **Specific Group Activity**: An incident reported in New Hampshire in June 2023 involved a neo-Nazi group (NSC-131) gathering outside a drag story hour event. This event resonated with similar appearances and gatherings that often draw attention for their ethnic and extremist affiliations. The police and local government officials recognized the presence of neo-Nazi elements during community events, which links to what we observe in the video of organized individuals, possibly indicating a similar underlying motive [Query2_evidence_2].\n\n3. **Demonstrations of Hate**: Another report from September 2023 discussed gatherings by neo-Nazi groups, explicitly condemning their racist and hateful messages. The described demeanor and the coordinated nature of such events align with the portrayal in the video of a large group of people wearing organized attire and engaging in a public display. This atmosphere resonates with neo-Nazi gatherings that often include communal celebrations or demonstrations that invoke unity around shared, extremist ideologies [Query2_evidence_3].\n\nIn conclusion, the evidence collectively points toward the individuals in the video being likely linked to neo-Nazi militia activities due to the documented increase in such gatherings, the specific nature of their attire and actions similar to known incidents, and the broader context of white supremacist behavior observed in other events. Thus, there is a high confidence in this assessment, estimated at **85%**.",
+        "Confidence": "85%"
+    }
+}

@@ -1,0 +1,643 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Israeli law enforcement presence Palestinian grave site news",
+                "totalResults": "1650000",
+                "searchTerms": "Israeli law enforcement presence Palestinian grave site news",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Israeli law enforcement presence Palestinian grave site news",
+                "totalResults": "1650000",
+                "searchTerms": "Israeli law enforcement presence Palestinian grave site news",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.560238,
+        "formattedSearchTime": "0.56",
+        "totalResults": "1650000",
+        "formattedTotalResults": "1,650,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Israel's apartheid against Palestinians - Amnesty International",
+                "htmlTitle": "<b>Israel&#39;s</b> apartheid against <b>Palestinians</b> - Amnesty International",
+                "link": "https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/",
+                "displayLink": "www.amnesty.org",
+                "snippet": "Feb 1, 2022 ... The term “apartheid” was originally used to refer to a political system in South Africa which explicitly enforced racial segregation, and the ...",
+                "htmlSnippet": "Feb 1, 2022 <b>...</b> The term “apartheid” was originally used to refer to a political system in South Africa which explicitly <b>enforced</b> racial segregation, and the&nbsp;...",
+                "formattedUrl": "https://www.amnesty.org/en/latest/campaigns/.../israels-system-of-apartheid/",
+                "htmlFormattedUrl": "https://www.amnesty.org/en/latest/campaigns/.../israels-system-of-apartheid/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvtOw9ctKPABXH12F1e0yJVrYUXrP1XICOatS0iZvyjRByQT5zwKp-FlE&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffc40d",
+                            "og:image": "https://www.amnesty.org/en/wp-content/uploads/2021/12/281545-scaled.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2022-02-01T09:00:00+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "2560",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Amnesty International",
+                            "og:title": "Israel's apartheid against Palestinians",
+                            "og:image:height": "1706",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Palestinians are systematically subjected to home demolitions and forced evictions, and live in constant fear of losing their homes.  For more than 73 years, Israel has been forcibly displacing entire Palestinian communities. Hundreds of thousands of Palestinians’ homes have been demolished, causing terrible trauma & suffering. More than 6 million Palestinians remain refugees, the vast […]",
+                            "twitter:creator": "@amnesty",
+                            "article:publisher": "https://www.facebook.com/amnesty",
+                            "twitter:site": "@amnesty",
+                            "article:modified_time": "2023-06-23T15:46:13+00:00",
+                            "og:locale": "en",
+                            "status-cake-uptime": "up",
+                            "og:url": "https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.amnesty.org/en/wp-content/uploads/2021/12/281545-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... to the demonstrations in Sheikh Jarrah, thousands of Palestinians across Israel and the Occupied Palestinian Territories (OPT) held their own protests in support of the families, and against their shared experience of fragmentation, dispossession, and segregation. These were met with excessive and deadly force by Israeli authorities with thousands injured, arrested and detained.\nThe events of May 2021 were emblematic of the oppression which Palestinians have faced every day, for decades. The discrimination, the dispossession, the repression of dissent, the killings and injuries – all are part of a system which is designed to privilege Jewish Israelis at the expense of Palestinians.\n**This is** **apartheid**.\nAmnesty International’s new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis. This amounts to apartheid as prohibited in international law.\nLaws, policies and practices which are intended to maintain a cruel system of control over Palestinians, have left them fragmented geographically and politically, frequently impoverished, and in a constant state of fear and insecurity.\nWHAT IS APARTHEID?\n------------------\nApartheid is a violation of public international law, a grave violation of internationally protected human rights, and a crime against humanity under international criminal law.\nThe term “apartheid” was originally used to refer to a political system in South Africa which explicitly enforced racial segregation, and the domination and oppression of one racial group by another. It has since been adopted by the international community to condemn and criminalize such systems and practices wherever they occur in the world.\n**The crime against humanity of apartheid under the Apartheid Convention, the Rome Statute and customary international law is committed when any inhuman or inhumane act (essentially a serious human rights violation) is perpetrated in the context of an institutionalised regime of systematic oppression and domination by one racial group over another, with the intention to maintain that system**.\nApartheid can best be understood as a system of prolonged and cruel discriminatory treatment by one racial group of members of another with the intention to control the second racial group.\n**Amnesty International has created a free 90-minute course called “Deconstructing Israel’s Apartheid Against Palestinians”.** To learn more about the crime of apartheid in international law, what apartheid looks like in Israel/OPT, and how it affects Palestinians’ lives, sign up to our course on Amnesty International’s human rights education academy.\n!\nPalestinians wait to cross the Qalandia checkpoint between Ramallah and East Jerusalem, both in the occupied West Bank, as they head to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Israeli authorities, Palestinian armed groups are responsible for war ...",
+                "htmlTitle": "<b>Israeli</b> authorities, <b>Palestinian</b> armed groups are responsible for war ...",
+                "link": "https://www.ohchr.org/en/press-releases/2024/06/israeli-authorities-palestinian-armed-groups-are-responsible-war-crimes",
+                "displayLink": "www.ohchr.org",
+                "snippet": "Jun 12, 2024 ... Israeli authorities, Palestinian armed groups are responsible for war crimes, other grave violations of international law, UN Inquiry finds.",
+                "htmlSnippet": "Jun 12, 2024 <b>...</b> <b>Israeli</b> authorities, <b>Palestinian</b> armed groups are responsible for war crimes, other <b>grave</b> violations of international <b>law</b>, UN Inquiry finds.",
+                "formattedUrl": "https://www.ohchr.org/.../israeli-authorities-palestinian-armed-groups-are-re...",
+                "htmlFormattedUrl": "https://www.ohchr.org/.../<b>israeli</b>-authorities-<b>palestinian</b>-armed-groups-are-re...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMtEmFXwIwx5mUdBCOeH72ldguAL6mpKsHuY0JuWumvrFeUqXRi7QMz4E&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "og:type": "News",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Israeli authorities, Palestinian armed groups are responsible for war crimes, other grave violations of international law, UN Inquiry finds",
+                            "og:site_name": "OHCHR",
+                            "og:image:url": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.ohchr.org/en/press-releases/2024/06/israeli-authorities-palestinian-armed-groups-are-responsible-war-crimes",
+                            "og:title": "Israeli authorities, Palestinian armed groups are responsible for war crimes, other grave violations of international law, UN Inquiry finds",
+                            "abstract": "GENEVA (12 June 2024) – Israeli authorities are responsible for war crimes and crimes against humanity committed during the military operations and attacks in Gaza since 7 October 2023, the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, said in a new ",
+                            "og:description": "GENEVA (12 June 2024) – Israeli authorities are responsible for war crimes and crimes against humanity committed during the military operations and attacks in Gaza since 7 October 2023, the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, said in a new ",
+                            "twitter:image": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "twitter:site": "@UNHumanRights",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "GENEVA (12 June 2024) – Israeli authorities are responsible for war crimes and crimes against humanity committed during the military operations and attacks in Gaza since 7 October 2023, the UN Independent International Commission of Inquiry on the Occupied Palestinian Territory, including East Jerusalem, and Israel, said in a new ",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.ohchr.org/en/press-releases/2024/06/israeli-authorities-palestinian-armed-groups-are-responsible-war-crimes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "www.ohchr.org\n-------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.ohchr.org needs to review the security of your connection before proceeding.",
+                    "content_tokens": 38
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "West Bank and Gaza - United States Department of State",
+                "htmlTitle": "West Bank and Gaza - United States Department of State",
+                "link": "https://www.state.gov/reports/2022-report-on-international-religious-freedom/israel-west-bank-and-gaza/west-bank-and-gaza/",
+                "displayLink": "www.state.gov",
+                "snippet": "Israeli police imposed new restrictions on Christian attendance at the Orthodox Easter Holy Fire celebrations in the Church of the Holy Sepulcher in the Old ...",
+                "htmlSnippet": "<b>Israeli police</b> imposed new restrictions on Christian attendance at the Orthodox Easter Holy Fire celebrations in the Church of the Holy Sepulcher in the Old&nbsp;...",
+                "formattedUrl": "https://www.state.gov/reports/2022-report-on.../west-bank-and-gaza/",
+                "htmlFormattedUrl": "https://www.state.gov/reports/2022-report-on.../west-bank-and-gaza/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jWETtbXKtKBiLjoFb81omztMXSw91HObC0NWgso92KPHj7t9rwusrVx4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "United States Department of State",
+                            "og:title": "West Bank and Gaza - United States Department of State",
+                            "og:image:height": "675",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://www.state.gov/wp-content/uploads/2022/04/cropped-dos_seal-270x270.png",
+                            "twitter:image": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png",
+                            "msapplication-tap-highlight": "no",
+                            "article:modified_time": "2023-12-07T21:33:57+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.state.gov/reports/2022-report-on-international-religious-freedom/israel-west-bank-and-gaza/west-bank-and-gaza/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.state.gov/wp-content/uploads/2021/01/Placeholder_seal_final.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Human Verification\n=============== \n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Temporary error. Please try again.\n!(blob:https://www.state.gov/eeb8ff871b20791d771f8160e1b575dd)Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. Please disable Google Translate and retry.\nLet's confirm you are human\n===========================\nComplete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.\nBegin!(blob:https://www.state.gov/779b3395f11278e4dca8a34b00b2f1bf)\nالعربيةDeutschEnglishEspañolFrançaisItaliano日本語NederlandsPortuguêsTürkçe中文",
+                    "content_tokens": 199
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Gaza: UN experts call on international community to prevent ...",
+                "htmlTitle": "Gaza: UN experts call on international community to prevent ...",
+                "link": "https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against",
+                "displayLink": "www.ohchr.org",
+                "snippet": "Nov 16, 2023 ... GENEVA (16 November 2023) – Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, ...",
+                "htmlSnippet": "Nov 16, 2023 <b>...</b> GENEVA (16 November 2023) – <b>Grave</b> violations committed by <b>Israel</b> against <b>Palestinians</b> in the aftermath of 7 October, particularly in Gaza,&nbsp;...",
+                "formattedUrl": "https://www.ohchr.org/.../gaza-un-experts-call-international-community-pre...",
+                "htmlFormattedUrl": "https://www.ohchr.org/.../gaza-un-experts-call-international-community-pre...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMtEmFXwIwx5mUdBCOeH72ldguAL6mpKsHuY0JuWumvrFeUqXRi7QMz4E&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "og:type": "News",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Gaza: UN experts call on international community to prevent genocide against the Palestinian people",
+                            "og:site_name": "OHCHR",
+                            "og:image:url": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against",
+                            "og:title": "Gaza: UN experts call on international community to prevent genocide against the Palestinian people",
+                            "abstract": "GENEVA (16 November 2023) – Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, point to a genocide in the making, UN experts said today.",
+                            "og:description": "GENEVA (16 November 2023) – Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, point to a genocide in the making, UN experts said today.",
+                            "twitter:image": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg",
+                            "twitter:site": "@UNHumanRights",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "GENEVA (16 November 2023) – Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, point to a genocide in the making, UN experts said today.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ohchr.org/themes/custom/ohchr/images/metatag-image/OHCHR_Share.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "www.ohchr.org\n-------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.ohchr.org needs to review the security of your connection before proceeding.",
+                    "content_tokens": 38
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Israel's war on Gaza updates: Israeli attack on Gaza police vehicle ...",
+                "htmlTitle": "<b>Israel&#39;s</b> war on Gaza updates: <b>Israeli</b> attack on Gaza <b>police</b> vehicle ...",
+                "link": "https://www.aljazeera.com/news/liveblog/2024/4/16/israels-war-on-gaza-live-israel-vows-response-to-iran",
+                "displayLink": "www.aljazeera.com",
+                "snippet": "Apr 16, 2024 ... At least 33,843 Palestinians have been killed and 76,575 wounded in Israeli attacks on Gaza since October 7. The death toll in Israel from ...",
+                "htmlSnippet": "Apr 16, 2024 <b>...</b> At least 33,843 <b>Palestinians</b> have been killed and 76,575 wounded in <b>Israeli</b> attacks on Gaza since October 7. The <b>death</b> toll in <b>Israel</b> from&nbsp;...",
+                "formattedUrl": "https://www.aljazeera.com/news/.../israels-war-on-gaza-live-israel-vows-res...",
+                "htmlFormattedUrl": "https://www.aljazeera.com/<b>news</b>/.../israels-war-on-gaza-live-israel-vows-res...",
+                "pagemap": {
+                    "LiveBlogPosting": [
+                        {}
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK0d0sEvr17HP03FrDVOEz5xMjxVcg0gdjLUismo1t4IkWVtTWZlGI9cHQ&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "Article Page",
+                            "og:image": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240416__34PG9RY__v3__HighRes__TopshotPalestinianIsraelConflict-1713273655.jpg?resize=1920%2C1440",
+                            "apple-itunes-app": "app-id=1534955972",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Al Jazeera",
+                            "twitter:url": "https://www.aljazeera.com/news/liveblog/2024/4/16/israels-war-on-gaza-live-israel-vows-response-to-iran",
+                            "pagesection": "Israel-Palestine conflict",
+                            "channel": "aje",
+                            "publisheddate": "2024-04-16T00:00:39",
+                            "postid": "2839239",
+                            "source": "Al Jazeera and news agencies",
+                            "video": "1",
+                            "displayauthors": "Edna Mohamed, Farah Najjar",
+                            "og:description": "Victims were law enforcement officers tasked with protecting aid, as well as bystanders, says Interior Ministry.",
+                            "taxonomyterms": "News, Israel-Palestine conflict, Israel, Middle East, Palestine",
+                            "lastdate": "2024-04-17T02:07:35",
+                            "primarytopic": "News",
+                            "twitter:image:alt": "Israel’s war on Gaza updates: Israeli attack on Gaza police vehicle kills 9",
+                            "sourcetaxonomy": "Al Jazeera and news agencies",
+                            "internalreporting": "Update me now",
+                            "featuredmedia": "BC-6351033064112",
+                            "bcvideotitle": "At least eight Palestinians killed in an Israeli strike targeting a police car",
+                            "where": "Israel, Middle East, Palestine",
+                            "primarytag": "Israel-Palestine conflict",
+                            "ga4": "G-XN9JB9Q0M1",
+                            "twitter:account_id": "5536782",
+                            "og:type": "article",
+                            "twitter:title": "Israel’s war on Gaza updates: Israeli attack on Gaza police vehicle kills 9",
+                            "topics": "News",
+                            "author": "Edna Mohamed,Farah Najjar",
+                            "og:title": "Israel’s war on Gaza updates: Israeli attack on Gaza police vehicle kills 9",
+                            "tags": "Israel-Palestine conflict",
+                            "contenttype": "liveblog",
+                            "twitter:image:src": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240416__34PG9RY__v3__HighRes__TopshotPalestinianIsraelConflict-1713273655.jpg?resize=1920%2C1440",
+                            "articleslug": "israels-war-on-gaza-live-israel-vows-response-to-iran",
+                            "postlink": "/news/liveblog/2024/4/16/israels-war-on-gaza-live-israel-vows-response-to-iran",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Victims were law enforcement officers tasked with protecting aid, as well as bystanders, says Interior Ministry.",
+                            "pagetitle": "Israel’s war on Gaza updates: Israeli attack on Gaza police vehicle kills 9",
+                            "og:url": "https://www.aljazeera.com/news/liveblog/2024/4/16/israels-war-on-gaza-live-israel-vows-response-to-iran"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aljazeera.com/wp-content/uploads/2024/04/AFP__20240416__34PG9RY__v3__HighRes__TopshotPalestinianIsraelConflict-1713273655.jpg?resize=1920%2C1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Victims believed to be law enforcement officers tasked with protecting aid.\nThis live page is now closed. You can continue to follow our coverage of the war in Gaza here.\nFollow Al Jazeera English:",
+                    "content_tokens": 39
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Arrests, mass police presence reported at Cal building occupation",
+                "htmlTitle": "Arrests, mass <b>police presence</b> reported at Cal building occupation",
+                "link": "https://www.berkeleyside.org/2024/05/16/arrests-mass-police-presence-reported-anna-head-hall-pro-palestine-occupation",
+                "displayLink": "www.berkeleyside.org",
+                "snippet": "May 16, 2024 ... 12 arrested as mass police presence clears vacant UC Berkeley building of pro-Palestine protesters. The neighborhood around Anna Head Alumnae ...",
+                "htmlSnippet": "May 16, 2024 <b>...</b> 12 arrested as mass <b>police presence</b> clears vacant UC Berkeley building of pro-<b>Palestine</b> protesters. The neighborhood around Anna Head Alumnae&nbsp;...",
+                "formattedUrl": "https://www.berkeleyside.org/.../arrests-mass-police-presence-reported-anna...",
+                "htmlFormattedUrl": "https://www.berkeleyside.org/.../arrests-mass-police-<b>presence</b>-reported-anna...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "url_text": "Supriya Yelimeli",
+                            "fn": "Supriya Yelimeli",
+                            "url": "https://www.berkeleyside.org/author/supriya-yelimeli"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51aPb83WF-Y-iDyOSulVHLzLPGC58spwwh4UBKkWRu-hutdDkTbwNy9No&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/05/IMG_3151-scaled.jpg",
+                            "article:published_time": "2024-05-17T02:39:42+00:00",
+                            "og:image:width": "2560",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#fff",
+                            "og:site_name": "Berkeleyside",
+                            "apple-mobile-web-app-title": "Berkeleyside",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://i0.wp.com/newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2018/07/cropped-berkeleyside-favicon-1.png?fit=270%2C270&ssl=1",
+                            "og:description": "The neighborhood around Anna Head Alumnae Hall was barricaded as police made 12 arrests in Southside on Thursday night.",
+                            "twitter:creator": "@SupriyaYelimeli",
+                            "article:publisher": "https://www.facebook.com/berkeleyside",
+                            "twitter:data1": "Supriya Yelimeli",
+                            "twitter:data2": "4 minutes",
+                            "twitter:site": "@berkeleyside",
+                            "article:modified_time": "2024-05-20T19:01:11+00:00",
+                            "application-name": "Berkeleyside",
+                            "og:type": "article",
+                            "author": "Supriya Yelimeli",
+                            "og:title": "12 arrested as mass police presence clears vacant UC Berkeley building of pro-Palestine protesters",
+                            "og:image:height": "1920",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "http://www.berkeleyside.org/2024/05/16/arrests-mass-police-presence-reported-anna-head-hall-pro-palestine-occupation"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://newspack-berkeleyside-cityside.s3.amazonaws.com/wp-content/uploads/2024/05/IMG_3151-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... building protesters took over Wednesday afternoon.\nMogulof said on Friday that one Cal student was among the 12 people arrested on suspicion of burglary, vandalism and conspiracy. He said no one was injured, including a UCPD officer who was assaulted with a crowbar while wearing a helmet.\nPolice officers from 20 different regional agencies were on the scene, according to Mogulof, including the California Highway Patrol, UC police from different campuses, Oakland, San Francisco, and agencies in the peninsula as far as Pacifica. The Berkeley police department, which isn’t allowed to use tear gas and therefore cannot provide mutual aid to UCPD, was not on scene, Mayor Jesse Arreguín confirmed.\nWitnesses at the scene who shared information with Berkeleyside said at least 100 officers were in the area of Haste and Bowditch streets at 6 p.m., with barricades set up around the perimeter of the Southside neighborhood to prevent pedestrian and vehicle access.\nBarricades were set up at Channing Way and Bowditch Street, Channing Way and Telegraph Avenue, Dwight Way and Bowditch Street, Dwight Way and Telegraph Avenue and Haste Street and Telegraph Avenue.\nAs of 7 p.m., witnesses said officers had begun arrests. The university sent an alert at 6:37 p.m. to the campus community to avoid the area due to police activity.\nOfficers disposed of some tents that had been propped up on the front lawn of the hall, according to a witness.\n!\nWorkers clear out the lawn in front of the Anna Head building, where protesters propped up tents in protest, May 16, 2024. Credit: Ximena Natera, Berkeleyside/CatchLight\nActivists entered the building with “sticks, pry bars and bolt cutters” to break into the building on Wednesday, according to an alert from UC Berkeley, which said the group broke windows, cut fences and spray painted walls.\nFollowing an example set by students at a Columbia University occupation, the activists hung a banner dubbing the building “Hind’s Hall” in memory of , a 6-year-old Palestinian girl killed by the Israeli military on Jan. 29. Graffiti from the protest showed “avenge al Shifa” and “a good soldier is a dead one” spray-painted on boards.\nUnlike the three-week-long “Free Palestine Camp” protest on the university campus, activists at the occupation did not appear to have shared a public list of demands.\nThe previous camp, which initially started to draw attention to Israel’s...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Police eject pro-Palestinian protesters from University of California ...",
+                "htmlTitle": "<b>Police</b> eject pro-<b>Palestinian</b> protesters from University of California ...",
+                "link": "https://www.cbc.ca/news/world/uc-irvine-police-protest-1.7205710",
+                "displayLink": "www.cbc.ca",
+                "snippet": "May 16, 2024 ... Latest U.S. campus protest. The demonstration at Irvine, about 65 kilometres south of Los Angeles, is the latest in a series of campus protests ...",
+                "htmlSnippet": "May 16, 2024 <b>...</b> <b>Latest</b> U.S. campus protest. The demonstration at Irvine, about 65 kilometres south of Los Angeles, is the <b>latest</b> in a series of campus protests&nbsp;...",
+                "formattedUrl": "https://www.cbc.ca/news/world/uc-irvine-police-protest-1.7205710",
+                "htmlFormattedUrl": "https://www.cbc.ca/<b>news</b>/world/uc-irvine-police-protest-1.7205710",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ93PV69kIItoMiIVIfKgX_20O5owO0o-bR7U9RI0bQNgJajcXvlnJylQb&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.cbc.ca/1.7205795.1715832357!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/irvine.jpg",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Police eject pro-Palestinian protesters from University of California, Irvine | CBC News",
+                            "og:type": "article",
+                            "og:site_name": "CBC",
+                            "og:title": "Police eject pro-Palestinian protesters from University of California, Irvine | CBC News",
+                            "vf:section": "2.633",
+                            "og:description": "Police on Wednesday took back a lecture hall from pro-Palestinian protesters who for hours occupied the building at the University of California, Irvine, then cleared a student encampment that stood for more than two weeks, witnesses said.",
+                            "fb:pages": "5823419603",
+                            "twitter:image": "https://i.cbc.ca/1.7205795.1715832357!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/irvine.jpg",
+                            "vf:url": "https://www.cbc.ca/news/world/uc-irvine-police-protest-1.7205710",
+                            "twitter:player:height": "360",
+                            "twitter:site": "@cbc",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Police on Wednesday took back a lecture hall from pro-Palestinian protesters who for hours occupied the building at the University of California, Irvine, then cleared a student encampment that stood for more than two weeks, witnesses said.",
+                            "og:locale": "en_US",
+                            "vf:container_id": "1.7205710",
+                            "twitter:player:width": "640",
+                            "og:url": "https://www.cbc.ca/news/world/uc-irvine-police-protest-1.7205710"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.cbc.ca/1.7205795.1715832357!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/irvine.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Wednesday took back a lecture hall from pro-Palestinian protesters who for hours occupied the building at the University of California, Irvine, then cleared a student encampment that stood for more than two weeks, witnesses said.\nOfficers from about 10 nearby law-enforcement agencies converged on the campus after university officials requested help because protesters had occupied the lecture hall, leading the school to declare it a \"violent protest,\" police and university officials said.\nAbout four hours later, police had ejected the protesters from both the lecture hall and the plaza that had been the site of the encampment, according to the university and Reuters witnesses.\n\"The police have retaken the lecture hall,\" UC Irvine spokesperson Tom Vasich said by telephone from the scene. \"The plaza has been cleared by law-enforcement officers.\"\n*   \n*   \nVasich said there were a \"minimal number of arrests\" and characterized the protesters as \"begrudgingly co-operative.\"\nThe university said all classes would be held remotely on Thursday, asking employees not to come to campus.\n!\nA pro-Palestinian protester is taken into custody at the University of California, Irvine on Wednesday. (Los Angeles Times via Getty Imag)\nLatest U.S. campus protest\n--------------------------\nThe demonstration at Irvine, about 65 kilometres south of Los Angeles, is the latest in a series of campus protests across the United States over the war in Gaza in which activists have called for a ceasefire and the protection of civilian lives while demanding universities divest from Israeli interests.\nUC Irvine protesters had established an encampment adjacent to the lecture hall on April 29 similar to those at other universities that have led to mass arrests and clashes with police elsewhere in the country.\nOn Wednesday 200 to 300 protesters took over the lecture hall at a time when no classes were in session, Vasich said.\n!\nA pro-Palestinian protester stands in front of a line of law enforcement officers from multiple agencies that were called into to quell a protest at the university campus. (Allen J. Schaben/Los Angeles Times/Getty Images)\nPolice responded in riot gear and formed a barricade while an officer on a loudspeaker warned the crowd that they had formed an unlawful assembly and risked arrest if they remained, the Orange County Register reported.\nVideo on social media showed students chanting slogans, banging drums and hoisting banners, with rows of police standing nearby. One banner hung from the building declared the site \"Alex Odeh Hall,\" in honour of a Palestinian activist who was killed in a 1985 office bombing in the nearby city of Santa Ana.\n*   \n*   \nFour nearby research buildings with potentially hundreds of people inside were locked down,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Israeli PM Says Police Killing of Palestinian Is 'Tragedy'",
+                "htmlTitle": "<b>Israeli</b> PM Says <b>Police</b> Killing of <b>Palestinian</b> Is &#39;Tragedy&#39;",
+                "link": "https://www.voanews.com/a/middle-east_israeli-pm-says-police-killing-palestinian-tragedy/6190815.html",
+                "displayLink": "www.voanews.com",
+                "snippet": "Jun 9, 2020 ... FILE - Muslim men carry the body of Iyad Hallak to burial May 31, 2020, after Israeli police shot him dead in Jerusalem's Old City.",
+                "htmlSnippet": "Jun 9, 2020 <b>...</b> FILE - Muslim men carry the body of Iyad Hallak to <b>burial</b> May 31, 2020, after <b>Israeli police</b> shot him dead in Jerusalem&#39;s Old City.",
+                "formattedUrl": "https://www.voanews.com/a/middle...israeli...palestinian.../6190815.html",
+                "htmlFormattedUrl": "https://www.voa<b>news</b>.com/a/middle...<b>israeli</b>...<b>palestinian</b>.../6190815.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiysfA72C3nczqNt_oLdzcLqjxBLKGysTkq3DxwCNM_Qs5HuK9rwkQu_Ho&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "apple-itunes-app": "app-id=632618796, app-argument=//6190815.ltr",
+                            "og:image": "https://gdb.voanews.com/965afbd5-c485-4c7f-a20b-a46b34760779_w1200_r1.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Voice of America",
+                            "msvalidate.01": "3286EE554B6F672A6F2E608C02343C0E",
+                            "author": "Agence France-Presse",
+                            "apple-mobile-web-app-title": "VOA",
+                            "og:title": "Israeli PM Says Police Killing of Palestinian Is 'Tragedy'",
+                            "og:image:height": "675",
+                            "msapplication-tileimage": "/Content/responsive/VOA/img/webApp/ico-144x144.png",
+                            "fb:pages": "36235438073",
+                            "og:description": "Thousands of mourners massed for Hallak's funeral, while online the hashtag #PalestinianLivesMatter echoed the fury being seen over police violence and racism in the United States",
+                            "article:publisher": "https://www.facebook.com/voiceofamerica",
+                            "twitter:image": "https://gdb.voanews.com/965afbd5-c485-4c7f-a20b-a46b34760779_w1200_r1.jpg",
+                            "fb:app_id": "362002700549372",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@voanews",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Thousands of mourners massed for Hallak's funeral, while online the hashtag #PalestinianLivesMatter echoed the fury being seen over police violence and racism in the United States",
+                            "og:url": "https://www.voanews.com/a/middle-east_israeli-pm-says-police-killing-palestinian-tragedy/6190815.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gdb.voanews.com/965afbd5-c485-4c7f-a20b-a46b34760779_w1200_r1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Israeli PM Says Police Killing of Palestinian Is 'Tragedy'\n===============             \nAccessibility links\n-------------------\n*   \n*   \n*   \nNext\nClose Previous Next\n!\n!\nThis image contains sensitive content which some people may find offensive or disturbing. Click to reveal\n### Print Options:\n*    Images\n*    Multimedia\n*    Embedded Content\n*    Comments\nCancel Print\nLink has been copied to clipboard\n*   \n*    United States\n*    World\n*   \n*   \n*   \n*   \n*   \n##### Follow Us\nSearch \n  !]\nSearch \n! !\n Breaking News\nIsraeli PM Says Police Killing of Palestinian Is 'Tragedy'\n==========================================================\nJune 09, 2020 5:13 PM\n*   By \n* * *\n!\nFILE - Muslim men carry the body of Iyad Hallak to burial May 31, 2020, after Israeli police shot him dead in Jerusalem's Old City.\nShare\n*   \n*   \n*   \n*   \n*   \nIsraeli PM Says Police Killing of Palestinian Is 'Tragedy'\nshare\n*   \n*   \n*   \n*   \n*   \nPrint\nIsraeli Prime Minister Benjamin Netanyahu said Sunday that the recent police killing of an autistic Palestinian man was unjustified and a \"tragedy,\" offering his condolences to the bereaved family.\nIsraeli police shot 32-year-old Iyak Hallak in Jerusalem on May 30 while he was walking to his special needs school, after officers mistakenly thought he was armed.\n\"What happened with Iyad Hallak is a tragedy. This is a man with limitations – autism – who was under suspicion, we know, wrongly, of being a terrorist in a very sensitive location,\" Netanyahu said at the start of the weekly cabinet meeting.\nThe killing happened near Lions' Gate in the alleys of the walled Old City, where Hallak had attended school for six years.\n\"We all offer our condolences to the family. I think this is shared by the entire Israeli public, as well as the entire Israeli government,\" Netanyahu said.\n!\nFILE - Israeli Prime Minister Benjamin Netanyahu wears a mask as he looks on during the weekly cabinet meeting in Jerusalem, May 31, 2020.\nThe prime minister added that he awaited the outcome of an investigation into the shooting.\nThousands of mourners massed for Hallak's funeral, while online the hashtag #PalestinianLivesMatter echoed the fury being seen at mass protests against police violence and racism in the United States.\nHallak's slaying prompted condolence visits from...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Op-ed: Peace cannot be achieved by disregarding dual narrative of ...",
+                "htmlTitle": "Op-ed: Peace cannot be achieved by disregarding dual narrative of ...",
+                "link": "https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement",
+                "displayLink": "dailybruin.com",
+                "snippet": "May 6, 2024 ... We sought to form a peaceful community presence to witness and guard against further acts of violence from any outside actor. Five hours later, ...",
+                "htmlSnippet": "May 6, 2024 <b>...</b> We sought to form a peaceful community <b>presence</b> to witness and guard against further acts of violence from any outside actor. Five hours later,&nbsp;...",
+                "formattedUrl": "https://dailybruin.com/.../op-ed-peace-cannot-be-achieved-by-disregarding-...",
+                "htmlFormattedUrl": "https://dailybruin.com/.../op-ed-peace-cannot-be-achieved-by-disregarding-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CqS-w43Vio3lr2I_fHclykrkoRUFUwFErBCjYpN0A9KwYXrJT6GseaA&s",
+                            "width": "289",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#2d89ef",
+                            "og:image": "https://wp.dailybruin.com/images/2024/05/op-ed-12-768x464.png",
+                            "theme-color": "#0080c6",
+                            "og:type": "article",
+                            "og:image:width": "768",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Op-ed: Peace cannot be achieved by disregarding dual narrative of pro-Palestine movement - Daily Bruin",
+                            "og:site_name": "Daily Bruin",
+                            "og:title": "Op-ed: Peace cannot be achieved by disregarding dual narrative of pro-Palestine movement - Daily Bruin",
+                            "og:image:height": "464",
+                            "msapplication-tileimage": "/favicons/mstile-144x144.png",
+                            "og:description": "In response to the shocking and terrifying violence of counter-protesters Tuesday night, some close friends, classmates and I joined hundreds of other students outside of the Palestine solidarity encampment Wednesday night.",
+                            "twitter:creator": "@dailybruin",
+                            "article:publisher": "https://www.facebook.com/dailybruin",
+                            "og:image:secure_url": "https://wp.dailybruin.com/images/2024/05/op-ed-12-768x464.png",
+                            "twitter:image": "https://wp.dailybruin.com/images/2024/05/op-ed-12.png",
+                            "next-head-count": "21",
+                            "twitter:site": "@dailybruin",
+                            "viewport": "width=device-width",
+                            "twitter:description": "In response to the shocking and terrifying violence of counter-protesters Tuesday night, some close friends, classmates and I joined hundreds of other students outside of the Palestine solidarity encampment Wednesday night.",
+                            "og:locale": "en_US",
+                            "og:url": "https://dailybruin.com/2024/05/06/op-ed-peace-cannot-be-achieved-by-disregarding-dual-narrative-of-pro-palestine-movement/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://wp.dailybruin.com/images/2024/05/op-ed-12-768x464.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In response to the shocking and terrifying  of counter-protesters , some close friends, classmates and I joined hundreds of other students outside of the Palestine solidarity encampment . We sought to form a peaceful community presence to witness and guard against further acts of violence from any outside actor.\nFive hours later, at around 3 a.m. on Thursday morning, dozens of police in full riot gear lined up in our vicinity in Dickson Plaza near the flagpole. They were facing us and not the encampment. I became frightened. My knees started to shake. Some students linked arms to protect the rest of the peaceful presence. I saw that the police wielded black batons and face shields. The students, in contrast, were wearing T-shirts and carrying tote bags.\nBefore I could process what was going on, the police lines started to advance toward us. I heard an incredibly loud explosion in our area, my friend grabbed my hand, and we ran in the opposite direction. We realized that the explosions were police throwing  at the students. I involuntarily flinched every time the sound of another explosion ripped through the air and echoed off the buildings. I had seen terrifying videos of fireworks being thrown at groups of students that very morning, so the sound of explosions was upsetting in a visceral way.\nI don’t know if I’ve ever felt so scared.\nAfter safely returning home, I felt a growing sense of unease about more than just the violence. I showed up in solidarity that night because I...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Civilians in northern Gaza warned to flee within 24 hours",
+                "htmlTitle": "Civilians in northern Gaza warned to flee within 24 hours",
+                "link": "https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120042",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Oct 13, 2023 ... Follow NBC News' live coverage and updates of the Israel-Hamas war after militant fighters launched a surprise attack and took hostages, ...",
+                "htmlSnippet": "Oct 13, 2023 <b>...</b> Follow NBC <b>News</b>&#39; live coverage and updates of the <b>Israel</b>-Hamas war after militant fighters launched a surprise attack and took hostages,&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/news/.../israel-hamas-war-live-updates-rcna1200...",
+                "htmlFormattedUrl": "https://www.nbc<b>news</b>.com/<b>news</b>/.../israel-hamas-war-live-updates-rcna1200...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGrKHl92QNRn1ssjK5xUpBzoUVufe4jZMABnXZ4BuufYHG_j5e4pZoDoC&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:authorname4": "Megan Lebowitz",
+                            "branch:deeplink:authorname3": "Lauren Dunn",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "Follow NBC News' live coverage and updates of the Israel-Hamas war after militant fighters launched a surprise attack and took hostages, before Israeli forces bombed Gaza.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg",
+                            "twitter:site": "@NBCNews",
+                            "og:type": "article",
+                            "twitter:title": "Civilians in northern Gaza warned to flee within 24 hours",
+                            "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg",
+                            "og:title": "Civilians in northern Gaza warned to flee within 24 hours",
+                            "og:image:height": "630",
+                            "branch:deeplink:authorthumbnail4": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2024_26/3653107/240627-megan-lebowitz.jpg",
+                            "branch:deeplink:authorthumbnail3": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2024_21/3649017/reuters-live-blog-byline-image_1.png",
+                            "branch:deeplink:authorthumbnail2": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2024_21/3649017/reuters-live-blog-byline-image_1.png",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Follow NBC News' live coverage and updates of the Israel-Hamas war after militant fighters launched a surprise attack and took hostages, before Israeli forces bombed Gaza.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120042"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1024x768_scale,f_auto,q_auto:best/rockcms/2023-10/231012-gaza-israel-strike-mb-0741-3194f6.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a state media site.\nThe site blamed Israel for the strikes, which it said had damaged the landing strips at both airports and put them out of service, accusing Israel of trying to divert attention from its airstrikes on Gaza.\nIsrael has hit the airports in the past, but these are the first strikes reported since the Hamas attack.\nRocket strikes and sirens in a southern Israeli town\n----------------------------------------------------\n!\n]\nSDEROT, Israel — Warning sirens blared as we arrived at this southern Israeli town near the Gaza border around midday local time, followed quickly by incoming rocket fire in a primarily residential area of the town.\nRockets from Gaza are striking Sderot periodically, with few civilians on the streets but a large presence of Israeli police and military, many on patrol. There is a constant tempo of outgoing fire from large Israeli weaponry, and small arms fire can also be heard in the distance.\nFrom our vantage point atop a hill overlooking northern Gaza, strikes can be seen steadily hitting the strip. The skyline of Gaza City now is barely visible, through smoke and dust plumes.\nDemocratic lawmaker cuts ties with prominent left-wing group over pro-Palestinian rally\n---------------------------------------------------------------------------------------\n]\n‘We’re not Hamas,’ Gaza residents say as death toll rises\n---------------------------------------------------------\nGAZA CITY, Gaza — After days of devastating Israeli bombardment of the Gaza Strip, residents of the besieged enclave say there is no way to escape death.\nHamas controls the Palestinian enclave, where 2.2 million people live in about 140 square miles — making it one of the .\nSchools have been flattened, walls blown off houses and entire families buried under tons of concrete. Residents are scrambling to rescue relatives as smoke and dust from the relentless bombing make it difficult to breathe.\n“It’s all collateral damage. We are all civilians, normal doctors, nurses, teachers, students. We’re not Hamas,” Mohamed Mughisib, a Palestinian doctor and a deputy coordinator with Doctors Without Borders, said in a telephone interview from Gaza.\n“It’s the children who are dying,” he said.\nPalestinian health system 'has begun to collapse,' ministry says\n----------------------------------------------------------------\n“The health system has begun to collapse,” the Palestinian Health Ministry said in a statement today.\nThe number of injured Palestinians in Gaza — more than 6,000 people — currently exceeds the number of available operating rooms and beds, it said. Expanded intensive care units have already been filled.\n“The number of injured people is greater than the hospitals’ clinical capabilities, even after they were expanded and the injured were placed in the corridors,” the ministry said.\nLatino Jews grieve, worry as attack in Israel puts close family ties in focus\n-----------------------------------------------------------------------------\n!\n+2\nFernando Russek, 51, a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

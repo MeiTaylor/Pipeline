@@ -1,0 +1,178 @@
+{
+    "Question": "Is there verified evidence that Israeli law enforcement officers were present at the grave site as claimed?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question pertains to verifying claims about the presence of Israeli law enforcement officers, which requires current and credible information that may not be fully contained within the given video information. Online search will help provide verification and context.",
+        "Queries": {
+            "Query1": {
+                "query": "Israeli law enforcement presence Palestinian grave site news",
+                "searching_goal": "To determine if there is any verified evidence or credible reports confirming the presence of Israeli law enforcement officers at the grave site in question."
+            },
+            "Query2": {
+                "query": "demolition Palestinian graves theme park construction",
+                "searching_goal": "To find news articles or reports discussing the demolition of Palestinian graves and the construction of a theme park as mentioned in the video context."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Israeli authorities, Palestinian armed groups are responsible for war ...",
+            "link": "https://www.ohchr.org/en/press-releases/2024/06/israeli-authorities-palestinian-armed-groups-are-responsible-war-crimes",
+            "snippet": "Jun 12, 2024 ... Israeli authorities, Palestinian armed groups are responsible for war crimes, other grave violations of international law, UN Inquiry finds.",
+            "content": {
+                "content": "www.ohchr.org\n-------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.ohchr.org needs to review the security of your connection before proceeding.",
+                "content_tokens": 38
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "The Office of the United Nations High Commissioner for Human Rights (OHCHR) is an authoritative source for human rights information and is trusted internationally. The OHCHR conducts independent investigations and provides fact-checking on human rights issues worldwide, ensuring that their data is accurate and reliable."
+            },
+            "Newness": {
+                "NewnessScore": 7,
+                "Date": "2024-06-12"
+            },
+            "Relevance": {
+                "RelevanceScore": 5,
+                "Relevance Justification": "This evidence refers to a UN inquiry into war crimes committed by Israeli authorities; however, it does not specifically address the presence of law enforcement officers at the grave site in question. While the systemic context is important, it does not provide direct verification related to the claim."
+            },
+            "total_score": 27
+        },
+        {
+            "title": "Gaza: UN experts call on international community to prevent ...",
+            "link": "https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against",
+            "snippet": "Nov 16, 2023 ... GENEVA (16 November 2023) – Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, ...",
+            "content": {
+                "content": "www.ohchr.org\n-------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.ohchr.org needs to review the security of your connection before proceeding.",
+                "content_tokens": 38
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "The Office of the United Nations High Commissioner for Human Rights (OHCHR) is an authoritative source for human rights information and is trusted internationally. The OHCHR conducts independent investigations and provides fact-checking on human rights issues worldwide, ensuring that their data is accurate and reliable."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-11-16"
+            },
+            "Relevance": {
+                "RelevanceScore": 4,
+                "Relevance Justification": "Although it mentions grave violations committed by Israeli forces in Gaza, it does not provide information about Israeli law enforcement officers specifically being present at the grave site mentioned in the claim."
+            },
+            "total_score": 23
+        },
+        {
+            "title": "Israel's apartheid against Palestinians - Amnesty International",
+            "link": "https://www.amnesty.org/en/latest/campaigns/2022/02/israels-system-of-apartheid/",
+            "snippet": "Feb 1, 2022 ... The term “apartheid” was originally used to refer to a political system in South Africa which explicitly enforced racial segregation, and the ...",
+            "content": {
+                "content": "[Content truncated]... to the demonstrations in Sheikh Jarrah, thousands of Palestinians across Israel and the Occupied Palestinian Territories (OPT) held their own protests in support of the families, and against their shared experience of fragmentation, dispossession, and segregation. These were met with excessive and deadly force by Israeli authorities with thousands injured, arrested and detained.\nThe events of May 2021 were emblematic of the oppression which Palestinians have faced every day, for decades. The discrimination, the dispossession, the repression of dissent, the killings and injuries – all are part of a system which is designed to privilege Jewish Israelis at the expense of Palestinians.\n**This is** **apartheid**.\nAmnesty International’s new investigation shows that Israel imposes a system of oppression and domination against Palestinians across all areas under its control: in Israel and the OPT, and against Palestinian refugees, in order to benefit Jewish Israelis. This amounts to apartheid as prohibited in international law.\nLaws, policies and practices which are intended to maintain a cruel system of control over Palestinians, have left them fragmented geographically and politically, frequently impoverished, and in a constant state of fear and insecurity.\nWHAT IS APARTHEID?\n------------------\nApartheid is a violation of public international law, a grave violation of internationally protected human rights, and a crime against humanity under international criminal law.\nThe term “apartheid” was originally used to refer to a political system in South Africa which explicitly enforced racial segregation, and the domination and oppression of one racial group by another. It has since been adopted by the international community to condemn and criminalize such systems and practices wherever they occur in the world.\n**The crime against humanity of apartheid under the Apartheid Convention, the Rome Statute and customary international law is committed when any inhuman or inhumane act (essentially a serious human rights violation) is perpetrated in the context of an institutionalised regime of systematic oppression and domination by one racial group over another, with the intention to maintain that system**.\nApartheid can best be understood as a system of prolonged and cruel discriminatory treatment by one racial group of members of another with the intention to control the second racial group.\n**Amnesty International has created a free 90-minute course called “Deconstructing Israel’s Apartheid Against Palestinians”.** To learn more about the crime of apartheid in international law, what apartheid looks like in Israel/OPT, and how it affects Palestinians’ lives, sign up to our course on Amnesty International’s human rights education academy.\n!\nPalestinians wait to cross the Qalandia checkpoint between Ramallah and East Jerusalem, both in the occupied West Bank, as they head to...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "Amnesty International is a well-known global human rights organization that rigorously documents human rights abuses and provides reliable reports backed by extensive research. Their commitment to factual reporting on human rights violations lends them high credibility."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2022-02-01"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This evidence discusses systemic issues of apartheid and oppression by Israeli authorities against Palestinians. While it highlights excessive force used by Israeli authorities in protests and other areas, it does not directly verify the presence of law enforcement officers at the specific grave site event described in the claim."
+            },
+            "total_score": 22
+        }
+    ],
+    "Query2": [
+        {
+            "title": "Outrage over Israel's building of a Jerusalem park over Palestinian ...",
+            "link": "https://www.france24.com/en/middle-east/20211027-outrage-over-israel-s-building-of-a-jerusalem-park-over-palestinian-cemetary",
+            "snippet": "Oct 27, 2021 ... Sobbing and trying to cling to her son's gravestone, Palestinian Jerusalemite Ola Nababteh was dragged away from Al-Yusufiyah cemetery by ...",
+            "content": {
+                "content": "Outrage over Israel’s building of a Jerusalem park over Palestinian cemetery\n=============== \n*   \n*   \n*   \nOn TV\n*   \n*   \n*   \n*   \n*   \nTopics\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBy region\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Offline navigation\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n1.  \n2.  / \nOutrage over Israel’s building of a Jerusalem park over Palestinian cemetery\n============================================================================\nSobbing and trying to cling to her son’s gravestone, Palestinian Jerusalemite Ola Nababteh was dragged away from Al-Yusufiyah cemetery by Israeli police as a digger truck levelled land for a new park behind her.\nIssued on: 27/10/2021 - 03:51\n1 min\n !01:23\nTo display this content from , you must enable advertisement tracking and audience measurement.\nAccept Manage my choices\nIsraeli border police detain a Palestinian man during a protest against Israel’s building of a Jerusalem park which they say encroaches on a centuries-old Muslim graveyard near Old City wall, in Jerusalem October 26, 2021. The municipality says graves will not be disturbed. © Ammar Awad, Reuters\nBy: \n|\nVideo by: \nAdvertising\nRead more\n say the project encroaches on a centuries-old Muslim graveyard beneath the eastern wall of Jerusalem's Old City. Israel captured East  including the Old City in a 1967 war and later annexed it in a move not recognised internationally.\nThe  municipality says authorised burial sites in the cemetery will not be harmed. But the unearthing of human bones when construction for the park began this month stirred panic among families like Nababteh's with loved ones interred at Al-Yusufiyah.\n\"Over my dead body - my son will not be removed from here,\" Nababteh told Reuters on Tuesday, a day after Israeli police removed her from the graveyard.\nArieh King, a Jerusalem deputy mayor, said there was never any intent to move the grave and that police had evacuated Nababteh because she was too close to construction.\nThe remains found this month were not in an authorised gravesite and \"had been buried illicitly in the ground many...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "France 24 is known for its comprehensive international news coverage and maintains standards of investigative journalism. It provides a range of perspectives, including on conflicts in the Middle East. Its credibility is generally high, though some critiques of its bias exist depending on the geopolitical perspective addressed."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2021-10-27"
+            },
+            "Relevance": {
+                "RelevanceScore": 9,
+                "Relevance Justification": "This article explicitly states that Israeli police removed Ola Nababta from Al-Yusufiyah cemetery while construction was ongoing. This direct confirmation of law enforcement presence at the grave site is highly relevant to the claim."
+            },
+            "total_score": 27
+        },
+        {
+            "title": "Jerusalem Palestinians fight to preserve cemetery slated for demolition",
+            "link": "https://www.middleeasteye.net/news/jerusalem-palestine-israel-cemetery-demolition-fight",
+            "snippet": "Oct 29, 2021 ... Footage of Ola Nababta shielding her son's grave from Israeli plans to build a biblical theme park has sparked outrage.",
+            "content": {
+                "content": "Just like the  living in occupied East Jerusalem, the dead in al-Yusufiya cemetery are not left in peace in their graves.\n authorities have been desecrating Muslim cemeteries for decades, including through exhumations, excavation works that have uncovered bones, and  where graves once stood.\n> 'Pour the earth over me and bury me beside him, oh my son Alaa, I am here, I will not leave'\n> \n> _\\- Ola Nababta_\nThe latest plans to build a biblical-themed park atop al-Yusufiya cemetery have provoked Palestinians and led to confrontations with Israeli forces, the Israeli municipality of Jerusalem, and staff from Israel’s Nature and Parks Authority.\nThe latest round of exhumations began three weeks ago in the part of al-Yusufiya known as the Martyrs' Cemetery, which lies adjacent to one of the historic walls of the Old City of Jerusalem, and is where Alaa Nababta is buried.\nOla Nababta, a 54-year-old Jerusalemite, spends her days guarding the grave of her son Alaa, who died four years ago.\nStay informed with MEE's newsletters\n------------------------------------\n#### Sign up to get the latest alerts, insights and analysis, starting with Turkey Unpacked\n]\nJerusalem's Old City: How Palestine's past is being slowly erased\nEvery day, she leaves her house in Shuafat refugee camp north of East Jerusalem, in case officials from the Israel Nature and Parks Authority, or the Israeli municipality, come to exhume the grave or cover it with soil as a prelude to building the park.\nAlaa's younger brothers Ihab was shot dead in 2015 and  in 2016 by unknown assailants in Shuafat camp, where Bahaa ran youth groups and was well known for his social activism.\nA widow who has lost three sons, Ola Nababta has already witnessed the devastation left behind by Israeli bulldozers in the area, most recently several weeks ago, when exhumation works uncovered bones, skulls and dentures.\n“On that particular day I broke down and collapsed to the ground when I saw that the graves being exhumed neighboured...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "Middle East Eye provides in-depth reporting and often features content from local journalists. However, it has been critiqued for potential bias in how it frames the Israeli-Palestinian conflict. It's generally seen as a reliable source for perspectives often underrepresented in mainstream media, but readers should be mindful of its editorial leanings."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2021-10-29"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This article discusses a Palestinian woman, Ola Nababta, shielding her son's grave from Israeli plans to build a theme park, and it sparks outrage. It mentions confrontations with Israeli forces and their attempts to level land near her son's grave, indicating that law enforcement was indeed involved."
+            },
+            "total_score": 24
+        },
+        {
+            "title": "Construction on park near Arab graves sparks widespread outrage ...",
+            "link": "https://www.jpost.com/israel-news/contruction-on-park-near-arab-graves-sparks-widespread-outrage-683198",
+            "snippet": "Oct 27, 2021 ... Gardening work in an area containing Arab graves near a cemetery outside the Old City of Jerusalem has sparked outrage among Palestinians, ...",
+            "content": {
+                "content": "Gardening work in an area containing Arab graves near a cemetery outside the Old City of Jerusalem has sparked outrage among Palestinians, officials and activists around the world, despite assurances by the Israel Nature and Parks Authority and Israeli courts that the graves would not be impacted.Work began on the site a number of years ago as part of efforts to form a park on the land next to the Yusufiya Cemetery, also known as the Bab Al-Asbat (Lion’s Gate) Cemetery. Earlier this month, clashes between Arabs and Israeli security forces broke out at the site after human bones were reportedly uncovered by workers at the site.Video and photos shared by Palestinian media showed the alleged remains laying in the dirt at the site; they have not yet been identified.  Despite only a small number of bones being photographed, the official Palestinian Authority WAFA news agency claimed that the bones of “dozens” of deceased persons were uncovered in the reported incident.Mustafa Abu Zahra, head of the Committee for the Care of Islamic Cemeteries in Jerusalem, told WAFA that Israeli workers were completely covering the cemetery with dirt on Tuesday and claimed that the area included the graves of people who had died before 1967. Arab families argue with authorities about construction near graves of their relatives near Yusufiya Cemetery (credit: TZVI JOFFRE)On Monday, a video of a woman named Alaa Nababta showing her holding on to her son’s grave in the area as Israeli security forces attempted to...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 7,
+                "justification": "The Jerusalem Post is one of Israel's leading English-language newspapers, offering a broad range of news and commentary. While it has credible journalism, it often reflects pro-Israel sentiment. Readers should approach its reporting on the Israeli-Palestinian conflict critically, acknowledging possible bias."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2021-10-27"
+            },
+            "Relevance": {
+                "RelevanceScore": 7,
+                "Relevance Justification": "This mentions gardening work in an area with Arab graves causing outrage and confirms implications of police presence, but it focuses more on community reactions rather than the incidents involving law enforcement."
+            },
+            "total_score": 22
+        }
+    ],
+    "RelevantEvidence": {
+        "Query1_evidence_1": {
+            "title": "Israeli authorities, Palestinian armed groups are responsible for war ...",
+            "link": "https://www.ohchr.org/en/press-releases/2024/06/israeli-authorities-palestinian-armed-groups-are-responsible-war-crimes",
+            "snippet": "Jun 12, 2024 ... Israeli authorities, Palestinian armed groups are responsible for war crimes, other grave violations of international law, UN Inquiry finds.",
+            "content": "www.ohchr.org\n-------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nwww.ohchr.org needs to review the security of your connection before proceeding."
+        },
+        "Query2_evidence_1": {
+            "title": "Outrage over Israel's building of a Jerusalem park over Palestinian ...",
+            "link": "https://www.france24.com/en/middle-east/20211027-outrage-over-israel-s-building-of-a-jerusalem-park-over-palestinian-cemetary",
+            "snippet": "Oct 27, 2021 ... Sobbing and trying to cling to her son's gravestone, Palestinian Jerusalemite Ola Nababteh was dragged away from Al-Yusufiyah cemetery by ...",
+            "content": "Outrage over Israel’s building of a Jerusalem park over Palestinian cemetery\n=============== \n*   \n*   \n*   \nOn TV\n*   \n*   \n*   \n*   \n*   \nTopics\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBy region\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Offline navigation\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n1.  \n2.  / \nOutrage over Israel’s building of a Jerusalem park over Palestinian cemetery\n============================================================================\nSobbing and trying to cling to her son’s gravestone, Palestinian Jerusalemite Ola Nababteh was dragged away from Al-Yusufiyah cemetery by Israeli police as a digger truck levelled land for a new park behind her.\nIssued on: 27/10/2021 - 03:51\n1 min\n !01:23\nTo display this content from , you must enable advertisement tracking and audience measurement.\nAccept Manage my choices\nIsraeli border police detain a Palestinian man during a protest against Israel’s building of a Jerusalem park which they say encroaches on a centuries-old Muslim graveyard near Old City wall, in Jerusalem October 26, 2021. The municipality says graves will not be disturbed. © Ammar Awad, Reuters\nBy: \n|\nVideo by: \nAdvertising\nRead more\n say the project encroaches on a centuries-old Muslim graveyard beneath the eastern wall of Jerusalem's Old City. Israel captured East  including the Old City in a 1967 war and later annexed it in a move not recognised internationally.\nThe  municipality says authorised burial sites in the cemetery will not be harmed. But the unearthing of human bones when construction for the park began this month stirred panic among families like Nababteh's with loved ones interred at Al-Yusufiyah.\n\"Over my dead body - my son will not be removed from here,\" Nababteh told Reuters on Tuesday, a day after Israeli police removed her from the graveyard.\nArieh King, a Jerusalem deputy mayor, said there was never any intent to move the grave and that police had evacuated Nababteh because she was too close to construction.\nThe remains found this month were not in an authorised gravesite and \"had been buried illicitly in the ground many...[Content truncated]"
+        },
+        "Query2_evidence_2": {
+            "title": "Jerusalem Palestinians fight to preserve cemetery slated for demolition",
+            "link": "https://www.middleeasteye.net/news/jerusalem-palestine-israel-cemetery-demolition-fight",
+            "snippet": "Oct 29, 2021 ... Footage of Ola Nababta shielding her son's grave from Israeli plans to build a biblical theme park has sparked outrage.",
+            "content": "Just like the  living in occupied East Jerusalem, the dead in al-Yusufiya cemetery are not left in peace in their graves.\n authorities have been desecrating Muslim cemeteries for decades, including through exhumations, excavation works that have uncovered bones, and  where graves once stood.\n> 'Pour the earth over me and bury me beside him, oh my son Alaa, I am here, I will not leave'\n> \n> _\\- Ola Nababta_\nThe latest plans to build a biblical-themed park atop al-Yusufiya cemetery have provoked Palestinians and led to confrontations with Israeli forces, the Israeli municipality of Jerusalem, and staff from Israel’s Nature and Parks Authority.\nThe latest round of exhumations began three weeks ago in the part of al-Yusufiya known as the Martyrs' Cemetery, which lies adjacent to one of the historic walls of the Old City of Jerusalem, and is where Alaa Nababta is buried.\nOla Nababta, a 54-year-old Jerusalemite, spends her days guarding the grave of her son Alaa, who died four years ago.\nStay informed with MEE's newsletters\n------------------------------------\n#### Sign up to get the latest alerts, insights and analysis, starting with Turkey Unpacked\n]\nJerusalem's Old City: How Palestine's past is being slowly erased\nEvery day, she leaves her house in Shuafat refugee camp north of East Jerusalem, in case officials from the Israel Nature and Parks Authority, or the Israeli municipality, come to exhume the grave or cover it with soil as a prelude to building the park.\nAlaa's younger brothers Ihab was shot dead in 2015 and  in 2016 by unknown assailants in Shuafat camp, where Bahaa ran youth groups and was well known for his social activism.\nA widow who has lost three sons, Ola Nababta has already witnessed the devastation left behind by Israeli bulldozers in the area, most recently several weeks ago, when exhumation works uncovered bones, skulls and dentures.\n“On that particular day I broke down and collapsed to the ground when I saw that the graves being exhumed neighboured...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "Is there verified evidence that Israeli law enforcement officers were present at the grave site as claimed?",
+        "Answer": "Yes, there is verified evidence that Israeli law enforcement officers were present at the grave site as claimed. Reports indicate that during the construction efforts related to the development of a park over a cemetery in Jerusalem, Israeli police forcibly removed a Palestinian mother, Ola Nababteh, from her son's grave. This incident was highlighted in several articles: 1. One report details how Ola Nababteh was \"dragged away from Al-Yusufiyah cemetery by Israeli police as a digger truck levelled land for a new park\" while she was attempting to cling to her son's gravestone, expressing her grief and resistance to the ongoing construction efforts [Query 2_evidence_1]. 2. Additional evidence from another article supports this by mentioning that footage of Ola Nababteh shielding her son's grave from the proposed biblical theme park has provoked significant outrage, further demonstrating the presence and involvement of Israeli authorities in actions related to the cemetery [Query 2_evidence_2]. These sources confirm the presence of Israeli law enforcement at the grave site, specifically during a situation where they forcibly removed a grieving mother amidst the context of construction plans that threaten the burial site.",
+        "Confidence": "90%"
+    }
+}

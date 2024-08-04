@@ -1,0 +1,675 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Fabio goose roller coaster incident news report",
+                "totalResults": "175000",
+                "searchTerms": "Fabio goose roller coaster incident news report",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Fabio goose roller coaster incident news report",
+                "totalResults": "175000",
+                "searchTerms": "Fabio goose roller coaster incident news report",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.44297,
+        "formattedSearchTime": "0.44",
+        "totalResults": "175000",
+        "formattedTotalResults": "175,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Fabio Looks Back at Rollercoaster Goose Incident 25 Years Ago ...",
+                "htmlTitle": "<b>Fabio</b> Looks Back at <b>Rollercoaster Goose Incident</b> 25 Years Ago ...",
+                "link": "https://people.com/fabio-looks-back-at-rollercoaster-goose-incident-25-years-ago-exclusive-8622713",
+                "displayLink": "people.com",
+                "snippet": "Mar 31, 2024 ... And he says most people still have the story wrong. \"I was never hit by the goose.\" In an exclusive conversation with PEOPLE, the romance ...",
+                "htmlSnippet": "Mar 31, 2024 <b>...</b> And he says most people still have the <b>story</b> wrong. &quot;I was never hit by the <b>goose</b>.&quot; In an exclusive conversation with PEOPLE, the romance&nbsp;...",
+                "formattedUrl": "https://people.com/fabio-looks-back-at-rollercoaster-goose-incident-25-yea...",
+                "htmlFormattedUrl": "https://people.com/<b>fabio</b>-looks-back-at-<b>rollercoaster</b>-<b>goose</b>-<b>incident</b>-25-yea...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg0a3ms9A2EXW5h2dM-d2aQaIQqRYFdLU9LKy_k5WVHhTCCYUJpOLx5I0&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://people.com/thmb/bpSaUyyIO90R3uWXjr-g4o0MG3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(641x267:643x269)/Fabio-Lanzoni-033024-1-38ae7f89a5eb440c86db37d3f35fee78.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/2.79.0/icons/favicons/mstile-70x70.png",
+                            "sailthru.tags": "biographies",
+                            "og:site_name": "Peoplemag",
+                            "msapplication-wide310x150logo": "/static/2.79.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/2.79.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "Fabio recalls when he was injured by a goose while at an event at Busch Gardens in Williamsburg, Virginia, to celebrate the inauguration of a new rollercoaster 25 years ago in an exclusive conversation with PEOPLE.",
+                            "twitter:image": "https://people.com/thmb/bpSaUyyIO90R3uWXjr-g4o0MG3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(641x267:643x269)/Fabio-Lanzoni-033024-1-38ae7f89a5eb440c86db37d3f35fee78.jpg",
+                            "twitter:site": "@people",
+                            "msapplication-square310x310logo": "/static/2.79.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Entertainment",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "People",
+                            "og:type": "article",
+                            "twitter:title": "The Still Unsolved Mystery of Fabio, a Rollercoaster and a Goose, 25 Years Later (Exclusive)",
+                            "emailvertical": "PEOPLE",
+                            "og:title": "The Still Unsolved Mystery of Fabio, a Rollercoaster and a Goose, 25 Years Later (Exclusive)",
+                            "msapplication-square150x150logo": "/static/2.79.0/icons/favicons/mstile-150x150.png",
+                            "fb:pages": "95926963131",
+                            "article:author": "https://www.facebook.com/peoplemag",
+                            "vf:url": "https://people.com/fabio-looks-back-at-rollercoaster-goose-incident-25-years-ago-exclusive-8622713",
+                            "parsely-tags": "Elizabeth Taylor,Movies,People.com,Biographies,Celebrity,Entertainment,The Scoop",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Fabio recalls when he was injured by a goose while at an event at Busch Gardens in Williamsburg, Virginia, to celebrate the inauguration of a new rollercoaster 25 years ago in an exclusive conversation with PEOPLE.",
+                            "og:url": "https://people.com/fabio-looks-back-at-rollercoaster-goose-incident-25-years-ago-exclusive-8622713",
+                            "sailthru.author": "Jason Sheeler",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://people.com/thmb/bpSaUyyIO90R3uWXjr-g4o0MG3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(641x267:643x269)/Fabio-Lanzoni-033024-1-38ae7f89a5eb440c86db37d3f35fee78.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " is taking a look back at a moment that went viral — long before we had viral moments. And he says most people still have the story wrong. \"I was never hit by the _goose_.\"\nIn an exclusive conversation with PEOPLE, the romance novel cover star, 65, recalls the time when he was  on March 31, 1999. The moment was so wild, so widely covered that many people thought it was an April Fool's joke the next day. \"But it was not funny,\" Fabio says. \"It was no joke.\"\n\"I tell you, it was a miracle,\" he says. \"I know that. For a goose, for anything hit you almost at like, 80 miles an hour, and, to leave you with just a stitch, I'm telling you, it was a freaking miracle. And because of that day, I began living life to its fullest,\" Fabio says. \"I could have died. I could have lost my vision. But I only got a cut.\"\nThe iconic Romance cover guy, Fabio. Maureen Donaldson / Getty Images\nWe know  — born Fabio Lanzoni in Milan, Italy — today as something of a pop-culture curiosity. Perhaps one of those people you know, but you're not quite sure how. Or why. But, make no mistake, no one owned the '...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "It Has Been Twenty Years Since Fabio Killed A Goose With His Face ...",
+                "htmlTitle": "It Has Been Twenty Years Since <b>Fabio</b> Killed A <b>Goose</b> With His Face ...",
+                "link": "https://medium.com/@miketoole/it-has-been-twenty-years-since-fabio-killed-a-goose-with-his-face-on-a-roller-coaster-a87d51285890",
+                "displayLink": "medium.com",
+                "snippet": "Mar 29, 2019 ... Somehow, the Red Wedding of roller coaster rides is reduced to one simple sentence on Fabio's Wikipedia page. Maybe it's the fact that this ...",
+                "htmlSnippet": "Mar 29, 2019 <b>...</b> Somehow, the Red Wedding of <b>roller coaster</b> rides is reduced to one simple sentence on <b>Fabio&#39;s</b> Wikipedia page. Maybe it&#39;s the fact that this&nbsp;...",
+                "formattedUrl": "https://medium.com/.../it-has-been-twenty-years-since-fabio-killed-a-goose-...",
+                "htmlFormattedUrl": "https://medium.com/.../it-has-been-twenty-years-since-<b>fabio</b>-killed-a-<b>goose</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLykoWHAgGeYKI21Rpl3HkCCqdEbBcJ89EjCs-6XUP0pyqJkCnY4C2xUu&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://miro.medium.com/v2/resize:fit:480/1*q5L-SqlhiWNYibMfcw5XxA.jpeg",
+                            "twitter:app:url:iphone": "medium://p/a87d51285890",
+                            "theme-color": "#000000",
+                            "article:published_time": "2020-02-14T03:29:11.579Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Medium",
+                            "al:android:package": "com.medium.reader",
+                            "twitter:label1": "Reading time",
+                            "twitter:app:id:iphone": "828256236",
+                            "title": "It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster | by Mike Toole | Medium",
+                            "al:ios:url": "medium://p/a87d51285890",
+                            "og:description": "It might be the most internet-ready thing to happen before the internet became the internet",
+                            "twitter:creator": "@miketoole",
+                            "al:ios:app_store_id": "828256236",
+                            "twitter:data1": "4 min read",
+                            "twitter:site": "@Medium",
+                            "og:type": "article",
+                            "twitter:title": "It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster",
+                            "al:ios:app_name": "Medium",
+                            "author": "Mike Toole",
+                            "og:title": "It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster",
+                            "al:web:url": "https://medium.com/@miketoole/it-has-been-twenty-years-since-fabio-killed-a-goose-with-his-face-on-a-roller-coaster-a87d51285890",
+                            "article:author": "https://medium.com/@miketoole",
+                            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:480/1*q5L-SqlhiWNYibMfcw5XxA.jpeg",
+                            "al:android:url": "medium://p/a87d51285890",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "542599432471018",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+                            "twitter:description": "It might be the most internet-ready thing to happen before the internet became the internet",
+                            "og:url": "https://medium.com/@miketoole/it-has-been-twenty-years-since-fabio-killed-a-goose-with-his-face-on-a-roller-coaster-a87d51285890",
+                            "twitter:app:name:iphone": "Medium",
+                            "al:android:app_name": "Medium"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://miro.medium.com/v2/resize:fit:480/1*q5L-SqlhiWNYibMfcw5XxA.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "It Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster | by Mike Toole | Medium\n===============\nSign up\nSign up\n!\nMember-only story\nIt Has Been Twenty Years Since Fabio Killed A Goose With His Face On A Roller Coaster\n=====================================================================================\nIt might be the most internet-ready thing to happen before the internet became the internet\n-------------------------------------------------------------------------------------------\n]\n·\n4 min read\n·\nMar 29, 2019\n\\--\n57\nShare\nSomehow, the Red Wedding of roller coaster rides is reduced to  on Fabio’s Wikipedia page.\nMaybe it’s the fact that this happened in a pre-YouTube/Twitter era, so it wasn’t immediately meme’d to death. It probably made your local news; maybe it was the last story of the night after sports and weather. It definitely made the rounds on Leno and The Daily Show. But Fabio showing up to promote a new roller coaster, then getting hit in the face by a goose is the funniest thing that has ever happened.\n(I realize this was not funny for the goose. RIP goose.)\n!\n“I Can’t Believe It’s Not Bloodier” Photo: Steve Earley | The Virginian-Pilot\nThink about everything that went into this. This happened in Virginia, not California, where I assume the spokesperson for I Can’t Believe It’s Not Butter lived at the time. So he had to be flown there, picked up at the airport, and presumably spend the night at the Williamsburg Embassy Suites, all so he could get hit in the face by a bird the next day.\nThe roller coaster is called , so it has some sort of Greek god theme, and Fabio has a lot of hair and muscles, so he…\n\\--\n\\--\n57\n]\nFollow\nMommy blogger. \nFollow",
+                    "content_tokens": 374
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fabio on What Happened When a Goose Struck Him on a ...",
+                "htmlTitle": "<b>Fabio</b> on What Happened When a <b>Goose</b> Struck Him on a ...",
+                "link": "https://people.com/movies/fabio-explains-what-happened-when-a-when-a-goose-struck-him-on-a-rollercoaster/",
+                "displayLink": "people.com",
+                "snippet": "Aug 21, 2021 ... Fabio Explains What Happened When a Goose Struck Him on a Rollercoaster: 'It Was a Miracle'. On the season finale of the PEOPLE in the '90s ...",
+                "htmlSnippet": "Aug 21, 2021 <b>...</b> <b>Fabio</b> Explains What Happened When a <b>Goose</b> Struck Him on a <b>Rollercoaster</b>: &#39;It Was a Miracle&#39;. On the season finale of the PEOPLE in the &#39;90s&nbsp;...",
+                "formattedUrl": "https://people.com/.../fabio-explains-what-happened-when-a-when-a-goose...",
+                "htmlFormattedUrl": "https://people.com/.../<b>fabio</b>-explains-what-happened-when-a-when-a-<b>goose</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlmYWRRy_gwNishfrnL-pCrJq-K4y71Uh_iuXfaNeVj62gQJ0bCZqytNA&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://people.com/thmb/rJx37LU4vrpH3SaFUdaAWuY2SkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x305:1001x307)/fabio-9f7bc23362664451b405db1f029da724.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/2.77.0/icons/favicons/mstile-70x70.png",
+                            "sailthru.tags": "crime-history",
+                            "og:site_name": "Peoplemag",
+                            "msapplication-wide310x150logo": "/static/2.77.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/2.77.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "On the season finale of the PEOPLE in the '90s podcast, the romance novel cover star (and pop culture icon) says there is still a mystery around that day in 1999 in Busch Gardens",
+                            "twitter:image": "https://people.com/thmb/rJx37LU4vrpH3SaFUdaAWuY2SkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x305:1001x307)/fabio-9f7bc23362664451b405db1f029da724.jpg",
+                            "twitter:site": "@people",
+                            "msapplication-square310x310logo": "/static/2.77.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Crime",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "People",
+                            "og:type": "article",
+                            "twitter:title": "Fabio Explains What Happened When a Goose Struck Him on a Rollercoaster: 'It Was a Miracle'",
+                            "emailvertical": "PEOPLE",
+                            "og:title": "Fabio Explains What Happened When a Goose Struck Him on a Rollercoaster: 'It Was a Miracle'",
+                            "msapplication-square150x150logo": "/static/2.77.0/icons/favicons/mstile-150x150.png",
+                            "fb:pages": "95926963131",
+                            "article:author": "https://www.facebook.com/peoplemag",
+                            "parsely-tags": "Human Interest,From the Magazine,Celebrity,Crime,Animals,StyleWatch,Crime History,The Scoop",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "On the season finale of the PEOPLE in the '90s podcast, the romance novel cover star (and pop culture icon) says there is still a mystery around that day in 1999 in Busch Gardens",
+                            "og:url": "https://people.com/movies/fabio-explains-what-happened-when-a-when-a-goose-struck-him-on-a-rollercoaster/",
+                            "sailthru.author": "Jason Sheeler",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://people.com/thmb/rJx37LU4vrpH3SaFUdaAWuY2SkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x305:1001x307)/fabio-9f7bc23362664451b405db1f029da724.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   Magazine\n    Magazine\n    *   \n    *   \n    *   \n    *   \n*   \n*   \nFollow Us\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   :max_bytes(150000):strip_icc():format(webp)/meghan-markle-prince-harry-nigeria-tout3-051124-504c6f07fa7d4558a22046c2f5a6af16.jpg) 1 Meghan Markle and Prince Harry Were Not Invited to Join Royal Family at Balmoral Castle This Summer (Exclusive)]\n*   :max_bytes(150000):strip_icc():format(webp)/angelina-jolie-brad-pitt-071724-3-03a66d17cec1470faba75cf5569e21e9.jpg) 2 Angelina Jolie Accuses Brad Pitt of Trying to Force Her to Sign NDA to 'Silence' Her Allegations of Abuse]\n*   :max_bytes(150000):strip_icc():format(webp)/Steven-Tyler-Aerosmith-092923-tout-2f6f6910ae9c46b39684010d6769cd1d.jpg) 3 Aerosmith Retires from Touring, Says Frontman Steven Tyler's 'Full Recovery from Vocal Injury Is Not Possible']\n*   :max_bytes(150000):strip_icc():format(webp)/passengers-exiting-plane-071524-acfe95bcd6ac4eecaa3c6c2995e583de.jpg) 4 Plane Grounded in Emergency Landing After Passengers Spot Lice Crawling in Woman's Hair Mid-Flight (Exclusive)]\n*   \n*   \nFabio Explains What Happened When a Goose Struck Him on a Rollercoaster: 'It Was a Miracle'\n===========================================================================================\nOn the season finale of the PEOPLE in the '90s podcast, the romance novel cover star (and pop culture icon) says there is still a mystery around that day in 1999 in Busch Gardens\nBy \nPublished on August 21, 2021 10:00AM EDT\nWe know  today as something of a '90s pop culture curiosity—one of those people you know, but you're not sure how. Or why. No one owned the '90s quite like the Italian-born model turned romance novel cover star. He posed for 1,300 of them, hair always blowing, muscles always glistening. His name was also on a dizzying array of stuff: hair-care products, fitness videos, posters, a clothing line at Sam's...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Fabio's face vs. goose roller coaster accident at Busch Gardens ...",
+                "htmlTitle": "<b>Fabio&#39;s</b> face vs. <b>goose roller coaster accident</b> at Busch Gardens ...",
+                "link": "https://www.13newsnow.com/article/news/history/fabio-hit-goose-busch-gardens-williamsburg-1999/291-9f9ad84f-2c40-495d-a685-0ac1ecfbd6c3",
+                "displayLink": "www.13newsnow.com",
+                "snippet": "Mar 29, 2019 ... 25 years ago, Fabio got goosed at Apollo's Chariot opening at Busch Gardens Williamsburg. One of the theme park's most popular roller coasters ...",
+                "htmlSnippet": "Mar 29, 2019 <b>...</b> 25 years ago, <b>Fabio</b> got goosed at Apollo&#39;s Chariot opening at Busch Gardens Williamsburg. One of the theme park&#39;s most popular <b>roller coasters</b>&nbsp;...",
+                "formattedUrl": "https://www.13newsnow.com/.../news/.../fabio...goose.../291-9f9ad84f-2c4...",
+                "htmlFormattedUrl": "https://www.13<b>news</b>now.com/.../<b>news</b>/.../<b>fabio</b>...<b>goose</b>.../291-9f9ad84f-2c4...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfDn2H6DrMURb7qrG_oYZrg_hXDKM8qEqlRdRzuIuxPYRL_i4e-8v5WQ&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1453203448",
+                            "og:image": "https://media.13newsnow.com/assets/WVEC/images/0dc24de5-bf61-42e6-966a-0040e3289cc3/0dc24de5-bf61-42e6-966a-0040e3289cc3_1140x641.jpg",
+                            "theme-color": "#045ea8",
+                            "og:image:width": "1140",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "13newsnow.com",
+                            "og:description": "One of the theme park's most popular roller coasters opened in 1999, but it had an infamously rocky start involving a goose and a supermodel.",
+                            "twitter:image": "https://media.13newsnow.com/assets/WVEC/images/0dc24de5-bf61-42e6-966a-0040e3289cc3/0dc24de5-bf61-42e6-966a-0040e3289cc3_1140x641.jpg",
+                            "twitter:site": "13NewsNow",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "13newsnow,news,history,local,weird",
+                            "twitter:title": "25 years ago, Fabio got goosed at Apollo's Chariot opening at Busch Gardens Williamsburg",
+                            "twitter:domain": "www.13newsnow.com/",
+                            "og:title": "25 years ago, Fabio got goosed at Apollo's Chariot opening at Busch Gardens Williamsburg",
+                            "og:image:height": "641",
+                            "og:article:published_time": "3/29/2019 5:00:08 PM",
+                            "twitter:image:src": "https://media.13newsnow.com/assets/WVEC/images/0dc24de5-bf61-42e6-966a-0040e3289cc3/0dc24de5-bf61-42e6-966a-0040e3289cc3_1140x641.jpg",
+                            "site": "13newsnow.com",
+                            "fb:app_id": "202186816999542",
+                            "viewport": "width=device-width",
+                            "twitter:description": "One of the theme park's most popular roller coasters opened in 1999, but it had an infamously rocky start involving a goose and a supermodel.",
+                            "og:locale": "en_US",
+                            "category": "news",
+                            "og:url": "https://www.13newsnow.com/article/news/history/fabio-hit-goose-busch-gardens-williamsburg-1999/291-9f9ad84f-2c40-495d-a685-0ac1ecfbd6c3",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.13newsnow.com/assets/WVEC/images/0dc24de5-bf61-42e6-966a-0040e3289cc3/0dc24de5-bf61-42e6-966a-0040e3289cc3_1140x641.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fabio's face vs. goose roller coaster accident at Busch Gardens | 13newsnow.com\n===============\n!\n*   Share on Facebook\n*   Share on SMS\n*   Share on Email\n]\nNavigation\n----------\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Latest News Stories\n    *     !]\n        #### \n    *     !]\n        #### \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Latest Weather Stories\n    *     !]\n        #### \n    *     !]\n        #### \n*   \n*   \n*   ]\n*   \n    Search:  Search\n Norfolk, VA »]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBreaking News\n25 years ago, Fabio got goosed at Apollo's Chariot opening at Busch Gardens Williamsburg\n========================================================================================\nOne of the theme park's most popular roller coasters opened in 1999, but it had an infamously rocky start involving a goose and a supermodel.\n#### More Videos\n!\nNext up in 5\nExample video title will go here for this video\n*   !\n    Next up in 5\n    Example video title will go here for this video\n*   !\n*   !\n*   !\n*   !\nAuthor: Christopher Collette\nPublished: 5:00 PM EDT March 29, 2019\nUpdated: 7:39 PM EDT March 29, 2024\n]\nWILLIAMSBURG, Va. — **_Editor's Note: The above video originally aired on the 24th anniversary of the event, March 30, 2023._**\nIt's been 25 years since one of Busch Gardens Williamsburg's most popular attractions, Apollo's Chariot, opened. It also has been 25 years since a fashion model took a ride on the roller coaster that he probably would like to forget (but never will).\nOn March 30, 1999, Fabio was on hand at the theme park to celebrate Apollo's Chariot's grand opening.  He took the front seat for the inaugural voyage, along with a bevy of young maidens.\nBut on the ride's very first drop, Fabio found himself with a face full of feathers and a bloody nose in need of stitches.\nA 10-pound goose found its way in the path of the coaster and -- at a speed of about 70 miles per hour -- landed squarely in the Italian model's face. Miraculously, Fabio's injuries were minor and while his maidens were shocked, they were otherwise unhurt.\n, the goose...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Fabio Wasn't Hit by a Goose — Park Rovers",
+                "htmlTitle": "<b>Fabio</b> Wasn&#39;t Hit by a <b>Goose</b> — Park Rovers",
+                "link": "https://parkrovers.com/home/2020/11/7/fabio-wasnt-hit-by-a-goose",
+                "displayLink": "parkrovers.com",
+                "snippet": "Nov 7, 2020 ... The Fabio Goose incident is one of the most talked-about stories in roller coaster and theme park history. As the story goes, Busch Gardens ...",
+                "htmlSnippet": "Nov 7, 2020 <b>...</b> The <b>Fabio Goose incident</b> is one of the most talked-about <b>stories</b> in <b>roller coaster</b> and theme park history. As the <b>story</b> goes, Busch Gardens&nbsp;...",
+                "formattedUrl": "https://parkrovers.com/home/2020/11/7/fabio-wasnt-hit-by-a-goose",
+                "htmlFormattedUrl": "https://parkrovers.com/home/2020/11/7/<b>fabio</b>-wasnt-hit-by-a-<b>goose</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JlVFc-AejhJSMXQHeDGnSFy4jOmaJUdU_EUy42LYhkf6zerEkV0fLRIu&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "3e3a9e3e7dd194ed9975b1a2a29a20a7",
+                            "og:image": "http://static1.squarespace.com/static/5c184d3c5417fce985a2a108/5c6e10cbfa0d60060a3c222c/5fa6b893d9418b4912833fe1/1715802328596/fabio.jpg?format=1500w",
+                            "og:type": "article",
+                            "og:image:width": "960",
+                            "twitter:title": "Fabio Wasn't Hit by a Goose — Park Rovers",
+                            "twitter:card": "summary",
+                            "og:site_name": "Park Rovers",
+                            "twitter:url": "https://parkrovers.com/home/2020/11/7/fabio-wasnt-hit-by-a-goose",
+                            "og:title": "Fabio Wasn't Hit by a Goose — Park Rovers",
+                            "og:image:height": "540",
+                            "og:latitude": "40.7207559",
+                            "og:description": "Update (May 15, 2024):  Thanks to a team of creators, including Bobby Fingers, Adam Savage, and The Slow Mo Guys, we now have proof that the goose couldn't have hit Fabio directly. Case closed.     Bobby Fingers' video      Adam Savage's video      The Slo Mo Guys' video",
+                            "twitter:image": "http://static1.squarespace.com/static/5c184d3c5417fce985a2a108/5c6e10cbfa0d60060a3c222c/5fa6b893d9418b4912833fe1/1715802328596/fabio.jpg?format=1500w",
+                            "og:longitude": "-74.0007613",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Update (May 15, 2024):  Thanks to a team of creators, including Bobby Fingers, Adam Savage, and The Slow Mo Guys, we now have proof that the goose couldn't have hit Fabio directly. Case closed.     Bobby Fingers' video      Adam Savage's video      The Slo Mo Guys' video",
+                            "og:url": "https://parkrovers.com/home/2020/11/7/fabio-wasnt-hit-by-a-goose"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://static1.squarespace.com/static/5c184d3c5417fce985a2a108/5c6e10cbfa0d60060a3c222c/5fa6b893d9418b4912833fe1/1715802328596/fabio.jpg?format=1500w"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fabio Wasn't Hit by a Goose — Park Rovers\n===============\n!\nRegional parks and attractions, Disney, Universal, and more.\n]\nRegional theme parks and attractions, Disney, and Universal.\n!\nNov 7\nNov 7 Fabio Wasn't Hit by a Goose\n---------------------------------\n**Update (May 15, 2024):** Thanks to a team of creators, including Bobby Fingers, Adam Savage, and The Slow Mo Guys, we now have proof that the goose couldn't have hit Fabio directly. Case closed.\n*   \n*   \n*   \n* * *\n**Update (March 30, 2022)**: We posted a YouTube video featuring updates to this article. We’ll continue to update this story as new information is revealed.\n**Update (June 4, 2021)**: At the end of ’s episode on the “Fabio Goose Incident,” they say an anonymous source reached out to them to confirm that a goose hit Fabio in the face. The source was apparently on the coaster. 🤷🏻‍♂️\n* * *\nThe Fabio Goose incident is one of the most talked-about stories in roller coaster and theme park history.\nAs the story goes, Busch Gardens Williamsburg invited Fabio Lanzoni to the opening ceremony of Apollo's Chariot, the first Hypercoaster built by Bolliger & Mabillard. In Greek mythology, Apollo was one of the most important and complex Gods. Fabio, an Italian fashion model, seemed like the perfect celebrity who resembled a Greek God. On March 30, 1999, a 10-pound goose struck Fabio in the face on the coaster's inaugural run.\nIn the past two weeks,  has referenced the incident on his podcasts. But he's been possibly spreading misinformation because, according to an interview, **the goose didn't hit Fabio**. In a , Fabio states that a goose hit the video camera, and a piece of debris slashed the bridge of Fabio's nose.\nHere’s the full quote, slightly edited, from Fabio himself:\n> They built the fastest roller coaster in the world, but when they built it, they built it on a flying path of geese. So the geese, they have to fly into the roller coaster to get into the pond, and fly out of the roller coaster and get out of the pond.\n> \n> This is the twist: one of the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "25 Years Ago, \"The Goosening\" happened to Fabio on [Apollo's ...",
+                "htmlTitle": "25 Years Ago, &quot;The <b>Goosening</b>&quot; happened to <b>Fabio</b> on [Apollo&#39;s ...",
+                "link": "https://www.reddit.com/r/rollercoasters/comments/1br5vw8/25_years_ago_the_goosening_happened_to_fabio_on/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 30, 2024 ... 25 Years Ago, \"The Goosening\" happened to Fabio on [Apollo's Chariot, Busch Gardens Williamsburg] · The Columbine school shooting (4/20).",
+                "htmlSnippet": "Mar 30, 2024 <b>...</b> 25 Years Ago, &quot;The <b>Goosening</b>&quot; happened to <b>Fabio</b> on [Apollo&#39;s Chariot, Busch Gardens Williamsburg] &middot; The Columbine school shooting (4/20).",
+                "formattedUrl": "https://www.reddit.com/.../rollercoasters/.../25_years_ago_the_goosening_h...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>rollercoaster</b>s/.../25_years_ago_the_<b>goose</b>ning_h...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0Cssm60aGqa5E-xUGCVcyOTCCMahE1_xRdvxuCnTQUCDYSM5bslzBDFK&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/25-years-ago-the-goosening-happened-to-fabio-on-apollos-v0-3cdox73cmdrc1.png?auto=webp&s=309cd0346f700746452523aeeffe77b8537aa4a7",
+                            "theme-color": "#000000",
+                            "og:image:width": "320",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/rollercoasters on Reddit: 25 Years Ago, \"The Goosening\" happened to Fabio on [Apollo's Chariot, Busch Gardens Williamsburg]",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/rollercoasters on Reddit: 25 Years Ago, \"The Goosening\" happened to Fabio on [Apollo's Chariot, Busch Gardens Williamsburg]",
+                            "og:image:height": "180",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Maddox121 - 162 votes and 22 comments",
+                            "twitter:image": "https://preview.redd.it/25-years-ago-the-goosening-happened-to-fabio-on-apollos-v0-3cdox73cmdrc1.png?auto=webp&s=309cd0346f700746452523aeeffe77b8537aa4a7",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/rollercoasters/comments/1br5vw8/25_years_ago_the_goosening_happened_to_fabio_on/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/25-years-ago-the-goosening-happened-to-fabio-on-apollos-v0-3cdox73cmdrc1.png?auto=webp&s=309cd0346f700746452523aeeffe77b8537aa4a7"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Fabio Reminisces About Goose Smash on Roller Coaster: “I Did My ...",
+                "htmlTitle": "<b>Fabio</b> Reminisces About <b>Goose</b> Smash on <b>Roller Coaster</b>: “I Did My ...",
+                "link": "https://www.vanityfair.com/style/2021/08/fabio-reminisces-about-goose-smash-on-roller-coaster-i-did-my-job",
+                "displayLink": "www.vanityfair.com",
+                "snippet": "Aug 21, 2021 ... The '90s hunk gives us all the ups and downs on a new podcast.",
+                "htmlSnippet": "Aug 21, 2021 <b>...</b> The &#39;90s hunk gives us all the ups and downs on a <b>new</b> podcast.",
+                "formattedUrl": "https://www.vanityfair.com/.../fabio-reminisces-about-goose-smash-on-rolle...",
+                "htmlFormattedUrl": "https://www.vanityfair.com/.../<b>fabio</b>-reminisces-about-<b>goose</b>-smash-on-<b>rolle</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd7sQik5i2TdrLzY__VBQ2WwGhgKKIJef-WUJKcV2W1flpUSpW2TjB0Pk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/16:9/w_1280,c_limit/820457726",
+                            "copyright": "Copyright (c) Condé Nast 2024",
+                            "article:published_time": "2021-08-21T17:48:52.603Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Vanity Fair",
+                            "parsely-metadata": "{\"description\":\"The ‘90s hunk gives us all the ups and downs on a new podcast.\",\"image-16-9\":\"https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/16:9/w_1000,c_limit/820457726\",\"image-1-1\":\"https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/1:1/w_1000,c_limit/820457726\"}",
+                            "og:description": "The ‘90s hunk gives us all the ups and downs on a new podcast.",
+                            "twitter:creator": "@VanityFair",
+                            "twitter:image": "https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/16:9/w_1280,c_limit/820457726?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@VanityFair",
+                            "article:modified_time": "2021-08-21T17:48:52.603Z",
+                            "news_keywords": "fabio,goose,podcast,people,people magazine",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "612131bcdf726af2eaeb94d3",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "Fabio Reminisces About Goose Smash on Roller Coaster: “I Did My Job”",
+                            "parsely-post-id": "612131bcdf726af2eaeb94d3",
+                            "twitter:domain": "https://www.vanityfair.com",
+                            "pinterest:image": "https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/2:3/w_1000,h_1500,c_limit/820457726",
+                            "author": "Condé Nast",
+                            "og:title": "Fabio Reminisces About Goose Smash on Roller Coaster: “I Did My Job”",
+                            "fb:pages": "8810407571",
+                            "article:author": "Jordan Hoffman",
+                            "fb:app_id": "256281040558",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The ‘90s hunk gives us all the ups and downs on a new podcast.",
+                            "og:url": "https://www.vanityfair.com/style/2021/08/fabio-reminisces-about-goose-smash-on-roller-coaster-i-did-my-job",
+                            "google-signin-client_id": "1065629119444-svrqo31taikd2j0ji4dgjs9q3vul4133.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.vanityfair.com/photos/6121344998cae93e2fcb526b/16:9/w_1280,c_limit/820457726"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Fabio Reminisces About Goose Smash on Roller Coaster: “I Did My Job” | Vanity Fair\n===============\nOpen Navigation Menu\nTo revisit this article, visit My Profile, then .\nClose Alert\n]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBird Brained\nFabio Reminisces About Goose Smash on Roller Coaster: “I Did My Job”\n====================================================================\nThe ‘90s hunk gives us all the ups and downs on a new podcast.\n!\nBy \nAugust 21, 2021\n!\nFabio Lanzoni at San Diego Comic-Con 2017 By Tommaso Boddi/Getty Images\nSave\nSave\nThe _PEOPLE in the ‘90s_ podcast closed out its first season in marble-chested, luxuriously locked fashion with a  with **Fabio**, the one-time model for  and spokesperson for America’s most  margarine. During the chat, the Milan-born hunk and   touched upon an incident that will forever be part of his legacy.\nIn 1999, Fabio, whose full name is Fabio Lanzoni, was hired by Busch Gardens in Williamsburg, Virginia to inaugurate their new Apollo’s Chariot rollercoaster in the appropriately named Festa Italia section of the amusement park. On the climb up, Fabio was all smiles. On the way down, his face (his beautiful face!) was covered in blood.\nThe legend goes that as the ride zoomed over a pond, Fabio came in direct contact with a goose, but as he explains it on the podcast, this isn’t exactly true. As the coaster did turns and flips at high speeds, one of “hundreds” of estimated geese “got sucked in.” The doomed bird actually hit a video camera, which then broke into many pieces. One such piece cut Fabio on the bridge of his nose and “because then it was all the rest of the ride after I was cut upside down, of course, the blood rushes to your head,” he said.\nHe also downplayed the severity of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Never forget when a goose hit Fabio on a roller coaster : r/pics",
+                "htmlTitle": "Never forget when a <b>goose</b> hit <b>Fabio</b> on a <b>roller coaster</b> : r/pics",
+                "link": "https://www.reddit.com/r/pics/comments/85l2vg/never_forget_when_a_goose_hit_fabio_on_a_roller/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Mar 19, 2018 ... \"yeah, his face got all fucked up in a car accident. dead ringer!\" \"...\".",
+                "htmlSnippet": "Mar 19, 2018 <b>...</b> &quot;yeah, his face got all fucked up in a car <b>accident</b>. dead ringer!&quot; &quot;...&quot;.",
+                "formattedUrl": "https://www.reddit.com/.../never_forget_when_a_goose_hit_fabio_on_a_ro...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../never_forget_when_a_<b>goose</b>_hit_<b>fabio</b>_on_a_<b>ro</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcZ-kItURmLDCJJ8iQ1L4Ni1hf3438ya3y6HEUr9RoAgpEn--_55dOtWn&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/6iaukqtt4rm01.jpg?width=1080&crop=smart&auto=webp&s=62b508572731bb65d910344ebf1554e6e0842b1e",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/pics on Reddit: Never forget when a goose hit Fabio on a roller coaster",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/pics on Reddit: Never forget when a goose hit Fabio on a roller coaster",
+                            "og:image:height": "607",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Sevendevils777 - 18,945 votes and 570 comments",
+                            "twitter:image": "https://preview.redd.it/6iaukqtt4rm01.jpg?width=1080&crop=smart&auto=webp&s=62b508572731bb65d910344ebf1554e6e0842b1e",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/pics/comments/85l2vg/never_forget_when_a_goose_hit_fabio_on_a_roller/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/6iaukqtt4rm01.jpg?width=1080&crop=smart&auto=webp&s=62b508572731bb65d910344ebf1554e6e0842b1e"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "I Was There When Fabio Got Hit By A Goose On A Roller Coaster ...",
+                "htmlTitle": "I Was There When <b>Fabio</b> Got Hit By A <b>Goose</b> On A <b>Roller Coaster</b> ...",
+                "link": "https://clickhole.com/i-was-there-when-fabio-got-hit-by-a-goose-on-a-roller-c-1825124049/",
+                "displayLink": "clickhole.com",
+                "snippet": "Jul 28, 2015 ... I found a good spot to stand, thinking that I'd just have the pleasure of watching Fabio ride the exciting, soaring new track, when a Busch ...",
+                "htmlSnippet": "Jul 28, 2015 <b>...</b> I found a good spot to stand, thinking that I&#39;d just have the pleasure of watching <b>Fabio</b> ride the exciting, soaring <b>new</b> track, when a Busch&nbsp;...",
+                "formattedUrl": "https://clickhole.com/i-was-there-when-fabio-got-hit-by-a-goose-on-a-rolle...",
+                "htmlFormattedUrl": "https://clickhole.com/i-was-there-when-<b>fabio</b>-got-hit-by-a-<b>goose</b>-on-a-<b>rolle</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZbxhHCH-sqwcmecmjbqWyE9vJovMIBZC0Zuz9URrALtU9DXpycFu0LdA&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "Mission News 1.38",
+                            "og:image": "https://clickhole.com/wp-content/uploads/2015/07/he8vrupzwitzjinibbng.jpg",
+                            "og:type": "article",
+                            "og:image:width": "800",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "I Was There When Fabio Got Hit By A Goose On A Roller Coaster And I Did Nothing",
+                            "article:published_time": "2015-07-28T00:00:00+00:00",
+                            "og:site_name": "ClickHole",
+                            "twitter:url": "https://clickhole.com/i-was-there-when-fabio-got-hit-by-a-goose-on-a-roller-c-1825124049/",
+                            "author": "Clickhole Editorial",
+                            "og:title": "I Was There When Fabio Got Hit By A Goose On A Roller Coaster And I Did Nothing",
+                            "og:image:height": "450",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://clickhole.com/wp-content/uploads/2020/05/cropped-clickhole-icon-270x270.png",
+                            "twitter:creator": "ClickHole",
+                            "og:description": "Ernest Paar Author, blogger Human beings occupy a special place in this world. That’s because we alone have the ability to selflessly act when another…",
+                            "twitter:image": "https://clickhole.com/wp-content/uploads/2015/07/he8vrupzwitzjinibbng.jpg",
+                            "article:publisher": "https://www.facebook.com/clickhole",
+                            "facebook-domain-verification": "229em21zvzmy9j3tyydoxwhrn0x3q6",
+                            "twitter:site": "ClickHole",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://clickhole.com/i-was-there-when-fabio-got-hit-by-a-goose-on-a-roller-c-1825124049/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://clickhole.com/wp-content/uploads/2015/07/he8vrupzwitzjinibbng.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... I Did Nothing\n===============================================================================\nJuly 28, 2015\n!\n!\nErnest Paar\nAuthor, blogger\nHuman beings occupy a special place in this world. That’s because we alone have the ability to selflessly act when another is in danger, even if it means putting ourselves in harm’s way. It is a beautiful trait, one entirely unique to mankind. But on an early spring day 16 years ago, I betrayed my own humanity with an act of extreme cowardice:\nI saw Fabio get hit in the face by a goose while riding a roller coaster. And I did nothing.\nThe day is burned into my memory. It was March 30, 1999, and international modeling superstar Fabio happened to be at Busch Gardens in Williamsburg, VA for a publicity appearance at the opening of its new coaster, Apollo’s Chariot. I found a good spot to stand, thinking that I’d just have the pleasure of watching Fabio ride the exciting, soaring new track, when a Busch Gardens employee asked me if I wanted to ride in the back of Fabio’s car. I was ecstatic. Little did I know how quickly that ecstasy would turn to lifelong regret.\nAs we raced around the track, with its thrilling dips and dives, I suddenly noticed a large brown object flying right into the path of our cart, which was zooming down a hill at 70 mph. I then realized it was a goose. And it was headed right for Fabio.\nWhat occurred next happened in slow motion: the bird striking the car, then bouncing up into Fabio’s face and exploding into a cloud of viscera on the bridge of his nose. The screams. And I just sat there, glued to my chair by cowardice.\n**This would have been a tragedy had it happened to anyone, no doubt, but to have it befall Fabio was a catastrophe. And on my watch.**\nWhen the car returned to the station, a badly shaken Fabio was smeared in blood, a macabre cocktail of his own and that of the goose. This would have been a tragedy had it happened to anyone, no doubt, but to have it befall Fabio was a catastrophe. And on my watch.\nNot a day goes by that I don’t think about how that goose should have bludgeoned _my_ face, not Fabio’s.\nI could have undone my harness, jumped up three rows, and swatted away the feathered goon before it hit Fabio’s face. I could have yelled, “Look out—bird!” I could have been more wary of the devious and depraved nature of birds and warned Fabio not...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "The Mystery Around Fabio's Rollercoaster Goose Encounter Will ...",
+                "htmlTitle": "The Mystery Around <b>Fabio&#39;s Rollercoaster Goose</b> Encounter Will ...",
+                "link": "https://www.autoevolution.com/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823.html",
+                "displayLink": "www.autoevolution.com",
+                "snippet": "Aug 22, 2021 ... Rollercoaster rides are fun, but not for Fabio. For the younger generation, Fabio Lanzoni is an Italian-born model who was on the face of ...",
+                "htmlSnippet": "Aug 22, 2021 <b>...</b> <b>Rollercoaster</b> rides are fun, but not for <b>Fabio</b>. For the younger generation, <b>Fabio</b> Lanzoni is an Italian-born model who was on the face of&nbsp;...",
+                "formattedUrl": "https://www.autoevolution.com/news/the-mystery-around-fabios-rollercoast...",
+                "htmlFormattedUrl": "https://www.autoevolution.com/<b>news</b>/the-mystery-around-<b>fabio</b>s-<b>rollercoast</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVWl1dRkXuCEoeNj4c02X_3ihvIIAoVAPL7E83E2ZEj45S2NN15H-HNAk&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "980",
+                            "url": "https://s1.cdn.autoevolution.com/images/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823_1.jpg",
+                            "thumbnailurl": "https://s1.cdn.autoevolution.com/images/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823-7.jpg",
+                            "height": "490"
+                        },
+                        {
+                            "width": "500",
+                            "url": "https://s1.cdn.autoevolution.com/_img/autoevolution_logo_2016_ldjs.png",
+                            "height": "100"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "image": "https://s1.cdn.autoevolution.com/images/editors/elena-gorgan-200.jpg?v=2024_2",
+                            "name": "Elena Gorgan",
+                            "url": "Elena Gorgan"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "autoevolution",
+                            "url": "https://www.autoevolution.com/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "og:image": "https://s1.cdn.autoevolution.com/images/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823_1.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "article:published_time": "2021-08-22T08:04:54+0000",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "autoevolution",
+                            "author": "Elena Gorgan",
+                            "og:title": "The Mystery Around Fabio’s Rollercoaster Goose Encounter Will Never Be Solved",
+                            "language": "en",
+                            "msapplication-tileimage": "https://www.autoevolution.com/icons/ms-icon-144x144.png",
+                            "og:description": "Because the story keeps changing. One of the most viral moments before online virals were even invented is still shrouded in mystery",
+                            "twitter:creator": "@_autoevolution_",
+                            "article:publisher": "https://www.facebook.com/autoevolution",
+                            "twitter:site": "@_autoevolution_",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "og:url": "https://www.autoevolution.com/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823.html",
+                            "supported-media": "only screen and (max-width: 639px)"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s1.cdn.autoevolution.com/images/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823_1.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "Viral videos and memes are a dime a dozen these days. The Internet has come long way since “Charlie bit my finger,” but few other moments are as iconic as the incident in which male supermodel...",
+                            "headline": "The Mystery Around Fabio’s Rollercoaster Goose Encounter Will Never Be Solved",
+                            "datepublished": "2021-08-22T08:04:54+0000",
+                            "mainentityofpage": "https://www.autoevolution.com/news/the-mystery-around-fabios-rollercoaster-goose-encounter-will-never-be-solved-167823.html"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*     \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n >  > \n• \nThe Mystery Around Fabio’s Rollercoaster Goose Encounter Will Never Be Solved\n=============================================================================\nPublished: 22 Aug 2021, 08:04 UTC • By:\n  !\n   ]1 photo\nPhoto: Steve Eearly, The Virginian-Pilot\nViral videos and memes are a dime a dozen these days. The Internet has come long way since “Charlie bit my finger,” but few other moments are as iconic as the incident in which male supermodel and margarine “I can’t believe it’s not butter” spokesperson Fabio killed an innocent goose with his beautiful face.\nRollercoaster rides are fun, but not for Fabio. For the younger generation, Fabio Lanzoni is an Italian-born model who was on the face of almost every romance novel printed out in the late ‘80s and early ‘90s. He had a Greek god body, blue eyes and hair for days, and he was, at one point, so incredibly famous that he joined the very select list of one-name celebrities, alongside Madonna, Cher, Beyonce, and Prince.  \nFabio’s career derailed on the exact date of March 30, 1999, when he got on  of the brand new Bolliger & Mabillard hypercoaster Apollo, at the Busch Gardens Williamsburg in Virginia. A hypercoaster is like a more badass rollercoaster, in that it soars higher, taking passengers above 200 feet (61 meters) above the ground before it drops them. Since the ride was named Apollo and Fabio looked exactly like a Greek god and he was at the height of his fame, this was considered prime PR move: the theme park got him as spokesperson for the big opening of their first ride of the kind.  \nThe press was at the scene and, as you can see in the video below, there was a camera strapped to the train, facing Fabio and a bunch of girls in thematic Greek garb. However, footage from that camera was never retrieved and, according to a new interview with , it never will. _“The camera is never to be found. The tape disappeared. It never was found,”_ Fabio says.  \nThe world will never know what happened on that , when a goose died after a reported collision with Fabio’s face and his career never recovered. The first round of stories...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

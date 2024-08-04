@@ -1,0 +1,590 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - ribbon worm hunting behaviors",
+                "totalResults": "1000000",
+                "searchTerms": "ribbon worm hunting behaviors",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - ribbon worm hunting behaviors",
+                "totalResults": "1000000",
+                "searchTerms": "ribbon worm hunting behaviors",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.246791,
+        "formattedSearchTime": "0.25",
+        "totalResults": "1000000",
+        "formattedTotalResults": "1,000,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Ribbon worm hunting : r/oddlyterrifying",
+                "htmlTitle": "<b>Ribbon worm hunting</b> : r/oddlyterrifying",
+                "link": "https://www.reddit.com/r/oddlyterrifying/comments/1ebp4q8/ribbon_worm_hunting/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 25, 2024 ... This however, I believe to he the unarmed Gorgonorhynchus repens. Edit: It's mostly likely a defensive behavior seen in the video, but I don't ...",
+                "htmlSnippet": "Jul 25, 2024 <b>...</b> This however, I believe to he the unarmed Gorgonorhynchus repens. Edit: It&#39;s mostly likely a defensive <b>behavior</b> seen in the video, but I don&#39;t&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/oddlyterrifying/.../ribbon_worm_hunting/",
+                "htmlFormattedUrl": "https://www.reddit.com/r/oddlyterrifying/.../<b>ribbon</b>_<b>worm</b>_<b>hunting</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLOnN4c9NxaFX0zmK5brRVtLZGweHgCEb1jZGhgTxAXZ9BrpFuIvlFbj4&s",
+                            "width": "168",
+                            "height": "300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/ribbon-worm-hunting-v0-MjhmNmFsMmtkbWVkMYAkzRuDgDBXOaIijGr9ZRLuLZ59wCY_lPxeMlVF8ppn.png?format=pjpg&auto=webp&s=c856cdcadb8a18e15609a267eadebbc5d625e2c1",
+                            "theme-color": "#000000",
+                            "og:image:width": "360",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/oddlyterrifying on Reddit: Ribbon worm hunting",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/oddlyterrifying on Reddit: Ribbon worm hunting",
+                            "og:image:height": "640",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Signal_Missing - 1,066 votes and 115 comments",
+                            "twitter:image": "https://external-preview.redd.it/ribbon-worm-hunting-v0-MjhmNmFsMmtkbWVkMYAkzRuDgDBXOaIijGr9ZRLuLZ59wCY_lPxeMlVF8ppn.png?format=pjpg&auto=webp&s=c856cdcadb8a18e15609a267eadebbc5d625e2c1",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/oddlyterrifying/comments/1ebp4q8/ribbon_worm_hunting/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/ribbon-worm-hunting-v0-MjhmNmFsMmtkbWVkMYAkzRuDgDBXOaIijGr9ZRLuLZ59wCY_lPxeMlVF8ppn.png?format=pjpg&auto=webp&s=c856cdcadb8a18e15609a267eadebbc5d625e2c1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Ribbon worm hunting : r/oddlyterrifying\n===============\n Ribbon worm hunting : r/oddlyterrifying\nOpen menu Open navigation  Go to Reddit Home\nr/oddlyterrifying A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nA place for pictures and videos that are not the ordinary type of terrifying, but \\*oddly\\* terrifying.\n* * *\n2.6M Members 57 Online\n• 9 days ago\nADMIN MOD\nRibbon worm hunting\n===================\n  !\n • Promoted\nMonster Hunter Now is a location-based action RPG mobile game where you team up with other players to find and hunt monsters in the real world.\nInstall\nmonsterhunternow.onelink.me\n!\nCollapse video player Add a Comment\nSort by:\nBest\nOpen comment sort options\n*   Best\n    *   Top\n    *   New\n    *   Controversial\n    *   Old\n    *   Q&A\n• \nThis isn't oddly terrifying this is just straight up scary\nReply reply\n• \nHorrifying\nReply reply\n1 more reply\n1 more reply\n1 more reply\n1 more reply\n• \nI’m sure I’ve battled that in an RPG\nReply reply\n• \nGotta watch that AOE\nReply reply \n1 more reply\n1 more reply\n• \nI keep seeing videos of these worms on ppl's arms doing this, is it okay to have that on your skin???\nReply reply\n• \nLinkin Park once wrote a song about these worms, once they start crawling in your skin, the wounds they...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Nemertea: INFORMATION - ADW",
+                "htmlTitle": "Nemertea: INFORMATION - ADW",
+                "link": "https://animaldiversity.org/accounts/Nemertea/",
+                "displayLink": "animaldiversity.org",
+                "snippet": "Phylum Nemertea, or ribbon worms, contains approximately 1,200 species of bilaterally symmetrical, coelomate, unsegmented worms, which are divided into two ...",
+                "htmlSnippet": "Phylum <b>Nemertea</b>, or <b>ribbon worms</b>, contains approximately 1,200 species of bilaterally symmetrical, coelomate, unsegmented worms, which are divided into two&nbsp;...",
+                "formattedUrl": "https://animaldiversity.org/accounts/Nemertea/",
+                "htmlFormattedUrl": "https://animaldiversity.org/accounts/Nemertea/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4MWXGTLx8rKBhjZvJx5wJ3QfB_oqScuqyU0Y7TY6Ppw6866FIRUX-lrqW&s",
+                            "width": "163",
+                            "height": "310"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://animaldiversity.org/collections/contributors/Grzimek_inverts/Enopla/v01_id128_con_predat/medium.jpg",
+                            "og:type": "website",
+                            "twitter:card": "summary",
+                            "twitter:title": "Nemertea (ribbon worms)",
+                            "og:site_name": "Animal Diversity Web",
+                            "twitter:url": "https://animaldiversity.org/accounts/Nemertea/",
+                            "og:title": "Nemertea (ribbon worms)",
+                            "twitter:image:height": "480",
+                            "twitter:image:src": "https://animaldiversity.org/collections/contributors/Grzimek_inverts/Enopla/v01_id128_con_predat/medium.jpg",
+                            "twitter:site": "@AnimalDiversity",
+                            "twitter:image:width": "252",
+                            "twitter:description": "Read about Nemertea (ribbon worms) on the Animal Diversity Web.",
+                            "og:url": "https://animaldiversity.org/accounts/Nemertea/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://animaldiversity.org/collections/contributors/Grzimek_inverts/Enopla/v01_id128_con_predat/medium.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "### Di­ver­sity\nPhy­lum Ne­mertea, or rib­bon worms, con­tains ap­prox­i­mately 1,200 species of bi­lat­er­ally sym­met­ri­cal, coelo­mate, un­seg­mented worms, which are di­vided into two classes, each of which is di­vided into two or­ders (: Palaeone­mertea,  and : , ). Dis­tinc­tions be­tween the classes and or­ders lie in the pres­ence of body ar­mor­ing ( has no armor and  is typ­i­cally armed with stylets), pro­boscis con­struc­tion, mouth po­si­tion rel­a­tive to the cere­bral gan­glion, and body mor­phol­ogy ( is mor­pho­log­i­cally spe­cial­ized into three re­gions (with the ex­cep­tion of Bdel­lone­merta), while  is not), as well as gut shape, body wall mus­cle lay­er­ing, and po­si­tion­ing of lon­gi­tu­di­nal nerve cords. They have widely var­ied dis­tri­b­u­tions and habi­tats; most species are free-swim­ming, ben­thic, ma...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Upside-down behaviour of certain ribbon worms (phylum Nemertea ...",
+                "htmlTitle": "Upside-down <b>behaviour</b> of certain <b>ribbon worms</b> (phylum <b>Nemertea</b> ...",
+                "link": "https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/upsidedown-behaviour-of-certain-ribbon-worms-phylum-nemertea/3D102FF1D5E4AC1662D9F4413FA686DA",
+                "displayLink": "www.cambridge.org",
+                "snippet": "Jan 4, 2024 ... At the moment we can only speculate that their behaviour may be related to the way they hunt their prey, which should be observed in future ...",
+                "htmlSnippet": "Jan 4, 2024 <b>...</b> At the moment we can only speculate that their <b>behaviour</b> may be related to the way they <b>hunt</b> their prey, which should be observed in future&nbsp;...",
+                "formattedUrl": "https://www.cambridge.org/...ribbon-worms.../3D102FF1D5E4AC1662D9...",
+                "htmlFormattedUrl": "https://www.cambridge.org/...<b>ribbon</b>-<b>worm</b>s.../3D102FF1D5E4AC1662D9...",
+                "pagemap": {
+                    "organization": [
+                        {
+                            "logo": "https://www.cambridge.org/core/cambridge-core/public/images/cambridge_logo.png",
+                            "url": "https://www.cambridge.org/"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_author_orcid": "0000-0001-6510-9355",
+                            "citation_keywords": "Archinemertea; cephalotrichellidae; cephalotrichidae; dorsoventral inversion; marine invertebrates; palaeonemertea",
+                            "og:image": "https://static.cambridge.org/covers/TRO_0_0_0/journal_of tropical ecology.jpg?send-full-size-image=true",
+                            "citation_publication_date": "2024/01",
+                            "og:type": "website",
+                            "citation_title": "Upside-down behaviour of certain ribbon worms (phylum Nemertea)",
+                            "og:site_name": "Cambridge Core",
+                            "citation_reference": "citation_title=Observations on the ecology and feeding behavior of the anchialine shrimp Procaris ascensionis; citation_author=Abele, LG; citation_author=Felgenhauer, BE; citation_publication_date=1985; citation_journal_title=Journal of Crustacean Biology; citation_volume=5; citation_firstpage=15; citation_lastpage=24; citation_doi=10.2307/1548217",
+                            "citation_publisher": "Cambridge University Press",
+                            "og:title": "Upside-down behaviour of certain ribbon worms (phylum Nemertea) | Journal of Tropical Ecology | Cambridge Core",
+                            "citation_journal_title": "Journal of Tropical Ecology",
+                            "citation_abstract": "Ribbon worms in the genus Balionemertes from Vietnam, the Philippines, Australia, and Guam—as well as Cephalothrix suni from Vietnam—were examined. Our observations indicate that the worms crawl mostly with their ventral surface upwards (the ventral surface being where the mouth opens), a behaviour that has not been documented in previous literature. Like many other worm species with colour patterns, they have a darker-coloured and/or more intensely patterned behavioural dorsal surface (= anatomical ventral surface in Balionemertes and C. suni) than the other side. This type of behavioural dorsoventral body-axis inversion among vermiform benthos seems to be rare—not having hitherto been known at least in the phylum Nemertea—and may be related to their feeding strategy, which should be observed in future studies.",
+                            "citation_author": "Hiroshi Kajihara",
+                            "shareaholic:site_id": "b60ec523a5bee2ad04c630bf0d3aa388",
+                            "og:description": "Upside-down behaviour of certain ribbon worms (phylum Nemertea) - Volume 40",
+                            "citation_online_date": "2024/01/04",
+                            "citation_firstpage": "e2",
+                            "citation_issn": "0266-4674",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1017/S0266467423000330",
+                            "dc.identifier": "doi:10.1017/S0266467423000330",
+                            "citation_pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3D102FF1D5E4AC1662D9F4413FA686DA/S0266467423000330a.pdf/div-class-title-upside-down-behaviour-of-certain-ribbon-worms-phylum-nemertea-div.pdf",
+                            "citation_volume": "40",
+                            "og:url": "https://www.cambridge.org/core/journals/journal-of-tropical-ecology/article/upsidedown-behaviour-of-certain-ribbon-worms-phylum-nemertea/3D102FF1D5E4AC1662D9F4413FA686DA"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.cambridge.org/covers/TRO_0_0_0/journal_of tropical ecology.jpg?send-full-size-image=true"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... * *\nHiroshi Kajihara\\*\nAffiliation:\nFaculty of Science, Hokkaido University, Sapporo 060-0810, Hokkaido, Japan\nAudrey Falconer\nAffiliation:\nSciences Department, Museums Victoria Research Institute, Museums Victoria, GPO Box 666, Melbourne, VIC 3001, Australia Marine Research Group, The Field Naturalists Club of Victoria, 1 Gardenia Street, Blackburn, VIC 3130, Australia\nAlexei Viktorovich Chernyshev\nAffiliation:\nA.V. Zhirmunsky National Scientific Centre of Marine Biology, Far East Branch of the Russian Academy of Sciences, Palchevskogo Street 17, Vladivostok, 690041, Russia\n\\*\nCorresponding author: Hiroshi Kajihara; Email: \n* * *\n*   \n*   \n*   \n*   \n ! Share\n!\n ! Cite Rights & Permissions \\]&publicationDate=04%20January%202024&author=Hiroshi%20Kajihara%2C%20Audrey%20Falconer%2C%20Alexei%20Viktorovich%20Chernyshev%C2%A9right=%C2%A9%20The%20Author\\(s\\)%2C%202024.%20Published%20by%20Cambridge%20University%20Press&contentID=10.1017%2FS0266467423000330&startPage=&endPage=&orderBeanReset=True&volumeNum=40&issueNum=&oa=)\n* * *\nAbstract\n--------\nRibbon worms in the genus Balionemertes from Vietnam, the Philippines, Australia, and Guam—as well as Cephalothrix suni from Vietnam—were examined. Our observations indicate that the worms crawl mostly with their ventral surface upwards (the ventral surface being where the mouth opens), a behaviour that has not been documented in previous literature. Like many other worm species with colour patterns, they have a darker-coloured and/or more intensely patterned behavioural dorsal surface (= anatomical ventral surface in Balionemertes and C. suni) than the other side. This type of behavioural dorsoventral body-axis inversion among vermiform benthos seems to be rare—not having hitherto been known at least in the phylum Nemertea—and may be related to their feeding strategy, which should be observed in future studies.\n* * *\nKeywords\n--------\n* * *\nType\nField Note\nInformation\n ,  , 2024 , e2\nDOI: ]\n]\nCopyright\n© The Author...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Bootlace Worm : Maximum Worm – The Wild Episode",
+                "htmlTitle": "Bootlace <b>Worm</b> : Maximum <b>Worm</b> – The Wild Episode",
+                "link": "https://thewildepisode.com/2019/09/24/bootlace-worm-maximum-worm/",
+                "displayLink": "thewildepisode.com",
+                "snippet": "Sep 24, 2019 ... The world record for longest animal is held by the bootlace worm (Lineus longissimus), a Nemertean or ribbon worm from the North Sea.",
+                "htmlSnippet": "Sep 24, 2019 <b>...</b> The world record for longest animal is held by the bootlace worm (Lineus longissimus), a Nemertean or <b>ribbon worm</b> from the North Sea.",
+                "formattedUrl": "https://thewildepisode.com/2019/09/24/bootlace-worm-maximum-worm/",
+                "htmlFormattedUrl": "https://thewildepisode.com/2019/09/24/bootlace-<b>worm</b>-maximum-<b>worm</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPSo6yUrwZCXUBZBbUkfAge8Vrsg_c5G_PtT29jAxDvPf0akFjHvxf9om&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://thewildepisode.com/wp-content/themes/aden/img/blank.png",
+                            "og:image:width": "1",
+                            "og:site_name": "The Wild Episode",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                            "og:title": "Bootlace Worm : Maximum Worm",
+                            "og:image:height": "1",
+                            "og:locale": "en_gb",
+                            "og:url": "https://thewildepisode.com/2019/09/24/bootlace-worm-maximum-worm/",
+                            "msapplication-tileimage": "https://thewildepisode.com/wp-content/uploads/2018/02/cropped-sRGB-1400x1400-square-bird-twe-270x270.jpg",
+                            "og:description": "The world record for longest animal is held by the bootlace worm (Lineus longissimus), a Nemertean or ribbon worm from the North Sea. In fact, it's held by a Scottish bootlace worm that was washed ashore in 1864. But this is an episode, and an"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://thewildepisode.com/wp-content/themes/aden/img/blank.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The world record for longest animal is held by the bootlace worm (Lineus longissimus), a Nemertean or ribbon worm from the North Sea. In fact, it’s held by a Scottish bootlace worm that was washed ashore in 1864. But this is an episode, and an animal, that comes with a whole load of questions. Is that world record reliable? How long do bootlace worms actually get? Why do they grow so long (especially considering they’re only about 1cm in diameter!)? And what is a ribbon worm anyway?\n\nDirect Download Link\nSubscribe to the Podcast and never miss a Wild Episode! (P.S. Make your friends and family subscribe too!)\nAnd please do E-mail the show if you have any comments, complaints, corrections, suggestions, encouragement or even just want to say hello.\nAnd don’t forget, you can now check out The Wild Episode’s very own Facebook page.\nRead on for more on ribbon worms in general and the bootlace worm in particular, including exciting videos of probosces getting everted!\n\nLet’s start with the good stuff.\nA drawing of a bootlace worm from the 19th century book in which the 55m specimen from St. Andrews was reported:\n\nAnd, incidentally, you can actually read the relevant entry in that old book for yourself, online over at the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "14 Fun Facts about Marine Ribbon Worms | Smithsonian",
+                "htmlTitle": "14 Fun Facts about Marine <b>Ribbon Worms</b> | Smithsonian",
+                "link": "https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/",
+                "displayLink": "www.smithsonianmag.com",
+                "snippet": "Mar 15, 2013 ... Ribbon worms swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed, ...",
+                "htmlSnippet": "Mar 15, 2013 <b>...</b> <b>Ribbon worms</b> swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed,&nbsp;...",
+                "formattedUrl": "https://www.smithsonianmag.com/.../14-fun-facts-about-marine-ribbon-wor...",
+                "htmlFormattedUrl": "https://www.smithsonianmag.com/.../14-fun-facts-about-marine-<b>ribbon</b>-<b>wor</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxaZpg0RyOEWao5qrmp6MU2v4arCZgCrnJAbYE-EkfN_WzJsf9ZW-Lh7So&s",
+                            "width": "307",
+                            "height": "164"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "1cb4877f178228486592ed27f73e9fd1",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Smithsonian Magazine",
+                            "apple-mobile-web-app-title": "Smithsonian Magazine",
+                            "twitter:creator": "@emilygfrost",
+                            "og:description": "Ribbon worms swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed, and much more",
+                            "twitter:image": "https://th-thumbnailer.cdn-si-edu.com/CWPJ_XILinhp6mxMesZGFjU6nrE=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg",
+                            "twitter:site": "@SmithsonianMag",
+                            "image": "https://th-thumbnailer.cdn-si-edu.com/iKPvqh9LTYEXUBw56FfxICCqNkU=/fit-in/1600x0/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler%2F20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg",
+                            "twitter:title": "14 Fun Facts about Marine Ribbon Worms",
+                            "og:image:alt": "Ribbon worms come in all shapes and sizes. This one, with white stripes along the body, was found off the coast of Mexico.",
+                            "og:type": "article",
+                            "article:section": "Science, Wildlife, , Our Planet, , Blogs, , Surprising Science, , Articles",
+                            "author": "Smithsonian Magazine",
+                            "og:title": "14 Fun Facts about Marine Ribbon Worms",
+                            "fb:pages": "47619793252",
+                            "article:tag": "Oceans, Oceans Portal",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "419418791549947",
+                            "apple-mobile-web-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "Ribbon worms swallow prey whole, grease themselves with their mucus to slide quickly through mud, split into new worms if severed, and much more",
+                            "com.silverpop.brandeddomains": "www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com",
+                            "category": "Science",
+                            "og:url": "https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://th-thumbnailer.cdn-si-edu.com/Pt3bPDXUoeBMySPjDdeMLcnnfWA=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/20130315013213Nemertea_Basiodiscus_mexicanus-470px.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.smithsonianmag.com/science-nature/14-fun-facts-about-marine-ribbon-worms-3156969/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Evolution, Expression Patterns, and Distribution of Novel Ribbon ...",
+                "htmlTitle": "Evolution, Expression Patterns, and Distribution of Novel <b>Ribbon</b> ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9132205/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "May 5, 2022 ... Ribbon worms are active predators that use an eversible proboscis to inject venom into their prey and defend themselves with toxic epidermal ...",
+                "htmlSnippet": "May 5, 2022 <b>...</b> <b>Ribbon worms</b> are active predators that use an eversible proboscis to inject venom into their prey and defend themselves with toxic epidermal&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9132205/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9132205/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_publication_date": "2022/05",
+                            "citation_title": "Evolution, Expression Patterns, and Distribution of Novel Ribbon Worm Predatory and Defensive Toxins",
+                            "citation_author_institution": "Department of Biodiversity and Evolutionary Biology, Museo Nacional de Ciencias Naturales (MNCN), CSIC, Madrid, Spain",
+                            "citation_journal_title": "Molecular Biology and Evolution",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC9132205/",
+                            "ncbi_phid": "939BDDD05C0400350000611259F520CD.1.m_2",
+                            "ncbi_db": "pmc",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC9132205/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "35512366",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "citation_author": "Aida Verdes",
+                            "citation_abstract_html_url": "/pmc/articles/PMC9132205/?report=abstract",
+                            "citation_issue": "5",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1093/molbev/msac096",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Evolution, Expression Patterns, and Distribution of Novel Ribbon Worm Predatory and Defensive Toxins",
+                            "ncbi_domain": "molbiolevol",
+                            "citation_volume": "39"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...MALDI-IMS data for the proboscis of _Antarctonemertes valida_. (_A_) Histological image of an HE-stained transversal section of the anterior end of an _A. valida_ specimen. (_B–E_) Spatial distribution pattern of putative peptides showing higher intensity (yellow/orange) in the central glandular epithelium. (_B_) Peptide observed at 4,420.19 m/z corresponding to putative predatory toxin containing IGFBP (DN150320\\_c2\\_g18\\_i4); (_C_) peptide observed at 3,355.83 m/z corresponding to putative predatory toxin containing galactose-binding-like domain (DN150244\\_c0\\_g1\\_i1); (_D_) putative peptide observed at 3,543.12 m/z corresponding to putative predatory toxin antistasin-like domains (DN140325\\_c0\\_g1\\_i3); (_E_) putative peptide observed at 5,324 m/z. pe, proboscis epithelium; pi, proboscis inner lining layer; pc, proboscis circular muscle layer; pl, proboscis longitudinal muscle layer; rh, rhynchocoel.\nAmong the putative defensive toxins, we identified some transcripts that belong to the proprotein convertase subtilisin/kexin type 9 (PCSK9) superfamily (,  online). PCSK9 is known to mediate cholesterol homeostasis, but it may also participate in systemic immune activation, promoting inflammation, and atherogenesis (). We also identified putative defensive toxins that belong to the snake three-finger toxin (3FTx) domain superfamily, which is predominantly found in small neurotoxins and cytotoxins from snake venoms that bind to nicotinic acetylcholine receptors (nAChRs) at neuromuscular junctions causing paralysis ().\nIn addition, we identified a handful of putative dual-function toxins that might assist in predation as well as in defense as they were found in both mucus and proboscis proteomes (,  online), including a homolog of Kunitz-type U19-barytoxin-TI1a from the spider _Trittame loki_. Kunitz-type toxins have been isolated from a variety of venomous and blood-feeding animals such as snakes, bees, ticks, sea anemones, scorpions, and spiders and interfere with different physiological processes such as blood co...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Tiny marine larvae survive by turning carnivorous, study finds ...",
+                "htmlTitle": "Tiny marine larvae survive by turning carnivorous, study finds ...",
+                "link": "https://news.uoregon.edu/content/tiny-marine-larvae-survive-turning-carnivorous-study-finds",
+                "displayLink": "news.uoregon.edu",
+                "snippet": "Mar 4, 2022 ... Some marine worm larvae are pint-sized predators. The small, blobby babies, less than a millimeter long, ensnare and devour microscopic ...",
+                "htmlSnippet": "Mar 4, 2022 <b>...</b> Some marine <b>worm</b> larvae are pint-sized predators. The small, blobby babies, less than a millimeter long, ensnare and devour microscopic&nbsp;...",
+                "formattedUrl": "https://news.uoregon.edu/.../tiny-marine-larvae-survive-turning-carnivorou...",
+                "htmlFormattedUrl": "https://news.uoregon.edu/.../tiny-marine-larvae-survive-turning-carnivorou...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5x2ojWG5ZW4TQPIXn0qz0gmu6TjjIltuc820Cr1WgalmEZmrdiTTWC4OR&s",
+                            "width": "302",
+                            "height": "167"
+                        }
+                    ],
+                    "Article": [
+                        {
+                            "name": "Tiny marine larvae survive by turning carnivorous, study finds",
+                            "text": "Some marine worm larvae are pint-sized predators.The small, blobby babies, less than a millimeter long, ensnare and devour microscopic crustaceans and other prey living in plankton, UO researchers..."
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "Oregon News",
+                            "email": "around@uoregon.edu"
+                        }
+                    ],
+                    "postaladdress": [
+                        {
+                            "addresslocality": "Eugene",
+                            "postalcode": "97403",
+                            "addressregion": "OR",
+                            "streetaddress": "1239 University of Oregon"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://news.uoregon.edu/sites/default/files/styles/custom/public/field/image/screen_shot_2022-04-14_at_1.56.52_pm.png?itok=Jnd1pSaW",
+                            "msapplication-config": "/modules/contrib/uo_core/browserconfig.xml",
+                            "article:published_time": "2022-03-04T05:00:00-0800",
+                            "twitter:card": "photo",
+                            "twitter:title": "Tiny marine larvae survive by turning carnivorous, study finds",
+                            "theme-color": "#154733",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://news.uoregon.edu/content/tiny-marine-larvae-survive-turning-carnivorous-study-finds",
+                            "msapplication-navbutton-color": "#154733",
+                            "twitter:image": "https://news.uoregon.edu/sites/default/files/styles/custom/public/field/image/screen_shot_2022-04-14_at_1.56.52_pm.png?itok=Jnd1pSaW",
+                            "twitter:image:alt": "Sequence showing larva grabbing plankton",
+                            "twitter:site": "@uoregon",
+                            "apple-mobile-web-app-status-bar-style": "#154733",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The small and unassuming creatures can take down larger prey, OIMB researchers say",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://news.uoregon.edu/sites/default/files/styles/custom/public/field/image/screen_shot_2022-04-14_at_1.56.52_pm.png?itok=Jnd1pSaW"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Some marine worm larvae are pint-sized predators.\nThe small, blobby babies, less than a millimeter long, ensnare and devour microscopic crustaceans and other prey living in plankton, UO researchers report.\nTheir observations suggest a new lifestyle option for larval-stage invertebrates living in the ocean. Scientists usually think of plankton-dwelling larvae either growing by grazing on nanoplankton — mostly unicellular algae — or relying on the egg's yolk reserves to become full-fledged adults. Instead, it appears there’s a third strategy: carnivory.\nGeorge von Dassow\nSvetlana Maslakova\nOregon Institute of Marine Biology\nRead the first paper\nRead the second paper\n“One of the big surprises is that these nondescript wormlets are very efficiently taking down some of the fastest prey items out there,” said UO marine biologist George von Dassow. He and his colleagues, including UO marine biologist Svetlana Maslakova and visiting graduate student Cecili Mendes, describe their findings in two new papers. Both are published in the March issue of Invertebrate Biology. \nThe discovery began the way so many do, via a combination of procrastination and curiosity. Von Dassow, based at...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Friday Fellow: Bootlace Worm | Earthling Nature",
+                "htmlTitle": "Friday Fellow: Bootlace <b>Worm</b> | Earthling Nature",
+                "link": "https://earthlingnature.wordpress.com/2017/10/06/friday-fellow-bootlace-worm/",
+                "displayLink": "earthlingnature.wordpress.com",
+                "snippet": "Oct 6, 2017 ... The bootlace worm is a member of the phylum Nemertea, commonly known as ribbon worms, and is found along the shores of the Atlantic Ocean in ...",
+                "htmlSnippet": "Oct 6, 2017 <b>...</b> The bootlace worm is a member of the phylum <b>Nemertea</b>, commonly known as <b>ribbon worms</b>, and is found along the shores of the Atlantic Ocean in&nbsp;...",
+                "formattedUrl": "https://earthlingnature.wordpress.com/2017/.../friday-fellow-bootlace-worm...",
+                "htmlFormattedUrl": "https://earthlingnature.wordpress.com/2017/.../friday-fellow-bootlace-<b>worm</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg5y9Tx6HJ3UkB5dp6b-tIOA9yddvOjRDwjQomRqFtkVoHfzaaW_psSRYJ&s",
+                            "width": "183",
+                            "height": "275"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Earthling Nature",
+                            "og:image": "https://earthlingnature.wordpress.com/wp-content/uploads/2017/08/lossless-page1-399px-nemertean_lineus_longissimus-tif.png",
+                            "og:type": "article",
+                            "article:published_time": "2017-10-06T11:00:10+00:00",
+                            "og:image:width": "399",
+                            "og:image:alt": "lossless-page1-399px-nemertean_lineus_longissimus-tif",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Earthling Nature",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "msapplication-tooltip": "From buds to claws",
+                            "og:title": "Friday Fellow: Bootlace Worm",
+                            "og:image:height": "599",
+                            "og:description": "by Piter Kehoma Boll Long ago I presented some of the extremes of the animal world, including the largest, the cutest and the leggiest. Now it’s time to introduce another extreme: the longest…",
+                            "twitter:creator": "@earthlingnature",
+                            "article:publisher": "https://www.facebook.com/WordPresscom",
+                            "twitter:image": "https://earthlingnature.wordpress.com/wp-content/uploads/2017/08/lossless-page1-399px-nemertean_lineus_longissimus-tif.png?w=640",
+                            "twitter:text:title": "Friday Fellow: Bootlace Worm",
+                            "fb:app_id": "249643311490",
+                            "twitter:image:alt": "lossless-page1-399px-nemertean_lineus_longissimus-tif",
+                            "twitter:site": "@earthlingnature",
+                            "article:modified_time": "2022-07-16T18:30:02+00:00",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "og:url": "https://earthlingnature.wordpress.com/2017/10/06/friday-fellow-bootlace-worm/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://earthlingnature.wordpress.com/wp-content/uploads/2017/08/lossless-page1-399px-nemertean_lineus_longissimus-tif.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...lace Worm | Earthling Nature\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n]\nby  | October 6, 2017 · 8:00 am\n=============================================================================================================\n_**by Piter Kehoma Boll**_\nLong ago I presented some of the extremes of the animal world, including the , the  and the . Now it’s time to introduce another extreme: the longest. And this animal is so long that it seems impossible. Its name: _Lineus longissimus_, commonly known as bootlace worm. Its length: up to 55 meters.\n!An entangled bootlace worm. Photo by Bruno C. Vellutini.\\*\nThe bootlace worm is a member of the phylum Nemertea, commonly known as ribbon worms, and is found along the shores of the Atlantic Ocean in Europe. Most of the time, the worm is contracted, forming what looks like a heap of entagled wool threads that has no more than 30 cm from side to side. Although there are reports of specimens measuring more than 50 m, most of them are much shorter, with 30 m being already a very large size. Its width is of about 0.5 cm, so it is almost literally a long brown thread.\n!_Lineus longissimus_ photographed in Norway. Photo by Guido Schmitz.\\*\\*\nAs all nemerteans, the bootlace worm is a predator and hunts its prey between the rocks on sandy shores, stunning them with its long poisonous proboscis and then swallowing them whole. Soft and fragile, the bootlace worm has no way to protect itself from predators using any physical defense, but it is known to have a series of different toxins on its epidermis, including some similar to the deadly pufferfish poison tetrodotoxin (TTX) that is produced by bacteria living in the mucus that surrounds the body of the worm.\nAdvertisement\nNow, before leaving, take a look at this video of a bootlace worm swallowing a polychaete:\n– – –\nReferences:\nCantell, C.-E. (1976) Complementary description of the morphology of _Lineus longissimus_ (Gunnerus, 1770) with some remarks on the cutis layer in heteronemertines. _Zoologica Scripta_ 5:117–120. \nCarroll, S.; McEvoy, E. G.; Gibson, R. (2003) The production of tetrodotoxin-like substances by...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Tetrodotoxin and Its Analogues (TTXs) in the Food-Capture and ...",
+                "htmlTitle": "Tetrodotoxin and Its Analogues (TTXs) in the Food-Capture and ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10818845/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Jan 12, 2024 ... The marine ribbon worm Cephalothrix simula is one of the most common representatives of the fauna from Asian coastal waters of the Northeast ...",
+                "htmlSnippet": "Jan 12, 2024 <b>...</b> The marine <b>ribbon worm</b> Cephalothrix simula is one of the most common representatives of the fauna from Asian coastal waters of the Northeast&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10818845/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10818845/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Multidisciplinary Digital Publishing Institute  (MDPI)",
+                            "citation_publication_date": "2024/01",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Tetrodotoxin and Its Analogues (TTXs) in the Food-Capture and Defense Organs of the Palaeonemertean Cephalothrix cf. simula",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=Zoolog. Sci.; citation_title=Taxonomic identity of a tetrodotoxin-accumulating ribbon-worm Cephalothrix simula (Nemertea: Palaeonemertea): A species artificially introduced from the pacific to Europe; citation_author=H. Kajihara; citation_author=S.C. Sun; citation_author=A.V. Chernyshev; citation_author=H.X. Chen; citation_author=K. Ito; citation_author=M. Asakawa; citation_author=S.A. Maslakova; citation_author=J.L. Norenburg; citation_author=M. Strand; citation_author=P. Sundberg; citation_volume=30; citation_publication_date=2013; citation_firstpage=985; citation_lastpage=997; citation_doi=10.2108/zsj.30.985;",
+                            "citation_journal_title": "Toxins",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC10818845/",
+                            "ncbi_phid": "939BCB16ADC8EDF50000627D9524552A.1.m_2",
+                            "og:description": "Tetrodotoxin (TTX), an extremely potent low-molecular-weight neurotoxin, is widespread among marine animals including ribbon worms (Nemertea). Previously, studies on the highly toxic palaeonemertean Cephalothrix cf. simula showed that toxin-positive structures ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC10818845/",
+                            "ncbi_app_version": "1.7.0.post5+fa37e81",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "38251259",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Tetrodotoxin and Its Analogues (TTXs) in the Food-Capture and Defense Organs of the Palaeonemertean Cephalothrix cf. simula",
+                            "citation_author": "Grigorii V. Malykin",
+                            "citation_abstract_html_url": "/pmc/articles/PMC10818845/?report=abstract",
+                            "dc.date": "2024 Jan",
+                            "citation_issue": "1",
+                            "dc.contributor": "Grigorii V. Malykin",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.3390/toxins16010043",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Tetrodotoxin and Its Analogues (TTXs) in the Food-Capture and Defense Organs of the Palaeonemertean Cephalothrix cf. simula",
+                            "ncbi_domain": "toxins",
+                            "dc.identifier": "10.3390/toxins16010043",
+                            "citation_volume": "16",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10818845/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... body and the functions of the toxins in these organs are still unanswered. In the present report, we provide additional results of a detailed and comprehensive analysis of TTXs distribution in the nemertean’s proboscis, buccal cavity, and cephalic gland using an integrated approach including high-performance liquid chromatography–tandem mass spectrometry (HPLC–MS/MS), confocal laser scanning microscopy with anti-TTX antibodies, light and electron microscopies, and observations of feeding behavior. For the proboscis, we have found a TTXs profile different from that characteristic of other organs and tissues. We have also shown for the first time that the major amount of TTXs is localized in the anterior part of the proboscis that is mainly involved in hunting. TTX-containing glandular cells, which can be involved in the prey immobilization, have been found in the buccal cavities of the nemerteans. A significant contribution of the cephalic gland to the toxicity of this animal has been shown for the first time, and the role of the gland is hypothesized to be involved not only in protection against potential enemies but also in immobilizing prey. The data obtained have made it possible to extend the understanding of the role and features of the use of TTXs in the organs of the anterior part of nemertean’s body.\n**Keywords:** tetrodotoxin, tetrodotoxin analogues, TTX, HPLC–MS/MS, nemertea, buccal cavity, cephalic gland, proboscis\n1\\. Introduction\n----------------\nThe marine ribbon worm _Cephalothrix simula_ is one of the most common representatives of the fauna from Asian coastal waters of the Northeast Pacific \\\\] and, since recently, from the Atlantic and Mediterranean coasts of Europe and the Pacific coast of North America \\,,\\]. A team of Japanese researchers led by Noguchi \\\\] obtained the first data on the toxicity of this nemertean species. In their analysis of approximately 200 specimens of _C. simula_ (in the cited study referred to as _C. linearis_ \\\\]), all of the specimens had strong paralytic toxicity. After it was proven in 2000 and 2003 that TTXs explain the major part of paralytic toxicity in representatives of _C. simula_, researchers in different fields showed increasing interest in this species \\,\\]. In the subsequent years, studies were carried out not only on the taxonomy, geographical distribution, and general biology but also on various aspects of its toxicity. A genetic research has revealed three independent cryptic species hidden under the name...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Nemertea and their feeding processes through use of the proboscis",
+                "htmlTitle": "<b>Nemertea</b> and their <b>feeding</b> processes through use of the proboscis",
+                "link": "https://winvertebrates.uwsp.edu/feltes_361_2015.html",
+                "displayLink": "winvertebrates.uwsp.edu",
+                "snippet": "Their prey can either be alive or dead when the nemertean worms find their food. Nemertea are mostly carnivorous and hunt or scavenge for their prey. Some ...",
+                "htmlSnippet": "Their prey can either be alive or dead when the <b>nemertean worms</b> find their food. <b>Nemertea</b> are mostly carnivorous and <b>hunt</b> or scavenge for their prey. Some&nbsp;...",
+                "formattedUrl": "https://winvertebrates.uwsp.edu/feltes_361_2015.html",
+                "htmlFormattedUrl": "https://winvertebrates.uwsp.edu/feltes_361_2015.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaT2bVAhjqsTVd6FKn3OxapH6Y4JxwIgKYGZ32QkTuOxIP_tjKcCtNqH8&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://www.mdfrc.org.au/bugguide/images/prosomagraecensenemertea.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... and lateral blood vessels (Gibson, 1970).\nKnowing more about the basic functionality of the proboscis, we can now look into how nemerteans can be organized into a class based on the proboscis. The morphology of the proboscis is used to distinguish two classes of nemertean worms: Anopla and Enopla (Gibson, 1970). These two classes both have unique adaptations to the proboscis which set them apart. The first major difference between the two classes is if the proboscis contains a stylet at the anterior end. Enoplan worms contain a stylet apparatus which they use to stab their prey and inject them with toxins and other digestive juices. Anoplan worms on the other hand do not have a stylet so their proboscis has a sticky coating that is covered in toxins that are used to immobilize their prey. The toxins of most nemerteans are produced and secreted by the posterior proboscis epithelium (Gibson, 1970). Anoplan nemertean worms have a separate mouth and gut opening from the aperture that their proboscis is everted from whereas the nemertean worms in the class Enopla have their gut and proboscis using a common orifice of the rhynchocoel (Gibson, 1970).\nWhen Enoplan worms locate their prey, the proboscis is everted with such a substantial force that the tip strikes the prey on the ventral side which is more vulnerable to the stylet (McDermott & Roe, 1985). The stylet of the proboscis pierces the prey and injects a toxin which immobilizes the nemertean’s prey and can even kill it. Multiple punctures of the target organism with the stylet may be required before the toxins reach an effective concentration to restrain the prey. This allows for the nemertean worm to use its head to feed on the now powerless organism. Nemertean worms also have two to eight accessory stylets which form in stylet pouches that are replacements for the main stylet if damaged or removed (Gibson, 1970). Anopla worms coil their proboscis around their prey and hold onto it until it cannot move anymore or dies from the toxins. Chemoreceptors are believed to be used to locate the nemerteans prey however this is not always the case for all nemertean worms.\nUnderstanding how the nemertean worms feed and what they prey on is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

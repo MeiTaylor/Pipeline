@@ -1,0 +1,561 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Mickey Mouse gas mask World War II history",
+                "totalResults": "1260000",
+                "searchTerms": "Mickey Mouse gas mask World War II history",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Mickey Mouse gas mask World War II history",
+                "totalResults": "1260000",
+                "searchTerms": "Mickey Mouse gas mask World War II history",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.348147,
+        "formattedSearchTime": "0.35",
+        "totalResults": "1260000",
+        "formattedTotalResults": "1,260,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Did you know Walt Disney designed the world's weirdest gas mask ...",
+                "htmlTitle": "Did you know Walt <b>Disney</b> designed the <b>world&#39;s</b> weirdest <b>gas mask</b> ...",
+                "link": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Sep 12, 2015 ... When World War II broke out, were Washington school children issued gas masks?",
+                "htmlSnippet": "Sep 12, 2015 <b>...</b> When <b>World War II</b> broke out, were Washington school children issued <b>gas masks</b>?",
+                "formattedUrl": "https://www.washingtonpost.com/...worlds...gas-mask/.../885be808-57d8-1...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/...<b>world</b>s...<b>gas</b>-<b>mask</b>/.../885be808-57d8-1...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1507x7Qfw-71IWqbcxCBTG7trNwD8JA8JgQ4j_Tp-MlvbJsbMI2XlqSA&s",
+                            "width": "159",
+                            "height": "318"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_modified_time": "2023-04-10T16:12:30.138Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2015-09-12T19:47:00.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html",
+                            "og:description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_published_time": "2015-09-12T19:47:00.000Z",
+                            "next-head-count": "84",
+                            "article_section": "D.C., Md. & Va.",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-04-10T16:12:30.138Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "last_updated_date": "2023-04-10T16:12:30.138Z",
+                            "og:type": "article",
+                            "twitter:title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "article:section": "D.C., Md. & Va.",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Did you know Walt Disney designed the world’s weirdest gas mask?",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "When World War II broke out, were Washington school children issued gas masks?",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/local/did-you-know-walt-disney-designed-the-worlds-weirdest-gas-mask/2015/09/12/885be808-57d8-11e5-8bb1-b488d231bba2_story.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FOKLL4SY34I6LH2UD2RD63QC6M&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**When our nation entered World War II, I was enrolled as a first-grader at John Eaton Elementary School in the District. During the early months of 1942, I seem to recall being issued a gas mask by the school staff. It was \\ but a short period of time, however. Can you help clear this up for me, it being 70-plus years ago?**\n**S. Love,**\n_Reston, Va._\nIn January 1942, **Walt Disney** came to Washington and met with civil defense and chemical warfare officials. Disney wanted to check the progress of a gas mask he'd designed. With large glass eyes, a snout and big, round ears, the mask was shaped like Disney's signature character: Mickey Mouse. It was meant to calm terrified children.\nAbout 1,000 Mickey Mouse respirators were eventually produced, but the civilian gas mask — for children or adults — was not really a notable presence on the home front during World War II.\nThings were different in England. In January 1943, a Washington Post reporter interviewed **Santosh Mahindra**, daughter of the head of the Indian Supply Mission. She had recently arrived in Washington from London, where she had been stranded since the start of the war.\nMiss Mahindra had her own burning question for the reporter: “But don’t you...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "A History of the World - Object : Mickey Mouse Children's Gas ... - BBC",
+                "htmlTitle": "A History of the World - Object : Mickey Mouse Children's Gas ... - BBC",
+                "link": "https://www.bbc.co.uk/ahistoryoftheworld/objects/GyXWnFaXQcKPYdV0cL5kyQ",
+                "displayLink": "www.bbc.co.uk",
+                "snippet": "In the lead-up to World War II there were fears that the Germans would attack the UK with poisonous gas, so by 1938 the government had issued respirators to ...",
+                "htmlSnippet": "In the lead-up to <b>World War II</b> there were fears that the Germans would attack the UK with poisonous <b>gas</b>, so by 1938 the government had issued respirators to&nbsp;...",
+                "formattedUrl": "https://www.bbc.co.uk/ahistoryoftheworld/.../GyXWnFaXQcKPYdV0cL5k...",
+                "htmlFormattedUrl": "https://www.bbc.co.uk/a<b>history</b>ofthe<b>world</b>/.../GyXWnFaXQcKPYdV0cL5k...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhv-__aYCtnWBnULR4GPtx5NC6oO28-bpxwqILJ7THBqWJO9gdJd35wnw&s",
+                            "width": "301",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width = 974"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.bbc.co.uk/staticarchive/093bff1a1818371c073649bc6908b6e8b8e1e2ce"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "BBC - A History of the World - Object : Mickey Mouse Children's Gas Mask\n=============== \nCookies on the BBC website\n--------------------------\nWe use cookies to ensure that we give you the best experience on our website. We also use cookies to ensure we show you advertising that is relevant to you. If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can  at any time.\n*   Continue\n*   \nHome]\n**Accessibility links**\n*   \n*   \n*   \n*   \n!\n]\n*   \n*   \n*   \n*   \n*   \nMickey Mouse Children's Gas Mask\n================================\n---------------------------------------------------------------------------------------------\n!\n!Mickey Mouse Children's Gas Mask\n----------------------------------------------------------------------------------------------------------------------------------------------------------\n!\nMickey Mouse Children's Gas Mask\n------------------------------------\n*   Hide image caption\n*   Show image caption\nIn the lead-up to World War II there were fears that the Germans would attack the UK with poisonous gas, so by 1938 the government had issued respirators to every man, woman and child in the nation. More than 40 million gas masks were issued. In America there was a gas mask for children that looked like Mickey Mouse, with the character's nose and ears and even a picture of him on the gas filter. Walt Disney helped in its design. This object is the British 'Mickey Mouse' gas mask. It did not resemble the cartoon character but it used the red and blue, like the American version and kept the name. It was given to children aged 18 months to 4 years old to allay their fears about wearing a respirator. It was also made lighter than normal masks so it was easier to wear. Contributed by John McFarline during the AHOW event at Enniskillen Library.\nComments are closed for this object\n### Share this link:\n*   \n*   \n*   \n*   \n*   \nMost of the content on A History of the World is created by the contributors, who are the museums and members of the public. The views expressed are theirs and unless specifically stated are not those of the BBC or the British Museum. The BBC is not responsible for the content of any external sites referenced. In the event that you consider anything on this page to be in breach of the site’s  please Flag This Object.\n### About this object\nClick a button to explore other objects in the timeline\nLocation\n*   \n*   \nCulture\n*   \nPeriod\n*   \nTheme\n*   \n*   \n*   \nSize\n*   \n*  ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "When Mickey Mouse Was Used to Get Children to Wear Gas Masks ...",
+                "htmlTitle": "When <b>Mickey Mouse</b> Was Used to Get Children to Wear <b>Gas Masks</b> ...",
+                "link": "https://www.atlasobscura.com/articles/object-of-intrigue-mickey-mouse-gas-mask",
+                "displayLink": "www.atlasobscura.com",
+                "snippet": "Jun 20, 2013 ... With the brutal potential of World War II for chemical warfare on American soil, an intriguing approach was taken to get children to wear their ...",
+                "htmlSnippet": "Jun 20, 2013 <b>...</b> With the brutal potential of <b>World War II</b> for chemical warfare on American soil, an intriguing approach was taken to get children to wear their&nbsp;...",
+                "formattedUrl": "https://www.atlasobscura.com/.../object-of-intrigue-mickey-mouse-gas-mas...",
+                "htmlFormattedUrl": "https://www.atlasobscura.com/.../object-of-intrigue-<b>mickey</b>-<b>mouse</b>-<b>gas</b>-<b>mas</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIcOBAeHWYcMzubgQLhJWiYTxkPOEaN79BC2HKHjyRdPDBkd_XoUBYjP3s&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "0f207004875a5511f774fc29f0a5a3f3",
+                            "msapplication-config": "https://s3.amazonaws.com/atlas-dev/misc/icons/browserconfig.xml",
+                            "og:image": "https://img.atlasobscura.com/v4r0vXIGRMkJsty4GVPyzbvQ6uvuud-yyDdTNZ_LiBo/rt:fit/w:600/c:800:533:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMGZiMmI2ZmJk/OGI0OGMyYzdfNDV0/aGluZmFudHJ5bXVz/ZXVtMDcuanBn.jpg",
+                            "theme-color": "#ffffff",
+                            "og:type": "article",
+                            "article:published_time": "2013-06-20 08:00:00 -0400",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Atlas Obscura",
+                            "turbo-visit-control": "reload",
+                            "og:title": "When Mickey Mouse Was Used to Get Children to Wear Gas Masks",
+                            "fb:pages": "103921782727",
+                            "og:description": "The use of chemical warfare during World War II made for creative solutions back on the homefront.",
+                            "pbstck_context:pbstck_ab_test": "true",
+                            "article:author": "Allison Meier",
+                            "twitter:image": "https://img.atlasobscura.com/v4r0vXIGRMkJsty4GVPyzbvQ6uvuud-yyDdTNZ_LiBo/rt:fit/w:600/c:800:533:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMGZiMmI2ZmJk/OGI0OGMyYzdfNDV0/aGluZmFudHJ5bXVz/ZXVtMDcuanBn.jpg",
+                            "pocket-site-verification": "8353ea6cd97e141f193687e3013ce3",
+                            "article:tag": "objects of intrigue",
+                            "fb:app_id": "206394544492",
+                            "twitter:site": "@atlasobscura",
+                            "article:modified_time": "2021-06-10 12:20:38 -0400",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "fb:admins": "784963490",
+                            "og:url": "http://www.atlasobscura.com/articles/object-of-intrigue-mickey-mouse-gas-mask"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.atlasobscura.com/v4r0vXIGRMkJsty4GVPyzbvQ6uvuud-yyDdTNZ_LiBo/rt:fit/w:600/c:800:533:nowe:0:0/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jMGZiMmI2ZmJk/OGI0OGMyYzdfNDV0/aGluZmFudHJ5bXVz/ZXVtMDcuanBn.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...oletana] ### Café Paulista] ### Colman's Seafood Temple] ### Hernando's Pizza Pub]\n*   \n    *   Recent Stories\n    *   \n    *   \n    *   \n    *   \n    #### Most Recent Stories\n     ### The Biggest Sports Rivalries This Year Are Between National Foods] ### How an Army of 'Stork Sisters' Protects Assam's Endangered, Muppet-like Birds] ### The Indigenous Communities Preserving the Ancient Art of Roasting Agave] ### The Wild Tale of the Cerutti Mastodon, a Fossil That Could Rewrite the Human Story]\n*   \n*    \n*   \n*   \n    * * *\n*   (javascript:void\\(0\\))\n(javascript:void\\(0\\)) \nWhen Mickey Mouse Was Used to Get Children to Wear Gas Masks\n============================================================\nThe use of chemical warfare during World War II made for creative solutions back on the homefront.\n--------------------------------------------------------------------------------------------------\nby  June 20, 2013\nWhen Mickey Mouse Was Used to Get Children to Wear Gas Masks\n(javascript:void\\(0\\))\nIn This Story\n Place ### 45th Infantry Museum A museum honoring Oklahoma military service, where you can look into Hitler's mirror and see a Mickey Mouse gas mask.]\n!\nMickey Mouse Gas Mask at the 45th Infantry Museum in Oklahoma. Allison Meier for Atlas Obscura\nWith the brutal potential of World War II for chemical warfare on American soil, an intriguing approach was taken to get children to wear their terrifying gas masks. With the approval of Walt Disney himself, the Mickey Mouse gas mask was imagined in 1942.\nThe small mask with its Mickey ears was meant to put children at ease in an emergency situation (although the masks of the adults around them would probably still be nightmarish). As Major Robert D. Walk of the US Army Reserve Command explained : “The mask was designed so children would carry it and wear it as part of a game. This would reduce the fear associated with wearing a gas mask and hopefully, improve their wear time and, hence, survivability.”\nAbout 1,000 of them were made by the Sun Rubber Company, each with glass eyes staring out from the cartoonish face connected to an air filter. Since chemical warfare never made it to the United States in World War II, they weren’t used, but in England there was  that used bright red and blue colors to attract children. It was also called a “Mickey Mouse” gas mask, although had nothing to do with the character. Instead the name was supposed to be part of the “game” to get children to wear them.\nMost of the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Disney Mickey Mouse Gas Mask | Gas Mask and Respirator Wiki ...",
+                "htmlTitle": "<b>Disney Mickey Mouse Gas Mask</b> | <b>Gas Mask</b> and Respirator Wiki ...",
+                "link": "https://gasmaskandrespirator.fandom.com/wiki/Disney_Mickey_Mouse_Gas_Mask",
+                "displayLink": "gasmaskandrespirator.fandom.com",
+                "snippet": "The mask uses a standard 6-point head harness, two small circular lenses, an M10 style filter, and a red plastic exhale valve. The Disney Mickey Mouse gas mask ...",
+                "htmlSnippet": "The mask uses a standard 6-point head harness, <b>two</b> small circular lenses, an M10 style filter, and a red plastic exhale valve. The <b>Disney Mickey Mouse gas mask</b>&nbsp;...",
+                "formattedUrl": "https://gasmaskandrespirator.fandom.com/.../Disney_Mickey_Mouse_Gas_...",
+                "htmlFormattedUrl": "https://<b>gasmask</b>andrespirator.fandom.com/.../Disney_<b>Mickey</b>_<b>Mouse</b>_<b>Gas</b>_...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIvOkL-8hT-13Uz2k0wCHjMuWgDbgw4pRXSyBdEkVDF_3-ibcm7sOmjA&s",
+                            "width": "194",
+                            "height": "259"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.wikia.nocookie.net/gasmaskandrespirator/images/4/4c/3151379661_f5dbbdc259.jpg/revision/latest?cb=20120608221726",
+                            "theme-color": "#eaecf0",
+                            "twitter:card": "summary",
+                            "twitter:title": "Disney Mickey Mouse Gas Mask | Gas Mask and Respirator Wiki | Fandom",
+                            "og:type": "article",
+                            "og:site_name": "Gas Mask and Respirator Wiki",
+                            "twitter:url": "https://gasmaskandrespirator.fandom.com/wiki/Disney_Mickey_Mouse_Gas_Mask",
+                            "og:title": "Disney Mickey Mouse Gas Mask",
+                            "og:description": "On Jan. 7th, 1942, a month after the Pearl Harbor Attacks, the owner of Sun Rubber Company, T.W. Smith Jr, along with his assistant, Dietrich Rempel, presented a sketch of a proposed \"Mickey Mouse\" gas mask to the Chief of Chemical Warfare Service, Major General William N. Porter. The mask was intended for children and was given the look of the famous \"Mickey Mouse\" character to make the mask more child-friendly. Sun Rubber Company went to produce a little over 1,000 of the Mickey Mouse gas mask",
+                            "fb:app_id": "112328095453510",
+                            "twitter:site": "@getfandom",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "twitter:description": "On Jan. 7th, 1942, a month after the Pearl Harbor Attacks, the owner of Sun Rubber Company, T.W. Smith Jr, along with his assistant, Dietrich Rempel, presented a sketch of a proposed \"Mickey...",
+                            "og:url": "https://gasmaskandrespirator.fandom.com/wiki/Disney_Mickey_Mouse_Gas_Mask",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT05M34S",
+                            "contenturl": "https://cdn.jwplayer.com/videos/yn6PCYnH-cSpmBcaY.mp4",
+                            "uploaddate": "2024-07-30T16:18:15+00:00",
+                            "name": "Interview with the Cast of 'Those About to Die' | SDCC 2024",
+                            "thumbnailurl": "https://cdn.jwplayer.com/v2/media/yn6PCYnH/poster.jpg?width=720"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.wikia.nocookie.net/gasmaskandrespirator/images/4/4c/3151379661_f5dbbdc259.jpg/revision/latest?cb=20120608221726"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...><br>Articles should be formally written and should be divided into proper sections. For reference, the author should read other, more standardized articles.</i></td></tr></tbody></table>\n<table style=\"width: 80%; margin: 15px 15px 15px 10%; border-collapse: collapse; background: #eaeee4; border: 1px solid #aaa; border-left: 10px solid #6b0d0d; color:black;\"><tbody><tr><td style=\"width: 52px; padding: 2px 0px 2px 0.5em; text-align: center;\"><a href=\"https://static.wikia.nocookie.net/gasmaskandrespirator/images/d/d1/Writebetter.png/revision/latest?cb=20141214184039\" class=\"image\"><img alt=\"Writebetter\" src=\"data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D\" decoding=\"async\" loading=\"lazy\" width=\"75\" height=\"50\" data-image-name=\"Writebetter.png\" data-image-key=\"Writebetter.png\" data-relevant=\"1\" data-src=\"https://static.wikia.nocookie.net/gasmaskandrespirator/images/d/d1/Writebetter.png/revision/latest/scale-to-width-down/75?cb=20141214184039\" class=\"lazyload\"></a></td><td style=\"padding: 0.25em 0.5em;\"><i><b>The neutrality of this article is disputed</b><br>Articles should be written from a neutral point of view, and should not reflect the views of authors.</i></td></tr></tbody></table>\n'Mickey Mouse' Children's Gas Mask\n----------------------------------\n]\n### Made in\n] \n### Period\n1944\n### Issued to\n] Children\n### Manufacturer\nManufatured with WD's license by the Sun Rubber Company, Designed by Walt Disney\nOn Jan. 7th, 1942, a month after the Pearl Harbor Attacks, the owner of Sun Rubber Company, T.W. Smith Jr, along with his assistant, Dietrich Rempel, presented a sketch of a proposed \"Mickey Mouse\" gas mask to the Chief of Chemical Warfare Service, Major General William N. Porter. The mask was intended for children and was given the look of the famous \"Mickey Mouse\" character to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Over Here!: New York City During World War II: Diehl, Ms. Lorraine B ...",
+                "htmlTitle": "Over Here!: New York City During <b>World War II</b>: Diehl, Ms. Lorraine B ...",
+                "link": "https://www.amazon.com/Over-Here-York-During-World/dp/0061431346",
+                "displayLink": "www.amazon.com",
+                "snippet": "From the Brooklyn Naval Yard to Times Square nightclubs, from children's Mickey Mouse gas-masks to victory gardens in Rockefeller Center, Over Here! is a ...",
+                "htmlSnippet": "From the Brooklyn Naval Yard to Times Square nightclubs, from children&#39;s <b>Mickey Mouse gas</b>-<b>masks</b> to victory gardens in Rockefeller Center, Over Here! is a&nbsp;...",
+                "formattedUrl": "https://www.amazon.com/Over-Here-York-During-World/.../0061431346",
+                "htmlFormattedUrl": "https://www.amazon.com/Over-Here-York-During-<b>World</b>/.../0061431346",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKU84KnbW8XWRusRw6W12Wbj8vVfdkU39d0NLLqzC6nuy37c_drqtXw_Bb&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://m.media-amazon.com/images/I/51lwq8R04iL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA154%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                            "theme-color": "#131921",
+                            "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+                            "og:title": "Over Here!: New York City During World War II",
+                            "og:url": "https://www.amazon.com/dp/0061431346/ref=tsm_1_fb_lk",
+                            "title": "Over Here!: New York City During World War II: Diehl, Ms. Lorraine B: 9780061431340: Amazon.com: Books",
+                            "og:description": "Over Here!: New York City During World War II [Diehl, Ms. Lorraine B] on Amazon.com. *FREE* shipping on qualifying offers. Over Here!: New York City During World War II",
+                            "encrypted-slate-token": "AnYxxSvVT5LbawZDHcxtPD+uCb6w3SlLYAanwy/fziTqOeyVYzo1lszXSrRzSKq+icDooXzOUom9KXasSq3wcEI5zUq5QI4TltrZ6Itf+uRXXd06cSd7iRjHFBAYhazWDmIE9dccUzRB/WG/aWiwND8cPMbnJ9BXiR8df/lA/BXJIeCWG3RWW1QgoAEZmaUHcDgvMQmtmH1jPTzWSqW4r/Tx2w6AfaMENgGY2SmtD+dufjxwDeUKIkR008ZfHyHIGnGKHj6w/ztJEIsvjLxYPnGcBA=="
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://m.media-amazon.com/images/I/910ceekPsGL._AC_UF1000,1000_QL80_.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "#### Enter the characters you see below\nSorry, we just need to make sure you're not a robot. For best results, please make sure your browser is accepting cookies.\n#### Type the characters you see in this image:\n!\nTry different image\n© 1996-2014, Amazon.com, Inc. or its affiliates !",
+                    "content_tokens": 67
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "World War II - Bartonsham History Group",
+                "htmlTitle": "<b>World War II</b> - Bartonsham <b>History</b> Group",
+                "link": "https://www.bartonshamhistory.org.uk/world-war-ii.html",
+                "displayLink": "www.bartonshamhistory.org.uk",
+                "snippet": "There must have been a POW camp nearby as we saw German POWs working in the fields. I remember gas mask drill. We had to take our gas masks to school and from ...",
+                "htmlSnippet": "There must have been a POW camp nearby as we saw German POWs working in the fields. I remember <b>gas mask</b> drill. We had to take our <b>gas masks</b> to school and from&nbsp;...",
+                "formattedUrl": "https://www.bartonshamhistory.org.uk/world-war-ii.html",
+                "htmlFormattedUrl": "https://www.bartonsham<b>history</b>.org.uk/<b>world</b>-<b>war</b>-<b>ii</b>.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwO1LPrEL0eTTWdCg1a42CPxRRfaHcl64srykXzOm9lRksBEainhqII8Sv&s",
+                            "width": "266",
+                            "height": "189"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.bartonshamhistory.org.uk/uploads/2/0/9/4/20946882/annie-lilwall_orig.jpeg",
+                            "og:site_name": "Bartonsham History Group",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "World War II",
+                            "og:url": "https://www.bartonshamhistory.org.uk/world-war-ii.html",
+                            "og:description": "What do you remember? Concerned about the diminishing pool of people who can still recall the last war, Naomi Bell starts the memory ball rolling with her own recollections. Did you, or your father..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.bartonshamhistory.org.uk/uploads/2/0/9/4/20946882/annie-lilwall_orig.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...? Or how about serving in the WVS, or as a landgirl or in the Home Guard?  Were you an evacuee or did your family host evacuees?  How about rationing and wartime recipes?\nI’ll start you off with a recipe, Beanie Pie.   You need mashed potato, a tin each of baked beans and corned beef.  Mash the beans and corned beef together top with the potato and heat through in the oven for about 20 minutes. You might even like to try it.  It’s surprisingly appetising!   Does anyone else have recollections of other wartime dishes?  We’d love you to search your memories and recipe books!\nI was very fortunate as a child inWW2 to live in an area largely untouched by enemy action.  We arrived in a village just outside Ludlow when the school where my father taught was evacuated to Ludlow.  My father served in the Home Guard as having served in WW1 he was too old for active service in WW2.  My own memories of the war are, happily, of a childhood hardly affected by the horrors of the blitz.  We could hear the engines of enemy bombers going up the river valley to Liverpool nightly – occasionally a “leftover” bomb was dropped by pilots returning to base.  There must have been a POW camp nearby as we saw German POWs working in the fields.\nI remember gas mask drill.  We had to take our gas masks to school and from time to time practise putting them on.  My sister, 2 years younger than me had a Mickey Mouse gas mask which I envied, but mine was the standard issue.  The school was overfull as our village was a reception area for evacuees – some, I think, came from Sheffield.  We used to knit “comforts” for servicemen – at 7 years old I knitted a khaki scarf!\nI can never remember going hungry.  As far as I was concerned the government’s plan to keep the nation adequately fed worked well.  I can vouch for Corporal Jones of Dad’s Army fame being very true to life in his role as a butcher.  Offal, though limited in supply, was not on ration and butchers really did keep it under the counter as a sort of unofficial rationing system!  Country dwellers were fortunate in that they could grow their own vegetables and fruit was also available both from gardens and orchards and also from hedgerows.  School milk at a halfpenny...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "In WW2 Disney made these gas masks for children that were afraid ...",
+                "htmlTitle": "In <b>WW2 Disney</b> made these <b>gas masks</b> for children that were afraid ...",
+                "link": "https://www.reddit.com/r/HistoryMemes/comments/14g6tdj/in_ww2_disney_made_these_gas_masks_for_children/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 22, 2023 ... 13K votes, 200 comments. 11M subscribers in the HistoryMemes community. A place for history memes about events over 20 years ago.",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> 13K votes, 200 comments. 11M subscribers in the HistoryMemes community. A place for <b>history</b> memes about events over 20 years ago.",
+                "formattedUrl": "https://www.reddit.com/.../HistoryMemes/.../in_ww2_disney_made_these_g...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>History</b>Memes/.../in_ww2_disney_made_these_<b>g</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoLVTEdQtdoImCx3Yfht1CUmTP8NJ0tH41cRDft6EMlzOswdTjEtGdun1&s",
+                            "width": "203",
+                            "height": "248"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/HistoryMemes on Reddit: In WW2 Disney made these gas masks for children that were afraid of the regular gas masks to wear.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/HistoryMemes on Reddit: In WW2 Disney made these gas masks for children that were afraid of the regular gas masks to wear.",
+                            "og:image:height": "1318",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Kjre23 - 13,318 votes and 200 comments",
+                            "twitter:image": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/HistoryMemes/comments/14g6tdj/in_ww2_disney_made_these_gas_masks_for_children/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/in-ww2-disney-made-these-gas-masks-for-children-that-were-v0-0urs44a9al7b1.jpg?width=1080&crop=smart&auto=webp&s=d1cfe605a63f6abc6a7b87e2fcbbd1c5d7825021"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Walt Disney and World War II: Trouble in Toonland | TIME",
+                "htmlTitle": "Walt <b>Disney</b> and <b>World War II</b>: Trouble in Toonland | TIME",
+                "link": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                "displayLink": "time.com",
+                "snippet": "May 13, 2016 ... “Walt was following a very hardline capitalist model,” says [Stephen Cavalier, author of The World History of Animation]: “the big boss upstairs ...",
+                "htmlSnippet": "May 13, 2016 <b>...</b> “Walt was following a very hardline capitalist model,” says [Stephen Cavalier, author of The <b>World History</b> of Animation]: “the big boss upstairs&nbsp;...",
+                "formattedUrl": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                "htmlFormattedUrl": "https://time.com/4326360/walt-disney-<b>world</b>-<b>war</b>-<b>ii</b>-excerpt/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRByIxyMZzFrQymgaakck9E0ha-YNkTh2kb1w7WpWmfOVxuAy9zWl-mDgyp&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pinterest:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "og:image": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "theme-color": "#e90606",
+                            "article:published_time": "2016-05-13T15:30:24",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "TIME",
+                            "og:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "twitter:image": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "twitter:site": "@TIME",
+                            "pinterest:media": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1",
+                            "article:content_tier": "free",
+                            "pinterest:url": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                            "application-name": "nextgen",
+                            "creator": "LIFE Books",
+                            "og:type": "article",
+                            "twitter:title": "How World War II Changed Walt Disney",
+                            "author": "LIFE Books",
+                            "og:title": "How World War II Changed Walt Disney",
+                            "og:image:height": "628",
+                            "fb:pages": "10606591490",
+                            "fb:app_id": "991230477954201",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Read an excerpt from LIFE's special edition about Walt Disney",
+                            "primary-tag": "books",
+                            "amphtml": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/?amp=true",
+                            "category": "History",
+                            "og:url": "https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                            "article:opinion": "false",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://api.time.com/wp-content/uploads/2016/05/160511-walt-disney-life-book-01.jpg?quality=85&w=1200&h=628&crop=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://time.com/4326360/walt-disney-world-war-ii-excerpt/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://time.com/4326360/walt-disney-world-war-ii-excerpt/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "The Mickey Mouse Mask... - United States Army CBRN School ...",
+                "htmlTitle": "The <b>Mickey Mouse Mask</b>... - United States Army CBRN School ...",
+                "link": "https://www.facebook.com/USACBRNS/posts/the-mickey-mouse-maskthis-week-in-1942-the-chemical-warfare-service-cws-introduc/2128080197254186/",
+                "displayLink": "www.facebook.com",
+                "snippet": "Jan 11, 2019 ... The Mickey Mouse Mask This week in 1942, the Chemical Warfare Service (CWS) introduced the Mickey Mouse Gas Mask for children.",
+                "htmlSnippet": "Jan 11, 2019 <b>...</b> The <b>Mickey Mouse</b> Mask This week in 1942, the Chemical Warfare Service (CWS) introduced the <b>Mickey Mouse Gas Mask</b> for children.",
+                "formattedUrl": "https://www.facebook.com/...mickey-mouse-maskthis...warfare.../2128080...",
+                "htmlFormattedUrl": "https://www.facebook.com/...<b>mickey</b>-<b>mouse</b>-<b>mask</b>this...<b>war</b>fare.../2128080...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCC7UkhKm0DEwGzNm93-vk6r7FJV9yt5m9Vv4AiWichq8MQeDc4nQxAk&s",
+                            "width": "149",
+                            "height": "248"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2128077400587799",
+                            "og:type": "video.other",
+                            "og:image:alt": "United States Army CBRN School",
+                            "twitter:card": "summary",
+                            "twitter:title": "United States Army CBRN School",
+                            "theme-color": "#FFFFFF",
+                            "og:title": "United States Army CBRN School",
+                            "google": "notranslate",
+                            "og:description": "The Mickey Mouse Mask\n\nThis week in 1942, the Chemical Warfare Service (CWS) introduced the Mickey Mouse Gas Mask for children.\n\nIn an article for the Army Chemical Review in July of 1999, COL (R)...",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2128077400587799",
+                            "referrer": "origin-when-crossorigin",
+                            "twitter:image:alt": "United States Army CBRN School",
+                            "twitter:site": "@facebookapp",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "The Mickey Mouse Mask\n\nThis week in 1942, the Chemical Warfare Service (CWS) introduced the Mickey Mouse Gas Mask for children.\n\nIn an article for the Army Chemical Review in July of 1999, COL (R)...",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.facebook.com/USACBRNS/posts/the-mickey-mouse-maskthis-week-in-1942-the-chemical-warfare-service-cws-introduc/2128080197254186/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=2128077400587799"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Mickey Mouse Mask... - United States Army CBRN School | Facebook\n===============\nLog In\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n> Facebook\n]\n--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n  · \nThe Mickey Mouse Mask\nThis week in 1942, the Chemical Warfare Service (CWS) introduced the Mickey Mouse Gas Mask for children.\nIn an article for the Army Chemical Review in July of 1999, COL (R) Robert D. Walk wrote about this unique piece of our history:\n\"The protection of children was a primary concern of all nations during World War II. The Mickey Mouse Gas Mask was designed for small children in a valiant attempt to give them something that would work and still be fun.\nIn the fall of 1941, Mr. T.W. Smith, Jr. the owner of Sun Rubber Company, contacted senior leaders of the Chemical Corps \\ regarding protection of children. Specifically, he proposed constructing fully molded masks for children designed to look like Disney characters. He also submitted an offer to create a fully molded faceblank in the shape of a Disney character. He thought Mickey Mouse would be appropriate because of his universal appeal.\nOn 7 January, 1942, one month after Pearl Harbor, Mr. Smith and his designer, Dietrich Rempel, with Walt Disney's approval, introduced a protective mask for children. Walt Disney himself visted the CWS offices on 8 Jan 42. The Mickey Mouse Gas Mask for children was presented to Major General William N. Porter, Chief of the Chemical Warfare Service. The CWS was so interested in the mask, they sent a contract with...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Beautiful \"Mickey Mouse\" gas mask can!!!!!",
+                "htmlTitle": "Beautiful &quot;<b>Mickey Mouse</b>&quot; <b>gas mask</b> can!!!!!",
+                "link": "https://www.warrelics.eu/forum/equipment-field-gear/beautiful-mickey-mouse-gas-mask-can-700778/",
+                "displayLink": "www.warrelics.eu",
+                "snippet": "Jun 10, 2018 ... This pulled on my heart strings seeing \"little Daisy's\" personalised gas mask tin, really hit home the realities of the war and made me think ...",
+                "htmlSnippet": "Jun 10, 2018 <b>...</b> This pulled on my heart strings seeing &quot;little Daisy&#39;s&quot; personalised <b>gas mask</b> tin, really hit home the realities of the <b>war</b> and made me think&nbsp;...",
+                "formattedUrl": "https://www.warrelics.eu/.../beautiful-mickey-mouse-gas-mask-can-700778/",
+                "htmlFormattedUrl": "https://www.<b>war</b>relics.eu/.../beautiful-<b>mickey</b>-<b>mouse</b>-<b>gas</b>-<b>mask</b>-can-700778/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSukCICoaFzwCWjeqoQ39dj59mM9lCK1nxYLSvOcrab3136Q_tVLfL3NqY&s",
+                            "width": "266",
+                            "height": "190"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, minimum-scale=1, maximum-scale=1",
+                            "vb_meta_bburl": "https://www.warrelics.eu/forum"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.warrelics.eu/forum/attachments/equipment-field-gear/1210595d1528665546t-beautiful-mickey-mouse-gas-mask-can-m1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   ]\n*   \n*   \n*   \n*   Beautiful \"Mickey Mouse\" gas mask can!!!!!\n* * *\n]\nArticle about: Evening gents, I just paid through the nose for this one, but I feel it is so unique that it is worth every penny!! The gas mask itself is not in great condition, but what a can! This pulled\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n1.  06-10-2018, 10:19 PM \n    !\n    ?\n    ! Beautiful \"Mickey Mouse\" gas mask can!!!!!\n    ---------------------------------------------------------------------------------------------------------------------\n    > Evening gents, I just paid through the nose for this one, but I feel it is so unique that it is worth every penny!! The gas mask itself is not in great condition, but what a can! This pulled on my heart strings seeing \"little Daisy's\" personalised gas mask tin, really hit home the realities of the war and made me think how I could make wearing such a thing a little easier for my own daughter in such times! Leon.\n    * * *\n2.  06-10-2018, 10:23 PM \n    !\n    ?\n    !\n    --------------------------------------------------------------------------\n    > Saw this one on eBay earlier. The mask is a little rough, but that carrying tin is a real treasure! A superb piece of Home Front memorabilia. Congratulations on your win!B.B.\n    * * *\n3.  06-11-2018, 07:39 AM \n    !\n    ?\n    !\n    --------------------------------------------------------------------------\n    > ! by **BrodieBartfast** ]\n    > \n    > Saw this one on eBay earlier. The mask is a little rough, but that carrying tin is a real treasure! A superb piece of Home Front memorabilia. Congratulations on your win!\n    > \n    > B.B.\n    > \n    > Thanks B.B, a shame the mask is in poor condition, but what a can! Leon.\n    * * *\n4.  06-11-2018, 10:04 AM \n    !\n    ?\n    !\n    ---------------------------------------------------------------------------\n    > Great original tin, i can now see a great many newly found 'personalised tins' coming up though as the fakers see a new...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

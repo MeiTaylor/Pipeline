@@ -1,0 +1,822 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Christopher Marquez McDonald's assault police statement Black Lives Matter",
+                "totalResults": "182000",
+                "searchTerms": "Christopher Marquez McDonald's assault police statement Black Lives Matter",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Christopher Marquez McDonald's assault police statement Black Lives Matter",
+                "totalResults": "182000",
+                "searchTerms": "Christopher Marquez McDonald's assault police statement Black Lives Matter",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.271231,
+        "formattedSearchTime": "0.27",
+        "totalResults": "182000",
+        "formattedTotalResults": "182,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Former US marine attacked at McDonald's. Was it racially motivated ...",
+                "htmlTitle": "Former US marine <b>attacked</b> at <b>McDonald&#39;s</b>. Was it racially motivated ...",
+                "link": "https://www.csmonitor.com/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                "displayLink": "www.csmonitor.com",
+                "snippet": "Feb 18, 2016 ... Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young\u00a0...",
+                "htmlSnippet": "Feb 18, 2016 <b>...</b> <b>Christopher Marquez</b>, a former US Marine, says the <b>assault</b> last Friday night at a <b>McDonald&#39;s</b> in Washington, D.C., came after a group of young&nbsp;...",
+                "formattedUrl": "https://www.csmonitor.com/.../Former-US-marine-attacked-at-McDonald-s...",
+                "htmlFormattedUrl": "https://www.csmonitor.com/.../Former-US-marine-attacked-at-McDonald-s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhUSgMaQBd7S5x57v2t4c-lZT_PxqVNwGArQ_6udvgjB7vz_AZu1zNyAX&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_900x600",
+                            "copyright": "The Christian Science Monitor",
+                            "og:image:width": "900",
+                            "article:published_time": "2016-02-18T09:10-05",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "The Christian Science Monitor",
+                            "csm.content.body": "https://www.csmonitor.com/layout/set/rssfull/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                            "csm.date": "2016-02-18",
+                            "csm.author": "Max Lewontin",
+                            "og:description": "Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'",
+                            "twitter:image": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_380x253",
+                            "twitter:site": "@csmonitor",
+                            "csm.image.credit": "KGTV - San Diego, CA",
+                            "csm.tags": "section-law-&amp;-courts,section-usa,class-article,storysource-monitor,storykicker-first-look",
+                            "id": "e9e3ddbf22665813470dedbe1fbd2713",
+                            "csm.content.id": "e9e3ddbf22665813470dedbe1fbd2713",
+                            "og:type": "article",
+                            "article:section": "Law &amp; Courts",
+                            "twitter:title": "Former US marine attacked at McDonald's. Was it racially motivated?",
+                            "author": "The Christian Science Monitor",
+                            "og:title": "Former US marine attacked at McDonald's. Was it racially motivated?",
+                            "og:image:height": "600",
+                            "fb:pages": "14660729657",
+                            "dc.date.issued": "2016-02-18T09:10:24-05:00",
+                            "fb:app_id": "179793002061452",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Christopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'",
+                            "og:url": "https://www.csmonitor.com/USA/Justice/2016/0218/Former-US-marine-attacked-at-McDonald-s.-Was-it-racially-motivated",
+                            "csm.image.std": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_380x253"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.csmonitor.com/csm/2016/02/965289_1_Former%20US%20Marine%20Christopher%20Marquez_standard.png?alias=standard_900x600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... attackers vandalize Venezuelan opposition headquarters in post-election turmoil]\n* * *\nFeatured Coverage\n ### 2024 Paris Olympics]\nValues Behind the News\nA deeper view that unites instead of divides, connecting why the story matters to you.\n* * *\n    !\nThe Christian Science Monitor\nThe Christian Science Monitor is an international news organization offering calm, thoughtful, award-winning coverage for independent thinkers. We tackle difficult conversations and divisive issues\u2013we don\u2019t shy away from hard problems. But you\u2019ll find in each Monitor news story qualities that can lead to solutions and unite us\u2013qualities such as respect, resilience, hope, and fairness.\nSearch\n* * *\nCurrent Issues\n1 of 3 stories this month \\> Get unlimited stories\n### Your subscription makes our work possible.\nWe want to bridge divides to reach everyone.\n!\n### Get stories that  \n**empower and uplift.**\nSee our other .\nYour email address \nBy signing up, you agree to our .\nFormer US marine attacked at McDonald's. Was it racially motivated?\n===================================================================\nChristopher Marquez, a former US Marine, says the assault last Friday night at a McDonald's in Washington, D.C., came after a group of young men asked him whether 'black lives matter.'\n    !\n|\nKGTV - San Diego, CA\nFormer US Marine Christopher Marquez says he was attacked at a McDonald's in Washington, D.C.\n*   By  Staff\nFebruary 18, 2016\nA former US Marine who was assaulted at a McDonald\u2019s in downtown Washington, D.C., last Friday says the attack was racially motivated, but questions persist about motivations for the assault, local police said this week.\nChristopher Marquez, who served in Iraq and  and now attends American University,  that the attack, which he said was unprovoked, occurred after several black teenagers and young men asked him whether \u201cblack lives matter\u201d and then called him racist.\nAccording to a D.C. police report, Mr. Marquez, who is Hispanic, told officers that one young man hit him in the face with a handgun and stole bank cards and his wallet, which had $400 inside, the Post reports. Dustin Sternbeck, the chief D.C. police spokesman told the Post that detectives were reviewing surveillance video of the incident but it wasn\u2019t immediately clear what it showed.\nA  in the conservative website the Daily Caller based primarily on Marquez\u2019s account of the assault led to several reports that concluded that the men involved in the assault were affiliated with the Black Lives Matter movement.\nBut D.C. police told the Post and the  they could not verify the identities of the men or the motive described by Marquez. One officer told Snopes that there was no indication that any of the individuals in the altercation were involved with or mentioned Black Lives Matter.\nSnopes also noted that Marquez had told the Daily Caller his memory of the incident was fuzzy after sustaining a blow to the back of the head and that he said some details of the incident were provided to him the next day by a manager of the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Christian Science Monitor is considered a reputable news source known for its in-depth reporting and balanced journalism. It adheres to high journalistic standards, is often cited for its accuracy, and has won multiple awards for its reporting. The publication's commitment to factual reporting and nuanced analysis makes it a reliable resource for understanding complex events like the assault on Christopher Marquez. However, it does have a slight editorial bias towards liberal viewpoints, which is why it does not score a perfect 10."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article discusses the attack and includes Marquez's claim about being confronted over 'black lives matter.' However, it also highlights police statements that they could not confirm a link to the Black Lives Matter movement. While it suggests a possible motivation, it does not provide definitive corroboration about the suspects' relationship with Black Lives Matter."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Surveillance video released of attack on decorated Marine veteran ...",
+                "htmlTitle": "Surveillance video released of <b>attack</b> on decorated Marine veteran ...",
+                "link": "https://wjla.com/news/local/man-attacked-over-black-lives-matter",
+                "displayLink": "wjla.com",
+                "snippet": "Feb 15, 2016 ... Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. Police on Thursday.The video shows 30-year-old\u00a0...",
+                "htmlSnippet": "Feb 15, 2016 <b>...</b> Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. <b>Police</b> on Thursday.The video shows 30-year-old&nbsp;...",
+                "formattedUrl": "https://wjla.com/news/local/man-attacked-over-black-lives-matter",
+                "htmlFormattedUrl": "https://wjla.com/news/local/man-attacked-over-<b>black</b>-<b>lives</b>-<b>matter</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyW3x4MuMKgqYJzVCD-zAom4RPHmhufwouX41dXdVWl--WWnVmZV4oS4&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "story-description1": "Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. Police on Thursday.The video shows 30-year-old Chris Marquez attacked from behind as he was leaving a McDonald's on 911 E St., N.W., in Washington.Marquez was in",
+                            "og:image": "https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large16x9_mcdonaldsbeatingbrusies.PNG?1455831123221",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-02-15T23:02:00.000Z",
+                            "og:site_name": "WJLA",
+                            "story-article:publisher": "https://www.facebook.com/7NewsDC",
+                            "og:image:type": "image/jpeg",
+                            "title": "Surveillance video released of attack on decorated Marine veteran at D.C. McDonald's",
+                            "og:description": "Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. Police on Thursday.The video shows 30-year-old Chris Marquez attacked from behind as he was leaving a McDonald's on 911 E St., N.W., in Washington.Marquez was in",
+                            "twitter:image": "https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large16x9_mcdonaldsbeatingbrusies.PNG?1455831123221",
+                            "og:image:secure_url": "https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large16x9_mcdonaldsbeatingbrusies.PNG?1455831123221",
+                            "story-image": "https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large16x9_mcdonaldsbeatingbrusies.PNG?1455831123221,https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large1x1_mcdonaldsbeatingbrusies.PNG?1455831123833,https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large3x4_mcdonaldsbeatingbrusies.PNG?1455831123499",
+                            "next-head-count": "69",
+                            "twitter:site": "@7newsdc",
+                            "story-article:author": "https://www.facebook.com/7NewsDC",
+                            "story-fb:pages": "60987623733",
+                            "story-fb:app_id": "889260367778456",
+                            "package-version": "1.0.0",
+                            "twitter:title": "Surveillance video released of attack on decorated Marine veteran at D.C. McDonald's",
+                            "og:type": "article",
+                            "author": "Roz Plater, StephenTschida/ABC7",
+                            "og:title": "Surveillance video released of attack on decorated Marine veteran at D.C. McDonald's",
+                            "facebook:image": "/resources/assets/wjla/images/logos/wjla-logo.svg",
+                            "blitz": "mu-cc36119f-f4dca522-3261b206-4b3bbd3f",
+                            "story-name": "WJLA",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=0.5",
+                            "twitter:description": "Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. Police on Thursday.The video shows 30-year-old Chris Marquez attacked from behind as he was leaving a McDonald's on 911 E St., N.W., in Washington.Marquez was in",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "og:url": "https://wjla.com/news/local/man-attacked-over-black-lives-matter"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://wjla.com/resources/media/b8f65551-d8c6-4038-b917-e46284956639-large16x9_mcdonaldsbeatingbrusies.PNG?1455831123221"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... on decorated Marine veteran at D.C. McDonald's\n===============\nPlease ensure Javascript is enabled for purposes of     \nSat, 03 Aug 2024 19:58:22 GMT (1722715102973)\nStory Infinite Scroll - News3 v1.0.0 (common)\n5d4bc5eff7c8b323c9fe3aaba6039ce1b624ff8a\n]\n!\n!\nWeather Alert\nSTORM ALERT\nShow Less\n!\n]\nWeather Alert\n*   \n*   \n*   \nSurveillance video released of attack on decorated Marine veteran at D.C. McDonald's\n====================================================================================\n* * *\nby Roz Plater, StephenTschida/ABC7\nTue, February 16th 2016 at 11:02 PM\nUpdated Fri, February 19th 2016 at 7:08 PM\n!\n]\n]\n]\n 5 VIEW ALL PHOTOS !]\nDecorated Marine,Chris Marquez, injuries after attack (Photo courtesy of Chris Marquez)\n!!!\nWASHINGTON \u2014 Surveillance video of a decorated Marine veteran being brutally attacked was released by D.C. Police on Thursday.\nThe video shows 30-year-old Chris Marquez attacked from behind as he was leaving a McDonald's on 911 E St., N.W., in Washington.\nMarquez was in the Iraq and Afghanistan wars, and received a bronze star for his heroism.\nAccording Marquez while he was eating at the McDonald's Friday night, a group of young people surrounded him and began yelling about \"black lives matter.\" Marquez says he sensed trouble and ignored them. When he left he was attacked and viciously beaten.\nMcDonald's says it turned the surveillance video over to police. On Wednesday there were reports that police may not release the video. This is what Metropolitan Police Assistant Chief Peter Newsham said Wednesday about the video.\n\"If there is evidence associated with the case we will get it out there and share it with the public. You know we have to look at for example with video in cases, the value and the chance that somebody may be able to identify a suspect from that, and once we are able to put that together, and we do have that we will share it.\"\nChris Marquez told ABC7 News detectives informed him Wednesday that the surveillance video from McDonald's is poor quality and likely will not be released. Since his attackers robbed him and used his credit cards, investigators are focused on those stores and are looking for video there.\nSURVEILLANCE VIDEO OF ATTACK:\nStay Connected\n Like Us]\n!\nFollow Us\nCookie Preferences...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "WJLA is a local news station affiliated with ABC News, and while it provides solid local coverage and typically adheres to journalistic standards, local stations can sometimes prioritize sensationalism to attract viewership. It\u2019s generally trustworthy, but its reporting may lack the depth of national news coverage, impacting its overall credibility slightly. For stories involving sensitive issues like the Black Lives Matter movement, local context matters, so the outlet's reliability in reporting regional stories also adds to its credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence mentions the confrontation where Marquez was asked about 'black lives matter' but fails to provide concrete evidence of the suspects' affiliation with the movement. It primarily focuses on the events of the attack rather than establishing any direct link to Black Lives Matter."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                "htmlTitle": "Decorated Marine <b>attacked</b> by group of teens outside D.C. <b>McDonald&#39;s</b>",
+                "link": "https://www.usatoday.com/story/news/nation-now/2016/02/17/decorate-marine-veteran-attacked-teens-mcdonalds/80492568/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Feb 17, 2016 ... Veteran Marine Sgt. Christopher Marquez, shown here in South Korea, was recently assaulted. A veteran Marine sergeant was assaulted and robbed\u00a0...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> Veteran Marine Sgt. <b>Christopher Marquez</b>, shown here in South Korea, was recently assaulted. A veteran Marine sergeant was assaulted and robbed&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/story/news/nation...mcdonalds/80492568/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/news/nation...<b>mcdonalds</b>/80492568/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlbiPWRrdGwEK4_IliKHFlZOQv_xL_11zVNMTVONDo0dCjXZp5rny7QHD&s",
+                            "width": "299",
+                            "height": "169"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "533",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Decorated Marine attacked by group of teens outside D.C. McDonald's",
+                            "og:image:height": "301",
+                            "google": "notranslate",
+                            "og:description": "A veteran Marine sergeant was assaulted and robbed at a McDonald's in Washington D.C. last week, in an attack the victim says was racially charged, according to police.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Jeff Schogol",
+                            "twitter:image": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=266&fit=crop&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "A veteran Marine sergeant was assaulted and robbed at a McDonald's in Washington D.C. last week, in an attack the victim says was racially charged, according to police.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/nation-now/2016/02/17/decorate-marine-veteran-attacked-teens-mcdonalds/80492568/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/-mm-/c791aabaafcb50d4b902617fd942558ff9ab3c11/c=0-37-533-338/local/-/media/2016/02/17/USATODAY/USATODAY/635912935273714147-chris.jpeg?width=533&height=301&fit=crop&format=pjpg&auto=webp"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nA veteran Marine sergeant was assaulted and robbed at a McDonald's in Washington D.C. \nPolice in Washington, D.C., are looking for at least four people in connection with the assault and robbery of Christopher Marquez, a Bronze Star recipient, who was one of two Marines who helped carry then-1st Sgt. Bradley Kasal out of Fallujah\u2019s infamous \u201cHell House.\u201d\nMarquez, who served in the Marine Corps from 2003 to 2011, told police he was assaulted on Friday around 10:30 p.m.\u00a0while eating at a McDonald's, according to a Metropolitan Police Department report.\nMarquez said he believes the attack was racially motivated. He remembers being accosted at the McDonald's in Washington's Chinatown neighborhood by five people between 16 and 21 years old. Most were men or boys. One may have been female.\n\u201cThe kids were asking me if I think that black lives mattered,\u201d Marquez said on Monday. \u201cI was ignoring them, just because I felt intimidated. I felt how they approached me, it was very hostile. I felt they were really trying to intimidate me and just trying to start a confrontation with me.\u201d\nThe police report does not include a description of the people involved with the incident, which was first reported by\u00a0. One of the suspects allegedly hit Marquez with a gun after calling him a racist, the report says. Police have not yet made any arrests in the case, a spokesman said.\nThe suspects took Marquez\u2019 wallet, identification...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "USA Today is recognized for its broad distribution and diverse coverage. While it offers accessible news presentation and generally prioritizes accuracy, the paper is sometimes criticized for a lack of depth in its analysis, leaning towards a more generalist approach. Its coverage of major news events is typically solid, but as with WJLA, the need for viewer engagement can sometimes lead to simplified narratives which impacts its perceived reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "Similar to evidence1, it recounts Marquez's experience during the assault and touches upon the racial dynamics involved. However, it does not present strong evidence connecting the attackers to the Black Lives Matter movement, focusing instead on Marquez's feelings about the hostility he faced."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Decorated Marine vet attacked in D.C. McDonald's: 'Stop the racism'",
+                "htmlTitle": "Decorated Marine vet <b>attacked</b> in D.C. <b>McDonald&#39;s</b>: &#39;Stop the racism&#39;",
+                "link": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/19/decorated-marine-vet-attacked-in-d-c-mcdonald-s-stop-the-racism/",
+                "displayLink": "www.marinecorpstimes.com",
+                "snippet": "Feb 18, 2016 ... Former Sgt. Christopher Marquez was knocked unconscious on Feb. 12 while leaving a restaurant in Chinatown. He told Marine Corps Times that\u00a0...",
+                "htmlSnippet": "Feb 18, 2016 <b>...</b> Former Sgt. <b>Christopher Marquez</b> was knocked unconscious on Feb. 12 while leaving a restaurant in Chinatown. He told Marine Corps Times that&nbsp;...",
+                "formattedUrl": "https://www.marinecorpstimes.com/.../decorated-marine-vet-attacked-in-d-c...",
+                "htmlFormattedUrl": "https://www.marinecorpstimes.com/.../decorated-marine-vet-attacked-in-d-c...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRicyq29yAjg1HHGtx5aIhRFsHTUIycoWAH1OnUl_MVMhTqYWc7_H4G8Z&s",
+                            "width": "189",
+                            "height": "266"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.marinecorpstimes.com/resizer/A1rs4QPBri9UP_qE8UMLjum0crk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "hsl(4deg, 55%, 52%)",
+                            "article:published_time": "2016-02-19T00:22:14Z",
+                            "og:site_name": "Marine Corps Times",
+                            "canonicalurl": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/19/decorated-marine-vet-attacked-in-d-c-mcdonald-s-stop-the-racism/",
+                            "og:tags": "circulated-marine-corps-times, marine-corps-times",
+                            "og:description": "The Marine Iraq War veteran who was assaulted and robbed outside a McDonald\u2019s in Washington, D.C., wants everyone to stop using what happened to him as an excuse to inflame racial tensions.",
+                            "circulated": "marine-corps-times",
+                            "twitter:site": "@marinetimes",
+                            "article:modified_time": "2022-08-19T06:35:55.943Z",
+                            "datemodified": "2022-08-19T06:35:55.943Z",
+                            "articlesection": "Your Marine Corps",
+                            "datepublished": "2016-02-19T00:22:14Z",
+                            "iscanonical": "true",
+                            "sailthru.date": "February 18, 2016 7:22 PM",
+                            "article:section": "Your Marine Corps",
+                            "author": "Jeff Schogol",
+                            "og:title": "Decorated Marine vet attacked in D.C. McDonald's: 'Stop the racism'",
+                            "canonical": "marine-corps-times",
+                            "fb:pages": "291448617173, 25695254496, 61924502489, 83721537518, 65986997382, 248242239645, 70531852030, 525449530843973, 298378097222468",
+                            "site": "Marine Corps Times",
+                            "fb:app_id": "713617942039294",
+                            "viewport": "width=device-width, initial-scale=1.00, maximum-scale=1.5, minimum-scale=1.0",
+                            "og:url": "https://www.marinecorpstimes.com/news/your-marine-corps/2016/02/19/decorated-marine-vet-attacked-in-d-c-mcdonald-s-stop-the-racism/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "datemodified": "2022-08-19T06:35:55.943Z",
+                            "articlesection": "Your Marine Corps",
+                            "publisher": "https://www.marinecorpstimes.com/#publisher",
+                            "description": "The Marine Iraq War veteran who was assaulted and robbed outside a McDonald\u2019s in Washington, D.C., wants everyone to stop using what happened to him as an excuse to inflame racial tensions.",
+                            "headline": "Decorated Marine vet attacked in D.C. McDonald's: 'Stop the racism'",
+                            "datepublished": "2016-02-19T00:22:14Z"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.marinecorpstimes.com/resizer/A1rs4QPBri9UP_qE8UMLjum0crk=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "description": "Those in all service branches can stream NBCUniversal's coverage through a partnership with AAFES.",
+                            "headline": "Military, veterans can stream Paris Olympics coverage for free"
+                        },
+                        {
+                            "description": "Vance is the first veteran of the enlisted ranks to run on a major-party ticket since Al Gore in 2000.",
+                            "headline": "With Trump pick, JD Vance is first post-9/11 vet on major party ticket"
+                        },
+                        {
+                            "description": "Vets groups united Monday to remind Americans that they all share a duty in \u201clowering the temperature\u201d of today\u2019s political discourse.",
+                            "headline": "After attempted Trump assassination, veteran groups urge calm"
+                        },
+                        {
+                            "description": "Auditors posed as military beneficiaries and made covert calls to see if Tricare's mental health care providers were reachable and available as advertised.",
+                            "headline": "Looking for a mental health provider? Tricare\u2019s directory may not help"
+                        },
+                        {
+                            "description": "When voters head to the polls to cast ballots this November, at least one out of every 10 election workers will be a veteran or a veteran's family member.",
+                            "headline": "Veterans group hits goal of recruiting 100,000 election workers"
+                        },
+                        {
+                            "headline": "Why do general officers fall into crime? | Defense News Weekly Full Episode 7.13.24"
+                        },
+                        {
+                            "headline": "Tips to help my small business flourish \u2014 Money Minute"
+                        },
+                        {
+                            "headline": "The military wants to let troops use personal devices. How can they be kept secure?"
+                        },
+                        {
+                            "headline": "Can four service members beat Joey Chestnut in an eating competition?"
+                        },
+                        {
+                            "headline": "Appeals court voids Marine\u2019s adoption of Afghan war orphan"
+                        },
+                        {
+                            "headline": "Navy officer convicted in Afghan visa bribery scheme"
+                        },
+                        {
+                            "headline": "Here are the names of the 13 U.S. service members killed in Afghanistan attack"
+                        },
+                        {
+                            "headline": "Marine Corps bases in Japan ramp up sobriety checks after incidents"
+                        },
+                        {
+                            "headline": "Military, veterans can stream Paris Olympics coverage for free"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n*   \n#### \nDecorated Marine vet attacked in D.C. McDonald's: 'Stop the racism'\n===================================================================\nBy Jeff\u00a0Schogol\n\u00a0Feb\u00a019, 2016\n!:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/56OD67PEUBBGROBV7OQCTPEPZ4.jpg)\nThe Marine Iraq War veteran\u00a0decorated Marine who was assaulted and robbed outside a McDonald\u2019s\u00a0in Washington, D.C., McDonald\u2019s wants everyone to stop using what happened to him as an excuse to inflame racial tensions.\nFormer Sgt. Christopher Marquez was knocked unconscious on Feb. 12 while leaving a restaurant in Chinatown. He told Marine Corps Times that prior to the attack, a group of people was very confrontational with him and asked him \"if I think that black lives mattered.\"\nMarquez, a Bronze Star with combat valor recipient,\u00a0Mraquez said he does not condone people citing the attack on him to make racial slurs on social media. He also would like the Black Lives Matter movement to condemn what happened to him because he feels the mugging was racially motivated.\n\"Even though this was a racially motivated attack, more violence or hate is not the answer,\" Marquez said Thursday in an email to Marine Corps Times.\u00a0\"These people want to create more racism and division in our country because it serves their narrative. The best way to counter this cowardly movement is to be united and not divided.\"\nMarquez said he strongly\u00a0condemns any acts of retaliation and encourages people to have faith in the Washington DC police department and judicial system.\nThe police report of the Feb. 12 incident does not ascribe a motive to Marquez'\u00a0attackers. In the brief narrative of events, police wrote that the suspects began to argue with Marquez and called him a racist. The police report quotes Marquez as responding by\u00a0saying, \"...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Marine Corps Times focuses specifically on issues affecting the U.S. Marine Corps and military personnel. It is known for detailed reporting on veteran affairs and military news. The publication demonstrates a strong commitment to accuracy concerning military-specific stories, which can give a reliable insight into incidents involving veterans like Christopher Marquez. Given its specialized focus and the expertise of its reporting staff on military matters, it receives a higher credibility score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-18"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This source provides Marquez's perspective about the motivation being racially charged and directly mentions his wish for a denunciation from the Black Lives Matter movement. While it gives insight into the perceived racial motivations, it lacks conclusive evidence linking the attackers to the movement."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Decorated Marine vet attacked, robbed at Washington DC ...",
+                "htmlTitle": "Decorated Marine vet <b>attacked</b>, robbed at Washington DC ...",
+                "link": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                "displayLink": "www.foxnews.com",
+                "snippet": "Feb 17, 2016 ... Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington,\u00a0...",
+                "htmlSnippet": "Feb 17, 2016 <b>...</b> Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington,&nbsp;...",
+                "formattedUrl": "https://www.foxnews.com/.../decorated-marine-vet-attacked-robbed-at-was...",
+                "htmlFormattedUrl": "https://www.foxnews.com/.../decorated-marine-vet-attacked-robbed-at-was...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu63cQdcsw2rEdAjWLu6oEhXA-zDDcXPc7LkXCbcCu7H4JzXBeaxE4xSM&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "article",
+                            "dc.publisher": "Fox News",
+                            "og:image": "http://media2.foxnews.com/BrightCove/694940094001/2016/02/17/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg",
+                            "msapplication-square70x70logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Fox News",
+                            "twitter:url": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                            "prism.channel": "fnc",
+                            "dc.format": "text/html",
+                            "msapplication-wide310x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png",
+                            "og:description": "Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.",
+                            "twitter:image": "https://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2016/02/17/1024/512/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg?ve=1&tl=1",
+                            "prism.aggregationtype": "subsection",
+                            "twitter:site": "@foxnews",
+                            "dc.type": "Text.Article",
+                            "dc.source": "Fox News",
+                            "dcterms.modified": "2016-02-17T12:04:36-05:00",
+                            "msapplication-square310x310logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png",
+                            "og:type": "article",
+                            "twitter:title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "content-creator": "tiger",
+                            "og:title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "classification-isa": "marines,us,theft",
+                            "classification-tags": "marines,theft",
+                            "dc.date": "2016-02-16",
+                            "dcterms.created": "2016-02-16T23:44:15-05:00",
+                            "classification": "/FOX NEWS/US/MILITARY/Marines,/FOX NEWS/US,/FOX NEWS/US/CRIME/Robbery Theft",
+                            "msapplication-square150x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png",
+                            "fb:app_id": "113186182048399",
+                            "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                            "twitter:description": "Authorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.",
+                            "dc.title": "Decorated Marine vet attacked, robbed at Washington DC McDonald's, police say",
+                            "prism.section": "us",
+                            "dc.identifier": "urn:uri:base64:c23e0852-1fa5-5f5d-a3e5-2274b762549b",
+                            "dc.language": "en-US",
+                            "og:url": "https://www.foxnews.com/us/decorated-marine-vet-attacked-robbed-at-washington-dc-mcdonalds-police-say",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://media2.foxnews.com/BrightCove/694940094001/2016/02/17/694940094001_4759968155001_278b00c5-7931-455c-bde1-92db4e205234.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n      This material may not be published, broadcast, rewritten,\n      or redistributed. \u00a92024 FOX News Network, LLC. All rights reserved.\n      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by\n      Factset. Powered and implemented by\n      FactSet Digital Solutions.\n      Legal Statement. Mutual Fund and ETF data provided by\n      Refinitiv Lipper.\n    \nIraq was veteran Christopher Marquez was attacked and robbed by a group of five people\nAuthorities worked Wednesday to identify at least four people who attacked and robbed a decorated former Marine at a Washington, D.C. McDonald\u2019s, leaving him in the restaurant unconscious.\nChristopher Marquez, 30, an Iraq War vet, told the Washington Post he was eating in a back corner of the restaurant on Friday when a group of teens and young men approached his table.\n\"They saw me and crowded around ... and they started asking me if I believed black lives matter,\u201d Marquez told the paper. \u201cI was ignoring them, then they started calling me racist.\"\nAt that point, Marquez said he left the McDonald's, but was knocked unconscious by a blow to his head. When he came to, his pants were ripped and his wallet, which contained $400 in cash, three credit cards and VA medical card among other items, was missing.\nDeAnthony Mason, manager of the McDonald\u2019s, reviewed security footage and told Marquez that he was hit on the side of the head before the other teens converged on his body to take his belongings, The Daily Caller reports.\nCredit card transactions reviewed by The Daily Caller revealed that Marquez\u2019s cards later were charged more than $115 at a liquor store, Five Guys and a Walmart.\nThe teens involved in the attack were being sought by police for a previous incident, Mason said, according to Marquez.\nBut...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Fox News is a major news outlet but is often associated with a strong conservative bias. While it provides extensive news coverage, it has faced criticism for sensationalism, misinformation, and lack of journalistic rigor in some of its segments. Given the polarized nature of media consumption, some readers might place weight on its reporting, while others may view it skeptically. Therefore, the score reflects a cautious trust level for readers aware of the media's biases."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This article describes the crime and includes Marquez's commentary about the assault. While it highlights the theme of racial questioning ('black lives matter'), it reiterates the police's inability to verify the suspects' affiliations with the movement, which complicates the relevance to the question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Iraq vet Chris Marquez was beaten by teens who asked him if 'black ...",
+                "htmlTitle": "Iraq vet <b>Chris Marquez</b> was beaten by teens who asked him if &#39;<b>black</b> ...",
+                "link": "https://www.dailymail.co.uk/news/article-3450254/Decorated-Iraq-vet-bravery-inspired-statues-says-beaten-teens-asked-black-lives-matter.html",
+                "displayLink": "www.dailymail.co.uk",
+                "snippet": "Feb 16, 2016 ... Decorated Iraq vet whose bravery was immortalized in a statue 'attacked in hate crime': Marine says he was beaten and robbed by teens who asked\u00a0...",
+                "htmlSnippet": "Feb 16, 2016 <b>...</b> Decorated Iraq vet whose bravery was immortalized in a statue &#39;attacked in hate crime&#39;: Marine says he was beaten and robbed by teens who asked&nbsp;...",
+                "formattedUrl": "https://www.dailymail.co.uk/.../Decorated-Iraq-vet-bravery-inspired-statues...",
+                "htmlFormattedUrl": "https://www.dailymail.co.uk/.../Decorated-Iraq-vet-bravery-inspired-statues...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1BgxZCiW6Hk-SkcaH_tLLcAzD5RVEUazGJFjnnr8FVHoK34q49uHV7ec&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.dailymail.co.uk/i/pix/2016/02/17/06/314E0F1400000578-0-image-a-8_1455692050813.jpg",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-02-16T23:36:11+0000",
+                            "og:image:width": "636",
+                            "og:site_name": "Mail Online",
+                            "twitter:url": "https://www.dailymail.co.uk/news/article-3450254/Decorated-Iraq-vet-bravery-inspired-statues-says-beaten-teens-asked-black-lives-matter.html",
+                            "channel": "News",
+                            "article:location": "region:",
+                            "og:description": "An Iraq war veteran whose bravery inspired two statues says he was beaten by a group of teens in Washington, DC after they approached and asked him whether 'black lives matter'.",
+                            "article:publisher": "https://www.facebook.com/DailyMail",
+                            "divclasspage": "articlePage",
+                            "article:modified_time": "2016-02-20T16:00:38+0000",
+                            "mol:headline": "Decorated Iraq vet whose bravery was immortalized in a statue 'attacked in hate crime': Marine says he was beaten and robbed by teens who asked him if 'black lives matter' as he ate in McDonald's",
+                            "og:video:type": "video/mp4",
+                            "og:video:height": "358",
+                            "al:ios:app_name": "MailOnline",
+                            "author": "James Wilkinson",
+                            "twitter:app:id:ipad": "400442503",
+                            "app_store_id": "app-id=384101264",
+                            "fb:pages": "164305410295882",
+                            "og:video:width": "636",
+                            "article:author": "https://www.facebook.com/DailyMail",
+                            "article:tag": "Decorated Iraq vet bravery inspired statues says beaten teens asked black lives matter",
+                            "og:video": "https://videos.dailymail.co.uk/video/mol/2016/02/17/1852715416304370865/1024x576_1852715416304370865.mp4",
+                            "mobile-web-app-capable": "yes",
+                            "al:android:app_name": "Daily Mail Online",
+                            "articleid": "3450254",
+                            "al:android:package": "com.dailymail.online",
+                            "y_key": "1a7e912afbfcab2f",
+                            "twitter:app:id:iphone": "384101264",
+                            "al:ios:url": "dailymail-fb://article/3450254/",
+                            "twitter:image": "https://i.dailymail.co.uk/i/pix/2016/02/17/06/314E0F1400000578-0-image-a-8_1455692050813.jpg",
+                            "al:ios:app_store_id": "384101264",
+                            "news_keywords": "dailymail,news,Iraq (Old)",
+                            "article:content_tier": "free",
+                            "twitter:account_id": "15438913",
+                            "twitter:title": "Iraq vet says teens asked him if 'black lives matter' then beat him",
+                            "article:section": "News",
+                            "og:type": "article",
+                            "msvalidate.01": "12E6B4B813EB44C9BFC8F6A21F1D01F5",
+                            "og:title": "Iraq vet says teens asked him if 'black lives matter' then beat him",
+                            "og:image:height": "382",
+                            "al:android:url": "dailymail-fb://article/3450254/",
+                            "fb:app_id": "146202712090395",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+                            "doc-class": "Living Document",
+                            "twitter:description": "An Iraq war veteran whose bravery inspired two statues says he was beaten by a group of teens in Washington, DC after they approached and asked him whether 'black lives matter'.",
+                            "original-source": "https://www.dailymail.co.uk/news/article-3450254/Decorated-Iraq-vet-bravery-inspired-statues-says-beaten-teens-asked-black-lives-matter.html",
+                            "og:url": "https://www.dailymail.co.uk/news/article-3450254/Decorated-Iraq-vet-bravery-inspired-statues-says-beaten-teens-asked-black-lives-matter.html",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.dailymail.co.uk/i/pix/2016/02/17/06/314E0F1400000578-0-image-a-8_1455692050813.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "By James Wilkinson For Daily Mail Online  \n Published:  23:36 BST, 16 February 2016   |  Updated:  16:00 BST, 20 February 2016   \n\n 253\nView  comments\n\nAn Iraq war veteran whose bravery inspired two statues says he was beaten by a group of teens in Washington, DC on Friday night after they approached and asked him whether 'black lives matter'.\nChris Marquez, 30, a decorated US Marine veteran, was eating in a McDonald's when the youths walked up and started questioning him, WJLA\u00a0reported.\u00a0\n'I felt threatened and thought they were trying to intimidate me, so I figured I'm just going to keep to my food, eat my food and hopefully they'll leave me alone,' Marquez told the station.\nThe youths started calling him a racist, he said, but it was when he tried to leave the restaurant that things went badly for him.\u00a0\nScroll down for video\u00a0\nVet: Chris Marquez, an Iraq vet with eight years of active duty, says he was attacked outside a Washington, DC McDonald's on Friday after a gang of youths asked him whether he thought 'black lives matter'\nInjured: He says the youths knocked him to the ground from behind, beat him and robbed him. He was taken to George Washington Hospital with injuries to his face and eye\nThe marine, who had survived ambushes in Fallujah at the height of the Iraq War, was taken unaware again \u2014 and this time he was unarmed and without backup.\nOne of the teens hit him in the head from behind...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The Daily Mail is known for celebrity gossip and sensationalized news. While the outlet occasionally reports on serious issues, its history of publishing misleading information and the focus on clickbait undermines its credibility. Although it has a large readership, its reporting standards are often questioned; thus, it receives a middling score for overall reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-02-16"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This source reports on Marquez's claim that he was targeted due to racial dynamics and mentions the questioning about 'black lives matter.' Still, like the other evidence, it does not establish a definitive connection between the attackers and the movement."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Washington Capitals - We support our fellow NHL players and ...",
+                "htmlTitle": "Washington Capitals - We support our fellow NHL players and ...",
+                "link": "https://www.facebook.com/Capitals/photos/a.10150106023301762/10157649324016762/?type=3",
+                "displayLink": "www.facebook.com",
+                "snippet": "Aug 28, 2020 ... Media are racist too if you're going talking about shootings TALK ABOUT ALL SHOOTINGS.. All lives matter. 4 yrs.",
+                "htmlSnippet": "Aug 28, 2020 <b>...</b> Media are racist too if you&#39;re going talking about shootings TALK ABOUT ALL SHOOTINGS.. All <b>lives matter</b>. 4 yrs.",
+                "formattedUrl": "https://www.facebook.com/Capitals/photos/a.../10157649324016762/?type...",
+                "htmlFormattedUrl": "https://www.facebook.com/Capitals/photos/a.../10157649324016762/?type...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF5mdaZmPby6PL3ACPU9mk3tD5xjDn2-DKVmmyapMHK04pAviFvolNQSTS&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=284882215, app-argument=app-id=284882215",
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157649324016762",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Washington Capitals - We support our fellow NHL players and athletes...",
+                            "theme-color": "#FFFFFF",
+                            "al:ios:app_name": "Facebook",
+                            "og:title": "Washington Capitals - We support our fellow NHL players and athletes across each sports league in unifying and raising awareness against systemic racism in the United States.  And we remain steadfast in our commitment to fight racial injustice and foster diversity in our own community.  washcaps.com/blackhockey | Facebook",
+                            "al:android:package": "com.facebook.katana",
+                            "google": "notranslate",
+                            "al:ios:url": "app-id=284882215",
+                            "og:description": "We support our fellow NHL players and athletes across each sports league in unifying and raising awareness against systemic racism in the United States....",
+                            "al:ios:app_store_id": "284882215",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157649324016762",
+                            "al:android:url": "app-id=284882215",
+                            "referrer": "origin-when-crossorigin",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "We support our fellow NHL players and athletes across each sports league in unifying and raising awareness against systemic racism in the United States....",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.facebook.com/photo.php?fbid=10157649324016762&id=101572146761&set=a.10150106023301762",
+                            "al:android:app_name": "Facebook"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10157649324016762"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Log into Facebook\n===============\n!\n_Notice_\nYou must log in to continue.\nLog Into Facebook\nYou must log in to continue.\nLog In\nor\n*   English (US)\n*   \n*   \")\n*   \")\n*   \n*   \")\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nMeta \u00a9 2024\n!",
+                    "content_tokens": 136
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "Facebook is a social media platform rather than a news source. Due to its role as a conduit for various user-generated content, including fake news and misinformation, it is heavily scrutinized for accuracy. While users may find credible information shared on Facebook, the platform itself does not vet content, making it unreliable for accurate news. The score reflects its significant risk of disseminating unverified or sensationalized content."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-08-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence does not pertain to Marquez's attack or provide any information about the suspects or the Black Lives Matter movement and thus holds minimal relevance to the question."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Marines \u2013 Douglas Ernst Blog",
+                "htmlTitle": "Marines \u2013 Douglas Ernst Blog",
+                "link": "https://douglasernst.blog/tag/marines/",
+                "displayLink": "douglasernst.blog",
+                "snippet": "Marquez-Marine-attack-suspects Suspects arrested in connection with Christopher Marquez's assault and robbery will not be charged with a hate crime, despite\u00a0...",
+                "htmlSnippet": "Marquez-Marine-attack-suspects Suspects arrested in connection with <b>Christopher Marquez&#39;s assault</b> and robbery will not be charged with a hate crime, despite&nbsp;...",
+                "formattedUrl": "https://douglasernst.blog/tag/marines/",
+                "htmlFormattedUrl": "https://douglasernst.blog/tag/marines/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDY_w3fFN5QnvAlfD7XjqakmKU85d3itI6aozlNJw20UIWnqq8NPA5&s=0",
+                            "width": "104",
+                            "height": "104"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Douglas Ernst Blog",
+                            "og:image": "https://s0.wp.com/i/blank.jpg",
+                            "og:type": "website",
+                            "theme-color": "#333333",
+                            "og:site_name": "Douglas Ernst Blog",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "msapplication-tooltip": "Creator of the Soulfinder graphic novel series.",
+                            "og:title": "Marines \u2013 Douglas Ernst Blog",
+                            "og:locale": "en_US",
+                            "og:url": "https://douglasernst.blog/tag/marines/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s0.wp.com/i/blank.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... veterans, PTSD, and the other burdens they might be carrying, then Uriarte\u2019s work is a must-read. One can only hope that he continues telling tales for many years to come.\n!\nGeorge Orwell\u2019s _Animal Farm_ is famous for the quote \u201cSome animals are more equal than others.\u201d Someone should write an update called _American Farm_ that includes the line _\u201cSome hate crimes are more equal than others\u201d_ after the Washington, D.C., attack of war hero Christopher Marquez.\nMost media outlets have not covered the Feb. 12 attack of Marquez, who served eight years on active duty between 2003 and 2011. In short, the Bronze Star recipient sat down to eat in a McDonald\u2019s in the nation\u2019s capital and was accosted by a group of teens demanding to know if he thought \u201cblack lives matter.\u201d\nLike most sane people, he tried to ignore them and just eat his burger. _He was promptly ambushed and robbed upon exiting the restaurant._\n\u201cI believe this was a hate crime and I was targeted because of my skin color,\u201d Marquez told the  Feb. 15. \u201cToo many of these types of attacks have been happening against white people by members of the black community and the majority of the mainstream media refuses to report on it.\u201d\n!\nSuspects arrested in connection with Christopher Marquez\u2019s assault and robbery will not be charged with a hate crime, despite harassing him with racial questions prior to their attack. (Photo: D.C. Metropolitan Police Department)\nThere are two very interesting facts about Marquez\u2019s case:\n1.  Cops finally arrested and charge two individuals in connection with the incident, but _they  \u2014 even though they were explicitly harassing him about race and calling him \u201cracist\u201d before the attack._\n2.  President Obama, who always seems eager to weigh in on race-related crimes, _somehow can\u2019t find his voice when it comes to Black Lives Matter supporters who beat a Marine veteran unconscious and stole $400, a VA medical card, and three credit cards from his back pocket just miles from the White House._ What did his assailants spend the stolen cash on, you ask? Answer: liquor, a Five Guys burgers, and products from Walmart.\nRegular readers of this blog may remember the case of , who was attacked by a similar group of kids on the DC Metro Green Line in 2011. They may also remember  on the Green Line from September 17, 2011.\nI wrote then:\n> As I came home late from work on the D.C. Metro Green line, an inebriated older man...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Personal blogs such as Douglas Ernst's may provide opinion pieces or commentary, but they generally lack the editorial oversight found in established news organizations. While some blog content may offer valuable insights, it can also reflect the author's biases and personal opinions, affecting reliability. As such, while it may feature credible reports occasionally, the overall score acknowledges the uncertainties attached to individual blogs and their sources."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This source discusses the suspects and acknowledges Marquez's assertion that he was targeted due to his race. It emphasizes his belief that the attack was racially motivated and criticizes the lack of hate crime charges despite the circumstances. It offers context on the motivations being perceived as linked to racial tensions, thus has a higher relevance for judging the claims made."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Idaho Supreme Court Civil Opinions | Supreme Court",
+                "htmlTitle": "Idaho Supreme Court Civil Opinions | Supreme Court",
+                "link": "https://isc.idaho.gov/appeals-court/isc_civil",
+                "displayLink": "isc.idaho.gov",
+                "snippet": "Abuse of discretion standard; Reasonable inquiry; Rule 11 sanctions; Attorney fees. January 25, 2023. 47919, Easterling v. Hal Pacific Properties, L.P.. Opinion\u00a0...",
+                "htmlSnippet": "Abuse of discretion standard; Reasonable inquiry; Rule 11 sanctions; Attorney fees. January 25, 2023. 47919, Easterling v. Hal Pacific Properties, L.P.. Opinion&nbsp;...",
+                "formattedUrl": "https://isc.idaho.gov/appeals-court/isc_civil",
+                "htmlFormattedUrl": "https://isc.idaho.gov/appeals-court/isc_civil",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1glkWBEJdIlP0rHMco2MuOBPcX9WvBkxG3yyf98uJBw9WZawzPT3a3w2t&s",
+                            "width": "223",
+                            "height": "208"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://isc.idaho.gov/sites/all/themes/appeals/logo.png"
+                        }
+                    ],
+                    "Document": [
+                        {
+                            "encoded": "Idaho Supreme Court Civil Opinions The Idaho Supreme Court and Idaho Court of Appeals cited opinions are made available online as a public service. All cited opinions are posted the day of..."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Commission; Unemployment\nJuly 10, 2023\n\t49667\tBradbury v. City of Lewiston\t\nOpinion\nSummary\n\tUtility Fees and Municipal Funds; Idaho Const. Art. VIII, \u00a7 3 and Art. XII, \u00a7 4; I.C. \u00a7 63-1311; Standing; Notice Under ITCA; Attorney-Client Privilege; I.R.E. 502(b).\nJune 27, 2023\n\t49189\tDarrow v. White\t\nOpinion\nSummary\n\tTrust; Conflict of Interest; Idaho Code section 68-108(b); Idaho Code section 68-111.\nJune 23, 2023\n\t49572\tHouston v. Houston\t\nOpinion\nSummary\n\tTrust Interpretation; Ambiguity; Trial De Novo.\nJune 23, 2023\n\t49511\tArreola v. Scentsy, Inc.\t\nOpinion\nSummary\n\tWorker's Compensation Law; Medical Exam Dispute; I.C. \u00a7\u00a7 72-434, 72-433(1); Brewer v. La Crosse Health & Rehab, 138 Idaho 859, 71 P.3d 458 (2003), Overruled; I.C. \u00a7 72-804.\nJune 22, 2023\n\t48975\tHerndon v. City of Sandpoint\t\nOpinion\nSummary\n\tJudicial Estoppel; Leasehold Interests; 42 U.S.C. \u00a7 1983; 42 U.S.C. \u00a7 1985; Mootness.\nJune 15, 2023\n\t49605\tWright v. Parish\t\nOpinion\nSummary\n\tDivorce; Equal Ownership Interest; Jurisdiction; Res Judicata; Issue Preclusion; Claim Preclusion.\nJune 14, 2023\n\t49473/49474\tAlcala v. Verbruggen Palletizing Solutions, Inc.\t\nOpinion\nSummary\n\tWorker's Compensation Law; Res Judicata; Law of the Case; Statutory Co-Employee Immunity; Kelly v. TRC Fabrication, LLC, 168 Idaho 788, 487 P.3d 723 (2021); Hybrid Transaction; Predominant Factor Test; Third Party Liability; Attorney Fees; I.C. \u00a7 12-120(3).\nJune 13, 2023\n\t49373\tEagle Rock Timber, Inc. v. Teton County\t\nOpinion\nSummary\n\tAgency; Scope of Authority; Actual and Apparent...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "As an official state government website, the Idaho Secretary of State's website provides authoritative documents and information about state policies. It is well-founded in factual reporting about governmental affairs and legislation. However, the scope of its content is limited strictly to its related subjects, so while it is credible for official information, it does not engage with more diverse news topics."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-01-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This piece does not provide any relevant information regarding the attack on Marquez or the suspects' relationship to the Black Lives Matter movement, thus it is irrelevant to the overall inquiry."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "USMC \u2013 Douglas Ernst Blog",
+                "htmlTitle": "USMC \u2013 Douglas Ernst Blog",
+                "link": "https://douglasernst.blog/tag/usmc/",
+                "displayLink": "douglasernst.blog",
+                "snippet": "Marquez-Marine-attack-suspects Suspects arrested in connection with Christopher Marquez's assault and robbery will not be charged with a hate crime, despite\u00a0...",
+                "htmlSnippet": "Marquez-Marine-attack-suspects Suspects arrested in connection with <b>Christopher Marquez&#39;s assault</b> and robbery will not be charged with a hate crime, despite&nbsp;...",
+                "formattedUrl": "https://douglasernst.blog/tag/usmc/",
+                "htmlFormattedUrl": "https://douglasernst.blog/tag/usmc/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDY_w3fFN5QnvAlfD7XjqakmKU85d3itI6aozlNJw20UIWnqq8NPA5&s=0",
+                            "width": "104",
+                            "height": "104"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "Douglas Ernst Blog",
+                            "og:image": "https://s0.wp.com/i/blank.jpg",
+                            "og:type": "website",
+                            "theme-color": "#333333",
+                            "og:site_name": "Douglas Ernst Blog",
+                            "msapplication-window": "width=device-width;height=device-height",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "msapplication-tooltip": "Creator of the Soulfinder graphic novel series.",
+                            "og:title": "USMC \u2013 Douglas Ernst Blog",
+                            "og:locale": "en_US",
+                            "og:url": "https://douglasernst.blog/tag/usmc/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://s0.wp.com/i/blank.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... veterans, PTSD, and the other burdens they might be carrying, then Uriarte\u2019s work is a must-read. One can only hope that he continues telling tales for many years to come.\n!\nGeorge Orwell\u2019s _Animal Farm_ is famous for the quote \u201cSome animals are more equal than others.\u201d Someone should write an update called _American Farm_ that includes the line _\u201cSome hate crimes are more equal than others\u201d_ after the Washington, D.C., attack of war hero Christopher Marquez.\nMost media outlets have not covered the Feb. 12 attack of Marquez, who served eight years on active duty between 2003 and 2011. In short, the Bronze Star recipient sat down to eat in a McDonald\u2019s in the nation\u2019s capital and was accosted by a group of teens demanding to know if he thought \u201cblack lives matter.\u201d\nLike most sane people, he tried to ignore them and just eat his burger. _He was promptly ambushed and robbed upon exiting the restaurant._\n\u201cI believe this was a hate crime and I was targeted because of my skin color,\u201d Marquez told the  Feb. 15. \u201cToo many of these types of attacks have been happening against white people by members of the black community and the majority of the mainstream media refuses to report on it.\u201d\n!\nSuspects arrested in connection with Christopher Marquez\u2019s assault and robbery will not be charged with a hate crime, despite harassing him with racial questions prior to their attack. (Photo: D.C. Metropolitan Police Department)\nThere are two very interesting facts about Marquez\u2019s case:\n1.  Cops finally arrested and charge two individuals in connection with the incident, but _they  \u2014 even though they were explicitly harassing him about race and calling him \u201cracist\u201d before the attack._\n2.  President Obama, who always seems eager to weigh in on race-related crimes, _somehow can\u2019t find his voice when it comes to Black Lives Matter supporters who beat a Marine veteran unconscious and stole $400, a VA medical card, and three credit cards from his back pocket just miles from the White House._ What did his assailants spend the stolen cash on, you ask? Answer: liquor, a Five Guys burgers, and products from Walmart.\nRegular readers of this blog may remember the case of , who was attacked by a similar group of kids on the DC Metro Green Line in 2011. They may also remember  on the Green Line from September 17, 2011.\nI wrote then:\n> As I came home late from work on the D.C. Metro Green line, an inebriated older man...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Personal blogs such as Douglas Ernst's may provide opinion pieces or commentary, but they generally lack the editorial oversight found in established news organizations. While some blog content may offer valuable insights, it can also reflect the author's biases and personal opinions, affecting reliability. As such, while it may feature credible reports occasionally, the overall score acknowledges the uncertainties attached to individual blogs and their sources."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to evidence8, this evidence lacks any pertinent information related to the question about the suspects' relationship with the Black Lives Matter movement, making it irrelevant to the claim."
+                }
+            }
+        }
+    ]
+}

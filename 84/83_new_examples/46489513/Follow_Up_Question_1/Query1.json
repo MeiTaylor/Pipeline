@@ -1,0 +1,633 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Elton John reasons for not performing in U.S. residencies",
+                "totalResults": "2150000",
+                "searchTerms": "Elton John reasons for not performing in U.S. residencies",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Elton John reasons for not performing in U.S. residencies",
+                "totalResults": "2150000",
+                "searchTerms": "Elton John reasons for not performing in U.S. residencies",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.327775,
+        "formattedSearchTime": "0.33",
+        "totalResults": "2150000",
+        "formattedTotalResults": "2,150,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Elton John slams Florida anti-LGBTQ laws, says U.S. is 'going ...",
+                "htmlTitle": "<b>Elton John</b> slams Florida anti-LGBTQ laws, says <b>U.S.</b> is &#39;going ...",
+                "link": "https://www.washingtonpost.com/lifestyle/2023/06/20/elton-john-lgbtq-laws-america/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Jun 20, 2023 ... The interview quoted John as saying he would not do a residency in America, but did not specify why. A previous version also incorrectly ...",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> The interview quoted <b>John</b> as saying he would <b>not</b> do a <b>residency</b> in <b>America</b>, but did <b>not</b> specify why. A previous version also incorrectly&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/lifestyle/.../elton-john-lgbtq-laws-america/",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/lifestyle/.../<b>elton</b>-<b>john</b>-lgbtq-laws-america/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGgP2inYbIiiIHgEgc-DM7I9FAxmgeICxnHM1r53Z07qYhg3OjPuEy-9Nh&s",
+                            "width": "263",
+                            "height": "192"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "“It’s like a virus that the LGBTQ+ movement is suffering,” the Grammy-winning singer said, citing a slew of new anti-LGBTQ+ laws in Florida.",
+                            "article_modified_time": "2023-06-20T21:17:10.875Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVWL4TDSDUI63BT4R3DJLZFPZU.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/lifestyle/2023/06/20/elton-john-lgbtq-laws-america/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-20T14:59:41.148Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Elton John says America is going backward with ‘disgraceful’ anti-LGBTQ+ laws",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/lifestyle/2023/06/20/elton-john-lgbtq-laws-america/",
+                            "og:description": "“It’s like a virus that the LGBTQ+ movement is suffering,” the Grammy-winning singer said, citing a slew of new anti-LGBTQ+ laws in Florida.",
+                            "article_published_time": "2023-06-20T14:59:41.148Z",
+                            "next-head-count": "83",
+                            "article_section": "Lifestyle",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2023-06-20T21:17:10.875Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "“It’s like a virus that the LGBTQ+ movement is suffering,” the Grammy-winning singer said, citing a slew of new anti-LGBTQ+ laws in Florida.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Elton John says America is going backward with ‘disgraceful’ anti-LGBTQ+ laws",
+                            "last_updated_date": "2023-06-20T21:17:10.875Z",
+                            "og:type": "article",
+                            "twitter:title": "Elton John says America is going backward with ‘disgraceful’ anti-LGBTQ+ laws",
+                            "article:section": "Lifestyle",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Elton John says America is going backward with ‘disgraceful’ anti-LGBTQ+ laws",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVWL4TDSDUI63BT4R3DJLZFPZU.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "“It’s like a virus that the LGBTQ+ movement is suffering,” the Grammy-winning singer said, citing a slew of new anti-LGBTQ+ laws in Florida.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/lifestyle/2023/06/20/elton-john-lgbtq-laws-america/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZVWL4TDSDUI63BT4R3DJLZFPZU.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "correction\nA previous version of this article incorrectly implied that John said he would no longer hold residencies in the United States because of anti-LGBTQ+ laws there. The interview quoted John as saying he would not do a residency in America, but did not specify why. A previous version also incorrectly stated when Florida Gov. Ron DeSantis signed new anti-LGBTQ+ laws. This article has been corrected.\nBritish singer Elton John has criticized anti-LGBTQ+ laws in the United States, saying that “it’s all going pear-shaped in America.”\n“We seem to be going backwards. And that spreads. It’s like a virus that the LGBTQ+ movement is suffering,” the Grammy-winning singer said in an interview with the United Kingdom’s Radio Times.\nSubscribe for unlimited access to The Post\nYou can cancel anytime.\nJohn, 76, singled out “laws enacted in Florida” as “disgraceful,” adding: “It’s a growing swell of anger and homophobia that’s around America.”\nFlorida Gov.  (R) signed  last month that will take effect July 1. Doctors will be allowed to deny patients care based on their moral beliefs, while the use of preferred pronouns will be banned in public schools. A law that prohibits gender-affirming health care for transgender people under the age of 18 is already being enforced, The Washington Post  earlier this month.\nJohn has less than a month left of his Farewell Yellow Brick Road Tour, the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Where does Elton John live now? - Quora",
+                "htmlTitle": "Where does <b>Elton John</b> live now? - Quora",
+                "link": "https://www.quora.com/Where-does-Elton-John-live-now",
+                "displayLink": "www.quora.com",
+                "snippet": "Oct 25, 2017 ... He keeps multiple residences so that whenever he performs a concert, he is able to take a private jet home that evening. If he has to be away ...",
+                "htmlSnippet": "Oct 25, 2017 <b>...</b> He keeps multiple <b>residences</b> so that whenever he <b>performs</b> a <b>concert</b>, he is able to take a private jet home that evening. If he has to be away&nbsp;...",
+                "formattedUrl": "https://www.quora.com/Where-does-Elton-John-live-now",
+                "htmlFormattedUrl": "https://www.quora.com/Where-does-<b>Elton</b>-<b>John</b>-live-now",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaYTEfQ2CyIZNZUShuA7gcMfJc6FLdIMvR6Ww-jdzOc_RuO1VSBIA1r2M&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "al:android:url": "intent://www.quora.com/Where-does-Elton-John-live-now#Intent;scheme=qhttp;package=com.quora.android;S.market_referrer=launch_url=https%3A%2F%2Fwww.quora.com%2FWhere-does-Elton-John-live-now&logging_data=uid%3DNone;end",
+                            "theme-color": "#b92b27",
+                            "viewport": "initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width, minimum-scale=1, viewport-fit=cover",
+                            "al:android:package": "com.quora.android",
+                            "fb:pages": "255232486973",
+                            "twitter:widgets:theme": "light"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://qph.cf2.quoracdn.net/main-qimg-f6533dcba015d3f9a31bcae89d8fac8d-lq"
+                        }
+                    ],
+                    "QAPage": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of all the hotels, motels, tour busses and such he has done since around 1968 or so. He started with all that when he was 19 or so. By his late fourties he wanted more stability and less upheaval after doing like 3 or 4 hundred shows around the world every year. He is 74 now and has a husband and 2 children in his life and is settling the touring to spend time with his children and BE a father to them in their formative years. His childhood was not like that, and he doesn't want to repeat his fathers shortcomings from his own childhood. He may have other places in mind for homes so he can holiday with family and still be home.\nUpvote ·\n9919\n95\n92\nRelated questions\nMore answers below\n]\nHuge Elton fan since Empty Sky. Elton is my mentor and hero. · Author has 370 answers and 1.3M answer views\n · \nTo the best of my knowledge, the last I’ve read, Elton has two homes in England (both in the London area), a house in the South of France, and a luxury apartment in Atlanta Georgia (USA). He also stays somewhere in the Las Vegas area while performing his “Million Dollar Piano” shows.\nHe keeps multiple residences so that whenever he performs a concert, he is able to take a private jet home that evening. If he has to be away from home and has no choice but to stay in a hotel, his staff brings in LOADS of items to make the hotel suite look and feel like home.\nUpvote ·\n9912\n92\nRelated questions\nAdvertisement\n ·  ·  ·  ·  ·  ·  ·  ·\n© Quora, Inc. 2024",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Sir Elton John rules out US residency",
+                "htmlTitle": "Sir <b>Elton John</b> rules out <b>US residency</b>",
+                "link": "https://nz.news.yahoo.com/sir-elton-john-rules-us-060459206.html",
+                "displayLink": "nz.news.yahoo.com",
+                "snippet": "Sir Elton John is adamant he won't do another American residency. The 76-year-old singer won't give up performing completely when his three-year 'Farewell ...",
+                "htmlSnippet": "Sir <b>Elton John</b> is adamant he won&#39;t do another <b>American residency</b>. The 76-year-old singer won&#39;t give up <b>performing</b> completely when his three-year &#39;Farewell&nbsp;...",
+                "formattedUrl": "https://nz.news.yahoo.com/sir-elton-john-rules-us-060459206.html",
+                "htmlFormattedUrl": "https://nz.news.yahoo.com/sir-<b>elton</b>-<b>john</b>-rules-<b>us</b>-060459206.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfeExgGckVWiM0L31CFLAYOSd7z2O0D9CCPXsbPsl0bxpWxVqTuJ5uEtfi&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=42657161-ec7a-3382-9844-c5aef77a00ab&src=web",
+                            "og:image": "https://media.zenfs.com/en/bang_showbiz_nz_240/b416ace58cee84253fd1395a3aa572ed",
+                            "og:image:width": "650",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=42657161-ec7a-3382-9844-c5aef77a00ab&src=web",
+                            "og:description": "Sir Elton John is adamant he won’t do another American residency. The 76-year-old singer won’t give up performing completely when his three-year ‘Farewell Yellow Brick Road’ tour comes to an end this summer because he’s interested in being based at one venue, but he’s vowed when the time comes, he won’t be in the US. He told Radio Times magazine: “I said when I announced the farewell tour that maybe I would do a residency like Kate Bush did at Hammersmith [in 2014]. But not in America. I will no",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/bang_showbiz_nz_240/b416ace58cee84253fd1395a3aa572ed",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@yahoonz",
+                            "news_keywords": "Sir Elton John, American residency, Kate Bush, David Furnish, Farewell Yellow Brick Road",
+                            "twitter:title": "Sir Elton John rules out US residency",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Sir Elton John rules out US residency",
+                            "og:image:height": "650",
+                            "twitter:image:src": "https://media.zenfs.com/en/bang_showbiz_nz_240/b416ace58cee84253fd1395a3aa572ed",
+                            "al:android:url": "yahoo://article/view?uuid=42657161-ec7a-3382-9844-c5aef77a00ab&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Sir Elton John is adamant he won’t do another American residency. The 76-year-old singer won’t give up performing completely when his three-year ‘Farewell Yellow Brick Road’ tour comes to an end this summer because he’s interested in being based at one venue, but he’s vowed when the time comes, he won’t be in the US. He told Radio Times magazine: “I said when I announced the farewell tour that maybe I would do a residency like Kate Bush did at Hammersmith [in 2014]. But not in America. I will no",
+                            "og:url": "https://nz.news.yahoo.com/sir-elton-john-rules-us-060459206.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/bang_showbiz_nz_240/b416ace58cee84253fd1395a3aa572ed"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Sir Elton John rules out US residency\n=============== \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n ! Yahoo News]\nSearch query \n to view your emails\n*   \n*   \n*   \n*   \n*   \n*   \n…\nAdvertisement\nRead full article\nBang Showbiz NZ]\nSir Elton John rules out US residency\n=====================================\nBang Showbiz NZ\n23 June 2023 at 11:04 pm·2-min read\nLink copied\n!\nSir Elton John is adamant he won’t do another American residency.  \nThe 76-year-old singer won’t give up performing completely when his three-year ‘Farewell Yellow Brick Road’ tour comes to an end this summer because he’s interested in being based at one venue, but he’s vowed when the time comes, he won’t be in the US.  \nHe told Radio Times magazine: “I said when I announced the farewell tour that maybe I would do a residency like Kate Bush did at Hammersmith \\.  \nBut not in America. I will not do it in America.  \n“But that’s in the long term. I don’t want to think about the stage – I’ve been on it since I was 17.”  \nThe outspoken star is very concerned about the political climate in the US.  \nHe said: “it’s all going pear-shaped in America. There’s violence, \\ laws enacted in Florida, which are disgraceful. There’s a law now that, if you visit a doctor in Florida, they can refuse to treat you if you’re gay, which I find just unbelievable.  \n“We seem to be going backwards. And that spreads. It’s like a virus that the LGBTQ+ movement is suffering.”  \nElton’s husband, David Furnish – who is also his manager – previously ruled out the possibility of the ‘Candle in the wind’ hitmaker taking on another Las Vegas residency, but didn’t mention nowhere in the US would be unlikely.  \nHe previously told Billboard...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Is he really done touring? : r/EltonJohn",
+                "htmlTitle": "Is he really done touring? : r/<b>EltonJohn</b>",
+                "link": "https://www.reddit.com/r/EltonJohn/comments/16q0fk8/is_he_really_done_touring/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Sep 23, 2023 ... Touring, yes. Performing, no. Elton is a performer, one of the greatest of our times. He'll keep creating & playing music until he's no longer ...",
+                "htmlSnippet": "Sep 23, 2023 <b>...</b> Touring, yes. <b>Performing</b>, <b>no</b>. <b>Elton</b> is a performer, one of the greatest of our times. He&#39;ll keep creating &amp; <b>playing</b> music until he&#39;s <b>no</b> longer&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/r/EltonJohn/comments/.../is_he_really_done_tourin...",
+                "htmlFormattedUrl": "https://www.reddit.com/r/<b>EltonJohn</b>/comments/.../is_he_really_done_tourin...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/16q0fk8",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/EltonJohn on Reddit: Is he really done touring?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/EltonJohn on Reddit: Is he really done touring?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/OneTransportation4 - 10 votes and 19 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/16q0fk8",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/EltonJohn/comments/16q0fk8/is_he_really_done_touring/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/16q0fk8"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Gay rights are going backwards in the US, says Elton John | Elton ...",
+                "htmlTitle": "Gay rights are going backwards in the <b>US</b>, says <b>Elton John</b> | Elton ...",
+                "link": "https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Jun 20, 2023 ... Singer says he will no longer do residencies in the US, describing recent changes in law as 'disgraceful'",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> Singer says he will <b>no</b> longer do <b>residencies</b> in the <b>US</b>, describing recent changes in law as &#39;disgraceful&#39;",
+                "formattedUrl": "https://www.theguardian.com/.../gay-rights-are-going-backwards-in-the-us-...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../gay-rights-are-going-backwards-in-the-<b>us</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAlO2eHAyy6ddrh9hvT1F-OnNvBBvxpMZurWKxaEb5R-qv30dI0A7NDs&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=131783b136880972bb9afdc3cf99e804",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-06-19T23:01:25.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Singer says he will no longer do residencies in the US, describing recent changes in law as ‘disgraceful’",
+                            "twitter:creator": "@nadiakhomami",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&s=67b6b9730c1ca4b028fbbd5c6769d0bf",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2023-06-20T22:18:12.000Z",
+                            "og:type": "article",
+                            "article:section": "Music",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Gay rights are going backwards in the US, says Elton John",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/nadia-khomami",
+                            "article:tag": "Elton John,LGBTQ+ rights,US news,UK news,Music,Culture,Glastonbury 2023",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=131783b136880972bb9afdc3cf99e804"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Library and Artists Salute Elton John and Bernie Taupin with ...",
+                "htmlTitle": "Library and Artists Salute <b>Elton John</b> and Bernie Taupin with ...",
+                "link": "https://newsroom.loc.gov/news/library-and-artists-salute-elton-john-and-bernie-taupin-with-gershwin-prize/s/69bd4997-b35f-49a3-8d97-3b2299307463",
+                "displayLink": "newsroom.loc.gov",
+                "snippet": "Mar 21, 2024 ... Artists from across the musical spectrum joined the national library and U.S. leaders to honor the great songwriting duo of Elton John and ...",
+                "htmlSnippet": "Mar 21, 2024 <b>...</b> Artists from across the musical spectrum joined the national library and <b>U.S.</b> leaders to honor the great songwriting duo of <b>Elton John</b> and&nbsp;...",
+                "formattedUrl": "https://newsroom.loc.gov/...elton-john.../69bd4997-b35f-49a3-8d97-3b22...",
+                "htmlFormattedUrl": "https://newsroom.loc.gov/...<b>elton</b>-<b>john</b>.../69bd4997-b35f-49a3-8d97-3b22...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvc4nonaV570ymoFRnLZOHwOeDXHL4ifuLqyGHGOpYk2DdI8UXsgdoY0I&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.thenewsmarket.com/Previews/LBOC/StillAssets/960x540/664358.jpg",
+                            "og:type": "website",
+                            "og:image:width": "540px",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Library and Artists Salute Elton John and Bernie Taupin with Gershwin Prize",
+                            "og:site_name": "The NewsMarket",
+                            "twitter:url": "https://newsroom.loc.gov/news/library-and-artists-salute-elton-john-and-bernie-taupin-with-gershwin-prize/s/69bd4997-b35f-49a3-8d97-3b2299307463",
+                            "og:title": "Library and Artists Salute Elton John and Bernie Taupin with Gershwin Prize",
+                            "og:image:height": "960px",
+                            "og:description": "Artists from across the musical spectrum joined the national library and U.S. leaders to honor the great songwriting duo of Elton John and Bernie Taupin in the nation’s capital on Wednesday, March 20.",
+                            "twitter:image": "https://preview.thenewsmarket.com/Previews/LBOC/StillAssets/960x540/664358.jpg",
+                            "twitter:site": "https://newsroom.loc.gov/",
+                            "viewport": "width=device-width, minimal-ui, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "Artists from across the musical spectrum joined the national library and U.S. leaders to honor the great songwriting duo of Elton John and Bernie Taupin in the nation’s capital on Wednesday, March 20.",
+                            "og:url": "https://newsroom.loc.gov/news/library-and-artists-salute-elton-john-and-bernie-taupin-with-gershwin-prize/s/69bd4997-b35f-49a3-8d97-3b2299307463",
+                            "publish_date": "2024-03-21T05:27:00+00:00"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.thenewsmarket.com/Previews/LBOC/StillAssets/960x540/664358.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Library and Artists Salute Elton John and Bernie Taupin with Gershwin Prize**\n_Lineup Included Joni Mitchell, Garth Brooks, Brandi Carlile, Annie Lennox, Metallica, Maren Morris, Billy Porter, Charlie Puth and Jacob Lusk of Gabriels,_ _Premiering April 8 on PBS_\nArtists from across the musical spectrum joined the national library and U.S. leaders to honor the great songwriting duo of Elton John and Bernie Taupin in the nation’s capital on **Wednesday, March 20,** as they were awarded the Library of Congress Gershwin Prize for Popular Song during an all-star tribute concert.\nThe lineup included performances by 2023 Gershwin Prize honoree Joni Mitchell, 2020 Gershwin Prize honoree Garth Brooks, Brandi Carlile, Annie Lennox, Metallica, Maren Morris, Billy Porter, Charlie Puth and Jacob Lusk of Gabriels, along with appearances by John and Taupin. Porter hosts the television event.\nPBS stations nationwide will premiere the concert — “Elton John & Bernie Taupin: The Library of Congress Gershwin Prize for Popular Song” — at **8 p.m. ET** on **Monday,** **April 8** (check local listings), available via broadcast and streaming on PBS.org and the PBS App as part of the co-produced Emmy Award-winning music series. It will also be available to U.S. Department of Defense locations around the world via the American Forces Network.\nA once-in-a-lifetime meeting brought John, a young piano player, and lyricist Taupin together in 1967, and they have forged a songwriting partnership that continues after more than 50 years.\n“Your Song,” “...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Elton John - #ThrowbackThursday - 13 February 2004 Elton ...",
+                "htmlTitle": "<b>Elton John</b> - #ThrowbackThursday - 13 February 2004 Elton ...",
+                "link": "https://www.facebook.com/photo.php?fbid=1479694528726316&id=142246372471145&set=a.484583971570715",
+                "displayLink": "www.facebook.com",
+                "snippet": "ThrowbackThursday - 13 February 2004 Elton performs the first show of his 'Red Piano' residency at Caesars Palace in Las Vegas. Tonight Elton is back at...",
+                "htmlSnippet": "ThrowbackThursday - 13 February 2004 <b>Elton performs</b> the first show of his &#39;Red Piano&#39; <b>residency</b> at Caesars Palace in Las Vegas. Tonight <b>Elton</b> is back at...",
+                "formattedUrl": "https://www.facebook.com/photo.php?fbid=1479694528726316&id...",
+                "htmlFormattedUrl": "https://www.facebook.com/photo.php?fbid=1479694528726316&amp;id...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddF8wf2V4l9e8zOensHhnfVj1eVGj7PeZUDUB_MPYsLDPcOsISE2Oeuc&s",
+                            "width": "277",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=284882215, app-argument=app-id=284882215",
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1479694528726316",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Elton John - #ThrowbackThursday - 13 February 2004 Elton performs the...",
+                            "theme-color": "#FFFFFF",
+                            "al:ios:app_name": "Facebook",
+                            "og:title": "Elton John - #ThrowbackThursday - 13 February 2004 Elton performs the first show of his ‘Red Piano’ residency at Caesars Palace in Las Vegas. Tonight Elton is back at Caesars to perform his ‘Million Dollar Piano’ show once more. Let us know in the comments if you were there! | Facebook",
+                            "al:android:package": "com.facebook.katana",
+                            "google": "notranslate",
+                            "al:ios:url": "app-id=284882215",
+                            "og:description": "#ThrowbackThursday - 13 February 2004 Elton performs the first show of his ‘Red Piano’ residency at Caesars Palace in Las Vegas.\nTonight Elton is back at...",
+                            "al:ios:app_store_id": "284882215",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1479694528726316",
+                            "al:android:url": "app-id=284882215",
+                            "referrer": "origin-when-crossorigin",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "#ThrowbackThursday - 13 February 2004 Elton performs the first show of his ‘Red Piano’ residency at Caesars Palace in Las Vegas.\nTonight Elton is back at...",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.facebook.com/photo.php?fbid=1479694528726316&id=142246372471145&set=a.484583971570715",
+                            "al:android:app_name": "Facebook"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1479694528726316"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Facebook\n=============== \nLog In\n!\n]\n-------------------------------------------------------------\n  · \n - 13 February 2004 Elton performs the first show of his ‘Red Piano’ residency at Caesars Palace in Las Vegas.  \nTonight Elton is back at Caesars to perform his ‘Million Dollar Piano’ show once more. Let us know in the comments if you were there!\n!(blob:https://www.facebook.com/c6ae2d9ee84beaf2d0f88d1de9bcc255)\n!(blob:https://www.facebook.com/a5e08c34bb82d3da38eaa04d5805fe5b)\nAll reactions:\n4.1K\n171\nLike\nComment\nMost relevant﻿\nComments\n--------\nSaw the Million Dollar Piano show at Ceasar'sWhAwesome! What a showman.\n!(blob:https://www.facebook.com/a5e08c34bb82d3da38eaa04d5805fe5b)\n*   \nHannah Sherlock\nI was! Highlight of my Elton concerts seen him many times but this was off the scale in brilliance both vocally and visually.\n!(blob:https://www.facebook.com/a5e08c34bb82d3da38eaa04d5805fe5b)\n*   \nJudy Reyes\nI saw the Red Piano show twice. The props were hilarious. Great memories.\n!(blob:https://www.facebook.com/a5e08...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "I Didn't Plan to Start in Teleradiology After My Radiology Residency ...",
+                "htmlTitle": "I Didn&#39;t Plan to Start in Teleradiology After My Radiology <b>Residency</b> ...",
+                "link": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did",
+                "displayLink": "blog.vrad.com",
+                "snippet": "Dec 11, 2022 ... I can say with 100% certainty that working in remote radiology is the best thing that ever happened to me. It's given me freedom, flexibility, ...",
+                "htmlSnippet": "Dec 11, 2022 <b>...</b> I can say with 100% certainty that <b>working</b> in remote radiology is the best thing that ever happened to me. It&#39;s given me freedom, flexibility,&nbsp;...",
+                "formattedUrl": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiol...",
+                "htmlFormattedUrl": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiol...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIOKWiNXF3o2rWfGlAUPP9bqZzsntCSfdH_34h7ErveW0tD3TgHdzahk&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blog.vrad.com/hubfs/Blog_Header_1200x628%20%2846%29.png",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:description": "How one radiologist was able to have a rewarding career AND the flexibility he wanted by starting in teleradiology after his radiology residency.",
+                            "twitter:image": "https://blog.vrad.com/hubfs/Blog_Header_1200x628%20%2846%29.png",
+                            "twitter:image:alt": "teleradiology",
+                            "be:norm_url": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did",
+                            "be:sdk_type": "custom",
+                            "be:capsule_url": "https://ixfd2-api.bc0a.com/api/ixf/1.0.0/get_capsule/f00000000046012/2012426301",
+                            "be:timer": "57ms",
+                            "be:messages": "true",
+                            "twitter:title": "I Didn’t Plan to Start in Teleradiology After My Radiology Residency — But I’m Glad I Did",
+                            "og:image:alt": "teleradiology",
+                            "og:type": "article",
+                            "twitter:domain": "blog.vrad.com",
+                            "be:sdk": "js_sdk_1.5.4",
+                            "author": "John Krol, MD",
+                            "og:title": "I Didn’t Plan to Start in Teleradiology After My Radiology Residency — But I’m Glad I Did",
+                            "og:image:height": "628",
+                            "facebook-domain-verification": "6ed0eyih7mf0afsrwj1qni1vwdr3ih",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "How one radiologist was able to have a rewarding career AND the flexibility he wanted by starting in teleradiology after his radiology residency.",
+                            "be:api_dt": "py_2024; pm_07; pd_09; ph_13; pmh_52; p_epoch:1720558354384",
+                            "be:mod_dt": "py_2024; pm_07; pd_09; ph_13; pmh_52; p_epoch:1720558354384",
+                            "og:url": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did",
+                            "be:orig_url": "https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://blog.vrad.com/hubfs/Blog_Header_1200x628%20%2846%29.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did: 422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://blog.vrad.com/i-didnt-plan-to-start-in-teleradiology-after-my-radiology-residency-but-im-glad-i-did",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Did Elton John Ban US Over Anti-Grooming Laws?! | Tech ARP",
+                "htmlTitle": "Did <b>Elton John</b> Ban <b>US</b> Over Anti-Grooming Laws?! | Tech ARP",
+                "link": "https://www.techarp.com/showbiz/elton-john-ban-us-anti-grooming/",
+                "displayLink": "www.techarp.com",
+                "snippet": "Jun 26, 2023 ... Did Elton John stop performing in the United States due to its anti-grooming laws?! Find out what the facts really are!",
+                "htmlSnippet": "Jun 26, 2023 <b>...</b> Did <b>Elton John</b> stop <b>performing</b> in <b>the United States</b> due to its anti-grooming laws?! Find out what the facts really are!",
+                "formattedUrl": "https://www.techarp.com/showbiz/elton-john-ban-us-anti-grooming/",
+                "htmlFormattedUrl": "https://www.techarp.com/showbiz/<b>elton</b>-<b>john</b>-ban-<b>us</b>-anti-grooming/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyVmYk5sEDSryVkqdXlCjVL7e1pUFyJb4-pGHT41nTD_87DXic4ryzpvKd&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.techarp.com/wp-content/uploads/2023/06/Elton-John-anti-grooming-laws-fact-check.jpg",
+                            "article:published_time": "2023-06-26T10:49:33+00:00",
+                            "og:image:width": "900",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Tech ARP",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://i0.wp.com/www.techarp.com/wp-content/uploads/2015/11/Tech-ARP-icon.png?fit=270%2C270&ssl=1",
+                            "og:description": "Did Elton John stop performing in the United States due to its anti-grooming laws?! Find out what the facts really are!",
+                            "twitter:creator": "@TechARP",
+                            "article:publisher": "https://www.facebook.com/TechARP/",
+                            "twitter:data1": "Dr. Adrian Wong",
+                            "twitter:data2": "7 minutes",
+                            "twitter:site": "@TechARP",
+                            "article:modified_time": "2023-07-10T06:43:22+00:00",
+                            "google-adsense-platform-account": "ca-host-pub-2644536267352236",
+                            "amp-to-amp-navigation": "AMP-Redirect-To; AMP.navigateTo",
+                            "og:type": "article",
+                            "author": "Dr. Adrian Wong",
+                            "og:title": "Did Elton John Ban US Over Anti-Grooming Laws?! | Tech ARP",
+                            "og:image:height": "450",
+                            "viewport": "width=device-width",
+                            "og:locale": "en_US",
+                            "google-adsense-platform-domain": "sitekit.withgoogle.com",
+                            "og:url": "https://www.techarp.com/showbiz/elton-john-ban-us-anti-grooming/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.techarp.com/wp-content/uploads/2023/06/Elton-John-anti-grooming-laws-fact-check.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Did Elton John stop performing in the United States due to its anti-grooming laws?!\nTake a look at the viral claim, and find out what the facts really are!\nClaim : Elton John Bans US Over Anti-Grooming Laws!\n---------------------------------------------------\nPeople are sharing an Epoch Times article, as evidence that Elton John singled out anti-grooming laws as the reason why he will no longer perform in the United States.\n_** :**_ _Elton John Singles Out Anti-Grooming Laws as Why He’s Done Performing in the US._\n_If he walks like a groomer, talks like a groomer, adopts two boys and parades them around with husband and lover-s in tow, he is a… #TinyGroomer_\n**Recommended : **\n!\nTruth : Elton John Did Not Ban US Over Anti-Grooming Laws!\n----------------------------------------------------------\nThis is yet another example of **FAKE NEWS** created about the LGBTQIA community, and here are the reasons why…\n**Fact #1 : Elton John Does Not Want Another US Residency**\nLet me just start by pointing out that Elton John never said that he will no longer perform in the United States, after his farewell tour ends.\nIn his interview with _Radio Times_, what Elton John said was that he still plans...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Elton John does not want to perform residency shows in US | Music ...",
+                "htmlTitle": "<b>Elton John</b> does <b>not</b> want to <b>perform residency</b> shows in <b>US</b> | Music ...",
+                "link": "https://gulfnews.com/entertainment/music/elton-john-does-not-want-to-perform-residency-shows-in-us-1.96600616",
+                "displayLink": "gulfnews.com",
+                "snippet": "Jun 25, 2023 ... The 76-year-old singer won't give up performing completely when his three-year 'Farewell Yellow Brick Road' tour comes to an end this summer ...",
+                "htmlSnippet": "Jun 25, 2023 <b>...</b> The 76-year-old singer won&#39;t give up <b>performing</b> completely when his three-year &#39;Farewell Yellow Brick Road&#39; tour comes to an end this summer&nbsp;...",
+                "formattedUrl": "https://gulfnews.com/.../elton-john-does-not-want-to-perform-residency-sh...",
+                "htmlFormattedUrl": "https://gulfnews.com/.../<b>elton</b>-<b>john</b>-does-<b>not</b>-want-to-perform-residency-sh...",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "IANS",
+                            "nickname": "IANS"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWrscml8Z7BAV3F4TQOKPr_eAPhPd0Y2VLsB9ywqDHgd3LPcCp2YQ-pos&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "description": "Elton John bids final farewell in New York and spreads festive cheer Image Credit: Washington Post"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "IANS",
+                            "sameas": "IANS"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://imagevars.gulfnews.com/2022/11/27/Elton-John-bids-final-farewell-in-New-York-and-spreads-festive-cheer_184b76fa19c_medium.jpg",
+                            "og:type": "article",
+                            "og:image:width": "540",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Elton John does not want to perform residency shows in US",
+                            "cxenseparse:recs:gln-slimtitle": "This isn't Elton John's idea of performance in US",
+                            "og:title": "Elton John does not want to perform residency shows in US",
+                            "og:image:height": "405",
+                            "fb:pages": "143017562431177",
+                            "og:description": "British singer to continue performing after his tour ends this summer",
+                            "twitter:image:src": "https://imagevars.gulfnews.com/2022/11/27/Elton-John-bids-final-farewell-in-New-York-and-spreads-festive-cheer_184b76fa19c_medium.jpg",
+                            "fb:app_id": "1718868628348238",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "British singer to continue performing after his tour ends this summer",
+                            "og:url": "https://gulfnews.com/entertainment/music/elton-john-does-not-want-to-perform-residency-shows-in-us-1.96600616"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imagevars.gulfnews.com/2022/11/27/Elton-John-bids-final-farewell-in-New-York-and-spreads-festive-cheer_184b76fa19c_medium.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n© Al Nisr Publishing LLC 2024. All rights reserved.\n##### Elton John does not want to perform residency shows in US\n(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))\n* * *\n---------------------------------------------------\n]\nSaturday, August 3, 2024\n* * *\n Music\n---------------------------------------------------------\n*   \n*   \n*   \n*   \n*   \n(javascript:void\\(0\\))\nElton John does not want to perform residency shows in US\n=========================================================\nBritish singer to continue performing after his tour ends this summer\n* * *\nPublished:  June 25, 2023 13:05 \n(javascript:void\\(0\\))\n(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))(javascript:void\\(0\\))\n* * *\n  !\nElton John bids final farewell in New York and spreads festive cheer Image Credit: Washington Post\nSinger Elton John has said he does not want to perform at one venue in the US for a period of time, but is not averse to the idea of a residency elsewhere.\nThe 76-year-old singer won’t give up performing completely when his three-year ‘Farewell Yellow Brick Road’ tour comes to an end this summer because he’s interested in being based at one venue, but has stated that when the time comes, he won’t be in the US.\nFemale First UK quoted him as telling Radio Times magazine: “I said when I announced the farewell tour that maybe I would do a residency like Kate Bush did at Hammersmith (in 2014). But not in America. I will not do it in America.”\nHe continued: “But that’s in the long term. I don’t want to think about the stage — I’ve been on it since I was 17.”\nJohn was also concerned about the political climate in the US. He said: “It’s all going pear-shaped in America. There’s violence, (discriminatory) laws enacted in Florida, which are disgraceful ... We seem to be going backwards. And that spreads.”\nJohn’s manager David Furnish previously ruled out the possibility of the ‘Candle in the wind’ hit maker taking on another Las Vegas residency,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

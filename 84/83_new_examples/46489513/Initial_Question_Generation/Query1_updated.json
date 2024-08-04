@@ -1,0 +1,883 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Elton John stops performing US anti-LGBTQ statement",
+                "totalResults": "557000",
+                "searchTerms": "Elton John stops performing US anti-LGBTQ statement",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Elton John stops performing US anti-LGBTQ statement",
+                "totalResults": "557000",
+                "searchTerms": "Elton John stops performing US anti-LGBTQ statement",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.333584,
+        "formattedSearchTime": "0.33",
+        "totalResults": "557000",
+        "formattedTotalResults": "557,000"
+    },
+    "spelling": {
+        "correctedQuery": "Elton John stop performing US anti-LGBTQ statement -site:www.snopes.com, -site:www.factcheck.org, -site:www.politifact.com, -site:www.truthorfiction.com, -site:fullfact.org, -site:www.hoax-slayer.com, -site:leadstories.com, -site:www.opensecrets.org, -site:www.washingtonpost.com/news/fact-checker, -site:www.reuters.com/fact-check, -site:apnews.com/APFactCheck, -site:www.bbc.com/news/reality_check, -site:factcheckni.org, -site:facta.news, -site:checkyourfact.com, -site:africacheck.org, -site:verafiles.org, -site:maldita.es, -site:correctiv.org, -site:teyit.org",
+        "htmlCorrectedQuery": "Elton John <b><i>stop</i></b> performing US anti-LGBTQ statement -site:www.snopes.com, -site:www.factcheck.org, -site:www.politifact.com, -site:www.truthorfiction.com, -site:fullfact.org, -site:www.hoax-slayer.com, -site:leadstories.com, -site:www.opensecrets.org, -site:www.washingtonpost.com/news/fact-checker, -site:www.reuters.com/fact-check, -site:apnews.com/APFactCheck, -site:www.bbc.com/news/reality_check, -site:factcheckni.org, -site:facta.news, -site:checkyourfact.com, -site:africacheck.org, -site:verafiles.org, -site:maldita.es, -site:correctiv.org, -site:teyit.org"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Gay rights are going backwards in the US, says Elton John | Elton ...",
+                "htmlTitle": "<b>Gay</b> rights are going backwards in the <b>US</b>, says <b>Elton John</b> | Elton ...",
+                "link": "https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Jun 20, 2023 ... But despite the extensive victory lap, John said he wasn't completely done with performing live. \u201cI said when I announced the farewell tour that\u00a0...",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> But despite the extensive victory lap, <b>John</b> said he wasn&#39;t completely done with <b>performing</b> live. \u201cI said when I announced the farewell tour that&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../gay-rights-are-going-backwards-in-the-us-...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../gay-rights-are-going-backwards-in-the-<b>us</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAlO2eHAyy6ddrh9hvT1F-OnNvBBvxpMZurWKxaEb5R-qv30dI0A7NDs&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=131783b136880972bb9afdc3cf99e804",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-06-19T23:01:25.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Singer says he will no longer do residencies in the US, describing recent changes in law as \u2018disgraceful\u2019",
+                            "twitter:creator": "@nadiakhomami",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&s=67b6b9730c1ca4b028fbbd5c6769d0bf",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2023-06-20T22:18:12.000Z",
+                            "og:type": "article",
+                            "article:section": "Music",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Gay rights are going backwards in the US, says Elton John",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/nadia-khomami",
+                            "article:tag": "Elton John,LGBTQ+ rights,US news,UK news,Music,Culture,Glastonbury 2023",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/music/2023/jun/20/gay-rights-are-going-backwards-in-the-us-says-elton-john",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/d31f5ad2ecc63184e5c6ff29b9b484587e367136/0_134_2896_1738/master/2896.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=131783b136880972bb9afdc3cf99e804"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... that spreads. It\u2019s like a virus that the LGBTQ+ movement is suffering.\u201d\nJohn, who founded the Elton John Aids Foundation, which has raised more than $525m and by its own estimation saved 5 million lives, expressed his deep unhappiness about the growing tide of homophobia, which he said extended to Britain.\n\u201cI don\u2019t like it at all,\u201d he said. \u201cIt\u2019s a growing swell of anger and homophobia that\u2019s around America. I don\u2019t know if it\u2019s around Britain, because I haven\u2019t been here that much.\n\u201cBut I feel that the Phillip Schofield thing has been totally homophobic. If it was a straight guy in a fling with a young woman, it wouldn\u2019t even make the papers.\u201d\nThe 76-year-old, who is headlining Glastonbury\u2019s Pyramid stage next Sunday, decided to embark on his final tour \u2013 Farewell Yellow Brick Road \u2013 seven years ago in order to spend more time with his sons. A desire to spend more time with his family has led to the singer saying he would no longer do residencies in the US, though he would consider more live shows elsewhere.\nThough the tour was originally envisaged as lasting for three years, the pandemic \u2013 and a hip replacement \u2013 wrecked those plans, and by the time it finally ends in Stockholm on 8 July, it will have lasted for almost five years and encompassed 333 shows.\nBut despite the extensive victory lap, John said he wasn\u2019t completely done with performing live. \u201cI said when I announced the farewell tour that maybe I would do a residency like Kate Bush did at Hammersmith \\, but not in America. I will not do it in America,\u201d he said.\nJohn has sold about 300m records in a career spanning more than half a century, and is the highest-grossing solo artist of all time, with his earnings totalling $1.898bn, according to Billboard magazine.\nIn recent years, he has found chart success through collaborations with contemporary hitmakers such as Britney Spears and Dua Lipa, which he called \u201can incredible boost\u201d in his later career.\nThe veteran musician, who became a larger-than-life public figure in the 1970s and developed a reputation for excess \u2013 immortalised in the 1997 documentary Tantrums & Tiaras, by his husband, David Furnish \u2013 is now performing at Glastonbury for the first time.\n\u201cIt\u2019s the only really important festival for me in the world, to be honest. It\u2019s all about music,\u201d...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Guardian is a well-respected and established British newspaper with a strong reputation for quality journalism. It has won numerous awards for its investigative reporting and provides in-depth coverage of social issues. Its reputation for accuracy is bolstered by editorial standards that emphasize fact-checking and accountability. However, like any major publication, it has faced occasional critiques regarding bias, which is why it does not receive a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This article discusses Elton John's statements about not wanting to do residencies in the U.S. anymore and links this decision to the growing anti-LGBTQ+ sentiment in the country. It indicates that he is stepping back from performing in America due to these issues, closely aligning with the claim that he would cease performing in the U.S. due to anti-LGBTQ+ legislation."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Why Elton John Owes Black People an Apology After AIDS 2018 ...",
+                "htmlTitle": "Why <b>Elton John</b> Owes Black People an Apology After AIDS 2018 ...",
+                "link": "https://www.thebody.com/article/why-elton-john-owes-black-people-an-apology-after-",
+                "displayLink": "www.thebody.com",
+                "snippet": "Aug 2, 2018 ... \"I never would have imagined that on just the second day of the conference I would bear witness to the silencing of black gay men's voices\u00a0...",
+                "htmlSnippet": "Aug 2, 2018 <b>...</b> &quot;I never would have imagined that on just the second day of the conference I would bear witness to the silencing of black gay men&#39;s voices&nbsp;...",
+                "formattedUrl": "https://www.thebody.com/.../why-elton-john-owes-black-people-an-apolog...",
+                "htmlFormattedUrl": "https://www.thebody.com/.../why-<b>elton</b>-<b>john</b>-owes-black-people-an-apolog...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnHq3CRsvtyyYcWdLO9OAq50E3pLa3nB6MMaUMZbcN60sMCShlKmg3mlZ&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://images.ctfassets.net/rufp5n9kfzfi/tbart_featured_tb_81198_image_image/ac325d7cc952ceeecdf579ba914f119d/elton-john_600px.jpg",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Why Elton John Owes Black People an Apology After AIDS 2018 Remarks",
+                            "og:type": "website",
+                            "twitter:url": "https://www.thebody.com/article/why-elton-john-owes-black-people-an-apology-after-",
+                            "og:title": "Why Elton John Owes Black People an Apology After AIDS 2018 Remarks",
+                            "og:description": "\"I never would have imagined that on just the second day of the conference I would bear witness to the silencing of black gay men's voices and an affront to the experiences of black people across the diaspora -- perpetrated by none other than Elton John and his foundation,\" Cheriko Boone writes....",
+                            "og:video:width": "640",
+                            "twitter:image": "https://images.ctfassets.net/rufp5n9kfzfi/tbart_featured_tb_81198_image_image/ac325d7cc952ceeecdf579ba914f119d/elton-john_600px.jpg?fm=webp&q=50&w=1200&h=600&fit=thumb",
+                            "next-head-count": "34",
+                            "twitter:site": "TB",
+                            "article:modified_time": "2018-08-02T07:00:00.000Z",
+                            "og:video": "https://content.jwplatform.com/videos/aynRngAK-g9vYiogK.mp4",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:player:stream": "https://cdn.jwplayer.com/videos/aynRngAK-640.mp4",
+                            "twitter:description": "\"I never would have imagined that on just the second day of the conference I would bear witness to the silencing of black gay men's voices and an affront to the experiences of black people across the diaspora -- perpetrated by none other than Elton J...",
+                            "og:video:height": "360",
+                            "og:url": "https://www.thebody.com/article/why-elton-john-owes-black-people-an-apology-after-"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "duration": "PT1M57.12S",
+                            "contenturl": "https://content.jwplatform.com/videos/aynRngAK-g9vYiogK.mp4",
+                            "uploaddate": "2018-08-02T12:19:03-0400",
+                            "name": "Elton John at AIDS 2018 in Amsterdam, the Netherlands",
+                            "thumbnailurl": "https://content.jwplatform.com/thumbs/aynRngAK-182.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://images.ctfassets.net/rufp5n9kfzfi/tbart_featured_tb_81198_image_image/ac325d7cc952ceeecdf579ba914f119d/elton-john_600px.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nElton John at AIDS 2018 in Amsterdam, the Netherlands International AIDS Society/Marten van Dijl\nLike , I am just off the heels of attending the 22nd AIDS 2018 conference hosted by the International AIDS Society in Amsterdam. As I arrived at Schiphol airport, donning a \"Silence=Death\" t-shirt in homage to ACT UP and ready to experience all that the conference and Amsterdam had to offer, I never would have imagined that on just the second day of the conference I would bear witness to the silencing of black gay men's voices and an affront to the experiences of black people across the diaspora -- perpetrated by none other than Elton John and his foundation.\nWith the honor of attending such an important meeting comes not only accountability to the communities from which we hail as conference delegates, but also a responsibility to ensure that individuals speaking to our communities' issues do so respectfully and with the cultural humility it behooves any of us to model whenever occupying a critical world stage. Thus, I would be remiss not to shine a light on Elton John's problematic remarks during a session focused on combating worldwide HIV- and LGBTQIA-related stigma, in which he patronizingly admonished black people for not loving each other enough, and in which he called out black American celebrities for allegedly not doing enough to fight stigma globally among black communities.\nA Focus on Key Populations\n--------------------------\nThe session was organized by the Elton John AIDS Foundation (EJAF) and was intended, or so it initially seemed, to highlight the perilous circumstances that black people in Africa live under due to HIV- and LGBTQIA-related stigma. As we saw in a series of powerful photographs from , and as we learned from numerous art exhibits and educational booths at the AIDS 2018 Global Village, for many LGBTQIA African people and other socially marginalized groups across...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Body is a credible source of information focusing on HIV/AIDS and LGBTQ+ health issues. The site is generally well-regarded for its content, which is often reviewed by healthcare professionals. It provides accurate and pertinent information, especially within its specialized focus, making it a valuable resource for health-related topics concerning the LGBTQ+ community. It may not have the breadth of coverage or recognition compared to major news outlets, but it maintains a strong focus on factual reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2018-08-02"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses Elton John's broader history and activism but does not provide information relevant to his decision to stop performing in the U.S. or explicitly link any current statements to anti-LGBTQ+ legislation."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Elton John: 'They wanted to tone down the sex and drugs. But I ...",
+                "htmlTitle": "<b>Elton John</b>: &#39;They wanted to tone down the sex and drugs. But I ...",
+                "link": "https://www.theguardian.com/global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman",
+                "displayLink": "www.theguardian.com",
+                "snippet": "May 26, 2019 ... The trans woman was Amanda Lepore, a model, singer and performance artist. She had sparks flying out of her vagina because she was starring in\u00a0...",
+                "htmlSnippet": "May 26, 2019 <b>...</b> The trans woman was Amanda Lepore, a model, singer and performance artist. She had sparks flying out of her vagina because she was starring in&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../elton-john-in-my-own-words-exclusive-m...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../<b>elton</b>-<b>john</b>-in-my-own-words-exclusive-m...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEBSTdzg1y321KgD0vQDeB3PKgfnPyZ9Czp0BAXOgPqOtnaZMaft1sWt0c&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/41977eef3a48fff6707e501c019a54bdb7d41a41/9_69_7324_4395/master/7324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTkucG5n&enable=upscale&s=c7a282744e03a70bb79528157410b422",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2019-05-26T07:00:10.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "In this exclusive article, Elton John writes about his extraordinary life and why he finally decided to give the Rocketman biopic the green light",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/41977eef3a48fff6707e501c019a54bdb7d41a41/9_69_7324_4395/master/7324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTkucG5n&s=3d9eae3e1cb8b135e4e68b393b6b6b0a",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2019-05-29T01:06:06.000Z",
+                            "og:type": "article",
+                            "article:section": "Global",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Elton John: 'They wanted to tone down the sex and drugs. But I haven\u2019t led a PG-13 life'",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/eltonjohn",
+                            "article:tag": "Elton John,Rocketman,David Furnish,Film,Culture,Music",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "http://www.theguardian.com/global/2019/may/26/elton-john-in-my-own-words-exclusive-my-life-and-making-rocketman",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/41977eef3a48fff6707e501c019a54bdb7d41a41/9_69_7324_4395/master/7324.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tYWdlLTIwMTkucG5n&enable=upscale&s=c7a282744e03a70bb79528157410b422"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... in the RAF so he was away from home a lot, and when he got back, he tried to impose new rules about everything: how I ate, how I dressed. That would set Mum off. I got the feeling they were staying together because of me, which just made things more miserable. The best way to escape it was to shut myself in my bedroom with my record collection and my comics, and drift off into an imaginary world, fantasising that I was  or  or . I made my peace with it all years ago. They divorced when I was 13, both remarried, which I was happy about, although my relationship with both of them was always tricky. I was closer to Mum than Dad, but there were long periods when we didn\u2019t speak. And my childhood is one thing I\u2019m still sensitive about.\nEven if I hadn\u2019t been, the whole experience of watching someone else pretend to be you on screen, of seeing things you remember happening again in front of your eyes, is a very weird, disconcerting one, like having an incredibly vivid dream. And the story of how I ended up in a cinema, crying my eyes out at the sight of my family 60 years ago, is a long and convoluted one. And it begins, naturally enough, with a naked transgender woman with sparks flying out of her vagina.\nThe trans woman was Amanda Lepore, a model, singer and performance artist. She had sparks flying out of her vagina because she was starring in one of a series of films by  I\u2019d commissioned for my show in Las Vegas, __ in 2004. That was his interpretation of the lyrics of Someone Saved My Life Tonight, a song Bernie and I had written about our pre-fame years, living in a flat in north London with a woman I\u2019d foolishly got engaged to when I was still very confused about my sexuality.\nAn actor was dressed as me in full 70s stage outfit sticking his head in a gas oven, homoerotic angels figure-skating with giant teddy bears and Amanda Lepore, naked, in an electric chair, with sparks flying out of her vagina. I loved it: I\u2019d said all along I didn\u2019t want a standard Vegas show, and no one was ever going to be able to call _The Red Piano_ that.\n!\n\u2018I told Rod Stewart to turn the role down\u2019: Elton John in rock opera movie Tommy (1975). Photograph: Michael Ochs Archives/Getty Images\nBut it also got me thinking....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Guardian is a well-respected and established British newspaper with a strong reputation for quality journalism. It has won numerous awards for its investigative reporting and provides in-depth coverage of social issues. Its reputation for accuracy is bolstered by editorial standards that emphasize fact-checking and accountability. However, like any major publication, it has faced occasional critiques regarding bias, which is why it does not receive a perfect score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-05-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article does not address the current situation regarding Elton John's performances or his comments on the U.S. LGBTQ+ rights landscape. It is mostly historical in nature and does not correlate to the claim."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Anyone who thinks Eminem is \"going after\" lgbtq people or the ...",
+                "htmlTitle": "Anyone who thinks Eminem is &quot;going after&quot; <b>lgbtq</b> people or the ...",
+                "link": "https://www.reddit.com/r/Eminem/comments/1d58glh/anyone_who_thinks_eminem_is_going_after_lgbtq/",
+                "displayLink": "www.reddit.com",
+                "snippet": "May 31, 2024 ... Also, keep in mind one of the major anti-trans jokes around this album cycle was Dave Chapelle's line that Caitlyn Jenner being Woman Of The\u00a0...",
+                "htmlSnippet": "May 31, 2024 <b>...</b> Also, keep in mind one of the major <b>anti</b>-trans jokes around this album cycle was Dave Chapelle&#39;s line that Caitlyn Jenner being Woman Of The&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../anyone_who_thinks_eminem_is_going_after_lg...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../anyone_who_thinks_eminem_is_going_after_lg...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/1d58glh",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/Eminem on Reddit: Anyone who thinks Eminem is \"going after\" lgbtq people or the \"woke mob\" is missing the point of the song lmao",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/Eminem on Reddit: Anyone who thinks Eminem is \"going after\" lgbtq people or the \"woke mob\" is missing the point of the song lmao",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Creative-Oil2029 - 806 votes and 291 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/1d58glh",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/Eminem/comments/1d58glh/anyone_who_thinks_eminem_is_going_after_lgbtq/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/1d58glh"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Reddit is a social media platform where users can share content and discuss various topics. Its reliability varies greatly since it is user-generated content and can include misinformation. While many subreddits focus on factual discussions and fact-checking, the platform lacks stringent editorial oversight. Therefore, while it can be a source for public sentiment and informal discourse, it cannot be consistently trusted as a credible news source."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-05-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence is not relevant as it discusses Eminem and LGBTQ+ topics without any mention of Elton John's performances or statements regarding anti-LGBTQ+ legislation."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "'Choose life': a short history - Overland literary journal",
+                "htmlTitle": "&#39;Choose life&#39;: a short history - Overland literary journal",
+                "link": "https://overland.org.au/2017/02/choose-life-a-short-history/",
+                "displayLink": "overland.org.au",
+                "snippet": "Feb 6, 2017 ... For a lot of people, 1984 actually meant death. Ronald Reagan had been President of the United States for three years and Margaret Thatcher had\u00a0...",
+                "htmlSnippet": "Feb 6, 2017 <b>...</b> For a lot of people, 1984 actually meant death. Ronald Reagan had been President of the United States for three years and Margaret Thatcher had&nbsp;...",
+                "formattedUrl": "https://overland.org.au/2017/02/choose-life-a-short-history/",
+                "htmlFormattedUrl": "https://overland.org.au/2017/02/choose-life-a-short-history/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXaBJwTrr7ltIe03TBmNCvzrATg-OzIiu3dP7ONLI-57JFF49ipNuaINsu&s",
+                            "width": "281",
+                            "height": "179"
+                        }
+                    ],
+                    "BreadcrumbList": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://overland.org.au/wp-content/uploads/Hamnett-Slogans-1983.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2017-02-06T00:20:08+00:00",
+                            "og:image:width": "582",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Overland literary journal",
+                            "author": "Kate Davison",
+                            "og:title": "\u2018Choose life\u2019: a short history - Overland literary journal",
+                            "og:image:height": "372",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "1984 was the time of radical deregulation, \u2018trickle down\u2019 economics, extreme tax breaks for the rich and a freeze on wages. This was the year Margaret Thatcher identified trade union leaders as \u2018the enemy within\u2019. In March that year British miners went on strike and for the next 12 months, Thatcher's government would deploy brutal state force to eventually break them, achieving a major victory for the neoliberal economic agenda.",
+                            "twitter:creator": "@overlandjournal",
+                            "article:publisher": "https://facebook.com/overland",
+                            "twitter:data1": "Kate Davison",
+                            "url": "https://overland.org.au/2017/02/choose-life-a-short-history/",
+                            "twitter:data2": "11 minutes",
+                            "twitter:site": "@overlandjournal",
+                            "article:modified_time": "2019-05-01T03:05:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "og:locale": "en_US",
+                            "position": "1",
+                            "og:url": "https://overland.org.au/2017/02/choose-life-a-short-history/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://overland.org.au/wp-content/uploads/Hamnett-Slogans-1983.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a proud selfie in my commemorative fashion garment, which I had immediately adorned with a pink triangle pin (in remembrance of homosexual victims of the Nazi regime). In the photo, taken at Midsumma Festival, I beam smugly at the clever triple-layered statement I\u2019m making: GAY on GAY on (a) GAY. In my mind, George\u2019s t-shirt had always been associated with the campaign against AIDS.\n]\nWhat was my friend on about?\nI was six years old when \u2018Wake Me Up Before You Go Go\u2019 came out. I didn\u2019t realise at the time, but it was an historic year in late twentieth-century politics. I was instead starstruck by the soundtrack: Boy George, Stevie Wonder, Prince, Cyndi, MJ, Tina, Madonna, Bruce and the Bronski Beat. Wham!\u2019s video was an explosion of upbeat peppy happy glitter YAY! The t-shirt was also worn by members of Queen, both in film clips and on stage.\nThese pop icons were pro-gay, pro-women, pro-Black. I could hardly believe they were rabid \u2018pro-life\u2019 anti-abortionists. Yet my friend made me wonder: what was behind the t-shirt\u2019s gleeful allcaps petition?\nFor a lot of people, 1984 actually meant death. Ronald Reagan had been President of the United States for three years and Margaret Thatcher had been Prime Minister of Britain for five. As leaders of the free world, they were choosing death for millions.\n1984 was the year , or \u2018Global Gag Rule\u2019. Reinvigorated by Donald Trump on his first day in office,  between A) accepting US family planning funds but being prohibited from providing abortion counselling, referrals or advocacy, let alone actual abortions (except in cases of rape, incest and life endangerment), or B) refusing US funds and finding an alternative.\nBetween 1979 and 1986, Reagan and Thatcher cemented their \u2018special relationship\u2019, pushing hard for increased nuclear weapons and escalating the Cold War. It was a time of boosting Western hegemony through arms manufacturing and deployment.\nIn 1984 the US government, supported by Thatcher in West Germany as NATO tried to regain its lead in the arms race against the USSR. The four years from 1981\u20131985 saw a whopping 40% increase in US defence spending. From November 1983, the US was permitted to station 160 cruise missiles on British territory. Under Thatcher, the UK purchased the Trident nuclear missile submarine system and tripled its nuclear forces.\n1984 was...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Overland is an Australian literary journal that publishes essays, fiction, and criticism, often with a focus on social justice issues. While it might not be a traditional news outlet, its editorial team tends to prioritize quality writing and thought-provoking content. However, its focus may sometimes lead to bias in favor of progressive viewpoints, which could affect the perception of objectivity."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-02-06"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence provides historical context about 1984 and political issues; however, it does not relate directly to Elton John's current statements or decisions regarding performing in the U.S."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Elton John Warns of 'Growing Swell of Anger and Homophobia' in U.S.",
+                "htmlTitle": "<b>Elton John</b> Warns of &#39;Growing Swell of Anger and Homophobia&#39; in <b>U.S.</b>",
+                "link": "https://www.nytimes.com/2023/06/20/arts/music/elton-john-lgbtq-rights.html",
+                "displayLink": "www.nytimes.com",
+                "snippet": "Jun 20, 2023 ... We seem to be going backwards,\u201d the pop superstar warned as he lamented the curtailing of L.G.B.T.Q. rights in the United States,\u00a0...",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> We seem to be going backwards,\u201d the pop superstar warned as he lamented the curtailing of <b>L.G.B.T.Q.</b> rights in the United States,&nbsp;...",
+                "formattedUrl": "https://www.nytimes.com/2023/06/20/arts/.../elton-john-lgbtq-rights.html",
+                "htmlFormattedUrl": "https://www.nytimes.com/2023/06/20/arts/.../<b>elton</b>-<b>john</b>-lgbtq-rights.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DVwaKjIAbe5_3bauSsMJ8YIMTHIZT-6uuYLjLr_ehrcJkp1mcy5tCCH6&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static01.nyt.com/images/2023/06/22/arts/20elton-john-item/20elton-john-item-facebookJumbo.jpg?year=2023&h=550&w=1050&s=d87297496ae2a253b5308a8afbd892d69eebe87910c4ea1dcfabba0f51ea1359&k=ZQJBKqZ0VN",
+                            "nyt_uri": "nyt://article/141771de-6e31-54b4-9a66-67df3c18f002",
+                            "twitter:app:id:googleplay": "com.nytimes.android",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-20T17:29:55.000Z",
+                            "pt": "article",
+                            "twitter:url": "https://www.nytimes.com/2023/06/20/arts/music/elton-john-lgbtq-rights.html",
+                            "pdate": "20230620",
+                            "articleid": "100000008959946",
+                            "al:android:package": "com.nytimes.android",
+                            "twitter:app:name:googleplay": "NYTimes",
+                            "og:description": "\u201cWe seem to be going backwards,\u201d the pop superstar warned as he lamented the curtailing of L.G.B.T.Q. rights in the United States, particularly in Florida.",
+                            "twitter:image": "https://static01.nyt.com/images/2023/06/22/arts/20elton-john-item/20elton-john-item-videoSixteenByNine3000.jpg?year=2023&h=1687&w=3000&s=561967a4e7d275815a13270f30a72fcb1ed5763bcca77a701ba5df000a2174e7&k=ZQJBKqZ0VN&tw=1",
+                            "pst": "News",
+                            "twitter:image:alt": "Elton John, who is finishing his farewell tour, described several laws recently passed in Florida as \u201cdisgraceful.\u201d",
+                            "article:modified_time": "2023-06-20T17:29:55.000Z",
+                            "news_keywords": "Legislation,Elton John,US,Britain,Human Rights,Pop Rock Music,US Politics,Gay and Lesbian;LGBT;LGBTQ;Gay;Lesbian,Discrimination,Transgender",
+                            "scg": "music",
+                            "article:content_tier": "metered",
+                            "msapplication-starturl": "https://www.nytimes.com",
+                            "image": "https://static01.nyt.com/images/2023/06/22/arts/20elton-john-item/20elton-john-item-facebookJumbo.jpg?year=2023&h=550&w=1050&s=d87297496ae2a253b5308a8afbd892d69eebe87910c4ea1dcfabba0f51ea1359&k=ZQJBKqZ0VN",
+                            "og:type": "article",
+                            "og:image:alt": "Elton John, who is finishing his farewell tour, described several laws recently passed in Florida as \u201cdisgraceful.\u201d",
+                            "twitter:title": "Elton John Warns of \u2018Growing Swell of Anger and Homophobia\u2019 in U.S. (Published 2023)",
+                            "article:section": "Arts",
+                            "cg": "arts",
+                            "pubp_event_id": "pubp://event/bdbd4996a4f44994a58e9b5bbe26d23c",
+                            "og:title": "Elton John Warns of \u2018Growing Swell of Anger and Homophobia\u2019 in U.S. (Published 2023)",
+                            "cn": "pop-culture",
+                            "url": "https://www.nytimes.com/2023/06/20/arts/music/elton-john-lgbtq-rights.html",
+                            "article:tag": "Law and Legislation",
+                            "al:iphone:url": "nytimes://www.nytimes.com/2023/06/20/arts/music/elton-john-lgbtq-rights.html",
+                            "al:android:url": "nyt://article/141771de-6e31-54b4-9a66-67df3c18f002",
+                            "ct": "spotlight",
+                            "twitter:app:url:googleplay": "nyt://article/141771de-6e31-54b4-9a66-67df3c18f002",
+                            "byl": "By Maya Salam",
+                            "twitter:description": "\u201cWe seem to be going backwards,\u201d the pop superstar warned as he lamented the curtailing of L.G.B.T.Q. rights in the United States, particularly in Florida.",
+                            "al:iphone:app_store_id": "284862083",
+                            "og:url": "https://www.nytimes.com/2023/06/20/arts/music/elton-john-lgbtq-rights.html",
+                            "al:android:app_name": "NYTimes",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static01.nyt.com/images/2023/06/22/arts/20elton-john-item/20elton-john-item-facebookJumbo.jpg?year=2023&h=550&w=1050&s=d87297496ae2a253b5308a8afbd892d69eebe87910c4ea1dcfabba0f51ea1359&k=ZQJBKqZ0VN"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Advertisement\n\u201cWe seem to be going backwards,\u201d the pop superstar warned as he lamented the curtailing of L.G.B.T.Q. rights in the United States, particularly in Florida.\n!\nElton John, who is finishing his farewell tour, described several laws recently passed in Florida as \u201cdisgraceful.\u201dCredit...Cameron Smith/Getty Images\nThe British pop superstar Elton John lamented the \u201cgrowing swell of anger and homophobia\u201d in the United States and described several  that curtail L.G.B.T.Q. rights as \u201cdisgraceful.\u201d\n\u201cIt\u2019s all going pear-shaped in America,\u201d John, a longtime leader for gay rights and visibility, said in an interview published Tuesday in , in which he pointed to a  and recent legislation curtailing rights. \u201cWe seem to be going backwards. And that spreads. It\u2019s like a virus that the L.G.B.T.Q.+ movement is suffering.\u201d\nMore  have been introduced in over 40 states this year, a record, according to the Human Rights Campaign, an L.G.B.T.Q. advocacy group.\n\u201cI don\u2019t like it at all,\u201d John said, referring to the increasingly hostile climate. \u201cIt\u2019s a growing swell of anger and homophobia that\u2019s around America.\u201d\nJohn, 76, will , Britain\u2019s biggest music festival, on Sunday, as his lengthy final tour, Farewell Yellow Brick Road, heads toward its...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The New York Times is a globally respected news organization known for its comprehensive journalism. It has a long history of investigative reporting and tends to correct errors swiftly when they occur. Although some criticize it for perceived bias, its editorial standards and commitment to fact-based reporting provide a high level of credibility, thus justifying a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence directly quotes Elton John expressing his displeasure about the growing homophobia and anti-LGBTQ+ legislation in the U.S. It also mentions his perception of the general climate, which supports the claim regarding his decision to stop performing in the U.S."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "DAVID FURNISH: THE HITS INTERVIEW : HITS Daily Double",
+                "htmlTitle": "DAVID FURNISH: THE HITS INTERVIEW : HITS Daily Double",
+                "link": "https://hitsdailydouble.com/news&id=336247&title=DAVID-FURNISH:-THE-HITS-INTERVIEW",
+                "displayLink": "hitsdailydouble.com",
+                "snippet": "Jun 9, 2023 ... That's the best thing. At the end of the U.S. tour at Dodger Stadium, coming back to where he had been in 1975, you and\u00a0...",
+                "htmlSnippet": "Jun 9, 2023 <b>...</b> That&#39;s the best thing. At the end of the <b>U.S.</b> tour at Dodger Stadium, coming back to where he had been in 1975, you and&nbsp;...",
+                "formattedUrl": "https://hitsdailydouble.com/news&id=336247&title=DAVID-FURNISH:-T...",
+                "htmlFormattedUrl": "https://hitsdailydouble.com/news&amp;id=336247&amp;title=DAVID-FURNISH:-T...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPfGAWasUng5iU_70aMLQQmZoSi83XfcuqF6Y4OVRPNT6LBA4QnMnSArUD&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_1606639638.jpg",
+                            "twitter:title": "DAVID FURNISH: THE HITS INTERVIEW : HITS Daily Double",
+                            "og:type": "news",
+                            "og:site_name": "HITS Daily Double",
+                            "viewport": "width=480",
+                            "twitter:description": "October 1975. My beloved Dodgers had failed to make it to the Fall Classic, but somehow there I was, a 19-year-old closeted UCLA sophomore, standing on the hallowed centerfield grass of Chavez Ravine.",
+                            "author": "David Bender",
+                            "og:title": "DAVID FURNISH: THE HITS INTERVIEW : HITS Daily Double",
+                            "abstract": "For our Pride Special, David Furnish\u00a0gets personal with\u00a0David Bender and discusses Elton John's final tour coming to an end,\u00a0his documentary with R.J. Cutler, activism,\u00a0music and more.",
+                            "og:url": "https://hitsdailydouble.com/news&id=336247&title=DAVID-FURNISH:-THE-HITS-INTERVIEW",
+                            "og:updated_time": "2023-06-14T12:58:51+05:00",
+                            "og:description": "October 1975. My beloved Dodgers had failed to make it to the Fall Classic, but somehow there I was, a 19-year-old closeted UCLA sophomore, standing on the hallowed centerfield grass of Chavez Ravine."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://memberdata.s3.amazonaws.com/hi/hitsdd/photos/hitsdd_photo_gal__photo_1606639638.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...ton was, \u201cI want to go out on an artistic high. I want to go out and give my fans a great show and a great experience.\u201d Elton is playing and singing better than he ever has, and he\u2019s incredibly happy. That\u2019s the magic sweet spot. It says a lot about Elton and his band and a lot about what our ultimate goals were.\nThis tour\u2019s had to stop and start. It should have been finished a year ago, last November, when Elton was 74; now he\u2019s 76. The fact is that he and his band have been able to keep up and build this extraordinary momentum, and the fans are just leaning in so enthusiastically and so gratefully. Here we are towards the end of the tour, and as Elton says, \u201cWe\u2019re playing and singing even better.\u201d So financial success is great, but sometimes these things go the other way and you\u2019re like, \u201cOh, this is really dragging on. And everyone is getting tired.\u201d But that\u2019s not the case at all. And that\u2019s the thing that I feel happiest about because this has been the most dominant thing in Elton\u2019s life for more than 60 years as a working musician. He\u2019s having a ball and his fans are, too. That\u2019s the best thing.\n**!**\n**At the end of the U.S. tour at Dodger Stadium, coming back to where he had been in 1975, you and your boys came out on stage with him. That was a very public message about your family, which was an important part of this. It wasn\u2019t proselytizing; it was making a statement. Can you talk about that experience?**\nWell, it\u2019s an important component in the mix of the success of the tour and where Elton is as an artist. The word I used is \\ he\u2019s the _happiest_ he\u2019s ever been. Not only is his voice open, but his whole _soul_ is open, because he\u2019s getting so much love and joy from his family in addition to his craft as a performing artist. We\u2019ve never been big placard-wavers, but we\u2019ve always tried to live our life just being who we are and with visibility.\n!\\ was an important milestone in Elton\u2019s life. It is the city where he broke out and became Elton John. The transformation from \\ **Reg Dwight** to Elton John was solidified and signed at the **Troubadour** because of the wonderful performance and the **Robert Hilburn** review.\nThat city is also where both our sons were born. They were both delivered at **Cedars Sinai...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Hits Daily Double is primarily a music industry site focused on chart statistics and industry news, often aimed at music professionals. Its content tends to be less rigorous in terms of journalistic standards compared to traditional news outlets and can lean toward industry gossip rather than fact-based reporting. As such, while it is useful within its niche, it does not have high credibility regarding accuracy in broader social issues."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "While this article contextualizes Elton John's current feelings about his tour and family, it does not address anti-LGBTQ+ legislation or explicitly state a reason related to such legislation for his changes regarding performing in the U.S."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Having it Both Ways: Interviews with Tom Robinson",
+                "htmlTitle": "Having it Both Ways: Interviews with Tom Robinson",
+                "link": "https://noise.thehardtimes.net/2020/01/26/having-it-both-ways-interviews-with-tom-robinson/",
+                "displayLink": "noise.thehardtimes.net",
+                "snippet": "Jan 26, 2020 ... Tom Robinson, singer-bassist-main songwriter for the Tom Robinson Band, was something else entirely. He wrote \u201cGlad to Be Gay,\u201d on the 1978 EP\u00a0...",
+                "htmlSnippet": "Jan 26, 2020 <b>...</b> Tom Robinson, singer-bassist-main songwriter for the Tom Robinson Band, was something else entirely. He wrote \u201cGlad to Be Gay,\u201d on the 1978 EP&nbsp;...",
+                "formattedUrl": "https://noise.thehardtimes.net/.../having-it-both-ways-interviews-with-tom-r...",
+                "htmlFormattedUrl": "https://noise.thehardtimes.net/.../having-it-both-ways-interviews-with-tom-r...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7kT33dVwoOg8UDuOwRDKOt5XQi72IWoaEdTB9IaBCWcBVzTOYgZvDR-0&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "Mission News 1.38",
+                            "og:image": "https://noise.thehardtimes.net/wp-content/uploads/2020/01/tom-robinsonheader.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2020-01-26T19:00:43+00:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Hard Noise",
+                            "og:title": "Having it Both Ways: Interviews with Tom Robinson",
+                            "og:image:height": "630",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://noise.thehardtimes.net/wp-content/uploads/2019/04/cropped-favicon-270x270.png",
+                            "og:description": "Late last year, I went down into my basement, as one does, looking around for some forgotten something or other. I came across a few boxes\u2026",
+                            "article:publisher": "https://www.facebook.com/hardnoiseblog",
+                            "twitter:data1": "Jim Sullivan",
+                            "twitter:data2": "12 minutes",
+                            "article:modified_time": "2020-01-26T19:29:00+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://noise.thehardtimes.net/2020/01/26/having-it-both-ways-interviews-with-tom-robinson/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://noise.thehardtimes.net/wp-content/uploads/2020/01/tom-robinsonheader.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...TEX? I thought not). I began writing about rock \u2018n\u2019 roll in 1976 for a plethora of outlets, but mostly for the Boston Globe, 26 years through 2005. Parts of what follows originally appeared in a long-gone newsprint monthly magazine in Boston called_ Sweet Potato_._\nThere were gay rockers in the 1970s, of course. But those were different times.\nEveryone in Elton John\u2019s inner circle knew\u2014the public not so much, until the Rolling Stone reveal. Freddie Mercury, same deal, although the physical clues were hard to miss. David Bowie and Lou Reed certainly flirted with the imagery and appeared at least to be bisexual.\n]\nJudas Priest\u2019s Rob Halford? Everything about the band\u2019s lyrics, album cover art work and Halford\u2019s appearance screamed GAY: a sailor\u2019s cap with chains on it, leather pants, leather jacket, bare chest, studded wristband and toting a whip on stage. But the band denied it for years. I was talking to guitarist Glenn Tipton on the phone in 1988 and asked about it. (Yes, it was posed at the end of an interview.) He figuratively hit the roof, yelled at me for the temerity of asking, denied it and stopped the interview. Halford came out ten years later.\nTom Robinson, singer-bassist-main songwriter for the Tom Robinson Band, was something else entirely. He wrote \u201cGlad to Be Gay,\u201d on the 1978 EP _Rising Free_ (in the UK) and it was included on their US debut LP _Power in the Darkness_. It was the first explicitly gay anthem on the punk/new wave radar. And, yes, it was radical back then.\nRobinson approached the topic as a bittersweet celebration, something of both a dirge and a wry music hall singalong. It was about the apparent \u201cacceptability\u201d of homosexuality in Britain as it conflicted with the real-life consequences and prejudices (For what it\u2019s worth, the three other guys in the band were straight, but politically on the same team).\nWhile that is certainly the song the TRB is best remembered for, gay life/rights was just a sliver of their activist-oriented rock. And, it wasn\u2019t all activism either. Their first UK hit, \u201c2-4-6-8 Motorway,\u201d was a Slade-like stomper, an out-and-out celebration of life behind the wheel, as much so as anything Bruce Springsteen had written. I only found out years...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "The Hard Times is a satirical website that covers punk culture and general satire. While it can provide humorous and entertaining content, readers should not consider it a reliable source for factual information. The satirical nature of the site limits its applicability in serious news contexts, thus earning a low quality score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-01-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence does not discuss Elton John or his statements related to performing in the U.S. and is entirely unrelated to the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Elton John Warns LGBTQ+ Rights Are 'Going Backwards' in the U.S.",
+                "htmlTitle": "<b>Elton John</b> Warns LGBTQ+ Rights Are &#39;Going Backwards&#39; in the <b>U.S.</b>",
+                "link": "https://www.advocate.com/people/elton-john-lgbtq-rights-backwards",
+                "displayLink": "www.advocate.com",
+                "snippet": "Jun 20, 2023 ... The legendary gay singer says he won't be doing any more concert residencies in the States.",
+                "htmlSnippet": "Jun 20, 2023 <b>...</b> The legendary gay singer says he won&#39;t be doing any more concert residencies in the States.",
+                "formattedUrl": "https://www.advocate.com/people/elton-john-lgbtq-rights-backwards",
+                "htmlFormattedUrl": "https://www.advocate.com/people/<b>elton</b>-<b>john</b>-lgbtq-rights-backwards",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmpKJPjT3KMgVa1BE-oIPMFLU2wKoo1dYelNJSlhD2cVarOeJ85mKk3krn&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.advocate.com/media-library/elton-john.jpg?id=34149028&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "article:section": "People",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-06-20T16:32:28+00:00",
+                            "twitter:site:id": "21692297",
+                            "og:site_name": "Advocate.com",
+                            "og:title": "Elton John Warns LGBTQ+ Rights Are 'Going Backwards' in the U.S.",
+                            "og:image:height": "600",
+                            "og:description": "The legendary gay singer says he won't be doing any more concert residencies in the States.",
+                            "fb:pages": "6030918854",
+                            "twitter:image": "https://www.advocate.com/media-library/elton-john.jpg?id=34149028&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+                            "article:author": "https://www.facebook.com/6030918854",
+                            "referrer": "always",
+                            "fb:app_id": "856705918887448",
+                            "twitter:site": "@TheAdvocateMag",
+                            "article:modified_time": "2023-06-20T16:32:28+00:00",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0",
+                            "og:url": "https://www.advocate.com/people/elton-john-lgbtq-rights-backwards",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.advocate.com/media-library/elton-john.jpg?id=34149028&width=1200&height=600&coordinates=0%2C39%2C0%2C39"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Elton John Warns LGBTQ+ Rights Are 'Going Backwards' in the U.S.\n===============\n\u00a9 2024 Pride Publishing Inc.  \nAll Rights reserved\nStay informed on important LGBTQ+ news.Sign up for our email newsletter.\nEnter Your Email \\*\n*   Advocate Newsletter\nsign me up!\n!\nSubscribe To  \nOUT MAGAZINE\n \\>  \\>\n \u2022 \n(blob:https://www.advocate.com/b50fe174c78a286f0ac81e34bc1ea26b)!(blob:https://www.advocate.com/e212e1ccdd0db4e971ee79099d2183e3)]\nSearch form\n-----------\nSearch \nTRENDING\nScroll To Top\nBy continuing to use our site, you agree to our  and .\nElton John Warns LGBTQ+ Rights Are 'Going Backwards' in the U.S.\nElton John Warns LGBTQ+ Rights Are 'Going Backwards' in the U.S.\n==================================================================\n!\nThe legendary gay singer says he won't be doing any more concert residencies in the States.\n---------------------------------------------------------------------------------------------\nJune 20 2023 12:32 PM EST\nJune 20 2023 12:32 PM EST\n has spoken out against \"disgraceful\" anti-LGBTQ+ legislation being passed in  and across the US.\nThe 76-year-old out singer spoke with  ahead of his headlining concert at Glastonbury Festival, which he claims will be his final U.K. show.\nIn addition to discussing his ongoing Farewell Yellow Brick Road tour, John voiced his displeasure at the state of \\+ rights in the US.\n\u201cIt\u2019s all going pear-shaped in America,\u201d he told the Radio Times. \u201cThere\u2019s violence, \\ laws enacted in Florida which are disgraceful.\"\n\"There\u2019s a law now that, if you visit a doctor in Florida, they can refuse to treat you if you\u2019re gay, which I find just unbelievable,\" John said, referring to the  signed by Florida Gov. Ron DeSantis in May.\n\"We seem to be going backwards,\" he added, \"and that spreads. It\u2019s like a virus that the LGBTQ+ movement is suffering.\"\nFor John, who came out as bisexual in 1976 and gay in 1992, America has become a hotbed of homophobia. \u201cI don\u2019t like it at all,\" he shared. \"It\u2019s...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Advocate is one of the oldest LGBTQ+ publications in the United States and is typically well-researched in reporting LGBTQ+ news, culture, and advocacy. It is known for its responsible journalism within this niche. While it may have an advocacy stance, it generally maintains journalistic integrity and provides its audience with helpful, factual, and engaging content."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This article explicitly details Elton John's statements regarding his refusal to perform in the U.S. and references the specific anti-LGBTQ+ legislation he finds 'disgraceful.' It strongly supports the claim and reinforces the context of his current stance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "23 artists who have spoken out against Donald Trump playing their ...",
+                "htmlTitle": "23 artists who have spoken out <b>against</b> Donald Trump <b>playing</b> their ...",
+                "link": "https://www.businessinsider.com/artists-who-dont-want-trump-using-their-music-2018-11",
+                "displayLink": "www.businessinsider.com",
+                "snippet": "Jan 24, 2024 ... Rihanna reportedly had her team issue cease-and-desist notices to the Trump campaign. Elton John and Adele have spoken about not wanting Trump\u00a0...",
+                "htmlSnippet": "Jan 24, 2024 <b>...</b> Rihanna reportedly had her team issue cease-and-desist notices to the Trump campaign. <b>Elton John</b> and Adele have spoken about not wanting Trump&nbsp;...",
+                "formattedUrl": "https://www.businessinsider.com/artists-who-dont-want-trump-using-their-...",
+                "htmlFormattedUrl": "https://www.businessinsider.com/artists-who-dont-want-trump-using-their-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiExV29_b5f4CNJxiQGagSJsnjOrFb6vKYnO1H5ZYqNZMIlyXXwoKsetsy&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://i.insider.com/570d687752bcd0210c8bc422?width=700",
+                            "credittext": "Reuters/James Glover II"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/65b1318b6c8f0a134f7996cd",
+                            "credittext": "Matthew McNulty/Redferns/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5a30592a7101ad5d9e7ef8a4",
+                            "credittext": "Samir Hussein/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5f8af9759e9fe40019009edc",
+                            "credittext": "Getty Images/Getty Images for Capitol Concerts"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5af30a077708e9659f09f755",
+                            "credittext": "Getty"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5d0cf51f9c51011df7634904",
+                            "credittext": "Jeff Kravitz/FilmMagic for iHeartMedia"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5775325c0aec957b448b4c3c",
+                            "credittext": "Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5b9beae43cccd120008b45ec",
+                            "credittext": "Dimitrios Kambouris/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5ab95a6dce5e901a008b4580",
+                            "credittext": "Mike Segar/Reuters"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9905a48eb1224284558a8",
+                            "credittext": "Mark Mainz/Getty"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be98edd48eb121991634c02",
+                            "credittext": "Jason Merritt/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5a6f64aeec1ade0c2e79af53",
+                            "credittext": "REUTERS/Mike Blake"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/571339ae91058424008bd206",
+                            "credittext": "Ethan Miller/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5b3e59c7c8d6ed1f008b45fa",
+                            "credittext": "Rich Polk/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/53bffa8decad040a3863f3e0",
+                            "credittext": "Reuters"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9a24b48eb1229ba3400f6",
+                            "credittext": "Hulton Archive/Stringer/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9a8df48eb122c095bf7fb",
+                            "credittext": "Gary Gershoff/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9acc948eb122cf62bf732",
+                            "credittext": "David Becker/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9ac7048eb122e68001014",
+                            "credittext": "Jo Hale/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9a26c48eb1229d63cb7d2",
+                            "credittext": "Wikimedia Commons"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9a2a048eb121f86150896",
+                            "credittext": "Getty Images / Stringer"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5bb7c1dd01145513b205dd64",
+                            "credittext": "Warner Bros."
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/5be9987248eb12005b03ecb3",
+                            "credittext": "Michael Loccisano/Getty Images"
+                        },
+                        {
+                            "contenturl": "https://i.insider.com/57b4875cdd089526678b47f0",
+                            "credittext": "Ethan Miller/Getty"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.insider.com/5ef35a4b4dca68604c5d0ec4?width=1200&format=jpeg",
+                            "apple-itunes-app": "app-id=554260576",
+                            "msapplication-config": "/public/assets/BI/US/favicons/browserconfig.xml?v=2023-11",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "sailthru.tags": "Features, Donald Trump, Celebrities, Politics, Music, Freelancer, Tom Petty, Rihanna, Trump rallies, trump rally, Trump, freelancer-le, Jennifer Hussein",
+                            "og:site_name": "Business Insider",
+                            "apple-mobile-web-app-title": "Business Insider",
+                            "title": "23 artists who have spoken out against Donald Trump playing their music at his events",
+                            "og:description": "Here are all the musicians who have spoken out against Donald Trump using their music at his rallies \u2014 including Neil Young. The Smiths, Rihanna,",
+                            "article:publisher": "businessinsider",
+                            "mrf:tags": "sub-section:Politics;",
+                            "datemodified": "2024-01-29T14:10:47Z",
+                            "news_keywords": "Entertainment, Politics, Donald Trump, Celebrities, Politics, Music, Rihanna, Trump",
+                            "sailthru.title": "23 artists who have spoken out against Donald Trump playing their music at his events",
+                            "mrf:sections": "Entertainment",
+                            "datepublished": "2024-01-24T16:04:27Z",
+                            "sailthru.verticals": "entertainment, politics",
+                            "sailthru.date": "2024-01-24",
+                            "og:type": "article",
+                            "author": "Jennifer Hussein",
+                            "tbi-vertical": "Entertainment",
+                            "og:title": "23 artists who have spoken out against Donald Trump playing their music at his events",
+                            "sailthru.image.thumb": "https://i.insider.com/5be9932948eb1226d26c1e63?width=160&format=jpeg",
+                            "fb:pages": "20446254070",
+                            "sailthru.description": "Here are all the musicians who have spoken out against Donald Trump using their music at his rallies \u2014 including Neil Young. The Smiths, Rihanna,",
+                            "linkedin:owner": "mid:1d5f7b",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:url": "https://www.businessinsider.com/artists-who-dont-want-trump-using-their-music-2018-11",
+                            "sailthru.author": "Jennifer Hussein",
+                            "sailthru.image.full": "https://i.insider.com/5be9932948eb1226d26c1e63?width=1200&format=jpeg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.insider.com/5ef35a4b4dca68604c5d0ec4?width=1200&format=jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "23 artists who have spoken out against Donald Trump playing their music at his events\n-------------------------------------------------------------------------------------\nUpdated\n2024-01-24T16:04:27Z\n!\nAngle down icon An icon in the shape of an angle pointing down.\nMany musicians have spoken up about not wanting their music played at Donald Trump's rallies or events. Reuters/James Glover II\n*   Musicians and their families have spoken out against Donald Trump using their music for his events.\u00a0\n*   Rihanna reportedly had her team issue cease-and-desist notices to the Trump campaign.\n*   Elton John and Adele have spoken about not wanting Trump to use their music for his events.\u00a0\nThanks for signing up!\nAccess your favorite topics in a personalized feed while you're on the go.\nBy clicking \u201cSign Up\u201d, you accept our  and . You can opt-out at any time by visiting our Preferences page or by clicking \"unsubscribe\" at the bottom of the email.\n!\nThroughout his , Donald Trump has received disapproval from many musicians who don't want their music played at his events.\nMany artists and their teams have even sent , which are essentially warnings that demand a specific action be stopped or else legal action will be pursued.\nFrom Neil Young to Rihanna, here are the artists \u2014 or their representatives \u2014 who have spoken out against Trump using their music at his events and rallies.\nJohnny Marr of The Smiths posted his displeasure on X.\n------------------------------------------------------\n!(blob:https://www.businessinsider.com/3f711207ef1410619eb8e4b36b1349ed)\nJohnny Marr is a guitarist for The Smiths. Matthew McNulty/Redferns/Getty Images\nTrump has reportedly been playing The Smiths' song \"Please, Please, Please, Let...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Business Insider is a digital media outlet focusing on business news and insights. It has a mixed reputation regarding the accuracy of some sensationalist headlines and quicker, trend-based reporting. While it can provide timely updates and analysis, it does not always uphold rigorous fact-checking standards, which can lead to some misleading headlines."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 0,
+                    "Relevance Justification": "This evidence discusses various artists' responses to Trump using their music, and does not provide any information relevant to Elton John's decision-making regarding performing in the U.S. or his stance on LGBTQ+ issues."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,683 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - misidentification cases marine creatures Antarctica",
+                "totalResults": "6000000",
+                "searchTerms": "misidentification cases marine creatures Antarctica",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - misidentification cases marine creatures Antarctica",
+                "totalResults": "6000000",
+                "searchTerms": "misidentification cases marine creatures Antarctica",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.360626,
+        "formattedSearchTime": "0.36",
+        "totalResults": "6000000",
+        "formattedTotalResults": "6,000,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Observing change in pelagic animals as sampling ... - Frontiers",
+                "htmlTitle": "Observing change in pelagic animals as sampling ... - Frontiers",
+                "link": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1307402/full",
+                "displayLink": "www.frontiersin.org",
+                "snippet": "Understanding and managing the response of marine ecosystems to human pressures including climate change requires reliable large-scale and multi-decadal ...",
+                "htmlSnippet": "Understanding and managing the response of <b>marine</b> ecosystems to human pressures including climate change requires reliable large-scale and multi-decadal&nbsp;...",
+                "formattedUrl": "https://www.frontiersin.org/journals/marine-science/articles/10.../full",
+                "htmlFormattedUrl": "https://www.frontiersin.org/journals/<b>marine</b>-science/articles/10.../full",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "citation_keywords": "Ecosystem monitoring; population change; Antarctic kill; fishery management; New technologies",
+                            "citation_publication_date": "2024/03/08",
+                            "theme-color": "#0C4DED",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Observing change in pelagic animals as sampling methods shift: the case of Antarctic krill",
+                            "citation_author_institution": "Ecosystems Team, British Antarctic Survey, United Kingdom",
+                            "citation_publisher": "Frontiers",
+                            "apple-mobile-web-app-title": "Frontiers | Articles",
+                            "citation_journal_title": "Frontiers in Marine Science",
+                            "title": "Frontiers | Observing change in pelagic animals as sampling methods shift: the case of Antarctic krill",
+                            "type": "article",
+                            "citation_online_date": "2024/02/19",
+                            "citation_issn": "2296-7745",
+                            "citation_language": "English",
+                            "citation_pdf_url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1307402/pdf",
+                            "image": "https://images-provider.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1307402/fmars-11-1307402-HTML/image_m/fmars-11-1307402-g001.jpg",
+                            "citation_journal_abbrev": "Front. Mar. Sci.",
+                            "citation_abstract": "<p>Understanding and managing the response of marine ecosystems to human pressures including climate change requires reliable large-scale and multi-decadal information on the state of key populations. These populations include the pelagic animals that support ecosystem services including carbon export and fisheries. The use of research vessels to collect information using scientific nets and acoustics is being replaced with technologies such as autonomous moorings, gliders, and meta-genetics. Paradoxically, these newer methods sample pelagic populations at ever-smaller spatial scales, and ecological change might go undetected in the time needed to build up large-scale, long time series. These global-scale issues are epitomised by Antarctic krill (<italic>Euphausia superba</italic>), which is concentrated in rapidly warming areas, exports substantial quantities of carbon and supports an expanding fishery, but opinion is divided on how resilient their stocks are to climatic change. Based on a workshop of 137 kr",
+                            "citation_author": "Hill, Simeon L.",
+                            "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1307402/full",
+                            "site_name": "Frontiers",
+                            "citation_firstpage": "1307402",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "citation_doi": "10.3389/fmars.2024.1307402",
+                            "mobile-web-app-capable": "yes",
+                            "citation_volume": "11"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Understanding and managing the response of marine ecosystems to human pressures including climate change requires reliable large-scale and multi-decadal information on the state of key populations. These populations include the pelagic animals that support ecosystem services including carbon export and fisheries. The use of research vessels to collect information using scientific nets and acoustics is being replaced with technologies such as autonomous moorings, gliders, and meta-genetics. Paradoxically, these newer methods sample pelagic populations at ever-smaller spatial scales, and ecological change might go undetected in the time needed to build up large-scale, long time series. These global-scale issues are epitomised by Antarctic krill (Euphausia superba), which is concentrated in rapidly warming areas, exports substantial quantities of carbon and supports an expanding fishery, but opinion is divided on how resilient their stocks are to climatic change. Based on a workshop of 137 krill experts we identify the challenges of observing climate change impacts with shifting sampling methods and suggest three tractable solutions. These are to: improve overlap and calibration of new with traditional methods; improve communication to harmonise, link and scale up the capacity of new but localised sampling programs; and expand opportunities from other research platforms and data sources, including the fishing industry. Contrasting evidence for both change and stability in krill stocks illustrates how the risks of false negative and false positive diagnoses...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Viruses associated with Antarctic wildlife: From serology based ...",
+                "htmlTitle": "Viruses associated with <b>Antarctic wildlife</b>: From serology based ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114543/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "Oct 27, 2017 ... In 1972, about 65% of Adélie penguin chicks were reported dead in a colony near Mawson Station. In this case, penguins were found face down and ...",
+                "htmlSnippet": "Oct 27, 2017 <b>...</b> In 1972, about 65% of Adélie penguin chicks were reported dead in a colony near Mawson Station. In this <b>case</b>, penguins were found face down and&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114543/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114543/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "Elsevier",
+                            "citation_publication_date": "2018/01/01",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Viruses associated with Antarctic wildlife: From serology based detection to identification of genomes using high throughput sequencing",
+                            "citation_author_institution": "The Biodesign Center for Fundamental and Applied Microbiomics, Center for Evolution and Medicine, School of Life Sciences, Arizona State University, Tempe, AZ 85287-5001, USA",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=Microbiome; citation_title=Environmental drivers of viral community composition in Antarctic soils identified by viromics; citation_author=E.M. Adriaenssens; citation_author=R. Kramer; citation_author=M.W. Van Goethem; citation_author=T.P. Makhalanyane; citation_author=I. Hogg; citation_author=D.A. Cowan; citation_volume=5; citation_issue=1; citation_publication_date=2017; citation_firstpage=e83;",
+                            "citation_journal_title": "Virus Research",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC7114543/",
+                            "ncbi_phid": "D0BDF71E91D12AC50000575596899936.1.m_2",
+                            "og:description": "The Antarctic, sub-Antarctic islands and surrounding sea-ice provide a unique environment for the existence of organisms. Nonetheless, birds and seals of a variety of species inhabit them, particularly during their breeding seasons. Early research on ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC7114543/",
+                            "ncbi_app_version": "1.7.0.post5+fa37e81",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "29111456",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Viruses associated with Antarctic wildlife: From serology based detection to identification of genomes using high throughput sequencing",
+                            "citation_author": "Zoe E. Smeele",
+                            "citation_abstract_html_url": "/pmc/articles/PMC7114543/?report=abstract",
+                            "dc.date": "2018 Jan 2",
+                            "dc.contributor": "Zoe E. Smeele",
+                            "citation_firstpage": "91",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.1016/j.virusres.2017.10.017",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Viruses associated with Antarctic wildlife: From serology based detection to identification of genomes using high throughput sequencing",
+                            "ncbi_domain": "pheelsevier",
+                            "dc.identifier": "10.1016/j.virusres.2017.10.017",
+                            "citation_volume": "243",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114543/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...élie (_Pygoscelis adeliae_) and emperor (_Aptenodytes forsteri_) penguins; north of that boundary are three other penguin species: gentoo (_P. papua_), chinstrap (_P. antarctica_) and macaroni (_Eudyptes chrysolophus_) (). While mostly distributed to the north, populations of chinstrap, gentoo and macaroni penguins breed on islands of the northwestern Antarctic Peninsula, overlapping with Adélie penguins. Gentoo penguins are distributed as far as temperate waters surrounding the Falkland Islands, while macaroni penguins mainly colonize Heard and South Georgia islands in proximity to the APF (). Colonies of king penguins (_A. patagonicus_), royal penguins (_E. schlegeli_) and rockhopper penguins (_E. chrysocome_) are found on sub-Antarctic islands and do not inhabit the coastal Antarctic continent. Flying birds inhabiting Antarctica and sub-Antarctic regions include skuas, petrels, terns, gulls and Albatross (, ).\nIn addition to the two penguins endemic to the sea ice zone are the endemic snow (_Pagodroma nivea_) and Antarctic petrels (_Thalassoica antarctica_), this pagophilic community increased only in summer by a few other flighted seabirds: skuas, albatross and a few petrel species. The peri-Antarctic and sub-Antarctic islands, and surrounding ice-free ocean, are densely populated by many more petrel and albatross species, with sparse inclusion of skuas and larid species (, ).\n2. Early reports of mass mortality in Antarctic animals\n-------------------------------------------------------\nDue to its zoogeographical isolation, introduction of pathogens and parasites to these populations of Antarctic wildlife, particularly the endemics of high latitude, may have detrimental effects. Understanding these potential effects required a knowledge of the entities circulating in the ecosystem. This concern drove interest toward detecting viruses, bacteria and parasites among Antarctic animals providing insight to their health. There have been a few reported cases of mass mortality where the disease-causing agent was undetermined. In 1971, several hundred gentoo penguin chicks at a Signey Island colony, South Orkneys, were found dead (). Although symptoms were described as similar to puffinosis coronavirus infection, no isolation of the disease agent was possible (). In 1972, about 65% of Adélie penguin chicks were reported...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "At second glance: The importance of strict quality control – A case ...",
+                "htmlTitle": "At second glance: The importance of strict quality control – A <b>case</b> ...",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0048969724007563",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "Mar 25, 2024 ... ... case study on microplastic in the Southern Ocean key species Antarctic krill, Euphausia superba ... Incidence and identification of microfibers in ...",
+                "htmlSnippet": "Mar 25, 2024 <b>...</b> ... <b>case</b> study on microplastic in the Southern <b>Ocean</b> key <b>species Antarctic</b> krill, Euphausia superba ... Incidence and <b>identification</b> of microfibers in&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S0048969724007563",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S0048969724007563",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErcErKF2G9fQKt7mwfiUIN6AVNAkWusP2a0lehHgWZyB5M6L4aoaeTsY&s",
+                            "width": "362",
+                            "height": "139"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S0048969724007563-ga1.jpg",
+                            "citation_publication_date": "2024/03/25",
+                            "citation_title": "At second glance: The importance of strict quality control – A case study on microplastic in the Southern Ocean key species Antarctic krill, Euphausia superba",
+                            "citation_author_institution": "Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research, Division Shelf Sea System Ecology, Biologische Anstalt Helgoland, Kurpromenade, 27498 Helgoland, Germany",
+                            "citation_reference": "citation_journal_title=Antarctica. Environ. Sci. Pollut. Res.;citation_author=T.M. Absher;citation_author=S.L. Ferreira;citation_author=Y. Kern;citation_author=A.L. Ferreira;citation_author=S.W. Christo;citation_author=R.A. Ando;citation_title=Incidence and identification of microfibers in ocean waters in Admiralty Bay;citation_firstpage=292;citation_lastpage=298;citation_volume=26;citation_publication_date=2019;",
+                            "citation_publisher": "Elsevier",
+                            "citation_article_type": "Full-length article",
+                            "citation_type": "JOUR",
+                            "citation_id": "170618",
+                            "citation_journal_title": "Science of The Total Environment",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"ab0005\" lang=\"en\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"as0005\"><p id=\"sp0045\">The stomach content of 60 krill specimens from the Southern Ocean were analyzed for the presence of microplastic (MP), by testing different sample volumes, extraction approaches, and applying hyperspectral imaging Fourier-transform infrared spectroscopy (μFTIR). Strict quality control was applied on the generated results. A high load of residual materials in pooled samples hampered the analysis and avoided a reliable determination of putative MP particles. Individual krill stomachs displayed reliable results, however, only after re-treating the samples with hydrogen peroxide. Before this treatment, lipid rich residues of krill resulted in false assignments of polymer categories and hence, false high MP particle numbers. Finally, MP was identified in 4 stomachs out of 60, with only one MP parti",
+                            "og:title": "At second glance: The importance of strict quality control – A case study on microplastic in the Southern Ocean key species Antarctic krill, Euphausia superba",
+                            "citation_author": "Sebastian Primpke",
+                            "citation_pii": "S0048969724007563",
+                            "og:description": "The stomach content of 60 krill specimens from the Southern Ocean were analyzed for the presence of microplastic (MP), by testing different sample vol…",
+                            "citation_online_date": "2024/02/06",
+                            "citation_author_email": "sebastian.primpke@awi.de",
+                            "citation_firstpage": "170618",
+                            "citation_issn": "0048-9697",
+                            "citation_doi": "10.1016/j.scitotenv.2024.170618",
+                            "dc.identifier": "10.1016/j.scitotenv.2024.170618",
+                            "citation_volume": "918"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S0048969724007563-ga1.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   View **PDF**\n]\n]\nUnder a Creative Commons \nopen access\nHighlights\n----------\n*   •Analysis of pooled and individual krill samples for microplastic in three areas of the Southern Ocean\n*   •Microplastics analysis using hyperspectral imaging Fourier-transform infrared spectroscopy (μFTIR)\n*   •KOH digestion of krill formed a transparent residue on analytical filters which can be misidentified as microplastics.\n*   •On average only 0.4 MP per individual krill specimen detected.\n*   •Overestimation of microplastics pollution without strict quality control.\nAbstract\n--------\nThe stomach content of 60 krill specimens from the Southern Ocean were analyzed for the presence of microplastic (MP), by testing different sample volumes, extraction approaches, and applying hyperspectral imaging Fourier-transform infrared spectroscopy (μFTIR). Strict quality control was applied on the generated results. A high load of residual materials in pooled samples hampered the analysis and avoided a reliable determination of putative MP particles. Individual krill stomachs displayed reliable results, however, only after re-treating the samples with hydrogen peroxide. Before this treatment, lipid rich residues of krill resulted in false assignments of polymer categories and hence, false high MP particle numbers. Finally, MP was identified in 4 stomachs out of 60, with only one MP particle per stomach. Our study highlights the importance of strict quality control to verify results before coming to a final decision on MP contamination in the environment to aid the establishment of suitable internationally standardized protocols for sampling and analysis of MP in organisms including their habitats in Southern Ocean and worldwide.\nKeywords\n--------\nAntarctic krill\n_Euphausia superba_\nMicroplastic\nSouthern Ocean\nQuality control\nFTIR, fatty acids\nData availability\n-----------------\nData will be made available on request.\nCited by (0)\n------------\nThese authors contributed equally to the manuscript.\nPresent Address. ECOSPHERE, Faculty of Biology, University of Antwerp, Groenenborgerlaan 171, 2020 Antwerp, Belgium\nPresent Address: BGRL (Blue Growth Research Lab), Faculty of Bioscience Engineering, Ghent University, Coupure Links 653, 9000 Ghent, Belgium\nFlanders Marine Institute (VLIZ), Jacobsenstraat 1, 8400 Ostend, Belgium\n© 2024 The Authors. Published by Elsevier B.V.",
+                    "content_tokens": 499
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "(PDF) Marine Wildlife King George Island Antarctica",
+                "htmlTitle": "(PDF) <b>Marine Wildlife</b> King George Island <b>Antarctica</b>",
+                "link": "https://www.researchgate.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica",
+                "displayLink": "www.researchgate.net",
+                "snippet": "Oct 22, 2017 ... The tools provided by KBs to produce field guides could be particularly helpful for Antarctic biologists, as there is a real need for ...",
+                "htmlSnippet": "Oct 22, 2017 <b>...</b> The tools provided by KBs to produce field guides could be particularly helpful for <b>Antarctic</b> biologists, as there is a real need for&nbsp;...",
+                "formattedUrl": "https://www.researchgate.net/.../320556670_Marine_Wildlife_King_Georg...",
+                "htmlFormattedUrl": "https://www.researchgate.net/.../320556670_<b>Marine</b>_Wildlife_King_Georg...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jz_L5T8bA1GviidCladdYmO6SxyLDF7-T8fFdxTQv93Un07A3xdhyFLc&s",
+                            "width": "187",
+                            "height": "269"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i1.rgstatic.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica/links/59ecf2d5a6fdccef8b0dc2c5/largepreview.png",
+                            "citation_publication_date": "2016/01/01",
+                            "citation_isbn": "978-3-00-050832-5",
+                            "twitter:card": "summary",
+                            "citation_title": "Marine Wildlife King George Island Antarctica",
+                            "og:site_name": "ResearchGate",
+                            "twitter:url": "https://www.researchgate.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica",
+                            "twitter:creator": "@ResearchGate",
+                            "og:description": "PDF | On Jan 1, 2016, Dirk Schories and others published Marine Wildlife King George Island Antarctica | Find, read and cite all the research you need on ResearchGate",
+                            "twitter:site": "@ResearchGate",
+                            "og:site": "ResearchGate",
+                            "citation_fulltext_html_url": "https://www.researchgate.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica",
+                            "citation_pdf_url": "https://www.researchgate.net/profile/Dirk-Schories/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica/links/59ecf2d5a6fdccef8b0dc2c5/Marine-Wildlife-King-George-Island-Antarctica.pdf",
+                            "application-name": "ResearchGate",
+                            "og:type": "website",
+                            "rg-request-token": "aad-7t/BNVAJgKv5Zih4j4EdYcPWnFgWjjTPLijtqTaFgxL4H68j409kakWwwBSEF38PE0JcyIoc7458NaxXsgVt4NRpEkk9l2biG3WwwDl7zBpgK2RiNToxdbaVw0vFMaktLZ3RLkfaUAZEs/NMR9Bcpo1W5lwG3ZZdZchcIpxaadJQyus7lf8guVokp9q1+lsi5bgguRVmQISQythx81hIeIZfQgHK3xlFbAsgOT+R370PViO+mRG/wTDVfjVeBJbTbuzD4Qk0l4HyUK8GQP0=",
+                            "og:title": "(PDF) Marine Wildlife King George Island Antarctica",
+                            "citation_author": "Dirk Schories",
+                            "citation_abstract_html_url": "https://www.researchgate.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica",
+                            "referrer": "origin",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "rg:id": "PB:320556670",
+                            "dc.identifier": "http://dx.doi.org/",
+                            "og:url": "https://www.researchgate.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica",
+                            "gs_meta_revision": "1.1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i1.rgstatic.net/publication/320556670_Marine_Wildlife_King_George_Island_Antarctica/links/59ecf2d5a6fdccef8b0dc2c5/largepreview.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Figures - uploaded by \nAuthor content\nAll figure content in this area was uploaded by Dirk Schories\nContent may be subject to copyright.\n !**Discover the world's research**\n*   25+ million members\n*   160+ million publication pages\n*   2.3+ billion citations\n!\nA preview of the PDF is not available\n... The tools provided by KBs to produce field guides could be particularly helpful for Antarctic biologists, as there is a real need for generating new Antarctic field guides or updating existing ones. A relatively low number of field guides to the flora and fauna of Antarctica have been made available in comparison to temperate and tropical regions (Brueggeman 1998, Hibberd & Moore 2009, Rauschert & Arntz 2015, Schories & Kohlberg 2016, https://niwa.co.nz/coasts-and-oceans/marine-identificationguides-and-fact-sheets/amazing-antarctic-asteroids). In addition, regarding the marine fauna and flora of the Southern Ocean, it appears that the biodiversity of the Antarctic zone has been assessed more often (Brueggeman 1998, Rauschert & Arntz 2015, Schories & Kohlberg 2016 than the species of the sub-Antarctic islands (however, see Fischer & Hureau 1985, Hibberd & Moore 2009), in nearshore habitats in particular (Féral et al. 2019). ...\n... A relatively low number of field guides to the flora and fauna of Antarctica have been made available in comparison to temperate and tropical regions (Brueggeman 1998, Hibberd & Moore...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Large-scale population assessment informs conservation ...",
+                "htmlTitle": "Large-scale population assessment informs conservation ...",
+                "link": "https://www.sciencedirect.com/science/article/pii/S2351989416301172",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "Antarctica and the Southern Ocean are increasingly affected by fisheries, climate change and human presence. Antarctic seabirds are vulnerable to all these ...",
+                "htmlSnippet": "<b>Antarctica</b> and the Southern <b>Ocean</b> are increasingly affected by fisheries, climate change and human presence. <b>Antarctic</b> seabirds are vulnerable to all these&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/pii/S2351989416301172",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/pii/S2351989416301172",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBMEGcJZgPhgBZt19NUbGuOsc3rBDgfRf28-VioSmddzxa7LSPUWwpg&s",
+                            "width": "110",
+                            "height": "150"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S2351989416X00054-cov150h.gif",
+                            "citation_publication_date": "2017/01/01",
+                            "citation_title": "Large-scale population assessment informs conservation management for seabirds in Antarctica and the Southern Ocean: A case study of Adélie penguins",
+                            "citation_author_institution": "Australian Antarctic Division, Department of the Environment and Energy, 203 Channel Highway, Kingston, Tasmania, 7050, Australia",
+                            "citation_reference": "citation_journal_title=Antarct. Sci.;citation_author=D.J. Agnew;citation_title=The CCAMLR ecosystem monitoring program;citation_firstpage=235;citation_lastpage=242;citation_volume=9;citation_publication_date=1997;",
+                            "citation_publisher": "Elsevier",
+                            "citation_article_type": "Full-length article",
+                            "citation_type": "JOUR",
+                            "citation_journal_title": "Global Ecology and Conservation",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"d1e380\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"d1e383\"><p id=\"d1e384\">Antarctica and the Southern Ocean are increasingly affected by fisheries, climate change and human presence. Antarctic seabirds are vulnerable to all these threats because they depend on terrestrial and marine environments to breed and forage. We assess the current distribution and total abundance of Adélie penguins in East Antarctica and find there are 3.5 (95% CI 2.9–4.2) million individuals of breeding age along the East Antarctic coastline and 5.9 (4.2–7.7) million individuals foraging in the adjacent ocean after the breeding season. One third of the breeding population numbering over 1 million individuals breed within 10 km of research stations, highlighting the potential for human activities to impact Adélie penguin populations despite their current high abundance. The 16 Antarctic Specially ",
+                            "og:title": "Large-scale population assessment informs conservation management for seabirds in Antarctica and the Southern Ocean: A case study of Adélie penguins",
+                            "citation_author": "Colin Southwell",
+                            "citation_pii": "S2351989416301172",
+                            "og:description": "Antarctica and the Southern Ocean are increasingly affected by fisheries, climate change and human presence. Antarctic seabirds are vulnerable to all …",
+                            "citation_online_date": "2017/01/11",
+                            "citation_author_email": "colin.southwell@aad.gov.au",
+                            "citation_firstpage": "104",
+                            "citation_issn": "2351-9894",
+                            "citation_doi": "10.1016/j.gecco.2016.12.004",
+                            "dc.identifier": "10.1016/j.gecco.2016.12.004",
+                            "citation_volume": "9",
+                            "citation_lastpage": "115"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S2351989416X00054-cov150h.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   View **PDF**\n]\n]\nUnder a Creative Commons \nopen access\nHighlights\n----------\n*   •Adélie penguins and humans occupy similar terrestrial habitat in East Antarctica.\n*   •One million Adélies, or one third of the mature population, breed close to stations.\n*   •Limiting disturbance to breeding by protecting terrestrial areas varies regionally.\n*   •Ecosystem-based fisheries need to protect food for dependent predators.\n*   •Adélies consume 212 000 tonnes of krill and fish off East Antarctica while breeding.\nAbstract\n--------\nAntarctica and the Southern Ocean are increasingly affected by fisheries, climate change and human presence. Antarctic seabirds are vulnerable to all these threats because they depend on terrestrial and marine environments to breed and forage. We assess the current distribution and total abundance of Adélie penguins in East Antarctica and find there are 3.5 (95% CI 2.9–4.2) million individuals of breeding age along the East Antarctic coastline and 5.9 (4.2–7.7) million individuals foraging in the adjacent ocean after the breeding season. One third of the breeding population numbering over 1 million individuals breed within 10 km of research stations, highlighting the potential for human activities to impact Adélie penguin populations despite their current high abundance. The 16 Antarctic Specially Protected Areas currently designated in East Antarctica offer protection to breeding populations close to stations in four of six regional populations. The East Antarctic breeding population consumes an average of 193 500 tonnes of krill and 18 800 tonnes of fish during a breeding season, with consumption peaking at the end of the breeding season. These findings can inform future conservation management decisions in the terrestrial environment under the Protocol on Environmental Protection to develop a systematic network of protected areas, and in the marine environment under the Convention for the Conservation of Antarctic Marine Living Resources to allow the consumption needs of Adélie penguins to be taken into account when setting fishery catch limits. Extending this work to other penguin, flying seabird, seal and whale species is a priority for conservation management in Antarctica and the Southern Ocean.\nKeywords\n--------\nAbundance\nArea protection\nFisheries management\nSeabird\nCited by (0)\n------------\n© 2016 The Authors. Published by Elsevier B.V.",
+                    "content_tokens": 480
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Unrecognized Antarctic Biodiversity: A Case Study of the Genus ...",
+                "htmlTitle": "Unrecognized <b>Antarctic</b> Biodiversity: A <b>Case</b> Study of the Genus ...",
+                "link": "https://academic.oup.com/icb/article/50/6/981/634289",
+                "displayLink": "academic.oup.com",
+                "snippet": "Sep 3, 2010 ... Abstract. Antarctica has a complex and multifaceted geologic and oceanographic history that has influenced and shaped patterns of marine ...",
+                "htmlSnippet": "Sep 3, 2010 <b>...</b> Abstract. <b>Antarctica</b> has a complex and multifaceted geologic and oceanographic history that has influenced and shaped patterns of <b>marine</b>&nbsp;...",
+                "formattedUrl": "https://academic.oup.com/icb/article/50/6/981/634289",
+                "htmlFormattedUrl": "https://academic.oup.com/icb/article/50/6/981/634289",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "//oup.silverchair-cdn.com/UI/app/img/v-638552060786258310/browserconfig.xml",
+                            "og:image": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/icb/50/6/10.1093/icb/icq119/2/m_icq119f1.gif?Expires=1784423477&Signature=LACqaE4KfrrVILmtC9rPZYfV4NDQrP-FMzoeP69iRfJ6O6tqLrSsLNjhdihPXYj~FyxGkTiFQ7Vbl-Wiz5xk03bjnKTFCsfcBwI~otXIrsqMcM4VzKrwR~qG5tciZ1bpOStCEquQv0vJvRGy2qxGCKOKM~0o12B8M3SK5km6l5YanslARemL-HYLHzFFO3XAsrvbrpSvx3aRXAwvtbw5qbtdjmWZT4TO1ZOlUR-WkmEVsFCcMpuk3x0PkRlsKSN3laMOGE5RqXfCh1EJpPv2FwCNlFmRM55vR9FdTym~n6GKUETaAnVaqCyWyROecZTVk~oHY-6BlPLTafW7~7BbpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_publication_date": "2010/12/01",
+                            "theme-color": "#002f65",
+                            "twitter:card": "summary_large_image",
+                            "citation_author_institution": "*Department of Biological Sciences, Auburn University, 101 Rouse Life Sciences Building, Auburn, AL 36849, USA",
+                            "citation_title": "Unrecognized Antarctic Biodiversity: A Case Study of the Genus Odontaster (Odontasteridae; Asteroidea)",
+                            "og:site_name": "OUP Academic",
+                            "citation_reference": "citation_title=Restricted gene flow and evolutionary divergence between geographically separated populations of the Antarctic octopus Pareledone turqueti; Mar Biol;  citation_year=1997;  citation_volume=129;  citation_pages=97-102;",
+                            "citation_publisher": "Oxford Academic",
+                            "citation_journal_title": "Integrative and Comparative Biology",
+                            "og:description": "Abstract. Antarctica has a complex and multifaceted geologic and oceanographic history that has influenced and shaped patterns of marine invertebrate diver",
+                            "og:image:secure_url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/icb/50/6/10.1093/icb/icq119/2/m_icq119f1.gif?Expires=1784423477&Signature=LACqaE4KfrrVILmtC9rPZYfV4NDQrP-FMzoeP69iRfJ6O6tqLrSsLNjhdihPXYj~FyxGkTiFQ7Vbl-Wiz5xk03bjnKTFCsfcBwI~otXIrsqMcM4VzKrwR~qG5tciZ1bpOStCEquQv0vJvRGy2qxGCKOKM~0o12B8M3SK5km6l5YanslARemL-HYLHzFFO3XAsrvbrpSvx3aRXAwvtbw5qbtdjmWZT4TO1ZOlUR-WkmEVsFCcMpuk3x0PkRlsKSN3laMOGE5RqXfCh1EJpPv2FwCNlFmRM55vR9FdTym~n6GKUETaAnVaqCyWyROecZTVk~oHY-6BlPLTafW7~7BbpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_issn": "1540-7063",
+                            "citation_lastpage": "992",
+                            "og:type": "article",
+                            "og:image:alt": "Odontaster morphology. Aboral, oral, and close-up of aboral side are pictured, respectively for: (a) Odontaster meridionalis, (b) Odontaster penicillatus, (c) Odontaster validus, (d) Odontaster roseus nov. sp., and (e) Odontaster pearsei nov. sp.",
+                            "og:image:url": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/icb/50/6/10.1093/icb/icq119/2/m_icq119f1.gif?Expires=1784423477&Signature=LACqaE4KfrrVILmtC9rPZYfV4NDQrP-FMzoeP69iRfJ6O6tqLrSsLNjhdihPXYj~FyxGkTiFQ7Vbl-Wiz5xk03bjnKTFCsfcBwI~otXIrsqMcM4VzKrwR~qG5tciZ1bpOStCEquQv0vJvRGy2qxGCKOKM~0o12B8M3SK5km6l5YanslARemL-HYLHzFFO3XAsrvbrpSvx3aRXAwvtbw5qbtdjmWZT4TO1ZOlUR-WkmEVsFCcMpuk3x0PkRlsKSN3laMOGE5RqXfCh1EJpPv2FwCNlFmRM55vR9FdTym~n6GKUETaAnVaqCyWyROecZTVk~oHY-6BlPLTafW7~7BbpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_journal_abbrev": "Integr Comp Biol",
+                            "og:title": "Unrecognized Antarctic Biodiversity: A Case Study of the Genus Odontaster (Odontasteridae; Asteroidea)",
+                            "citation_author": "Janosik, Alexis M.",
+                            "citation_issue": "6",
+                            "citation_firstpage": "981",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.1093/icb/icq119",
+                            "citation_volume": "50",
+                            "og:url": "https://dx.doi.org/10.1093/icb/icq119",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/icb/50/6/10.1093/icb/icq119/2/m_icq119f1.gif?Expires=1784423477&Signature=LACqaE4KfrrVILmtC9rPZYfV4NDQrP-FMzoeP69iRfJ6O6tqLrSsLNjhdihPXYj~FyxGkTiFQ7Vbl-Wiz5xk03bjnKTFCsfcBwI~otXIrsqMcM4VzKrwR~qG5tciZ1bpOStCEquQv0vJvRGy2qxGCKOKM~0o12B8M3SK5km6l5YanslARemL-HYLHzFFO3XAsrvbrpSvx3aRXAwvtbw5qbtdjmWZT4TO1ZOlUR-WkmEVsFCcMpuk3x0PkRlsKSN3laMOGE5RqXfCh1EJpPv2FwCNlFmRM55vR9FdTym~n6GKUETaAnVaqCyWyROecZTVk~oHY-6BlPLTafW7~7BbpA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Journal Article\n,\n\\*Department of Biological Sciences, Auburn University, 101 Rouse Life Sciences Building, Auburn, AL 36849, USA\nSearch for other works by this author on:\n\\*Department of Biological Sciences, Auburn University, 101 Rouse Life Sciences Building, Auburn, AL 36849, USA\nSearch for other works by this author on:\nFrom the symposium “Advances in Antarctic Marine Biology” presented at the annual meeting of the Society for Integrative and Comparative Biology, January 3–7, 2010, at Seattle, Washington.\nAuthor Notes\nPublished:\n03 September 2010\n*   PDF]\n*   Split View\n*   *   Article contents\n    *   Figures & tables\n    *   Video\n    *   Audio\n    *   Supplementary Data\n*   \n    ### Cite\n    Alexis M. Janosik, Kenneth M. Halanych, Unrecognized Antarctic Biodiversity: A Case Study of the Genus _Odontaster_ (Odontasteridae; Asteroidea), _Integrative and Comparative Biology_, Volume 50, Issue 6, December 2010, Pages 981–992, \n    Close\nNavbar Search Filter Mobile Enter search term Search\nAbstract\n--------\nAntarctica has a complex and multifaceted geologic and oceanographic history that has influenced and shaped patterns of marine invertebrate diversity. This evolutionary history consists of major events on a wide range of time scales such as the formation of the Antarctic Polar Front (25–41 million years ago) to repeated glacial cycles during the past million years. These factors variably influenced genetic connectivity of fauna to produce a highly unique, but incredibly diverse marine community. Use of molecular phylogeographic methods is creating the need to revise our understanding of Antarctic patterns of biodiversity. In particular, almost every phylogeographic study carried out to date, suggests that the biodiversity of Antarctic marine shelf fauna is considerably underestimated. In discovering this diversity, some lineages (i.e., cryptic lineages) show no diagnostic morphological differences whereas others (i.e., unrecognized species) show differences that were unknown to science. The sea star genus _Odontaster_ is among the best-studied of Antarctic invertebrate groups. Nonetheless, two unrecognized lineages were recently discovered along the Antarctic Peninsula, which is one of the best-st...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "New killer whale species: Bigg's and resident killer whales | NOAA ...",
+                "htmlTitle": "New killer whale <b>species</b>: Bigg&#39;s and resident killer whales | NOAA ...",
+                "link": "https://www.fisheries.noaa.gov/feature-story/new-research-reveals-full-diversity-killer-whales-two-species-come-view-pacific-coast",
+                "displayLink": "www.fisheries.noaa.gov",
+                "snippet": "Mar 27, 2024 ... Aerial images comparing the sizes of adult male Bigg's and Resident killer whales, both taken in the Salish Sea off southern Vancouver Island.",
+                "htmlSnippet": "Mar 27, 2024 <b>...</b> Aerial images comparing the sizes of adult male Bigg&#39;s and Resident killer whales, both taken in the Salish <b>Sea</b> off southern Vancouver Island.",
+                "formattedUrl": "https://www.fisheries.noaa.gov/.../new-research-reveals-full-diversity-killer-...",
+                "htmlFormattedUrl": "https://www.fisheries.noaa.gov/.../new-research-reveals-full-diversity-killer-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE55dxBDbSKDh1qN9ASFbjUnI3lJ8p5a_AoUo1LC692Jz0GupOGgTEAUoD&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fisheries.noaa.gov/s3//2024-03/Biggs-ResidentKillerWhales-SWFSC-MMTD-Durban-Fearnbach-b.jpg",
+                            "og:type": "News/Generic Page",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "New Research Reveals Full Diversity of Killer Whales as Two Species Come into View on Pacific Coast",
+                            "og:site_name": "NOAA",
+                            "dcterms.language": "en",
+                            "dcterms.contributor": "Southwest Fisheries Science Center",
+                            "handheldfriendly": "true",
+                            "og:title": "New Research Reveals Full Diversity of Killer Whales as Two Species Come into View on Pacific Coast",
+                            "dcterms.title": "New Research Reveals Full Diversity of Killer Whales as Two Species Come into View on Pacific Coast | NOAA Fisheries",
+                            "dcterms.creator": "NOAA Fisheries",
+                            "dcterms.description": "Long viewed as one worldwide species, killer whale diversity now merits more. Southern Resident Connections - Post 35",
+                            "dcterms.date": "Mon, 04/29/2024 - 12:25",
+                            "dcterms.subject": "Science & Data",
+                            "og:description": "Long viewed as one worldwide species, killer whale diversity now merits more. Southern Resident Connections - Post 35",
+                            "twitter:creator": "@NOAAFisheries",
+                            "twitter:image": "https://www.fisheries.noaa.gov/s3//2024-03/Biggs-ResidentKillerWhales-SWFSC-MMTD-Durban-Fearnbach-b.jpg",
+                            "facebook-domain-verification": "9ywy0d7q1zwxd9ajs6hh5cinjeg98h",
+                            "twitter:site": "@NOAAFisheries",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Scientists have resolved one of the outstanding questions about one of the world’s most recognizable creatures, identifying two well-known killer whales in the North Pacific Ocean as separate species.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.fisheries.noaa.gov/feature-story/new-research-reveals-full-diversity-killer-whales-two-species-come-view-pacific-coast",
+                            "dcterms.coverage": "West Coast"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fisheries.noaa.gov/s3//2024-03/Biggs-ResidentKillerWhales-SWFSC-MMTD-Durban-Fearnbach-b.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Protecting Marine Life\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Environment\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Regions\n    *   \n    *   \n    *   \n    *   \n    *   \n    Contact Us*   \n    *   \n*   \n    Resources & Services\n    Rules & Regulations*   \n    *   \n    *   \n    Permits*   \n    *   \n    *   \n    Funding & Financial Services*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    About Us\n    NOAA Fisheries*   \n    *   \n    *   \n    *   \n    News & Media*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Inflation Reduction Act*   \n    *   \n    *   \n    *   \n    *   \n    *   \nNew Research Reveals Full Diversity of Killer Whales as Two Species Come into View on Pacific Coast\n===================================================================================================\nMarch 27, 2024\nLong viewed as one worldwide species, killer whale diversity now merits more.  \nSouthern Resident Connections - Post 35\nFeature Story |\n! Aerial images comparing the sizes of adult male Bigg’s and Resident killer whales, both taken in the Salish Sea off southern Vancouver Island. Images are scaled...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Source identification and distribution reveals the potential of the ...",
+                "htmlTitle": "Source <b>identification</b> and distribution reveals the potential of the ...",
+                "link": "https://www.nature.com/articles/ncomms12655",
+                "displayLink": "www.nature.com",
+                "snippet": "Aug 30, 2016 ... The presence of a di-unsaturated highly branched isoprenoid (HBI) lipid biomarker (diene II) in Southern Ocean sediments has previously been ...",
+                "htmlSnippet": "Aug 30, 2016 <b>...</b> The presence of a di-unsaturated highly branched isoprenoid (HBI) lipid biomarker (diene II) in Southern <b>Ocean</b> sediments has previously been&nbsp;...",
+                "formattedUrl": "https://www.nature.com/articles/ncomms12655",
+                "htmlFormattedUrl": "https://www.nature.com/articles/ncomms12655",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-_YsgyQdzWXO5wOjMwFIhaM-cZYslbVrKXYJjqyuE0Rm3-MxL3empmY&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2041-1723"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Nature Communications",
+                            "dc.rights": "2016 The Author(s)",
+                            "prism.publicationdate": "2016-08-30",
+                            "prism.issn": "2041-1723",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2041-1723",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/ncomms12655.pdf",
+                            "citation_lastpage": "10",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Nature Communications",
+                            "citation_journal_abbrev": "Nat Commun",
+                            "dc.date": "2016-08-30",
+                            "citation_issue": "1",
+                            "prism.volume": "7",
+                            "size": "194513",
+                            "citation_doi": "10.1038/ncomms12655",
+                            "dc.title": "Source identification and distribution reveals the potential of the geochemical Antarctic sea ice proxy IPSO25",
+                            "prism.url": "https://www.nature.com/articles/ncomms12655",
+                            "citation_volume": "7",
+                            "dc.language": "En",
+                            "doi": "10.1038/ncomms12655",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "Source identification and distribution reveals the potential of the geochemical Antarctic sea ice proxy IPSO25",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2016/08/30",
+                            "dc.source": "Nature Communications 2016 7:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2016 The Author(s)",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/ncomms12655",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41467",
+                            "dc.description": "The presence of a di-unsaturated highly branched isoprenoid (HBI) lipid biomarker (diene II) in Southern Ocean sediments has previously been proposed as a proxy measure of palaeo Antarctic sea ice. Here we show that a source of diene II is the sympagic diatom Berkeleya adeliensis Medlin. Furthermore, the propensity for B. adeliensis to flourish in platelet ice is reflected by an offshore downward gradient in diene II concentration in &gt;100 surface sediments from Antarctic coastal and near-coastal environments. Since platelet ice formation is strongly associated with super-cooled freshwater inflow, we further hypothesize that sedimentary diene II provides a potentially sensitive proxy indicator of landfast sea ice influenced by meltwater discharge from nearby glaciers and ice shelves, and re-examination of some previous diene II downcore records supports this hypothesis. The term IPSO25—Ice Proxy for the Southern Ocean with 25 carbon atoms—is proposed as a proxy name for diene II. The sedimentary presenc",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/ncomms12655",
+                            "prism.endingpage": "10",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/ncomms12655",
+                            "prism.copyright": "2016 The Author(s)"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fncomms12655/MediaObjects/41467_2016_Article_BFncomms12655_Fig1_HTML.jpg"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Seasonal and habitat-based variations in vertical export of biogenic sea-ice proxies in Hudson Bay",
+                            "headline": "Seasonal and habitat-based variations in vertical export of biogenic sea-ice proxies in Hudson Bay",
+                            "url": "Seasonal and habitat-based variations in vertical export of biogenic sea-ice proxies in Hudson Bay"
+                        },
+                        {
+                            "name": "Seasonal sea ice persisted through the Holocene Thermal Maximum at 80°N",
+                            "headline": "Seasonal sea ice persisted through the Holocene Thermal Maximum at 80°N",
+                            "url": "Seasonal sea ice persisted through the Holocene Thermal Maximum at 80°N"
+                        },
+                        {
+                            "name": "Active Nordic Seas deep-water formation during the last glacial maximum",
+                            "headline": "Active Nordic Seas deep-water formation during the last glacial maximum",
+                            "url": "Active Nordic Seas deep-water formation during the last glacial maximum"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "nature communications",
+                            "name": "nature communications",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nNature Communications\nvolume 7, Article number: 12655 (2016)\n            Cite this article\n\n5365 Accesses\n52 Citations\n90 Altmetric\nMetrics details\nThe presence of a di-unsaturated highly branched isoprenoid (HBI) lipid biomarker (diene II) in Southern Ocean sediments has previously been proposed as a proxy measure of palaeo Antarctic sea ice. Here we show that a source of diene II is the sympagic diatom Berkeleya adeliensis Medlin. Furthermore, the propensity for B. adeliensis to flourish in platelet ice is reflected by an offshore downward gradient in diene II concentration in >100 surface sediments from Antarctic coastal and near-coastal environments. Since platelet ice formation is strongly associated with super-cooled freshwater inflow, we further hypothesize that sedimentary diene II provides a potentially sensitive proxy indicator of landfast sea ice influenced by meltwater discharge from nearby glaciers and ice shelves, and re-examination of some previous diene II downcore records supports this hypothesis. The term IPSO25—Ice Proxy for the Southern Ocean with 25 carbon atoms—is proposed as a proxy name for diene II.\nSea ice in the Southern Ocean is one of the most seasonal and variable features of the Earth’s surface, and has a significant influence on key oceanic and atmospheric processes, which, in turn, have major impacts on global climate1. Although Antarctic sea ice extent has undergone a slight overall increase in recent decades, this is not the case for...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Blue Whale | NOAA Fisheries",
+                "htmlTitle": "Blue Whale | NOAA Fisheries",
+                "link": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "displayLink": "www.fisheries.noaa.gov",
+                "snippet": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                "htmlSnippet": "The blue whale is the largest <b>animal</b> on Earth. Learn about the conservation and management of these endangered <b>animals</b>.",
+                "formattedUrl": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "htmlFormattedUrl": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy6Kdcep_4rtTyFm313htghbrzx5KGAxorjQik64MAY0XM_KII5HGIE8&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null",
+                            "og:type": "Species",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Blue Whale",
+                            "og:site_name": "NOAA",
+                            "dcterms.language": "en",
+                            "dcterms.contributor": "Office of Communications",
+                            "handheldfriendly": "true",
+                            "og:title": "Blue Whale",
+                            "dcterms.title": "Blue Whale | NOAA Fisheries",
+                            "dcterms.creator": "NOAA Fisheries",
+                            "dcterms.description": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                            "dcterms.date": "Thu, 09/28/2023 - 15:14",
+                            "og:description": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                            "twitter:creator": "@NOAAFisheries",
+                            "twitter:image": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null",
+                            "facebook-domain-verification": "9ywy0d7q1zwxd9ajs6hh5cinjeg98h",
+                            "twitter:site": "@NOAAFisheries",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Blue whales are the largest animals ever to live on our planet. They feed almost exclusively on krill, straining huge volumes of ocean water through their baleen plates (which hang from the roof of the mouth and work like a sieve). Some of the biggest individuals may eat up to 6 tons of krill a day. Blue whales are found in all oceans except the Arctic Ocean. There are five currently recognized subspecies of blue whales.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.fisheries.noaa.gov/species/blue-whale",
+                            "dcterms.coverage": "Alaska,New England/Mid-Atlantic,Pacific Islands,Southeast,West Coast"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Reduction Act  \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \nSearch NOAA Fisheries  Search\n*   \n    Find A Species\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Protected Species*   \n    *   \n    Species By Region*   \n    *   \n    *   \n    *   \n    *   \n    Helpful Resources*   \n    *   \n    *   \n    *   \n*   \n    Fishing & Seafood\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Protecting Marine Life\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Environment\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Regions\n    *   \n    *   \n    *   \n    *   \n    *   \n    Contact Us*   \n    *   \n*   \n    Resources & Services\n    Rules & Regulations*   \n    *   \n    *   \n    Permits*   \n    *   \n    *   \n    Funding & Financial Services*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    About Us\n    NOAA Fisheries*   \n    *   \n    *   \n    *   \n    News & Media*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n   ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Biological Risk Assessment of Highly Pathogenic Avian Influenza in ...",
+                "htmlTitle": "Biological Risk Assessment of Highly Pathogenic Avian Influenza in ...",
+                "link": "https://scar.org/library-data/science/life-sciences/eg-bamm/biological-risk-assessment-of-highly-pathogenic-avian-influenza-in-the-southern-ocean",
+                "displayLink": "scar.org",
+                "snippet": "Author Affiliations. 1. Future Regions Research Centre, Federation University Australia, Australia. 2. Latin America Program, Karen C. Drayer Wildlife ...",
+                "htmlSnippet": "Author Affiliations. 1. Future Regions Research Centre, Federation University Australia, Australia. 2. Latin America Program, Karen C. Drayer <b>Wildlife</b>&nbsp;...",
+                "formattedUrl": "https://scar.org/.../biological-risk-assessment-of-highly-pathogenic-avian-in...",
+                "htmlFormattedUrl": "https://scar.org/.../biological-risk-assessment-of-highly-pathogenic-avian-in...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LnzWL49fupV67twC03O2o0DbUsL6xmtRtk66m0b2Aqq2meDrWACWnhw&s",
+                            "width": "267",
+                            "height": "189"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20230913065314+00'00'",
+                            "creator": "Microsoft Word",
+                            "creationdate": "D:20230913065314+00'00'",
+                            "author": "Meagan Dewar"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///94f4ee58722a8f10782f25b086d8a0b4e582527bf018b2e41af1386149ad823c"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "# Biological Risk Assessment of Highly Pathogenic \n# Avian Influenza in the Southern Ocean \nDocument prepared by \nMeagan Dewar 1,13 *, Ralph E. T. Vanstreels 2,13 , Thierry Boulinier 3,13 , Craig Cary 4, Augustin Clessin 3,\nAmandine Gamble 5,13 , Rachael Gray 6,13 , Wray Grimaldi 7,13 , Tom Hart 8,13 , Virginia Morandini 9,13 , Soledad \nLeonardi 10,13 , Marcela Uhart 2, Jane Younger 11,13 and Michelle Wille 12,13 \nOn behalf of the SCAR Antarctic Wildlife Health Network \nAuthor Affiliations \n1. Future Regions Research Centre, Federation University Australia, Australia \n2. Latin America Program, Karen C. Drayer Wildlife Health Center, University of California - Davis, \nUSA \n3. Centre d’Ecologie Fonctionnelle et Evolutive, CNRS, Université de Montpellier, France \n4. Waikato University , New Zealand \n5. Dep artment of Public and Ecosystem Health, Cornell University, USA \n6. Sydney School of Veterinary Science, Faculty of Science, University of Sydney , Australia \n7. Retired, California USA \n8. Department of Biological and Medical Sciences, Oxford Brookes University, UK \n9. National Museum of Natural Sciences (MNCN -CSIC), Spain \n10. Instituto de Biología de Organismos Marinos - CONICET, Argentina \n11. Institute for Marine and Antarctic Studies, University of Tasmania, Australia \n12. Centre for Pathogen Genomics, Department of Micro...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

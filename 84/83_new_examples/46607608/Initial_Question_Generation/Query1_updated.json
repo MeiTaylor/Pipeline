@@ -1,0 +1,778 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Biden hard hat backwards Wisconsin photo op",
+                "totalResults": "92700",
+                "searchTerms": "Biden hard hat backwards Wisconsin photo op",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Biden hard hat backwards Wisconsin photo op",
+                "totalResults": "92700",
+                "searchTerms": "Biden hard hat backwards Wisconsin photo op",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.321398,
+        "formattedSearchTime": "0.32",
+        "totalResults": "92700",
+        "formattedTotalResults": "92,700"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "President Biden with union workers and his hard hat backwards : r/pics",
+                "htmlTitle": "President <b>Biden</b> with union workers and his <b>hard hat backwards</b> : r/<b>pics</b>",
+                "link": "https://www.reddit.com/r/pics/comments/19fnbqy/president_biden_with_union_workers_and_his_hard/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jan 25, 2024 ... 37K votes, 4.8K comments. 31M subscribers in the pics community. A place for photographs, pictures, and other images.",
+                "htmlSnippet": "Jan 25, 2024 <b>...</b> 37K votes, 4.8K comments. 31M subscribers in the <b>pics</b> community. A place for photographs, <b>pictures</b>, and other <b>images</b>.",
+                "formattedUrl": "https://www.reddit.com/.../president_biden_with_union_workers_and_his_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../president_<b>biden</b>_with_union_workers_and_his_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#000000",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "msapplication-navbutton-color": "#000000"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a user-generated content platform where anyone can post and comment. Its reliability can vary significantly based on the subreddits and individual posts. While it can be a source of breaking news and diverse opinions, it lacks editorial oversight, which can lead to the spread of misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "The Reddit post references a picture of Biden wearing a hard hat backwards but does not provide additional context or strong evidence. It only indicates a community reaction without a definitive statement on whether the claim is true or false."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Snopes admits Biden wore construction hard hat backwards in 'fact ...",
+                "htmlTitle": "Snopes admits <b>Biden</b> wore construction <b>hard hat backwards</b> in &#39;fact ...",
+                "link": "https://www.foxnews.com/politics/snopes-admits-biden-wore-construction-hard-hat-backwards-fact-check-reversal",
+                "displayLink": "www.foxnews.com",
+                "snippet": "Jan 28, 2024 ... Snopes' initial fact check, published Friday, attempted to explain the appearance. \"The photo is genuine. And it does look, at first glance,\u00a0...",
+                "htmlSnippet": "Jan 28, 2024 <b>...</b> Snopes&#39; initial fact check, published Friday, attempted to explain the appearance. &quot;The <b>photo</b> is genuine. And it does look, at first glance,&nbsp;...",
+                "formattedUrl": "https://www.foxnews.com/.../snopes-admits-biden-wore-construction-hard-...",
+                "htmlFormattedUrl": "https://www.foxnews.com/.../snopes-admits-<b>biden</b>-wore-construction-<b>hard</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGpp6NZ_Qd7QTpBoW-XMfAy9xCt4JtzXFCq575QNcc6H1QbgnbeBFISfM&s",
+                            "width": "238",
+                            "height": "212"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "pagetype": "article",
+                            "dc.publisher": "Fox News",
+                            "og:image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/biden-hat.jpg",
+                            "msapplication-square70x70logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-70x70.png",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Fox News",
+                            "twitter:url": "https://www.foxnews.com/politics/snopes-admits-biden-wore-construction-hard-hat-backwards-fact-check-reversal",
+                            "prism.channel": "fnc",
+                            "dc.format": "text/html",
+                            "msapplication-wide310x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x150.png",
+                            "og:description": "Snopes reversed a fact check claiming that President Biden had not mistakenly worn a construction hard hat backwards this weekend, despite photo evidence.",
+                            "twitter:image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/01/1024/512/biden-hat.jpg?ve=1&tl=1",
+                            "prism.aggregationtype": "subsection",
+                            "twitter:site": "@foxnews",
+                            "dc.type": "Text.Article",
+                            "dc.source": "Fox News",
+                            "dcterms.modified": "2024-01-28T08:47:54-05:00",
+                            "msapplication-square310x310logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-310x310.png",
+                            "dc.creator": "Anders Hagstrom",
+                            "og:type": "article",
+                            "twitter:title": "Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+                            "content-creator": "tiger",
+                            "og:title": "Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+                            "classification-isa": "joe-biden,politics,amy-klobuchar,minnesota,us",
+                            "classification-tags": "joe-biden,amy-klobuchar,minnesota,politics,us",
+                            "dc.date": "2024-01-28",
+                            "dcterms.created": "2024-01-28T07:45:55-05:00",
+                            "classification": "/FOX NEWS/PERSON/Joe Biden,/FOX NEWS/POLITICS,/FOX NEWS/PERSON/Amy Klobuchar,/FOX NEWS/US/US REGIONS/MIDWEST/Minnesota,/FOX NEWS/NEWSEDGE/Politics,/FOX NEWS/Us",
+                            "msapplication-square150x150logo": "//static.foxnews.com/static/orion/styles/img/fox-news/favicons/mstile-150x150.png",
+                            "fb:app_id": "113186182048399",
+                            "viewport": "width=device-width, minimum-scale=1.0, initial-scale=1.0",
+                            "twitter:description": "Snopes reversed a fact check claiming that President Biden had not mistakenly worn a construction hard hat backwards this weekend, despite photo evidence.",
+                            "dc.title": "Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+                            "prism.section": "politics",
+                            "dc.identifier": "urn:uri:base64:dd8a825e-a87d-5852-b4ab-a05d0f83eb47",
+                            "dc.language": "en-US",
+                            "og:url": "https://www.foxnews.com/politics/snopes-admits-biden-wore-construction-hard-hat-backwards-fact-check-reversal",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/biden-hat.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n      This material may not be published, broadcast, rewritten,\n      or redistributed. \u00a92024 FOX News Network, LLC. All rights reserved.\n      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by\n      Factset. Powered and implemented by\n      FactSet Digital Solutions.\n      Legal Statement. Mutual Fund and ETF data provided by\n      Refinitiv Lipper.\n    \n'The Big Weekend Show' panelists sound off on the Biden administration and border crisis.\nThe left-leaning fact check site Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construction hard hat backwards.\nBiden was pictured during a visit to union workers in Wisconsin alongside Sen. Amy Klobuchar, D-Minn. The photo clearly shows Biden wearing the hard hat backwards, with the strap and tightening knob clearly visible.\nSnopes' initial fact check, published Friday, attempted to explain the appearance.\n\"The photo is genuine. And it does look, at first glance, like Biden was wearing that hard hat backwards. But after comparing it to other photos and videos of the same event, we were forced to reach the opposite conclusion: The hat on Biden's head was facing forward, bill to the front, not backward,\" Snopes claimed.\nDOZENS OF SENATE REPUBLICANS WARN BIDEN'S LATEST WAR ON ENERGY EMPOWERS AMERICA'S ENEMIES\nThe left-leaning political fact checker Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construction hard hat backwards. (Twitter @amyklobuchar)\nSocial media users blasted the determination, however, as hard hats universally have the tightening strap on the back. After weathering a storm on social media, Snopes offered an update reversing the fact check.\n\"The prevailing counter-argument is that if the suspension of the hat has been purposely configured by its owner such that the bill and tightening knob are worn to the back (as was the case of the hat Biden wore), to wear that hat with the bill facing forward is, practically speaking, to wear...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Fox News is a well-established news outlet, but it has a reputation for having a conservative bias. While it provides news coverage, the network has been criticized for sensationalism and presenting news in a politically charged manner. It can also occasionally promote partisan viewpoints, which might not always represent the full truth."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This article from Fox News clearly states that Snopes initially rated Biden's hard hat incident incorrectly before reversing their conclusion to confirm he wore it backwards. It provides specific details and shows how the narrative changed, confirming the claim's accuracy."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "snopes.com on X: \"Folks are saying Biden was wearing his hard hat ...",
+                "htmlTitle": "snopes.com on X: &quot;Folks are saying <b>Biden</b> was wearing his <b>hard hat</b> ...",
+                "link": "https://twitter.com/snopes/status/1751082302841466979",
+                "displayLink": "twitter.com",
+                "snippet": "Jan 27, 2024 ... Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior,\u00a0...",
+                "htmlSnippet": "Jan 27, 2024 <b>...</b> Folks are saying <b>Biden</b> was wearing his <b>hard hat backwards</b> in the <b>photo op</b> with Sen. Amy Klobuchar and some construction workers in Superior,&nbsp;...",
+                "formattedUrl": "https://twitter.com/snopes/status/1751082302841466979",
+                "htmlFormattedUrl": "https://twitter.com/snopes/status/1751082302841466979",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFcVZC81UXzI49ROenbx0yk7lfaF9Y6p_GCsMPJrfyGuk9TFfQk7hxhlw&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://pbs.twimg.com/media/GE0YEyAWUAAD5C2.jpg",
+                            "width": "1200",
+                            "caption": "Image",
+                            "thumbnailurl": "https://pbs.twimg.com/media/GE0YEyAWUAAD5C2?format=jpg&name=thumb"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "identifier": "14294848",
+                            "givenname": "snopes.com",
+                            "additionalname": "snopes"
+                        }
+                    ],
+                    "interactioncounter": [
+                        {
+                            "userinteractioncount": "286215",
+                            "interactiontype": "https://schema.org/FollowAction",
+                            "name": "Likes"
+                        },
+                        {
+                            "userinteractioncount": "83",
+                            "interactiontype": "https://schema.org/SubscribeAction",
+                            "name": "Retweets"
+                        },
+                        {
+                            "userinteractioncount": "95437",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Quotes"
+                        },
+                        {
+                            "userinteractioncount": "46",
+                            "interactiontype": "https://schema.org/LikeAction",
+                            "name": "Likes",
+                            "url": "https://twitter.com/snopes/status/1751082302841466979/likes"
+                        },
+                        {
+                            "userinteractioncount": "19",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Retweets",
+                            "url": "https://twitter.com/snopes/status/1751082302841466979/retweets"
+                        },
+                        {
+                            "userinteractioncount": "148",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Quotes",
+                            "url": "https://twitter.com/snopes/status/1751082302841466979/retweets/with_comments"
+                        },
+                        {
+                            "userinteractioncount": "938",
+                            "interactiontype": "https://schema.org/InteractAction",
+                            "name": "Replies",
+                            "url": "https://twitter.com/snopes/status/1751082302841466979"
+                        },
+                        {
+                            "userinteractioncount": "210605",
+                            "interactiontype": "https://schema.org/ViewAction"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://pbs.twimg.com/media/GE0YEyAWUAAD5C2.jpg:large",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "og:site_name": "X (formerly Twitter)",
+                            "al:ios:app_name": "X",
+                            "apple-mobile-web-app-title": "Twitter",
+                            "og:title": "snopes.com (@snopes) on X",
+                            "al:android:package": "com.twitter.android",
+                            "al:ios:url": "twitter://status?id=1751082302841466979",
+                            "title": "snopes.com (@snopes) on X",
+                            "og:description": "Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior, Wisconsin. But was he?  https://t.co/A7671Gn5Co",
+                            "al:ios:app_store_id": "333903271",
+                            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+                            "al:android:url": "twitter://status?id=1751082302841466979",
+                            "fb:app_id": "2231777543",
+                            "apple-mobile-web-app-status-bar-style": "white",
+                            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://twitter.com/snopes/status/1751082302841466979",
+                            "al:android:app_name": "X"
+                        }
+                    ],
+                    "collection": [
+                        {
+                            "name": "Post with replies"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "name": "Expanded Tweet URLs",
+                            "url": "https://t.co/A7671Gn5Co"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pbs.twimg.com/media/GE0YEyAWUAAD5C2.jpg:large"
+                        }
+                    ],
+                    "socialmediaposting": [
+                        {
+                            "identifier": "1751082302841466979",
+                            "commentcount": "938",
+                            "articlebody": "Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior, Wisconsin. But was he? https://snopes.com/fact-check/bid...",
+                            "position": "1",
+                            "datecreated": "2024-01-27T03:18:49.000Z",
+                            "datepublished": "2024-01-27T03:18:49.000Z",
+                            "url": "https://twitter.com/snopes/status/1751082302841466979",
+                            "mainentityofpage": "https://twitter.com/snopes/status/1751082302841466979"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Don\u2019t miss what\u2019s happening\nPeople on X are the first to know.",
+                    "content_tokens": 16
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Twitter is a social media platform where users can share news and opinions rapidly. However, it suffers from issues of misinformation, lack of context, and the spread of unverified claims. The platform is influenced by trends rather than factual reporting, leading to potential misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This tweet mentions the discussion surrounding Biden wearing the hard hat backwards and references the photo-op. However, it lacks detailed analysis or a clear stance on the claim's truth, hence is somewhat relevant but not as impactful."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Snopes.com on LinkedIn: Did Biden Wear a Hard Hat Backwards in ...",
+                "htmlTitle": "Snopes.com on LinkedIn: Did <b>Biden</b> Wear a <b>Hard Hat Backwards</b> in ...",
+                "link": "https://www.linkedin.com/posts/snopes.com_did-biden-wear-a-hard-hat-backwards-in-photo-activity-7156848320844361728-3R20",
+                "displayLink": "www.linkedin.com",
+                "snippet": "Jan 26, 2024 ... Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior,\u00a0...",
+                "htmlSnippet": "Jan 26, 2024 <b>...</b> Folks are saying <b>Biden</b> was wearing his <b>hard hat backwards</b> in the <b>photo op</b> with Sen. Amy Klobuchar and some construction workers in Superior,&nbsp;...",
+                "formattedUrl": "https://www.linkedin.com/.../snopes.com_did-biden-wear-a-hard-hat-backw...",
+                "htmlFormattedUrl": "https://www.linkedin.com/.../snopes.com_did-<b>biden</b>-wear-a-<b>hard</b>-<b>hat</b>-<b>backw</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXpZVKurGqswXoDGYatlAo6oa5mhRRvKrX-0pj34OiBg6FUzF1ZW_V4bNb&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.licdn.com/dms/image/D5610AQFXlKoQA6sIIA/image-shrink_800/0/1706325607386?e=2147483647&v=beta&t=egrN9QdI6xWtvFQx4uH7I7pnm-Dhhr2qL6yj0RwqBck",
+                            "twitter:title": "Snopes.com on LinkedIn: Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?",
+                            "twitter:card": "summary_large_image",
+                            "og:type": "article",
+                            "al:ios:app_name": "LinkedIn",
+                            "twitter:url": "https://www.linkedin.com/posts/snopes%2Ecom_did-biden-wear-a-hard-hat-backwards-in-photo-activity-7156848320844361728-3R20",
+                            "og:title": "Snopes.com on LinkedIn: Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?",
+                            "al:android:package": "com.linkedin.android",
+                            "pagekey": "p_public_post",
+                            "locale": "en_US",
+                            "al:ios:url": "https://www.linkedin.com/posts/snopes%2Ecom_did-biden-wear-a-hard-hat-backwards-in-photo-activity-7156848320844361728-3R20",
+                            "og:description": "Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior, Wisconsin. But was\u2026",
+                            "al:ios:app_store_id": "288429040",
+                            "twitter:image": "https://media.licdn.com/dms/image/D5610AQFXlKoQA6sIIA/image-shrink_800/0/1706325607386?e=2147483647&v=beta&t=egrN9QdI6xWtvFQx4uH7I7pnm-Dhhr2qL6yj0RwqBck",
+                            "al:android:url": "https://www.linkedin.com/posts/snopes%2Ecom_did-biden-wear-a-hard-hat-backwards-in-photo-activity-7156848320844361728-3R20",
+                            "lnkd:url": "https://www.linkedin.com/feed/update/urn:li:activity:7156848320844361728",
+                            "twitter:site": "@linkedin",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Folks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior, Wisconsin. But was\u2026",
+                            "og:url": "https://www.linkedin.com/posts/snopes%2Ecom_did-biden-wear-a-hard-hat-backwards-in-photo-activity-7156848320844361728-3R20",
+                            "al:android:app_name": "LinkedIn"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.licdn.com/dms/image/D5610AQFXlKoQA6sIIA/image-shrink_800/0/1706325607386?e=2147483647&v=beta&t=egrN9QdI6xWtvFQx4uH7I7pnm-Dhhr2qL6yj0RwqBck"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Snopes.com on LinkedIn: Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?\n===============\nAgree & Join LinkedIn\nBy clicking Continue to join or sign in, you agree to LinkedIn\u2019s , , and .\n*   \n*   \n*   \n*   \n*   \n*   (ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_post_guest_nav_menu_windows)\nSnopes.com\u2019s Post\n=================\n ]\n2,385 followers\n6mo\n*   \nFolks are saying Biden was wearing his hard hat backwards in the photo op with Sen. Amy Klobuchar and some construction workers in Superior, Wisconsin. But was he?\n Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers? -------------------------------------------------------------------------- ### snopes.com] \n  4]           \nShare\n*   Copy\n*   LinkedIn\n*   Facebook\n*   Twitter\n]\nTool Grinder at GE Aviation\n6mo\n*   \nSomeone needs to find the manufacturer of this hardhat. Prove them wrong. He's got it backwards.\n1\u00a0Reaction\n]\nPallet Racking & Warehouse Automation for every industry\n6mo\n*   \nDumb Sh&.t\n1\u00a0Reaction\n]\nTechnical Equipment/Automation Development at DECCO US, Postharvest\n6mo\n*   \nYes.\n1\u00a0Reaction\nTo view or add a comment, \nMore Relevant Posts\n-------------------\n*   \n     ]\n    2,261 followers\n    8mo\n    *   \n    How are you providing safe access onsite? The AdjustaStairs set up on your site in just 5 minutes to safely provide multi-level or pit access without the need for ladders. Discover the possibilities of the AdjustaStairs. \ud83d\udd17     \n    *   ! \n       ! 38]          \n    Share\n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "LinkedIn is primarily a professional networking site and not a news source. While professionals might share relevant updates and articles, the quality and accuracy of the information depend on individual users and their credibility."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-26"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "Similar to evidence2, it references discussions about the incident but does not provide substantial evidence or detail to definitively support the hypothesis about Biden's hard hat positioning."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Did Biden Wear a Hard Hat Backwards in Photo Op with ...",
+                "htmlTitle": "Did <b>Biden</b> Wear a <b>Hard Hat Backwards</b> in <b>Photo Op</b> with ...",
+                "link": "https://www.allsides.com/news/2024-01-31-0633/facts-and-fact-checking-did-biden-wear-hard-hat-backwards-photo-op-construction",
+                "displayLink": "www.allsides.com",
+                "snippet": "Jan 31, 2024 ... U.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin.",
+                "htmlSnippet": "Jan 31, 2024 <b>...</b> U.S. President Joe <b>Biden</b> wore a <b>hard hat backwards</b> during a <b>photo op</b> with union construction workers in Superior, <b>Wisconsin</b>.",
+                "formattedUrl": "https://www.allsides.com/.../facts-and-fact-checking-did-biden-wear-hard-h...",
+                "htmlFormattedUrl": "https://www.allsides.com/.../facts-and-fact-checking-did-<b>biden</b>-wear-<b>hard</b>-<b>h</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVq1RfgcDahuFHm49MArCWVoSBgBWVJF4pwheAVFqpO--YPlO7gP-Ot8&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "FACT CHECK: Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?",
+                            "article:published_time": "2024-01-31T06:33:00-08:00",
+                            "og:site_name": "AllSides",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.allsides.com/news/2024-01-31-0633/facts-and-fact-checking-did-biden-wear-hard-hat-backwards-photo-op-construction",
+                            "og:title": "FACT CHECK: Did Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?",
+                            "apple-mobile-web-app-title": "AllSides",
+                            "og:updated_time": "2024-01-31T06:33:00-08:00",
+                            "og:description": "U.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin. Rating: True Editor's ...",
+                            "twitter:image": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png",
+                            "fb:app_id": "555035668344688",
+                            "article:modified_time": "2024-01-31T06:33:00-08:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "U.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin. Rating: True Editor's Note:\u00a0We received a ton of comments in a",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.allsides.com/news/2024-01-31-0633/facts-and-fact-checking-did-biden-wear-hard-hat-backwards-photo-op-construction"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.allsides.com/sites/default/files/allsides-logo-open-graph.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...? | AllSides\n===============\n\u00d7\nBias of \n-------------------------------------------------------------\nSelect ratingBias: LeftBias: Leaning LeftBias: CenterBias: Leaning RightBias: RightCancel rating\nrate us \nTo prevent automated spam submissions leave this field empty.\n    !]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nBalanced Search  Submit Search\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n]  \nSet Location See Local News\nGet Balanced News From **Your U.S. State**.\nALAKAZARCACOCTDEFLGAHIIDILINIAKSKYLAMEMDMAMIMNMSMOMTNENVNHNJNMNYNCNDOHOKORPAPRRISCSDTNTXUTVTVAWADCWVWIWY\nSee Local News\nNews\n----\n*   \n*   \n*   \n*   \n*   \n*   \nDid Biden Wear a Hard Hat Backwards in Photo Op with Construction Workers?\n==========================================================================\n, \nPosted on AllSides January 31st, 2024\nFrom The Left\nFACT CHECK\nU.S. President Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin.\nRating: True\nEditor's Note:\u00a0We received a ton of comments in a very short time challenging our assumption that wearing a hard hat \"backwards\" means wearing it with the bill facing to the rear, and \"forwards\" means wearing it bill to the front. On the basis of that assumption, we originally rated the claim that Biden was wearing a hard hat backwards as false.\n, \n-----------------------------------------------------\n]\nAllSides Media Bias Rating: \n*   \n*   \n128592/95803  \nRelated Coverage\n----------------\nHEADLINE ROUNDUP\n Schumer Introduces Bill to Reverse SCOTUS Presidential Immunity Ruling]\nPERSPECTIVES BLOG\n President Joe Biden Drops Out of the Race]]\nFact Check\n Are undocumented immigrants housed at the most expensive hotels in New York City?]]\nFact Check\n]\n**Common Ground on Facts and Fact Checking**\n]\nSimilarity Hub is a project between AllSides and  that highlights survey data on topics on which Americans largely agree. Its goal is to correct political misperceptions, highlight common...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "AllSides is a platform designed to present news from multiple perspectives, promoting media literacy. It provides users with the ability to view stories from left, center, and right viewpoints, helping to get a more balanced understanding of events."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-31"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This source directly affirms that Biden wore a hard hat backwards during the photo op and discusses the confusion surrounding the interpretation of 'backwards.' It provides affirmation of the claim's validity and adds context that is relevant to understanding how the claim was initially mischaracterized."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Snopes Changes Rating to True On Photo Of Biden Wearing a Hard ...",
+                "htmlTitle": "Snopes Changes Rating to True On <b>Photo</b> Of <b>Biden</b> Wearing a <b>Hard</b> ...",
+                "link": "https://www.mediaite.com/news/snopes-fact-check-calls-true-biden-story-false-despite-photos-they-included-in-post-then-reverses-it/",
+                "displayLink": "www.mediaite.com",
+                "snippet": "Jan 27, 2024 ... A photo that shows President Joe Biden wearing a hard hat backwards was labeled \"false\" by Snopes before they changed their minds after\u00a0...",
+                "htmlSnippet": "Jan 27, 2024 <b>...</b> A <b>photo</b> that shows President Joe <b>Biden</b> wearing a <b>hard hat backwards</b> was labeled &quot;false&quot; by Snopes before they changed their minds after&nbsp;...",
+                "formattedUrl": "https://www.mediaite.com/.../snopes-fact-check-calls-true-biden-story-false-...",
+                "htmlFormattedUrl": "https://www.mediaite.com/.../snopes-fact-check-calls-true-<b>biden</b>-story-false-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKUw6sMnWq_7AdAUgOGh8R8ATxexm169FiyLwurADtILOHQaYviVHWajtg&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2024-01-27T18:31:20+00:00",
+                            "og:image": "https://www.mediaite.com/wp-content/uploads/2024/01/Biden-Hard-Hat-Snopes.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1300",
+                            "article:published_time": "2024-01-27T23:31:20+00:00",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Snopes Fact-Check Calls True Biden Story \u2018False\u2019 Despite Photos THEY Included in Post \u2014 Then Reverses It",
+                            "og:site_name": "Mediaite",
+                            "og:title": "Snopes Fact-Check Calls True Biden Story \u2018False\u2019 Despite Photos THEY Included in Post \u2014 Then Reverses It",
+                            "og:image:height": "680",
+                            "google": "nositelinkssearchbox",
+                            "og:description": "A photo that shows President Joe Biden wearing a hard hat backwards was labeled \"false\" by Snopes before they changed their minds after pushback.",
+                            "twitter:creator": "@calebhowe",
+                            "og:image:secure_url": "https://www.mediaite.com/wp-content/uploads/2024/01/Biden-Hard-Hat-Snopes.jpg",
+                            "twitter:image": "https://www.mediaite.com/wp-content/uploads/2024/01/Biden-Hard-Hat-Snopes.jpg",
+                            "twitter:site": "@mediaite",
+                            "article:modified_time": "2024-02-07T19:52:43+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=5, minimum-scale=1.0",
+                            "news_keywords": "news",
+                            "twitter:description": "A photo that shows President Joe Biden wearing a hard hat backwards was labeled \"false\" by Snopes before they changed their minds after pushback.",
+                            "onesignal": "wordpress-plugin",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.mediaite.com/news/snopes-fact-check-calls-true-biden-story-false-despite-photos-they-included-in-post-then-reverses-it/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.mediaite.com/wp-content/uploads/2024/01/Biden-Hard-Hat-Snopes.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...4\n\nThere were many other reactions.\nHere are the photos @snopes literally uses in their factcheck where they judge \u201cBiden wore the hardhat backwards\u201d as False: https://t.co/KcGGFbN9FU pic.twitter.com/mQT65LghE5\n\u2014 NeverTweet (@LOLNeverTweet) January 27, 2024\n\nEventually, Snopes responded to the feedback by reversing their ruling on the photos of Biden wearing a hard backwards to True.\n\nThe updated article contained an editor\u2019s note, explaining the complete 180.\nEditor\u2019s Note: We received a ton of comments in a very short time challenging our assumption that wearing a hard hat \u201cbackwards\u201d means wearing it with the brim facing to the rear, and \u201cforwards\u201d means wearing it brim to the front. On the basis of that assumption, we originally rated the claim that Biden was wearing a hard hat backwards as false.\nThe prevailing counter-argument is that if the suspension of the hat has been purposely configured by its owner such that the bill and tightening knob are worn to the back (as was the case of the hat Biden wore), to wear that hat with the bill facing forward is, practically speaking, to wear it backwards. Therefore, it\u2019s argued, it\u2019s actually true that, in the photo op discussed below, Biden was wearing it backwards. The strap and tightening knob, which should have been behind Biden\u2019s head, were on his forehead.\nA corollary to that argument is \u201cBiden looks damn silly in any case.\u201d\nWe find these arguments sound. Therefore, the claim \u201cPresident Joe Biden wore a hard hat backwards during a photo op with union construction workers in Superior, Wisconsin\u201d is true, and this fact check has been re-rated as such. Thanks to all who argued on behalf of this correction.\nSo ultimately, the fact-checkers ruled that the obviously backward hat was backward after all, and that the photo of Biden wearing a hard hat backwards was indeed a photo of Biden wearing a hard hat backwards. But only after some convincing.\nHave a tip we should know? tips@mediaite.com\nCaleb Howe is an editor and writer focusing on politics and media. Former managing editor at RedState. Published at USA Today, Blaze, National Review, Daily Wire, American Spectator, AOL News, Asylum, fortune cookies, manifestos, napkins, fridge drawings...\n\nHave a tip or story idea? Email us.\n Or to keep it anonymous, click here.\n    ",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Mediaite focuses on the intersection of media and politics and provides insightful commentary and reporting on news coverage. While generally reliable, it can feature editorialized content that may lean towards a particular viewpoint."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence details how Snopes reversed its initial rating about Biden's hat, highlighting the backlash and explaining how the claim was ultimately validated. It directly addresses whether Biden wore the hat backwards, making it highly relevant."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Snopes Fact-Checker Claims Biden Didn't Wear Hard Hat ...",
+                "htmlTitle": "Snopes Fact-Checker Claims <b>Biden</b> Didn&#39;t Wear <b>Hard Hat</b> ...",
+                "link": "https://www.newsbusters.org/blogs/nb/alex-christy/2024/01/27/snopes-fact-checker-claims-biden-didnt-wear-hard-hat-backwards-he",
+                "displayLink": "www.newsbusters.org",
+                "snippet": "Jan 27, 2024 ... The only problem for Emery and Biden is that Biden did wear the hat backwards. The photo in question comes from Sen. Amy Klobuchar: Nothing like\u00a0...",
+                "htmlSnippet": "Jan 27, 2024 <b>...</b> The only problem for Emery and <b>Biden</b> is that <b>Biden</b> did wear the <b>hat backwards</b>. The <b>photo</b> in question comes from Sen. Amy Klobuchar: Nothing like&nbsp;...",
+                "formattedUrl": "https://www.newsbusters.org/.../snopes-fact-checker-claims-biden-didnt-we...",
+                "htmlFormattedUrl": "https://www.newsbusters.org/.../snopes-fact-checker-claims-<b>biden</b>-didnt-we...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvQ88fB9Md9aWXw8QK8nFIC1gkSSCu1GjniNjcNAinqrH0OCWIu33ZZk&s",
+                            "width": "297",
+                            "height": "170"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.newsbusters.org/styles/mobile_thumb_700x400_/s3/2024-01/2024-01-26-Biden%20Hard%20Hat%20Backwards.jpg?itok=klT1M5_A",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Snopes Fact-Checker Claims Biden Didn't Wear Hard Hat Backwards (He Did)",
+                            "theme-color": "#ee7624",
+                            "og:site_name": "Newsbusters",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.newsbusters.org/blogs/nb/alex-christy/2024/01/27/snopes-fact-checker-claims-biden-didnt-wear-hard-hat-backwards-he",
+                            "og:title": "Snopes Fact-Checker Claims Biden Didn't Wear Hard Hat Backwards (He Did)",
+                            "apple-mobile-web-app-title": "NewsBusters",
+                            "og:description": "\u00a0 UPDATE: In response to criticism, Snopes\u00a0switched\u00a0their \"false\" rating to \"true\" on Saturday. ***",
+                            "twitter:site": "@newsbusters",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:description": "\u00a0 UPDATE: In response to criticism, Snopes\u00a0switched\u00a0their \"false\" rating to \"true\" on Saturday. ***",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.newsbusters.org/blogs/nb/alex-christy/2024/01/27/snopes-fact-checker-claims-biden-didnt-wear-hard-hat-backwards-he"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.newsbusters.org/styles/mobile_thumb_700x400_/s3/2024-01/2024-01-26-Biden%20Hard%20Hat%20Backwards.jpg?itok=klT1M5_A"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...-deductible.\n\u00a9 2005-2024, Media Research Center. All Rights Reserved.\n!\nHome\n!\nAuthor\n!\nShare\n!\nMenu\n]\n]\nDark Mode\nCONNECT\nSign up for our NB Daily newsletter to receive the latest news.\n Subscribe\nSnopes Fact-Checker Claims Biden Didn't Wear Hard Hat Backwards (He Did)\n========================================================================\nJanuary 27th, 2024 3:33 PM\nText to Speech\n00:00 00:00\nFont Size\n&body=SnopesFact-CheckerClaimsBidenDidn'tWearHardHatBackwards\\(HeDid\\)%0D%0DReadMore:https://www.newsbusters.org/blogs/nb/alex-christy/2024/01/27/snopes-fact-checker-claims-biden-didnt-wear-hard-hat-backwards-he \"Printer Friendly, PDF & Email\"))\n_UPDATE: In response to criticism, Snopes\u00a0\u00a0their \"false\" rating to \"true\" on Saturday._\n_\\*\\*\\*_\nDavid Emery, one of the fact-checking sleuths at , defended President Joe Biden on Friday against accusations that he wore a hard hat backwards during a recent photo op in Wisconsin. The only problem for Emery and Biden is that Biden did wear the hat backwards.\nThe photo in question comes from Sen. Amy Klobuchar:\n> Nothing like having a beer with some great union workers and \u2066yes, that would be \u2069 in Superior, Wisconsin. \u2066\u2069 \n> \n> \u2014 Amy Klobuchar (@amyklobuchar) \nAfter going through several tweets where people claim Biden is wearing the hat backwards, Emery writes, \u201cThe photo is genuine. And it does look, at first glance, like Biden was wearing that hard hat backwards. But after comparing it to other photos and videos of the same event, we were forced to reach the opposite conclusion: The hat on Biden's head was facing forward, bill to the front, not backward.\u201d\nEmery then shows several more tweets of photos of Biden interacting with a man who was wearing the hat he would eventually wear including the following one from CBS:\n> President Biden to unveil nearly $5 billion in new infrastructure projects \n> \n> \u2014 CBS Evening News (@CBSEveningNews) \nAsking many rhetorical questions, Emery urges readers to \u201cLook closely, though. Which direction is the bill of that hat facing? Is the construction worker wearing it forwards or backwards?\u201d\nA hard hat is not a...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "NewsBusters is a project of the Media Research Center, a conservative organization aiming at critiquing liberal bias in media. It presents information with a bias that serves a specific agenda, necessitating caution in its consumption."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This article summarizes the debate without strong conclusive evidence or analysis. It refers to the photo but focuses more on the controversy and offers limited insight into the truth of the claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Snopes admits Biden wore construction hard hat backwards in 'fact ...",
+                "htmlTitle": "Snopes admits <b>Biden</b> wore construction <b>hard hat backwards</b> in &#39;fact ...",
+                "link": "https://ground.news/article/did-biden-wear-a-hard-hat-backwards-in-photo-op-with-construction-workers_e93395",
+                "displayLink": "ground.news",
+                "snippet": "This week, we pointed out that when Joe Biden was visiting Wisconsin, he was photographed wearing a hard hat backwards. 6 months ago\u00b7United States. Read Full\u00a0...",
+                "htmlSnippet": "This week, we pointed out that when Joe <b>Biden</b> was visiting <b>Wisconsin</b>, he was photographed wearing a <b>hard hat backwards</b>. 6 months ago\u00b7United States. Read Full&nbsp;...",
+                "formattedUrl": "https://ground.news/.../did-biden-wear-a-hard-hat-backwards-in-photo-op-...",
+                "htmlFormattedUrl": "https://ground.news/.../did-<b>biden</b>-wear-a-<b>hard</b>-<b>hat</b>-<b>backwards</b>-in-<b>photo</b>-<b>op</b>-...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://groundnews.b-cdn.net/assets/logo4/ground-news-social.jpeg?width=300",
+                            "next-head-count": "22",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Ground News - Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+                            "og:site_name": "Ground News",
+                            "twitter:site": "@Ground_app",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "twitter:description": "The left-leaning fact check site Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construction hard hat backwards.",
+                            "og:title": "Snopes admits Biden wore construction hard hat backwards in 'fact check' reversal",
+                            "twitter:image": "https://groundnews.b-cdn.net/assets/logo4/ground-news-social.jpeg?width=300"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://groundnews.b-cdn.net/assets/logo4/ground-news-social.jpeg?width=300"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Patel\n#### Snopes Forced To Reverse Fact-Check Of Biden Image After Being Roasted Online\nSnopes was forced to reverse itself after being roasted for \"fact-checking\" an image of President Joe Biden wearing a hard hat backwards Friday.\n6 months ago\u00b7Washington, United States\nRead Full Article\n!The Daily Caller\nRight\nMixed Factuality\nIndividual: Tucker Carlson\nIndividual: Neil Patel\n#### Snopes Forced To Reverse Fact-Check Of Biden Image After Being Roasted Online\nSnopes was forced to reverse itself after being roasted for \"fact-checking\" an image of President Joe Biden wearing a hard hat backwards Friday.\n6 months ago\u00b7Washington, United States\nRead Full Article\n!The Gateway Pundit\nFar Right\nLow Factuality\nIndependent: Jim Hoft\n#### Left Wing 'Fact Checker' Snopes Forced to Admit Biden Was Wearing a Hard Hat Backwards After Being 'Flooded' With Comments\nThis week, we pointed out that when Joe Biden was visiting Wisconsin, he was photographed wearing a hard hat backwards.\n6 months ago\u00b7United States\nRead Full Article\n!The Gateway Pundit\nFar Right\nLow Factuality\nIndependent: Jim Hoft\n#### Left Wing 'Fact Checker' Snopes Forced to Admit Biden Was Wearing a Hard Hat Backwards After Being 'Flooded' With Comments\nThis week, we pointed out that when Joe Biden was visiting Wisconsin, he was photographed wearing a hard hat backwards.\n6 months ago\u00b7United States\nRead Full Article\n!RedState\nRight\nLow Factuality\nMedia Conglomerate: Salem Media Group\n#### NEW: Snopes Hilariously Backpedals and Reverses 'Fact Check' of Biden Wearing Hard Hat Backwards\n6 months ago\u00b7Washington, United States\nRead Full Article\n!RedState\nRight\nLow Factuality\nMedia Conglomerate: Salem Media Group\n#### NEW: Snopes Hilariously Backpedals and Reverses 'Fact Check' of Biden Wearing Hard Hat Backwards\n6 months ago\u00b7Washington, United States\nRead Full Article\n!Twitchy\nFar Right\nLow Factuality\nMedia Conglomerate: Salem Media Group\n#### Snopes Got Nuked So Hard for Their 'False' Rating About Biden's Hard Hat They Changed It to 'True'\n6 months ago\u00b7United States\nRead Full Article\n!Twitchy\nFar Right\nLow Factuality\nMedia Conglomerate: Salem Media Group\n#### Snopes Got Nuked So Hard for Their 'False'...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Ground News offers tools to identify bias in news coverage by combining stories from various sources. Its commitment to transparency and education makes it a strong resource for truthfulness and accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This piece mentions that Snopes was forced to reverse their stance after significant social media reaction. It discusses Biden\u2019s hard hat position but lacks the specifics that higher-rated evidence provides."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Amy Klobuchar - Nothing like having a beer with some great union ...",
+                "htmlTitle": "Amy Klobuchar - Nothing like having a beer with some great union ...",
+                "link": "https://www.facebook.com/photo.php?fbid=940225040792996&set=a.420881562727349&type=3",
+                "displayLink": "www.facebook.com",
+                "snippet": "Nothing like having a beer with some great union workers and yes, that would be Joe Biden in Superior, Wisconsin. AFL-CIO.",
+                "htmlSnippet": "Nothing like having a beer with some great union workers and yes, that would be Joe <b>Biden</b> in Superior, <b>Wisconsin</b>. AFL-CIO.",
+                "formattedUrl": "https://www.facebook.com/photo.php?fbid=940225040792996&set...",
+                "htmlFormattedUrl": "https://www.facebook.com/<b>photo</b>.php?fbid=940225040792996&amp;set...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScCMoe12LZWUetUipdpbo7himPLMbJlkp2EEltENdg3smVakJr3GP5AOA&s",
+                            "width": "238",
+                            "height": "212"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=284882215, app-argument=app-id=284882215",
+                            "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940225040792996",
+                            "og:type": "article",
+                            "twitter:card": "summary",
+                            "twitter:title": "Amy Klobuchar - Nothing like having a beer with some great union...",
+                            "theme-color": "#FFFFFF",
+                            "al:ios:app_name": "Facebook",
+                            "og:title": "Amy Klobuchar - Nothing like having a beer with some great union workers and yes, that would be Joe Biden in Superior, Wisconsin. AFL-CIO | Facebook",
+                            "al:android:package": "com.facebook.katana",
+                            "google": "notranslate",
+                            "al:ios:url": "app-id=284882215",
+                            "og:description": "Nothing like having a beer with some great union workers and yes, that would be Joe Biden in Superior, Wisconsin. AFL-CIO",
+                            "al:ios:app_store_id": "284882215",
+                            "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940225040792996",
+                            "al:android:url": "app-id=284882215",
+                            "referrer": "origin-when-crossorigin",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Nothing like having a beer with some great union workers and yes, that would be Joe Biden in Superior, Wisconsin. AFL-CIO",
+                            "og:locale": "en_US",
+                            "fb-version": "411.0.0.0.10:2518",
+                            "og:url": "https://www.facebook.com/photo.php?fbid=940225040792996&id=100044165272627&set=a.420881562727349",
+                            "al:android:app_name": "Facebook"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=940225040792996"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Log into Facebook\n===============\n!\n_Notice_\nYou must log in to continue.\nLog Into Facebook\nYou must log in to continue.\nLog In\nor\n*   English (US)\n*   \n*   \")\n*   \")\n*   \n*   \")\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nMeta \u00a9 2024\n!",
+                    "content_tokens": 136
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Facebook is a platform for user-generated content that has been plagued by misinformation. While it connects people and information, its content often lacks the necessary checks for accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "The Facebook post by Amy Klobuchar merely states her experience with union workers and mentions Biden without reference to the hard hat controversy. It provides minimal relevance to the specific question asked."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Fact-Checker Snopes Forced To Reverse Ruling - Media Confidential",
+                "htmlTitle": "Fact-Checker Snopes Forced To Reverse Ruling - Media Confidential",
+                "link": "http://mediaconfidential.blogspot.com/2024/01/fact-checker-snopes-forced-to-reverse.html",
+                "displayLink": "mediaconfidential.blogspot.com",
+                "snippet": "Jan 29, 2024 ... ... Biden did, in fact, wear a construction hard hat backwards. Fox News Digital reports Biden was pictured during a visit to union workers in\u00a0...",
+                "htmlSnippet": "Jan 29, 2024 <b>...</b> ... <b>Biden</b> did, in fact, wear a construction <b>hard hat backwards</b>. Fox News Digital reports <b>Biden</b> was pictured during a visit to union workers in&nbsp;...",
+                "formattedUrl": "http://mediaconfidential.blogspot.com/.../fact-checker-snopes-forced-to-rev...",
+                "htmlFormattedUrl": "http://mediaconfidential.blogspot.com/.../fact-checker-snopes-forced-to-rev...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9UXGmUYoBnr_Ue6uwY5pkos3xkJJ6lacdocfUBffxjXCHxB_qZ6brmGT&s",
+                            "width": "238",
+                            "height": "212"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL99PQnKWrVF7yPmZTVLAAPkWViUZViITxMdl9gE6YEN2_6f2CEQZW5X_VgowdtO1dpT88PdV5Z-fAh4VZdoIijdh9iGrHn2a5mZKVOxOum6dCErmF28FosgaaXY0FPk0_p5V73TOmS8znabKhqI3ptCgjqZjqxyiHcoCE-I98OM49g5bngX4eaUPXcZVt/w1200-h630-p-k-no-nu/biden%20hat.png",
+                            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+                            "og:title": "Fact-Checker Snopes Forced To Reverse Ruling",
+                            "google-adsense-platform-domain": "blogspot.com",
+                            "google-adsense-platform-account": "ca-host-pub-1556223355139109",
+                            "og:url": "http://mediaconfidential.blogspot.com/2024/01/fact-checker-snopes-forced-to-reverse.html",
+                            "og:description": "The left-leaning fact check site Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construc..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL99PQnKWrVF7yPmZTVLAAPkWViUZViITxMdl9gE6YEN2_6f2CEQZW5X_VgowdtO1dpT88PdV5Z-fAh4VZdoIijdh9iGrHn2a5mZKVOxOum6dCErmF28FosgaaXY0FPk0_p5V73TOmS8znabKhqI3ptCgjqZjqxyiHcoCE-I98OM49g5bngX4eaUPXcZVt/w1200-h630-p-k-no-nu/biden%20hat.png"
+                        }
+                    ],
+                    "blogposting": [
+                        {
+                            "articlebody": "The left-leaning fact check site Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construction hard hat backwards.Fox News Digital reports...",
+                            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL99PQnKWrVF7yPmZTVLAAPkWViUZViITxMdl9gE6YEN2_6f2CEQZW5X_VgowdtO1dpT88PdV5Z-fAh4VZdoIijdh9iGrHn2a5mZKVOxOum6dCErmF28FosgaaXY0FPk0_p5V73TOmS8znabKhqI3ptCgjqZjqxyiHcoCE-I98OM49g5bngX4eaUPXcZVt/s72-c/biden%20hat.png",
+                            "name": "Fact-Checker Snopes Forced To Reverse Ruling",
+                            "postid": "6268639096685996059",
+                            "blogid": "3247306282134314845",
+                            "url": "http://mediaconfidential.blogspot.com/2024/01/fact-checker-snopes-forced-to-reverse.html",
+                            "datepublished": "9:57:00 AM"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Radio Intel Since 2010. Now 18.0M+ Page Views! Edited by Tom Benson Got News? News Tips: pd1204@gmail.com.\n\n\nFox News Digital reports Biden was pictured during a visit to union workers in Wisconsin alongside Sen. Amy Klobuchar, D-Minn. The photo clearly shows Biden wearing the hard hat backwards, with the strap and tightening knob clearly visible.\nSnopes' initial fact check, published Friday, attempted to explain the appearance.\n\n\nThe left-leaning political fact checker Snopes reversed one of its rulings this weekend to admit that President Biden did, in fact, wear a construction hard hat backwards. (Twitter @amyklobuchar)\nSocial media users blasted the determination, however, as hard hats universally have the tightening strap on the back. After weathering a storm on social media, Snopes offered an update reversing the fact check.\n\"The prevailing counter-argument is that if the suspension of the hat has been purposely configured by its owner such that the bill and tightening knob are worn to the back (as was the case of the hat Biden wore), to wear that hat with the bill facing forward is, practically speaking, to wear it backwards. Therefore, it's argued, it's actually true that, in the photo op discussed below, Biden was wearing it backwards. The strap and tightening knob, which should have been behind Biden's head, were on his forehead.\"\n\n\n\nPost a Comment\n\n\n\n\n\n\n\n\n\n",
+                    "content_tokens": 287
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "This site appears to be a blog that may cover media commentary. Blogs typically vary greatly in reliability, often lacking rigorous editorial standards, leading to potential misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2024-01-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This source also confirms that Biden indeed wore the hard hat backwards, similar to evidence1 and evidence4. It addresses the backlash on Snopes' initial ruling and ultimately supports the claim with further clarification."
+                }
+            }
+        }
+    ]
+}

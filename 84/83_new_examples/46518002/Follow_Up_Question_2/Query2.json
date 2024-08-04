@@ -1,0 +1,534 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Technology for monitoring lunar impact events",
+                "totalResults": "57700000",
+                "searchTerms": "Technology for monitoring lunar impact events",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Technology for monitoring lunar impact events",
+                "totalResults": "57700000",
+                "searchTerms": "Technology for monitoring lunar impact events",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.269372,
+        "formattedSearchTime": "0.27",
+        "totalResults": "57700000",
+        "formattedTotalResults": "57,700,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "About Lunar Impact Monitoring Program - NASA",
+                "htmlTitle": "About <b>Lunar Impact Monitoring</b> Program - NASA",
+                "link": "https://www.nasa.gov/meteoroid-environment-office/about-lunar-impact-monitoring/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "Oct 24, 2023 ... Mission statement: Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids ...",
+                "htmlSnippet": "Oct 24, 2023 <b>...</b> Mission statement: Use Earth-based observations of the dark portion of the <b>Moon</b> to establish the rates and sizes of large meteoroids&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/meteoroid...office/about-lunar-impact-monitoring/",
+                "htmlFormattedUrl": "https://www.nasa.gov/meteoroid...office/about-<b>lunar</b>-<b>impact</b>-<b>monitoring</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_x0ZqiZCGX-LuI7X5GEmO8yB4uKpjwmfOXv9VqAbA6dUaF5u7XGX5oSI&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "topic",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "Lee Mohon",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "Mission statement: Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids (greater than 10s of",
+                            "searchgov_custom1": "1::97111",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "parsely-type": "index",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/meteoroid-environment-office/about-lunar-impact-monitoring/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "General",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "og:image:alt": "Artist Concept of an Impact on the Moon.",
+                            "twitter:title": "About Lunar Impact Monitoring Program - NASA",
+                            "og:title": "About Lunar Impact Monitoring Program - NASA",
+                            "og:image:height": "769",
+                            "og:updated_time": "2023-10-24T10:01:52-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "About Lunar Impact Monitoring Program",
+                            "parsely-pub-date": "2017-03-06T21:28:57Z",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Mission statement: Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids (greater than 10s of",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/meteoroid-environment-office/about-lunar-impact-monitoring/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Mission statement:** Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids (greater than 10s of grams or a few ounces in mass) striking the lunar surface.\n**Why it is important:** The Meteoroid Environment Office is charged with developing an understanding of the meteoroid environment.  Lunar impact monitoring enables measurement of meteoroids in the 10s of grams to kilograms size range which are difficult to measure with other techniques.\n**When we observe:** Observations are taken between New and 1st Quarter Moon and between Last Quarter and New Moon, when the solar illumination is between 10 and 55 percent. These conditions yield 10-12 observing nights per month.\n**Who is involved:** This project is a joint effort involving NASA’s __ and the Marshall Space Flight Center’s _Space Environments Team_. The participating individuals are/have been:\nRichard Altstatt, _Jacobs Technology (2006)_  \nRhiannon Blaauw, _JSEG (2010-2017)_  \nEmily Bowsher, _NASA Academy Intern (Summer 2008)_  \nTiffany Clements, _JSEG_  \nVictoria Coffey, _Space Environments Team (2006-2008)_  \nBill Cooke, _Meteoroid Environment Office Lead_  \nAnne Diekmann, _Jacobs Technology (2008-2010)_  \nLeanna Dugger, ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Andor Zyla sCMOS Astronomy cameras capture lunar impacts ...",
+                "htmlTitle": "Andor Zyla sCMOS Astronomy cameras capture <b>lunar impacts</b> ...",
+                "link": "https://www.oxinst.com/news/andor-zyla-scmos-astronomy-cameras-capture-lunar-impacts/",
+                "displayLink": "www.oxinst.com",
+                "snippet": "Dec 7, 2018 ... A technique to investigate the size-frequency distribution of NEOs is the so-called Lunar Monitoring Method. This method is based on ...",
+                "htmlSnippet": "Dec 7, 2018 <b>...</b> A <b>technique</b> to investigate the size-frequency distribution of NEOs is the so-called <b>Lunar Monitoring</b> Method. This method is based on&nbsp;...",
+                "formattedUrl": "https://www.oxinst.com/.../andor-zyla-scmos-astronomy-cameras-capture-lu...",
+                "htmlFormattedUrl": "https://www.oxinst.com/.../andor-zyla-scmos-astronomy-cameras-capture-<b>lu</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ3x7WrpvV6fcHOCtym8JiLEPJmUDd5BHB1DLiWmV4wERffCaUo1BU3tw&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "image": "https://www.oxinst.com//assets/uploads/PR LIn.jpg",
+                            "og:image": "https://www.oxinst.com//assets/uploads/PR LIn.jpg",
+                            "theme-color": "#1c2674",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Andor Zyla sCMOS Astronomy cameras capture lunar impacts - Oxford Instruments",
+                            "og:type": "website",
+                            "og:site_name": "Oxford Instruments",
+                            "og:title": "Andor Zyla sCMOS Astronomy cameras capture lunar impacts - Oxford Instruments",
+                            "twitter:creator": "@Oxinst",
+                            "og:description": "Impacts from Near-Earth Objects (NEOs), such as meteoroids, asteroids, or comets, can be a threat to Earth, artificial satellites, and spacecraft. It is therefore important to determine their size and assess how numerous they are. A technique to investigate the size-frequency distribution of NEOs is the so-called Lunar Monitoring Method. This method is based on observations and detections of faint light flashes on the Moon’s surface caused by NEO impacts.",
+                            "og:image:secure_url": "https://www.oxinst.com//assets/uploads/PR LIn.jpg",
+                            "twitter:image": "https://www.oxinst.com//assets/uploads/PR LIn.jpg",
+                            "twitter:image:alt": "Andor Zyla sCMOS Astronomy cameras capture lunar impacts",
+                            "twitter:site": "@oxinst",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Impacts from Near-Earth Objects (NEOs), such as meteoroids, asteroids, or comets, can be a threat to Earth, artificial satellites, and spacecraft. It is therefore important to determine their size and assess how numerous they are. A technique to investigate the size-frequency distribution of NEOs is the so-called Lunar Monitoring Method. This method is based on observations and detections of faint light flashes on the Moon’s surface caused by NEO impacts.",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.oxinst.com/news/andor-zyla-scmos-astronomy-cameras-capture-lunar-impacts/"
+                        }
+                    ],
+                    "webpage": [
+                        {
+                            "image": "https://www.oxinst.com//assets/uploads/PR LIn.jpg",
+                            "name": "Andor Zyla sCMOS Astronomy cameras capture lunar impacts - Oxford Instruments",
+                            "description": "Impacts from Near-Earth Objects (NEOs), such as meteoroids, asteroids, or comets, can be a threat to Earth, artificial satellites, and spacecraft. It is therefore important to determine their..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.oxinst.com/assets/components/phpthumbof/cache/PR_LIn.944580b6530db09c8a69416376d58b69.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": " 7 Dec\nImpacts from Near-Earth Objects (NEOs), such as meteoroids, asteroids, or comets, can be a threat to Earth, artificial satellites, and spacecraft. It is therefore important to determine their size and assess how numerous they are. A technique to investigate the size-frequency distribution of NEOs is the so-called Lunar Monitoring Method. This method is based on observations and detections of faint light flashes on the Moon’s surface caused by NEO impacts.\nRecently, the ESA-funded lunar monitoring project “NELIOTA”(1) (NEO Lunar Impacts and Optical TrAnsients), which features two Zyla 5.5 sCMOS cameras from Andor, an Oxford Instruments company, reported the successful detection of 31 NEO impact flashes in the project’s first year of observations(2). To date, the number of detected NEO impacts increased to 55. The monitoring campaign, now being extended to January 2021, has been performing observations since February 2017 with the recently updated and ground-based 1.2m Kryoneri telescope of the National Observatory of Athens (NOA).\nNELIOTA is the first project to use a 1 meter class telescope for lunar observations, capable of detecting impact flashes about 2 magnitudes fainter than other smaller-aperture monitoring telescopes. In addition, the telescope’s twin camera system called “Lunar imager” offers simultaneous observations of the Moon’s surface in two optical photometric bands, allowing researchers to determine the temperature of each impact flash(3). Furthermore, NELIOTA is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "NELIOTA: The wide-field, high-cadence, lunar monitoring system at ...",
+                "htmlTitle": "NELIOTA: The wide-field, high-cadence, <b>lunar monitoring system</b> at ...",
+                "link": "https://www.aanda.org/articles/aa/full_html/2018/11/aa33499-18/aa33499-18.html",
+                "displayLink": "www.aanda.org",
+                "snippet": "We report 31 NEO impact flashes detected during the first year of the NELIOTA campaign. The faintest flash was at 11.24 mag in the R-band (about two magnitudes ...",
+                "htmlSnippet": "We report 31 NEO <b>impact</b> flashes detected during the first year of the NELIOTA campaign. The faintest flash was at 11.24 mag in the R-band (about two magnitudes&nbsp;...",
+                "formattedUrl": "https://www.aanda.org/articles/aa/full_html/2018/11/.../aa33499-18.html",
+                "htmlFormattedUrl": "https://www.aanda.org/articles/aa/full_html/2018/11/.../aa33499-18.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1.0, shrink-to-fit=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.aanda.org/articles/aa/full_html/2018/11/aa33499-18/aa33499-18.html: 422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://www.aanda.org/articles/aa/full_html/2018/11/aa33499-18/aa33499-18.html",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "NELIOTA (NEO Lunar Impacts and Optical TrAnsients) - eoPortal",
+                "htmlTitle": "NELIOTA (NEO <b>Lunar Impacts</b> and Optical TrAnsients) - eoPortal",
+                "link": "https://www.eoportal.org/other-space-activities/neliota",
+                "displayLink": "www.eoportal.org",
+                "snippet": "Apr 15, 2020 ... It aims to determine the distribution and frequency of small NEOs (Near-Earth Objects) by monitoring lunar impact flashes. The NELIOTA project ...",
+                "htmlSnippet": "Apr 15, 2020 <b>...</b> It aims to determine the distribution and frequency of small NEOs (Near-Earth Objects) by <b>monitoring lunar impact</b> flashes. The NELIOTA project&nbsp;...",
+                "formattedUrl": "https://www.eoportal.org/other-space-activities/neliota",
+                "htmlFormattedUrl": "https://www.eoportal.org/other-space-activities/neliota",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "next-head-count": "8",
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Last updated:Apr 15, 2020\nNELIOTA (NEO Lunar Impacts and Optical TrAnsients)\n--------------------------------------------------\n**     **\nNELIOTA is an activity launched by the European Space Agency (ESA) at the  (NOA) in February, 2015. It aims to determine the distribution and frequency of small NEOs (Near-Earth Objects) by monitoring lunar impact flashes. The NELIOTA project has established an operational system that started monitoring the Moon for faint NEO impacts in early 2017, using the 1.2 m , located in the Northern Peloponnese, in Greece. The NELIOTA campaign will run until January 2021. \nThe Kryoneri telescope was upgraded for the project in 2016. Specialized fast-frame cameras were installed and specialized software was developed to control the telescope and cameras, as well as process the resulting images to detect the impacts automatically. NELIOTA furthermore provides a web-based user interface, where the impact events are reported and made available to the scientific community and the general public.\nThe 1.2 m Kryoneri telescope is capable of detecting flashes much fainter than current, small-aperture, lunar monitoring telescopes. NELIOTA is therefore expected to characterize the frequency and distribution of NEOs weighing as little as a few grams.\nTelescope\n---------\nThe 1.2 m Kryoneri telescope at Kryoneri Observatory (established in 1972), located in the district of Corinth in the northern Peloponnese, was selected...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "NELIOTA: The wide-field, high-cadence, lunar monitoring system at ...",
+                "htmlTitle": "NELIOTA: The wide-field, high-cadence, <b>lunar monitoring system</b> at ...",
+                "link": "https://www.aanda.org/articles/aa/pdf/2018/11/aa33499-18.pdf",
+                "displayLink": "www.aanda.org",
+                "snippet": "Lunar Imager camera system. Systems designed, so far, for monitoring lunar impact events mostly use black-and-white CCD video cameras. These are rather small ...",
+                "htmlSnippet": "<b>Lunar</b> Imager camera <b>system</b>. Systems designed, so far, for <b>monitoring lunar impact events</b> mostly use black-and-white CCD video cameras. These are rather small&nbsp;...",
+                "formattedUrl": "https://www.aanda.org/articles/aa/pdf/2018/11/aa33499-18.pdf",
+                "htmlFormattedUrl": "https://www.aanda.org/articles/aa/pdf/2018/11/aa33499-18.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXTOx2RkRE-yfzIRwppHZElf5I39IPxN8VxY_xjZCOWm6JRjxrKLda-I3O&s",
+                            "width": "225",
+                            "height": "224"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20181115154828+01'00'",
+                            "creationdate": "D:20181115131738+05'30'",
+                            "creator": "LaTeX with hyperref package",
+                            "fullbanner": "This is MiKTeX-pdfTeX 2.9.4902 (1.40.14)",
+                            "author": "Xilouris E. M., Bonanos A. Z., Bellas-Velidis I., Boumis P., Dapergolas A., Maroussis A., Liakos A., Alikakos I., Charmandaris V., Dimou G., Fytsilis A., Kelley M., Koschny D., Navarro V., Tsiganis K., Tsinganos K.",
+                            "subject": "A\\&A 619, A141 (2018). DOI: 10.1051/0004-6361/201833499",
+                            "producer": "pdfTeX-1.40.14",
+                            "title": "NELIOTA: The wide-field, high-cadence, lunar monitoring system at the prime focus of the Kryoneri telescope"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///3efc7395ea7e72decdba1395b3a0852e151d0f20016502013dcfa180bcbe3766"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.aanda.org/articles/aa/pdf/2018/11/aa33499-18.pdf: 422 Client Error: Unprocessable Entity for url: https://r.jina.ai/https://www.aanda.org/articles/aa/pdf/2018/11/aa33499-18.pdf",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Moon Hit By Largest Meteoroid Impact in 8 Years",
+                "htmlTitle": "<b>Moon</b> Hit By Largest Meteoroid <b>Impact</b> in 8 Years",
+                "link": "https://www.voanews.com/a/moon-rocked-by-huge-impact/1663284.html",
+                "displayLink": "www.voanews.com",
+                "snippet": "May 17, 2013 ... ... monitoring lunar impacts caused by meteoroids. \"On March 17, 2013, an object about the size of a small boulder hit the lunar surface in Mare ...",
+                "htmlSnippet": "May 17, 2013 <b>...</b> ... <b>monitoring lunar impacts</b> caused by meteoroids. &quot;On March 17, 2013, an object about the size of a small boulder hit the <b>lunar</b> surface in Mare&nbsp;...",
+                "formattedUrl": "https://www.voanews.com/a/moon-rocked-by-huge-impact/1663284.html",
+                "htmlFormattedUrl": "https://www.voanews.com/a/moon-rocked-by-huge-<b>impact</b>/1663284.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7qo5PB6lij1hgticdHtzs6Ua_DxywbXc4BvM1-qTwcV2bJVpXV7SmFw&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ffffff",
+                            "apple-itunes-app": "app-id=632618796, app-argument=//1663284.ltr",
+                            "og:image": "https://gdb.voanews.com/95eea06b-1962-4779-aebb-9df1bd111082_w1200_r1.png",
+                            "og:type": "article",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Voice of America",
+                            "msvalidate.01": "3286EE554B6F672A6F2E608C02343C0E",
+                            "author": "VOA News",
+                            "apple-mobile-web-app-title": "VOA",
+                            "og:title": "Moon Hit By Largest Meteoroid Impact in 8 Years",
+                            "og:image:height": "675",
+                            "msapplication-tileimage": "/Content/responsive/VOA/img/webApp/ico-144x144.png",
+                            "fb:pages": "36235438073",
+                            "og:description": "Flash was nearly 10 times as bright as anything ever seen before",
+                            "article:publisher": "https://www.facebook.com/voiceofamerica",
+                            "twitter:image": "https://gdb.voanews.com/95eea06b-1962-4779-aebb-9df1bd111082_w1200_r1.png",
+                            "fb:app_id": "362002700549372",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@voanews",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Flash was nearly 10 times as bright as anything ever seen before",
+                            "og:url": "https://www.voanews.com/a/moon-rocked-by-huge-impact/1663284.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://gdb.voanews.com/95eea06b-1962-4779-aebb-9df1bd111082_w1080_h608.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    Embedded Content\n*    Comments\nCancel Print\nLink has been copied to clipboard\n*   \n*    United States\n*    World\n*   \n*   \n*   \n*   \n*   \n##### Follow Us\nSearch \n  !]\nSearch \n! !\n Breaking News\nMoon Hit By Largest Meteoroid Impact in 8 Years\n===============================================\nMay 17, 2013 2:48 PM\n*   By \n* * *\n!\nOn May 17, NASA witnessed the largest impact of a meteoroid on the Moon in the past eight years. This is an artist's rendition.\nShare\n*   \n*   \n*   \n*   \n*   \nMoon Hit By Largest Meteoroid Impact in 8 Years\nshare\n*   \n*   \n*   \n*   \n*   \nPrint\nThe U.S. space agency, NASA, has just spotted the biggest explosion on the Moon in the eight years since the agency has been monitoring lunar impacts caused by meteoroids.  \n\"On March 17, 2013, an object about the size of a small boulder hit the lunar surface in Mare Imbrium,\" said Bill Cooke of NASA's Meteoroid Environment Office. \"It exploded in a flash nearly 10 times as bright as anything we've ever seen before.\"  \nThe meteoroid, which weighed an estimated 40 kilograms and was just over a third of a meter wide, hit the Moon at a speed of 90,000 kilometers per hour. NASA said it packed the explosive equivalent of five tons of TNT.  \nCooke believes the lunar impact might have been part of a much larger event.  \n\"On the night of March 17, NASA and University of Western Ontario all-sky cameras picked up an unusual number of deep-penetrating meteors right here on Earth,\" he said. \"These fireballs were traveling along nearly identical orbits between Earth and the asteroid belt.\"  \nThe blast on the moon was so bright that anyone looking at Earth’s closest neighbor at the time of impact could have seen the explosion without a telescope.  \nNASA plans to investigate the impact site with Lunar Reconnaissance Orbiter the next time the spacecraft passes over the site. NASA says the crater could be as wide as 20 meters.  \nSince the Moon lacks an atmosphere, meteors crash onto the lunar surface with frequency. NASA said more than half of all lunar meteors come from known meteoroid streams such as the Perseid and Leonid meteor showers.  \nHundreds of detectable lunar impacts occur every year, NASA said.  \n**Here's a video about the explosion:**  \n*   ]\n    #### \n    The Voice of America provides news and...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Bright Explosion on the Moon - NASA Science",
+                "htmlTitle": "Bright Explosion on the <b>Moon</b> - NASA Science",
+                "link": "https://science.nasa.gov/science-research/planetary-science/16may_lunarimpact/",
+                "displayLink": "science.nasa.gov",
+                "snippet": "May 16, 2013 ... May 17, 2013: For the past 8 years, NASA astronomers have been monitoring the Moon for signs of explosions caused by meteoroids hitting the ...",
+                "htmlSnippet": "May 16, 2013 <b>...</b> May 17, 2013: For the past 8 years, NASA astronomers have been <b>monitoring</b> the <b>Moon</b> for signs of explosions caused by meteoroids hitting the&nbsp;...",
+                "formattedUrl": "https://science.nasa.gov/science-research/planetary.../16may_lunarimpact/",
+                "htmlFormattedUrl": "https://science.nasa.gov/science-research/planetary.../16may_<b>lunarimpact</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV_9rr1Q0pBhNIQOLTnSKA3JJ9yobytE9UgKDkCkgSdqwhxErXXItDhto&s",
+                            "width": "150",
+                            "height": "110"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://science.nasa.gov/wp-content/uploads/2023/04/thumbnail-6-jpg.webp?w=150",
+                            "twitter:title": "Bright Explosion on the Moon - NASA Science",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "150",
+                            "searchgov_custom3": "post",
+                            "og:title": "Bright Explosion on the Moon - NASA Science",
+                            "og:image:height": "110",
+                            "twitter:image:height": "110",
+                            "og:description": "May 17, 2013: For the past 8 years, NASA astronomers have been monitoring the Moon for signs of explosions caused by meteoroids hitting the lunar surface. “Lunar meteor showers” have turned out to be more common than anyone expected, with hundreds of detectable impacts occurring every year. They’ve just seen the biggest explosion in the […]",
+                            "parsely-title": "Bright Explosion on the Moon - NASA Science",
+                            "twitter:image": "https://science.nasa.gov/wp-content/uploads/2023/04/thumbnail-6-jpg.webp?w=150",
+                            "parsely-pub-date": "2013-05-16 20:00:00",
+                            "parsely-type": "post",
+                            "parsely-tags": "Planetary Science",
+                            "twitter:image:width": "150",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "May 17, 2013: For the past 8 years, NASA astronomers have been monitoring the Moon for signs of explosions caused by meteoroids hitting the lunar surface. “Lunar meteor showers” have turned out to be more common than anyone expected, with hundreds of detectable impacts occurring every year. They’ve just seen the biggest explosion in the […]",
+                            "parsely-link": "https://science.nasa.gov/science-research/planetary-science/16may_lunarimpact/",
+                            "parsely-image-url": "https://science.nasa.gov/wp-content/uploads/2023/04/thumbnail-6-jpg.webp?w=150",
+                            "parsely-section": "science-research",
+                            "og:url": "https://science.nasa.gov/science-research/planetary-science/16may_lunarimpact/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://science.nasa.gov/wp-content/uploads/2023/04/thumbnail-6-jpg.webp?w=150"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Learning Resources\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Aeronautics\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Technology\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Universe\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   The Solar System\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Español\n    *   \n    *   \n    *   \n    *   \n    *   \n*   Science\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n]\n*   Explore\nSearchSubmit\n]\n*   News & Events\n*   Multimedia\n*   \n4 min read\nBright Explosion on the Moon\n============================\n!\nNASA Science Editorial Team\nMay 16, 2013\nArticle\n*   \n*   \n*   \n*   \n**May 17, 2013:** For the past 8 years, NASA astronomers have been monitoring the Moon for signs of explosions caused by meteoroids hitting the lunar surface. \"Lunar meteor showers\" have turned out to be more common than anyone expected, with hundreds of detectable impacts occurring every year.\nThey've just seen the biggest explosion in the history of the program.\n\"On March 17, 2013, an object about the size of a small boulder hit the lunar surface in Mare Imbrium,\" says Bill Cooke of NASA's Meteoroid Environment Office. \"It exploded in a flash nearly 10 times as bright as anything we've ever seen before.\"\nA new ScienceCast video describes the bright lunar explosion of March 17, 2013.\nAnyone looking at the Moon at the moment of impact could have seen the explosion--no telescope required. For about one second, the impact site was glowing like a 4th magnitude star.\nRon Suggs, an analyst at the Marshall Space Flight Center, was the first to notice the impact in a digital video recorded by one of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "A.L.P.O. LUNAR METEORITIC IMPACTS SEARCH",
+                "htmlTitle": "A.L.P.O. <b>LUNAR</b> METEORITIC <b>IMPACTS</b> SEARCH",
+                "link": "https://alpo-astronomy.org/lunarupload/lunimpacts.htm",
+                "displayLink": "alpo-astronomy.org",
+                "snippet": "VENUS FIREBALL CAMPAIGN: We are encouraging those who monitor the Moon for meteoroid impacts to turn their attention, and their ...",
+                "htmlSnippet": "VENUS FIREBALL CAMPAIGN: We are encouraging those who <b>monitor</b> the <b>Moon</b> for meteoroid <b>impacts</b> to turn their attention, and their&nbsp;...",
+                "formattedUrl": "https://alpo-astronomy.org/lunarupload/lunimpacts.htm",
+                "htmlFormattedUrl": "https://alpo-astronomy.org/<b>lunar</b>upload/lun<b>impact</b>s.htm",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "originator": "Microsoft Word 15",
+                            "progid": "Word.Document"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**ALPO Lunar Meteoritic Impact Search**\nBrian Cudnik   \nCoordinator\n---------------------------\nDepartment of Physics\nPrairie View A&M University\nP.O. Box 519, MS 2230\nPrairie View, Texas 77446  \nThis program is designed to standardize and coordinate amateur observations of meteoroid impacts on the Moon. This field has exciting possibilities but only if the observations are done in a uniform manner and pooled to look for confirmations of positive observations. Anyone interested in participating should contact the Coordinator above for further information. The Coordinator maintains an  of regular participants, e-mail him if you would like to be added to the list.  to read the full mission statement.\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nWhat's New (5/29/2023)?\n-----------------------\n**MIRROR SITE:** \n-------------------------------------------------------------------------------------------------\n_Quarterly Briefings and Upcoming Opportunities_\n------------------------------------------------\nIMPORTANT NOTE: We no longer maintain an e-mail list at this time as the yahoogroups host has discontinued hosting groups. We now have a group,  and we encourage all those who are interested to sign up.\n-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nVENUS FIREBALL CAMPAIGN:\n------------------------\nWe are encouraging those who monitor the Moon for meteoroid impacts to turn their attention, and their systems, toward Venus for three weeks during the summer. The techniques and technology are similar to observing lunar meteors, except instead of using a focal reducer to widen the field, use a 2x or 3x barlow lens (as seeing allows) to enlarge the image of Venus (which narrows the field) at moderate to high magnification.\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nI came across an article in the March 2023 issue of Sky and Telescope (pp. 52-53). The article is titled “Hunting for Venusian Fireballs” by Tom Dobbins. The Venusian fireball hunt will run from June 16 to July 7, when the planet is favorably placed and physically close to the Earth to maximize the chances of observing fireballs. Video is encouraged but visual observations can also be done.\n---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nWhile the prime time for observations can be the evening from sunset until Venus gets too low, one can also extend this into the daylight hours, especially if one has a near IR filter that would render the sky dark and allow the...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "UMD Geologist Helped Develop Lunar Instrument Chosen for ...",
+                "htmlTitle": "UMD Geologist Helped Develop <b>Lunar</b> Instrument Chosen for ...",
+                "link": "https://cmns.umd.edu/news-events/news/Nicholas-Schmerr-develop-lunar-instrument-chosen-upcoming-nasa-artemis-mission",
+                "displayLink": "cmns.umd.edu",
+                "snippet": "Apr 10, 2024 ... The Lunar Environment Monitoring System is designed to track the moon's seismic activity during NASA's Artemis III mission. NASA chose the ...",
+                "htmlSnippet": "Apr 10, 2024 <b>...</b> The <b>Lunar</b> Environment <b>Monitoring System</b> is designed to track the <b>moon&#39;s</b> seismic activity during NASA&#39;s Artemis III mission. NASA chose the&nbsp;...",
+                "formattedUrl": "https://cmns.umd.edu/...events/.../Nicholas-Schmerr-develop-lunar-instrume...",
+                "htmlFormattedUrl": "https://cmns.umd.edu/...<b>events</b>/.../Nicholas-Schmerr-develop-<b>lunar</b>-instrume...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA8v3Tz1r5CRtX4aTO-AjbL-MoC-x1KZpTvM_46YpOvcOjBDn0Y5UsDiCm&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "Article": [
+                        {
+                            "dateCreated": "2024-04-10T15:31:40+00:00",
+                            "name": "UMD Geologist Helped Develop Lunar Instrument Chosen for Upcoming NASA Artemis Mission",
+                            "text": "The Lunar Environment Monitoring System is designed to track the moon’s seismic activity during NASA’s Artemis III mission. NASA chose the first science instruments designed for astronauts..."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cmns.umd.edu/sites/default/files/styles/square_small/public/articles/NASA_Artemis_astronaut%20%281%29.jpg?itok=kOM8JBcq",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "UMD Geologist Helped Develop Lunar Instrument Chosen for Upcoming NASA Artemis Mission",
+                            "og:site_name": "College of Computer, Mathematical, and Natural Sciences | University of Maryland",
+                            "og:image:url": "https://cmns.umd.edu/sites/default/files/UMD_CMNS_Left_Color_Share-FB.png",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://cmns.umd.edu/news-events/news/Nicholas-Schmerr-develop-lunar-instrument-chosen-upcoming-nasa-artemis-mission",
+                            "og:title": "UMD Geologist Helped Develop Lunar Instrument Chosen for Upcoming NASA Artemis Mission | College of Computer, Mathematical, and Natural Sciences | University of Maryland",
+                            "og:image:height": "630",
+                            "twitter:image:height": "630",
+                            "og:description": "The Lunar Environment Monitoring System is designed to track the moon’s seismic activity during NASA’s Artemis I",
+                            "og:image:secure_url": "https://cmns.umd.edu/sites/default/files/UMD_CMNS_Left_Color_Share-FB.png",
+                            "twitter:image": "https://cmns.umd.edu/sites/default/files/styles/square_small/public/articles/NASA_Artemis_astronaut%20%281%29.jpg?itok=kOM8JBcq",
+                            "twitter:site": "@UMDscience",
+                            "twitter:image:width": "1200",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The Lunar Environment Monitoring System is designed to track the moon’s seismic activity during NASA’s Artemis I",
+                            "mobileoptimized": "width",
+                            "og:url": "https://cmns.umd.edu/news-events/news/Nicholas-Schmerr-develop-lunar-instrument-chosen-upcoming-nasa-artemis-mission"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cmns.umd.edu/sites/default/files/styles/square_small/public/articles/NASA_Artemis_astronaut%20%281%29.jpg?itok=kOM8JBcq"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nNASA chose the first science instruments designed for astronauts to deploy on the surface of the moon during Artemis III, the agency’s first crewed mission to the lunar surface in over 50 years currently planned for 2026. Among the selected instruments was the Lunar Environment Monitoring Station (LEMS), a seismometer package developed by a team of researchers including Nicholas Schmerr, an associate professor of geology at the University of Maryland, College Park (UMD). Once installed near the lunar south pole, LEMS will collect valuable seismic data about the lunar environment and its interior, which will help prepare NASA to establish a long term presence on other planetary bodies.\n“Our primary goal is to have the mission record moonquakes and characterize the moon’s seismicity,” explained Schmerr, who was also named deputy principal investigator of the LEMS project. “This means being patient and listening for moonquakes, which can be caused by things like impacts hitting the moon or internal quaking from deep inside the lunar interior. With enough seismic events, we’ll be able to use our tools to study the moon’s deeper structure.”\n\nTeam members during final preparation of the LEMS Engineering Units for thermal-vacuum testing. During this test, the LEMS prototype was subjected to the vacuum and harsh thermal conditions that mimic the lunar surface to demonstrate its resilience and ability to sustain itself. Image courtesy of NASA MSFC\nLed by University of Maryland, Baltimore...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Impacts on the Moon: Analysis methods and size distribution of ...",
+                "htmlTitle": "<b>Impacts</b> on the <b>Moon</b>: Analysis methods and size distribution of ...",
+                "link": "https://www.sciencedirect.com/science/article/abs/pii/S0032063321000404",
+                "displayLink": "www.sciencedirect.com",
+                "snippet": "We tested our methods against confirmed impact events and constructed the meteoroid size frequency distribution of impactors using literature data of the last ...",
+                "htmlSnippet": "We tested our methods against confirmed <b>impact events</b> and constructed the meteoroid size frequency distribution of impactors using literature data of the last&nbsp;...",
+                "formattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0032063321000404",
+                "htmlFormattedUrl": "https://www.sciencedirect.com/science/article/abs/pii/S0032063321000404",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoyN0KJ53fgZJQZz34t76jgjtaHdyULm44RVHUiRHzAQdppyRV_ylQOA&s",
+                            "width": "113",
+                            "height": "150"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_author_orcid": "0000-0002-7366-302X",
+                            "og:image": "https://ars.els-cdn.com/content/image/1-s2.0-S0032063321X00050-cov150h.gif",
+                            "citation_publication_date": "2021/06/01",
+                            "citation_title": "Impacts on the Moon: Analysis methods and size distribution of impactors",
+                            "citation_author_institution": "Université Côte d’Azur, CNRS, Observatoire de la Côte d’Azur, Laboratoire Lagrange, Blvd de l’Observatoire, CS 34229, 06304, Nice cedex 4, France",
+                            "citation_publisher": "Pergamon",
+                            "citation_type": "JOUR",
+                            "citation_id": "105201",
+                            "citation_journal_title": "Planetary and Space Science",
+                            "og:description": "We are preparing a telescope system to carry out a survey of detection and analysis of lunar impact flashes. In the framework of this project, here we…",
+                            "citation_online_date": "2021/03/04",
+                            "citation_author_email": "chrysa.avdellidou@oca.eu",
+                            "citation_issn": "0032-0633",
+                            "sdtech": "Proudly brought to you by the SD Technology team in London, Dayton, and Amsterdam",
+                            "og:type": "article",
+                            "citation_article_type": "Full-length article",
+                            "citation_abstract": "<div class=\"Abstracts u-font-serif text-s\" id=\"abstracts\"><div class=\"abstract author\" id=\"abs0010\" lang=\"en\"><h2 class=\"section-title u-h4 u-margin-l-top u-margin-xs-bottom\">Abstract</h2><div id=\"abssec0010\"><p id=\"abspara0010\">We are preparing a telescope system to carry out a survey of detection and analysis of <a href=\"/topics/physics-and-astronomy/lunar-impacts\" title=\"Learn more about lunar impact from ScienceDirect&#x27;s AI-generated Topic Pages\" class=\"topic-link\">lunar impact</a><span> flashes. In the framework of this project, here we present all necessary methods to automatically identify these luminous events, their lunar impact coordinates, the origin of the impacting <a href=\"/topics/physics-and-astronomy/meteoroids\" title=\"Learn more about meteoroids from ScienceDirect&#x27;s AI-generated Topic Pages\" class=\"topic-link\">meteoroids</a>, as well as the estimation of their physical properties such as mass and size. We tested our methods against confirmed impact events and constructed the meteoroi",
+                            "og:title": "Impacts on the Moon: Analysis methods and size distribution of impactors",
+                            "citation_author": "Chrysa Avdellidou",
+                            "citation_pii": "S0032063321000404",
+                            "citation_firstpage": "105201",
+                            "viewport": "initial-scale=1",
+                            "citation_doi": "10.1016/j.pss.2021.105201",
+                            "dc.identifier": "10.1016/j.pss.2021.105201",
+                            "citation_volume": "200"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ars.els-cdn.com/content/image/1-s2.0-S0032063321X00050-cov150h.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "]\n]\nHighlights\n----------\n*   • Methodology to detect, locate and analyse LIFs.\n*   • First LIF detected from Nice, France.\n*   • Temperatures of LIFs follow a log-normal distribution with node that agrees with theoretical values.\n*   values.\n*   • The SFD of cm-dm meteoroids has a knee at sizes around 10 cm with corresponding slopes −1.4 for the smaller and −2.2 for the larger meteoroids.\nAbstract\n--------\nWe are preparing a telescope system to carry out a survey of detection and analysis of  flashes. In the framework of this project, here we present all necessary methods to automatically identify these luminous events, their lunar impact coordinates, the origin of the impacting , as well as the estimation of their physical properties such as mass and size. We tested our methods against confirmed impact events and constructed the meteoroid size frequency distribution of impactors using literature data of the last 20 years. In addition, we present the first lunar impact event observed from the Observatoire de la Côte d’Azur that was detected during the testing phase of our project.\nIntroduction\n------------\nImpact cratering is a fundamental process, altering planetary surfaces. Currently we have reached a level where we observe and study impact craters on a plethora of solar system bodies such as planets, moons, asteroids (Marchi et al, 2012, 2015; Sugita et al., 2019; Walsh et al., 2019), Kuiper-belt objects (Singer et al., 2019) and comet nuclei (Vincent et al., 2015). Cratering has been used, together with the knowledge of the size frequency distribution of potential impactors for a given collisional environment, in order to date planetary surfaces based on the simple idea that old surfaces have accumulated more impact craters than more recent ones. This started more than 50 years ago with the Moon (Baldwin, 1971) and was later used to study the chronology on other planetary surfaces such as Mercury (Neukum et al., 2001...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

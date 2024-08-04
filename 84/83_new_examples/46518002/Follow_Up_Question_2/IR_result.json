@@ -1,0 +1,178 @@
+{
+    "Question": "What methods do reputable astronomical institutions use to visually verify lunar impact events?",
+    "Prediction": {
+        "need_online_search": "Yes",
+        "reasoning": "The question requires detailed and specific information about the methods and technologies used by astronomical institutions to verify and monitor lunar impact events, which is not fully covered in the provided information. Online search will provide comprehensive and current insights.",
+        "Queries": {
+            "Query1": {
+                "query": "Methods used by institutions to detect lunar impacts",
+                "searching_goal": "Collect information about the different techniques and methodologies that reputable astronomical organizations use to detect impacts on the lunar surface, including observational methods and tools utilized."
+            },
+            "Query2": {
+                "query": "Technology for monitoring lunar impact events",
+                "searching_goal": "Gain insights into the specific technologies employed by space agencies and astronomical institutions for monitoring lunar impacts, focusing on the types of equipment and data analysis methods they use."
+            }
+        }
+    },
+    "Query1": [
+        {
+            "title": "Automated Lunar Crater Identification with Chandrayaan-2 TMC-2 ...",
+            "link": "https://www.nature.com/articles/s41598-024-58438-4",
+            "snippet": "Apr 8, 2024 ... Terrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our ...",
+            "content": {
+                "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nScientific Reports\nvolume 14, Article number: 8231 (2024)\n            Cite this article\n\n3873 Accesses\nMetrics details\nTerrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our Solar System. Traditional crater identification methods struggle with accuracy because of the diverse forms, locations, and sizes of the craters. Our main aim is to locate lunar craters using images from Terrain Mapping Camera-2 (TMC-2) onboard the Chandrayaan-II satellite. The crater-based U-Net model, a convolutional neural network frequently used in image segmentation tasks, is a deep learning method presented in this study. The task of crater detection was accomplished with the proposed model in two steps: initially, it was trained using Resnet18 as the backbone and U-Net based on Image Net as weights. Secondly, TMC-2 images from Chandrayaan-2 were used to detect craters based on the trained model. The model proposed in this study comprises a neural network, feature extractor, and optimization technique for lunar crater detection. The model achieves 80.95% accuracy using unannotated data and precision and recall are much better with annotated data with an accuracy of 86.91% in object detection with TMC-2 ortho images. 2000 images have been considered for the present work as manual annotation is a time-consuming process and the inclusion of more images...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "Nature is one of the most prestigious scientific journals in the world, known for its high standards in peer review and impact factor. It frequently publishes groundbreaking research in various fields of science, including astrophysics and planetary studies. The articles here are well-cited and undergo rigorous scrutiny, making it an excellent source for credible scientific information."
+            },
+            "Newness": {
+                "NewnessScore": 6,
+                "Date": "2024-04-08"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This article discusses crater detection using images from the Chandrayaan II mission and mentions a specific model (U-Net) for such purposes. It reflects on established methodologies that show effective detection of impact events, making it somewhat relevant as it highlights procedures that could aid in verifying claims of lunar impacts."
+            },
+            "total_score": 27
+        },
+        {
+            "title": "The MIDAS Project | ESA Cosmos",
+            "link": "https://www.cosmos.esa.int/documents/549247/643223/Madiedo_The_MIDAS_project.pdf",
+            "snippet": "Moon impact flashes detection software. Developed by J.M. Madiedo. MIDAS: Moon Impacts Detection and Analysis Software. Page 15 ...",
+            "content": {
+                "content": "[Content truncated]...First Quarter\n\u0001 Last quarter-New Moon\n\u0001 High sensitivity CCD video cameras\n\u0001 Focal reducers are employed\n\u0001 Earthshine allows identifying\nfeatures on the lunar surface\nProcedureCONTRIBUTION FROM METEOR STATIONS\n\u0001 Analyze the behavior of meteoroids in the atmosphere\n\u0001 Fact: meteoroid streams impacting Earth also impact the Moon\n(both bodies share a common meteoroid environment)\n\u0001 Important to determine the source of meteoroids impacting the Moon\n\u0001 Synergy with lunar impact monitoring\nInput from meteor stationsMETEOR STATIONS OPERATED BY UNIVERSITY OF HUELVA\n\u0001 10 meteor stations\n\u0001 Fully automated systems\n\u0001 50 CCD cameras\n\u0001 Cover about 95% of the\nIberian Peninsula and\nneighboring areas\n\u0001Collaboration with 15 extra\nstations operated by the\nSpanish Meteor Network\nInput from meteor stationsMAIN REASONS TO DEVELOP SOFTWARE\n\u0001 Most impact flashes are dim and last a fraction of a second\n\u0001 A large amount of video streaming is generated\n\u0001 Impact flash confirmation requires simultaneous detection from at least two systems\n\u0001 Flash identification with human eye is not practical\nSoftware developmentMoon impact flashes detection software. Developed by J.M. Madiedo.\nMIDAS: Moon Impacts Detection and Analysis Software\u0001 Developed under C/C++\n\u0001 MS-Windows platforms (XP, Vista, 7, 8)\n\u0001 Easily portable to other platforms (maybe in future)\n\u0001 Requirements for specific or special features:\n\u0001 Intranet connection\n\u0001 Internet connection\n\u0001 Fast real time processing: up to 100 fps with 720x576 pixels\nwith Pentium 4 PC 2.4 GHz (depending on detection algorithm)\nMIDAS: Moon Impacts Detection and Analysis SoftwareMain features\n\u0001 Image capture (analogue and digital cameras)\n\u0001 Image and video processing\n\u0001 Moon Impact flashes identification\n\u0001 Method 1: on the fly\n\u0001 Method 2: on previously recorded video streaming (preferred method)\n\u0001 Very fast data reduction\n\u0001 Moon impact flashes confirmation\n\u0001 Photometry\n\u0001 Calculation of impact parameters\n\u0001 Determination of impactor source\n\u0001 Adapted to indentify impacts on other bodies in the Solar System\nMIDAS: Moon Impacts Detection and Analysis SoftwareImpact flashes detectionImpact flash identificationMask editorScintillation mask for stars and for Moon’s border is\nautomatically calculated by the software\nMask editorImage and video processing kernels\n\u0001 Video files must be processed before the flashes identification\n\u0001 Watec cameras generate interlaced video\n\u0001 Improve the detectability of fainter flashes\n\u0001 Main processing routines\n\u0001 Video deinterlacing\n\u0001 Noise reduction filters\n\u0001 Increase data reduction time\nMIDAS: Moon Impacts Detection and Analysis Software\u0001 When a telescope detects an event, it communicates with other telescopes in the\nsystem via TCP/IP network protocol\n\u0001 The other telescopes may then confirm or not the detected event\n\u0001 If the event is confirmed, it is automatically stored in...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "This website is managed by the European Space Agency and provides authoritative information about space missions, scientific advancements, and environmental studies. As a government-funded research entity, it offers highly credible and accurate data on astronomical phenomena, including lunar impacts, making it a top resource for reliable information in the space science domain."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "MIDAS is specifically mentioned as software developed for identifying moon impact flashes. This directly addresses visual verification methods and outlines the operational processes of detecting impacts, making it very relevant to the question."
+            },
+            "total_score": 25
+        },
+        {
+            "title": "An Improved Global Catalog of Lunar Impact Craters (≥1 km) With ...",
+            "link": "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006728",
+            "snippet": "Aug 11, 2021 ... Our crater detection approach can achieve a detection rate of about 85%. We also present an approach for extracting 3D morphometric information ...",
+            "content": {
+                "content": "[Content truncated]... them in crater catalogs.\nIn support of such efforts, a lunar crater catalog recently published by Robbins () included craters with diameters reaching 1–2 km. This crater catalog is the most up-to-date one in terms of the sizes and number of craters it contains. However, it does not include three-dimensional (3D) morphometric information of crater morphology, such as crater depth, rim height, and wall slope, yet such information is essential for understanding various planetary processes, including terrain properties and impact cratering processes. Thus, it is important to generate a global crater catalog that covers craters of smaller sizes while providing morphometric information of the craters.\nPast efforts to extract 3D morphometric information of craters have focused on local regions on the Moon. Global attempts to derive the 3D morphometric information of craters as small as 1 km in diameter have seldom be attempted due to the lack of high-resolution data and the amount of effort needed. Recent lunar missions, such as the Lunar Reconnaissance Orbiter (LRO) (Smith et al., ), Chang' E-2 (Li et al., ), and the Selenological and Engineering Explorer (SELENE) (Kato et al., ), collected higher resolution remote-sensing data sets that include orbital images and laser altimetry data, which offer opportunities to investigate relatively smaller craters while providing more precise morphometric information.\nIn this study, we first present an effective approach for the automated detection of craters and extraction of their 3D morphometric information. The approaches we developed were used to generate a global catalog of lunar craters, LU1319373, that, contains ∼1.32 million craters with diameters of ≥1 km while providing 3D morphometric information. Based on this crater catalog, we present a global analysis of craters in terms of spatial density, saturation, and depth-to-diameter ratios, and discuss the implications of these analyses.\n2 Related Works\n---------------\n### 2.1 Crater Detection Methods\nLunar craters have typically been detected from lunar surface images and/or digital elevation models (DEMs) via manual digitization (e.g., Head et al., ; Robbins, ) or computer-assisted methods (e.g., Luo et al., ; Salamunićcar, Lončarić, Grumpe, & Wöhler, ). Manual digitization is usually labor-intensive and time-consuming when applied to crater detection in large data sets. Computer...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "This site hosts journals published by the American Geophysical Union, focusing on Earth and planetary sciences. Publications here are high-quality and peer-reviewed, often cited in academia. The AGU has a reputable history of advancing scientific knowledge about geological phenomena, making it a viable resource for understanding impacts on the Moon."
+            },
+            "Newness": {
+                "NewnessScore": 1,
+                "Date": "2021-08-11"
+            },
+            "Relevance": {
+                "RelevanceScore": 7,
+                "Relevance Justification": "This evidence outlines an automated crater detection approach that achieves a significant detection rate and emphasizes the methodology involved. Its focus on using high-resolution data informs contemporary practices in identifying impact craters, highlighting relevant methods to answer the question effectively."
+            },
+            "total_score": 23
+        }
+    ],
+    "Query2": [
+        {
+            "title": "About Lunar Impact Monitoring Program - NASA",
+            "link": "https://www.nasa.gov/meteoroid-environment-office/about-lunar-impact-monitoring/",
+            "snippet": "Oct 24, 2023 ... Mission statement: Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids ...",
+            "content": {
+                "content": "**Mission statement:** Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids (greater than 10s of grams or a few ounces in mass) striking the lunar surface.\n**Why it is important:** The Meteoroid Environment Office is charged with developing an understanding of the meteoroid environment.  Lunar impact monitoring enables measurement of meteoroids in the 10s of grams to kilograms size range which are difficult to measure with other techniques.\n**When we observe:** Observations are taken between New and 1st Quarter Moon and between Last Quarter and New Moon, when the solar illumination is between 10 and 55 percent. These conditions yield 10-12 observing nights per month.\n**Who is involved:** This project is a joint effort involving NASA’s __ and the Marshall Space Flight Center’s _Space Environments Team_. The participating individuals are/have been:\nRichard Altstatt, _Jacobs Technology (2006)_  \nRhiannon Blaauw, _JSEG (2010-2017)_  \nEmily Bowsher, _NASA Academy Intern (Summer 2008)_  \nTiffany Clements, _JSEG_  \nVictoria Coffey, _Space Environments Team (2006-2008)_  \nBill Cooke, _Meteoroid Environment Office Lead_  \nAnne Diekmann, _Jacobs Technology (2008-2010)_  \nLeanna Dugger, ...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 10,
+                "justification": "NASA is the United States government agency responsible for the nation's civilian space program and for aeronautics and aerospace research. It is a highly credible source for space and astronomical information, backed by rigorous scientific research. Historical accuracy and transparency in their findings are hallmarks of the agency, as seen with their Apollo mission data and ongoing lunar studies. NASA actively engages in educating the public and debunking misinformation related to space phenomena."
+            },
+            "Newness": {
+                "NewnessScore": 5,
+                "Date": "2023-10-24"
+            },
+            "Relevance": {
+                "RelevanceScore": 10,
+                "Relevance Justification": "This evidence explicitly describes NASA's Lunar Impact Monitoring Program, which monitors the Moon for potential impacts using Earth-based observations. It provides insights into how often observations are made and what types of impacts are monitored. This directly relates to the question about the methods used to verify lunar impact events."
+            },
+            "total_score": 35
+        },
+        {
+            "title": "UMD Geologist Helped Develop Lunar Instrument Chosen for ...",
+            "link": "https://cmns.umd.edu/news-events/news/Nicholas-Schmerr-develop-lunar-instrument-chosen-upcoming-nasa-artemis-mission",
+            "snippet": "Apr 10, 2024 ... The Lunar Environment Monitoring System is designed to track the moon's seismic activity during NASA's Artemis III mission. NASA chose the ...",
+            "content": {
+                "content": "\nNASA chose the first science instruments designed for astronauts to deploy on the surface of the moon during Artemis III, the agency’s first crewed mission to the lunar surface in over 50 years currently planned for 2026. Among the selected instruments was the Lunar Environment Monitoring Station (LEMS), a seismometer package developed by a team of researchers including Nicholas Schmerr, an associate professor of geology at the University of Maryland, College Park (UMD). Once installed near the lunar south pole, LEMS will collect valuable seismic data about the lunar environment and its interior, which will help prepare NASA to establish a long term presence on other planetary bodies.\n“Our primary goal is to have the mission record moonquakes and characterize the moon’s seismicity,” explained Schmerr, who was also named deputy principal investigator of the LEMS project. “This means being patient and listening for moonquakes, which can be caused by things like impacts hitting the moon or internal quaking from deep inside the lunar interior. With enough seismic events, we’ll be able to use our tools to study the moon’s deeper structure.”\n\nTeam members during final preparation of the LEMS Engineering Units for thermal-vacuum testing. During this test, the LEMS prototype was subjected to the vacuum and harsh thermal conditions that mimic the lunar surface to demonstrate its resilience and ability to sustain itself. Image courtesy of NASA MSFC\nLed by University of Maryland, Baltimore...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 8,
+                "justification": "The Center for Math and Natural Sciences at the University of Maryland works on educational outreach and resources related to mathematical and scientific disciplines. Although primarily academic, their level of research and commitment to education enhances their credibility. Their focus on producing reliable educational content contributes to a general understanding of natural phenomena, including space."
+            },
+            "Newness": {
+                "NewnessScore": 6,
+                "Date": "2024-04-10"
+            },
+            "Relevance": {
+                "RelevanceScore": 6,
+                "Relevance Justification": "This evidence discusses a future project aimed at tracking the Moon's seismic activity, which includes impacts. However, it is more focused on data collection rather than on the visual verification methodologies for impact events."
+            },
+            "total_score": 26
+        },
+        {
+            "title": "Impacts on the Moon: Analysis methods and size distribution of ...",
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0032063321000404",
+            "snippet": "We tested our methods against confirmed impact events and constructed the meteoroid size frequency distribution of impactors using literature data of the last ...",
+            "content": {
+                "content": "]\n]\nHighlights\n----------\n*   • Methodology to detect, locate and analyse LIFs.\n*   • First LIF detected from Nice, France.\n*   • Temperatures of LIFs follow a log-normal distribution with node that agrees with theoretical values.\n*   values.\n*   • The SFD of cm-dm meteoroids has a knee at sizes around 10 cm with corresponding slopes −1.4 for the smaller and −2.2 for the larger meteoroids.\nAbstract\n--------\nWe are preparing a telescope system to carry out a survey of detection and analysis of  flashes. In the framework of this project, here we present all necessary methods to automatically identify these luminous events, their lunar impact coordinates, the origin of the impacting , as well as the estimation of their physical properties such as mass and size. We tested our methods against confirmed impact events and constructed the meteoroid size frequency distribution of impactors using literature data of the last 20 years. In addition, we present the first lunar impact event observed from the Observatoire de la Côte d’Azur that was detected during the testing phase of our project.\nIntroduction\n------------\nImpact cratering is a fundamental process, altering planetary surfaces. Currently we have reached a level where we observe and study impact craters on a plethora of solar system bodies such as planets, moons, asteroids (Marchi et al, 2012, 2015; Sugita et al., 2019; Walsh et al., 2019), Kuiper-belt objects (Singer et al., 2019) and comet nuclei (Vincent et al., 2015). Cratering has been used, together with the knowledge of the size frequency distribution of potential impactors for a given collisional environment, in order to date planetary surfaces based on the simple idea that old surfaces have accumulated more impact craters than more recent ones. This started more than 50 years ago with the Moon (Baldwin, 1971) and was later used to study the chronology on other planetary surfaces such as Mercury (Neukum et al., 2001...[Content truncated]",
+                "content_tokens": 500
+            },
+            "website_quality_evaluation": {
+                "website_qualityScore": 9,
+                "justification": "ScienceDirect is a leading database for peer-reviewed scientific articles. It provides access to a wide array of articles focused on various scientific fields, including astronomy. The reliability of its content is high due to the nature of peer-reviewed publications. However, access to full articles may require a subscription, which can limit public access to information, although abstracts are typically available."
+            },
+            "Newness": {
+                "NewnessScore": 0,
+                "Date": "No date found"
+            },
+            "Relevance": {
+                "RelevanceScore": 8,
+                "Relevance Justification": "This evidence outlines methods to automatically identify lunar impact events and discusses testing against confirmed impact events. It directly relates to the question of how events are verified, making it very relevant to assessing the claim's veracity."
+            },
+            "total_score": 25
+        }
+    ],
+    "RelevantEvidence": {
+        "Query2_evidence_1": {
+            "title": "About Lunar Impact Monitoring Program - NASA",
+            "link": "https://www.nasa.gov/meteoroid-environment-office/about-lunar-impact-monitoring/",
+            "snippet": "Oct 24, 2023 ... Mission statement: Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids ...",
+            "content": "**Mission statement:** Use Earth-based observations of the dark portion of the Moon to establish the rates and sizes of large meteoroids (greater than 10s of grams or a few ounces in mass) striking the lunar surface.\n**Why it is important:** The Meteoroid Environment Office is charged with developing an understanding of the meteoroid environment.  Lunar impact monitoring enables measurement of meteoroids in the 10s of grams to kilograms size range which are difficult to measure with other techniques.\n**When we observe:** Observations are taken between New and 1st Quarter Moon and between Last Quarter and New Moon, when the solar illumination is between 10 and 55 percent. These conditions yield 10-12 observing nights per month.\n**Who is involved:** This project is a joint effort involving NASA’s __ and the Marshall Space Flight Center’s _Space Environments Team_. The participating individuals are/have been:\nRichard Altstatt, _Jacobs Technology (2006)_  \nRhiannon Blaauw, _JSEG (2010-2017)_  \nEmily Bowsher, _NASA Academy Intern (Summer 2008)_  \nTiffany Clements, _JSEG_  \nVictoria Coffey, _Space Environments Team (2006-2008)_  \nBill Cooke, _Meteoroid Environment Office Lead_  \nAnne Diekmann, _Jacobs Technology (2008-2010)_  \nLeanna Dugger, ...[Content truncated]"
+        },
+        "Query1_evidence_1": {
+            "title": "Automated Lunar Crater Identification with Chandrayaan-2 TMC-2 ...",
+            "link": "https://www.nature.com/articles/s41598-024-58438-4",
+            "snippet": "Apr 8, 2024 ... Terrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our ...",
+            "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\n            the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in\n            Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles\n            and JavaScript.\nAdvertisement\n\nScientific Reports\nvolume 14, Article number: 8231 (2024)\n            Cite this article\n\n3873 Accesses\nMetrics details\nTerrestrial planets and their moons have impact craters, contributing significantly to the complex geomorphology of planetary bodies in our Solar System. Traditional crater identification methods struggle with accuracy because of the diverse forms, locations, and sizes of the craters. Our main aim is to locate lunar craters using images from Terrain Mapping Camera-2 (TMC-2) onboard the Chandrayaan-II satellite. The crater-based U-Net model, a convolutional neural network frequently used in image segmentation tasks, is a deep learning method presented in this study. The task of crater detection was accomplished with the proposed model in two steps: initially, it was trained using Resnet18 as the backbone and U-Net based on Image Net as weights. Secondly, TMC-2 images from Chandrayaan-2 were used to detect craters based on the trained model. The model proposed in this study comprises a neural network, feature extractor, and optimization technique for lunar crater detection. The model achieves 80.95% accuracy using unannotated data and precision and recall are much better with annotated data with an accuracy of 86.91% in object detection with TMC-2 ortho images. 2000 images have been considered for the present work as manual annotation is a time-consuming process and the inclusion of more images...[Content truncated]"
+        },
+        "Query2_evidence_2": {
+            "title": "UMD Geologist Helped Develop Lunar Instrument Chosen for ...",
+            "link": "https://cmns.umd.edu/news-events/news/Nicholas-Schmerr-develop-lunar-instrument-chosen-upcoming-nasa-artemis-mission",
+            "snippet": "Apr 10, 2024 ... The Lunar Environment Monitoring System is designed to track the moon's seismic activity during NASA's Artemis III mission. NASA chose the ...",
+            "content": "\nNASA chose the first science instruments designed for astronauts to deploy on the surface of the moon during Artemis III, the agency’s first crewed mission to the lunar surface in over 50 years currently planned for 2026. Among the selected instruments was the Lunar Environment Monitoring Station (LEMS), a seismometer package developed by a team of researchers including Nicholas Schmerr, an associate professor of geology at the University of Maryland, College Park (UMD). Once installed near the lunar south pole, LEMS will collect valuable seismic data about the lunar environment and its interior, which will help prepare NASA to establish a long term presence on other planetary bodies.\n“Our primary goal is to have the mission record moonquakes and characterize the moon’s seismicity,” explained Schmerr, who was also named deputy principal investigator of the LEMS project. “This means being patient and listening for moonquakes, which can be caused by things like impacts hitting the moon or internal quaking from deep inside the lunar interior. With enough seismic events, we’ll be able to use our tools to study the moon’s deeper structure.”\n\nTeam members during final preparation of the LEMS Engineering Units for thermal-vacuum testing. During this test, the LEMS prototype was subjected to the vacuum and harsh thermal conditions that mimic the lunar surface to demonstrate its resilience and ability to sustain itself. Image courtesy of NASA MSFC\nLed by University of Maryland, Baltimore...[Content truncated]"
+        }
+    },
+    "QA": {
+        "Question": "What methods do reputable astronomical institutions use to visually verify lunar impact events?",
+        "Answer": "Reputable astronomical institutions utilize several advanced methods to visually verify lunar impact events. Here are the key approaches:\n\n1. **Lunar Impact Monitoring Program**: NASA has established a program that employs Earth-based observations to record impacts on the Moon's surface. This program focuses on the large meteoroids (greater than 10s of grams) that strike the lunar surface, utilizing optimal observation times, such as the dark portion of the Moon and when solar illumination is minimal. This systematic monitoring allows for the accurate establishment of impact rates and sizes over time, enhancing the understanding of the meteoroid environment and its effects on the Moon.\n\n2. **High-Resolution Imaging and Automated Crater Detection**: Institutions like the Indian Space Research Organization (ISRO) through its Chandrayaan missions utilize high-resolution imaging technology to detect and study impact craters on the Moon. By employing advanced deep learning techniques, such as a convolutional neural network model for automated crater detection, researchers have significantly improved the accuracy of identifying new craters from lunar images. This method involves the analysis of extensive datasets gathered from lunar orbiters to verify the presence and characteristics of craters that result from impact events.\n\n3. **Seismic Monitoring**: Future lunar missions, like NASA's Artemis III, plan to deploy seismic instruments such as the Lunar Environment Monitoring Station (LEMS). These instruments will listen for moonquakes, which may be triggered by impacts on the Moon's surface. By recording seismic activity, researchers can gain insight into the frequency and nature of impacts, contributing to the understanding of lunar geology and the impact history of the Moon. This method combines long-term monitoring of lunar seismicity with geophysical observations.\n\nOverall, these methods integrate observational data, automated analysis, and seismic monitoring to establish a comprehensive approach for visually verifying lunar impact events.",
+        "Confidence": "90%"
+    }
+}

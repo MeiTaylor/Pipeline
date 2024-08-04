@@ -1,0 +1,807 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Asteroid impact on Moon video CGI or real footage?",
+                "totalResults": "109000",
+                "searchTerms": "Asteroid impact on Moon video CGI or real footage?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Asteroid impact on Moon video CGI or real footage?",
+                "totalResults": "109000",
+                "searchTerms": "Asteroid impact on Moon video CGI or real footage?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.284998,
+        "formattedSearchTime": "0.28",
+        "totalResults": "109000",
+        "formattedTotalResults": "109,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Lunar Impact Videos",
+                "htmlTitle": "<b>Lunar Impact Videos</b>",
+                "link": "https://www.nasa.gov/meteoroid-environment-office/lunar-impact-monitoring/videos/",
+                "displayLink": "www.nasa.gov",
+                "snippet": "Oct 24, 2023 ... NASA researchers who monitor the Moon for meteoroid impacts have detected the brightest explosion in the history of their program. NASA Logo ...",
+                "htmlSnippet": "Oct 24, 2023 <b>...</b> NASA researchers who monitor the <b>Moon</b> for meteoroid impacts have detected the brightest explosion in the history of their program. NASA Logo&nbsp;...",
+                "formattedUrl": "https://www.nasa.gov/meteoroid-environment-office/lunar-impact.../videos/",
+                "htmlFormattedUrl": "https://www.nasa.gov/meteoroid-environment-office/lunar-<b>impact</b>.../<b>video</b>s/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_x0ZqiZCGX-LuI7X5GEmO8yB4uKpjwmfOXv9VqAbA6dUaF5u7XGX5oSI&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "msapplication-config": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/browserconfig.xml",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "msapplication-square70x70logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-70x70.png",
+                            "og:site_name": "NASA",
+                            "searchgov_custom3": "topic",
+                            "video:duration": "10",
+                            "msapplication-wide310x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x150.png",
+                            "parsely-author": "Lee Mohon",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-144x144.png",
+                            "og:description": "Lunar Impact Videos https://www.youtube.com/watch?v=bBMxgyCpKnc This video shows several lunar impact flashes and other events detected at the Automated Lunar",
+                            "searchgov_custom1": "1::553644",
+                            "og:image:secure_url": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "twitter:image": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg",
+                            "parsely-type": "index",
+                            "msapplication-square310x310logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-310x310.png",
+                            "parsely-link": "https://www.nasa.gov/meteoroid-environment-office/lunar-impact-monitoring/videos/",
+                            "parsely-image-url": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg?w=150&h=150&crop=1",
+                            "parsely-section": "General",
+                            "application-name": "NASA",
+                            "msapplication-tilecolor": "#da532c",
+                            "og:type": "article",
+                            "og:image:alt": "Artist Concept of an Impact on the Moon.",
+                            "twitter:title": "Videos - NASA",
+                            "ya:ovs:upload_date": "2017-02-14T11:23:37-08:00",
+                            "og:title": "Videos - NASA",
+                            "og:image:height": "769",
+                            "og:updated_time": "2023-10-24T10:54:26-04:00",
+                            "msapplication-square150x150logo": "https://www.nasa.gov/wp-content/plugins/nasa-hds-core-setup/assets/favicons/mstile-150x150.png",
+                            "parsely-title": "Videos",
+                            "parsely-pub-date": "2023-10-23T20:21:10Z",
+                            "og:video": "https://www.youtube.com/embed/bBMxgyCpKnc",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Lunar Impact Videos https://www.youtube.com/watch?v=bBMxgyCpKnc This video shows several lunar impact flashes and other events detected at the Automated Lunar",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nasa.gov/meteoroid-environment-office/lunar-impact-monitoring/videos/",
+                            "ya:ovs:allow_embed": "true"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.nasa.gov/wp-content/uploads/2023/07/193009main-lunarimpact-1600x1200-3.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...-Ever Quantum Memory Made at Glenn Research Center article 3 days ago] 2 min read ### A Picture-Perfect Portrait: Eliza Hoffman’s Take on Dorothy Vaughan article 2 days ago]\n### Highlights\n 6 min read ### There Are No Imaginary Boundaries for Dr. Ariadna Farrés-Basiana article 7 hours ago] 5 min read ### Astronauta de la NASA Frank Rubio article 2 months ago] 6 min read ### Diez maneras en que los estudiantes pueden prepararse para ser astronautas article 4 months ago]\nLunar Impacts\n*   \n*   \n*   \n*   \n*   Multimedia\n    *   \n    *   \n*   Media Resources\n    *   \n    *   \n    *   \n*   Related External Links\n    *   \n    *   \n    *   \n    *   \n    *   \nLunar Impact Videos\n-------------------\nThis video shows several lunar impact flashes and other events detected at the Automated Lunar and Meteor Observatory (ALaMO). It plays in real time. A green box marks the area where the flash was observed. (NASA)\nThis animation is an artist’s conception depicting a small but powerful meteoroid strike on the surface of the moon. Scientists at NASA’s Marshall Space Flight Center at the Automated Lunar and Meteor Observatory (ALaMO) in Huntsville, Ala., capture lunar impact flash video caused by such strikes several times a month. NASA is studying these impacts to help safeguard future lunar explorers and long-term science missions to the moon. (NASA)\nVisit  for breaking science news. NASA researchers who monitor the Moon for meteoroid impacts have detected the brightest explosion in the history of their program.\n!\n### National Aeronautics and Space Administration\nNASA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n### Follow NASA\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   Page Last Updated:\n    Oct 24, 2023\n*   Page Editor:\n    Lee Mohon\n*   Responsible NASA Official:\n    Abigail Bowman",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Dramatic video of asteroid exploding after landing on ...",
+                "htmlTitle": "Fact Check: Dramatic <b>video</b> of <b>asteroid</b> exploding after landing on ...",
+                "link": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28",
+                "displayLink": "www.indiatoday.in",
+                "snippet": "Aug 28, 2023 ... A video that quickly went viral on social media purports to show the dramatic moment when an asteroid exploded upon impact with the Moon.",
+                "htmlSnippet": "Aug 28, 2023 <b>...</b> A <b>video</b> that quickly went viral on social media purports to show the dramatic moment when an <b>asteroid</b> exploded upon <b>impact</b> with the <b>Moon</b>.",
+                "formattedUrl": "https://www.indiatoday.in/.../dramatic-video-asteroid-exploding-landing-on...",
+                "htmlFormattedUrl": "https://www.indiatoday.in/.../dramatic-<b>video</b>-<b>asteroid</b>-exploding-landing-on...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSftEDHPYiV6S_espxvL6kEHI-iugDZ96R-0dJNjADx8Hoiyfn3uuL4uXgw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "WebPage": [
+                        {
+                            "keywords": "Fact check, Moon videos, asteroid explosion",
+                            "name": "Fact Check: Dramatic video of asteroid exploding",
+                            "description": "Explosions are possible on the Moon. But this",
+                            "url": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28"
+                        }
+                    ],
+                    "Organization": [
+                        {
+                            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/mediamanager/itlogo.png",
+                            "name": "India Today",
+                            "url": "https://www.indiatoday.in/",
+                            "sameAs": "https://www.facebook.com/IndiaToday"
+                        }
+                    ],
+                    "VideoObject": [
+                        {
+                            "embedUrl": "https://embed.indiatoday.in/share/video/fact-check/MjQyNzg4Mw==",
+                            "uploadDate": "2023-08-28T21:59:09+05:30",
+                            "name": "Fact Check: Dramatic video of asteroid exploding",
+                            "description": "Explosions are possible on the Moon. But this",
+                            "dateModified": "2023-08-28T22:10:08+05:30",
+                            "url": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28",
+                            "thumbnailUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/moon-fact-check-282820-16x9.jpg?VersionId=pMMnflh4jGcfyzsdTEzxVM_lPku1Gbu5?size=647:363"
+                        }
+                    ],
+                    "ImageObject": [
+                        {
+                            "name": "Fact Check: Dramatic video of asteroid exploding",
+                            "width": "1200",
+                            "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/moon-fact-check-282820-16x9.jpg?VersionId=pMMnflh4jGcfyzsdTEzxVM_lPku1Gbu5?size=1200:675",
+                            "height": "675"
+                        }
+                    ],
+                    "ProfilePage": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "branch:deeplink:data_type": "story",
+                            "og:image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/moon-fact-check-282820-16x9.jpg?VersionId=pMMnflh4jGcfyzsdTEzxVM_lPku1Gbu5",
+                            "theme-color": "#C04A4A",
+                            "article:published_time": "2023-08-28T22:10:08+05:30",
+                            "og:type": "Article",
+                            "twitter:title": "Fact Check: Dramatic video of asteroid exploding after landing on Moon is just CGI",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "India Today",
+                            "branch:deeplink:canonical_identifier": "2427883",
+                            "og:title": "Fact Check: Dramatic video of asteroid exploding after landing on Moon is just CGI",
+                            "og:updated_time": "2023-08-28T22:10:08+05:30",
+                            "fb:pages": "23230437118",
+                            "og:description": "Explosions are possible on the Moon. But this is just computer-generated effects.",
+                            "twitter:creator": "@indiatoday",
+                            "twitter:image": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/moon-fact-check-282820-16x9.jpg?VersionId=pMMnflh4jGcfyzsdTEzxVM_lPku1Gbu5",
+                            "publish-date": "2023-08-28T22:10:08+05:30",
+                            "twitter:site": "@indiatoday",
+                            "article:modified_time": "2023-08-28T22:10:08+05:30",
+                            "viewport": "width=device-width, minimum-scale=1, initial-scale=1.0, maximum-scale=5.0",
+                            "news_keywords": "Fact check, Moon videos, asteroid explosion on moon, Asteroid hits Moon video, Moon CGI video, fact check viral video, space videos, India Moon mission",
+                            "twitter:description": "Explosions are possible on the Moon. But this is just computer-generated effects.",
+                            "og:url": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28"
+                        }
+                    ],
+                    "fact-check/story/itgd_cdp": [
+                        {
+                            "template": "content",
+                            "website": "IT",
+                            "ctype": "story",
+                            "device": "web",
+                            "url": "https://www.indiatoday.in/fact-check/story/dramatic",
+                            "cid": "2427883"
+                        }
+                    ],
+                    "SiteNavigationElement": [
+                        {
+                            "name": "TV",
+                            "url": "https://www.indiatoday.in/livetv"
+                        },
+                        {
+                            "name": "Magazine",
+                            "url": "https://www.indiatoday.in/magazine"
+                        },
+                        {
+                            "name": "Best Colleges",
+                            "url": "https://bestcolleges.indiatoday.in/"
+                        },
+                        {
+                            "name": "Life+Style",
+                            "url": "https://www.indiatoday.in/lifestyle"
+                        },
+                        {
+                            "name": "India",
+                            "url": "https://www.indiatoday.in/india"
+                        },
+                        {
+                            "name": "South",
+                            "url": "https://www.indiatoday.in/india/south"
+                        },
+                        {
+                            "name": "World",
+                            "url": "https://www.indiatoday.in/world"
+                        },
+                        {
+                            "name": "Business",
+                            "url": "https://www.indiatoday.in/business"
+                        },
+                        {
+                            "name": "All Sports",
+                            "url": "https://www.indiatoday.in/sports"
+                        },
+                        {
+                            "name": "Technology",
+                            "url": "https://www.indiatoday.in/technology"
+                        },
+                        {
+                            "name": "Entertainment",
+                            "url": "https://www.indiatoday.in/showbuzz"
+                        },
+                        {
+                            "name": "Specials",
+                            "url": "https://www.indiatoday.in/interactive"
+                        },
+                        {
+                            "name": "Videos",
+                            "url": "https://www.indiatoday.in/videos"
+                        },
+                        {
+                            "name": "Fact Check",
+                            "url": "https://www.indiatoday.in/fact-check"
+                        },
+                        {
+                            "name": "Other News",
+                            "url": "https://www.indiatoday.in/news"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "This video shows the footage of an asteroid",
+                            "url": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28"
+                        }
+                    ],
+                    "NewsArticle": [
+                        {
+                            "datePublished": "2023-08-28T22:10:08+05:30",
+                            "keywords": "Fact check, Moon videos, asteroid explosion",
+                            "articleBody": "A video that quickly went viral on social media",
+                            "description": "Explosions are possible on the Moon But this",
+                            "dateModified": "2023-08-28T22:10:08+05:30",
+                            "mainEntityOfPage": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28",
+                            "headline": "Fact Check: Dramatic video of asteroid exploding",
+                            "articleSection": "Fact Check",
+                            "url": "https://www.indiatoday.in/fact-check/story/dramatic-video-asteroid-exploding-landing-on-moon-cgi-fake-2427883-2023-08-28"
+                        }
+                    ],
+                    "BreadcrumbList": [
+                        {}
+                    ],
+                    "WebSite": [
+                        {
+                            "name": "India Today",
+                            "url": "https://www.indiatoday.in/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/moon-fact-check-282820-16x9.jpg?VersionId=pMMnflh4jGcfyzsdTEzxVM_lPku1Gbu5"
+                        }
+                    ],
+                    "Person": [
+                        {
+                            "name": "Shinu Maggie Suresh",
+                            "url": "https://www.indiatoday.in/author/shinu-maggie-suresh"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Specials\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   Other News\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \nFollow Us On:\nFact Check: Dramatic video of asteroid exploding after landing on Moon is just CGI\nFact Check: Dramatic video of asteroid exploding after landing on Moon is just CGI\n==================================================================================\nExplosions are possible on the Moon. But this is just computer-generated effects.\n---------------------------------------------------------------------------------\nListen to Story\nAdvertisement\nIndia Today Fact Check\n----------------------\nClaim\nThis video shows the footage of an asteroid hitting the Moon and exploding.\n!\nFact\nThe viral video of an asteroid striking the Moon was created using CGI.\n*   \n*   \n*   \n]\nThiruvananthapuram,UPDATED: Aug 28, 2023 22:10 IST\nA video that quickly went viral on social media purports to show the dramatic moment when an asteroid exploded upon impact with the Moon. The viral video shows an object falling freely. As soon as it hits the lunar surface, a gigantic explosion occurs, its blast radius increasing rapidly by the second.\nA Facebook user shared this **** and wrote: “Moon hit by an asteroid.” Similar posts can be seen **** and ****.\n!\nadvertisement\nIndia Today found that this video is computer-generated and does not show a real incident.\n### OUR PROBE\nReverse searching frames from the viral video led us to an **** called “The Deep Astronomy”. There, the video was shared on June 3 with the caption: “Asteroid Hitting The Moon (CGI).” It was credited to “diego.sinclair”.\n> \n> \n> \n> \n> \nUsing this clue, we found the ****, who shared this clip as a YouTube Shorts on February 25. On the channel, we also found several other videos of asteroid impacts on the lunar surface. Some of them can be seen ****, ****, ****, and ****.\nIn the video’s comments section, Sinclair wrote: “NASA has shared videos of impacts on the moon, and there was a flash, but yeah this is just an edit.” In another comment, he wrote: “NASA has been sharing videos of impacts exploding on the moon for years. A Japanese scientist Daichi Fugii recently recorded some explosions from impacts on the moon too.”\n!\nOn February 25, 2023, a Japanese astronomer called Daichi Fuji shared a **** on Twitter...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: CGI video of asteroid exploding on impact with moon ...",
+                "htmlTitle": "Fact Check: <b>CGI video</b> of <b>asteroid</b> exploding on <b>impact</b> with <b>moon</b> ...",
+                "link": "https://newsmeter.in/fact-check/cgi-video-of-asteroid-exploding-on-impact-with-moon-shared-as-real-717153",
+                "displayLink": "newsmeter.in",
+                "snippet": "Aug 29, 2023 ... The rocket that hit it recently left a double crater.” Responding to another user, Sinclair said, “NASA has been sharing videos of impacts ...",
+                "htmlSnippet": "Aug 29, 2023 <b>...</b> The rocket that hit it recently left a double crater.” Responding to another user, Sinclair said, “NASA has been sharing videos of impacts&nbsp;...",
+                "formattedUrl": "https://newsmeter.in/.../cgi-video-of-asteroid-exploding-on-impact-with-mo...",
+                "htmlFormattedUrl": "https://newsmeter.in/.../<b>cgi</b>-<b>video</b>-of-<b>asteroid</b>-exploding-on-<b>impact</b>-with-<b>mo</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KJFacULXYWWKAdSc-IqkJgZvq1HIEf5VGgkjfX5v6E-iIjgfBVpAUDI&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "url": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp?width=500&height=300"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp",
+                            "copyright": "NewsMeter",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-08-29T17:05:02+05:30",
+                            "og:image:width": "1200",
+                            "twitter:url": "https://newsmeter.in/fact-check/cgi-video-of-asteroid-exploding-on-impact-with-moon-shared-as-real-717153",
+                            "language": "en",
+                            "title": "Fact Check: CGI video of asteroid exploding on impact with moon shared as real",
+                            "og:description": "The video does not show a real incident. It was computer generated.",
+                            "og:image:secure_url": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp",
+                            "twitter:image": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp",
+                            "twitter:image:alt": "Fact Check: CGI video of asteroid exploding on impact with moon shared as real",
+                            "article:modified_time": "2023-08-29T17:05:02+05:30",
+                            "news_keywords": "CGI, moon, impact, asteroid",
+                            "application-name": "NewsMeter",
+                            "image": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: CGI video of asteroid exploding on impact with moon shared as real",
+                            "article:section": "Fact Check English",
+                            "handheldfriendly": "true",
+                            "author": "Md Mahfooz Alam",
+                            "og:title": "Fact Check: CGI video of asteroid exploding on impact with moon shared as real",
+                            "article:updated_time": "2023-08-29T17:05:02+05:30",
+                            "og:image:height": "630",
+                            "google": "notranslate",
+                            "article:tag": "NewsMeterFactCheck",
+                            "referrer": "origin",
+                            "fb:app_id": "391786735400304",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=10.0,user-scalable=yes,minimum-scale=1.0",
+                            "twitter:description": "The video does not show a real incident. It was computer generated.",
+                            "original-source": "https://newsmeter.in/fact-check/cgi-video-of-asteroid-exploding-on-impact-with-moon-shared-as-real-717153",
+                            "og:url": "https://newsmeter.in/fact-check/cgi-video-of-asteroid-exploding-on-impact-with-moon-shared-as-real-717153"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://newsmeter.in/h-upload/2023/08/29/353505-untitled-design-2023-08-29t164457632.webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-08-29T17:05:02+05:30",
+                            "claimReviewed": "Live footage: Asteroid hitting the moon.",
+                            "dateModified": "2023-08-29T17:05:02+05:30",
+                            "url": "https://newsmeter.in/fact-check/cgi-video-of-asteroid-exploding-on-impact-with-moon-shared-as-real-717153"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... on social media.\nA Facebook user shared the  with the caption, “Live footage: Asteroid hitting the moon.”\n(Image Credit: Facebook)\n  shared the video claiming the same.\n**Fact Check**\n--------------\nNewsMeter found that the video does not show a real incident. It was computer generated.\nOn performing a reverse image search, we found the video posted by an Instagram page, , on June 3. The caption said that the video is CGI-generated and is credited to ‘diego.sinclair’.\n> \nTaking this as a cue, we looked for the YouTube channel of  and found the video published on it as shorts on February 25.\nWe also found several other videos showing asteroids hitting the lunar surface published by the channel. Click , ,  and  to watch the videos.\nWe skimmed through the comments on the video and found Sinclair responding to a user that the video is an edit. He said, “This is obviously just an edit, but explosions from impacts on the moon happen a lot. The rocket that hit it recently left a double crater.”\nResponding to another user, Sinclair said, “NASA has been sharing videos of impacts exploding on the moon for years. A Japanese scientist Daichi Fugii recently recorded some explosions from impacts on the moon too.”\nAccording to the , Daichi Fuji who is head of astronomy at the Hiratsuka City Museum, had reportedly captured the biggest lunar impact flash from his home in Hiratsuka, Japan.\nSince the creator of the videos, Sinclair has clarified in the comments that he has edited the video, we conclude that the video is computer-generated. The claim is false.\n###### Claim Review:Live footage: Asteroid hitting the moon.\n###### Claimed By:Facebook users\n###### Claim Reviewed By:NewsMeter\n###### Claim Source:Facebook\n###### Claim Fact Check:False\nNext Story\n*   !\n*   !\n*   !\n*   !\n*   !\n*   !\n!\nX\n!",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Astronomer catches meteorite smashing into the moon (video) | Space",
+                "htmlTitle": "Astronomer catches <b>meteorite</b> smashing into the <b>moon</b> (<b>video</b>) | Space",
+                "link": "https://www.space.com/meteorite-impacts-moon-february-2023-video",
+                "displayLink": "www.space.com",
+                "snippet": "Mar 10, 2023 ... Moon impacts can be seen from Earth, as captured above, if they are large enough and occur in an area during lunar nighttime facing Earth. The ...",
+                "htmlSnippet": "Mar 10, 2023 <b>...</b> <b>Moon</b> impacts can be seen from Earth, as captured above, if they are large enough and occur in an area during lunar nighttime facing Earth. The&nbsp;...",
+                "formattedUrl": "https://www.space.com/meteorite-impacts-moon-february-2023-video",
+                "htmlFormattedUrl": "https://www.space.com/meteorite-<b>impact</b>s-<b>moon</b>-february-2023-<b>video</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzUfzjC90Inp52-iR4gvhEOcnW81oIQdNG-UKRFI5sWyWXIzNcaWBGzw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "6873911a0960244b0806d7a9a2aba69b",
+                            "og:image": "https://cdn.mos.cms.futurecdn.net/DuvMiQ4VJSez5V7dArHUq9-1200-80.jpeg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-03-10T18:00:41Z",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#3669c9",
+                            "og:site_name": "Space.com",
+                            "taboola:url": "https://www.space.com/meteorite-impacts-moon-february-2023-video",
+                            "parsely-author": "Andrew Jones",
+                            "msapplication-tileimage": "https://vanilla.futurecdn.net/space/1023015/apple-touch-icon.png",
+                            "og:description": "The space rock created a brief but brilliant flash that was captured from Earth.",
+                            "twitter:creator": "@SPACEdotcom",
+                            "article:publisher": "https://www.facebook.com/spacecom",
+                            "twitter:image": "https://cdn.mos.cms.futurecdn.net/DuvMiQ4VJSez5V7dArHUq9-1200-80.jpeg",
+                            "pub_date": "2023-03-10T18:00:41+00:00",
+                            "parsely-type": "post",
+                            "twitter:site": "@SPACEdotcom",
+                            "article:modified_time": "2023-03-10T18:00:41.394Z",
+                            "parsely-link": "https://www.space.com/meteorite-impacts-moon-february-2023-video",
+                            "parsely-image-url": "https://cdn.mos.cms.futurecdn.net/DuvMiQ4VJSez5V7dArHUq9.jpeg",
+                            "parsely-section": "Meteors & Meteor Showers",
+                            "twitter:account_id": "9696142",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "twitter:title": "Boom! Japanese astronomer catches meteorite smashing into the moon (video)",
+                            "parsely-post-id": "YHWHRaW7SXrSzw9ecm65Fm",
+                            "msvalidate.01": "CC462E6DF91492086145CA5EBDCB615E",
+                            "og:title": "Boom! Japanese astronomer catches meteorite smashing into the moon (video)",
+                            "parsely-title": "Boom! Japanese astronomer catches meteorite smashing into the moon (video)",
+                            "parsely-pub-date": "2023-03-10T18:00:41Z",
+                            "parsely-tags": "Category: Meteors & Meteor Showers,Category: Stargazing,Category: Other,Category: News,fireball,asteroid,meteorite,moon,meteor,meteoroid,moon impact,channel_other,type_news,apple-news-format,serversidehawk,videoarticle",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "twitter:description": "The space rock created a brief but brilliant flash that was captured from Earth.",
+                            "og:url": "https://www.space.com/meteorite-impacts-moon-february-2023-video"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.mos.cms.futurecdn.net/DuvMiQ4VJSez5V7dArHUq9-1200-80.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... an affiliate commission. .\nA Japanese astronomer captured the telltale flash of a meteorite impacting the moon, causing a brief flash on our celestial neighbor's nightside.\nDaichi Fujii, curator of the Hiratsuka City Museum, recorded the event using cameras set to monitor .\nThe time of the flash was 20:14:30.8 Japan Standard Time (7:14 a.m. EST, or 1114 GMT) on Feb. 23. The  appears to have struck near Ideler L crater, slightly northwest of Pitiscus crater, Fujii said.\n**Related:** \n!\nJapanese astronomer Daichi Fujii captured this shot of a meteorite impacting the moon (bright flash at bottom left) on Feb. 23, 2023.  (Image credit: Daichi Fujii (Hiratsuka City Museum))\nTOP TELESCOPE PICK:\n!\n(Image credit: Celestron)\nNeed a telescope to see the moon up close? We recommend the  as the top pick in our .\nMeteors travel  at around 30,000 mph (48,280 kph), or 8.3 miles per second (13.4 km/s). Their high-velocity impacts generate intense heat and create craters, while also giving out a brilliant flash of visible light. Moon impacts can be seen from Earth, as captured above, if they are large enough and occur in an area during lunar nighttime facing Earth.\nThe newly created crater could be around a dozen meters (39 feet) in diameter and may eventually be imaged by 's  or India's Chandrayaan 2 lunar probe, Fujii said.\n> 私の観測史上最大の月面衝突閃光を捉えることができました！2023年2月23日20時14分30.8秒に出現した月面衝突閃光を、平塚の自宅から撮影した様子です（実際の速度で再生）。なんと1秒以上も光り続ける巨大閃光でした。月は大気がないため流星や火球は見られず、クレーターができる瞬間に光ります。 pic.twitter.com/Bi2JhQa9Q0\nRELATED STORIES:\n—  \n— \n— \nWhile met...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Update on Japan's moon mission!! #space #astronomy ...",
+                "htmlTitle": "Update on Japan&#39;s <b>moon</b> mission!! #space #astronomy ...",
+                "link": "https://www.tiktok.com/@astro_alexandra/video/7327023469407784234",
+                "displayLink": "www.tiktok.com",
+                "snippet": "Jan 22, 2024 ... 54.6K Likes, 1770 Comments. TikTok video from ASTRO ALEXANDRA (@astro_alexandra): “Update on Japan's moon mission!",
+                "htmlSnippet": "Jan 22, 2024 <b>...</b> 54.6K Likes, 1770 Comments. TikTok <b>video</b> from ASTRO ALEXANDRA (@astro_alexandra): “Update on Japan&#39;s <b>moon</b> mission!",
+                "formattedUrl": "https://www.tiktok.com/@astro_alexandra/video/7327023469407784234",
+                "htmlFormattedUrl": "https://www.tiktok.com/@astro_alexandra/<b>video</b>/7327023469407784234",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://www.tiktok.com/api/img/?itemId=7327023469407784234&location=0&aid=1988",
+                            "twitter:card": "summary",
+                            "og:image:width": "576",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "al:ios:url": "snssdk1233://aweme/detail/7327023469407784234?",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "54.6K likes, 1770 comments. “Update on Japan’s moon mission!!”",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p19-pu-sign-useast8.tiktokcdn-us.com/tos-useast5-p-0068-tx/o8QDlrD1eBAsEB0K9O7D5jIAEtSmdrtIhgfFRo~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=b59d6b55&nonce=12365&refresh_token=47f49791573e29fb834f02ed956815af&x-expires=1722744000&x-signature=vEmHCO5ithDaA9Mjuccq%2Bah76rU%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "TikTok · ASTRO ALEXANDRA 🪐",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "TikTok · ASTRO ALEXANDRA 🪐",
+                            "og:image:height": "1024",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://aweme/detail/7327023469407784234?",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "54.6K likes, 1770 comments. “Update on Japan’s moon mission!!”",
+                            "og:url": "https://www.tiktok.com/@astro_alexandra/video/7327023469407784234",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "TikTok - Make Your Day\n===============\nLog in\n*   \n*   \n*   \n*   \n*   \nLog in to follow creators, like videos, and view comments.\nLog in\n #### Create TikTok effects, get a reward]\n#### Company\n#### Program\n#### Terms & Policies\n© 2024 TikTok",
+                    "content_tokens": 65
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Computer-generated video of dramatic Moon explosion falsely ...",
+                "htmlTitle": "<b>Computer</b>-generated <b>video</b> of dramatic <b>Moon</b> explosion falsely ...",
+                "link": "https://factcheck.afp.com/doc.afp.com.34QT9EK",
+                "displayLink": "factcheck.afp.com",
+                "snippet": "May 14, 2024 ... ... footage of an asteroid hitting the Moon. The Moon has very little atmosphere that stops space rocks from striking its surface, scientists at ...",
+                "htmlSnippet": "May 14, 2024 <b>...</b> ... <b>footage</b> of an <b>asteroid</b> hitting the <b>Moon</b>. The <b>Moon</b> has very little atmosphere that stops space rocks from striking its surface, scientists at&nbsp;...",
+                "formattedUrl": "https://factcheck.afp.com/doc.afp.com.34QT9EK",
+                "htmlFormattedUrl": "https://factcheck.afp.com/doc.afp.com.34QT9EK",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrPL92utcm8DmxyYISWThlFReLnDQpXrE7n_6Xvpzs5LLPnD4FRD0XxxR&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2024-05/52fc4578f0db2e658164481622281ea02d42a847.jpeg",
+                            "og:type": "Article",
+                            "og:site_name": "Fact Check",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Computer-generated video of dramatic Moon explosion falsely shared as genuine",
+                            "mobileoptimized": "width",
+                            "og:url": "https://factcheck.afp.com/doc.afp.com.34QT9EK",
+                            "og:updated_time": "2024-05-14T09:32:34+02:00",
+                            "og:description": "A computer-generated clip of a flying object colliding with a celestial body has been viewed millions of times in Indonesian-language social media posts that falsely portrayed it as genuine footage of an asteroid hitting the Moon. The Moon has very little atmosphere that stops space rocks from striking its surface, scientists at the US space agency NASA said. Clips of the phenomenon uploaded on the agency's website show them as brief sparks, rather than dramatic explosions."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factcheck.afp.com/sites/default/files/medias/factchecking/g2/2024-05/52fc4578f0db2e658164481622281ea02d42a847.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2024-05-14T09:32:00",
+                            "claimReviewed": "Video shows asteroid hitting the Moon",
+                            "name": "Computer-generated video of dramatic Moon explosion",
+                            "url": "https://factcheck.afp.com/doc.afp.com.34QT9EK"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "**Copyright © AFP 2017-2024.** Any commercial use of this content requires a subscription. Click  to find out more.\nA computer-generated clip of a flying object colliding with a celestial body has been viewed millions of times in Indonesian-language social media posts that falsely portrayed it as genuine footage of an asteroid hitting the Moon. The Moon has very little atmosphere that stops space rocks from striking its surface, scientists at the US space agency NASA said. Clips of the phenomenon uploaded on the agency's website show them as brief sparks, rather than dramatic explosions.\n\"Asteroid hitting the Moon was recorded,\" read the Indonesian-language sticker text on a Facebook  uploaded on April 24, 2024, alongside a similar caption.\nThe short clip, which appears to show a flying object crashing into the surface of the Moon and exploding, has been viewed more than 2.1 million times.\nA woman speaking in Indonesian can be heard in the background, saying: \"Wow, a video of an asteroid hitting the Moon. That's scary.\"\nScreenshot of the false post, taken on May 3, 2024\nThe same video was shared alongside similar claims and viewed more than 680,000 times across ,  and .\nAlthough some social media users expressed doubt about the authenticity of the video, many others left comments indicating they believed it was genuine.\n\"It's terrifying,\" one wrote.\nAnother said: \"Imagine if it hits Kalimantan island, maybe the entire Indonesia, Malaysia and Singapore could disappear from the earth.\"\n### Edited video\nA reverse image search on Google found the  uploaded to Instagram on September 21, 2023, credited to a user called diego.sinclair ().\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Woah! Video footage of an asteroid impacting the moon. : r/Astronomy",
+                "htmlTitle": "Woah! <b>Video footage</b> of an <b>asteroid</b> impacting the <b>moon</b>. : r/Astronomy",
+                "link": "https://www.reddit.com/r/Astronomy/comments/1ytgmu/woah_video_footage_of_an_asteroid_impacting_the/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 25, 2014 ... I don't know much about this sort of thing and I hope that I don't sound stupid, but here goes. Is there an actual explosion happening, ...",
+                "htmlSnippet": "Feb 25, 2014 <b>...</b> I don&#39;t know much about this sort of thing and I hope that I don&#39;t sound stupid, but here goes. Is there an actual explosion happening,&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../woah_video_footage_of_an_asteroid_impacting...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../woah_<b>video</b>_<b>footage</b>_of_an_<b>asteroid</b>_<b>impact</b>ing...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx5fx4yxQSfdhMAwDwZhn27lDLsJfH7qYXw5JUYZolU9GSt_jSYFTund0&s",
+                            "width": "250",
+                            "height": "202"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/Y3PWBObwQquZcHeDJi-XrDOqSMD4zUwKY9gccM4MWqk.jpg?auto=webp&s=6a220f68301a851cfff0bc63b1941469d6aeba11",
+                            "theme-color": "#000000",
+                            "og:image:width": "590",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/Astronomy on Reddit: Woah! Video footage of an asteroid impacting the moon.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/Astronomy on Reddit: Woah! Video footage of an asteroid impacting the moon.",
+                            "og:image:height": "477",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Blackbart42 - 137 votes and 17 comments",
+                            "twitter:image": "https://external-preview.redd.it/Y3PWBObwQquZcHeDJi-XrDOqSMD4zUwKY9gccM4MWqk.jpg?auto=webp&s=6a220f68301a851cfff0bc63b1941469d6aeba11",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/Astronomy/comments/1ytgmu/woah_video_footage_of_an_asteroid_impacting_the/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/Y3PWBObwQquZcHeDJi-XrDOqSMD4zUwKY9gccM4MWqk.jpg?auto=webp&s=6a220f68301a851cfff0bc63b1941469d6aeba11"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Explosive Claims: The Reality Behind Viral Video of ...",
+                "htmlTitle": "Fact Check: Explosive Claims: The Reality Behind Viral <b>Video</b> of ...",
+                "link": "https://www.yahoo.com/news/fact-check-explosive-claims-reality-165500425.html",
+                "displayLink": "www.yahoo.com",
+                "snippet": "Aug 30, 2023 ... The Moon has no oxygen atmosphere, so how can something explode? Lunar meteors don't require oxygen or combustion to make themselves visible.",
+                "htmlSnippet": "Aug 30, 2023 <b>...</b> The <b>Moon</b> has no oxygen atmosphere, so how can something explode? Lunar meteors don&#39;t require oxygen or combustion to make themselves visible.",
+                "formattedUrl": "https://www.yahoo.com/.../fact-check-explosive-claims-reality-165500425....",
+                "htmlFormattedUrl": "https://www.yahoo.com/.../fact-check-explosive-claims-<b>real</b>ity-165500425....",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ24t6HlPSV3ZbNaf8BGpXeJCspvDY3ArS52Qp_ofz6bJat6GipUw-TZT7d&s",
+                            "width": "312",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=d4a9fcb7-aa37-3802-a692-c5fe5a853d0c&src=web",
+                            "og:image": "https://media.zenfs.com/en/snopes_632/9e46c31a5c86c57134337788df235df2",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=d4a9fcb7-aa37-3802-a692-c5fe5a853d0c&src=web",
+                            "og:description": "According to NASA, lunar meteors don't require oxygen or combustion to make themselves visible.",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/snopes_632/9e46c31a5c86c57134337788df235df2",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@YahooNews",
+                            "news_keywords": "India Today, the Moon, Diego Sinclair",
+                            "twitter:title": "Fact Check: Explosive Claims: The Reality Behind Viral Video of Object Striking the Moon",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Fact Check: Explosive Claims: The Reality Behind Viral Video of Object Striking the Moon",
+                            "og:image:height": "624",
+                            "twitter:image:src": "https://media.zenfs.com/en/snopes_632/9e46c31a5c86c57134337788df235df2",
+                            "al:android:url": "yahoo://article/view?uuid=d4a9fcb7-aa37-3802-a692-c5fe5a853d0c&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "According to NASA, lunar meteors don't require oxygen or combustion to make themselves visible.",
+                            "og:url": "https://www.yahoo.com/news/fact-check-explosive-claims-reality-165500425.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/snopes_632/9e46c31a5c86c57134337788df235df2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   *   New on Yahoo\n            *   \n            *   \n        *   USEnglish\nAdvertisement\nRead full article\nSnopes]\nFact Check: Explosive Claims: The Reality Behind Viral Video of Object Striking the Moon\n========================================================================================\nAlex Kasprak\nAugust 30, 2023 at 9:55 AM·2 min read\nLink Copied\n!\nDiego Sinclair\n**Claim:**\nA video shows an authentic impact and explosion on the surface of the Moon.\n**Rating:**\n]\nRating: Fake\nIn late August 2023, a video depicting a fast-moving \"\" colliding with the surface of the moon and creating a dramatic fireball went viral on both   (formerly Twitter). A widespread reaction to the video was the question, \"Is this real?\"\n> Is this real???? \n> \n> — Kristi Yamaguccimane (@TheWapplehouse) \nThe answer to that question was \"No.\" The video was computer generated. As  by India Today's fact checking department, the video was  to YouTube by user Diego Sinclair in February 2023. His channel contains several other videos of often unrealistic looking space phenomena. In the comments section of that video, Sinclair wrote that it was an edited video:\n> This is obviously just an edit, but explosions from impacts on the moon happen a lot.\nIt is true that objects colliding with the moon create bright flashes of light that are, in some cases, bright enough  to the naked eye from Earth. However, these events are not bright due to fire or combustion of any kind — as depicted in the faked video. Such a cascading fireball would require oxygen, which the Moon lacks. Instead, as explained by NASA, the bright flashes of light  by molten rock:\n> The Moon has no oxygen atmosphere, so how can something explode? Lunar meteors don't require oxygen or combustion to make themselves visible.  They hit the ground with so much kinetic energy that even a pebble can make a crater several feet wide.  The flash of light comes not from combustion but rather from the thermal glow of molten rock and hot vapors at the impact site.\nSuch events are fairly common, and have indeed been captured  several times:\n> \nBecause the author of the viral impact video has stated that it was \"an edit,\" Snopes rates this video as Fake.\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "A Computer-generated video is being falsely shared as real footage ...",
+                "htmlTitle": "A <b>Computer</b>-generated <b>video</b> is being falsely shared as <b>real footage</b> ...",
+                "link": "https://factly.in/a-computer-generated-video-is-being-falsely-shared-as-real-footage-of-an-asteroid-hitting-the-moon/",
+                "displayLink": "factly.in",
+                "snippet": "Sep 8, 2023 ... This is a Computer-generated video; it does not show actual footage of an asteroid hitting the Moon's surface.",
+                "htmlSnippet": "Sep 8, 2023 <b>...</b> This is a Computer-generated <b>video</b>; it does not show actual <b>footage</b> of an <b>asteroid</b> hitting the <b>Moon&#39;s</b> surface.",
+                "formattedUrl": "https://factly.in/a-computer-generated-video-is-being-falsely-shared-as-real-...",
+                "htmlFormattedUrl": "https://factly.in/a-computer-generated-<b>video</b>-is-being-falsely-shared-as-<b>real</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-3GotvZFsGth8xO5fnZplV1ur_FozTyjXY2YruOUACIljA1KzMuo4xzlE&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://factly.in/wp-content/uploads//2023/09/CGI-video-of-an-asteroid-striking-Moon-CLaim-Thumbnail-.jpeg",
+                            "og:type": "article",
+                            "article:published_time": "2023-09-08T10:19:32+00:00",
+                            "og:image:width": "2494",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "FACTLY",
+                            "og:title": "A Computer-generated video is being falsely shared as real footage of an asteroid hitting the Moon - FACTLY",
+                            "og:image:height": "1246",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "msapplication-tileimage": "https://factly.in/wp-content/uploads//2015/04/cropped-factly-red-logo-white-bg-270x270.png",
+                            "fb:pages": "1521487944736293",
+                            "og:description": "This is a Computer-generated video; it does not show actual footage of an asteroid hitting the Moon's surface.",
+                            "twitter:creator": "@factlyindia",
+                            "article:publisher": "https://www.facebook.com/factlyindia",
+                            "twitter:data1": "Varun Borugadda",
+                            "twitter:data2": "2 minutes",
+                            "fb:app_id": "587617254726291",
+                            "twitter:site": "@factlyindia",
+                            "article:modified_time": "2023-09-08T10:19:35+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://factly.in/a-computer-generated-video-is-being-falsely-shared-as-real-footage-of-an-asteroid-hitting-the-moon/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://factly.in/wp-content/uploads//2023/09/CGI-video-of-an-asteroid-striking-Moon-CLaim-Thumbnail-.jpeg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "image": "https://factly.in/wp-content/uploads//2023/09/CGI-video-of-an-asteroid-striking-Moon-CLaim-Thumbnail-.jpeg",
+                            "articlebody": "A video allegedly showing an asteroid hitting the Moon’s surface has gone viral on social media. Let’s fact-check this video through this article.Claim: This footage shows an asteroid striking..."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 2, 2024 \n    ]\n    July 31, 2024 \n    ]\n    July 30, 2024 \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   Data Tools\n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n]\n, \nA Computer-generated video is being falsely shared as real footage of an asteroid hitting the Moon\n==================================================================================================\nBy  on September 8, 2023\n*        \nA  allegedly showing an asteroid hitting the Moon’s surface has gone viral on social media. Let’s fact-check this video through this article.\n!\n> **Claim:** This footage shows an asteroid striking the Moon’s surface.  \n>   \n> **Fact:** This is a Computer-generated video; it does not show actual footage of an asteroid hitting the Moon’s surface. Hence, the claim made in the post is **False**.\nFirstly, we searched the internet to see if the media reported any such incident. However, this did not lead us to any credible sources.\nTo learn more details about the viral clip, we performed a reverse image search using a few of its keyframes. This search led us to an Instagram post containing the  (flipped on its vertical axis), credited to a social media user named “_diego.sinclair._” Uploaded by a page named  _(they upload space and astronomy-related videos),_ this video has been described as a CGI (Computed Generated Imagery) video.\n!\nSearching for _diego.sinclair_ on the internet led us to a YouTube channel that contained the  (This channel also contains ). Diego has mentioned in the comments that this is an edited video. Replying to a user’s comment who expressed their skepticism on the video, he said, _“It’s just an edit, but explosions from impacts do happen on the moon.”_ This makes it clear that it is an edited video, and the visuals do not represent an actual asteroid striking the Moon.\n!\nA further search on the Internet to investigate whether such incidents were captured on the Moon recently revealed (,  and ) that a man named _“Daichi Fujii, curator of the Hiratsuka City Museum, captured a meteor hitting the moon, triggering a brief flash on the surface.”_\n> 私の観測史上最大の月面衝�...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Moon impact simulation that feels like a movie : r/videos",
+                "htmlTitle": "<b>Moon impact</b> simulation that feels like a movie : r/<b>videos</b>",
+                "link": "https://www.reddit.com/r/videos/comments/18u9vg7/moon_impact_simulation_that_feels_like_a_movie/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Dec 30, 2023 ... It looks like previs before actual CGI work will start, I was being downvoted for some reason mentioning that... Upvote 7. Downvote Award",
+                "htmlSnippet": "Dec 30, 2023 <b>...</b> It looks like previs before actual <b>CGI</b> work will start, I was being downvoted for some reason mentioning that... Upvote 7. Downvote Award",
+                "formattedUrl": "https://www.reddit.com/.../videos/.../moon_impact_simulation_that_feels_li...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>video</b>s/.../<b>moon</b>_<b>impact</b>_simulation_that_feels_li...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGczoT8eTaeXfqACvil3K2RkZutYWY3v_bv1izftfbBVOPZBaooyActTc&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/moon-impact-simulation-that-feels-like-a-movie-v0-nsaHZrwW3C9qe2mUkuSjRSxrTWpHBFVeiH-ycctJfvQ.jpg?format=pjpg&auto=webp&s=1c089e4a4374460ffdcb32ba9da5e25a953fe7c6",
+                            "theme-color": "#000000",
+                            "og:image:width": "480",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/videos on Reddit: Moon impact simulation that feels like a movie",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/videos on Reddit: Moon impact simulation that feels like a movie",
+                            "og:image:height": "360",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Envoyager - 121 votes and 111 comments",
+                            "twitter:image": "https://external-preview.redd.it/moon-impact-simulation-that-feels-like-a-movie-v0-nsaHZrwW3C9qe2mUkuSjRSxrTWpHBFVeiH-ycctJfvQ.jpg?format=pjpg&auto=webp&s=1c089e4a4374460ffdcb32ba9da5e25a953fe7c6",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/videos/comments/18u9vg7/moon_impact_simulation_that_feels_like_a_movie/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/moon-impact-simulation-that-feels-like-a-movie-v0-nsaHZrwW3C9qe2mUkuSjRSxrTWpHBFVeiH-ycctJfvQ.jpg?format=pjpg&auto=webp&s=1c089e4a4374460ffdcb32ba9da5e25a953fe7c6"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                }
+            }
+        }
+    ]
+}

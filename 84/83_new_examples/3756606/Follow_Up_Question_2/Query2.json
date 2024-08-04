@@ -1,0 +1,743 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - scientific sightings large sea creatures Antarctica",
+                "totalResults": "548000",
+                "searchTerms": "scientific sightings large sea creatures Antarctica",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - scientific sightings large sea creatures Antarctica",
+                "totalResults": "548000",
+                "searchTerms": "scientific sightings large sea creatures Antarctica",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.234351,
+        "formattedSearchTime": "0.23",
+        "totalResults": "548000",
+        "formattedTotalResults": "548,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Extremely rare phantom jellyfish caught on camera",
+                "htmlTitle": "Extremely rare phantom jellyfish caught on camera",
+                "link": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                "displayLink": "www.nationalgeographic.com",
+                "snippet": "Feb 10, 2023 ... Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off ...",
+                "htmlSnippet": "Feb 10, 2023 <b>...</b> Fewer than 130 <b>sightings</b> have ever been made of the mysterious deep-<b>sea creature</b>. Now a 30-foot-long specimen has been <b>spotted</b> off&nbsp;...",
+                "formattedUrl": "https://www.nationalgeographic.com/.../rare-giant-phantom-jellyfish-antarct...",
+                "htmlFormattedUrl": "https://www.nationalgeographic.com/.../rare-giant-phantom-jellyfish-<b>antarct</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2-zVXCMtOsX_9cht2Z-Cup8u5zFN9lshqRFisagOnk2sfgqCFeH2bos&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "twitter:app:id:googleplay": "com.natgeomobile.ngmagazine",
+                            "og:image:width": "1200",
+                            "theme-color": "#ffffff",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "08-02-2024",
+                            "og:site_name": "Animals",
+                            "twitter:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:googleplay": "National Geographic",
+                            "medium": "website",
+                            "title": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:app:id:iphone": "418671597",
+                            "og:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "twitter:creator": "@NatGeo",
+                            "article:publisher": "https://www.facebook.com/natgeo",
+                            "twitter:image:alt": "Extremely rare phantom jellyfish caught on camera",
+                            "twitter:site": "@NatGeo",
+                            "article:modified_time": "02-21-2023",
+                            "og:type": "article",
+                            "twitter:title": "Extremely rare phantom jellyfish caught on camera",
+                            "article:section": "Animals",
+                            "tax:locations": "Antarctica",
+                            "og:title": "Extremely rare phantom jellyfish caught on camera",
+                            "og:image:height": "675",
+                            "tax:othersubjects": "Oceans, Deep Sea, Ocean Life, Submersibles, Citizen Science",
+                            "twitter:image:src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200",
+                            "tax:firstsubject": "Jellyfish",
+                            "referrer": "origin",
+                            "viewport": "initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "tax:source": "Animals",
+                            "twitter:description": "Fewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.",
+                            "og:locale": "en_US",
+                            "guid": "drn:src:natgeo:unison::prod:1c2f1359-5af7-42f9-b8da-0a5dafaacf0d",
+                            "og:url": "https://www.nationalgeographic.com/animals/article/rare-giant-phantom-jellyfish-antarctica",
+                            "twitter:app:name:iphone": "National Geographic"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.natgeofe.com/n/db7f8ae9-7144-479e-b2fc-98ede02adb89/S.gigantea---Mark-Niesink_16x9.jpg?w=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Extremely rare phantom jellyfish caught on camera\n=============== \n]\nSkip to content\n*   \n*   \n*   \n*   Menu\n!\nTourists recently spotted the 30-foot-long invertebrate in shallow waters off Antarctica.\nPhotograph by Mark Niesink\n*   \nExtremely rare phantom jellyfish caught on camera\n=================================================\nFewer than 130 sightings have ever been made of the mysterious deep-sea creature. Now a 30-foot-long specimen has been spotted off Antarctica.\nByMelissa Hobson\nFebruary 10, 2023\n•5 min read\nIn the ethereal blue glow of the water, a huge shape swept toward them. Around 30 feet long, with four billowing arms and a domed head, the creature was larger than the tourists’ personal submersible. This startling sight occurred hundreds of feet underwater off the coast of ’s Rongé Island.\nWhen they returned to their  cruise ship and showed photos to , a marine biologist with Exeter University in the U.K., he knew they’d seen “something incredibly rare.”\nAs it turns out, these lucky travelers are among only a handful of people ever to lay eyes on the giant phantom jellyfish, or _Stygiomedusa gigantea_. Until that point, in January 2022, there had been only 126 recorded observations since the species was first described in 1910—including individuals caught in nets and footage captured by remotely operated underwater vehicles, or ROVs. Even scientists with the , which has logged thousands of hours of submersible dives, have seen just nine.\n!(blob:https://www.nationalgeographic.com/b9a31d3949b1882a09ed2f8508d538f3)\n0:17\nSurprisingly, the first  sighting was not a one-off. Just a week later, in late January 2022, a different group of tourists also saw a phantom jellyfish, followed by one more, in mid...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Do Large Undiscovered Species Still Exist? | HowStuffWorks",
+                "htmlTitle": "Do <b>Large</b> Undiscovered <b>Species</b> Still Exist? | HowStuffWorks",
+                "link": "https://science.howstuffworks.com/life/biology-fields/what-large-completely-undiscovered-animals-still-exist.htm",
+                "displayLink": "science.howstuffworks.com",
+                "snippet": "Apr 16, 2024 ... What are the chances there are still large, undiscovered animals on the planet? More likely than you might think.",
+                "htmlSnippet": "Apr 16, 2024 <b>...</b> What are the chances there are still <b>large</b>, undiscovered <b>animals</b> on the planet? More likely than you might think.",
+                "formattedUrl": "https://science.howstuffworks.com/.../what-large-completely-undiscovered-...",
+                "htmlFormattedUrl": "https://science.howstuffworks.com/.../what-<b>large</b>-completely-undiscovered-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnTIHr-MxKSRprJzZuuz1b6ju9kNlEfE3lfZ2yN5cSNydAcUo3j556Thw&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "question": [
+                        {
+                            "name": "What are some potential habitats where large undiscovered animals could exist?"
+                        },
+                        {
+                            "name": "Are there any cultural or Indigenous beliefs that suggest the existence of large undiscovered animals?"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "text": "Large, undiscovered animals could potentially exist in remote and inaccessible habitats such as deep ocean trenches, dense rainforests, unexplored caves or rugged mountainous regions, where..."
+                        },
+                        {
+                            "text": "Yes, there is no shortage of folklore, legends and myths about large undiscovered animals, known as cryptids, which continue to fuel interest and speculation in the field of cryptozoology."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "Article",
+                            "og:image": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL29jdG9wb2QxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjEyMDAifX19",
+                            "can-recommend": "true",
+                            "og:type": "article",
+                            "article:published_time": "1970-01-01T00:00:00-05:00",
+                            "theme-color": "#151538",
+                            "og:site_name": "HowStuffWorks",
+                            "google-adsense-account": "sites-9053884276298326",
+                            "og:title": "Do Large Undiscovered Species Still Exist?",
+                            "og:description": "What are the chances there are still large, undiscovered animals on the planet? More likely than you might think.",
+                            "fb:pages": "20767777944",
+                            "og:video:width": "450",
+                            "twitter:dnt": "on",
+                            "article:publisher": "https://www.howstuffworks.com",
+                            "article:author": "https://www.howstuffworks.com/about-diana-brown.htm",
+                            "fb:app_id": "899104866837181",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "fb:admins": "100001675325868",
+                            "og:video:height": "200",
+                            "og:url": "https://science.howstuffworks.com/life/biology-fields/what-large-completely-undiscovered-animals-still-exist.htm"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL29jdG9wb2QxLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6IjEyMDAifX19"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "HowStuffWorks",
+                            "name": "HowStuffWorks",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Science",
+                            "name": "Science",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Life Science",
+                            "name": "Life Science",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Biological Fields",
+                            "name": "Biological Fields",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... are made every day. Thermal vents under Antarctica have yielded \"lost worlds\" of new animals; , as well, have led us to exciting new classifications. And deserts, what seem to be the most inhabitable of all climates, have also given us new creatures to study, including ant-like bees and the . But almost everyone agrees that if there is a large animal out there we've never seen before, it's bound to be in that most mysterious biome of all: the ocean.\nThe ocean is as mysterious a place to us as space. Fathoms deep, teeming with life and hard to explore, the ocean has yet to give up all its secrets; scientists estimate that two-thirds of marine life has yet to be discovered. And with the rates of extinction, many species are winking out before we have a chance to study them.  to hear Matt's, Ben's and Noel's thoughts on whether we'll ever know exactly what we're sharing this world with.\n### Frequently Asked Questions\n##### What are some potential habitats where large undiscovered animals could exist?\nLarge, undiscovered animals could potentially exist in remote and inaccessible habitats such as deep ocean trenches, dense rainforests, unexplored caves or rugged mountainous regions, where they may have evolved to remain elusive to human detection.\n##### Are there any cultural or Indigenous beliefs that suggest the existence of large undiscovered animals?\nYes, there is no shortage of folklore, legends and myths about large undiscovered animals, known as cryptids, which continue to fuel interest and speculation in the field of cryptozoology.",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Alien-like giant phantom jellyfish spotted in frigid waters off Antarctica",
+                "htmlTitle": "Alien-like <b>giant</b> phantom jellyfish <b>spotted</b> in frigid waters off <b>Antarctica</b>",
+                "link": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica",
+                "displayLink": "www.livescience.com",
+                "snippet": "Feb 27, 2023 ... ... Antarctic Peninsula during a Viking cruise. (Image credit: Antony Gilbert). Rare sightings of giant phantom jellyfish — deep-sea creatures ...",
+                "htmlSnippet": "Feb 27, 2023 <b>...</b> ... <b>Antarctic</b> Peninsula during a Viking cruise. (Image credit: Antony Gilbert). Rare <b>sightings</b> of <b>giant</b> phantom jellyfish — deep-<b>sea creatures</b>&nbsp;...",
+                "formattedUrl": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-f...",
+                "htmlFormattedUrl": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-f...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZVRjjMOeLd7YAhudk8fyIadvJeBGqZ5D_pq_oMFHC4DiPduxE8esph48i&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "370",
+                            "url": "https://cdn.mos.cms.futurecdn.net/xqnT3uKYVu95yfAH5eCjuS.jpg",
+                            "height": "602"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.mos.cms.futurecdn.net/xqnT3uKYVu95yfAH5eCjuS-1200-80.jpg",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-02-27T22:38:57Z",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#f9ae3b",
+                            "og:site_name": "livescience.com",
+                            "taboola:url": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica",
+                            "parsely-author": "Patrick Pester",
+                            "msapplication-tileimage": "https://vanilla.futurecdn.net/livescience/1019569/apple-touch-icon.png",
+                            "og:description": "Cruise liner guests encountered giant phantom jellyfish off the coast of Antarctica while diving in submersibles, a new study finds.",
+                            "twitter:creator": "@LiveScience",
+                            "article:publisher": "https://www.facebook.com/livescience?cmpid=556687",
+                            "twitter:image": "https://cdn.mos.cms.futurecdn.net/xqnT3uKYVu95yfAH5eCjuS-1200-80.jpg",
+                            "pub_date": "2023-02-27T22:38:57+00:00",
+                            "parsely-type": "post",
+                            "twitter:site": "@LiveScience",
+                            "article:modified_time": "2023-02-27T22:38:57Z",
+                            "parsely-link": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica",
+                            "parsely-image-url": "https://cdn.mos.cms.futurecdn.net/xqnT3uKYVu95yfAH5eCjuS.jpg",
+                            "parsely-section": "Jellyfish",
+                            "twitter:account_id": "9696142",
+                            "msapplication-tilecolor": "#000000",
+                            "og:type": "article",
+                            "twitter:title": "Alien-like giant phantom jellyfish spotted in frigid waters off Antarctica",
+                            "parsely-post-id": "GZuP9xFEcwj8aALqGHJCL3",
+                            "og:title": "Alien-like giant phantom jellyfish spotted in frigid waters off Antarctica",
+                            "parsely-title": "Alien-like giant phantom jellyfish spotted in frigid waters off Antarctica",
+                            "parsely-pub-date": "2023-02-27T22:38:57Z",
+                            "parsely-tags": "Category: Jellyfish,Category: Animals,Category: Cnidaria,Category: Other,Category: News,jellyfish,antarctica,giant phantom,cruise,submersible,antarctic peninsula,type_news,channel_other,serversidehawk",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "twitter:description": "Cruise liner guests encountered giant phantom jellyfish off the coast of Antarctica while diving in submersibles, a new study finds.",
+                            "og:url": "https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.mos.cms.futurecdn.net/xqnT3uKYVu95yfAH5eCjuS-1200-80.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.livescience.com/alien-like-giant-phantom-jellyfish-spotted-in-frigid-waters-off-antarctica",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Blue Whale | NOAA Fisheries",
+                "htmlTitle": "Blue Whale | NOAA Fisheries",
+                "link": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "displayLink": "www.fisheries.noaa.gov",
+                "snippet": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                "htmlSnippet": "The blue whale is the <b>largest animal</b> on Earth. Learn about the conservation and management of these endangered <b>animals</b>.",
+                "formattedUrl": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "htmlFormattedUrl": "https://www.fisheries.noaa.gov/species/blue-whale",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy6Kdcep_4rtTyFm313htghbrzx5KGAxorjQik64MAY0XM_KII5HGIE8&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null",
+                            "og:type": "Species",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Blue Whale",
+                            "og:site_name": "NOAA",
+                            "dcterms.language": "en",
+                            "dcterms.contributor": "Office of Communications",
+                            "handheldfriendly": "true",
+                            "og:title": "Blue Whale",
+                            "dcterms.title": "Blue Whale | NOAA Fisheries",
+                            "dcterms.creator": "NOAA Fisheries",
+                            "dcterms.description": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                            "dcterms.date": "Thu, 09/28/2023 - 15:14",
+                            "og:description": "The blue whale is the largest animal on Earth. Learn about the conservation and management of these endangered animals.",
+                            "twitter:creator": "@NOAAFisheries",
+                            "twitter:image": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null",
+                            "facebook-domain-verification": "9ywy0d7q1zwxd9ajs6hh5cinjeg98h",
+                            "twitter:site": "@NOAAFisheries",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Blue whales are the largest animals ever to live on our planet. They feed almost exclusively on krill, straining huge volumes of ocean water through their baleen plates (which hang from the roof of the mouth and work like a sieve). Some of the biggest individuals may eat up to 6 tons of krill a day. Blue whales are found in all oceans except the Arctic Ocean. There are five currently recognized subspecies of blue whales.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.fisheries.noaa.gov/species/blue-whale",
+                            "dcterms.coverage": "Alaska,New England/Mid-Atlantic,Pacific Islands,Southeast,West Coast"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fisheries.noaa.gov/s3//2021-02/750x500-blue-whale.jpg?VersionId=null"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Reduction Act  \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \nSearch NOAA Fisheries  Search\n*   \n    Find A Species\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Protected Species*   \n    *   \n    Species By Region*   \n    *   \n    *   \n    *   \n    *   \n    Helpful Resources*   \n    *   \n    *   \n    *   \n*   \n    Fishing & Seafood\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Protecting Marine Life\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Environment\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Regions\n    *   \n    *   \n    *   \n    *   \n    *   \n    Contact Us*   \n    *   \n*   \n    Resources & Services\n    Rules & Regulations*   \n    *   \n    *   \n    Permits*   \n    *   \n    *   \n    Funding & Financial Services*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    About Us\n    NOAA Fisheries*   \n    *   \n    *   \n    *   \n    News & Media*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n   ...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Return of large fin whale feeding aggregations to historical whaling ...",
+                "htmlTitle": "Return of <b>large</b> fin whale feeding aggregations to historical whaling ...",
+                "link": "https://www.nature.com/articles/s41598-022-13798-7",
+                "displayLink": "www.nature.com",
+                "snippet": "Jul 7, 2022 ... Major whaling for fin whales took place at their feeding grounds at the northern tip of the Antarctic Peninsula. After the end of commercial ...",
+                "htmlSnippet": "Jul 7, 2022 <b>...</b> Major whaling for fin whales took place at their feeding grounds at the northern tip of the <b>Antarctic</b> Peninsula. After the end of commercial&nbsp;...",
+                "formattedUrl": "https://www.nature.com/articles/s41598-022-13798-7",
+                "htmlFormattedUrl": "https://www.nature.com/articles/s41598-022-13798-7",
+                "pagemap": {
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2045-2322"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Scientific Reports",
+                            "dc.rights": "2022 The Author(s)",
+                            "prism.publicationdate": "2022-07-07",
+                            "prism.issn": "2045-2322",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2045-2322",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/s41598-022-13798-7.pdf",
+                            "citation_lastpage": "15",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Scientific Reports",
+                            "citation_journal_abbrev": "Sci Rep",
+                            "dc.date": "2022-07-07",
+                            "citation_issue": "1",
+                            "prism.volume": "12",
+                            "size": "267649",
+                            "citation_doi": "10.1038/s41598-022-13798-7",
+                            "dc.title": "Return of large fin whale feeding aggregations to historical whaling grounds in the Southern Ocean",
+                            "prism.url": "https://www.nature.com/articles/s41598-022-13798-7",
+                            "citation_volume": "12",
+                            "dc.language": "En",
+                            "doi": "10.1038/s41598-022-13798-7",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "Return of large fin whale feeding aggregations to historical whaling grounds in the Southern Ocean",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2022/07/07",
+                            "dc.source": "Scientific Reports 2022 12:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2022 The Author(s)",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/s41598-022-13798-7",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41598",
+                            "dc.description": "Fin whales (Balaenoptera physalus quoyi) of the Southern Hemisphere were brought to near extinction by twentieth century industrial whaling. For decades, they had all but disappeared from previously highly frequented feeding grounds in Antarctic waters. Our dedicated surveys now confirm their return to ancestral feeding grounds, gathering at the Antarctic Peninsula in large aggregations to feed. We report on the results of an abundance survey and present the first scientific documentation of large fin whale feeding aggregations at Elephant Island, Antarctica, including the first ever video documentation. We interpret high densities, re-establishment of historical behaviours and the return to ancestral feeding grounds as signs for a recovering population. Recovery of a large whale population has the potential to augment primary productivity at their feeding grounds through the effects of nutrient recycling, known as 'the whale pump'. The recovery of fin whales in that area could thus restore ecosystem function",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/s41598-022-13798-7",
+                            "prism.endingpage": "15",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/s41598-022-13798-7",
+                            "prism.copyright": "2022 The Author(s)"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Epibiotic fauna of the Antarctic minke whale as a reliable indicator of seasonal movements",
+                            "headline": "Epibiotic fauna of the Antarctic minke whale as a reliable indicator of seasonal movements",
+                            "url": "Epibiotic fauna of the Antarctic minke whale as a reliable indicator of seasonal movements"
+                        },
+                        {
+                            "name": "New insights into prime Southern Ocean forage grounds for thriving Western Australian humpback whales",
+                            "headline": "New insights into prime Southern Ocean forage grounds for thriving Western Australian humpback whales",
+                            "url": "New insights into prime Southern Ocean forage grounds for thriving Western Australian humpback whales"
+                        },
+                        {
+                            "name": "Year-round high abundances of the world’s smallest marine vertebrate (Schindleria) in the Red Sea and worldwide associations with lunar phases",
+                            "headline": "Year-round high abundances of the world’s smallest marine vertebrate (Schindleria) in the Red Sea and worldwide associations with lunar phases",
+                            "url": "Year-round high abundances of the world’s smallest marine vertebrate (Schindleria) in the Red Sea and worldwide associations with lunar phases"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "scientific reports",
+                            "name": "scientific reports",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... by twentieth century industrial whaling. For decades, they had all but disappeared from previously highly frequented feeding grounds in Antarctic waters. Our dedicated surveys now confirm their return to ancestral feeding grounds, gathering at the Antarctic Peninsula in large aggregations to feed. We report on the results of an abundance survey and present the first scientific documentation of large fin whale feeding aggregations at Elephant Island, Antarctica, including the first ever video documentation. We interpret high densities, re-establishment of historical behaviours and the return to ancestral feeding grounds as signs for a recovering population. Recovery of a large whale population has the potential to augment primary productivity at their feeding grounds through the effects of nutrient recycling, known as 'the whale pump'. The recovery of fin whales in that area could thus restore ecosystem functions crucial for atmospheric carbon regulation in the world's most important ocean region for the uptake of anthropogenic CO2.\nFin whales (Balaenoptera physalus quoyi) of the Southern Hemisphere were brought to near extinction by twentieth century industrial whaling1. More than 700,000 individuals were killed2 between 1904, when intensive commercial whaling began in the Southern Ocean, and 1976, when the catch quota of fin whales was set to zero, 10 years before the moratorium on whaling3,4. It has been estimated that by then the population had been reduced to 1–2% of its pre-exploitation size of around 325,000 animals in the early twentieth century2,5,6. Major whaling for fin whales took place at their feeding grounds at the northern tip of the Antarctic Peninsula7. After the end of commercial whaling, cetacean surveys conducted under the auspices of the International Whaling Commission (IWC) between 1978 and 2004 (IDCR/SOWER surveys), reported very few fin whales in that region8. They had seemingly vanished from those historical feeding grounds. About 40 years later, our surveys now confirm a return of the whales to their ancestral feeding grounds in high numbers, forming large feeding aggregations.\nIn the post-whaling era, the International Whaling Commission’s (IWC) International Decade of Cetacean Research (IDCR) and Southern Ocean Whale Ecosystem Research (SOWER) cruise programmes, carried out in three circumpolar sets of surveys between 1978 and 2004, provided the only comprehensive information on fin whale abundance in the Southern Hemisphere. Based on IDCR/SOWER data from surveys between 1991 and 1998, circump...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark ...",
+                "htmlTitle": "Unknown &quot;<b>Sea</b> Monster&quot; with 20 arms discovered in the dark ...",
+                "link": "https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/",
+                "displayLink": "www.earth.com",
+                "snippet": "Aug 14, 2023 ... In the depths of the frozen Antarctic sea, a team of intrepid scientists aboard a research vessel made an astonishing discovery.",
+                "htmlSnippet": "Aug 14, 2023 <b>...</b> In the depths of the frozen <b>Antarctic sea</b>, a team of intrepid <b>scientists</b> aboard a research vessel made an astonishing discovery.",
+                "formattedUrl": "https://www.earth.com/.../sea-monster-with-20-arms-found-in-the-dark-anta...",
+                "htmlFormattedUrl": "https://www.earth.com/.../<b>sea</b>-monster-with-20-arms-found-in-the-dark-anta...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqN_8pJnIORWqrmCx0ndRii3VzaYf2lhBEtz6lr8pllTQ2Zr1pEiybBuM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg",
+                            "og:image:width": "2560",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark Antarctic waters - Earth.com",
+                            "og:site_name": "Earth.com",
+                            "twitter:image:type": "image/jpeg",
+                            "og:title": "Unknown \"Sea Monster\" with 20 arms discovered in the dark Antarctic waters",
+                            "og:image:height": "1440",
+                            "twitter:image:height": "1440",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.",
+                            "article:publisher": "https://www.facebook.com/earth.com/",
+                            "twitter:image": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg",
+                            "twitter:site": "@earthdotcom",
+                            "article:modified_time": "2023-08-14T15:29:04+00:00",
+                            "twitter:image:width": "2560",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.earth.com/news/sea-monster-with-20-arms-found-in-the-dark-antarctic-waters/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cff2.earth.com/uploads/2023/08/12130748/Sea-monster-scaled.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In the depths of the frozen , a team of intrepid scientists aboard a research vessel made an astonishing discovery. Within the pitch-black waters, the experts encountered a creature that seems to defy imagination. It is a previously unknown sea monster with a whopping 20 arms and a body that, curiously enough, bears a slight resemblance to a strawberry.\nAntarctic feather stars \n------------------------\nThe scientific expeditions, which spanned almost a decade from 2008 to 2017, were focused on a specific target: the pursuit of elusive or cryptic sea dwellers belonging to the genus Promachocrinus. These creatures are commonly known as Antarctic feather stars.\nWhile they may share some traits with other invertebrates such as starfish and sea cucumbers, the feather stars distinguish themselves through their considerable size and a somewhat ethereal presence when in motion.\n“Although similar to other invertebrate ocean animals, like starfish and sea cucumbers, feather stars are distinct both in their ‘large’ size and ‘otherworldly appearance’ when swimming,” said the researchers.\nEight different species identified \n-----------------------------------\nThese marine anomalies have been found to inhabit depths ranging from 65 feet to an astounding 6,500 feet beneath the waves. The team identified eight singular species, half of which had never been previously described or named by the scientific...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "What is the likelihood that there exist huge deep sea creatures that ...",
+                "htmlTitle": "What is the likelihood that there exist <b>huge</b> deep <b>sea creatures</b> that ...",
+                "link": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 8, 2012 ... Finally one of the most resilient species down there are the chimeras and eat fish (might be the same animal now). Anyways, I'm no scientist but ...",
+                "htmlSnippet": "Jun 8, 2012 <b>...</b> Finally one of the most resilient <b>species</b> down there are the chimeras and eat fish (might be the same <b>animal</b> now). Anyways, I&#39;m no <b>scientist</b> but&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/uqm1v",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/TheNr24 - 445 votes and 143 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/uqm1v",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/uqm1v"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... how vast the open ocean is, you'll find that much of the biodiversity travels along the currents or hangs out near reefs. The animals deeper down don't have the food sources that travel along currents (krill, plankton, large schools of fish) so They don't have access to the large scale food sources that underwater behemoths need (as far as we know). There are still large animals down there though. Goblin sharks which get up to four meters if I remember correctly, six and seven gill sharks that are considered to be living fossils and can be around 16 feet long. The previously mentioned colossal squid and giant squid which can be over 30 feet if memory serves, the oarfish which can be over 20 feet. Giant octopods which also reach past 20 feet. Some extremely long deep sea jellies. The gulper eel is only about two meters long but looks pretty terrifying. There are large clams and starfish as well. Finally one of the most resilient species down there are the chimeras and eat fish (might be the same animal now). Anyways, I'm no scientist but I thought you might be interested in that. Sorry for formatting, spelling mistakes and lack of sources. I wrote this on a phone.\nReply reply\n1 more reply\n1 more reply\n• \nPardon my ignorance but isn't there a lack of food at deep depths that would sustain huge creatures?\nP.S. I always have a fear when I'm in a lake that something huge is going to come up and gobble me whole so this topic definitely interests me\nReply reply\n17 more replies\n17 more replies\n\\\n• \nthink about how recently the whale shark was discovered and how they don't know where the largest animal to inhabit this earth mates, that we know of, the blue whale\nReply reply\n\\\n• \nwould deep sea life have been resistant to the worldwide extinction events?\nReply reply\n8 more replies\n8 more replies\n• \nBy the way, today is ! It's like the oceans' cake day!\nReply reply\n• \nIn many ways it's probably easier to watch the moon for life than the deep sea. The odds seem quite good that there are unknown species of considerable size. We've found squid beaks in sperm whale stomachs that are larger than any squid we've seen so far.  \nbtw, I'd love to be buried at sea. literal fish food, seems better than most other ways of disposal of my shell. :)\nReply reply\n• \nis that comment about the door...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Is This the First Recorded Footage of a Colossal Squid Living Freely ...",
+                "htmlTitle": "Is This the First Recorded Footage of a Colossal Squid Living Freely ...",
+                "link": "https://www.smithsonianmag.com/science-nature/is-this-the-first-recorded-footage-of-a-colossal-squid-living-freely-180984482/",
+                "displayLink": "www.smithsonianmag.com",
+                "snippet": "Jun 14, 2024 ... The only sightings of the animals so far have come from corpses or creatures dragged up from the depths.",
+                "htmlSnippet": "Jun 14, 2024 <b>...</b> The only <b>sightings</b> of the <b>animals</b> so far have come from corpses or <b>creatures</b> dragged up from the depths.",
+                "formattedUrl": "https://www.smithsonianmag.com/.../is-this-the-first-recorded-footage-of-a-...",
+                "htmlFormattedUrl": "https://www.smithsonianmag.com/.../is-this-the-first-recorded-footage-of-a-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqgE34Lm67BUYuYsxjtn6lQn_fR_7ojfDZ4HdVx8A9qkpno94tkHxLBQ&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "1cb4877f178228486592ed27f73e9fd1",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Smithsonian Magazine",
+                            "apple-mobile-web-app-title": "Smithsonian Magazine",
+                            "twitter:creator": "@",
+                            "og:description": "The only sightings of the animals so far have come from corpses or creatures dragged up from the depths",
+                            "twitter:image": "https://th-thumbnailer.cdn-si-edu.com/dT9N9zu9afoppk8sF5dOZsZ8LDg=/fit-in/1600x0/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/6b/976bb36d-402d-46bb-92c9-879ec4638293/gettyimages-455504354_web.jpg",
+                            "twitter:site": "@SmithsonianMag",
+                            "image": "https://th-thumbnailer.cdn-si-edu.com/ESlEGQdLkrxNjOCEe3_eXqQ4Rsk=/fit-in/1600x0/filters:focal(800x602:801x603)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F97%2F6b%2F976bb36d-402d-46bb-92c9-879ec4638293%2Fgettyimages-455504354_web.jpg",
+                            "twitter:title": "Is This the First Recorded Footage of a Colossal Squid Living Freely?",
+                            "og:image:alt": "While scientists have seen colossal squid before&mdash;like this specimen examined by New Zealander researchers in 2014&mdash;their interactions have always been with animals that were either pulled from the depths, washed up on shore or otherwise removed from their natural habitat.",
+                            "og:type": "article",
+                            "article:section": "Science, Wildlife, , Our Planet, , Articles",
+                            "author": "Smithsonian Magazine",
+                            "og:title": "Is This the First Recorded Footage of a Colossal Squid Living Freely?",
+                            "fb:pages": "47619793252",
+                            "article:tag": "Animals, cephalopod, Fishing, Hakai, Oceans, Reprint, Weird Animals, wildlife",
+                            "referrer": "unsafe-url",
+                            "fb:app_id": "419418791549947",
+                            "apple-mobile-web-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "The only sightings of the animals so far have come from corpses or creatures dragged up from the depths",
+                            "com.silverpop.brandeddomains": "www.pages03.net,airspacemag.com,si.mkt6346.com,smithsonian.com,smithsonianmag.com",
+                            "category": "Science",
+                            "og:url": "https://www.smithsonianmag.com/science-nature/is-this-the-first-recorded-footage-of-a-colossal-squid-living-freely-180984482/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://th-thumbnailer.cdn-si-edu.com/cUaSq4at4hQiZXCdiviWYKq6Bew=/1000x750/filters:no_upscale():focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/97/6b/976bb36d-402d-46bb-92c9-879ec4638293/gettyimages-455504354_web.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... after 10 a.m. on January 6, 2023, in the Southern Ocean some 680 miles south of Argentina, Matthew Mulrennan’s underwater camera captured a one-of-a-kind sighting: There, roughly 575 feet beneath his vessel, a lone squid was propelling itself through the frigid water. With its outstretched vermillion tentacles, see-through body and faint blue bioluminescent glow, this five-inch-long squid is, potentially, the first  ever filmed in its natural environment.\n!\nVideo captured off Antarctica roughly 650 feet deep below the surface shows what might be a juvenile colossal squid living freely in its natural environment. It’s possible this is not a colossal squid but instead another kind of closely related glass squid. Video courtesy of Matthew Mulrennan / Kolossal\nMulrennan, a marine scientist and founder of the California-based nonprofit Kolossal, has been working since 2017 to record footage of wild colossal squid (_Mesonychoteuthis hamiltoni_). Cephalopod experts are convinced Mulrennan filmed some sort of glass squid, the scientific family to which colossal squid belong. But they remain unsure whether it was a young colossal, an adult  or a previously unknown species in the closely related genus _Taonius_.\nThe Antarctic water where Mulrennan’s team spotted the squid was full of marine snow, giving the video a grainy quality reminiscent of the first photos of another little-known cephalopod: the .\nAlthough both cephalopods are so elusive they’re practically legendary—and often compared to the mythical kraken—colossal squid have bigger, heavier bodies and slightly shorter tentacles than their giant brethren. While giant squid were first  and  in their natural habitat in 2004 and 2012, respectively, the only sightings of colossal squid have come from corpses or animals dragged up to the surface.\nUntil, perhaps, now.\n* * *\nColossal squid were first scientifically described by zoologist Guy Robson  after a  washed up in the Falkland Islands with two colossal squid tentacles in its stomach. Since then, the massive animals have rarely been caught, photographed or even seen. That’s a striking feat for a creature longer than a cargo container with eyes the size of volleyballs. As adults, colossal squid are Earth’s largest invertebrates. They eat  (also known as ) and are hunted by sperm whales. When they’re young, colossal squid seem to venture closer to the ocean’s surface, where they’re picked off by penguins, albatrosses, seals and Patagonian toothfish. Little else is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Loch Ness Monster may be a giant eel, say scientists",
+                "htmlTitle": "Loch Ness Monster may be a <b>giant</b> eel, say <b>scientists</b>",
+                "link": "https://www.bbc.com/news/uk-scotland-highlands-islands-49495145",
+                "displayLink": "www.bbc.com",
+                "snippet": "Sep 5, 2019 ... The creatures behind repeated sightings of the fabled Loch Ness Monster may be giant eels, according to scientists. Researchers from New ...",
+                "htmlSnippet": "Sep 5, 2019 <b>...</b> The <b>creatures</b> behind repeated <b>sightings</b> of the fabled Loch Ness Monster may be <b>giant</b> eels, according to <b>scientists</b>. Researchers from New&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/uk-scotland-highlands-islands-49495145",
+                "htmlFormattedUrl": "https://www.bbc.com/news/uk-scotland-highlands-islands-49495145",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmDd6fVNbTj-YHPIYuMhxVi2WNWN58Eipj1LMqlX9p9pEVh3zpKlTxgq8&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#da532c",
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/4B11/production/_107971291_nessie.jpg",
+                            "twitter:title": "Loch Ness Monster may be a giant eel, say scientists",
+                            "twitter:card": "summary_large_image",
+                            "og:image:alt": "Nessie mock up",
+                            "theme-color": "#ffffff",
+                            "og:title": "Loch Ness Monster may be a giant eel, say scientists",
+                            "og:description": "A DNA study rules out suggestions that \"Nessie\" is a prehistoric reptile or a shark.",
+                            "version": "2.5.0+19",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/4B11/production/_107971291_nessie.jpg",
+                            "next-head-count": "28",
+                            "twitter:image:alt": "Nessie mock up",
+                            "viewport": "width=device-width",
+                            "twitter:description": "A DNA study rules out suggestions that \"Nessie\" is a prehistoric reptile or a shark."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/4B11/production/_107971291_nessie.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!!Getty Images\nThe modern myth of the monster gathered pace in the 1930s but this famous 1934 photo was later revealed to be a fake\n**The creatures behind repeated sightings of the fabled Loch Ness Monster may be giant eels, according to scientists.**\nResearchers from New Zealand have tried to catalogue all living species in the loch by extracting DNA from water samples.\nFollowing analysis, the scientists have ruled out the presence of large animals said to be behind reports of a monster.\nNo evidence of a prehistoric marine reptile called a plesiosaur or a large fish such as a sturgeon were found.\nCatfish and suggestions that a wandering Greenland shark were behind the sightings were also discounted.\n!!Science Photo Library\nThe researchers found no evidence that Nessie could be a plesiosaur\n!!University of Otago\nProf Neil Gemmell and his team collected water samples from Loch Ness\nThe aim of the research was not to find Nessie, but to improve knowledge of what plants and animals live in Loch Ness.\n*   \n*   \n*   \n*   \nJuvenile eels, known as elvers, arrive in Scottish rivers and lochs after migrating more than 3,100 miles (5,000 km) from the Sargasso Sea near the Bahamas, where the animals spawn and lay eggs.\n!!Ness District Salmon Fishery Board\nYoung eels arrive in the River Ness and Loch Ness every year as part of their life cycle\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Vast group of southern fin whales filmed feeding in Antarctica ...",
+                "htmlTitle": "Vast group of southern fin whales filmed feeding in <b>Antarctica</b> ...",
+                "link": "https://www.theguardian.com/environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Jul 8, 2022 ... Scientists say numbers of world's second-largest animal have slowly improved since 1970s whaling ban but sightings in Antarctic feeding ...",
+                "htmlSnippet": "Jul 8, 2022 <b>...</b> <b>Scientists</b> say numbers of world&#39;s second-<b>largest animal</b> have slowly improved since 1970s whaling ban but <b>sightings</b> in <b>Antarctic</b> feeding&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../vast-group-of-southern-fin-whales-filmed-...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../vast-group-of-southern-fin-whales-filmed-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahPJjTVFMl3qvzapgWFLBvvfLmyzGUMM0zznv7R2o_bhj1_-au1SAenI&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/df1ea01c26c52c7b6af46bf828ff67e04c385e1c/0_0_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=50c832d5fe20d45e387f91c8db339eb2",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2022-07-08T01:19:31.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Scientists say numbers of world’s second-largest animal have slowly improved since 1970s whaling ban but sightings in Antarctic feeding grounds are rare",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/df1ea01c26c52c7b6af46bf828ff67e04c385e1c/0_0_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&s=c71de6f1ef4b805ebcc256fee13c28c6",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2022-07-08T14:27:00.000Z",
+                            "og:type": "article",
+                            "article:section": "Environment",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "Vast group of southern fin whales filmed feeding in Antarctica, sparking hope of recovery",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "Agence France-Presse",
+                            "article:tag": "Whales,Marine life,Wildlife,Oceans,Antarctica,Cetaceans,Environment",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/environment/2022/jul/08/vast-group-of-southern-fin-whales-filmed-feeding-in-antarctica-sparking-hope-of-recovery",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.guim.co.uk/img/media/df1ea01c26c52c7b6af46bf828ff67e04c385e1c/0_0_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjIucG5n&enable=upscale&s=50c832d5fe20d45e387f91c8db339eb2"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Whales | The Guardian\n===============\n!      \nClose dialogue1/1Next imagePrevious imageToggle caption\nUS edition\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nShowMoreShow More\n*   News\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Opinion\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Sport\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Culture\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Lifestyle\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Search input\n    google-search\n    Search\n*   \n*   \n*   US edition\n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n!\n1:23\nHuge group of southern fin whales captured in Antarctic feeding frenzy – video\nThis article is more than **2 years old**\nVast group of southern fin whales filmed feeding in Antarctica, sparking hope of recovery\n=========================================================================================\nThis article is more than 2 years old\nScientists say numbers of world’s second-largest animal have slowly improved since 1970s whaling ban but sightings in Antarctic feeding grounds are rare\nAgence France-Presse\nThu 7 Jul 2022 21.19 EDTLast modified on Fri 8 Jul 2022 10.27 EDT\nUp to 150 southern fin whales have been filmed feeding together in a “thrilling” Antarctic spectacle, hailed by scientists as a sign of hope for the world’s second-biggest animal.\nThe ocean giants are second only to blue whales in length, with slender bodies that help them glide through the water at high speed.\nThey could not evade industrial whaling, however, and were slaughtered to near-extinction during the 20th century as hunters systematically shattered populations of whales across the planet.\n“They were reduced to 1 or 2% of their original population size,” said Helena Herr, of the University of Hamburg, lead author of the research, published in the journal Scientific Reports. “We’re talking about a couple of thousand animals left for the whole southern hemisphere area.”\nWhile scientists say numbers of southern fin whales have been slowly recovering since a 1976 whaling ban, there have been few sightings of these mysterious animals in large groups at their historic feeding grounds.\nBut in scenes that Herr described as “one of nature’s greatest events”, researchers and filmmakers were able to capture footage of up to 150 southern fin whales in .\nDrone footage, shot by wildlife filmmakers from the BBC, shows the fin whales swooping and lunging through the water, blasting great bursts of air as they surface, as birds wheel in the sky above them.\n“The water around us was boiling, because the animals were coming up all the time,” Herr said on Thursday....[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,912 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - flash freeze water turns to jelly science explanation",
+                "totalResults": "4200000",
+                "searchTerms": "flash freeze water turns to jelly science explanation",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - flash freeze water turns to jelly science explanation",
+                "totalResults": "4200000",
+                "searchTerms": "flash freeze water turns to jelly science explanation",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.519388,
+        "formattedSearchTime": "0.52",
+        "totalResults": "4200000",
+        "formattedTotalResults": "4,200,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Supercooled Water in the Freezer | Physics Van | Illinois",
+                "htmlTitle": "Supercooled <b>Water</b> in the <b>Freezer</b> | <b>Physics</b> Van | Illinois",
+                "link": "https://van.physics.illinois.edu/ask/listing/1618",
+                "displayLink": "van.physics.illinois.edu",
+                "snippet": "Water normally freezes when it is cooled below 0 degrees Celsius, forming ice crystals. Ice crystals form more easily when they grow on existing ice crystals.",
+                "htmlSnippet": "<b>Water</b> normally <b>freezes</b> when it is cooled below 0 degrees Celsius, forming <b>ice</b> crystals. <b>Ice</b> crystals form more easily when they grow on existing <b>ice</b> crystals.",
+                "formattedUrl": "https://van.physics.illinois.edu/ask/listing/1618",
+                "htmlFormattedUrl": "https://van.physics.illinois.edu/ask/listing/1618",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSov2Qo5tE8yRDm2nf8af7SwHN1SOJlOL6vntLqWdmV4UsVpQ-WksGk9yQ&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ws.engr.illinois.edu/images/grainger-default-thumb.jpg",
+                            "og:type": "article",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "author": "Grainger Engineering Office of Marketing and Communications",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:title": "Supercooled Water in the Freezer",
+                            "og:url": "https://van.physics.illinois.edu/ask/listing/1618",
+                            "og:description": "Supercooled Water in the Freezer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ws.engr.illinois.edu/images/grainger-default-thumb.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "_Most recent answer: 10/22/2007_\nQ:\nI put a bottle of water in the freezer every night before bed. In the morning, I take it out and drink it. Sometimes its frozen solid, sometimes it stays liquid, depending on when I put it in there. But here\u2019s the kicker, sometimes I will pull the bottle out, it will be liquid, but as soon as I open it, it starts to turn into ice, from the top down (it takes a few seconds for the entire bottle to freeze. Is there an explanation for this?  \n\\- Greg (age 26)  \nArmy, Iraq\nA:\nWe suspect that what\u2019s happening here is that the water in the bottles which did not freeze overnight was \"supercooled.\" Water normally freezes when it is cooled below 0 degrees Celsius, forming ice crystals. Ice crystals form more easily when they grow on existing ice crystals -- the water molecules like to pack themselves in place on a crystal that\u2019s already gotten started. It doesn\u2019t take much to start the crystallization process going -- a little piece of dust or other impurity in the water, or even a scratch on the bottle are sometimes all it takes to get ice crystals growing. The process of starting off a crystal is called \"nucleation.\"\nIn the absence of impurities in the water and imperfections in the bottle, the water can get \"stuck\" in its liquid state as it cools off, even below its freezing point. We say this supercooled state is \"metastable.\" The water will stay liquid until something comes along to nucleate crystal growth. A speck of dust, or a flake of frost from the screw-cap falling into the bottle are enough to get the freezing going, and the crystals will build on each other and spread through the water in the bottle.\nWater releases 80 calories per gram when turning from a liquid to a solid. We suspect your freezer is only a few degrees Celsius below zero(perhaps ten or fifteen?), and the specific heat of water is one...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This is a well-respected educational website associated with the University of Illinois. It provides a wealth of scientifically verified information on various physics-related topics. The site is primarily dedicated to educational content and has a reputation for accuracy. While it may not specifically address the claim about Walmart-brand water, it can provide scientific explanations pertinent to the freezing and supercooling of water, which can help debunk misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses the phenomenon of supercooling and how water can remain liquid below freezing until disturbed. It directly addresses the claim of water transforming into a gelatinous substance, explaining that it's a process related to freezing and that the water can solidify suddenly under certain conditions. This helps debunk the claim as it shows there's no harmful transformation into a gelatinous substance."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Can anyone explain this freezing water bottle? : r/science",
+                "htmlTitle": "Can anyone <b>explain</b> this <b>freezing water</b> bottle? : r/<b>science</b>",
+                "link": "https://www.reddit.com/r/science/comments/fh3m0/can_anyone_explain_this_freezing_water_bottle/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Feb 7, 2011 ... A sharp rap causes the solution to flash-freeze. Had the same thing happen with water bottles that I refilled with fresh water from the reverse\u00a0...",
+                "htmlSnippet": "Feb 7, 2011 <b>...</b> A sharp rap causes the solution to <b>flash</b>-<b>freeze</b>. Had the same thing happen with <b>water</b> bottles that I refilled with fresh <b>water</b> from the reverse&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../science/.../can_anyone_explain_this_freezing_w...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>science</b>/.../can_anyone_explain_this_freezing_<b>w</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRineUcNtfwFwI4xqGd-TMjj3UzdzjL6UYRW7PJscE2R0FHJ4NKKrkFLToZ&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://external-preview.redd.it/ypVVssZD9rtTQXUnZa-AJI1o_2ViUVtmDK23IrP8SSY.jpg?format=pjpg&auto=webp&s=d5f1186b922ff41f1a4bad695720594681dc66b8",
+                            "theme-color": "#000000",
+                            "og:image:width": "480",
+                            "og:type": "website",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/science on Reddit: Can anyone explain this freezing water bottle?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/science on Reddit: Can anyone explain this freezing water bottle?",
+                            "og:image:height": "360",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/M4_RC - 121 votes and 251 comments",
+                            "twitter:image": "https://external-preview.redd.it/ypVVssZD9rtTQXUnZa-AJI1o_2ViUVtmDK23IrP8SSY.jpg?format=pjpg&auto=webp&s=d5f1186b922ff41f1a4bad695720594681dc66b8",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/science/comments/fh3m0/can_anyone_explain_this_freezing_water_bottle/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://external-preview.redd.it/ypVVssZD9rtTQXUnZa-AJI1o_2ViUVtmDK23IrP8SSY.jpg?format=pjpg&auto=webp&s=d5f1186b922ff41f1a4bad695720594681dc66b8"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a popular forum platform that allows users to share information and opinions freely. However, the content quality varies significantly as it is user-generated. The site can be useful for gathering opinions or anecdotes, but it lacks authoritative fact-checking, making it less reliable for scientifically verifying or debunking claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2011-02-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence recounts a personal experience involving sudden freezing, which is relevant in explaining the flash-freezing phenomenon. While it doesn't directly address the Walmart-brand water or the claim of a dangerous gelatin substance, it lends credibility to the idea of water quickly turning into ice, thereby indirectly supporting the argument against the claim."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Instant Freeze Water - Bottle Slam - Steve Spangler",
+                "htmlTitle": "<b>Instant Freeze Water</b> - Bottle Slam - Steve Spangler",
+                "link": "https://stevespangler.com/experiments/instant-freeze-soda-ice/",
+                "displayLink": "stevespangler.com",
+                "snippet": "Sharply knock a bottle of supercooled liquid water on the table and it instantly turns to slushy ice before your eyes.",
+                "htmlSnippet": "Sharply knock a bottle of supercooled <b>liquid water</b> on the table and it instantly <b>turns</b> to slushy <b>ice</b> before your eyes.",
+                "formattedUrl": "https://stevespangler.com/experiments/instant-freeze-soda-ice/",
+                "htmlFormattedUrl": "https://stevespangler.com/experiments/instant-<b>freeze</b>-soda-ice/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOZv5Cdp2Rzuda4_q2TVTk21XG7ehlCkZkr6vV5wypV78_5zpPuM1s80&s",
+                            "width": "314",
+                            "height": "160"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-tilecolor": "#ff8a3d",
+                            "og:image": "https://stevespangler.com/wp-content/uploads/2008/03/20160622-insta-freeze-water.gif",
+                            "msapplication-config": "https://stevespangler.com/wp-content/themes/spangler/favicon/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "720",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff8a3d",
+                            "og:site_name": "Steve Spangler",
+                            "og:title": "Instant Freeze Water - Bottle Slam - Steve Spangler",
+                            "og:image:height": "368",
+                            "og:image:type": "image/gif",
+                            "msapplication-tileimage": "https://stevespangler.com/wp-content/uploads/2020/03/cropped-steve-spangler-site-icon-270x270.png",
+                            "article:publisher": "https://www.facebook.com/stevespangler",
+                            "twitter:site": "@stevespangler",
+                            "article:modified_time": "2020-10-01T23:35:17+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+                            "og:locale": "en_US",
+                            "og:url": "https://stevespangler.com/experiments/instant-freeze-soda-ice/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://stevespangler.com/wp-content/uploads/2008/03/20160622-insta-freeze-water.gif"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Instant Freeze Water - Bottle Slam - Steve Spangler\n===============         \n*   ]\n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \nSearch\nSearch this website:  Go\n*   (tel:8552288780)\n*        \n*   \n] \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \nSearch\nSearch this website:  Go\nInstant Freeze Water \u2013 Bottle Slam\n==================================\n**Sharply knock a bottle of supercooled liquid water on the table and it instantly turns to slushy ice before your eyes**\n-------------------------------------------------------------------------------------------------------------------------\nSearch Experiment Library:   Search\nChoose Science Concept\u2026 Bubbles\u00a0\u00a0(9) Halloween Science\u00a0\u00a0(15) Kitchen Chemistry\u00a0\u00a0(31) Air\u00a0\u00a0(67) Biology\u00a0\u00a0(7) Chemistry\u00a0\u00a0(128) Color\u00a0\u00a0(40) Density\u00a0\u00a0(29) Electricity\u00a0\u00a0(16) Energy\u00a0\u00a0(47) Force and Motion\u00a0\u00a0(75) Food Science\u00a0\u00a0(68) Heat\u00a0\u00a0(15) Holiday Science\u00a0\u00a0(10) Light\u00a0\u00a0(28) Magnetism\u00a0\u00a0(11) Optical Illusions\u00a0\u00a0(5) Plants\u00a0\u00a0(11) Polymers\u00a0\u00a0(20) Recycling\u00a0\u00a0(3) Rocks and Minerals\u00a0\u00a0(8) Science Fair\u00a0\u00a0(44) Science Magic\u00a0\u00a0(18) Sound\u00a0\u00a0(10) States of Matter\u00a0\u00a0(50) Table Tricks\u00a0\u00a0(43) Weather\u00a0\u00a0(10) \n!\nYou put a plastic bottle of soda pop or water in the freezer for a few minutes to get it ice cold. It\u2019s still a liquid when you take it out to enjoy but the second you twist the cap,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Steve Spangler's website is dedicated to science education and experiments. It often provides engaging and accurate scientific explanations, especially regarding demonstrations and classroom experiments. Given its focus on science and educational resources, it is likely to present accurate information about the phenomenon shown in the video and can be utilized to evaluate the claim regarding water behavior."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence describes the action of knocking a supercooled water bottle to create instant slush, which aligns well with the concepts presented in the video. It supports the idea that the transformation of water can happen rapidly but does not involve a gelatinous substance that is deemed dangerous."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Why did my gravy turn to a jelly like substance in the fridge? : r ...",
+                "htmlTitle": "Why did my gravy <b>turn</b> to a <b>jelly</b> like substance in the fridge? : r ...",
+                "link": "https://www.reddit.com/r/AskCulinary/comments/kxvujy/why_did_my_gravy_turn_to_a_jelly_like_substance/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jan 15, 2021 ... I'll add the disclaimer that I'm not a chef/cook, but I've always been able to fix a broken gravy by adding small amounts of water or stock\u00a0...",
+                "htmlSnippet": "Jan 15, 2021 <b>...</b> I&#39;ll add the disclaimer that I&#39;m not a chef/cook, but I&#39;ve always been able to fix a broken gravy by adding small amounts of <b>water</b> or stock&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../why_did_my_gravy_turn_to_a_jelly_like_subst...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../why_did_my_gravy_turn_to_a_<b>jelly</b>_like_subst...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/kxvujy",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/AskCulinary on Reddit: Why did my gravy turn to a jelly like substance in the fridge?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/AskCulinary on Reddit: Why did my gravy turn to a jelly like substance in the fridge?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/Adam_Ohh - 343 votes and 88 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/kxvujy",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/AskCulinary/comments/kxvujy/why_did_my_gravy_turn_to_a_jelly_like_substance/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/kxvujy"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a popular forum platform that allows users to share information and opinions freely. However, the content quality varies significantly as it is user-generated. The site can be useful for gathering opinions or anecdotes, but it lacks authoritative fact-checking, making it less reliable for scientifically verifying or debunking claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-01-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence discusses an instance of gravy turning gelatinous, which is somewhat tangential and relates more to food science rather than to the claim directly involving water and its freezing properties. It provides minimal relevance to the specific claim about Walmart-brand water."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Homemade Gel Food for Tropical Fish",
+                "htmlTitle": "Homemade <b>Gel</b> Food for Tropical Fish",
+                "link": "https://aquariumscience.org/index.php/3-4-gel-fish-food/",
+                "displayLink": "aquariumscience.org",
+                "snippet": "So here is one recipe for doing that. Note that there are many ways to vary this and none are the \u201cright\u201d way. Apistogramma cacatuoides Orange\u00a0...",
+                "htmlSnippet": "So here is one recipe for doing that. Note that there are many ways to vary this and none are the \u201cright\u201d way. Apistogramma cacatuoides Orange&nbsp;...",
+                "formattedUrl": "https://aquariumscience.org/index.php/3-4-gel-fish-food/",
+                "htmlFormattedUrl": "https://aquarium<b>science</b>.org/index.php/3-4-gel-fish-food/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUjohbhGAkr6BD1qtE1QJ6kuGfqesXjQ-O_sbbFT14HekeSAPJ4QjV6g&s",
+                            "width": "349",
+                            "height": "144"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Alberto"
+                        },
+                        {
+                            "name": "Mik"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Mik"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "john"
+                        },
+                        {
+                            "name": "Andrew Clark"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Phil Bunch"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Noor"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Phil"
+                        },
+                        {
+                            "name": "Dave"
+                        },
+                        {
+                            "name": "Johan"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1",
+                            "msapplication-tileimage": "https://aquariumscience.org/wp-content/uploads/2019/03/cropped-Head-Shot-60-270x270.jpg"
+                        }
+                    ],
+                    "comment": [
+                        {
+                            "text": "In reply to Alberto \u2026 Since gel food is 20% to 25% dry solids the \u201c1% fish food rule\u201d becomes the \u201c4% to 5% fish food rule\u201d OR the amount they can eat in one minute",
+                            "datepublished": "2024-06-23T21:57:59-05:00",
+                            "url": "2024-06-23 at 9:57 pm"
+                        },
+                        {
+                            "text": "Hello, With gel food do we feed using the 1% fish weight rule or we simply let them eat for 1 minute?",
+                            "datepublished": "2024-06-23T16:14:53-05:00",
+                            "url": "2024-06-23 at 4:14 pm"
+                        },
+                        {
+                            "text": "Thanks! Have a good one.",
+                            "datepublished": "2024-05-29T19:35:15-05:00",
+                            "url": "2024-05-29 at 7:35 pm"
+                        },
+                        {
+                            "text": "In reply to Mik \u2026\u2026 Great idea. Go for it.",
+                            "datepublished": "2024-05-27T18:40:05-05:00",
+                            "url": "2024-05-27 at 6:40 pm"
+                        },
+                        {
+                            "text": "Good morning, Thank you once again for the wealth of knowledge you offer. In regards to diy gel food, for the green portion I was wondering if I could use algae. Specifically, I grow green...",
+                            "datepublished": "2024-05-27T08:07:15-05:00",
+                            "url": "2024-05-27 at 8:07 am"
+                        },
+                        {
+                            "text": "In reply to Andrew Clark \u2026 All the repashy products cost an arm and a leg. Take a look at some of Dr Basslers food. The one I looked at had 55% protein and a reasonable price",
+                            "datepublished": "2024-02-13T01:57:58-05:00",
+                            "url": "2024-02-13 at 1:57 am"
+                        },
+                        {
+                            "text": "In reply to john \u2026.. Salmon is salmon. Just get the cheapest you can find.",
+                            "datepublished": "2024-02-11T23:55:25-05:00",
+                            "url": "2024-02-11 at 11:55 pm"
+                        },
+                        {
+                            "text": "Do you have any recommended brands of canned salmon? There\u2019s so many options and price points. Do I need to worry about the salt content? How about wild caught vs not?",
+                            "datepublished": "2024-02-11T00:30:01-05:00",
+                            "url": "2024-02-11 at 12:30 am"
+                        },
+                        {
+                            "text": "Hi, I\u2019m in the U.K, Many high quality commercial foods recommended in this an article are not available here. However, Repashy do have another gel product with higher protein, fat and fiber...",
+                            "datepublished": "2024-02-10T10:54:18-05:00",
+                            "url": "2024-02-10 at 10:54 am"
+                        },
+                        {
+                            "text": "In reply to Phil I used the term refrigerator when I should have used the term freezer. All my gel food gets frozen.",
+                            "datepublished": "2024-02-07T08:14:28-05:00",
+                            "url": "2024-02-07 at 8:14 am"
+                        },
+                        {
+                            "text": "Do you freeze your homemade gel food for storage. You mentioned defrosting at one point but I did not see a specific instruction to freeze it. Thanks.",
+                            "datepublished": "2024-02-04T12:26:10-05:00",
+                            "url": "2024-02-04 at 12:26 pm"
+                        },
+                        {
+                            "text": "IN reply to Noor \u2026. a 1-2 grams to 30 grams is just fine. And go ahead a soak the Tilapia food.",
+                            "datepublished": "2024-01-31T22:58:22-05:00",
+                            "url": "2024-01-31 at 10:58 pm"
+                        },
+                        {
+                            "text": "Dave, for the mazuri gel food you mentioned adding spirulina powder. Is there a spirulina to the mazuri powder ratio you recommend? Right now I\u2019m just adding 1-2 grams of spirulina powder...",
+                            "datepublished": "2024-01-31T12:51:43-05:00",
+                            "url": "2024-01-31 at 12:51 pm"
+                        },
+                        {
+                            "text": "In reply to Phil \u2026. No idea why they would do that. I fed my fish 100% gel foods without any problems.",
+                            "datepublished": "2024-01-16T21:44:49-05:00",
+                            "url": "2024-01-16 at 9:44 pm"
+                        },
+                        {
+                            "text": "I ordered some Mazuri gel food. The informational flyer that came with the canister says: \u201cIntake of up to 50% of prepared Mazuri gel is recommended.\u201d Why do you think they recommend no...",
+                            "datepublished": "2024-01-16T21:41:20-05:00",
+                            "url": "2024-01-16 at 9:41 pm"
+                        },
+                        {
+                            "text": "In reply to Johann \u2026. at 56% protein Dr. Basslers is a very good fish food, ignoring the marketing hype about being \u201cprobiotic\u201d",
+                            "datepublished": "2023-12-08T11:03:15-05:00",
+                            "url": "2023-12-08 at 11:03 am"
+                        },
+                        {
+                            "text": "Hi, Have you compared Dr. Bassleer Bio fish food with other fish foods in the market? I\u2019m curious as to your opinion on it.",
+                            "datepublished": "2023-12-08T08:32:24-05:00",
+                            "url": "2023-12-08 at 8:32 am"
+                        }
+                    ],
+                    "creativework": [
+                        {
+                            "text": "3.4. Homemade Gel Fish Food The food I used for my fish is a homemade high protein gel fish food. I find this to be the healthiest food there is as the protein level is very high, >55% by dry...",
+                            "headline": "3.4. Gel Fish Food"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://aquariumscience.org/wp-content/uploads/2020/10/138-fish-aquarium-1024x425.jpg"
+                        }
+                    ],
+                    "wpheader": [
+                        {
+                            "description": "The Science of Aquariums",
+                            "headline": "Aquarium Science"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Home Page",
+                            "url": "Home Page"
+                        },
+                        {
+                            "name": "Home Page",
+                            "url": "Home Page"
+                        }
+                    ],
+                    "wpsidebar": [
+                        {
+                            "url": "Home Page"
+                        }
+                    ],
+                    "searchaction": [
+                        {
+                            "query-input": "name=s",
+                            "target": "https://aquariumscience.org/?s={s}"
+                        },
+                        {
+                            "query-input": "name=s",
+                            "target": "https://aquariumscience.org/?s={s}"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Aquarium Science\nThe Science of Aquariums\nThe food I used for my fish is a homemade high protein gel fish food. I find this to be the healthiest food there is as the protein level is very high, >55% by dry weight. The Mazuri gel food is also excellent.\nMany hobbyists like to make their own food. So here is one recipe for doing that. Note that there are many ways to vary this and none are the \u201cright\u201d way.\nTo make one variation of gel tropical fish food get the following ingredients:\nHeat the meat and algae to hot.\u00a0 Then heat one cup water to boiling. Add one and one half ounce of gelatin powder to the one cup of water.\u00a0 Stir the gelatin/boiling water mixture till the gelatin dissolves. Let both mixtures cool till they are safe to handle but still very hot. Then put both the hot gelatin/water and the hot algae/meat in a blender. Blend all this thoroughly to make a hot viscous green putty-like material. Adjust the water content to get this wet putty consistency.\nThis hot viscous putty should then be solidified as 3 mm (1/8 inch) thick slabs in zip lock bags in a freezer. It is important that the gel food be a thin slab. A thin slab is easy to break up and will rapidly defrost and break up in the water. Alternatively one can use candy molds to make cubes or whatever shape one desires. Or you can put it in baking pans or plastic tubs and just cut cubes out as you need them.\nThis well gelled cold material can be just used as is, just cutting off or breaking...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This website focuses on aquarium science and includes informative articles related to water chemistry and biology. Although not directly linked to the claim about Walmart water, it provides scientific insights about water properties and behaviors. Its focus is narrower than broader science sites, but it still possesses a degree of reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence regarding homemade gel food for fish is unrelated to the claim and does not provide any useful insights into the properties of supercooled water or the transformation mentioned in the video. Hence, it is not relevant to the evaluation of the claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The science of freezing foods | UMN Extension",
+                "htmlTitle": "The <b>science</b> of <b>freezing</b> foods | UMN Extension",
+                "link": "https://extension.umn.edu/preserving-and-preparing/science-freezing-foods",
+                "displayLink": "extension.umn.edu",
+                "snippet": "When you freeze fruits and vegetables you actually are freezing the water in the plant cells. When the water freezes, it expands and the ice crystals cause the\u00a0...",
+                "htmlSnippet": "When you <b>freeze</b> fruits and vegetables you actually are <b>freezing</b> the <b>water</b> in the plant cells. When the <b>water freezes</b>, it expands and the <b>ice</b> crystals cause the&nbsp;...",
+                "formattedUrl": "https://extension.umn.edu/preserving-and-preparing/science-freezing-foods",
+                "htmlFormattedUrl": "https://extension.umn.edu/preserving-and-preparing/<b>science</b>-freezing-foods",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The science of freezing foods",
+                            "handheldfriendly": "true",
+                            "og:image:url": "https://extension.umn.edu/sites/extension.umn.edu/files/FB-Large-Gold.png",
+                            "msvalidate.01": "285105B1A1BED2E3ED770980028DD028",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Freezing is a quick and convenient way to preserve fruits and vegetables at home. You can produce frozen fruits and vegetables of high quality and maximum nutritional value if done correctly. Our directions are based on:",
+                            "og:title": "The science of freezing foods",
+                            "mobileoptimized": "width",
+                            "og:description": "Freezing is a quick and convenient way to preserve fruits and vegetables at home. You can produce frozen fruits and vegetables of high quality and maximum nutritional value if done correctly. Our directions are based on:",
+                            "twitter:creator": "@UMNExt",
+                            "twitter:image": "https://extension.umn.edu/sites/extension.umn.edu/files/Twitter-large-gold.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... spinach, more compact.\n### Add\u00a0ascorbic acid to fruit to control enzymes\n*   The major problem associated with enzymes in fruits is browning and loss of vitamin C.\n*   Because fruits are usually served raw, they're not blanched like vegetables.\n*   Enzymes in frozen fruit are controlled by using chemical compounds that interfere with deteriorative chemical reactions.\n*   The most common control chemical is ascorbic acid (vitamin C). Ascorbic acid may be used in its pure form or in commercial mixtures with sugars.\n*   Soaking the fruit in dilute vinegar solutions or coating the fruit with sugar and lemon juice doesn't prevent browning as effectively as treatment with ascorbic acid.\n### Limit air\u00a0during freezing\nAir exposure can cause frozen products to develop rancid oxidative flavors. Keep frozen food in airtight containers or use wrapping material that does not permit air to pass into the product. Also,\u00a0remove as much air as possible from the freezer bag or container to reduce the amount of air in contact with the product.\nChanges in texture during freezing\n----------------------------------\nWater makes up over 90 percent of the weight of most fruits and vegetables. Water and other chemicals are held within the fairly rigid cell walls that give structure\u00a0and texture to the fruit or vegetable. When you freeze fruits and vegetables you actually are freezing the water in the plant cells.\nWhen the water freezes, it expands and the ice crystals cause the cell walls to rupture. So the texture of thawed produce is much softer than when it was raw. This is particularly true of food that is usually eaten raw. For example, when a frozen tomato is thawed, it becomes mushy and watery.\nCelery and lettuce are not usually frozen because of this and we suggest that you serve frozen fruits before they have completely thawed. Partially thawed fruit is more appetizing when the effect of freezing on the fruit tissue is less noticeable.\nTextural changes due to freezing are not as apparent in products that are cooked before eating because cooking also softens cell walls. These changes are also less noticeable in high starch vegetables, such as peas, corn\u00a0and lima beans.\n### Freeze food as quickly as possible\n*   Avoid mushy fruits and vegetables by freezing produce as quickly as possible.\n*   In rapid freezing, a large number of small ice crystals are formed. Small ice crystals produce less cell wall rupture than slow freezing, which produces only a few large ice crystals.\n*   Some home freezer manuals recommend that you set the freezer temperature...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This is the University of Minnesota Extension website, which is highly credible and focuses on education in agriculture, community development, and environmental science. The site contains research-based information and can provide accurate insights into topics related to water properties and freezing, making it credible for evaluating the claim."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence discusses the effects of freezing on food texture and the release of moisture, but it does not specifically relate to the claim about Walmart-brand water or the transformation into a gelatin-like substance. Its contribution to understanding the claim is limited."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "How to Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of ...",
+                "htmlTitle": "How to Make a Self-<b>Freezing</b> Coca-Cola Slushy (Or Any Kind of ...",
+                "link": "https://food-hacks.wonderhowto.com/how-to/make-self-freezing-coca-cola-slushy-or-any-kind-instant-soda-slurpee-0147581/",
+                "displayLink": "food-hacks.wonderhowto.com",
+                "snippet": "Jun 20, 2013 ... Freezing them between 4-5 hours. The whole bottle slushifies in an instant if you shake it upside down for a second.",
+                "htmlSnippet": "Jun 20, 2013 <b>...</b> <b>Freezing</b> them between 4-5 hours. The whole bottle slushifies in an <b>instant</b> if you shake it upside down for a second.",
+                "formattedUrl": "https://food-hacks.wonderhowto.com/.../make-self-freezing-coca-cola-slush...",
+                "htmlFormattedUrl": "https://food-hacks.wonderhowto.com/.../make-self-freezing-coca-cola-slush...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayEHm-C5WY7bJhl8l0gC8AMWOhWC6DopzSObRX85rVpzHlSQeOGWcovI&s",
+                            "width": "328",
+                            "height": "154"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "contenturl": "https://img.wonderhowto.com/img/50/66/63507341651346/0/make-self-freezing-coca-cola-slushy-any-kind-instant-soda-slurpee.1280x600.jpg",
+                            "width": "1280",
+                            "url": "https://img.wonderhowto.com/img/50/66/63507341651346/0/make-self-freezing-coca-cola-slushy-any-kind-instant-soda-slurpee.1280x600.jpg",
+                            "height": "600"
+                        },
+                        {
+                            "contenturl": "https://img.wonderhowto.com/images/logos/wonderhowto.feed.logo.gif",
+                            "width": "144",
+                            "url": "https://img.wonderhowto.com/images/logos/wonderhowto.feed.logo.gif",
+                            "height": "144"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "The King of Random",
+                            "url": "The King of Random"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "WonderHowTo",
+                            "url": "WonderHowTo"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "application-name": "WonderHowTo",
+                            "msapplication-tilecolor": "#7abd13",
+                            "og:image": "https://img.wonderhowto.com/img/50/66/63507341651346/0/make-self-freezing-coca-cola-slushy-any-kind-instant-soda-slurpee.1280x600.jpg",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "How to Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)",
+                            "theme-color": "#7abd13",
+                            "og:site_name": "WonderHowTo",
+                            "twitter:domain": "food-hacks.WonderHowTo.com",
+                            "og:title": "How to Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)",
+                            "apple-mobile-web-app-title": "WonderHowTo",
+                            "msapplication-tileimage": "https://img.wonderhowto.com/images/favicons/wonderhowto/mstile-144x144.png",
+                            "og:description": "In my last quick clip, I demonstrated how to take a bottle of soda and freeze it on command. I received many requests for a more detailed article on this, so here we go. This \"super cool\" trick works with cans of soda too, not just bottles! Video: .",
+                            "twitter:creator": "@FoodHacksDaily",
+                            "article:publisher": "http://www.facebook.com/foodhacksdaily",
+                            "twitter:image:src": "https://img.wonderhowto.com/img/50/66/63507341651346/0/make-self-freezing-coca-cola-slushy-any-kind-instant-soda-slurpee.1280x600.jpg",
+                            "fb:app_id": "133643190002681",
+                            "twitter:site": "@WonderHowTo",
+                            "viewport": "width=device-width,height=device-height,initial-scale=1.0,user-scalable=no,viewport-fit=cover",
+                            "twitter:description": "In my last quick clip, I demonstrated how to take a bottle of soda and freeze it on command. I received many requests for a more detailed article on this, so here we go. This \"super cool\" trick wor...",
+                            "og:url": "https://food-hacks.wonderhowto.com/how-to/make-self-freezing-coca-cola-slushy-or-any-kind-instant-soda-slurpee-0147581/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.wonderhowto.com/img/50/66/63507341651346/0/make-self-freezing-coca-cola-slushy-any-kind-instant-soda-slurpee.1280x600.jpg"
+                        }
+                    ],
+                    "article": [
+                        {
+                            "articlebody": "In my last quick clip, I demonstrated how to take a bottle of soda and freeze it on command. I received many requests for a more detailed article on this, so here we go. This \"super cool\" trick...",
+                            "datemodified": "2014-07-11T21:18:50",
+                            "name": "How To: Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)",
+                            "datecreated": "2013-06-20T19:40:15",
+                            "headline": "How To: Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)",
+                            "url": "How To: Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)",
+                            "datepublished": "2013-06-20T19:58:08",
+                            "mainentityofpage": "How To: Make a Self-Freezing Coca-Cola Slushy (Or Any Kind of Instant Soda Slurpee)"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... about the same, and the key to making it work is releasing the pressure from the can very very slowly. This is much harder to do that opening a tab, but it is possible, and the soda has the same properties as the stuff from the bottles.\n!\nObviously?\nI also experimented with 2 litter bottles, and had great results freezing them between 4-5 hours. The whole bottle slushifies in an instant if you shake it upside down for a second.\n!\nI experimented with Gatorade, Fresca, Mexican Sprite, Rootbeer, Orange sodas, Coke, Diet Coke, in bottle form, as well as in cans. I had super cooled success with them all!\n!\n!\n!\nRemoving the pressure very slowly from the bottle, can keep the soda liquified, and give you the choice opportunity to play with supercooled soda outside of the bottle.\nWell, there you have it! That's how to freeze soda instantly.\nIf you're not a soda drinker, you can do this same trick with water!\nVideo Loading\nIf you like this project perhaps you'll like some of my others. Check them out at  or !\nJust updated your iPhone? You'll find new features for Podcasts, News, Books, and TV, as well as important security improvements and fresh wallpapers. ****\nRelated\n-------\n*   ###  How To: Instantly Ice Soda into a Frozen Slushy]\n*   ###  How To: Make a Coca-Cola Can Rose for Valentine's Day]\n*   ###  How To: Turn a Bottle of Coke into Jello\u2026 Shaped Like a Coke Bottle]\n*   ###  How To: Turn Any Wine into a Slushie with This Clever Trick]\n*   ###  News: What Happens When You Mix Coca Cola and Milk]\n*   ###  How To: Make an Instant Slushy]\n*   ###  News: Coca-Cola Opens a Can of Augmented Reality to Get Consumers into the Holiday Spirit]\n*   ###  News: Coca Cola vs Coca Cola Zero - Sugar Test]\n*   ###  How To: The Simple Trick to Rescuing Over-Toasted Food]\n*   ###  How To: 10 Amazing Reasons to Dust Off Your Ice Cream Maker]\n*   ###  How To: Make a Coke and Mentos rocket]\n*   ###  How To: Turn Any Magazine into an iPhone Stereo Sound Dock]\n*   ###  Brief Reality: Augmented Reality Applied to Makeup, Medical & Sports Marketing]\n*   ###  How To:...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "WonderHowTo primarily features food hacks and DIY projects. While some content may be entertaining, it does not guarantee scientific accuracy or reliability. The site is not a specialized scientific resource, but it may have content that relates to fun food experiments, potentially useful in assessing public interest or misinformation regarding food items."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2013-06-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence discusses making a self-freezing slushy and references the supercooling phenomenon, but it does not directly correlate with the claim of dangerous gelatin transformation. It provides vague insights into freezing techniques without addressing the major claim."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Frozen Water Bottle Experiment | TikTok",
+                "htmlTitle": "<b>Frozen Water</b> Bottle <b>Experiment</b> | TikTok",
+                "link": "https://www.tiktok.com/discover/Frozen-Water-Bottle-Experiment",
+                "displayLink": "www.tiktok.com",
+                "snippet": "525.9K Likes, 1717 Comments. TikTok video from Davey (@daveyrz): 5.2M. I saved all the frozen bottle jelly's\u00a0...",
+                "htmlSnippet": "525.9K Likes, 1717 Comments. TikTok video from Davey (@daveyrz): 5.2M. I saved all the <b>frozen</b> bottle <b>jelly&#39;s</b>&nbsp;...",
+                "formattedUrl": "https://www.tiktok.com/discover/Frozen-Water-Bottle-Experiment",
+                "htmlFormattedUrl": "https://www.tiktok.com/discover/Frozen-<b>Water</b>-Bottle-Experiment",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_9f1anbUAlX7VMUEThyij0aJUMLtKn7Yq1CeLCVa1Zcb_fHEv-vhGw&s=0",
+                            "width": "83",
+                            "height": "148"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+                            "og:image": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b0ee4f1f00b45a8b75f897d2286349e_1678381843~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=34559&refresh_token=f83365741151f7eb5b5a30cc0be5aa25&x-expires=1722279600&x-signature=gxi9jwzC%2Fd9bt%2BZiMcQt%2BFX3yYE%3D&shp=b59d6b55&shcp=-",
+                            "twitter:card": "summary",
+                            "og:image:width": "360",
+                            "og:site_name": "TikTok",
+                            "applicable-device": "pc, mobile",
+                            "al:android:package": "com.zhiliaoapp.musically",
+                            "pumbaa-ctx": "login=0,ftc=0",
+                            "al:ios:url": "snssdk1233://user/profile/",
+                            "twitter:app:id:iphone": "835599320",
+                            "og:description": "66.6M posts. Discover videos related to Frozen Water Bottle Experiment on TikTok. See more videos about Honey in A Water Bottle Frozen, Frozen Water Bottles in Cooler, Daveryz Water Bottle Frozen, Frozen Distilled Water, Frozen Water Bottle on Face, Syrup in A Water Bottle Frozen.",
+                            "al:ios:app_store_id": "835599320",
+                            "twitter:image": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b0ee4f1f00b45a8b75f897d2286349e_1678381843~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=34559&refresh_token=f83365741151f7eb5b5a30cc0be5aa25&x-expires=1722279600&x-signature=gxi9jwzC%2Fd9bt%2BZiMcQt%2BFX3yYE%3D&shp=b59d6b55&shcp=-",
+                            "twitter:site": "TikTok",
+                            "og:type": "website",
+                            "twitter:title": "Frozen Water Bottle Experiment | TikTok",
+                            "og:image:alt": "Frozen Water Bottle Experiment | TikTok",
+                            "al:ios:app_name": "musical.ly",
+                            "og:title": "Frozen Water Bottle Experiment | TikTok",
+                            "og:image:height": "360",
+                            "google": "notranslate",
+                            "al:android:url": "snssdk1233://user/profile/",
+                            "fb:app_id": "597615686992125",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+                            "twitter:description": "66.6M posts. Discover videos related to Frozen Water Bottle Experiment on TikTok. See more videos about Honey in A Water Bottle Frozen, Frozen Water Bottles in Cooler, Daveryz Water Bottle Frozen, Frozen Distilled Water, Frozen Water Bottle on Face, Syrup in A Water Bottle Frozen.",
+                            "og:url": "https://www.tiktok.com/discover/Frozen-Water-Bottle-Experiment",
+                            "al:android:app_name": "musical.ly",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/0b0ee4f1f00b45a8b75f897d2286349e_1678381843~tplv-photomode-share-play.jpeg?lk3s=b59d6b55&nonce=34559&refresh_token=f83365741151f7eb5b5a30cc0be5aa25&x-expires=1722279600&x-signature=gxi9jwzC%2Fd9bt%2BZiMcQt%2BFX3yYE%3D&shp=b59d6b55&shcp=-"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\ufffd\u0017h\ufffd3\ufffd\ufffd\ufffd\ufffd\u0333JN\ufffddB\ufffdm\u007f\ufffd\ufffd\ufffd\ufffd\u00129|\u001477Ne\ufffd\ufffd\ufffd\ufffd@6<\ufffdLo\u001ea\ufffdg\ufffd;\ufffd\ufffd\ufffd?\ufffd>\u0005K\ufffd\ufffdzv\u0486\ufffdL[\ufffdS\ufffdM\u001b$\u00bfK\ufffd2\ufffd|\u0014\u0019{*\ufffd\u001d\u000f\ufffd \ufffd\ufffd\ufffd;\u0018{\ufffdN\ufffd\ufffdB\ufffd\ufffdS7\ufffd\ufffd\ufffd\ufffd\\k=bxk@\ufffd\ufffd#Z\ufffd\ufffd4\ufffd=o\u0382B\ufffd\ufffd\ufffd\u000f\u007fR\ufffd\ufffdT\ufffd\ufffdn\ufffdS>\u0006\ufffd\ufffd?\ufffd\ufffd\u0563\ufffd\u00131g\ufffdnoX\ufffd=\ufffd\r$\ufffd\ufffdKz\ufffd\ufffd\ufffd=v\ufffdd\rY\ufffd\ufffd\fk\ufffd\ufffd\ufffd\ufffd\u00101&jB,'N\ufffdx\f\ufffd\u000eN\ufffd\ufffd0\ufffdfg\ufffd\ufffd\ufffd\u0000v%Xp\ufffdX3(\u001dMEr_\ufffd\ufffd\ufffdm5\ufffdNk1-\ufffdO\r\u0007\ufffd\\s\ufffd\u0012C\ufffdP\ufffdb\ufffd\ufffdfHl\u001ew)\u060duY\ufffdf\ufffd\ufffd\ufffd\ufffd\u0004\u0678\ufffd\ufffd\ufffd\ufffdC\ufffd\ufffd-/\ufffd\ufffd\ufffd\u0011L\ufffdDj#\ufffd(2\ufffd\ufffdEvj\ufffd\u05ad\ufffdq\ufffd\\\ufffda\ufffd\ufffd\u0007\u001f\ufffd\u000f\n\ufffdhiX\ufffd\u0015\ufffdC!=Y5\u0688/\ufffd\u001aS\u9ab3\ufffd\ufffd\u01bd\ufffdJ\ufffd\ufffdG\ufffd,M\u00076\ufffd\ufffd#\ufffd\ufffd*\ufffdK\u0015\ufffd\ufffd\ufffdZ\ufffd3K\ufffdM\ufffd\ufffd\u049b&F\ufffd\f\ufffd}\ufffdn\ufffd\ufffdy\ufffd\u0018\ufffd\ufffd\ufffd\ufffd$I=G4y\ufffdL\ufffd\u000f\ufffd#\u001d/\ufffd7nn\ufffd\u000f>\ufffd\ufffd\ufffd\u0014\ufffd\ufffdr\ufffd\ufffd\ufffdY>ne\u041e%\ufffd\ufffd\t\u0001\ufffdf\ufffdmk\ufffd\ufffd\ufffdY\ufffd\ufffd\u0017|2\u0557\ufffd\ufffd\u03ba\ufffdyw\ufffd\u0018\u0003\u04fd\u02e0\ufffd\u0019\ufffd\ufffdlQt\ufffdS%Y\u044c\u001e\ufffdUK\u007f\u03dc\ufffdq+\ufffd\u0013l\u0019,\ufffd\u001bL\ufffd\ufffd\f\ufffd\ufffdDG\ufffd\u001e\ufffd\ufffd\ufffd.G\ufffd>\ufffd\ufffd\ufffd\u0018\r\ufffd\u0013H\ufffd\ufffd(\ufffd\ufffd=#\u0003\ufffd_\ufffd\ufffd;PM\u0000\ufffd\u04d6\ufffdRk\ufffdS-\ufffd\u0007\ufffdE\u0004\ufffd\ufffdK\ufffd`p\ufffdD\u007f\u001a\u0018\ufffd\ufffd8_v4=\ufffdb\u06b1\ufffd\ufffd,\ufffd\ufffd\u001f\ufffd\ufffd\ufffd6\ufffd\ufffd\ufffd\ufffd\u001f\ufffd\u0001\ufffd~.w\ufffd\ufffdv6_t\ufffdCI*\u0005\ufffd\ufffd\ufffd\ufffdQ9\ufffd\ufffd\ufffd6OM\ufffd4|\ufffd>\ufffdP\r\ufffd\u001e\ufffdH\ufffd\ufffd/\ufffd\ufffd\ufffdl-\u0003\u0004\u0005c7f\u0002\ufffdw\u0007\u0019\u001d\ufffd\ufffd:w\ufffd\u0005_f\ufffd\ufffd4\ufffdf\ufffd\ufffd\u06744\ufffdN\ufffd\ufffdu\ufffd\ufffd\ufffdP(\u000f\ufffd\ufffdj\ufffdV\ufffd\u0001\ufffdu\u000f\ufffd\ufffdf\ufffdL\ufffd\u0013\ufffdV\re_2)`\ufffd\u075d\u0010\ufffdh\ufffd^\ufffd`9\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffdwS\u0019,\ufffd\ufffdzR\ufffd\ufffd$+\ufffd\ufffd\ufffd\ufffd\u03b6d\ufffda\u07b6\ufffd\ufffd)\ufffd\ufffd\ufffd\ufffd\u007f\ufffd\ufffd3\ufffd\ufffd\ufffdF\ufffd\ufffd^\u8702\ufffd:\ufffd\ufffdIeX\ufffd#\u000b\ufffdNB\ufffd\ufffd2#J\ufffd\ufffd\ufffd\ufffd8OD\ufffd:\ufffd;Ud\u0015#T\ufffd\ufffd\ufffd5\u001b\ufffd\ufffd\ufffdgI93\ufffdf\ufffd?\ufffd\ufffd\ufffd\u001cc\ufffd\ufffdoxl\ufffdH>K,,\ufffd9\ufffd\ufffd?$m\u020cq)\ufffd\ufffd\ufffdTv\ufffd\u0685\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdo\ufffdE\ufffd\ufffd\ufffd\ufffd^\ufffdBA\ufffd(X\ufffd\ufffds\ufffd61\ufffd\u02d1m\ufffd\ufffd\ufffd+\ufffdF\ufffdr\u0006=\ufffd\u000e\ufffd\ufffd\ufffdr\ufffd\ufffd(y\ufffde\u00067\u0018\ufffd\ufffd\ufffd\ufffdn\ufffd\ufffdr\ufffd\u0328\ufffd-G\ufffd\ufffd\ufffd\ufffd\ufffd\u0017g(m\u000e\ufffd\ufffd\u0019\ufffd\ufffd\u019b\u0394\ufffd\ufffd\ufffd\ufffd\u0006\ufffd;\u0013\ufffdO+\ufffdD\u0005e\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdt\ufffd\u053b_&m\ufffdOLy_\u000e\ufffdK\ufffdl\ufffd\ufffd\ufffd\ufffd\ufffdG\u0005\ufffd\u000f_U\u0014\ufffd<\u0117}\ufffdv\ufffdF/\ub291\ufffd~h\ufffd\u0005\ufffd\u0771\ufffd\ufffdb\u0784\ufffd\ufffd%b\ufffd`)j\ufffd\u00109O\ufffdL\ufffdHu\ufffd\ufffd;\ufffd%\ufffd\ufffdy\ufffd\ufffd~\ufffd1_GeH\u32d87<\ufffd\u058a@\ufffd\ufffdZ\ufffd]\ufffd\ufffd\u0345\u0017a\ufffd|x\ufffd\ufffd\ufffd\u0016\u0007S(\ufffd\ufffdo\ufffd-\ufffd\ufffd#\ufffd#=\ufffd:\ufffd(g\ufffd\u0667\ufffd\ufffd2\u0015\ufffd1\ufffd\u055c\ufffd\ufffd\\\ufffd\u035e\ufffd\\\ufffdxr\ufffd\ufffd#\u06ba\ufffd\ufffd\ufffd\ufffd\ufffd1\ufffd\ufffd\ufffd\u001c\ufffdo\ufffd\ufffd\ufffd\u0644\ufffdg]:22\ufffd\ufffdH\ufffd\ufffdU\ufffd\t\b\ufffdn\ufffd*\ufffd\ufffd\ufffd\tz\ufffd\ufffd'\ufffdW6\u000bQE\ufffd;\ufffdND\ufffd39\ufffd\u0003\u03e7G-\ufffd'P\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffdH\u0006\ufffdj1\ufffd\u07fad\ufffd>7neP8\u0002\ufffd\ufffd\ufffd\ufffd4\ufffd\ufffdp\ufffd\fs\ufffdR\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd`\ufffd-\ufffd\u001f\ufffd\u9619\ufffd\ufffd\ufffdE\ufffdIS\u001b\ufffd==\ufffd8\ufffd'\ufffd\ufffd3r+\u0004\u0016\ufffdD\ufffd\ufffd\ufffdy\ufffd\ufffd#d\ufffd\ufffd\u0005\ufffd\ufffd\ufffd[Y\ufffd`\ufffd\ufffd\ufffdbO\ufffd:\ufffd\ufffd\ufffdYK\ufffd\u0001\ufffd'\u001b\ufffdRI\ufffd|f\"\ufffdf\u0000\ufffd=7\ufffd\u001ccf6\ufffd\ufffd\bG\u0014k\ufffd\ufffdh2\ufffd%\u0015\ufffd5\ufffd\ufffd/hSL]\ufffd,\ufffd|\ufffd\ufffd\ufffd\ufffda\ufffd\ufffd\ufffd\\:>\ufffd\ufffdlN:\u02a6\ufffd\ufffdV\ufffdn\r%N\ufffd_\u001dH-p\u0007Lp\ufffd!e\ufffd\u0001RZ\ufffd\\\u9ab3\ufffd\ufffd\u0005\ufffd\ufffd\ufffda\u0405#\ufffd@\ufffd6I\ufffd\u0019\u001c\ufffd\ufffd\ufffd\ufffd\u007f\u001c\ufffd|#&\ufffd\u001b\ufffdc\ufffd\ufffd&k\ufffd\ufffd/\u0016l\ufffd\ufffd\ufffdF\ufffd\ufffdB:t\ufffd\ufffdL$\ufffde\u0004<\ufffd\ufffdk\ufffd\ufffd@3\u0019:\ufffd\ufffdQ^\ufffd4u\ufffd\ufffd\u0476\u001eV/&\ufffd\ufffd\u000b\ufffd{\\?\ufffd\ufffdv\u04e9\u001a>*\ufffd\ufffdP\ufffdm$q\ufffd\ufffd\ufffdU\ufffdV\ufffdI\u050d\ufffd\ufffd\ufffd$\ufffd\u0456\u001b\ufffd\u0010\ufffd\ufffd7i\ufffd\ufffd?\ufffd\u026d;\ufffd\ufffdJ\ufffd9d^>OX\ufffd\ufffd\ufffd\u001e\ufffd]\ufffd\ufffd\ufffd\ufffd\ufffdg\ufffd\ufffd\ufffd\ufffdo\ufffd\ufffd2\ufffd\ufffd\\\ufffdR\ufffd2M\ufffd\u001f\ufffd\ua1a1\ufffd\ufffdT\ufffd\ufffd`lg\ufffd\ufffd\ufffd\u06a9\t\ufffd\ufffd\ufffd6\u0012\u001b$'\ufffd\ufffdO?\ufffdu\ufffd\ufffd\ufffd}B\ufffd\ufffd\ufffdu\ufffd\ufffdz\ufffd\u001e\ufffd\ufffdkI+\ufffd\ufffdE\ufffd\u0018/\ufffd\ufffd\ufffd?\ufffd\ufffd*\u0004\ufffd\ufffd\u000e\u019eH\u0017\ufffd\b\ro\ufffdm\ufffd[\u04abr\ufffd\t\ufffd0\ufffd\ufffd\ufffdmQ$\ufffd\ufffdb\ufffd\ufffd\u00129d\ufffd\ufffdf\u0003r\u0017\ufffd/\u0552\ufffd6\ufffdv&\ufffd+\ufffd\ufffd\ufffd&\u0007\ufffd=\ufffd|o\ufffd\u0010\ufffd?\ufffd\ufffdXR\ufffd,2M\u0003\ufffd\ufffd\ufffdY\ufffdC\ufffd\f\ufffdvV\ufffd'Y\ufffd\ufffd\ufffd\ufffdl\ufffd\ufffd\ufffd1\ufffd\nVsUX\ufffd\u0016\ufffdV\ufffd\ufffd\ufffd\u0019$\ufffd\ufffd\ufffdy\ufffdZQJ\ufffd\ufffdh=\ufffd\ufffd\ufffdC\f\ufffd\u0007\ufffd(\ufffd\ufffdt\ufffdGQ]\ufffd\"\u0012l\ufffd\ufffd\ufffd8\ufffd|`<>\ufffd8\u0007\ufffd\t\u0004X\u03d9\ufffd\u0513\ufffd\u024f\u001f\u0003\ufffd\ufffd\u000fI\ufffd\ufffd`\ufffdS\ufffdg\ufffdo\ufffd`T\ufffd;\ufffd.\"\ufffds\ufffd\ufffdZ\u07ea\ufffdR\ufffd\u0015\ufffd\ufffd\ufffd0\ufffd;\u05aa\ufffd\ufffd\u000b=\ufffd\ufffdn:\ufffdO\ufffdF\ufffd\ufffd\ufffd\u04e6\u0013\ufffd\ufffd\ufffdK\ufffd6\ufffd\ufffd\r\ufffdb\ufffddz\ufffd0\ufffd\u001f\ufffd\ufffd\ufffd\ufffd&XNjk\u0002\ufffd\ufffdm\ufffdx\ufffd\ufffd\ufffd\ufffd\ufffdP\ufffdSQ\ufffd3\ufffd4\ufffd[\ufffdG\ufffd\ufffd\u0473\ufffd1\u0012J\ufffd\ufffd\u0017}\ufffd\fa\ufffd2r\ufffdT\ufffd\ufffdJ\ufffd\ufffd\ufffd-\n\ufffd\ufffd\u0000\ufffd\ufffdA\ufffd\ufffd\ufffd\ufffd\ufffd\u0000.*\u06d7\ufffd\ufffd\ufffd\u0013\ufffd\ufffd\u00e7~\u0010wn]\ufffdAI\u0699J\ufffd3\ufffd\u0011}1_\f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\\\ufffd$\ufffd\ufffdub\u001c\ufffd\ufffd\ufffd]c\ufffd\ufffd\u001e\ufffdRz\ufffd=\ufffd\ufffd72\ufffdt\ufffd\ufffd\u0000hN\ufffd\ufffd\ufffdz$(\u001c&\ufffd\ufffd\ufffd\"m\\[V\ufffd\ufffd\u0012gT\ufffd\ufffd\ufffd2\ufffdS\ufffd}\ufffd\ufffd\ufffd\u001f]\ufffd\ufffd~\ufffd\ufffdT\ufffdw\ufffd\u2893\u0089/\ufffdc^\ufffdc$\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\ufffd\u00130R\ufffdQ\u0542>d4k\ufffdL\u0004'&\ufffd\u001c\u000b\ufffd(\ufffdID\ufffd\ufffdT\u0015\u036d\ufffdj>)t\ufffd\u001d\ufffd\ufffd_,\ufffd\ufffd\u0011\u01a1\u000e\ufffd\ufffdhFT\ufffd\"\ufffd\\h\u000bv\ufffd1\ufffdu\ufffd\ufffd\ufffd\ufffd\u0011Q)ua$\u000b\ufffdw\b\u0011\ufffdB\ufffd\ufffd\ufffd\u03a6Ig\ufffd4\u0011\u0019|\u0004\ufffd_\ufffd\ufffdA\ufffd?y\u0001s\ufffd\u071e\f)\ufffd\ufffd\ufffd)A\ufffdK\ufffdFv2\ufffdBF\ufffd\ufffd$\fXW\ufffd\ufffdtO\"\u03df\ufffd\ufffd\ufffdZl\ufffd\u00c3\u0011\ufffd!\ufffdOw\u05f2\ufffd\ufffd\ufffd\ufffd\u0600\u0018\ufffd\ufffdb\ufffd8F\u007fy{w\u000b\ufffd\ufffdB\u834a\ufffdN?\u001d\ufffd\u0003\ufffd#\ufffdA\ufffd\ufffd\ufffdG\ufffdC\ufffdW\ufffd\ufffd\ufffd>w\ufffd\ufffd\ufffdY;D\ufffd\ufffd\u001b\ufffd<\ufffd\ufffd 560\u0085\u0002%y\ufffdl9\ufffd[\ufffd!{\ufffdM\ufffd\rT\ufffd\ufffdU\u0015]8\ufffd\u0018#\ufffd\ufffd\ufffdmR`\ufffd\ufffdL\ufffd\ufffd\u076d\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdW\ufffdk\ufffd\ufffd&\ufffdF\ufffd\ufffd\u0013\ufffd\u0006\ufffdJ\ufffd\ufffdm\u0c12\u03115U\ufffd\ufffd\ufffd[\ufffdB\u0000\u000f\ufffd\tC\b\ufffd\ufffd\u0016\u0001\ufffd\ufffd\ufffdP\u00186a5\ufffd<@\ufffdWL\ufffdA\ufffdf\ufffd\ufffd>\u0013We\ufffd\ufffd\ufffdqB\ufffdc0\ufffd\\'\u0017\ufffd\ufffd\ufffd\ufffdj\ufffd\ufffd\ufffd\ufffd\u0360\u000bw\ufffd\ufffd,\u0018\ufffdZ\u001bo6:\f>L=\ufffd\u0010X\u0007\ufffd\ufffd\u0007\ufffd/WR\ufffd\u0001\ufffd\u001dre\u000e}\ufffd0|8\u001c\ufffd\ufffdlWtaL\u000e\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdh\ufffd\u0006\ufffd\ufffd\u0741ne\f:`\ufffd\ufffd\u0697<-xS\ufffd\ufffd'o\ufffd\ufffdbF_\u01d8<\ufffd\u001b8k\ufffd}\t\u0599\ufffd\ufffd\ufffd\ufffd \ufffd4B}\ufffd\ufffd_`\u0004\u05e57\ufffdP\fU\u001f;\ufffdK\ufffdm$#}\t\ufffd \u0019\ufffdw#\ufffd\u000b\ufffdCF\ufffd\ufffd\ufffd\u01ff\ufffd\u000e\u049d\ufffd\ufffd\ufffd\ufffd\ufffd]\ufffdB\u0004\ufffdJ\ufffd\n\ufffd\ufffd\ufffd\ufffdw\u023a\ufffd6\ufffd\b%\ufffd@\ufffd.\ufffd>]\ufffd\u001e\ufffd\ufffd\ufffd\ufffd[\ufffd/\ufffd\ufffd\ufffd\u0002\nvI\u0011\ufffdo\ufffd\ufffd\ufffd4\ufffd\ufffdJ\u0556\ufffdb\ufffd\ufffd\ufffdC\ufffd\ufffdR\ufffd\ufffdp\ufffd|^\ufffd\ufffd\ufffd\ufffd\ufffd\u001cW`$\ufffd\ufffdCnt\ufffd\ufffdZ\t\b\ufffd\ufffd~\u0014\ufffd\ufffd\tq\ufffd\ufffd\ufffdu\ufffd\u0003\ufffd\ufffdce\ufffd\u00024\ufffdc(\ufffd\ufffd\u0011ta\u0017\ufffdJ\ufffdt\ufffd_!+E\ufffd\ufffd\ufffd\u00d5\ufffdm\ufffd\u001c#\ufffdq\ufffd-\u0004a\u001a`\ufffd\ufffd\u049e\ufffd\nO\u0005\ufffd\f{9G\ufffd\ufffd\ufffdt\ufffd$=\ufffd4\ufffd\u05ac\ufffd\ufffd!&8\u007f\u066d\ufffdT\ufffd\ufffd>J\u0002t\ufffdl\u000f\ufffd\ufffdl\u0000He\u001b$\ufffd\u0005\u000e\ufffd\u0006\ufffd\ufffd\u000b\u036e\u048c\u0017\ufffd\ufffd\ufffd\b\ufffd`Jl\ufffd\ufffd\ufffd\ufffd\ufffd /\ufffd\ufffdf\ufffd\ufffd\u0011_T\ufffd\ufffdQy\ufffd\ufffd.\u0001\ufffd\r\ufffd>\ufffd\ufffdMR\ufffd\ufffd\ufffd\ufffdQ\ufffd\u0002\ufffd\ufffd|\u001f\u0004K\n\u001e\u0006\ufffdS\u0003\u001d\ufffdI\ufffd\ufffd\r\ufffd\b\ufffd\ufffd\ufffdK\ufffd\u0010\ufffd\ufffd\ufffd\ufffdZI\ufffd\ufffd\ufffdsX\ufffd\ufffdh%i-\u000e\ufffd0\ufffdfYS\u0275\ufffdw\ufffd\ufffd(Q\ufffd\ufffdl\ufffd\u0748^\ufffd\ufffdb\ufffd\t\bZ\u0233\ufffd\u001fs\ufffd\u0000\u0673\ufffd{\u0010\ufffd\u001c\u0018)\ufffdG\ufffdT\ufffdg\ufffd\u022c\ufffd\ufffd\ufffd3\ufffdH\ufffd\ufffd\ufffd\ufffd;J\ufffdN%\ufffd\ufffd?)Z\ufffd;\ufffd\"\ufffdp\ufffd}\ufffddSb\ufffdx\ufffd\u007f7sZ]\ufffdC\ufffd;\ufffd/\ufffd\ufffd,d\ufffdb\ufffdFE?\\R\ufffd\ufffd\ufffd\u0011\u0003\ufffd-\ufffd\ufffdv\ufffd\ufffd\ufffdu\ufffd\u001f\ufffd\ufffd\ufffd>a\u001a\ufffd7\ufffd\u001f;\ufffd\ufffd\u0010dh\rV|\ufffd\ufffdR)\u0007\ufffd\ufffdz\u05a0\ufffd+\ufffdAQ\ufffd\ufffd\ufffdi6\u0018u\ufffd[/\ufffd\ufffd\u001f\ufffdj\ufffdq\u07c4\ufffdL\u0017\ufffd\u0001_\ufffd\ufffdM\ufffd6i\ufffd\ufffd\ufffd\u0001\u007f\ufffd\u0012f\u0011DT\ufffd\ufffdP\ufffd\u000f\ufffd\ufffd\ufffd\ufffd\ufffd\u007f\ufffd=\ufffdN\n\ufffd\ufffd\u02e0n\ufffd\ufffdJ#\ufffd+\ufffd;\u0010\u06ea9\ufffdv\u0013\u0012\ufffd$\u001d6\ufffdN'\u000bJ@\ufffd\ufffd7a\ufffdmRQ\ufffd\ufffdM,\t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd@K\ufffd\u007fb^\u0010\ufffde\ufffd\ufffd\ufffd\ufffd\\r \u0015\ufffdCG\ufffd\ufffd\bW\ufffd\ufffd\ufffd\ufffd=\ufffd_f\ufffd\ufffd\ufffdX\ufffdw\ufffdE\ufffd\ufffd*\u00db\ufffd,\ufffdSfY(\ufffd\ufffd\u03ee\ufffd*\u0014X\ufffdl\ufffd\ufffd,2U\ufffd\u0010&\ufffd\ufffd\ufffd}\ufffd.\u3731\ufffd\u0001\u0018\ufffd\u0000@V\ufffdlZ\t}i\ufffdS\ufffd\u04ab@\ufffdLLD\ufffd\u0004\ufffd\ufffd\ufffd\ufffd/\ufffd\u000f\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u00a8ZV\ufffd\ufffd\ufffd\ufffd\ufffdlV\u0004\n\ufffd\ufffd&[\ufffd\u0012\ufffd\ufffd\ufffd\u000f3\t\u0017\u001c\ufffdp\ufffd\ufffdU\u0015\u05ac\ufffd?\u0184\ufffdq\ufffd\ufffd\ufffd\ufffd$\ufffdnO\ufffd\ufffdOWr2?0\u000b\ufffd\ufffd?\u0005vTf\ufffd!\ufffd)\ufffdi\u0015\ufffd\ufffdO\ufffde\ufffd\ufffdU Pi\ufffdf\ufffd\ufffd\ufffdp\ufffdA\u0012\ufffd=\ufffd\u001du\ufffd\ufffd\u001a\ufffd\u001f\ufffdHa:\u000eq/\u0004~\u0016\ufffd\u0014\ufffd\ufffdpU\ufffdk\"\ufffdI\ufffd\ufffd\ufffd~hY\ufffd\nQ\ufffdM\u001a\u02c92Fx\ufffd\u0011\ufffdK\ufffd\u001cX!\r\ufffd\ufffd\ufffdh\ufffddU\ufffd\r\ufffd@\ufffd\ufffd\ufffd\ufffd\u0017\ufffd\ufffdr\ufffd\ufffd\ufffdl\ufffd\u018cb\u000efG\ufffd\ufffd\ufffd\ufffdh\ufffdb7\ufffd\u04a3\ufffd\u0018\ufffdH\u07ddz\ufffd\ufffd<\ufffd\ufffd0\ufffdp\u0010\ufffdP\u0451\ufffd\ufffd\ufffd%\ufffd\ufffd\ufffdj\ufffd\ufffd\u07d8\ufffdI\ufffd\ufffd\ufffd\u0019\"\ufffd\u001b\u001f\ufffd\u07eb\ufffd\ufffd\ufffd\u029c\ufffd\b\ufffd\ufffdQQ;W\ufffd\ufffd\ufffd\ufffd=U\u001d\ufffdJSB\u0018\ufffd)\ufffdZ\ufffd\ufffdp)X\ufffd\ufffd\ufffd\ufffdT\ufffd\u001f1\ufffd\ufffd\u00043GU\ufffd\ufffd/\ufffd\ufffda\ufffd\ufffd_\u06d9\ufffd\u000e\ufffd>\ufffd~Elk:\ufffd\ufffd\ufffdg9\u000e\u05be\ufffd`\ufffd*\ufffd~\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd(B\ufffd\u0011\u0006\ufffdRUfk<\ufffd\u001b\u00024r\u0003\ufffd\u0581\ufffd\ufffd\ufffd\ufffd\ufffd\u0013\ufffd^\t\ufffd\ufffdn\ufffd7\ufffdc\ufffd1)\ufffd.5\ufffd\u0003\ufffd\ufffd\ufffdB\ufffd[:\ufffdd\ufffdbH\u0011v\f`z\ufffd\ufffd\ufffd\ufffd7\ufffdJ\u0007\"\ufffd\ufffd\u02f7X\ufffdl\ufffd\ufffd.q\ufffd:\ud959\udd74\u017c\ufffd`G\ufffd)UI%\ufffdd6R\ufffd\ufffd\u69ab@\ufffdN\u0005I\u0018s \ufffd)G\u0002\ufffdc\ufffd`\ufffdj\ufffd\ufffd\ufffd*iz\ufffd\ufffd!+N\ufffd\ufffd\ufffd(:\ufffdT\ufffd\u0005\ufffd%f\ufffdAw\ufffd\ufffd\ufffd\u04c8`\ufffd\ufffdy\u0010\ufffdYW0\ufffd\u0000\"b\u0002\u0463\ufffdTu\ufffdL(\ufffdM\ufffd&\ufffd\ufffd\"k\ufffd\ufffd\ufffd(\u000b\ufffdwR\ufffd\f{\ufffd@V\n\u0004\ufffd\ufffd\ufffd\ufffd\ufffd?&n\u0012\ufffd\ufffd\"\ufffd\ufffd\u0018Z\u001c\u03c7\ufffd\ufffd\ub728\ufffd6\u0013\ufffd\ufffd\ufffd\ufffdT\ufffdU\ufffd\u007f\ufffd\ufffd|\ufffdA\ufffd\ufffd}A\u0314\u0150\ufffd\ufffd\u001d\ufffd`\u000e\ufffd\ufffd\ufffd[\ufffdp\u0002\ufffd\u001bf\ufffdl\ufffd\u01c2#\ufffd\u001e\ufffd\ufffd\ufffd4\ufffd\ufffd\ufffd\ufffd\ufffd20\ufffd\ufffdB\b(\u0396aRwo\ufffdV\r\ufffdQ\ufffd\ufffd1\ufffd|\u0004\ufffd\ufffd\ufffd\u03ea5@\ufffdO\u0011\\\ufffd\ufffd\ufffd\u0017\u0007\ufffd}\ufffdpU\ufffd\u0003\ufffd\ufffd.\ufffd\ufffd&\u001a\ufffd\ufffd\u000fp\u000f&>\ufffd&c\ufffd\u3146\ufffd^I\ufffd]\ufffdS\ufffd\ufffd!\u0019\ufffdt\ufffd\u00104\u0341\ufffdPr\u0012p\ufffd\f\u0018#K9\ufffd9\ufffd\ufffd^\ufffd\ufffde\u00111t\ufffd\ufffd>\ufffd\ufffd\ufffd\u001a\u001b2\u0003\u0018h\ufffd\u000e :2G>\ufffd\u0018\ufffdY\ufffdH\ufffd0\ufffd@4!\ufffd\ufffd\ufffdE\ufffdB\ufffd\u0016\ufffd\u0002\ufffd\ufffdp\u0016\u0019\ufffd~\ufffdf\ufffdF\ufffd\ufffd]\ufffd\u0003<\ufffd5\ufffdm\ufffd\u05b7`u\u0141DZ\ufffdX\ufffd\u05ac\ufffdbh\u0007\ufffd\ufffdXon\ufffd\ufffdp\u00071\ufffd\u0002\u000e\ufffd\ufffd-K\ufffdlz\ufffd\u0000\ufffd\u0015\u001c\u0012\ufffd\ufffd\ufffd\ufffd(\ufffd\r\ufffd\ufffd$\ufffdz\ufffd\ufffd\ufffdi\t\u02b7gh\ufffd\ufffd\u0017\ufffd@\ufffd24\ufffd\ufffdG\u00181\ufffdq4>n\ufffd\ufffd\ufffd\u0019l\ufffdX\ufffd\ufffd\u01eap'\ufffd\ufffd\n\u0004\ufffds\u001b\ufffd(2dy\ufffd\ufffd:iHp\ufffd\ufffd\ufffd\ufffd`\ufffdz\u0003$\u0002\ufffd(\u0006\ufffd\ufffdjJa8\ufffd&(\ufffd\ufffd\ufffd\ufffd\ufffd\u0019\ufffd\ufffd\u0019\ufffd\u07b3\ufffd&z\ufffd;M\ufffdO\ufffdjq}\ufffd_\u0010dk\ufffd/\ufffd\ufffd\u0014\u0014x\u0014\ufffd\ufffd@03\ufffd-\u0002\ufffd\u0006+\ufffd@\ufffd\r\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdz%\ufffd\ufffduM)\ufffd\ufffd+(,\ufffd\ufffd\ufffd\u0002\ufffd\ufffd\ufffd\u04327\ufffd+m/ml\ufffd1UH_\u0002g\u01f3\ufffd\ufffd\ufffd\ud50ef\ufffd\u0001\ufffdi1\ufffd3\ufffd\ufffd\ufffd\ufffd\ufffd;In\ufffd\u0012W\ufffd\ufffdQ\ufffd\u000e\ufffdBn\u0016f\ufffd\t\ufffd\ufffd\u001d\ufffd\ufffd\\f\ufffd\ufffd\ufffdk\ufffdU2\u000e\u001d[\ufffdp\ufffd\ufffd\ufffdS\u007f\ufffd\ufffd\ufffd\u0003y\ufffd\ufffd\ufffd\u0019\ufffd\ufffdYB9\\\ufffd\ufffd\ufffdF\ufffdL.\b\u0012#\u0316\ufffd\ufffdA\ufffd\u001b\ufffdp\u0002\ufffd\ufffd\ufffd\u0001\ufffd\ufffd\u022a\ufffd;\u001a\"t\ufffd9\ufffd\ufffd\r\ufffd\ufffd\n\ufffdH\ufffd\ufffd\ufffd?\ufffdi\ufffd!\ufffd\ufffd\ufffdUT\ufffd\ufffd\r\u0003\u0653\u0001\u0004^@`\ufffdz\ufffd\t\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0015\ufffd\ufffd\ufffd\ufffd\ufffd\u0019\u0004\ufffd+L\ufffd\ufffd\ufffd\ufffd\u0413^s\ufffdg1\ufffdE\u551f\ufffd\ufffd\ufffd\ufffd/pCO\ufffd\ufffd\ufffd:\u0005_]h\ufffd\ufffd^\ufffd4y\ufffd\ufffd\u001f\u001f(D\ufffd\ufffd\ufffd,\u00069\ufffdf#\ufffdT\u001e}8|)sr\u05fd~\ufffd\ufffdy(\ufffd\u0004m%D1\ufffdK\u000e\ufffd*\u0010\t\ufffde\ufffd\ufffd\u007f\ufffd\ufffd\u0003\u0018ctp\u001b\ufffd\ufffd0\u000e\ufffdN\u0013X\ufffd\ufffd\ufffd,\ufffd<\ufffd`i\u0004-Q\ufffd\ufffd\ufffd\ufffd\u0018\u0004\ufffdL\ufffd\u000e\ufffd\ufffd+KVnn\u0004\ufffd|\u0010\ufffd\ufffd\ufffdA_I\ufffdZ\ufffd*\ufffd\ufffd\ufffdc\u001c\ufffda%>\ufffd\u0017\ufffdv\ufffdE\u001d\ufffdX\ufffdH\ufffd\ufffd\u0000\ufffd\ufffd\ufffd\u000b\ufffd\u0003\ufffdH\ufffd\ufffdg\ufffd\u0010$E=\ufffd\u0672\ufffdT\u0013\ufffdpXAA\ufffdD\ufffd>J]\ufffd\ufffd{9\ufffdet\u0007\ufffd\u8ee4\u000f\u041f\ufffd9\u007f\ufffd{\u007fa\ufffd\u0652\ufffd\ufffd\u000f\ufffd\u001a\u03a7\u0681\ufffd\u0004\u0317\ufffdt=\u000e8\ufffd\u001f\ufffd\u000bg\ufffdun.\ufffdV\ufffd>L.,\u0013vxkb\ufffd\u0143\ufffdlZ8\ufffd\u0007\ufffd\u07d5\ufffd\ufffd\rw\ufffdu\u0002\ufffd\ufffdwW'<6\ufffd\u0010r\rOO\u0019\ufffd5\ufffd\ufffd\u001bn\ufffdZ#\u0007\u03fbY\ufffd\ufffdb\ufffde\ufffd\ufffd\ufffd\ufffdd\ufffdL\ufffdSn\u00180\u000b\ufffd,\ufffd~\u9662X\n\ufffd\u0018\u010d\u0002\ufffd\ufffd@\ufffd:\ufffd\u001c<\ufffd\ufffdY\ufffd\ufffdp\ufffd\ufffdF\u001f\ufffd\ufffdg)\u0017\u0010T\ufffd\u0016\ufffd\ufffd\ufffd;\ufffdN\ufffdJCIV\ufffd\ufffd8\u0017\ufffdx\u0019\u0016\u0016\ufffdw\u0014\ufffd\ufffd%\ufffd\u001c\ufffd\ufffd\ufffdB \ufffd\ufffd]OEaU@\ufffd\ufffd\ufffdn\ufffd\u0291\ufffdG\ufffdT\\<\ufffdc(\ufffd\ufffd\ufffd\ufffd\u001c\ufffd\ufffdJF\ufffd\ufffd_2.W1\u001f\\\ufffd~B?\ufffdb\ufffd\ufffd\t\u000f\ufffd\ufffd\ufffd\u01c4o<\u0013b\ufffd\ufffd\u074e`L\ufffd\ufffd\ufffd \"F\ufffd\ufffd\u0591\ufffd\u0006P\rSR\ufffd\ufffd\ufffd2\ufffd\u0007.\ufffd\ufffdhpp\ufffd\ufffd('k7l\ufffd3E\u0007\ufffds\u001f\ufffd;\ufffd\ufffdv\ufffdl\ufffdGv\ufffd\ufffdo\ufffd\ufffdx9\ufffdmShR\ufffd@7\ufffd\ufffd\u0011K\ufffd&b\u008a\ufffd\ufffd=\f\ufffdV+\ufffdO\ufffd}H\\\u001fZ\ufffd\u0007\ufffd\ufffd:)F\ufffd\ufffd\ufffd%N\u0004\ufffd\ufffdaO,<\ufffd\ufffd{K\ufffds\ufffd\u0233\ufffd\u0319\ufffd\u001cH\\\ufffdR8Z\u01dc\ufffdVN<\u0001\ufffd4\f\ufffd\ufffd\ufffd!q:\b\ufffdF\t\u0017\ufffd`R\ufffd\ufffd\u0016\ufffdCt\ufffd\u0011l\ufffd\ufffd\u0006lQd\u001d\ufffd5[\ufffd\ufffd-\u007f\ufffda\ufffd\ufffd\u0007\u0016~\f\ufffd\ufffd\u001f\ufffde\ufffd6-7l\"W\ufffd\"\u0007\ufffdy\ufffdqe\u0014\ufffd\nX\ufffd\ufffd\t+\ufffd\ufffdY\ufffd\u007fH<\ufffdi\nR\ufffd\ufffd\u0010\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd($\ufffd\ufffdL*R\ufffd\u0000|*|\ufffd\ufffd\ufffdYH\ue77d\ufffd99\ufffd\ufffd8(\ufffd\b\ufffd\ufffd\ufffd9E\u0288\ufffd\ufffd0\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdq\u0006\ufffd\ufffd\"O\ufffdp\ufffd\u04f3\ufffd\ufffd2\ufffd\ufffd\u0004=d\ufffd\ufffdvn\n\u0005\ufffd\ufffd\bXO\ufffdZP\ufffdE\ufffd\u0013\ufffdm\u0019\ufffdMGr\ufffdP}n\ufffd3w\ufffd\ufffdR\ufffd# \ufffdAf^C\u0016\ufffdYJKT2\ufffd\ufffd\ufffd\u0003\ufffd1I\ufffd\u0007\ufffd\ufffdG\\\ufffd7\ufffd\ufffd\ufffd\b\u07237\u0013\ufffd\ufffd\u001d\ufffd\u001b\ufffdfP\ufffd\ufffd\ufffdR\u001d\ufffd\ufffd.2\ufffd\ufffd\ufffd\ufffd\ufffd1\ufffd\u0246\f\ufffda3l\ufffdVmWF\ufffd\u01f1\ufffd\ufffd%\ufffd\ufffd%\u6f8a\ufffdw8\ufffdAf\u0019\ufffd\ufffd(\u0017\u001bi`\ufffd%\ufffd\ufffd5+\\&\ufffd N\ufffd\ufffd1\u0004\ufffdA\ufffdc*$5^\ufffd\ufffd\ufffd\u036d\ufffd\u001d\ufffd9ia>\b\ufffdFu 4\u0002rq\ufffd\ufffd\ufffd\ufffdL\u000emn|\n\ufffdxdm`|\ufffd:HGo\ufffd\ufffdy\ufffd\ufffd@\u0019\u0002\ufffd\ufffdp\ufffd\u0001\ufffd\ufffd0b\ufffd\ufffdM\u001d\ufffdZFJ9B\ufffd\ufffdc\ufffd)\ufffdV\ufffdX\ufffd\ufffdb%\ufffd\u0005\u007f\ufffd\ufffd&\ufffd\ufffd^\ufffdE^\ufffd\ufffdwK01\ufffd$\ufffd\ufffd\u001d\u0002\ufffd\u0006O\ufffd\f\u0011\ufffd\ufffdZ\u0003\ufffdT\\\u0002\ufffd\ufffd\ufffd:1\u000e\ufffdx\ufffd*|\ufffd\ufffd2\u007f\ufffd/\ufffdJ\ufffd\ufffd\u001c\u001c)+\u000e\ufffdTDm\u00ee\ufffd\u0000\ufffdy\ufffd\u0013\ufffd3\ufffd\tp\u0005\ufffd\ufffd\u001fXp$\ufffd\t\ufffd\ufffd\u0014\ufffdV\u0017\ufffdA$\u0002\u0011\ufffdO\ufffd\ufffd\u000e\ufffd\u0018M\ufffd`\ufffd5r+\ufffd\u0002\ufffd\ufffd\u0011\u0015\u0000\u001b\ufffd\ufffd\ufffd\ufffd\u0012`\ufffdY_\ufffdXZ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdq4\ufffd\ufffd\ufffd\ufffdD\u0019\ufffd\ufffd\u00f8=*+\ufffd6\u0673p'\u001aaft\u000e6B\ufffdw5\\\ufffd~\ufffd\ufffdD\ufffd\u0016\ufffdMz\u0c6a\ufffd\ufffdDH_]zt\ufffd\ufffdHN\ufffd\u01bc\f\ufffdh/\ufffdZu\ufffdPA\ufffd[<\ufffd>\ufffd\u001dC\ufffd)\ufffd\u0011\ufffd{h\ufffd\ufffd\ufffd\ufffd\ufffd\u0001\ufffd<\u0003K\ufffd\ufffdq\ufffd\ufffd\ufffdb\ufffd\ufffd\ufffd\ufffd\ufffd;\u03a1\ufffd&\u0010G\ufffd/Q\ufffd\ufffd\ufffd\ufffd8\u001a%\ufffd\ufffd'q\ufffd}\ufffd\u04b1c\u0003\u00188\u0004\u000f\ufffd\"\ufffd\b\ufffdDUh\ufffd\ufffd\ufffdL\ufffd\ufffdO\ufffd\ufffd\u001a\u0004I\ufffd\ufffd\ufffd\ufffd6\u0000K\ufffd\ufffd\u007f\u00037\ufffd\u0237\ufffd\ufffd\ufffdymq\ufffd\u0003\u0006\u000b\ufffdi\ufffdx\u00026\u0000t\ufffd\ufffd\ufffd\ufffdT\ufffd\ufffd\ufffd\f\ufffd\ufffdo\u0668\ufffdze\ufffd(G\b\ufffd.\ufffd_l}&+g\ufffdI&\u00147\ufffd\ufffd\ufffd`\ufffd\ufffdRt\ufffd\ufffd\u0002\ufffdp\ufffdc\ufffd'AO\ufffd\u04f1)'\ufffd\ufffd`\u0010\ufffd\ufffd5\u00145\ufffd\u03b6\ufffd\ufffd\u0003F\u0014{\ufffd\ufffd\ufffdl`\ufffdjYxm\u0755\ufffd*wa\u0002\u02b7\ufffd9\ufffda\ufffd\u0011\u0017\ufffd\u0005BZl\ufffd\ufffd%\u001a\ufffd\ufffd\ufffd]\ufffd\ufffd03\u06e2\ufffd\ufffd9Ak\ufffd\ud2444...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 3,
+                    "justification": "TikTok is a social media platform that allows for the sharing of short video content. While it can provide entertaining visuals and concepts, it is generally not a reliable source for factual information. Viral videos can perpetuate misinformation quickly, making it a less credible platform for validating scientific claims."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This TikTok evidence may be visually interesting but lacks scientific explanation or relevance to the claim of a dangerous gelatin substance. It doesn't aid in discerning the truth of the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Instant Ice Science Experiment for Kids - Only Passionate Curiosity",
+                "htmlTitle": "<b>Instant Ice Science Experiment</b> for Kids - Only Passionate Curiosity",
+                "link": "https://onlypassionatecuriosity.com/instant-ice-science-experiment-for-kids/",
+                "displayLink": "onlypassionatecuriosity.com",
+                "snippet": "This easy instant ice science experiment requires very few supplies but has a big impact. All you'll have to do is pour water and watch the magic!",
+                "htmlSnippet": "This easy <b>instant ice science experiment</b> requires very few supplies but has a big impact. All you&#39;ll have to do is pour <b>water</b> and watch the magic!",
+                "formattedUrl": "https://onlypassionatecuriosity.com/instant-ice-science-experiment-for-kids/",
+                "htmlFormattedUrl": "https://onlypassionatecuriosity.com/instant-ice-<b>science</b>-experiment-for-kids/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Eshal",
+                            "nickname": "Eshal",
+                            "photo": "https://secure.gravatar.com/avatar/b16a7e245bde559568dea9398a73a3b7?s=60&d=monsterid&r=g"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSveW6-IGGEyhidaSgzObTLzZHSN4fltLN8ZWXUX3_edaCLTn-9HRrgTju&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://onlypassionatecuriosity.com/wp-content/uploads/2019/02/instant-ice-chemistry-science-experiment-fb-2.png",
+                            "article:published_time": "2019-02-07T13:31:05+00:00",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1191",
+                            "og:site_name": "Only Passionate Curiosity",
+                            "video:duration": "235",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Time to read",
+                            "og:image:type": "image/png",
+                            "msapplication-tileimage": "https://onlypassionatecuriosity.com/wp-content/uploads/2021/10/cropped-favicon-3-270x270.png",
+                            "og:description": "This easy instant ice science experiment requires very few supplies, but has a big impact. Pour liquid water and watch it magically turn into ice before your eyes!",
+                            "twitter:image": "https://onlypassionatecuriosity.com/wp-content/uploads/2019/02/instant-ice-chemistry-science-experiment-fb-2.png",
+                            "og:image:secure_url": "https://onlypassionatecuriosity.com/wp-content/uploads/2019/02/instant-ice-chemistry-science-experiment-fi-2.png",
+                            "twitter:data1": "Heather Aliano",
+                            "twitter:data2": "3 minutes",
+                            "article:modified_time": "2022-01-15T09:48:00+00:00",
+                            "og:type": "article",
+                            "twitter:title": "Instant Ice Science Experiment",
+                            "article:section": "Homeschooling",
+                            "og:image:alt": "Instant Ice Science Experiment",
+                            "ya:ovs:upload_date": "2015-06-16",
+                            "og:title": "Instant Ice Science Experiment",
+                            "og:image:height": "648",
+                            "og:updated_time": "2022-01-15T09:48:00+00:00",
+                            "fb:app_id": "304754069631144",
+                            "og:video": "https://www.youtube.com/embed/YCQXDegwnoE",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "This easy instant ice science experiment requires very few supplies, but has a big impact. Pour liquid water and watch it magically turn into ice before your eyes!",
+                            "og:locale": "en_US",
+                            "og:url": "https://onlypassionatecuriosity.com/instant-ice-science-experiment-for-kids/",
+                            "ya:ovs:allow_embed": "true"
+                        }
+                    ],
+                    "videoobject": [
+                        {
+                            "contenturl": "https://content.jwplatform.com/videos/SZQKiFgm.mp4",
+                            "uploaddate": "2019-02-05T03:30:12.000Z",
+                            "name": "Instant Ice Experiment",
+                            "description": "Watch ice crystals form before your eyes with this easy instant ice experiment for kids.",
+                            "thumbnailurl": "https://content.jwplatform.com/thumbs/SZQKiFgm-720.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://onlypassionatecuriosity.com/wp-content/uploads/2019/02/instant-ice-chemistry-science-experiment-fb-2.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Instant Ice Science Experiment for Kids - Only Passionate Curiosity\n===============\nSearch for:  \n(blob:https://onlypassionatecuriosity.com/c3e39eb0ebed586e5f7877169e02a3d1)]\n(blob:https://onlypassionatecuriosity.com/7ea9fa6513fbc5849c572441e5435a69)]\n*   \n    *   \n        *   \n        *   \n        *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n        *   \n    *   \n    *   \n    *   \n    *   \n        *   \n        *   \n        *   \n        *   \n    *   \n        *   \n        *   \n        *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n*   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n(blob:https://onlypassionatecuriosity.com/c3e39eb0ebed586e5f7877169e02a3d1)]\nSearch for:  \n(blob:https://onlypassionatecuriosity.com/7ea9fa6513fbc5849c572441e5435a69)]\nInstant Ice Science Experiment for Kids\n=======================================\nSharing is caring!\n289 shares\n*   \n*   \n*   Pinterest79\n!(blob:https://onlypassionatecuriosity.com/bb9d9d283e7bb6745210532e6bef2b1b)\nThis easy instant ice science experiment requires very few supplies but has a big impact. All you\u2019ll have to do is pour liquid water and watch it magically turn into ice before your eyes!\n!(blob:https://onlypassionatecuriosity.com/4c5c2e899466cd5874ac5be72b58b54d)\nSee the Instant Ice Science Experiment in Action\n------------------------------------------------\nSupplies\n--------\n*   ****\n*   ****\n*   **** or shallow metal cookie sheet\n*   Ice cubes\n*   Freezer\n*   Curious kids\n!(blob:https://onlypassionatecuriosity.com/a0867ef02ea0a3eca26dc343f0ef32d9)\nProcess\n-------\n1.  Put water bottles in the freezer for two hours....[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This is a blog aimed at educational resources and family engagement in learning. While it may contain valuable content, its credibility can be inconsistent as blogs often reflect a personal perspective rather than rigorous scientific investigation. It may have useful educational insights, but users should be cautious about its factual accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2019-02-07"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence refers to a simple experiment involving instant ice creation, which can shed light on the phenomena displayed in the video. However, like other evidence, it does not address the claim about a gelatinous transformation directly."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Why does water freeze instantly when you hit a bottle just out of the ...",
+                "htmlTitle": "Why does <b>water freeze</b> instantly when you hit a bottle just out of the ...",
+                "link": "https://www.sciencefocus.com/science/why-does-water-freeze-instantly-when-you-hit-a-bottle-just-out-of-the-freezer",
+                "displayLink": "www.sciencefocus.com",
+                "snippet": "It is because the liquid in the bottle is supercooled - the temperature of the liquid is below its normal freezing point, but the liquid has still not turned\u00a0...",
+                "htmlSnippet": "It is because the <b>liquid</b> in the bottle is supercooled - the temperature of the <b>liquid</b> is below its normal <b>freezing</b> point, but the <b>liquid</b> has still not <b>turned</b>&nbsp;...",
+                "formattedUrl": "https://www.sciencefocus.com/science/why-does-water-freeze-instantly-whe...",
+                "htmlFormattedUrl": "https://www.<b>science</b>focus.com/<b>science</b>/why-does-<b>water</b>-<b>freeze</b>-instantly-whe...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZzfSHfliKgqoxUwkjAp0BS-VlkVkGF5p3k3_d5OirhN28leqP5k0cQSw&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "storefront-commit": "{git-hash}",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "og:site:name": "BBC Science Focus Magazine",
+                            "og:title": "Why does water freeze instantly when you hit a bottle just out of the freezer?",
+                            "google": "notranslate",
+                            "article:published:time": "2009-07-22T13:00:32+00:00",
+                            "canonical": "why-does-water-freeze-instantly-when-you-hit-a-bottle-just-out-of-the-freezer",
+                            "title": "Why does water freeze instantly when you hit a bottle just out of the freezer? - BBC Science Focus Magazine",
+                            "twitter:misc:est. reading time": "1 minute",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0",
+                            "og:locale": "en_US",
+                            "article:modified:time": "2023-07-12T22:51:57+00:00",
+                            "storefront-version": "{npm-version}",
+                            "og:url": "https://www.sciencefocus.com/science/why-does-water-freeze-instantly-when-you-hit-a-bottle-just-out-of-the-freezer"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://c02.purpledshub.com/uploads/sites/41/2018/07/GettyImages-84588407-f290ded.jpg?w=1029&webp=1"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Why does water freeze instantly when you hit a bottle just out of the freezer? - BBC Science Focus Magazine\n===============\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n(purple://app/menu/open)\n!\nWhy does water freeze instantly when you hit a bottle just out of the freezer? \u00a9 Getty Images\n\u00a9\u00a0Getty Images\nWhy does water freeze instantly when you hit a bottle just out of the freezer?\n==============================================================================\nThere is a super cool answer to this one...\n* * *\n**Asked by: Marc McDonald, Omagh**\nIt is because the liquid in the bottle is supercooled - the temperature of the liquid is below its normal freezing point, but the liquid has still not turned into a solid. That's because it needs something to kick-start the freezing process and encourage a small number of the liquid molecules to get together in a regular arrangement, as they do in a crystal, instead of moving around independently as they do in the liquid.\nThe process is called nucleation, because it encourages the molecules in the liquid to form a crystal-like nucleus onto which others can then latch. The kick-start can be given by a piece of dust, a rough spot on the surface of a container, or the shock wave generated when you hit a bottle just out of the freezer. Shock waves from an in-built metallic 'clicker' are used in a new 'wine warmer' which contains a supercooled liquid that releases heat as it solidifies.\n**Read more:**\n*   \n*   \n_**Subscribe** to  for fascinating new Q&As every month and follow  on Twitter for your daily dose of fun science facts._\nShare this article\n------------------\n!\n*    Facebook]\n*    Twitter]\n*    Instagram]\n*    Pinterest]\n*    Youtube]\n*    RSS]\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nThis website is owned and published by Our Media Ltd. www.ourmedia.co.uk\n\u00a9 Our Media 2024\n!",
+                    "content_tokens": 416
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "This website is a science magazine that covers a variety of topics with a focus on clarity and accuracy. It is known for providing well-researched articles written by experts. It\u2019s likely to contain accurate information regarding scientific phenomena, making it a strong resource for evaluating claims like the one presented."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence provides a scientific explanation of supercooling and how it relates to freezing. It directly contributes to understanding the mechanisms that cause water to rapidly freeze but also highlights that it does not lead to any dangerous transformation, making it highly relevant to debunking the claim."
+                }
+            }
+        }
+    ]
+}

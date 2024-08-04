@@ -1,0 +1,866 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Anne Hathaway TikTok video authenticity news",
+                "totalResults": "1520000",
+                "searchTerms": "Anne Hathaway TikTok video authenticity news",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Anne Hathaway TikTok video authenticity news",
+                "totalResults": "1520000",
+                "searchTerms": "Anne Hathaway TikTok video authenticity news",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.342701,
+        "formattedSearchTime": "0.34",
+        "totalResults": "1520000",
+        "formattedTotalResults": "1,520,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway (@annehathaway) \u2022 Instagram photos and videos",
+                "htmlTitle": "<b>Anne Hathaway</b> (@<b>annehathaway</b>) \u2022 Instagram photos and <b>videos</b>",
+                "link": "https://www.instagram.com/annehathaway/",
+                "displayLink": "www.instagram.com",
+                "snippet": "35M Followers, 109 Following, 807 Posts - Anne Hathaway (@annehathaway) on Instagram: \"#SheCameToMe - NOW STREAMING #TheIdeaOfYou - NOW STREAMING\u00a0...",
+                "htmlSnippet": "35M Followers, 109 Following, 807 Posts - <b>Anne Hathaway</b> (@<b>annehathaway</b>) on Instagram: &quot;#SheCameToMe - NOW STREAMING #TheIdeaOfYou - NOW STREAMING&nbsp;...",
+                "formattedUrl": "https://www.instagram.com/annehathaway/",
+                "htmlFormattedUrl": "https://www.instagram.com/<b>annehathaway</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUnXc0zvWIoFH-9k9mzciAts4JhIb_-ORbPZBwmbPdRrRDqSjyS6V&s",
+                            "width": "100",
+                            "height": "100"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/424443545_955807032639407_1235896093598377077_n.jpg?stp=dst-jpg_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=fcb8ef&_nc_ohc=Dx0K0eMTtvsQ7kNvgFc4hKX&_nc_ht=scontent-lax3-2.cdninstagram.com&oh=00_AYAUa0Vc45_cIugE6dqSj1RR2fCZNfb3Ar0DBXF2lSVExA&oe=66B37165",
+                            "theme-color": "#ffffff",
+                            "og:type": "profile",
+                            "al:ios:app_name": "Instagram",
+                            "og:title": "Anne Hathaway (@annehathaway) \u2022 Instagram photos and videos",
+                            "al:android:package": "com.instagram.android",
+                            "bingbot": "noarchive",
+                            "al:ios:url": "instagram://user?username=annehathaway",
+                            "color-scheme": "light",
+                            "og:description": "35M Followers, 109 Following, 807 Posts - See Instagram photos and videos from Anne Hathaway (@annehathaway)",
+                            "al:ios:app_store_id": "389801252",
+                            "al:android:url": "https://instagram.com/_u/annehathaway/",
+                            "apple-mobile-web-app-status-bar-style": "default",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.instagram.com/annehathaway/",
+                            "al:android:app_name": "Instagram"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/424443545_955807032639407_1235896093598377077_n.jpg?stp=dst-jpg_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=fcb8ef&_nc_ohc=Dx0K0eMTtvsQ7kNvgFc4hKX&_nc_ht=scontent-lax3-2.cdninstagram.com&oh=00_AYAUa0Vc45_cIugE6dqSj1RR2fCZNfb3Ar0DBXF2lSVExA&oe=66B37165"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Login \u2022 Instagram\n===============\n!(blob:https://www.instagram.com/a2c4acc86ce977bdb7718eba199dd413)!(blob:https://www.instagram.com/a7d152ce433b443153f919ae47dd7fc4)\nPhone number, username, or email\nPassword\nLog in\nor\nLog in with Facebook\nDon't have an account? \nGet the app.\n]](ms-windows-store://pdp/?productid=9nblggh5l9xt&referrer=appbadge&source=www.instagram.com&mode=mini&pos=770%2C570%2C780%2C580&next=https%3A%2F%2Fwww.instagram.com%2Fannehathaway%2F)\nEnglish\nAfrikaans\u0627\u0644\u0639\u0631\u0628\u064a\u0629\u010ce\u0161tinaDanskDeutsch\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acEnglishEnglish (UK)Espa\u00f1ol (Espa\u00f1a)Espa\u00f1ol\u0641\u0627\u0631\u0633\u06ccSuomiFran\u00e7ais\u05e2\u05d1\u05e8\u05d9\u05eaBahasa IndonesiaItaliano\u65e5\u672c\u8a9e\ud55c\uad6d\uc5b4Bahasa MelayuNorskNederlandsPolskiPortugu\u00eas (Brasil)Portugu\u00eas (Portugal)\u0420\u0443\u0441\u0441\u043a\u0438\u0439Svenska\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22FilipinoT\u00fcrk\u00e7e\u4e2d\u6587(\u7b80\u4f53)\u4e2d\u6587(\u53f0\u7063)\u09ac\u09be\u0982\u09b2\u09be\u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0\u0939\u093f\u0928\u094d\u0926\u0940HrvatskiMagyar\u0c95\u0ca8\u0ccd\u0ca8\u0ca1\u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02\u092e\u0930\u093e\u0920\u0940\u0928\u0947\u092a\u093e\u0932\u0940\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\u0dc3\u0dd2\u0d82\u0dc4\u0dbdSloven\u010dina\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\u0627\u0631\u062f\u0648Ti\u1ebfng Vi\u1ec7t\u4e2d\u6587(\u9999\u6e2f)\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438Fran\u00e7ais (Canada)Rom\u00e2n\u0103\u0421\u0440\u043f\u0441\u043a\u0438\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\n\u00a9 2024 Instagram from Meta",
+                    "content_tokens": 463
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Instagram is primarily a social media platform focused on sharing photos and videos. While it can host credible news accounts, the platform itself does not verify content, leading to potential misinformation and low reliability. The nature of user-generated content makes it susceptible to fake news, and there's no systematic method of checking for truthfulness."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence is an Instagram profile of Anne Hathaway which does not provide any relevant information about the TikTok video or its authenticity. It does not address the claim or provide any corroboration."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Shares Genius Lip-Plumping Hack on TikTok: Watch!",
+                "htmlTitle": "<b>Anne Hathaway</b> Shares Genius Lip-Plumping Hack on <b>TikTok</b>: Watch!",
+                "link": "https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tiktok-video-watch-8664697",
+                "displayLink": "people.com",
+                "snippet": "Jun 17, 2024 ... Anne Hathaway revealed her must-try lip-plumping beauty in a behind-the-scenes TikTok video of her new Shiseido campaign shoot.",
+                "htmlSnippet": "Jun 17, 2024 <b>...</b> <b>Anne Hathaway</b> revealed her must-try lip-plumping beauty in a behind-the-scenes <b>TikTok video</b> of her new Shiseido campaign shoot.",
+                "formattedUrl": "https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tikt...",
+                "htmlFormattedUrl": "https://people.com/<b>anne</b>-<b>hathaway</b>-shares-genius-lip-plumping-hack-in-<b>tikt</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnS_gwxTNTHyYiqODoV8TA10eZKfihxSrYhQAGJFGEAQHX4YM8RdXA9ck&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://people.com/thmb/z22xL7_8D26TAd2XfhrTNsErqJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-061724-2-50e561402c2f4a1a95f24d004d541df7.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/2.78.0/icons/favicons/mstile-70x70.png",
+                            "og:site_name": "Peoplemag",
+                            "msapplication-wide310x150logo": "/static/2.78.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/2.78.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "Anne Hathaway revealed her must-try lip-plumping beauty in a behind-the-scenes TikTok video of her new Shiseido campaign shoot.",
+                            "twitter:image": "https://people.com/thmb/z22xL7_8D26TAd2XfhrTNsErqJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-061724-2-50e561402c2f4a1a95f24d004d541df7.jpg",
+                            "twitter:site": "@people",
+                            "msapplication-square310x310logo": "/static/2.78.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Lifestyle",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "People",
+                            "og:type": "article",
+                            "twitter:title": "Anne Hathaway Becomes a Beauty Influencer in 'LipTok' Video Revealing Her Genius Lip-Plumping Hack: WATCH!",
+                            "emailvertical": "PEOPLE",
+                            "og:title": "Anne Hathaway Becomes a Beauty Influencer in 'LipTok' Video Revealing Her Genius Lip-Plumping Hack: WATCH!",
+                            "msapplication-square150x150logo": "/static/2.78.0/icons/favicons/mstile-150x150.png",
+                            "fb:pages": "95926963131",
+                            "article:author": "https://www.facebook.com/peoplemag",
+                            "vf:url": "https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tiktok-video-watch-8664697",
+                            "parsely-tags": "Person,Food Trends,Shopping,Beauty & Style,Beauty Products,Anne Hathaway,The Scoop",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Anne Hathaway revealed her must-try lip-plumping beauty in a behind-the-scenes TikTok video of her new Shiseido campaign shoot.",
+                            "og:url": "https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tiktok-video-watch-8664697",
+                            "sailthru.author": "Michelle Lee",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://people.com/thmb/z22xL7_8D26TAd2XfhrTNsErqJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-061724-2-50e561402c2f4a1a95f24d004d541df7.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tiktok-video-watch-8664697: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://people.com/anne-hathaway-shares-genius-lip-plumping-hack-in-tiktok-video-watch-8664697",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "People Magazine is well-known for celebrity news and entertainment. It generally maintains a high standard of reporting with fact-checking protocols in place. However, it may prioritize sensationalism at times, especially in celebrity contexts, which may reduce its reliability slightly. It\u2019s reputable but should be cross-verified against more serious news outlets for heavier claims."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-17"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This article discusses a TikTok video of Anne Hathaway but focuses on a different topic (lip-plumping hack) and does not address the joke claim or the authenticity issue. As such, it is minimally relevant."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Is the Anne Hathaway 6.9 joke real? | indy100",
+                "htmlTitle": "Is the <b>Anne Hathaway</b> 6.9 joke <b>real</b>? | indy100",
+                "link": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                "displayLink": "www.indy100.com",
+                "snippet": "Aug 8, 2023 ... A viral TikTok of Anne Hathaway making a 6.9 joke during an appearance on 'The Daily Show' with Jon Stewart is actually fake and uses AI\u00a0...",
+                "htmlSnippet": "Aug 8, 2023 <b>...</b> A viral <b>TikTok</b> of <b>Anne Hathaway</b> making a 6.9 joke during an appearance on &#39;The Daily Show&#39; with Jon Stewart is actually <b>fake</b> and uses AI&nbsp;...",
+                "formattedUrl": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                "htmlFormattedUrl": "https://www.indy100.com/<b>tiktok</b>/<b>anne</b>-<b>hathaway</b>-69-joke-fake",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgijPLaruSoGSyEHxYsb5t55ZHsDcPqQro1628Cx5-gWyajPngkZBKOgMY&s",
+                            "width": "318",
+                            "height": "158"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "theme-color": "#647187",
+                            "article:published_time": "2023-08-08T08:58:55+00:00",
+                            "og:site_name": "indy100",
+                            "article:image_count": "0",
+                            "og:description": "There is a clip on TikTok making the rounds of Anne Hathaway sharing a 6.9 joke - however, the video is fake.Due to artificial intelligence, the video appears realistic as it eerily portrays the voice of the Princess Diaries actor.In the clip, Hathaway is a guest on The Daily Show and is chatting to...",
+                            "twitter:image": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4",
+                            "twitter:site": "@",
+                            "article:modified_time": "2023-08-08T08:58:55+00:00",
+                            "article:author_name": "Sinead Butler",
+                            "og:type": "article",
+                            "article:section": "TikTok",
+                            "article:word_count": "394",
+                            "article:video_count": "1",
+                            "og:title": "Is the Anne Hathaway 6.9 joke real?",
+                            "og:image:height": "600",
+                            "fb:pages": "500624210050210",
+                            "article:author": "https://www.facebook.com/500624210050210",
+                            "article:tag": "the daily show",
+                            "referrer": "always",
+                            "fb:app_id": "774315275936299",
+                            "article:content_type": "story",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1.0",
+                            "og:url": "https://www.indy100.com/tiktok/anne-hathaway-69-joke-fake",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.indy100.com/media-library/resurfaced-clip-shows-anne-hathaway-refusing-to-talk-about-conversation-with-anna.jpg?id=34793680&width=1200&height=600&coordinates=0%2C0%2C0%2C4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "*   \n*   ",
+                    "content_tokens": 4
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Indy100 is a news website that offers a mix of serious and lighthearted content, sourced from The Independent, a more reputable publication. While it can highlight interesting stories and viral trends, its tendency toward clickbait titles sometimes affects credibility. Nevertheless, it often times cites original articles that can be independently verified, which adds to its reliability."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-08-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This source directly addresses the claim and clearly states that the viral TikTok featuring Anne Hathaway telling the 6.9 joke is fake and generated using AI. It also discusses the context of the claim, making it highly relevant to determining the falsity of the claim."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Joins TikTok, Highlighting Recent Fashion and Film ...",
+                "htmlTitle": "<b>Anne Hathaway</b> Joins <b>TikTok</b>, Highlighting Recent Fashion and Film ...",
+                "link": "https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-moments-8642843",
+                "displayLink": "people.com",
+                "snippet": "May 3, 2024 ... Anne Hathaway joined TikTok and with her debut video, she shared four years worth of memories on red carpets to movie and TV premieres.",
+                "htmlSnippet": "May 3, 2024 <b>...</b> <b>Anne Hathaway</b> joined <b>TikTok</b> and with her debut <b>video</b>, she shared four years worth of memories on red carpets to <b>movie</b> and TV premieres.",
+                "formattedUrl": "https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-m...",
+                "htmlFormattedUrl": "https://people.com/<b>anne</b>-<b>hathaway</b>-joins-<b>tiktok</b>-highlighting-fashion-film-m...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3U-_yDbF8yNH--uPXEPjbvO8M7apItlbLWFHqX0U_KPYE-3RHUXBXlofk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://people.com/thmb/brt60usONe1OvuIanR0XAzEE0oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-050224-586dffd4a7ee418b940731d91e721a79.jpg",
+                            "twitter:card": "summary_large_image",
+                            "msapplication-square70x70logo": "/static/2.78.0/icons/favicons/mstile-70x70.png",
+                            "sailthru.tags": "premieres",
+                            "og:site_name": "Peoplemag",
+                            "msapplication-wide310x150logo": "/static/2.78.0/icons/favicons/mstile-310x150.png",
+                            "msapplication-tileimage": "/static/2.78.0/icons/favicons/mstile-144x144.png",
+                            "og:description": "Anne Hathaway joined TikTok and with her debut video, she shared four years worth of memories on red carpets to movie and TV premieres.",
+                            "twitter:image": "https://people.com/thmb/brt60usONe1OvuIanR0XAzEE0oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-050224-586dffd4a7ee418b940731d91e721a79.jpg",
+                            "twitter:site": "@people",
+                            "msapplication-square310x310logo": "/static/2.78.0/icons/favicons/mstile-310x310.png",
+                            "emailcontenttype": "STRUCTUREDCONTENT",
+                            "parsely-section": "Entertainment",
+                            "msapplication-tilecolor": "#F4F4F4",
+                            "article:section": "People",
+                            "og:type": "article",
+                            "twitter:title": "Anne Hathaway Joins TikTok, Shares Fashion and Film Moments from the Last 4 Years",
+                            "emailvertical": "PEOPLE",
+                            "og:title": "Anne Hathaway Joins TikTok, Shares Fashion and Film Moments from the Last 4 Years",
+                            "msapplication-square150x150logo": "/static/2.78.0/icons/favicons/mstile-150x150.png",
+                            "fb:pages": "95926963131",
+                            "article:author": "https://www.facebook.com/peoplemag",
+                            "vf:url": "https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-moments-8642843",
+                            "parsely-tags": "Awards Shows and Events,Person,Food Trends,People.com,Premieres,Celebrity,Anne Hathaway,The Scoop",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Anne Hathaway joined TikTok and with her debut video, she shared four years worth of memories on red carpets to movie and TV premieres.",
+                            "og:url": "https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-moments-8642843",
+                            "sailthru.author": "Charna Flam",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://people.com/thmb/brt60usONe1OvuIanR0XAzEE0oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/anne-hathaway-050224-586dffd4a7ee418b940731d91e721a79.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-moments-8642843: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://people.com/anne-hathaway-joins-tiktok-highlighting-fashion-film-moments-8642843",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "People Magazine is well-known for celebrity news and entertainment. It generally maintains a high standard of reporting with fact-checking protocols in place. However, it may prioritize sensationalism at times, especially in celebrity contexts, which may reduce its reliability slightly. It\u2019s reputable but should be cross-verified against more serious news outlets for heavier claims."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-05-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article focuses on Hathaway joining TikTok and highlights her previous work. It does not mention the joke claim or provide any pertinent information regarding the authenticity of the viral video."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "TikTok world vs the real world",
+                "htmlTitle": "<b>TikTok</b> world vs the <b>real</b> world",
+                "link": "https://www.garbageday.email/p/tiktok-world-vs-the-real-world",
+                "displayLink": "www.garbageday.email",
+                "snippet": "A TikToker Was Making Violent Anime Cosplay Videos While Awaiting Trial For Manslaughter. A TikTok cosplay account went private this week amid backlash over the\u00a0...",
+                "htmlSnippet": "A TikToker Was Making Violent Anime Cosplay <b>Videos</b> While Awaiting Trial For Manslaughter. A <b>TikTok</b> cosplay account went private this week amid backlash over the&nbsp;...",
+                "formattedUrl": "https://www.garbageday.email/p/tiktok-world-vs-the-real-world",
+                "htmlFormattedUrl": "https://www.garbageday.email/p/<b>tiktok</b>-world-vs-the-real-world",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxMGU2oZuTlKLSF0hEe80GXIXjLgBCFRY_nsAM1hv7s6OK0GJb5qAJMjc&s",
+                            "width": "231",
+                            "height": "218"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3664f55d-ac75-450a-a5f3-114ef481848a/18f9dec3-41eb-444b-97e5-25238b8eca6e_635x746.jpg?t=1705691799",
+                            "theme-color": "#000000",
+                            "og:type": "website",
+                            "og:image:width": "1200",
+                            "og:image:alt": "Read to the end for a truly unreal Twitter interaction",
+                            "twitter:title": "TikTok world vs the real world",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Garbage Day",
+                            "twitter:url": "https://www.garbageday.email/p/tiktok-world-vs-the-real-world",
+                            "author": "Garbage Day",
+                            "og:title": "TikTok world vs the real world",
+                            "og:image:height": "630",
+                            "og:description": "Read to the end for a truly unreal Twitter interaction",
+                            "twitter:image": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3664f55d-ac75-450a-a5f3-114ef481848a/18f9dec3-41eb-444b-97e5-25238b8eca6e_635x746.jpg?t=1705691799",
+                            "fb:app_id": "1932054120322754",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "Read to the end for a truly unreal Twitter interaction",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.garbageday.email/p/tiktok-world-vs-the-real-world"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3664f55d-ac75-450a-a5f3-114ef481848a/18f9dec3-41eb-444b-97e5-25238b8eca6e_635x746.jpg?t=1705691799"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Tomorrow\u2019s Extra Garbage Day is with Mike Benner, who is currently running the . We had a great conversation about the evolution of Twitter cringe. If you want to check it out, subscribe to Garbage Day! It\u2019s $5 a month or $45 a year, and you\u2019ll get lots of fun extra stuff. Hit the green button if you\u2019re interested.\nA TikToker Was Making Violent Anime Cosplay Videos While Awaiting Trial For Manslaughter\n----------------------------------------------------------------------------------------\nA TikTok cosplay account went private this week amid backlash over the fact that she was publishing violent videos \u2014 or just any videos at all, really \u2014 while being allegedly embroiled in a manslaughter case. The TikToker, who goes by @yandere.freak, real name Mary Anne Oliver-Snow, wasn\u2019t just a random user either. Oliver-Snow currently has 1.6 million followers on the platform.\n\u201cYandere\u201d is a trope from anime and manga. It\u2019s the combination of two Japanese words, \u201cyanderu,\u201d which means to be sick, and \u201cderedere,\u201d or lovestruck. Yandere characters are typically depicted in Japanese media as female characters that are so romantically obsessed with a male character that they become homicidal. Oliver-Snow\u2019s TikTok account featured her dressed up as a variety of anime characters, but most commonly a character named Yuno from the anime _Future Diary_ (pictured above). Yuno is kind of like the archetypical yandere character.\nStreaming media news outlet _Dexerto_\u00a0 that Oliver-Snow was arrested last January after allegedly shooting and killing a friend by accident. Also, a redacted (and unverified) copy of her police report has is circulating on social media via a Google Drive upload and it lines up with what _Dexerto_ has reported...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Garbage Day is a newsletter that curates news and memes from around the internet. While it can provide insightful commentary and highlight significant fake news stories, it operates in a more informal manner and may lack the rigorous journalistic standards found in more prominent news outlets. Therefore, it can be useful but should be approached with caution."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article mentions TikTok but does not relate to the Anne Hathaway video in question or address the authenticity of the joke. It is largely irrelevant to the claim."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway's Tribute to Princess Kate Praised by Fans ...",
+                "htmlTitle": "<b>Anne Hathaway&#39;s</b> Tribute to Princess Kate Praised by Fans ...",
+                "link": "https://www.newsweek.com/anne-hathaway-tribute-princess-kate-middleton-viral-video-tiktok-1890335",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Apr 15, 2024 ... Captioned \"Anne Hathaway saying her favorite princess is Kate Middleton might be my new favorite thing,\" the viral TikTok video has received\u00a0...",
+                "htmlSnippet": "Apr 15, 2024 <b>...</b> Captioned &quot;<b>Anne Hathaway</b> saying her favorite princess is Kate Middleton might be my new favorite thing,&quot; the viral <b>TikTok video</b> has received&nbsp;...",
+                "formattedUrl": "https://www.newsweek.com/anne-hathaway-tribute-princess-kate-middleton...",
+                "htmlFormattedUrl": "https://www.<b>news</b>week.com/<b>anne</b>-<b>hathaway</b>-tribute-princess-kate-middleton...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQntkddtatzYCPDtD-Iy6vvL3DSA7SvixFXx7EaLMu1H0cDQrxTIZjfFF_f&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2378216/princess-kate-anne-hathaway.png",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "3000",
+                            "article:published_time": "2024-04-15T11:10:05-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/anne-hathaway-tribute-princess-kate-middleton-viral-video-tiktok-1890335",
+                            "og:description": "\"My favorite princess is Kate Middleton,\" Hathaway said in a 2014 interview that has since gone viral.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2378216/princess-kate-anne-hathaway.webp?w=1600&h=900&q=88&f=0b5b8db033d3aedeeb42d3f1f28b316d",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2024-04-15T11:11:06-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Princess Kate and Anne Hathaway",
+                            "article:section": "Entertainment",
+                            "twitter:title": "Anne Hathaway's tribute to Princess Kate praised by fans",
+                            "og:title": "Anne Hathaway's tribute to Princess Kate praised by fans",
+                            "og:image:height": "2000",
+                            "fb:pages": "18343191100",
+                            "article:tag": "Royal Family",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "\"My favorite princess is Kate Middleton,\" Hathaway said in a 2014 interview that has since gone viral.",
+                            "og:url": "https://www.newsweek.com/anne-hathaway-tribute-princess-kate-middleton-viral-video-tiktok-1890335"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2378216/princess-kate-anne-hathaway.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...away said Kate was her \"favorite\" princess. Stephen Pond/Getty Images/Saturday Night Live/YouTube\n! Newsletter\nFor The Culture\nHollywood Stars and Stories\nCulture expert H. Alan Scott gives his bi-weekly rundown of what's hot and who's trending.\n        I want to receive special offers and promotions from Newsweek\nBy clicking on SIGN ME UP, you agree to Newsweek's  & . You may unsubscribe at any time.\nUploaded to  by user, milfssb, on April 14,  of Hathaway praising Kate has been edited together with clips from the princess' public engagement, receiving over 250,000 views in less than 24 hours.\nHathaway's comment was taken from a 2014 interview with _Good Morning America_, in which she was asked who her favorite princess was, considering her roles in the _Princess Diaries_.\nAfter taking a moment to consider her answer, the star responded: \"Right now, I think my favorite princess is ...I'm gonna go with Kate Middleton. I think she's lovely and she makes me very happy and that royal wedding just could not be beat.\"\n! **Exclusively Available to Subscribers** \n>  anne hathaway saying her favorite princess is kate middleton might be my new favorite thing         \nRead more\n*   \n*   \n*   \nThis was not the first time Hathaway discussed Kate in an interview. Following her _Saturday Night Live_ parody of the princess\u2014dressed in a replica of her famous blue engagement dress, copy of 's engagement ring and the royal's famous blown-out hairstyle\u2014the star told a British newspaper she'd happily consider playing Kate in a movie.\n\"I haven't really thought about it before but yes, why not,\" she told _The Sun_ on the prospect of playing the real life royal in a biopic. \"She's great. It's such a fairytale.\"\nCaptioned \"Anne Hathaway saying her favorite princess is Kate Middleton might be my new favorite thing,\" the viral TikTok video has received over 45,000 likes on the platform, so far, and over 190 comments, many of which have praised both Kate and the Hollywood star.\n\"THEY BOTH ARE SO BEAUTIFUL, I CAN'T,\" wrote one user.\n\"Anne and Kate, the duo I never knew I needed,\" posted another, with a further comment adding: \"And Anne Hathaway did a snl \\ playing Kate.\"\n_James Crawford-Smith is_ Newsweek_'s royal reporter, based in London. You can find him on X (formerly ) at  and read...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Newsweek is a recognized publication that covers a wide range of topics. With a long history of journalism, it features fact-checked stories, credible sources, and a balance of viewpoints. It is generally reliable and effective in detecting incorrect information, making it a strong resource for discerning fact from fiction."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-04-15"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to evidence 3, this article does not discuss the TikTok video that pertains to the 6.9 joke. It is another irrelevant source."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway makes her fashion-filled TikTok debut: 'The queen ...",
+                "htmlTitle": "<b>Anne Hathaway</b> makes her fashion-filled <b>TikTok</b> debut: &#39;The queen ...",
+                "link": "https://pagesix.com/2024/05/03/style/anne-hathaway-makes-her-fashion-filled-tiktok-debut-the-queen-is-here/",
+                "displayLink": "pagesix.com",
+                "snippet": "May 3, 2024 ... Anne Hathaway joined TikTok, posting a video montage of her accomplishments since 2020, including appearing in movies like \"The Witches\" and\u00a0...",
+                "htmlSnippet": "May 3, 2024 <b>...</b> <b>Anne Hathaway</b> joined <b>TikTok</b>, posting a <b>video</b> montage of her accomplishments since 2020, including appearing in movies like &quot;The Witches&quot; and&nbsp;...",
+                "formattedUrl": "https://pagesix.com/.../anne-hathaway-makes-her-fashion-filled-tiktok-debu...",
+                "htmlFormattedUrl": "https://pagesix.com/.../<b>anne</b>-<b>hathaway</b>-makes-her-fashion-filled-<b>tiktok</b>-debu...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAFo3SHGp5rsYK7cu27NhxPYWLowkBi6u8I9iUTeeXuK9OnB736WCatuI&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "og:image": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81149373.jpg?quality=75&strip=all&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2024-05-03T18:14:12+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Page Six",
+                            "bingbot": "noarchive",
+                            "parsely-metadata": "{\"post_id\":\"pagesix-7701801\"}",
+                            "og:description": "The \u201cDevil Wears Prada\u201d alum took a look back at all of her high-fashion wins from the past three years in her first-ever post on the video app.",
+                            "twitter:creator": "@pagesix",
+                            "twitter:image": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81149373.jpg?quality=75&strip=all&w=1024",
+                            "og:image:secure_url": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81149373.jpg?quality=75&strip=all&w=1024",
+                            "article:publisher": "https://www.facebook.com/pagesix",
+                            "twitter:text:title": "Anne Hathaway makes her fashion-filled TikTok debut: \u2018The queen is...",
+                            "twitter:site": "@pagesix",
+                            "article:modified_time": "2024-05-03T18:14:27+00:00",
+                            "sailthru.title": "Anne Hathaway makes her fashion-filled TikTok debut: \u2018The queen is here!\u2019",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2024-05-03 14:14:12",
+                            "nypost-section": "Style",
+                            "og:type": "article",
+                            "twitter:title": "Anne Hathaway makes her fashion-filled TikTok debut: \u2018The queen is...",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "Anne Hathaway makes her fashion-filled TikTok debut: \u2018The queen is here!\u2019",
+                            "og:image:height": "682",
+                            "twitter:image:src": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81149373.jpg?quality=75&strip=all&w=1024",
+                            "sailthru.description": "The \"Devil Wears Prada\" alum took a look back at all of her high-fashion wins from the past three years in her first-ever post on the video app.",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The \"Devil Wears Prada\" alum took a look back at all of her high-fashion wins from the past three years in her first-ever post on the video app.",
+                            "og:locale": "en_US",
+                            "og:url": "https://pagesix.com/2024/05/03/style/anne-hathaway-makes-her-fashion-filled-tiktok-debut-the-queen-is-here/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81149373.jpg?quality=75&strip=all&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Anne Hathaway is on TikTok now? \nThe \u201cPrincess Diaries\u201d actress, 41, made her debut on the popular social media platform on Thursday, posting a fashion-filled montage of her life over the past few years.\n\u201c\u23f0\u23f0\u23f0\u23f0\u00a0\ud83d\ude33\ud83e\udee2\ud83e\udee1\ud83e\udd17,\u201d she captioned the , which began with text that said \u201cSince 2020 I\u2019ve\u2026\u201d before adding that it was actually just a \u201cpartial list.\u201d\n]\nAnne Hathaway posted her first TikTok video on Thursday, announcing that she had joined the popular app. Anne Hathaway /TikTok\n]\nShe used the clip to pay tribute to her accomplishments over the past few years, like appearing in the movie \u201cThe Witches. Anne Hathaway /TikTok\n]\nThe actress, 41, also highlighted her many memorable outfits. Anne Hathaway /TikTok\n]\nShe went down the list, reminding fans of her impeccable outfits, including this rainbow Christopher John Rogers set. GC Images\nWhile the clip paid tribute to Hathaway\u2019s many career accomplishments \u2014 including starring in the movie \u201cThe Witches,\u201d AppleTV+\u2019s \u201cWeCrashed,\u201d and her latest project, Prime\u2019s \u201cThe Idea of You\u201d \u2014 she made sure to remind fans of some of her memorable style moments, too.\nNot only did Hathaway show off the colorful  that she wore while doing press for \u201cWeCrashed,\u201d she also included highlights from the , where she showed up in a  and reunited with her costar from the mini-series, Jared Leto, \n### Shop 'til you drop with Post Wanted\nSave time and money with the latest deals, discounts, trends, reviews and more.\n### Thanks for signing up!\nThere were also shots of Hathaway\u2019s vibrant pink look from , her , a golden gown she wore while  and a...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Page Six is primarily a gossip column associated with The New York Post focusing on celebrity news. While it sometimes provides scoops or critical insights, its reputation for sensationalism and sometimes unchecked stories can compromise its reliability. It is entertaining but should be cross-referenced for important claims."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-05-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This article discusses Hathaway's TikTok but does not provide any useful information about the joke or the authenticity of the specific video. Thus, it is not relevant."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway Joins TikTok With a Fun Recap of Her Best Looks ...",
+                "htmlTitle": "<b>Anne Hathaway</b> Joins <b>TikTok</b> With a Fun Recap of Her Best Looks ...",
+                "link": "https://www.etonline.com/anne-hathaway-joins-tiktok-with-a-fun-recap-of-her-best-looks-and-viral-moments-over-the-last-few",
+                "displayLink": "www.etonline.com",
+                "snippet": "May 3, 2024 ... 'The Idea of You' star looks back at her best looks and funniest viral moments in her first ever TikTok post. \u00b7 Updates on Celebrity News, TV,\u00a0...",
+                "htmlSnippet": "May 3, 2024 <b>...</b> &#39;The Idea of You&#39; star looks back at her best looks and funniest viral moments in her first ever <b>TikTok</b> post. &middot; Updates on Celebrity <b>News</b>, TV,&nbsp;...",
+                "formattedUrl": "https://www.etonline.com/anne-hathaway-joins-tiktok-with-a-fun-recap-of-...",
+                "htmlFormattedUrl": "https://www.etonline.com/<b>anne</b>-<b>hathaway</b>-joins-<b>tiktok</b>-with-a-fun-recap-of-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteQpdMq8KhdqiHFNjfTu5ayQ1WFKcMtosTKtgxDcJyVAUeit_KrHdwMTq&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-04/GettyImages-2150754726.jpg?h=3b737ace",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#fff",
+                            "og:site_name": "Entertainment Tonight",
+                            "twitter:url": "https://www.etonline.com/anne-hathaway-joins-tiktok-with-a-fun-recap-of-her-best-looks-and-viral-moments-over-the-last-few",
+                            "twitter:image:height": "720",
+                            "title": "Anne Hathaway Joins TikTok With a Fun Recap of Her Best Looks and Viral Moments Over the Last Few Years  | Entertainment Tonight",
+                            "msapplication-tileimage": "/img/favicons/ms-icon-144x144.png",
+                            "og:description": "'The Idea of You' star looks back at her best looks and funniest viral moments in her first ever TikTok post.",
+                            "twitter:creator": "@etnow",
+                            "twitter:image": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-04/GettyImages-2150754726.jpg?h=3b737ace",
+                            "next-head-count": "38",
+                            "twitter:site": "@etnow",
+                            "twitter:image:width": "1280",
+                            "fb:admins": "3111204",
+                            "msapplication-tilecolor": "#fd005b",
+                            "og:image:alt": "Anne Hathaway at 'The Idea of You' premiere",
+                            "og:type": "Article",
+                            "twitter:title": "Anne Hathaway Joins TikTok With a Fun Recap of Her Last Few Years",
+                            "twitter:site:id": "23603092",
+                            "og:title": "Anne Hathaway Joins TikTok With a Fun Recap of Her Last Few Years",
+                            "og:image:height": "720",
+                            "fb:pages": "106843036179",
+                            "fb:app_id": "145337045558621",
+                            "viewport": "width=device-width",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "'The Idea of You' star looks back at her best looks and funniest viral moments in her first ever TikTok post.",
+                            "og:url": "https://www.etonline.com/anne-hathaway-joins-tiktok-with-a-fun-recap-of-her-best-looks-and-viral-moments-over-the-last-few",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-04/GettyImages-2150754726.jpg?h=3b737ace"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... Chicago\n### ET Vault Unlocked: Glen Powell | Watch His Rise to Stardom\n### Nicole Scherzinger Bursts Into Pussycat Dolls' 'Hush Hush' During Impromptu Performance\n### How Elliot Page Feels About His Transition Journey Being Part of \u2018The Umbrella Academy\u2019 (Exclusive)\n### DJ Khaled Shows Off Freezer With More Than 40 Ice Cream Options\n### Matt Damon on Hopes to Reunite With George Clooney and \u2018Oceans' Cast (Exclusive)\n### Prince Harry \u2018No Longer Communicating\u2019 With King Charles After Release of His Memoir (Source)\n### Britney Spears\u2019 Memoir Getting Biopic Treatment: What We Know About the Movie\n### \u2018American Idol\u2019: How Carrie Underwood Plans to Juggle Judging Gig and Vegas Residency\n### Cardi B Confirms Pregnancy With Baby No. 3 After Filing to Divorce Offset\n### Jack Harlow \u2018Tried to Be a Sponge\u2019 Alongside Matt Damon and Casey Affleck on 'The Instigators' Set\n### 'Big Brother' Season 26: Tucker Interrogates Lisa Ahead of Second Live Eviction\n### Watch Paris Hilton Introduce 1-Year-Old Son Phoenix to 'The Simple Life'\n### 'RHOC's Katie Ginella Reacts to Heather Dubrow's 'Noella 1.5' Label as She Unpacks Season 18 Feud\n### Sharon Stone Explains How She Got a Massive Black Eye\n### Prince Harry Compares Parenting With Meghan Markle to Being 'First Responders\u2019\nBy \nPublished: 8:17 AM PDT, May 3, 2024\n'The Idea of You' star looks back at her best looks and funniest viral moments in her first ever TikTok post.\n-------------------------------------------------------------------------------------------------------------\nGird your loins, everyone,  is finally on TikTok!\nThe 41-year-old actress joined the social media platform in epic fashion this week, with a video recapping some of her biggest fashion statements, funniest viral moments and favorite acting roles since 2020.\nSet to \"Sun Bleached Flies\" by Ethel Cain (proving she's already a bona fide TikTok girlie), Hathaway had no trouble poking fun at herself, highlighting those , her tense encounters with paparazzi and her propensity to .\nOn the flip side, she also gave herself some flowers for some of her best looks:  at the 2023 Met Gala,  for a Valentino show in Rome, and her  look in Venice.\nAnne Hathaway at the 2023 Met Gala. - John Shearer/WireImage\nAs for some of her favorite roles over the last few years, the actress highlights \"channeling her Scorpio energy\" in _The Witches_, teaming up with  in _WeCrashed_, and finally, producing and premiering her new rom-com, .\nHathaway concludes the epic video with a funny candid clip where she \"realizes\" the one thing she didn't do over the last few years: \"I forgot to join TikTok!\"\nIn _The Idea of You_, Hathaway plays a 40-year-old divorced mother who falls in love with a 24-year-old pop star (played by _Red, White and Royal Blue's_ swoon...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Entertainment Tonight Online features coverage on celebrity news and entertainment. While it is generally reliable and fact-checked, as it is part of a reputable media entity, it sometimes promotes sensationalist narratives that may not be entirely accurate. Thus, it\u2019s a decent source for entertainment news but can benefit from corroboration."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-05-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This source also details Hathaway's TikTok debut and highlights her accomplishments but does not address the joke claim. Therefore, it does not contribute to verifying the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway reveals real reasons she gave up booze!",
+                "htmlTitle": "<b>Anne Hathaway</b> reveals <b>real</b> reasons she gave up booze!",
+                "link": "https://nz.news.yahoo.com/anne-hathaway-reveals-real-reasons-200600067.html",
+                "displayLink": "nz.news.yahoo.com",
+                "snippet": "Mar 24, 2024 ... \u201cShe's one of those people whose taste I trust completely, like Casey and Ben [Affleck],\u201d Damon told PEOPLE. For more People news, make sure to\u00a0...",
+                "htmlSnippet": "Mar 24, 2024 <b>...</b> \u201cShe&#39;s one of those people whose taste I trust completely, like Casey and Ben [Affleck],\u201d Damon told PEOPLE. For more People <b>news</b>, make sure to&nbsp;...",
+                "formattedUrl": "https://nz.news.yahoo.com/anne-hathaway-reveals-real-reasons-200600067...",
+                "htmlFormattedUrl": "https://nz.<b>news</b>.yahoo.com/<b>anne</b>-<b>hathaway</b>-reveals-real-reasons-200600067...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZQJzSt3_3Biw0mgzSIOePRPDRm5IfnVLKiGgSZoXV1yB7dtfKi8sS7l0&s",
+                            "width": "225",
+                            "height": "225"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=304158842,app-argument=yahoo://article/view?uuid=1218dae1-13b8-3e75-b897-31088d1ea46d&src=web",
+                            "og:image": "https://media.zenfs.com/en/bang_showbiz_nz_240/e495983f5783115cc9663c2705f6ef01",
+                            "og:image:width": "650",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Yahoo News",
+                            "al:android:package": "com.yahoo.mobile.client.android.yahoo",
+                            "al:ios:url": "yahoo://article/view?uuid=1218dae1-13b8-3e75-b897-31088d1ea46d&src=web",
+                            "og:description": "Anne Hathaway gave up drinking as she knew \u201cdeep down\u201d it wasn\u2019t doing her any good. \u2018The Devil Wears Prada\u2019 actress, 41, has previously said her decision to ditch booze came when she became a mum-of-two and she wanted to be fully present for her kids. She has now told Variety about her reasons for going teetotal: \u201cI knew deep down it wasn\u2019t for me. \u201cIt just felt so extreme to have to say, \u2018But none?\u2019 But none. \u201cIf you\u2019re allergic to something or have an anaphylactic reaction to something, you d",
+                            "al:ios:app_store_id": "304158842",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://media.zenfs.com/en/bang_showbiz_nz_240/e495983f5783115cc9663c2705f6ef01",
+                            "oath:guce:consent-host": "guce.yahoo.com",
+                            "twitter:site": "@yahoonz",
+                            "news_keywords": "Anne Hathaway, The Devil Wears Prada, anaphylactic reaction, Adam Schulman",
+                            "twitter:title": "Anne Hathaway reveals real reasons she gave up booze!",
+                            "og:type": "article",
+                            "al:ios:app_name": "Yahoo",
+                            "og:title": "Anne Hathaway reveals real reasons she gave up booze!",
+                            "og:image:height": "650",
+                            "twitter:image:src": "https://media.zenfs.com/en/bang_showbiz_nz_240/e495983f5783115cc9663c2705f6ef01",
+                            "al:android:url": "yahoo://article/view?uuid=1218dae1-13b8-3e75-b897-31088d1ea46d&src=web",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Anne Hathaway gave up drinking as she knew \u201cdeep down\u201d it wasn\u2019t doing her any good. \u2018The Devil Wears Prada\u2019 actress, 41, has previously said her decision to ditch booze came when she became a mum-of-two and she wanted to be fully present for her kids. She has now told Variety about her reasons for going teetotal: \u201cI knew deep down it wasn\u2019t for me. \u201cIt just felt so extreme to have to say, \u2018But none?\u2019 But none. \u201cIf you\u2019re allergic to something or have an anaphylactic reaction to something, you d",
+                            "og:url": "https://nz.news.yahoo.com/anne-hathaway-reveals-real-reasons-200600067.html",
+                            "al:android:app_name": "Yahoo"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.zenfs.com/en/bang_showbiz_nz_240/e495983f5783115cc9663c2705f6ef01"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...25 March 2024 at 1:06 pm\u00b72-min read\nLink copied\n!\nAnne Hathaway gave up drinking as she knew \u201cdeep down\u201d it wasn\u2019t doing her any good.  \n\u2018The Devil Wears Prada\u2019 actress, 41, has previously said her decision to ditch booze came when she became a mum-of-two and she wanted to be fully present for her kids.  \nShe has now told Variety about her reasons for going teetotal: \u201cI knew deep down it wasn\u2019t for me.  \n\u201cIt just felt so extreme to have to say, \u2018But none?\u2019 But none.  \n\u201cIf you\u2019re allergic to something or have an anaphylactic reaction to something, you don\u2019t argue with it. So I stopped arguing with it.\u201d  \nShe added about how booze used to affect her mood: \u201cMy personal experience with it is that everything is better. For me, it was wallowing fuel. And I don\u2019t like to wallow.  \n\u201cThe thing that I have faith in is that everybody else is going to have one or two drinks, and by the time everybody gets to two drinks, you\u2019ll feel like you\u2019ve had two drinks \u2013 but without the hangover.\u201d  \nAnne\u2019s oldest son Johnathan turned eight on Sunday (24.03.24) and her youngest boy Jack is three.  \nThe actress had both boys with husband Adam Schulman, 42, and also told Variety how she had cut other unhealthy behaviour from her life including scrolling on social media.  \nShe said: \u201cI make a lot of my lifestyle choices in service of supporting mental health.  \n\u201cI stopped participating in things that I know to be draining or can cause spirals. I actually don\u2019t have a relationship with myself online.\u201d  \nTurning to how she had a horrendous panic attack in her 20s, Anne said she has now learned to be kinder to herself especially when she\u2019s stricken with stress.  \nShe added: \u201cI had a horrible anxiety attack and I was by myself and didn\u2019t know what was happening.  \n\u201cI certainly couldn\u2019t tell anybody, and it was compounded by thinking I was keeping set waiting.  \n\u201cNow I feel much safer going to someone in charge, pulling them to the side, and explaining, \u2018I\u2019m going through this right now.\u2019  \n\u201cMost people will sit there with you for the 10 minutes it takes for you to come back down.\u201d\n*   Up next\n*   Up next\n*   Up next\n*...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "Yahoo News aggregates stories from various sources. Its content lacks the rigorous editorial oversight present in original reporting outlets, making it prone to inaccurate information. While some articles are grounded in legitimate journalism, its overall reliability is less consistent, warranting a cautious approach."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-03-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence discusses Hathaway's reasons for giving up alcohol, unrelated to her appearance in the TikTok joke video. It does not provide any relevant corroboration or address the authenticity of the clip."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Anne Hathaway's real age leaves fans 'baffled' as they dub her ...",
+                "htmlTitle": "<b>Anne Hathaway&#39;s real</b> age leaves fans &#39;baffled&#39; as they dub her ...",
+                "link": "https://www.themirror.com/entertainment/celebrity-news/anne-hathaways-real-age-leaves-552101",
+                "displayLink": "www.themirror.com",
+                "snippet": "Jun 22, 2024 ... Despite her long-standing career, guessing the actress' age can be a challenge. TikTok videos have recently surfaced, celebrating Anne's\u00a0...",
+                "htmlSnippet": "Jun 22, 2024 <b>...</b> Despite her long-standing career, guessing the actress&#39; age can be a challenge. <b>TikTok videos</b> have recently surfaced, celebrating <b>Anne&#39;s</b>&nbsp;...",
+                "formattedUrl": "https://www.themirror.com/...news/anne-hathaways-real-age-leaves-552101",
+                "htmlFormattedUrl": "https://www.themirror.com/...<b>news</b>/<b>anne</b>-<b>hathaway</b>s-real-age-leaves-552101",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-JaN1INIUnzqwNZCISCNOvuFTFykHKxeSZa441Po_EUs0mCzw5l9CZbAx&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "newsmediaorganization": [
+                        {
+                            "name": "The Mirror US",
+                            "url": "https://www.themirror.com/"
+                        },
+                        {
+                            "name": "The Mirror US",
+                            "publishingprinciples": "https://www.themirror.com/about-us/",
+                            "url": "https://www.themirror.com/"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "347",
+                            "url": "https://s2-prod.themirror.com/@trinitymirrordigital/chameleon-branding/publications/themirror/img/logo-schema-themirror.png",
+                            "height": "60"
+                        },
+                        {
+                            "width": "615",
+                            "url": "https://i2-prod.themirror.com/entertainment/celebrity-news/article552098.ece/ALTERNATES/s615/1_bestpix-the-fashion-awards-2023-presented-by-pandora-arrivals.jpg",
+                            "height": "409"
+                        },
+                        {
+                            "author": "(Image: Cindy Ord/Getty Images)",
+                            "width": "615",
+                            "description": "For those wondering, she is actually 41",
+                            "url": "https://i2-prod.themirror.com/incoming/article552059.ece/ALTERNATES/s615b/2_Hathaway_MAIN.jpg",
+                            "height": "346"
+                        },
+                        {
+                            "url": "https://s2-prod.themirror.com/@trinitymirrordigital/chameleon-branding/publications/themirror/img/logo-themirror.png"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Harry Rutter",
+                            "sameas": "https://www.themirror.com/authors/harry-rutter/"
+                        },
+                        {
+                            "name": "Katie-Ann Gupwell"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=undefined",
+                            "og:image": "https://i2-prod.themirror.com/entertainment/celebrity-news/article552098.ece/ALTERNATES/s1200/1_bestpix-the-fashion-awards-2023-presented-by-pandora-arrivals.jpg",
+                            "article:published_time": "2024-06-22T20:40:27Z",
+                            "og:site_name": "The Mirror US",
+                            "article:id": "themirror-552101",
+                            "og:description": "Anne Hathaway has been a star for decades, but her age is still a mystery to many fans who are left baffled by her youthful looks - and some have even dubbed her a 'vampire'",
+                            "partnerconfig": "{}",
+                            "manifest-validation": "{\"tags\":[\"Anne Hathaway\"],\"url\":\"https://www.themirror.com/entertainment/celebrity-news/anne-hathaways-real-age-leaves-552101\",\"primaryTag\":\"Anne Hathaway\"}",
+                            "article:modified_time": "2024-06-22T20:40:27Z",
+                            "news_keywords": "Anne Hathaway",
+                            "og:section": "Celebrity News",
+                            "scriptconfig": "{\"performSemanticPlayer\":{\"enabled\":true},\"remoteInjectionConfig\":{\"enabled\":false},\"videoHB\":{\"appNexus\":{\"placementId\":31320798},\"richaudience\":{\"pid\":\"PQIsYdPLOS\"},\"enabled\":false,\"ozone\":{\"desktop\":{\"placementId\":\"1420436299\"},\"tabletLandscapeUpwards\":{\"placementId\":\"1420436299\"},\"tabletPortraitUpwards\":{\"placementId\":\"1420436299\"},\"baseLayout\":{\"placementId\":\"1420436300\"}},\"indexExchange\":{\"siteId\":\"281456\"}},\"grapeshot\":{\"zone\":\"national\",\"enabled\":false},\"smartadserver\":{\"enabled\":true},\"themediatrust\":{\"siteId\":\"be05ae8f20b318d9547995370a37245ea26e8c0660e964bf0ebe7fd40caa432f\",\"enabled\":true},\"hbPageLevel\":{\"magnite\":{\"accountId\":\"7949\",\"siteId\":{\"desktop\":\"351992\",\"tabletLandscapeUpwards\":\"352058\",\"tabletPortraitUpwards\":\"352058\",\"baseLayout\":\"352056\"}},\"criteo\":{\"networkId\":6366},\"verizon\":{\"siteId\":{\"desktop\":\"8a9691c8017474d5c661da8e737602ef\",\"tabletLandscapeUpwards\":\"8a9691c8017474d5c661da8e757402f3\",\"tabletPortraitUpwards\":\"8a9691c8017474d5c661da8e757402f3\",\"baseLayout\":\"8a9691c8017474d5c661da8e",
+                            "fb:page_id": "101022829463581",
+                            "article:expiration_time": "2024-07-22T20:40:27Z",
+                            "datalayer": "{\"page\":{\"attributes\":{\"application\":\"Responsive Web\",\"channel\":\"entertainment\",\"channelId\":\"171\",\"sectionId\":\"172\",\"publicationName\":\"themirror\",\"publicationId\":\"3\",\"environment\":\"prod\",\"platform\":\"visionals\",\"pageName\":\"themirror:entertainment:entertainment-celebrity-news:article:anne-hathaways-real-age-leaves:552101\",\"pageType\":\"article:news:factbox\",\"pageElements\":\"article:news:factbox\",\"pageScreenType\":\"article\",\"ownerSite\":\"themirror\",\"ownerSiteDomain\":\"www.themirror.com\",\"pageDomain\":\"www.themirror.com\",\"subSectionOne\":\"entertainment\",\"subSectionTwo\":\"entertainment-celebrity-news\",\"features\":{\"showVpaidControls\":\"true\",\"amazon.waitConsent\":\"true\",\"mantisRecommender.apiUrl\":\"https://api.mantis-intelligence.com/reach/recommender\",\"globalAudioPlayerEnabled\":\"true\",\"pubmaticIdEnabled\":\"false\",\"consentDate\":\"06/08/2021\",\"thirtythreeacrossDisplayPrebidEnabled\":\"false\",\"jwRtdEnabled\":\"true\",\"prebidLibrary\":\"false\",\"amp.cmpCollapsableBtn\":\"true\",\"authUI\":\"true\",\"trackTaboolaVisibility\":\"true\",\"ovpOnSectionPage",
+                            "og:type": "article",
+                            "article:section": "Celebrity News",
+                            "publicationconfig": "https://s2-prod.themirror.com/@trinitymirrordigital/dragonfly/2d02a3f44a0bbd8d5a722c5f041ca76a4a08619c/img/themirror/",
+                            "author": "Harry Rutter",
+                            "og:title": "Anne Hathaway's real age leaves fans 'baffled' as they dub her 'a vampire'",
+                            "googlebot-news": "noarchive",
+                            "fb:pages": "101022829463581",
+                            "article:author": "https://www.themirror.com/authors/harry-rutter/",
+                            "article:tag": "Anne Hathaway",
+                            "referrer": "unsafe-URL",
+                            "og:language": "en",
+                            "advertisingconfig": "{\"desktop\":[{\"componentType\":\"gpt\",\"targeting\":{\"index\":-2,\"hivis\":\"n\"},\"referenceNode\":\"reach-1x1 > .ad-placeholder__inner\",\"sizes\":[[1,1]],\"hideOnFirstPageView\":true,\"hideOnSensitiveArticle\":true,\"relativePos\":\"existing\",\"additionalClass\":\"hidden\",\"name\":\"div-gpt-ad-ad-mix-slot\",\"type\":\"adMix\"},{\"includeInHeaderBidding\":true,\"componentType\":\"gpt\",\"targeting\":{\"index\":-4,\"hivis\":\"n\",\"hbPlacements\":\"m-strip\"},\"referenceNode\":\"header\",\"sizes\":[[4,4]],\"hideOnSensitiveArticle\":true,\"hideOnFirstPageView\":true,\"relativePos\":\"before\",\"additionalClass\":\"hidden\",\"name\":\"div-gpt-ad-ad-web-strip\",\"type\":\"webStrip\",\"bidders\":{\"ozone\":\"1500000394\"}},{\"includeInHeaderBidding\":true,\"componentType\":\"gpt\",\"referenceNode\":\"reach-billboard > [data-name='div-gpt-ad-top-slot']\",\"usedInTakeovers\":true,\"relativePos\":\"existing\",\"type\":\"topOfPage\",\"targeting\":{\"index\":1,\"hivis\":\"y\",\"opos\":\"top\",\"mantis_placement\":\"premium\",\"hbPlacements\":\"d-top\"},\"sizes\":[[970,250],[970,251],[728,90],[728,91],[970,90],[960,90],[960,250],[300,250],[3",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_GB",
+                            "pipelineconfig": "{\"images\":null,\"className\":\"\"}",
+                            "shopwindow-topslot-confg": "{\"type\":\"\",\"ingredients\":[],\"platform\":\"\"}",
+                            "vf:container_id": "themirror-prod-552101",
+                            "og:url": "https://www.themirror.com/entertainment/celebrity-news/anne-hathaways-real-age-leaves-552101",
+                            "partnerfooterconfig": "{\"partnerContentList\":[],\"features\":{\"showVpaidControls\":\"true\",\"amazon.waitConsent\":\"true\",\"mantisRecommender.apiUrl\":\"https://api.mantis-intelligence.com/reach/recommender\",\"globalAudioPlayerEnabled\":\"true\",\"pubmaticIdEnabled\":\"false\",\"consentDate\":\"06/08/2021\",\"thirtythreeacrossDisplayPrebidEnabled\":\"false\",\"jwRtdEnabled\":\"true\",\"prebidLibrary\":\"false\",\"amp.cmpCollapsableBtn\":\"true\",\"authUI\":\"true\",\"trackTaboolaVisibility\":\"true\",\"ovpOnSectionPage\":\"true\",\"mantisRecommender.useCommonAdunit\":\"true\",\"hideAndSeek.baseApiUrl\":\"https://d20eutak7bpup8.cloudfront.net\",\"nonIframeMantisRecommenderRHC\":\"false\",\"quantcastCMPEnabled\":\"true\",\"taboolaNonConsented\":\"true\",\"openxDisplayPrebidEnabled\":\"false\",\"navWithArticle.enabled\":\"true\",\"useNewPreferenceCentre\":\"true\",\"enableInternalRecaptchaValidation\":\"true\",\"disableOzoneScriptOnDragonfly\":\"true\",\"pubmaticIdDisabled\":\"true\",\"cmpHostName\":\"themirror.com\",\"limitedConsentKPV\":\"true\",\"RRET-227.cutOffDate\":\"2020-06-30T10:30:00\",\"prebidUseTestRuntime\":\"false\",\"bookmarksBas"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i2-prod.themirror.com/entertainment/celebrity-news/article552098.ece/ALTERNATES/s1200/1_bestpix-the-fashion-awards-2023-presented-by-pandora-arrivals.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "Anne Hathaway, who first captured our hearts with her transformation in the Princess Diaries, has remained a beloved figure in Hollywood. She's graced us with unforgettable performances in...",
+                            "datemodified": "2024-06-22T20:40:27Z",
+                            "author": "(Image: Gareth Cattermole/Getty Images)",
+                            "name": "Anne Hathaway's real age leaves fans 'baffled' as they dub her 'perfect' and 'a vampire'",
+                            "description": "Anne Hathaway has been a star for decades, but her age is still a mystery to many fans who are left baffled by her youthful looks - and some have even dubbed her a 'vampire'",
+                            "headline": "Anne Hathaway's real age leaves fans 'baffled' as they dub her 'perfect' and 'a vampire'",
+                            "datepublished": "2024-06-22T20:40:27Z",
+                            "mainentityofpage": "https://www.themirror.com/entertainment/celebrity-news/anne-hathaways-real-age-leaves-552101"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "0"
+                        },
+                        {
+                            "item": "Entertainment",
+                            "name": "Entertainment",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Celebrity News",
+                            "name": "Celebrity News",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Anne Hathaway",
+                            "name": "Anne Hathaway",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... and 'a vampire'\n========================================================================================\nAnne Hathaway has been a star for decades, but her age is still a mystery to many fans who are left baffled by her youthful looks - and some have even dubbed her a 'vampire'\n!\nAnne Hathaway has thrilled fans with a lip-plumping trick (\nImage: Gareth Cattermole/Getty Images)\n*   \n*   \n*   \n*   \n*   \n*   \nBy\nSenior Showbiz Reporter\nKatie-Ann GupwellSenior Social News Reporter\n*   16:40 ET, JUN 22 2024\n*   \n*   \n*   \n*   |\n    Bookmark\n who first captured our hearts with her transformation in the \nShe's graced us with unforgettable performances in numerous box office hits, , which debuted at the LA Film Festival 18 years ago today. Despite her long-standing career, guessing the actress' age can be a challenge.\n have recently surfaced, celebrating Anne's seemingly ageless appearance. These clips, spanning across her career, highlight her enduring youthful radiance. For those wondering, she is actually 41 a fact that has left some fans astonished. Social media users have showered her with compliments, labeling her as \"perfect\".\n**Click**  **to follow the Mirror US on Google News to stay up to date with all the latest news, sport and entertainment stories.**\n**READ MORE: **\n!\nFor those wondering, she is actually 41 (\nImage:\nCindy Ord/Getty Images)\nOne user commented: \"She looks so good.\" Another chimed in: \"Doesn't age at all.\" A third humorously suggested: \"She's a vampire.\" Despite the praise for her stunning looks, the Hollywood star had a few words for those who commend her on \"looking good\" for her age.\nSIMILAR ARTICLES TO THIS\nPowered by !\n Power Rangers star Hector David Jr. wanted for 'pushing an elderly man to the ground']\n Britney Spears fans predict which lookalike celeb will be starring in pop star's biopic]\n Eminem fans speculate he's living a 'double life' as doppelganger competes in 2024 Paris Olympics]\n Simone Biles makes defiant statement with necklace as she says 'the haters hate it so I love that']\n Kanye West's wife Bianca Censori dons sheer strapless dress held up by luck alone in LA]\n Modern Family's Sarah Hyland's home 'burglarized by two masked men']\n Protestors block Taylor Swift motorcade as they 'glue themselves to the ground']\n Kendall Jenner seen in good spirits at the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The Mirror is known for tabloid-style reporting, primarily focused on sensational and often scandalous stories. While it does report on current events, the emphasis on entertainment and gossip frequently raises questions about accuracy. Users should be wary of the news presented, particularly allegations or sensational claims."
+                },
+                "Newness": {
+                    "NewnessScore": 7,
+                    "Date": "2024-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This source mentions TikTok videos but focuses on Hathaway's age and public perception, providing no pertinent information regarding the authenticity of the joke claim."
+                }
+            }
+        }
+    ]
+}

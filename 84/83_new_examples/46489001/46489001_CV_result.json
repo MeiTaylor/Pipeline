@@ -1,0 +1,32 @@
+{
+    "Claim": "A Mickey Mouse gas mask was produced during World War II.",
+    "Video_information": {
+        "video_date": 20191116.0,
+        "platform": "tiktok",
+        "video_headline": "#fyp #foryou #foryoupage #spooky #physological",
+        "video_transcript": "",
+        "Video_descriptor": "The video opens with a stark black screen displaying the title \"The U.S. Has More Prisoners Than Any Other Country in the World,\" before transitioning to a dark room where a white screen reaffirms this title. Following this, the screen fades to a text statement in black and white that informs viewers that \"The U.S. has 5% of the world's population, but 25% of the world's prisoners.\" A sequence of black screens with white text introduces various intriguing facts, repeating the phrase \"A pineapple can eat it,\" accompanied by claims that it contains a protein capable of degrading the lifespan. Simultaneously, visuals convey a poignant message about the U.S. having more serial killers in one's lifetime than any other nation, reinforced through multiple repetitions of this alarming statistic. Key frames highlighted throughout the video depict TikTok posts, where various statements are showcased against black or grayscale backgrounds, emphasizing the surprising assertion about encountering \"35 serial killers\" in a lifetime. Some frames reiterate the pineapple's capacity for eating, drawing an eerie parallel between a seemingly innocuous fruit and darker themes about crime and imprisonment in the U.S. The video closes on yet another message about the U.S. having a disproportionate number of serial killers, leaving viewers with a stark contrast of everyday life interspersed with grim realities, all presented through a repetitive and visually minimalist structure that captures attention and provokes thought."
+    },
+    "Initial_Question_Generation": {
+        "Primary_Question": "Is there credible evidence confirming that a Mickey Mouse gas mask was actually produced during World War II?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "What specific manufacturer was responsible for producing the Mickey Mouse gas mask?",
+            "Secondary_Question_2": "Was the Mickey Mouse gas mask widely distributed or used by the military during the war?",
+            "Secondary_Question_3": "Are there any historical documents or artifacts that verify the existence of such a gas mask?"
+        },
+        "Question": "Is there credible evidence confirming that a Mickey Mouse gas mask was actually produced during World War II?",
+        "Answer": "Yes, there is credible evidence confirming that a Mickey Mouse gas mask was produced during World War II. \n\n1. Walt Disney designed a gas mask that was shaped like Mickey Mouse to calm frightened children. Approximately 1,000 of these gas masks, known as Mickey Mouse respirators, were eventually produced during the early months of World War II. This was part of an effort to provide comfort to children at a time of fear over potential gas attacks.\n\n2. Additionally, a child-specific gas mask was designed by the British government during the war, which was commonly referred to as a \"Mickey Mouse\" gas mask. This name was used not because the mask resembled the character, but to help alleviate the fears of children when trying to fit them with these masks. The naming was a way to make the experience less intimidating for the young users.\n\nTaken together, these points provide strong evidence for the production of a Mickey Mouse gas mask during World War II, with legitimate design involvement from Walt Disney and usage of the name in context with children's gas masks.",
+        "Confidence": "95%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "95%",
+        "Reason": "The provided QA_CONTEXTS clearly confirm that a Mickey Mouse gas mask was indeed produced during World War II. It details that Walt Disney designed a gas mask to comfort children during a time of fear, and that approximately 1,000 Mickey Mouse respirators were produced. Additionally, it mentions that the term 'Mickey Mouse' was used in the context of a child-specific gas mask by the British government, reinforcing the claim. The overall reliability of this information is high, leading to a confidence level of 95%."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "There is credible evidence that a Mickey Mouse gas mask was produced during World War II. Walt Disney designed a gas mask shaped like Mickey Mouse to calm frightened children, and approximately 1,000 of these masks were produced. This design was part of an effort to provide comfort against fears of gas attacks during the war. Additionally, a child-specific gas mask referred to as a 'Mickey Mouse' gas mask was designed by the British government as a way to alleviate children's fears related to gas masks during air raids. This use of the name and design intended to make the experience less intimidating for young users confirms the production of such a gas mask [Initial_Question_Generation_Query 1_evidence 1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}

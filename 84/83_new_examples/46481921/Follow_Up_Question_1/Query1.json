@@ -1,0 +1,637 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CIA involvement in HIV/AIDS origins disinformation history",
+                "totalResults": "95200",
+                "searchTerms": "CIA involvement in HIV/AIDS origins disinformation history",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CIA involvement in HIV/AIDS origins disinformation history",
+                "totalResults": "95200",
+                "searchTerms": "CIA involvement in HIV/AIDS origins disinformation history",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.221846,
+        "formattedSearchTime": "0.22",
+        "totalResults": "95200",
+        "formattedTotalResults": "95,200"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Cold War fake news: Why Russia lied over Aids and JFK - BBC News",
+                "htmlTitle": "Cold War <b>fake news</b>: Why Russia lied over <b>Aids</b> and JFK - BBC News",
+                "link": "https://www.bbc.com/news/world-europe-39419560",
+                "displayLink": "www.bbc.com",
+                "snippet": "Apr 1, 2017 ... In the early 1980s, the Aids virus seemed to emerge from nowhere. There was no cure and its origins were a mystery. But one theory began to ...",
+                "htmlSnippet": "Apr 1, 2017 <b>...</b> In the early 1980s, the <b>Aids virus</b> seemed to emerge from nowhere. There was no cure and its <b>origins</b> were a mystery. But one theory began to&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-39419560",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-39419560",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmT9nChclL9vzJfC9pjMOJu1YNEWYHIM90YbFNUVjuaYjSEYvT1nRE6Wr&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "KGB political officers in the field had to spend up to a quarter of their time on \"active measures\".",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "An AIDS awareness ribbon",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "An AIDS awareness ribbon",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "twitter:title": "Cold War fake news: Why Russia lied over Aids and JFK",
+                            "og:title": "Cold War fake news: Why Russia lied over Aids and JFK",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "KGB political officers in the field had to spend up to a quarter of their time on \"active measures\".",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/world-europe-39419560",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "In the early 1980s, the Aids virus seemed to emerge from nowhere. \nThere was no cure and its origins were a mystery. But one theory began to surface - that it was the product of secret US military research at the Fort Detrick Laboratory. \nWhat was the source for this piece of fake news? The answer was the KGB, the Soviet intelligence service. \n\"The Aids disinformation campaign was one of the most notorious and one of the most successful Soviet disinformation campaigns during the Cold War,\" argues Thomas Boghardt, a historian at the US Army Center of Military History who has studied the case in detail., external\nKGB political officers in the field were tasked with spending up to a quarter of their time on what were called \"active measures\". \nMr Boghardt believes the KGB station in New York first came up with the idea, which played into distrust in US institutions and rumours of covert biological warfare programmes. \n\"Intelligence meant not only gathering but using - or weaponising - that intelligence for influence operations,\" he explains. \nThe aim of these \"active measures\" was to sow confusion and distrust either within a country or between allies. He says that in 1980, the Soviets spent an astonishing $3bn (£2.4bn) a year on active measures...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy ...",
+                "htmlTitle": "Rumors and Realities: Making Sense of <b>HIV</b>/<b>AIDS</b> Conspiracy ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "There is no evidentiary foundation for the story of the disease as part of a US government or CIA plan to exterminate African Americans. Although HIV/AIDS ...",
+                "htmlSnippet": "There is no evidentiary foundation for the <b>story</b> of the disease as part of a US government or <b>CIA</b> plan to exterminate African Americans. Although <b>HIV</b>/<b>AIDS</b>&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "American Public Health Association",
+                            "citation_publication_date": "2015/01",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=MMWR Morb Mortal Wkly Rep; citation_title=HIV Prevalence Estimates—United States 2006; citation_volume=57; citation_issue=39; citation_publication_date=2008; citation_firstpage=1073; citation_lastpage=1076;",
+                            "citation_journal_title": "American Journal of Public Health",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC4265931/",
+                            "ncbi_phid": "939B02B78EB0AA3500004C72C208657B.1.m_2",
+                            "og:description": "The social context of the early HIV/AIDS epidemic in the United States provided fertile ground for rumors about transmission. Today, however, rumors about HIV/AIDS persist only within the African American public. Focus group and public discourse data ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC4265931/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "25393166",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "citation_author": "Jacob Heller",
+                            "citation_abstract_html_url": "/pmc/articles/PMC4265931/?report=abstract",
+                            "dc.date": "2015 January",
+                            "citation_issue": "1",
+                            "dc.contributor": "Jacob Heller",
+                            "citation_firstpage": "e43",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.2105/AJPH.2014.302284",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "ncbi_domain": "amjph",
+                            "dc.identifier": "10.2105/AJPH.2014.302284",
+                            "citation_volume": "105",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of sustained and effective funding for and attention to the general health of African Americans, the history of health professions’ abuses against African Americans, and the persistence of HIV/AIDS among African Americans (as the focus group data suggest, some African Americans see the very mention of high infection rates among African Americans as “blaming,” which reinforces the sense of distrust). These rumors are simultaneously evidence of a local situation (the level of distrust by one group in the context of one issue) and indicators of the larger social context in which that distrust occurs. The content of rumors about HIV/AIDS is related to the fraught historical relationship between African Americans and mainstream (White) society, and the perceptions of the health professions as agents of White power. Understanding the rumors (and perhaps dispelling them) first requires an understanding of the different roles that collective memory and rumors play in the creation of distrust.\nCollective memory research looks at how groups “know” things and sustain memories of traditions and historical events from generation to generation without formal histories or institutional education. Part of the explanation for distrust of health professions and health initiatives stems from the collective memory of racism and discriminatory abuse in US society, a heritage regularly reaffirmed in everyday experience. Collective memory studies fail, however, when it comes to the question of how alternative stories (such as HIV/AIDS conspiracy accounts) might be conveyed. Rumors are not collective memory; they thrive in the absence of commemorative events, memorials, and rituals. There is no evidentiary foundation for the story of the disease as part of a US government or CIA plan to exterminate African Americans.\nAlthough HIV/AIDS transmission rates continue to fall among many demographic groups, rates of new cases within the African American community remain at tragically high levels. The present study found a similar pattern for rumors—declining rapidly among Whites while stubbornly persisting within the African American public. Just as HIV/AIDS has followed different epidemiological courses within different subpopulations, rumors and stories woven around HIV have also covaried by subpopulation with a correlation across group identity, rumors, and HIV prevalence.\nMETHODS OF DATA COLLECTION\n--------------------------\nThis analysis relies on 2 sources of data. (1) I performed a qualitative review of the public discourse about HIV/AIDS in the “Black Press,” on the Internet, and in other public arenas. (The Black Press, which dates to 1827 in the United States, continues to be a media sector that originates in, caters to, and represents the ideas and issues of the African American community. African Americans invest higher levels of trust and research in the Black Press than in the mainstream...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Operation Denver - Wikipedia",
+                "htmlTitle": "<b>Operation</b> Denver - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Operation Denver was an active measure disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as ...",
+                "htmlSnippet": "<b>Operation</b> Denver was an active measure <b>disinformation</b> campaign run by the KGB in the 1980s to plant the idea that the United States had invented <b>HIV</b>/<b>AIDS</b> as&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/RIAN_archive_38725_Director_of_the_USSR_Central_Intelligence_Service_Yevgeny_Primakov.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Operation Denver - Wikipedia",
+                            "og:image:height": "1773",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Jump to content\nMain menu\nSearch\nAppearance\nCreate account\nLog in\nPersonal tools\nToggle the table of contents\nOperation Denver\n15 languages\nArticle\nTalk\nRead\nEdit\nView history\nTools\nFrom Wikipedia, the free encyclopedia\nOperation Denver\nRussian\tОперация «Инфекция» \nRomanization\tOperatsiya \"Infektsiya\"\nIPA\t\nIn 1992, Director of Russia's Foreign Intelligence Service (SVR) Yevgeny Primakov admitted that the KGB was behind the Soviet newspaper articles claiming that AIDS was created by the U.S. government.\nOperation Denver (sometimes referred to as \"Operation INFEKTION\") was an active measure disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as part of a biological weapons research project at Fort Detrick, Maryland. Historian Thomas Boghardt popularized the codename \"INFEKTION\" based on the claims of former East German Ministry for State Security (Stasi) officer Günter Bohnsack , who claimed that the Stasi codename for the campaign was either \"INFEKTION\" or perhaps also \"VORWÄRTS II\" (\"FORWARD II\"). However, historians Christopher Nehring and Douglas Selvage found in the former Stasi and Bulgarian State Security archives materials that prove the actual Stasi codename for the AIDS disinformation campaign was Operation Denver. The operation involved \"an extraordinary amount of effort – funding radio programs, courting journalists, distributing would-be scientific studies\", according to journalist Joshua Yaffa, and even became the subject of a report by Dan Rather on the CBS Evening News.\nThe Soviet Union used the campaign to undermine the United States' credibility, foster anti-Americanism, isolate America abroad, and create tensions between host countries and the U.S. over the presence of American military bases (which were often portrayed as the cause of AIDS outbreaks in local...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Volume 53, No. 4 (December 2009) - CSI",
+                "htmlTitle": "Volume 53, No. 4 (December 2009) - CSI",
+                "link": "https://www.cia.gov/resources/csi/studies-in-intelligence/volume-53-no-4/",
+                "displayLink": "www.cia.gov",
+                "snippet": "Historical Perspectives. Operation INFEKTION. Soviet Bloc Intelligence and Its AIDS Disinformation Campaign. Thomas Boghardt. The Origins of Modern ...",
+                "htmlSnippet": "<b>Historical</b> Perspectives. <b>Operation</b> INFEKTION. Soviet Bloc Intelligence and Its <b>AIDS Disinformation</b> Campaign. Thomas Boghardt. The <b>Origins</b> of Modern&nbsp;...",
+                "formattedUrl": "https://www.cia.gov/resources/csi/studies-in-intelligence/volume-53-no-4/",
+                "htmlFormattedUrl": "https://www.<b>cia</b>.gov/resources/csi/studies-in-intelligence/volume-53-no-4/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "theme-color": "#663399",
+                            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                            "twitter:image": "[object Object]"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "December 2009\nUnclassified Extracts from Studies in Intelligence\nOperation INFEKTION\nSoviet Bloc Intelligence and Its AIDS Disinformation Campaign\nThomas Boghardt\nThe Origins of Modern Intelligence, Surveillance, and Reconnaissance\nMilitary Intelligence at the Front, 1914-18\nTerrence J. Finnegan, Col., USAFR (Ret.)\nAn Experiment in Collaboration on an Intelligence Problem\nDeveloping STORM, a Methodology for Evaluating Transit Routes of Transnational Terrorists and Criminals\nMark T. Clark and Brian Janiskee\nThe James Angleton Phenomenon\n“Cunning Passages, Contrived Corridors”: Wandering in the Angletonian Wilderness\nDavid Robarge\nThe Accidental Guerrilla: Fighting Small Wars in the Midst of a Big One\nReviewed by Matthew P.\nVietnam Declassified: CIA and Counterinsurgency in Vietnam\nHayden Peake\nOSS Training in the National Parks and Service Abroad in World War II\nReviewed by Clayton D. Laurie\nThe Secret War in El Paso: Mexico Revolutionary Intrigue, 1906-1920\nReviewed by Mark Benbow\nThe Intelligence Officer’s Bookshelf\nCompiled and Reviewed by Hayden B. Peake\nBooks, Films, and Television Reviewed in Studies in Intelligence, 2009\nIn Defense of John Honeyman (and George Washington)\nKenneth A. Daigler, aka P.K. Rose\nMark Benbow worked as an analyst in the Directorate of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Before 'fake news,' there was Soviet 'disinformation' - The ...",
+                "htmlTitle": "Before &#39;<b>fake news</b>,&#39; there was Soviet &#39;<b>disinformation</b>&#39; - The ...",
+                "link": "https://www.washingtonpost.com/news/worldviews/wp/2016/11/26/before-fake-news-there-was-soviet-disinformation/",
+                "displayLink": "www.washingtonpost.com",
+                "snippet": "Nov 26, 2016 ... On July 17, 1983, a small pro-Soviet Indian newspaper called the Patriot published a front-page article titled “AIDS may invade India: ...",
+                "htmlSnippet": "Nov 26, 2016 <b>...</b> On July 17, 1983, a small pro-Soviet Indian newspaper called the Patriot published a front-page article titled “<b>AIDS</b> may invade India:&nbsp;...",
+                "formattedUrl": "https://www.washingtonpost.com/.../before-fake-news-there-was-soviet-disi...",
+                "htmlFormattedUrl": "https://www.washingtonpost.com/.../before-fake-news-there-was-soviet-<b>disi</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3E-aZRFK4ujuJyrDYsa4TJH-WQaG4FicGX3JnxV9VOv_aiTZVyP1ksI&s",
+                            "width": "271",
+                            "height": "186"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter_description": "In 1983, a pro-Soviet newspaper suggested the U.S. government created AIDs.",
+                            "article_modified_time": "2021-12-01T09:27:52.468Z",
+                            "og:image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/worldviews/files/2016/11/PHO-09Oct13-182269.jpg&w=1440",
+                            "apple-itunes-app": "app-id=352509417, app-argument=https://www.washingtonpost.com/news/worldviews/wp/2016/11/26/before-fake-news-there-was-soviet-disinformation/?sourceApp=apple-banner",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2016-11-26T11:00:37.000Z",
+                            "og:site_name": "Washington Post",
+                            "og_title": "Before ‘fake news,’ there was Soviet ‘disinformation’",
+                            "og_type": "article",
+                            "og_url": "https://www.washingtonpost.com/news/worldviews/wp/2016/11/26/before-fake-news-there-was-soviet-disinformation/",
+                            "og:description": "In 1983, a pro-Soviet newspaper suggested the U.S. government created AIDs.",
+                            "article_published_time": "2016-11-26T11:00:37.000Z",
+                            "next-head-count": "84",
+                            "article_section": "World",
+                            "twitter:site": "@WashingtonPost",
+                            "article:modified_time": "2021-12-01T09:27:52.468Z",
+                            "twitter_site": "@WashingtonPost",
+                            "og_description": "In 1983, a pro-Soviet newspaper suggested the U.S. government created AIDs.",
+                            "article:content_tier": "metered",
+                            "twitter_title": "Before ‘fake news,’ there was Soviet ‘disinformation’",
+                            "last_updated_date": "2021-12-01T09:27:52.468Z",
+                            "og:type": "article",
+                            "twitter:title": "Before ‘fake news,’ there was Soviet ‘disinformation’",
+                            "article:section": "World",
+                            "og_site_name": "Washington Post",
+                            "twitter_card": "summary_large_image",
+                            "og:title": "Before ‘fake news,’ there was Soviet ‘disinformation’",
+                            "og_image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/worldviews/files/2016/11/PHO-09Oct13-182269.jpg&w=1440",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "In 1983, a pro-Soviet newspaper suggested the U.S. government created AIDs.",
+                            "article_content_tier": "metered",
+                            "og:url": "https://www.washingtonpost.com/news/worldviews/wp/2016/11/26/before-fake-news-there-was-soviet-disinformation/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.washingtonpost.com/wp-apps/imrs.php?src=http://www.washingtonpost.com/blogs/worldviews/files/2016/11/PHO-09Oct13-182269.jpg&w=1440"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "clockThis article was published more than 7 years ago\nOn July 17, 1983, a small pro-Soviet Indian newspaper called the Patriot published a front-page article titled “AIDS may invade India: Mystery disease caused by US experiments.” The story cited a letter from an anonymous but “well-known American scientist and anthropologist” that suggested AIDS, then still a mysterious and deadly new disease, had been created by the Pentagon in a bid to develop new biological weapons.\n“Now that these menacing experiments seem to have gone out of control, plans are being hatched to hastily transfer them from the U.S. to other countries, primarily developing nations where governments are pliable to Washington's pressure and persuasion,” the article read.\nThe Patriot's article was subsequently used as a source for an October 1985 story in the Literaturnaya Gazeta, a Soviet weekly with considerable influence at the time. The next year, it ran on the front page of a British tabloid. After that, it was picked up by an international news wire. By April 1987, it was suggested that the story had appeared in the major newspapers of more than 50 countries.\nThe problem? The story was patently false.\nA variety of credible experts quickly came out to say that the idea that AIDS had been deliberately or inadvertently created in a laboratory was ridiculous; even the president of the Soviet Academy of Medical Sciences went on the record...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Understanding the origins and prevalence of AIDS conspiracy ...",
+                "htmlTitle": "Understanding the <b>origins</b> and prevalence of <b>AIDS</b> conspiracy ...",
+                "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9566.2012.01480.x",
+                "displayLink": "onlinelibrary.wiley.com",
+                "snippet": "Apr 25, 2012 ... Abstract The human immunodeficiency virus (HIV) originated from cross-species transmission of the simian immunodeficiency virus from ...",
+                "htmlSnippet": "Apr 25, 2012 <b>...</b> Abstract The human immunodeficiency <b>virus</b> (<b>HIV</b>) originated from cross-species transmission of the simian immunodeficiency <b>virus</b> from&nbsp;...",
+                "formattedUrl": "https://onlinelibrary.wiley.com/doi/full/10.../j.1467-9566.2012.01480.x",
+                "htmlFormattedUrl": "https://onlinelibrary.wiley.com/doi/full/10.../j.1467-9566.2012.01480.x",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CUccq0zhxdoywnFZWeK4qp_ALmaAj4UGr_yPnDd6FpWBC4BMuGorOg&s",
+                            "width": "101",
+                            "height": "131"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_keywords": "AIDS conspiracy theory",
+                            "og:image": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642",
+                            "citation_publication_date": "2013/01/01",
+                            "citation_title": "Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa",
+                            "citation_author_institution": "AIDS and Society Research Unit, University of Cape Town, South Africa",
+                            "og:site_name": "Wiley Online Library",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Sociology of Health & Illness",
+                            "mathjax-version": "3",
+                            "og:description": "The human immunodeficiency virus (HIV) originated from cross-species transmission of the simian immunodeficiency virus from primates to humans. Yet a significant minority of people in the United Stat...",
+                            "twitter:image": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2012/04/25",
+                            "citation_issn": "1467-9566",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9566.2012.01480.x",
+                            "publication_doi": "10.1111/j.1467-9566.2012.01480.x",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9566.2012.01480.x",
+                            "citation_lastpage": "129",
+                            "og:type": "Article",
+                            "pbcontext": ";requestedJournal:journal:14679566;page:string:Article/Chapter View;ctype:string:Journal Content;website:website:pericles;journal:journal:14679566;issue:issue:doi\\:10.1111/shil.2013.35.issue-1;article:article:doi\\:10.1111/j.1467-9566.2012.01480.x;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                            "og:title": "Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa",
+                            "citation_author": "Nicoli Nattrass",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9566.2012.01480.x",
+                            "citation_issue": "1",
+                            "citation_firstpage": "113",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1111/j.1467-9566.2012.01480.x",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1111/j.1467-9566.2012.01480.x",
+                            "citation_volume": "35",
+                            "og:url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2012.01480.x",
+                            "article_references": "Nattrass, N. (2013), Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa. Sociology of Health & Illness, 35: 113-129. https://doi.org/10.1111/j.1467-9566.2012.01480.x"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "onlinelibrary.wiley.com\n-----------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nonlinelibrary.wiley.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 43
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Operation “Denver” | Journal of Cold War Studies | MIT Press",
+                "htmlTitle": "<b>Operation</b> “Denver” | Journal of Cold War Studies | MIT Press",
+                "link": "https://direct.mit.edu/jcws/article/23/3/4/106859/Operation-Denver-The-East-German-Ministry-for",
+                "displayLink": "direct.mit.edu",
+                "snippet": "Aug 9, 2021 ... From the autumn of 1986 until November 1989, the Stasi played a central role in the disinformation campaign. Despite pressure from the U.S. ...",
+                "htmlSnippet": "Aug 9, 2021 <b>...</b> From the autumn of 1986 until November 1989, the Stasi played a central <b>role</b> in the <b>disinformation</b> campaign. Despite pressure from the U.S.&nbsp;...",
+                "formattedUrl": "https://direct.mit.edu/.../Operation-Denver-The-East-German-Ministry-for",
+                "htmlFormattedUrl": "https://direct.mit.edu/.../Operation-Denver-The-East-German-Ministry-for",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "msapplication-config": "//mitp.silverchair-cdn.com/Themes/Client/app/img/favicons/v-638552060690931145/browserconfig.xml",
+                            "citation_publication_date": "2021/08/09",
+                            "og:image": "https://mitp.silverchair-cdn.com/mitp/content_public/journal/jcws/issue/23/3/1/m_cover.gif?Expires=1784228046&Signature=25X~iAaQubxsKYdxpxf4PEMWBHm3E6X-toH-scjAkGPM1OFHlxi-DOv~3xK8bK99Lw9uERxkqAnsGJ6c5OsE-XTwvjRXvLki4plu1jlB4AGu7YsoTpYj1hPuwKAcyf8CEoCtHvXlknkVhLQhYyNbK8G40UoJIUFvfrzevGc~l46ztc7Chw0fXljiSE5GsLBbRuPCIunV9m-2CDkCpCbY~8c6dsRGHNh0JagySMqdpFVdoUim2oDm6sy2VGv1UVJI0Ckzt1CstzpT3FIXouSkNw2ZL1bbz0IhyTC~UlchRnToVSJ0Hms1d35Q00gnSySYvf4OWklEZG1VqlA3HK97fg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "theme-color": "#002f65",
+                            "citation_title": "Operation “Denver”The East German Ministry for State Security and the KGB's AIDS Disinformation Campaign, 1986–1989 (Part 2)",
+                            "og:site_name": "MIT Press",
+                            "citation_publisher": "MIT Press",
+                            "citation_journal_title": "Journal of Cold War Studies",
+                            "og:description": "Abstract. This second part of a two-part article moves ahead in showing how the East German Ministry for State Security (Stasi) came to play a key role in the disinformation campaign launched by the Soviet State Security Committee (KGB) in 1983 regarding the origins of the Human Immunodeficiency Virus (HIV) and the Acquired Immune Deficiency Syndrome (AIDS). The KGB launched the campaign itself, but in the mid-1980s it sought to widen the effort by enlisting the cooperation of intelligence services in other Warsaw Pact countries, especially the Stasi. From the autumn of 1986 until November 1989, the Stasi played a central role in the disinformation campaign. Despite pressure from the U.S. government and a general inclination of Soviet leader Mikhail Gorbachev to curtail the campaign by the end of 1987, both the KGB and the USSR's official Novosti press agency continued until 1989 to spread false allegations that HIV was a U.S. biological weapon. Even after the KGB curtailed its disinformation in 1989, the Sta",
+                            "og:image:secure_url": "https://mitp.silverchair-cdn.com/mitp/content_public/journal/jcws/issue/23/3/1/m_cover.gif?Expires=1784228046&Signature=25X~iAaQubxsKYdxpxf4PEMWBHm3E6X-toH-scjAkGPM1OFHlxi-DOv~3xK8bK99Lw9uERxkqAnsGJ6c5OsE-XTwvjRXvLki4plu1jlB4AGu7YsoTpYj1hPuwKAcyf8CEoCtHvXlknkVhLQhYyNbK8G40UoJIUFvfrzevGc~l46ztc7Chw0fXljiSE5GsLBbRuPCIunV9m-2CDkCpCbY~8c6dsRGHNh0JagySMqdpFVdoUim2oDm6sy2VGv1UVJI0Ckzt1CstzpT3FIXouSkNw2ZL1bbz0IhyTC~UlchRnToVSJ0Hms1d35Q00gnSySYvf4OWklEZG1VqlA3HK97fg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "citation_issn": "1520-3972",
+                            "citation_pdf_url": "https://direct.mit.edu/jcws/article-pdf/23/3/4/1955787/jcws_a_01024.pdf",
+                            "citation_xml_url": "https://direct.mit.edu/jcws/article-xml/23/3/4/106859",
+                            "citation_lastpage": "80",
+                            "og:type": "article",
+                            "og:image:alt": "Issue Cover",
+                            "citation_journal_abbrev": "Journal of Cold War Studies",
+                            "og:image:url": "https://mitp.silverchair-cdn.com/mitp/content_public/journal/jcws/issue/23/3/1/m_cover.gif?Expires=1784228046&Signature=25X~iAaQubxsKYdxpxf4PEMWBHm3E6X-toH-scjAkGPM1OFHlxi-DOv~3xK8bK99Lw9uERxkqAnsGJ6c5OsE-XTwvjRXvLki4plu1jlB4AGu7YsoTpYj1hPuwKAcyf8CEoCtHvXlknkVhLQhYyNbK8G40UoJIUFvfrzevGc~l46ztc7Chw0fXljiSE5GsLBbRuPCIunV9m-2CDkCpCbY~8c6dsRGHNh0JagySMqdpFVdoUim2oDm6sy2VGv1UVJI0Ckzt1CstzpT3FIXouSkNw2ZL1bbz0IhyTC~UlchRnToVSJ0Hms1d35Q00gnSySYvf4OWklEZG1VqlA3HK97fg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+                            "og:title": "Operation “Denver”: The East German Ministry for State Security and the KGB's AIDS Disinformation Campaign, 1986–1989 (Part 2)",
+                            "citation_author": "Selvage, Douglas",
+                            "citation_issue": "3",
+                            "citation_firstpage": "4",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=10",
+                            "citation_doi": "10.1162/jcws_a_01024",
+                            "citation_volume": "23",
+                            "og:url": "https://dx.doi.org/10.1162/jcws_a_01024",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://mitp.silverchair-cdn.com/mitp/content_public/journal/jcws/issue/23/3/1/m_cover.gif?Expires=1784228046&Signature=25X~iAaQubxsKYdxpxf4PEMWBHm3E6X-toH-scjAkGPM1OFHlxi-DOv~3xK8bK99Lw9uERxkqAnsGJ6c5OsE-XTwvjRXvLki4plu1jlB4AGu7YsoTpYj1hPuwKAcyf8CEoCtHvXlknkVhLQhYyNbK8G40UoJIUFvfrzevGc~l46ztc7Chw0fXljiSE5GsLBbRuPCIunV9m-2CDkCpCbY~8c6dsRGHNh0JagySMqdpFVdoUim2oDm6sy2VGv1UVJI0Ckzt1CstzpT3FIXouSkNw2ZL1bbz0IhyTC~UlchRnToVSJ0Hms1d35Q00gnSySYvf4OWklEZG1VqlA3HK97fg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "direct.mit.edu\n--------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\ndirect.mit.edu needs to review the security of your connection before proceeding.",
+                    "content_tokens": 34
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "The long history of Russian disinformation targeting the U.S. | PBS ...",
+                "htmlTitle": "The long <b>history</b> of Russian <b>disinformation</b> targeting the U.S. | PBS ...",
+                "link": "https://www.pbs.org/newshour/show/the-long-history-of-russian-disinformation-targeting-the-u-s",
+                "displayLink": "www.pbs.org",
+                "snippet": "Nov 21, 2018 ... Nick Schifrin: Another conspiracy is, JFK was killed by the CIA, also created by… (CROSSTALK). Adam Ellick: Soviet origin ...",
+                "htmlSnippet": "Nov 21, 2018 <b>...</b> Nick Schifrin: Another conspiracy is, JFK was killed by the <b>CIA</b>, also created by… (CROSSTALK). Adam Ellick: Soviet <b>origin</b>&nbsp;...",
+                "formattedUrl": "https://www.pbs.org/.../the-long-history-of-russian-disinformation-targeting...",
+                "htmlFormattedUrl": "https://www.pbs.org/.../the-long-<b>history</b>-of-russian-<b>disinformation</b>-targeting...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xXpMSewDKsXD9LW8EMI_8h6h1l9m4sol8gVU3kmlIgbewv0r77KZgCM&s",
+                            "width": "277",
+                            "height": "182"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/ElectionThreat-1024x674.jpg",
+                            "msapplication-config": "https://d3i6fh83elv35t.cloudfront.net/static/assets/images/favicon/2024/browserconfig.xml",
+                            "og:type": "article",
+                            "og:image:width": "1024",
+                            "article:published_time": "2018-11-21T18:20:12-04:00",
+                            "article:section": "Nation",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "The long history of Russian disinformation targeting the U.S.",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "PBS News",
+                            "og:title": "The long history of Russian disinformation targeting the U.S.",
+                            "og:image:height": "674",
+                            "og:description": "From Pizzagate to George Soros conspiracies, “fake news” has become a noxious presence in public discourse, especially since the 2016 presidential election. A recent New York Times video series explores the long history of Russian disinformation and its origins in what the Soviets dubbed “active measures.” Nick Schifrin speaks to Adam Ellick, who created the series, for more.",
+                            "fb:pages": "6491828674",
+                            "article:publisher": "https://www.facebook.com/newshour/",
+                            "twitter:image": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/ElectionThreat-1024x674.jpg",
+                            "article:tag": "disinformation, election interference, kgb, new york times, russia",
+                            "fb:app_id": "114150878604116",
+                            "twitter:site": "@newshour",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "news_keywords": "disinformation, election interference, kgb, new york times, russia, nation",
+                            "twitter:description": "From Pizzagate to George Soros conspiracies, “fake news” has become a noxious presence in public discourse, especially since the 2016 presidential election. A recent New York Times video series explores the long history of Russian disinformation and its origins in what the Soviets dubbed “active measures.” Nick Schifrin speaks to Adam Ellick, who created the series, for more.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.pbs.org/newshour/show/the-long-history-of-russian-disinformation-targeting-the-u-s"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d3i6fh83elv35t.cloudfront.net/static/2018/11/ElectionThreat-1024x674.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...Man:**\n    Within the KGB is a department that specializes in planting false stories and forged documents.\n*   **Man:**\n    We know it was run from Department A right to the top of the KGB, and it had a multimillion-dollar budget.\n*   **Man:**\n    At least 15,000 who in the Soviet Union and outside of the Soviet Union are involved in that kind of actions on regular, daily basis.\n*   **Nick Schifrin:**\n    Fifteen thousand people creating disinformation stories as seemingly crazy as: The U.S. created AIDS.\n*   **Adam Ellick:**\n    And many of them were super creative. We're talking about planting fake stories in communist newspapers in India, in South America.\n    We looked at the AIDS campaign, which was launched in 1984. And we found newspaper clippings planted by the Soviets about this story in 80 different countries.\n*   **Nick Schifrin:**\n    Did it work? I mean, did those stories end up in the U.S. press?\n*   **Adam Ellick:**\n    They worked, in the sense that they were toxic, and they were successful in that they sowed chaos.\n    And even some of the cases, like the AIDS one that we examined, there are millions of Americans who still believe in that hoax today.\n*   **Nick Schifrin:**\n    Another conspiracy is, JFK was killed by the CIA, also created by…\n    (CROSSTALK)\n*   **Adam Ellick:**\n    Soviet origin.\n*   **Nick Schifrin:**\n    Let's talk about the responses to that, because for a long time, the U.S. didn't know what to do. And then President Reagan came along, right?\n*   **Adam Ellick:**\n    Yes, President Reagan change the policy when it came disinformation.\n    Before Reagan, the thinking went that, if you respond to a fake news story, you dignify it. And that's actually something we have heard a lot in the past few years. But Reagan came in and started throwing punches right away.\n    And his policy was basically, we're going to take this on, and we're going to expose it. And he started a team in the State Department called the Active Measures Working Group.\n*   **Nick Schifrin:**\n    Active measure being the term that the Soviets used to describe their own campaign.\n*   **Adam Ellick:**\n    Exactly, their disinformation campaigns.\n    And this was basically a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi ...",
+                "htmlTitle": "<b>Disinformation</b> squared: was the <b>HIV</b>-from-Fort-Detrick myth a Stasi ...",
+                "link": "https://pubmed.ncbi.nlm.nih.gov/24697634/",
+                "displayLink": "pubmed.ncbi.nlm.nih.gov",
+                "snippet": "Abstract. Background: When in May 1983 the acquired immunodeficiency syndrome (AIDS) was first securely attributed to a virus, eventually called the human ...",
+                "htmlSnippet": "Abstract. Background: When in May 1983 the acquired immunodeficiency syndrome (<b>AIDS</b>) was first securely attributed to a <b>virus</b>, eventually called the human&nbsp;...",
+                "formattedUrl": "https://pubmed.ncbi.nlm.nih.gov/24697634/",
+                "htmlFormattedUrl": "https://pubmed.ncbi.nlm.nih.gov/24697634/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "citation_publication_date": "2013",
+                            "theme-color": "#20558a",
+                            "twitter:card": "summary_large_image",
+                            "citation_title": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi success?",
+                            "citation_author_institution": "Max Delbrück Center for Molecular Medicine, Robert-Rössle-Strasse 10, 13125, Berlin-Buch, Germany, egeissler@mdc-berlin.de.",
+                            "og:site_name": "PubMed",
+                            "twitter:url": "https://pubmed.ncbi.nlm.nih.gov/24697634/",
+                            "citation_publisher": "Politics Life Sci",
+                            "citation_journal_title": "Politics and the life sciences : the journal of the Association for Politics and the Life Sciences",
+                            "ncbi_pdid": "abstract",
+                            "ncbi_phid": "D95700019FAFF2C500001E22B3648207.1.m_2",
+                            "og:description": "No, the HIV-from-Fort-Detrick myth was not a Stasi success. Impressions to the contrary can be attributed to reliance on presumptions, boasts, and inventions. Presumptions conceding to the Stasi an extraordinary operational efficiency and an irresistible competence - qualities we could not confirm i …",
+                            "ncbi_cost_center": "pubmed",
+                            "og:image:secure_url": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "twitter:image": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg",
+                            "uid": "24697634",
+                            "ncbi_db": "pubmed",
+                            "citation_issn": "1471-5457",
+                            "ncbi_pinger_stat_url": "https://www.ncbi.nlm.nih.gov/stat",
+                            "log_category": "literature",
+                            "citation_language": "English",
+                            "ncbi_pinger_gtm_track": "true",
+                            "citation_lastpage": "99",
+                            "og:type": "website",
+                            "twitter:title": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi success? - PubMed",
+                            "citation_pmid": "24697634",
+                            "handheldfriendly": "True",
+                            "twitter:domain": "pubmed.ncbi.nlm.nih.gov",
+                            "citation_journal_abbrev": "Politics Life Sci",
+                            "ncbi_app": "pubmed",
+                            "log_icons_present": "true",
+                            "og:title": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi success? - PubMed",
+                            "citation_abstract": "<h3>Background</h3><p>When in May 1983 the acquired immunodeficiency syndrome (AIDS) was first securely attributed to a virus, eventually called the human immunodeficiency virus (HIV), many controversies arose. Among these was one centering on HIV's origin. A startling hypothesis, called here the \"HIV-from-Fort-Detrick myth,\" asserted that HIV had been a product, accidental or intentional, of bioweaponry research. While its earliest identifiable contributors were in the West, this myth's most dynamic propagators were in the East. The Soviet security service, the KGB, took \"active measures\" to create and disseminate AIDS disinformation beginning no later than July 1983 and ending no earlier than October 1987. The East German security service, a complex bureaucracy popularly known as \"the Stasi,\" was involved, too, but how early, how deeply, how uniformly, how ably, and how successfully has not been clear. Following German reunification, claims arose attributing to the Stasi the masterful execution of ingenious",
+                            "citation_author": "Erhard Geissler",
+                            "log_op": "retrieve",
+                            "citation_issue": "2",
+                            "referrer": "origin-when-cross-origin",
+                            "log_source_db": "pubmed",
+                            "citation_firstpage": "2",
+                            "log_displayeduids": "24697634",
+                            "ncbi_uid": "24697634",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "No, the HIV-from-Fort-Detrick myth was not a Stasi success. Impressions to the contrary can be attributed to reliance on presumptions, boasts, and inventions. Presumptions conceding to the Stasi an extraordinary operational efficiency and an irresistible competence - qualities we could not confirm i …",
+                            "citation_doi": "10.2990/32_2_2",
+                            "mobileoptimized": "320",
+                            "citation_volume": "32",
+                            "og:url": "https://pubmed.ncbi.nlm.nih.gov/24697634/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Disinformation squared: was the HIV-from-Fort-Detrick myth a Stasi success?\n---------------------------------------------------------------------------\nErhard Geissler et al. Politics Life Sci. 2013 Fall.\nAbstract\n--------\n**Background:** When in May 1983 the acquired immunodeficiency syndrome (AIDS) was first securely attributed to a virus, eventually called the human immunodeficiency virus (HIV), many controversies arose. Among these was one centering on HIV's origin. A startling hypothesis, called here the \"HIV-from-Fort-Detrick myth,\" asserted that HIV had been a product, accidental or intentional, of bioweaponry research. While its earliest identifiable contributors were in the West, this myth's most dynamic propagators were in the East. The Soviet security service, the KGB, took \"active measures\" to create and disseminate AIDS disinformation beginning no later than July 1983 and ending no earlier than October 1987. The East German security service, a complex bureaucracy popularly known as \"the Stasi,\" was involved, too, but how early, how deeply, how uniformly, how ably, and how successfully has not been clear. Following German reunification, claims arose attributing to the Stasi the masterful execution of ingenious elements in a disinformation campaign they helped shape and soon came to dominate. We have tested these claims.\n**Question:** Was the HIV-from-Fort-Detrick myth a Stasi success?\n**Methods:** Primary sources were documents and photographs assembled by the Ministry of State Security (MfS) of the German Democratic Republic (G...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "CIA 'looking into' allegations connected to COVID-19 origins - ABC ...",
+                "htmlTitle": "<b>CIA</b> &#39;looking into&#39; allegations connected to COVID-19 <b>origins</b> - ABC ...",
+                "link": "https://abcnews.go.com/US/cia-allegations-connected-covid-19-origins/story?id=103162133",
+                "displayLink": "abcnews.go.com",
+                "snippet": "Sep 13, 2023 ... Hush money in COVID origin probe? The CIA says it's looking into accusations that several of its members, tasked with pandemic analys...",
+                "htmlSnippet": "Sep 13, 2023 <b>...</b> Hush money in COVID <b>origin</b> probe? The <b>CIA</b> says it&#39;s looking into accusations that several of its members, tasked with pandemic analys...",
+                "formattedUrl": "https://abcnews.go.com/US/cia-allegations-connected...19-origins/story?...",
+                "htmlFormattedUrl": "https://abcnews.go.com/US/<b>cia</b>-allegations-connected...19-<b>origins</b>/story?...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSepj8ZjgV6AeEnGD0onbnSpe1anr43-PaPkkPyHtbSQgwS6X9jAOOa1zo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.abcnewsfe.com/a/20033bcf-f38a-41ba-bc78-fa81cc8ac401/cia-seal-gty-jt-230913_1694633428916_hpMain_16x9.jpg?w=1600",
+                            "twitter:app:url:iphone": "abcnewsiphone://link/prism-story,103162133",
+                            "twitter:app:id:googleplay": "com.abc.abcnews",
+                            "copyright": "2024 ABC News",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ABC News",
+                            "twitter:url": "https://abcnews.go.com/US/cia-allegations-connected-covid-19-origins/story?id=103162133",
+                            "twitter:app:url:ipad": "abcnewsipad://link/prism-story,103162133",
+                            "twitter:image:height": "360",
+                            "al:ipad:app_store_id": "380520716",
+                            "twitter:app:name:googleplay": "ABC News",
+                            "twitter:app:id:iphone": "300255638",
+                            "og:description": "The CIA confirms they are \"looking into\" accusations that several members of an agency team tasked with COVID-19 pandemic analysis were paid off \"significant\" hush money.",
+                            "twitter:creator": "ABC News",
+                            "twitter:image": "https://i.abcnewsfe.com/a/20033bcf-f38a-41ba-bc78-fa81cc8ac401/cia-seal-gty-jt-230913_1694633428916_hpMain_16x9.jpg?w=1600",
+                            "lastpublisheddate": "2023-09-14T10:28:23Z",
+                            "al:iphone:app_name": "ABC News - Breaking US & World News",
+                            "twitter:site": "@ABC",
+                            "twitter:image:width": "640",
+                            "fb:admins": "704409894",
+                            "article:content_tier": "free",
+                            "fb_title": "CIA 'looking into' allegations connected to COVID-19 origins",
+                            "og:type": "article",
+                            "twitter:title": "CIA 'looking into' allegations connected to COVID-19 origins",
+                            "author": "ABC News",
+                            "og:title": "CIA 'looking into' allegations connected to COVID-19 origins",
+                            "twitter:app:id:ipad": "306934135",
+                            "fb:pages": "86680728811",
+                            "al:iphone:url": "abcnewsiphone://link/prism-story,103162133",
+                            "fb:app_id": "4942312939",
+                            "twitter:app:url:googleplay": "https://abcnews.go.com/US/cia-allegations-connected-covid-19-origins/story?id=103162133",
+                            "al:ipad:url": "abcnewsipad://link/prism-story,103162133",
+                            "twitter:app:name:ipad": "ABC News",
+                            "viewport": "initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "The CIA confirms they are \"looking into\" accusations that several members of an agency team tasked with COVID-19 pandemic analysis were paid off \"significant\" hush money.",
+                            "al:iphone:app_store_id": "300255638",
+                            "og:locale": "en_US",
+                            "og:url": "https://abcnews.go.com/US/cia-allegations-connected-covid-19-origins/story?id=103162133",
+                            "twitter:app:name:iphone": "ABC News",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://i.abcnewsfe.com/a/20033bcf-f38a-41ba-bc78-fa81cc8ac401/cia-seal-gty-jt-230913_1694633428916_hpMain_16x9.jpg?w=1600"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\"We do not pay analysts to reach specific conclusions,\" a CIA spokesperson said.\nThe Central Intelligence Agency (CIA) confirms to ABC News it is \"looking into\" accusations that several members of an agency team tasked with COVID-19 pandemic analysis were paid off \"significant\" hush money in order to buy a shift in their position about where the virus came from -- but the agency emphasized it does not pay its analysts to reach particular conclusions.\n\"At [the] CIA we are committed to the highest standards of analytic rigor, integrity and objectivity. We do not pay analysts to reach specific conclusions,\" CIA spokesperson Tammy Kupperman Thorp said in a statement to ABC News. \"We take these allegations extremely seriously and are looking into them. We will keep our Congressional oversight committees appropriately informed.\"\nThe CIA's comment and review come in response to claims leveled in a new letter from two Republican House chairmen to CIA Director Bill Burns, sent Tuesday, which says there is a whistleblower within current, senior ranks of the agency, making these allegations.\nIt's the latest chapter in the yet-unresolved contentious debate over the origins of the COVID-19 pandemic -- and the latest in an ongoing effort by the GOP to find evidence suggesting that COVID's origins have been buried by a conspiratorial cover-up.\nIn their letter to Director Burns, chair of the Select Subcommittee on the Coronavirus Pandemic, Brad Wenstrup (R-OH), and chairman of the Permanent Select Committee on Intelligence Chairman, Mike Turner (R-OH), say a \"multi-decade, senior-level, current CIA officer\" had come forward alleging the payoff.\n\nTurner and Wenstrup's missive came as an apparent surprise to...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

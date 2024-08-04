@@ -1,0 +1,711 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Observable effects of hot water freezing in cold air",
+                "totalResults": "5910000",
+                "searchTerms": "Observable effects of hot water freezing in cold air",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Observable effects of hot water freezing in cold air",
+                "totalResults": "5910000",
+                "searchTerms": "Observable effects of hot water freezing in cold air",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.260531,
+        "formattedSearchTime": "0.26",
+        "totalResults": "5910000",
+        "formattedTotalResults": "5,910,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Does Hot Water Freeze Faster Than Cold? Physicists Keep Asking ...",
+                "htmlTitle": "Does <b>Hot Water Freeze</b> Faster Than <b>Cold</b>? Physicists Keep Asking ...",
+                "link": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/",
+                "displayLink": "www.quantamagazine.org",
+                "snippet": "Jun 29, 2022 ... Decades after a Tanzanian teenager initiated study of the \u201cMpemba effect,\u201d the effort to confirm or refute it is leading physicists toward\u00a0...",
+                "htmlSnippet": "Jun 29, 2022 <b>...</b> Decades after a Tanzanian teenager initiated study of the \u201cMpemba <b>effect</b>,\u201d the effort to confirm or refute it is leading physicists toward&nbsp;...",
+                "formattedUrl": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-ph...",
+                "htmlFormattedUrl": "https://www.quantamagazine.org/does-<b>hot</b>-<b>water</b>-freeze-faster-than-<b>cold</b>-ph...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6GAzYFuX87_ueExZymTVqnP6mZjfWKWPcSqStr3Vw9s8dl3ohc_4oMw&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MPEMBA_1200_Social.jpg",
+                            "og:type": "article",
+                            "article:published_time": "2022-06-29T14:50+00:00",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Controversy Continues Over Whether Hot Water Freezes Faster Than Cold",
+                            "og:site_name": "Quanta Magazine",
+                            "og:title": "Controversy Continues Over Whether Hot Water Freezes Faster Than Cold",
+                            "og:updated_time": "2022-06-29T14:52+00:00",
+                            "og:description": "Decades after a Tanzanian teenager initiated study of the \u201cMpemba effect,\u201d the effort to confirm or refute it is leading physicists toward new theories about how substances relax to equilibrium.",
+                            "article:publisher": "https://www.facebook.com/QuantaNews",
+                            "twitter:image": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MPEMBA_1200_Social.jpg",
+                            "fb:app_id": "533309373681765",
+                            "twitter:site": "@QuantaMagazine",
+                            "article:modified_time": "2022-06-29T14:52+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Decades after a Tanzanian teenager initiated study of the \u201cMpemba effect,\u201d the effort to confirm or refute it is leading physicists toward new theories about how substances relax to equilibrium.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.quantamagazine.org/does-hot-water-freeze-faster-than-cold-physicists-keep-asking-20220629/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/06/MPEMBA_1200_Social.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "June 29, 2022\nWhether hot or cold water freezes faster remains unknown.\nFrancis Chee / SPL / Science Source\nContributing Writer\nJune 29, 2022\nIt sounds like one of the easiest experiments possible: Take two cups of water, one hot, one cold. Place both in a freezer and note which one freezes first. Common sense suggests that the colder water will. But luminaries including Aristotle, Rene Descartes and Sir Francis Bacon have all observed that hot water may actually cool more quickly. Likewise, plumbers report hot water pipes bursting in subzero weather while cold ones remain intact. Yet for more than half a century, physicists have been arguing about whether something like this really occurs.\nThe modern term for hot water freezing faster than cold water is the Mpemba effect, named after Erasto Mpemba, a Tanzanian teenager who, along with the physicist Denis Osborne, conducted the first systematic, scientific studies of it in the 1960s. While they were able to observe the effect, follow-up experiments have failed to consistently replicate that result. Precision experiments to investigate freezing can be influenced by many subtle details, and researchers often have trouble determining if they have accounted for all confounding variables.\nOver the past few years, as the controversy continues about whether the Mpemba effect occurs in water, the phenomenon has been spotted in other substances \u2014 crystalline polymers, icelike solids called clathrate hydrates, and manganite minerals cooling in a magnetic field. These new directions are helping researchers peek into the complicated dynamics of systems that are out of thermodynamic equilibrium. A contingent of physicists modeling out-of-equilibrium systems has predicted the Mpemba effect should occur in a wide variety of materials (along with its inverse, in which a cold substance heats up faster than a warm one). Recent experiments appear to confirm these ideas.\nYet the most familiar substance of all, water, is proving to be the slipperiest.\n\u201cA glass of water stuck in a freezer seems simple,\u201d said\u00a0John Bechhoefer, a physicist at Simon Fraser University in Canada whose recent experiments are...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Quanta Magazine is known for its in-depth coverage of science and mathematics topics. It is widely regarded for accuracy and the quality of its writing, often featuring contributions from scientists and experts in the field. They prioritize factual information and are reliable for scientific phenomena, making them a strong source for understanding complex topics like the transformation of water in extreme cold."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2022-06-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the Mpemba effect and mentions that hot water may freeze faster than cold under certain conditions. However, it provides minimal direct relation to observable effects occurring in the specific video being analyzed, which focuses on the visible transformation of hot water into ice or snow when thrown in extremely cold conditions."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Throwing Boiling Water into Freezing Air | Iowa Science Phenomena",
+                "htmlTitle": "Throwing <b>Boiling Water</b> into <b>Freezing Air</b> | Iowa Science Phenomena",
+                "link": "http://phenomena.iowapbs.org/item/throwing-boiling-water-freezing-air",
+                "displayLink": "phenomena.iowapbs.org",
+                "snippet": "As water reaches its boiling point, the molecules move faster and faster, on the verge of its evaporation point. Hot water evaporates faster than cold water\u00a0...",
+                "htmlSnippet": "As water reaches its boiling point, the molecules move faster and faster, on the verge of its evaporation point. <b>Hot water</b> evaporates faster than <b>cold</b> water&nbsp;...",
+                "formattedUrl": "http://phenomena.iowapbs.org/item/throwing-boiling-water-freezing-air",
+                "htmlFormattedUrl": "http://phenomena.iowapbs.org/item/throwing-boiling-<b>water</b>-<b>freezing</b>-<b>air</b>",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThHv11nVvnMqGKmYGBUTe0IiyK1JYYaS3QQSh8iXJRmD_e_P4fQsVUIzJh&s",
+                            "width": "353",
+                            "height": "143"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://phenomena.iowapbs.org/sites/default/files/header/education-isp-logo-h.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nBoiling water and then tossing it into air temperatures of -14 degrees Fahrenheit or lower will cause the water to turn from a liquid to a gas. In the picture above, water was boiled in a pot and taken directly outside to be thrown into the -22 degrees Fahrenheit air. As water reaches its boiling point, the molecules move faster and faster, on the verge of its evaporation point. Hot water evaporates faster than cold water because the molecules in cold water are not moving near as quickly. When you try this same experiment with cold water, it will not have the same effect. Hot water freezes faster than cold water, which is known as the Mpemba effect.\nStudents could:\nHow Does Boiling Water Turn Into Snow? | Science ABC:\u00a0This resource explains why the phenomenon occurs and also the conditions needed for it to occur.\u00a0\nFrozen Bubbles, Instant Ice, and Other Winter Weather Stunts | National Geographic:\u00a0This resource explains how boiling water can turn to vapor and then into ice when you throw it into freezing temperature. It also talks about frozen soap bubbles.\nDoes Hot Water Freeze Faster than Cold Water? | Education.com:\u00a0This resource provides a science project to determine if the temperature of the water affects how quickly it freezes. It also explains why this happens.\nPlan and conduct an investigation to describe and classify different kinds of materials by their observable properties\nPhenomena submitted by Allison Postma and Karli Olsen.",
+                    "content_tokens": 293
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "Phenomena from Iowa PBS focuses on science education and dissemination. Its platform provides trustworthy scientific content that is designed for a general audience. While it may not be as extensive as major scientific publications, its commitment to quality and educational value lends it a high credibility. It is particularly useful for checking basic scientific claims."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence explains what happens when boiling water is thrown into very cold air, specifically noting that the water turns to vapor and quickly freezes into snow-like particles. This directly corroborates the visual transformation observed in the video, making it highly relevant to the question."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "The Mpemba Effect: Does Hot Water Really Freeze Faster Than ...",
+                "htmlTitle": "The Mpemba <b>Effect</b>: Does <b>Hot Water</b> Really <b>Freeze</b> Faster Than ...",
+                "link": "https://science.howstuffworks.com/dictionary/physics-terms/mpemba-effect.htm",
+                "displayLink": "science.howstuffworks.com",
+                "snippet": "Mar 12, 2024 ... Under the right conditions, hot water can somehow freeze faster than cold water. It's called the Mpemba effect. We'll explain how it\u00a0...",
+                "htmlSnippet": "Mar 12, 2024 <b>...</b> Under the right conditions, <b>hot water</b> can somehow <b>freeze</b> faster than <b>cold</b> water. It&#39;s called the Mpemba <b>effect</b>. We&#39;ll explain how it&nbsp;...",
+                "formattedUrl": "https://science.howstuffworks.com/dictionary/physics.../mpemba-effect.htm",
+                "htmlFormattedUrl": "https://science.howstuffworks.com/dictionary/physics.../mpemba-effect.htm",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekMYdbGJlqZAc9deuTgtxKOFHiV3nXLrU7OeqDG8vYcCFvzM2SrTr70z2&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "question": [
+                        {
+                            "name": "What practical applications might the Mpemba effect have?"
+                        },
+                        {
+                            "name": "Why isn't the Mpemba effect consistently reproducible?"
+                        }
+                    ],
+                    "answer": [
+                        {
+                            "text": "Practical applications of the Mpemba effect could include more efficient cooling processes in industrial settings or optimizing freezing methods in food preservation and cryogenics."
+                        },
+                        {
+                            "text": "The inconsistency in reproducing the Mpemba effect could be due to differences in water purity and container characteristics."
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "template": "Article",
+                            "og:image": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL21wZW1iYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIxMjAwIn19fQ==",
+                            "can-recommend": "true",
+                            "og:type": "article",
+                            "article:published_time": "1970-01-01T00:00:00-05:00",
+                            "theme-color": "#151538",
+                            "og:site_name": "HowStuffWorks",
+                            "google-adsense-account": "sites-9053884276298326",
+                            "og:title": "The Mpemba Effect: Does Hot Water Really Freeze Faster Than Cold Water?",
+                            "og:description": "Under the right conditions, hot water can somehow freeze faster than cold water. It's called the Mpemba effect. We'll explain how it happens.",
+                            "fb:pages": "20767777944",
+                            "twitter:dnt": "on",
+                            "article:publisher": "https://www.howstuffworks.com",
+                            "article:author": "https://www.howstuffworks.com/about-author.htm",
+                            "fb:app_id": "899104866837181",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "fb:admins": "100001675325868",
+                            "og:url": "https://science.howstuffworks.com/dictionary/physics-terms/mpemba-effect.htm"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL21wZW1iYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiIxMjAwIn19fQ=="
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "HowStuffWorks",
+                            "name": "HowStuffWorks",
+                            "position": "1"
+                        },
+                        {
+                            "item": "Science",
+                            "name": "Science",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Dictionary",
+                            "name": "Dictionary",
+                            "position": "3"
+                        },
+                        {
+                            "item": "Physics Terms",
+                            "name": "Physics Terms",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nThrow a pot of boiling water up in the air during the winter and you will get a beautiful result, as long as it's cold enough. It's called the Mpemba effect. makieni/Shutterstock\n###### Key Takeaways\n*   The Mpemba effect suggests hot water can freeze faster than cold water under certain conditions, a phenomenon first observed by Aristotle.\n*   Erasto B. Mpemba, a Tanzanian student, rediscovered this effect in 1963 while making ice cream, providing the first documented instance that led to further scientific investigation.\n*   Although still debated among scientists, recent studies suggest the Mpemba effect may occur due to differences in how hot and cold water reach thermal equilibrium.\nFor centuries, observant scientists from Aristotle to Descartes have harbored a suspicion that \u2014 contrary to all conventional wisdom \u2014 hot water can somehow  faster than cold water. But there was no scientific consensus that this conjecture was actually true.\nIn 1963, a Tanzanian physics student named Erasto B. Mpemba (pronounced em-**pem**\\-ba) rekindled the idea via a fluke accident that occurred when he was making ice cream at his school. He seemed to prove what Aristotle and Descartes had suspected: Hot water reaches a  faster than cold water does. He wrote about his observations in a , titled simply \"Cool?\" which gave rise to the term \"Mpemba effect.\" But was Erasto Mpemba correct? Does hot water really freeze faster than cold water?\n**Contents**\n1.  \n2.  \n3...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "HowStuffWorks provides well-researched articles that break down complex topics into understandable formats. They rely on expert sources and are generally reliable for factual content, including science-related claims. While not peer-reviewed, their information is consistently clear and fact-based, making it a good resource for validating claims."
+                },
+                "Newness": {
+                    "NewnessScore": 6,
+                    "Date": "2024-03-12"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence discusses the Mpemba effect and the observed phenomena when throwing boiling water in freezing conditions. It touches on the conditions that allow hot water to freeze faster than cold and mentions resulting snow, making it somewhat relevant but less specific than Evidence 1."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Questioning the Mpemba effect: hot water does not cool more ...",
+                "htmlTitle": "Questioning the Mpemba <b>effect</b>: <b>hot water</b> does not <b>cool</b> more ...",
+                "link": "https://www.nature.com/articles/srep37665",
+                "displayLink": "www.nature.com",
+                "snippet": "Nov 24, 2016 ... Observations of hot water freezing in less time than cold water date back to classical science. Aristotle noted that the ancient Greeks of\u00a0...",
+                "htmlSnippet": "Nov 24, 2016 <b>...</b> Observations of <b>hot water freezing</b> in less time than <b>cold</b> water date back to classical science. Aristotle noted that the ancient Greeks of&nbsp;...",
+                "formattedUrl": "https://www.nature.com/articles/srep37665",
+                "htmlFormattedUrl": "https://www.nature.com/articles/srep37665",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmRzmEHvoWk9eT5eBWyZtqZJEP1Ri_C3I3ujTrR1m2nhWmoRBq2d4nS_Q&s",
+                            "width": "261",
+                            "height": "193"
+                        }
+                    ],
+                    "periodical": [
+                        {
+                            "publisher": "Springer Nature",
+                            "onlineissn": "2045-2322"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "dc.publisher": "Nature Publishing Group",
+                            "citation_journal_title": "Scientific Reports",
+                            "dc.rights": "2016 The Author(s)",
+                            "prism.publicationdate": "2016-11-24",
+                            "prism.issn": "2045-2322",
+                            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+                            "prism.number": "1",
+                            "citation_issn": "2045-2322",
+                            "citation_language": "en",
+                            "citation_pdf_url": "https://www.nature.com/articles/srep37665.pdf",
+                            "citation_lastpage": "11",
+                            "application-name": "Nature",
+                            "prism.publicationname": "Scientific Reports",
+                            "citation_journal_abbrev": "Sci Rep",
+                            "dc.date": "2016-11-24",
+                            "citation_issue": "1",
+                            "prism.volume": "6",
+                            "size": "122147",
+                            "citation_doi": "10.1038/srep37665",
+                            "dc.title": "Questioning the Mpemba effect: hot water does not cool more quickly than cold",
+                            "prism.url": "https://www.nature.com/articles/srep37665",
+                            "citation_volume": "6",
+                            "dc.language": "En",
+                            "doi": "10.1038/srep37665",
+                            "msapplication-config": "/static/browserconfig.xml",
+                            "prism.startingpage": "1",
+                            "theme-color": "#000000",
+                            "citation_title": "Questioning the Mpemba effect: hot water does not cool more quickly than cold",
+                            "access": "Yes",
+                            "citation_publisher": "Nature Publishing Group",
+                            "applicable-device": "pc,mobile",
+                            "dc.format": "text/html",
+                            "prism.rightsagent": "journalpermissions@springernature.com",
+                            "citation_online_date": "2016/11/24",
+                            "dc.source": "Scientific Reports 2016 6:1",
+                            "dc.type": "OriginalPaper",
+                            "dc.rightsagent": "journalpermissions@springernature.com",
+                            "dc.copyright": "2016 The Author(s)",
+                            "citation_fulltext_html_url": "https://www.nature.com/articles/srep37665",
+                            "msapplication-tilecolor": "#000000",
+                            "journal_id": "41598",
+                            "dc.description": "The Mpemba effect is the name given to the assertion that it is quicker to cool water to a given temperature when the initial temperature is higher. This assertion seems counter-intuitive and yet references to the effect go back at least to the writings of Aristotle. Indeed, at first thought one might consider the effect to breach fundamental thermodynamic laws, but we show that this is not the case. We go on to examine the available evidence for the Mpemba effect and carry out our own experiments by cooling water in carefully controlled conditions. We conclude, somewhat sadly, that there is no evidence to support meaningful observations of the Mpemba effect.",
+                            "citation_article_type": "Article",
+                            "prism.doi": "doi:10.1038/srep37665",
+                            "prism.endingpage": "11",
+                            "citation_firstpage": "1",
+                            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+                            "prism.section": "OriginalPaper",
+                            "dc.identifier": "doi:10.1038/srep37665",
+                            "prism.copyright": "2016 The Author(s)"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep37665/MediaObjects/41598_2016_Article_BFsrep37665_Fig3_HTML.jpg"
+                        }
+                    ],
+                    "scholarlyarticle": [
+                        {
+                            "name": "Landau theory for the Mpemba effect through phase transitions",
+                            "headline": "Landau theory for the Mpemba effect through phase transitions",
+                            "url": "Landau theory for the Mpemba effect through phase transitions"
+                        },
+                        {
+                            "name": "Heating and cooling are fundamentally asymmetric and evolve along distinct pathways",
+                            "headline": "Heating and cooling are fundamentally asymmetric and evolve along distinct pathways",
+                            "url": "Heating and cooling are fundamentally asymmetric and evolve along distinct pathways"
+                        },
+                        {
+                            "name": "Increasing trends in regional heatwaves",
+                            "headline": "Increasing trends in regional heatwaves",
+                            "url": "Increasing trends in regional heatwaves"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "nature",
+                            "name": "nature",
+                            "position": "1"
+                        },
+                        {
+                            "item": "scientific reports",
+                            "name": "scientific reports",
+                            "position": "2"
+                        },
+                        {
+                            "item": "articles",
+                            "name": "articles",
+                            "position": "3"
+                        },
+                        {
+                            "name": "article",
+                            "position": "4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... and do indeed vary with temperature. Such findings therefore offer a route to explaining the Mpemba effect only if they result in a meaningful hysteresis in the thermal or fluid properties of water. A model exhibiting a hysteresis in the cooling of water is presented by ref. 5 which is compared to an observation of the Mpemba effect documented as part of a popular science competition organised by the RSC7 \u2014 we include the experimental observations by ref. 7 within the data analysed in the present study. It is our aim to present an investigation of the history behind the Mpemba effect, examine the scientific evidence for it, consider the underlying physical mechanisms for the effect and determine whether the effect actually exists in any meaningful manner.\nThere is no clear universally accepted scientific definition of the \u2018Mpemba effect\u2019. Mpemba & Osborne8 document the time for freezing to commence while others include the freezing process (for example see ref. 9). This lack of clarity is reflected by the level of discrepancies in the literature, which offers a number of different explanations. Broadly speaking, when two samples of water are cooled to the same temperature, in the same manner with the two samples being identical except for their initial temperature, and the initially hotter sample cools in less time, one can consider the Mpemba effect to have been observed. The temperature at which cooling times are compared has often been chosen to be 0\u2009\u00b0C (or below) making careful measurements more difficult because of the phase change that occurs as water freezes.\nObservations of hot water freezing in less time than cold water date back to classical science. Aristotle10 noted that the ancient Greeks of Pontus exploited the effects when they encamped on the ice to fish, and similar observations have been repeated by Bacon11 and Descartes12. More modern awareness of this apparent anomaly range from the accidental experiments of the Tanzanian school boy, Mpemba (after whom the phenomenon is popularly known8), to the competition calling for explanations of the phenomenon by the RSC.\nThe Mpemba effect is an oft cited scientific anomaly and has been widely used in high-school and undergraduate physics projects13,14. The effect may appear anomalous since on first consideration one might regard the first law of thermodynamics to be breached. An interpretation of the first law is that the change in the internal energy of a closed system is equal to the amount of heat supplied (accounting for any work done on or by the system). Thus, in the absence of work, for a constant heat...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 10,
+                    "justification": "Nature is one of the leading scientific journals globally, known for rigorous peer-reviewed research. Its articles are authoritative and uphold high standards of scientific credibility. It is an excellent source for verifying scientific claims, particularly in the disciplines of science and technology, thus receiving a top score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-11-24"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence provides historical context on observations of hot water freezing but lacks direct observations or specifics about the video scenario. It indicates there is complexity around the Mpemba effect's reproducibility but does not offer concrete observable effects related to the video's content."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Mpemba effect - Wikipedia",
+                "htmlTitle": "Mpemba <b>effect</b> - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Mpemba_effect",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "The Mpemba effect is the name given to the observation that a liquid (typically water) which is initially hot can freeze faster than the same liquid which\u00a0...",
+                "htmlSnippet": "The Mpemba <b>effect</b> is the name given to the observation that a <b>liquid</b> (typically <b>water</b>) which is initially <b>hot</b> can <b>freeze</b> faster than the same <b>liquid</b> which&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Mpemba_effect",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Mpemba_effect",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Mpemba_Effect_temperatures_plot.png",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Mpemba effect - Wikipedia",
+                            "og:image:height": "723",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "From Wikipedia, the free encyclopedia\n]\nTemperature vs time plots, showing the Mpemba Effect.\nThe **Mpemba effect** is the name given to the  that a  (typically ) which is initially hot can  faster than the same liquid which begins cold, under otherwise similar conditions. There is disagreement about its theoretical basis and the parameters required to produce the effect.]]\nThe Mpemba effect is named after Tanzanian scientist , who described it in 1963 as a  student. The initial discovery and observations of the effect originate in ancient times;  said that it was common knowledge.]\nThe phenomenon, when taken to mean \"hot water freezes faster than cold\", is difficult to reproduce or confirm because it is ill-defined.] Monwhea Jeng proposed a more precise wording: \"There exists a set of initial parameters, and a pair of temperatures, such that given two bodies of water identical in these parameters, and differing only in initial uniform temperatures, the hot one will freeze sooner.\"]\nEven with Jeng's definition, it is not clear whether \"freezing\" refers to the point at which water forms a visible surface layer of ice, the point at which the entire volume of water becomes a solid block of ice, or when the water reaches 0\u00a0\u00b0C (32\u00a0\u00b0F; 273\u00a0K).] Jeng's definition suggests simple ways in which the effect might be observed, such as if a warmer temperature melts the frost on a cooling surface, thereby increasing thermal conductivity between the cooling surface and the water...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Wikipedia is a widely used resource that features a vast array of topics. While many entries are well-cited and accurate, its open-editing nature means that incorrect information can be temporarily present. However, the presence of citations and the collaborative editing process can also lead to high-quality articles. It's useful for preliminary research but should not be the sole source for fact-checking."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While this evidence acknowledges that hot water can freeze faster, it is more focused on the theoretical basis behind the Mpemba effect rather than actual observable effects, thus having moderate relevance."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "The Mpemba effect: When hot water freezes faster than cold ...",
+                "htmlTitle": "The Mpemba <b>effect</b>: When <b>hot water freezes</b> faster than <b>cold</b> ...",
+                "link": "https://english.elpais.com/science-tech/2023-03-25/the-mpemba-effect-when-hot-water-freezes-faster-than-cold.html",
+                "displayLink": "english.elpais.com",
+                "snippet": "Mar 25, 2023 ... This phenomenon, which can be observed in a recent social media trend, remains a mystery to science.",
+                "htmlSnippet": "Mar 25, 2023 <b>...</b> This phenomenon, which can be <b>observed</b> in a recent social media trend, remains a mystery to science.",
+                "formattedUrl": "https://english.elpais.com/.../the-mpemba-effect-when-hot-water-freezes-fas...",
+                "htmlFormattedUrl": "https://english.elpais.com/.../the-mpemba-effect-when-<b>hot</b>-<b>water</b>-freezes-fas...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPioaqmupQr6u5oBmfmYx4NKPXRH-ApmQkomTlFOZcBZ5WhFSTKSNqp6eM&s",
+                            "width": "270",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "2023-03-25T12:59:27+01:00",
+                            "og:image": "https://imagenes.elpais.com/resizer/v2/Y2GTXCREHVCDTAHL4VXECRTZME.jpg?auth=14252c9e71e3c5cd1a3f2cb9810b962d678a1ebcbe9e06364cf48cd4b21e44b0&width=1200",
+                            "article:published_time": "2023-03-25T12:59:27+01:00",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "EL PA\u00cdS English",
+                            "og:description": "This phenomenon, which can be observed in a recent social media trend, remains a mystery to science",
+                            "article:publisher": "https://www.facebook.com/elpaisinenglish/",
+                            "twitter:site": "@elpaisinenglish",
+                            "article:modified_time": "2023-03-25T12:59:27+01:00",
+                            "lang": "en-us",
+                            "og:article:author": "Siddhant Govardhan Agrawal",
+                            "og:type": "article",
+                            "article:section": "Science & Tech",
+                            "twitter:title": "The Mpemba effect: When hot water freezes faster than cold",
+                            "author": "Siddhant Govardhan Agrawal",
+                            "og:title": "The Mpemba effect: When hot water freezes faster than cold",
+                            "og:image:height": "831",
+                            "og:article:publisher": "EL PA\u00cdS in English",
+                            "og:updated_time": "2023-03-25T12:59:27+01:00",
+                            "fb:pages": "279465748829565",
+                            "dc.date.issued": "2023-03-25T12:59:27+01:00",
+                            "fb:app_id": "94039431626",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "organization": "Ediciones EL PA\u00cdS S.L.",
+                            "og:url": "https://english.elpais.com/science-tech/2023-03-25/the-mpemba-effect-when-hot-water-freezes-faster-than-cold.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://imagenes.elpais.com/resizer/v2/Y2GTXCREHVCDTAHL4VXECRTZME.jpg?auth=14252c9e71e3c5cd1a3f2cb9810b962d678a1ebcbe9e06364cf48cd4b21e44b0&width=1200"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The Mpemba effect: When hot water freezes faster than cold | Science | EL PA\u00cdS English\n===============\n\\_\n\\_\n\\_\n\\_\nSelect:\n*   \\- - -\n*   \n*   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n]\nHHOLA\nThe Mpemba effect: When hot water freezes faster than cold\n==========================================================\nThis phenomenon, which can be observed in a recent social media trend, remains a mystery to science\n---------------------------------------------------------------------------------------------------\n!\nThe Mpemba effect describes how hot water freezes faster than cold water.\nSiddhant Govardhan Agrawal\n(whatsapp://send?text=The%20Mpemba%20effect%3A%20When%20hot%20water%20freezes%20faster%20than%20cold%20%0D%0A%0D%0Ahttps%3A%2F%2Fenglish.elpais.com%2Fscience-tech%2F2023-03-25%2Fthe-mpemba-effect-when-hot-water-freezes-faster-than-cold.html%3Fssm=whatsapp_CC)\nThe Mpemba effect is a phenomenon through which, under certain conditions, a hot liquid can freeze faster than a cold one. This counterintuitive fact has been known at least since , approximately 2,300 years ago; more recently, it was rediscovered by Erasto Mpemba, a Tanzanian high school student, who, together with physicist Denis Osborne, first investigated it in the 1960s. Their paper, published in Physics Education in 1969, was appropriately titled \u201cCool?\u201d A few months ago, a trend consisting of throwing boiling water into the air to see it quickly freeze and turn into snow went viral on social media.\n> Hot water freezes faster than cold water      \n> \n> \nThere has been some controversy regarding this phenomenon, as consistently replicating the result in the laboratory has proven difficult. The smallest details matter a great deal...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "El Pa\u00eds is a reputable international newspaper that covers a broad spectrum of news, including science and culture. While they provide well-researched articles, as a general media outlet, they can sometimes lack the depth of scientific articles found in dedicated journals. Nevertheless, their journalistic integrity and professional standards make them a reliable source for news and general claims."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-03-25"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence discusses the Mpemba effect in the context of throwing boiling water into the air and observing it freeze into snow quickly. It relates clearly to the phenomenon observed in the video and the general premise of whether hot water transforms into snow or ice, making it relevant."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "The-Mpemba-effect-When-can-hot-water-freeze-faster-than-cold.pdf",
+                "htmlTitle": "The-Mpemba-<b>effect</b>-When-can-<b>hot</b>-<b>water</b>-<b>freeze</b>-faster-than-<b>cold</b>.pdf",
+                "link": "https://scholar.archive.org/work/2vtty5ritfaobp2ve33xefbbtm/access/wayback/http://s438196459.mialojamiento.es/wp-content/uploads/2012/05/The-Mpemba-effect-When-can-hot-water-freeze-faster-than-cold.pdf",
+                "displayLink": "scholar.archive.org",
+                "snippet": "pour hot water on their rods because it freezes quicker, using the ice like solder to fix their rods.) And water that condenses in the air in warm districts and\u00a0...",
+                "htmlSnippet": "pour <b>hot water</b> on their rods because it <b>freezes</b> quicker, using the <b>ice</b> like solder to fix their rods.) And water that condenses in the <b>air</b> in warm districts and&nbsp;...",
+                "formattedUrl": "https://scholar.archive.org/.../The-Mpemba-effect-When-can-hot-water-free...",
+                "htmlFormattedUrl": "https://scholar.archive.org/.../The-Mpemba-effect-When-can-<b>hot</b>-<b>water</b>-free...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20121108122817+01'00'",
+                            "creationdate": "D:20110216210010-07'00'",
+                            "creator": "Adobe Acrobat Pro 9.4.2",
+                            "author": "mw22",
+                            "producer": "Adobe Acrobat Pro 9.4.2",
+                            "title": "Microsoft Word - Document1"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "Error fetching https://scholar.archive.org/work/2vtty5ritfaobp2ve33xefbbtm/access/wayback/http://s438196459.mialojamiento.es/wp-content/uploads/2012/05/The-Mpemba-effect-When-can-hot-water-freeze-faster-than-cold.pdf: 403 Client Error: Forbidden for url: https://r.jina.ai/https://scholar.archive.org/work/2vtty5ritfaobp2ve33xefbbtm/access/wayback/http://s438196459.mialojamiento.es/wp-content/uploads/2012/05/The-Mpemba-effect-When-can-hot-water-freeze-faster-than-cold.pdf",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Internet Archive provides access to a wide array of scholarly papers, articles, and books. It is a credible resource for scientific literature and historical accuracy, making it a valuable tool for deep research. It doesn\u2019t directly publish content but offers a reliable archive of scientific works."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This is a link to a paper and does not provide any relevant content regarding observable effects concerning hot water freezing in the context of the video. Therefore, it holds low relevance."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "If actual temp is above freezing, but windchill is below freezing, will ...",
+                "htmlTitle": "If actual temp is above <b>freezing</b>, but windchill is below <b>freezing</b>, will ...",
+                "link": "https://www.reddit.com/r/askscience/comments/p1uem/if_actual_temp_is_above_freezing_but_windchill_is/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jan 29, 2012 ... The answer is that yes, the wind can cause water to freeze in these conditions, but not directly because of windchill. Windchill only describes\u00a0...",
+                "htmlSnippet": "Jan 29, 2012 <b>...</b> The answer is that yes, the <b>wind</b> can cause <b>water</b> to <b>freeze</b> in these conditions, but not directly because of windchill. Windchill only describes&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../if_actual_temp_is_above_freezing_but_windchil...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../if_actual_temp_is_above_<b>freezing</b>_but_windchil...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/p1uem",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/askscience on Reddit: If actual temp is above freezing, but windchill is below freezing, will water freeze?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/askscience on Reddit: If actual temp is above freezing, but windchill is below freezing, will water freeze?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/originalsteveoh - 54 votes and 41 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/p1uem",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/askscience/comments/p1uem/if_actual_temp_is_above_freezing_but_windchill_is/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/p1uem"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Reddit is a social news aggregation platform where content is community-driven. While it can provide insights and discussions on various topics, its information lacks assurance of accuracy and reliability, as posts can be made by anyone without rigorous fact-checking. It's useful for gauging public perception but should be approached cautiously regarding factual claims."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2012-01-29"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "Similar to Evidence 6, this evidence does not discuss the specific transformation of hot water into snow or ice but instead deals with associated conditions, making it irrelevant."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Climate Change Effects and Impacts - NYSDEC",
+                "htmlTitle": "Climate Change <b>Effects</b> and <b>Impacts</b> - NYSDEC",
+                "link": "https://dec.ny.gov/environmental-protection/climate-change/effects-impacts",
+                "displayLink": "dec.ny.gov",
+                "snippet": "Warmer winter temperatures, with fewer days below freezing, are bringing more winter precipitation to New York as rain, less snow, reduced snow cover, and\u00a0...",
+                "htmlSnippet": "Warmer <b>winter</b> temperatures, with fewer days below <b>freezing</b>, are bringing more <b>winter</b> precipitation to New York as rain, less snow, reduced snow cover, and&nbsp;...",
+                "formattedUrl": "https://dec.ny.gov/environmental-protection/climate.../effects-impacts",
+                "htmlFormattedUrl": "https://dec.ny.gov/environmental-protection/climate.../<b>effects</b>-impacts",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Climate Change Effects and Impacts",
+                            "og:site_name": "Department of Environmental Conservation",
+                            "twitter:site": "@NYSDEC",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The most recent report by the Intergovernmental Panel on Climate Change (IPCC) states that greenhouse gas (GHG) emissions from human activities are responsible for accelerating global warming and climate change.",
+                            "og:title": "Climate Change Effects and Impacts",
+                            "mobileoptimized": "width",
+                            "og:url": "https://dec.ny.gov/environmental-protection/climate-change/effects-impacts",
+                            "og:description": "The most recent report by the Intergovernmental Panel on Climate Change (IPCC) states that greenhouse gas (GHG) emissions from human activities are responsible for accelerating global warming and climate change."
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... increasing to an even faster rate of 0.31 to 0.54\u00b0F per decade since the 1970s. Some parts of the U.S., such as the west, Alaska, and Northeast region have experienced greater warming than the rest of the country.\nThe annual statewide average temperature in New York has warmed 3\u00b0F (0.6\u00b0F per decade) since 1970. The state's average temperatures are projected to rise by as much as another 3\u00b0F by 2080 with the greatest warming occurring in the northern parts of the state. Rising annual temperatures are already having widespread impacts on New York's communities and ecosystems and impacts are expected to increase. New York State's changing climate may no longer be able to support the types of plants, insects, and wildlife living in New York, particularly those in high-elevation regions like the Catskills and Adirondacks. As New York's temperatures increase, these species will extend their range north, impacting the industries and economies that depend on them such as fishing, hunting, and tourism.\nAcross the northeastern U.S., winters are warming faster than any other season. Over the last century, average winter temperatures have increased by approximately 3\u00b0F, spring temperatures by 2\u00b0F, and summer and fall temperatures by 1.4\u00b0F.\nIn New York, winters have warmed three times faster than summers. Warmer winter temperatures, with fewer days below freezing, are bringing more winter precipitation to New York as rain, less snow, reduced snow cover, and earlier spring snowmelt. Less snowfall and earlier snowmelt are already having and will continue to have increasing economic impacts on New York's winter recreation industry. Reduced snow cover will increase the vulnerability of certain plants that depend on snow for insulation, and wildlife that depend on snow for protection from predators during the winter. Less snowfall in the winter can also cause drier summer soil conditions, increasing the risk of wildfires. Lake effect snow will increase snowfall amounts in the next few decades for parts of New York State, as warmer winters continue to cause less ice cover on Lake Erie, Lake Ontario, and the Finger Lakes. However, lake-effect snow will eventually decrease with continued global warming, as temperatures below freezing in New York become less frequent and more winter precipitation falls as rain.\nWarmer winters in New York are also affecting the winter-spring season transition, impacting the timing of blooming for trees and flowers which migrating and hibernating wildlife depend on for food. Changes to the timing of the winter-spring transition can also impact agriculture by extending the length of the growing season, with the last frost of winter occurring earlier in...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The New York State Department of Environmental Conservation provides valuable and accurate information regarding environmental science and safety regulations. As an official government site, it is particularly reliable for factual information regarding state and environmental issues. It is less focused on broader scientific phenomena but informative within its domain."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This evidence speaks about climate change effects and does not address the question about the observable effects of hot water freezing, leading to a score of low relevance."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Can hot water freeze faster than cold water?",
+                "htmlTitle": "Can <b>hot water freeze</b> faster than <b>cold</b> water?",
+                "link": "https://math.ucr.edu/home/baez/physics/General/hot_water.html",
+                "displayLink": "math.ucr.edu",
+                "snippet": "But under some conditions the initially warmer water will freeze first: if that happens, you have seen the Mpemba effect. But you will not see the Mpemba effect\u00a0...",
+                "htmlSnippet": "But under some conditions the initially warmer <b>water</b> will <b>freeze</b> first: if that happens, you have seen the Mpemba <b>effect</b>. But you will not see the Mpemba <b>effect</b>&nbsp;...",
+                "formattedUrl": "https://math.ucr.edu/home/baez/physics/General/hot_water.html",
+                "htmlFormattedUrl": "https://math.ucr.edu/home/baez/physics/General/<b>hot</b>_<b>water</b>.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "copyright": "this document is copyright\nas described in the copyright notice"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...\u00a0 Both the early\nscientific history of this effect, and the story of Mpemba's rediscovery of it, are\ninteresting in their own right \u2014 Mpemba's story in particular providing a dramatic\nparable against making snap judgements about what is impossible.\u00a0 This is described separately below.\nThe phenomenon that hot water may freeze faster than cold is often called the Mpemba\neffect.\u00a0 Because, no doubt, most readers are extremely skeptical at this point, we\nshould begin by stating precisely what we mean by the Mpemba effect.\u00a0 We start with\ntwo containers of water, which are identical in shape, and which hold identical amounts of\nwater.\u00a0 The only difference between the two is that the water in one is at a higher\n(uniform) temperature than the water in the other.\u00a0 Now we cool both containers,\nusing the exact same cooling process for each container.\u00a0 Under some conditions the\ninitially warmer water will freeze first.\u00a0 If this occurs, we have seen the Mpemba\neffect.\u00a0 Of course, the initially warmer water will not freeze before the initially\ncooler water for all initial conditions.\u00a0 If the hot water starts at 99.9\u00b0C, and\nthe cold water at 0.01\u00b0C, then clearly under those circumstances, the initially cooler\nwater will freeze first.\u00a0 But under some conditions the initially warmer water\nwill freeze first: if that happens, you have seen the Mpemba effect.\u00a0 But you will\nnot see the Mpemba effect for just any initial temperatures, container shapes, or cooling\nconditions.\nThis seems impossible, right?\u00a0 Many sharp readers may have already come up with a\ncommon proof that the Mpemba effect is impossible.\u00a0 The proof usually goes something\nlike this.\u00a0 Say that the initially cooler water starts at 30\u00b0C and takes 10\nminutes to freeze, while the initially warmer water starts out at 70\u00b0C.\u00a0 Now the\ninitially warmer water has to spend some time cooling to get to get down to 30\u00b0C, and\nafter that, it's going to take 10 more minutes to freeze.\u00a0 So since the initially\nwarmer water has to do everything that the initially cooler water has to do, plus a little\nmore, it will take at least a little longer, right?\u00a0 What can be wrong with this\nproof?\nWhat's wrong with this proof is that it implicitly assumes that the water is\ncharacterized solely by a single number \u2014 its average temperature.\u00a0 But if\nother factors...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "This site, associated with the University of California, Riverside, is focused on mathematics and education, providing reliable academic resources. While its range is narrower than other general science sites, the information it offers is likely to be credible and useful for specific mathematical claims or contexts."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "Although it mentions the Mpemba effect, this evidence does not directly describe observable transformations that occur during the video. Instead, it is more theoretical and thus less relevant to the ask."
+                }
+            }
+        }
+    ]
+}

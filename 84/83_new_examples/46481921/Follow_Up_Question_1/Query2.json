@@ -1,0 +1,501 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - historical disinformation operations CIA virus outbreaks",
+                "totalResults": "256000",
+                "searchTerms": "historical disinformation operations CIA virus outbreaks",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - historical disinformation operations CIA virus outbreaks",
+                "totalResults": "256000",
+                "searchTerms": "historical disinformation operations CIA virus outbreaks",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.273609,
+        "formattedSearchTime": "0.27",
+        "totalResults": "256000",
+        "formattedTotalResults": "256,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Annual Threat Assessment of the U.S. Intelligence Community",
+                "htmlTitle": "Annual Threat Assessment of the U.S. Intelligence Community",
+                "link": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2023-Unclassified-Report.pdf",
+                "displayLink": "www.dni.gov",
+                "snippet": "Feb 6, 2023 ... Efforts by Russia, China, and other countries to promote authoritarianism and spread disinformation is helping fuel a larger competition between ...",
+                "htmlSnippet": "Feb 6, 2023 <b>...</b> Efforts by Russia, China, and other countries to promote authoritarianism and spread <b>disinformation</b> is helping fuel a larger competition between&nbsp;...",
+                "formattedUrl": "https://www.dni.gov/files/ODNI/.../ATA-2023-Unclassified-Report.pdf",
+                "htmlFormattedUrl": "https://www.dni.gov/files/ODNI/.../ATA-2023-Unclassified-Report.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbT1XfotiexXO-1ZZ5zsvkRAeyBs7_BqYEWKFmU1_WSKoQfV3NCKnvx9An&s",
+                            "width": "197",
+                            "height": "255"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20230228110400-05'00'",
+                            "creationdate": "D:20230228110400-05'00'",
+                            "creator": "Aspose Ltd.",
+                            "producer": "Aspose.PDF for .NET 21.3.0"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///90a908e8592db48f53c1a80dcf05cee1de3317e5573850fb16184bdfab02006c"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Homeland Threat Assessment 2024",
+                "htmlTitle": "Homeland Threat Assessment 2024",
+                "link": "https://www.dhs.gov/sites/default/files/2023-09/23_0913_ia_23-333-ia_u_homeland-threat-assessment-2024_508C_V6_13Sep23.pdf",
+                "displayLink": "www.dhs.gov",
+                "snippet": "Sep 14, 2023 ... While cyber attacks seeking to compromise networks or disrupt services for geopolitical or financial purposes continue apace, we noted an uptick ...",
+                "htmlSnippet": "Sep 14, 2023 <b>...</b> While cyber <b>attacks</b> seeking to compromise networks or disrupt services for geopolitical or financial purposes continue apace, we noted an uptick&nbsp;...",
+                "formattedUrl": "https://www.dhs.gov/.../23_0913_ia_23-333-ia_u_homeland-threat-assessm...",
+                "htmlFormattedUrl": "https://www.dhs.gov/.../23_0913_ia_23-333-ia_u_homeland-threat-assessm...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20230914091658-04'00'",
+                            "creationdate": "D:20230912120245-04'00'",
+                            "creator": "Adobe InDesign 18.2 (Windows)",
+                            "subject": "Homeland Threat Assessment 2024",
+                            "producer": "Adobe PDF Library 17.0",
+                            "title": "Homeland Threat Assessment 2024"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]..., the issuance of NTAS bulletins \nwill be reserved for situations where we need to alert the public about a specific or imminent terrorist threat o r \nabout a change in the terrorism threat level.  \n> iv Homeland Threat Assessment 2024\n## Executive Summary \nTerrorism, both foreign and domestic, remains a top threat to the Homeland, but other threats are increasingly crowding the threat space. During the next year, we assess that the threat of violence from individuals radicalized in the United States will remain high, but largely unchanged, marked by lone offenders or small group attacks that occur with little warning. Foreign terrorist groups like al-Qa’ida and ISIS are seeking to rebuild overseas, and they maintain worldwide networks of supporters that could seek to target the Homeland. \nIn addition to the enduring terrorism threat, we expect illegal drugs produced in Mexico and sold in the United \nStates will continue to kill more Americans than any other threat. During the past year, US-based traffickers hav e \nbecome more involved in the mixing and pressing of fentanyl, contributing to more lethal mixes of this already deadly drug. \nThis year, record encounters of migrants arriving from a growing number of countries have complicated border and immigration security. While monthly encounters have fallen from record highs in December, overall \nencounters for the fiscal year are on pace to nearly match 2022’s record high total. As part of the overall increas e \nin migration, we have also encountered a growing number of individuals in the Terrorist Screening Data Set (TSDS), also known as the “watchlist.” Inclusion in the TSDS ranges from known associates of watchlisted individuals, such as family members, to individuals directly engaged in terrorist activity. \nDomestic and foreign adversaries will likely continue to target our critical infrastructure over the next year, in part because they perceive targeting these sectors would be detrimental to US industries and the American way \nof life. While cyber attacks seeking to compromise networks or disrupt services for geopolitical or financia l \npurposes continue apace, we noted an uptick over the last year of physical attacks on critical infrastructure. \nWe expect the 2024 election cycle will be a key event for possible violence and foreign influence targeting ou r \nelection infrastructure, processes, and personnel. \nAgainst this backdrop of traditional homeland security threats, we expect the People’s Republic of China (PRC) \nwill continue to use predatory economic practices to advantage its firms and industries over ours. The PRC wil l \nlikely continue to manipulate markets, employ economic espionage and coercive economic tools, and seek to \nillicitly acquire our technologies and intellectual property...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "What's Old Is New Again: Cold War Lessons for Countering ...",
+                "htmlTitle": "What&#39;s Old Is New Again: Cold War Lessons for Countering ...",
+                "link": "https://tnsr.org/2022/09/whats-old-is-new-again-cold-war-lessons-for-countering-disinformation/",
+                "displayLink": "tnsr.org",
+                "snippet": "Sep 22, 2022 ... Russia and China are disseminating disinformation about domestic U.S. race relations and COVID-19 to undermine and discredit the U.S. government ...",
+                "htmlSnippet": "Sep 22, 2022 <b>...</b> Russia and China are disseminating <b>disinformation</b> about domestic U.S. race relations and <b>COVID</b>-19 to undermine and discredit the U.S. government&nbsp;...",
+                "formattedUrl": "https://tnsr.org/.../whats-old-is-new-again-cold-war-lessons-for-countering-...",
+                "htmlFormattedUrl": "https://tnsr.org/.../whats-old-is-new-again-cold-war-lessons-for-countering-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXjWvBlsdllSqYxH_K5J5x5YJCPHXhtMvBk8ayuBw42OXZutzCa5GCe44&s",
+                            "width": "317",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://tnsr.org/wp-content/uploads/2022/09/Putin-RT-pic-e1663788466258.jpeg",
+                            "og:type": "article",
+                            "article:published_time": "2022-09-22T17:48:50+00:00",
+                            "og:image:width": "1100",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Texas National Security Review",
+                            "author": "Calder Walton",
+                            "og:title": "What’s Old Is New Again: Cold War Lessons for Countering Disinformation - Texas National Security Review",
+                            "og:image:height": "552",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "/wp-content/uploads/2017/11/cropped-TNSR-Favicon-01-1-270x270.png",
+                            "og:description": "Hostile foreign states are using weaponized information to attack the United States. Russia and China are disseminating disinformation about domestic U.S. race relations and COVID-19 to undermine and discredit the U.S. government. These information warfare attacks, which threaten U.S. national security, may seem new, but they are not. Using an applied history methodology and a wealth of previously classified archival records, this paper uses two case studies to reveal how and why a hostile foreign state, the Soviet Union, targeted America with similar disinformation in the past. The methods that the U.S. government devised during the Cold War to counter Soviet disinformation are still relevant, even in today’s information landscape. By applying that history, this paper recommends developing a new U.S. strategy for countering hostile state disinformation: through promoting digital literacy, which requires a whole-of-society, generational effort. Establishing a coherent strategy is important because disinform",
+                            "twitter:creator": "@TXNatSecReview",
+                            "article:publisher": "https://www.facebook.com/Texas-National-Security-Review-352070491920273/",
+                            "twitter:data1": "Calder Walton",
+                            "twitter:data2": "53 minutes",
+                            "twitter:site": "@TXNatSecReview",
+                            "article:modified_time": "2023-02-15T15:00:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://tnsr.org/2022/09/whats-old-is-new-again-cold-war-lessons-for-countering-disinformation/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://tnsr.org/wp-content/uploads/2022/09/Putin-RT-pic-e1663788466258.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...); Christopher Andrew and Vasili Mitrokhin, _The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB_ (New York: Basic Books, 1999). Other studies include House Permanent Select Committee on Intelligence, _Soviet Active Measures_, 97th Cong., 2nd sess., 1982; Richard H. Shultz and Roy Godson, _Dezinformatsia: Active Measures in Soviet Strategy_ (Washington, DC: PergamonBrassey’s, 1984); Dennis Kux, “Soviet Active Measures and Disinformation: Overview and Assessment,” _Parameters_ 15, no. 4 (1985): 1928, ; Herbert Romerstein and Stanislav Levchenko, _The KGB Against the ‘Main Enemy’: How the Soviet Intelligence Service Operates Against the United States_ (Lexington, MA: Lexington Books, 1989); Herbert Romerstein, _Soviet Active Measures and Propaganda: ‘New Thinking’ and Influence Activities in the Gorbachev Era_, Mackenzie Institute for the Study of Terrorism, Revolution, and Propaganda, 1989; Herbert Romerstein, “Disinformation as a KGB Weapon in the Cold War,” _Journal of Intelligence History_ 1, no. 1 (2001): 54–67, .\n Thomas Rid, _Active Measures: The Secret History of Disinformation and Political Warfare_ (New York: Farrar, Straus and Giroux, 2020).\n _Assessing Russian Activities and Intentions in Recent US Elections_, Office of the Director of National Intelligence, Jan. 6, 2017, , ii–iii, 5; Mueller_, Investigation Into Russian Interference_; and U.S. Senate Select Committee on Intelligence, _Report on Russian Active Measures_, vol. 2, 11–15.\n Hal Brands, _The Twilight Struggle. What the Cold War Teaches Us About Great-Power Rivalry Today_ (New Haven, CT: Yale University Press, 2022).\n The U.S. government body that was established to counter disinformation, the Active Measures Working Group, discussed below, is not mentioned in Rid’s recent book, _Active Measures_, nor in the five-volume Senate report on Russia’s efforts to interfere in the 2016 election. U.S. Senate Select Committee on Intelligence, _Russian Active Measures_.\n R.G. Collingwood, _The Idea of History_ (Oxford: Clarendon Press, 1946); Marc Bloch,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Event 201 | Johns Hopkins Center for Health Security",
+                "htmlTitle": "Event 201 | Johns Hopkins Center for Health Security",
+                "link": "https://centerforhealthsecurity.org/our-work/tabletop-exercises/event-201-pandemic-tabletop-exercise",
+                "displayLink": "centerforhealthsecurity.org",
+                "snippet": "In recent years, the world has seen a growing number of epidemic events, amounting to approximately 200 events annually. These events are increasing, and they ...",
+                "htmlSnippet": "In recent years, the world has seen a growing number of <b>epidemic</b> events, amounting to approximately 200 events annually. These events are increasing, and they&nbsp;...",
+                "formattedUrl": "https://centerforhealthsecurity.org/.../event-201-pandemic-tabletop-exercise",
+                "htmlFormattedUrl": "https://centerforhealthsecurity.org/.../event-201-pandemic-tabletop-exercise",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfxwJ4a9r7t6cSRJazzD0PE6Il3RupN82KxtKS5pIn__QPO8f1bWqmKeg&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://centerforhealthsecurity.org/sites/default/files/styles/social_image/public/2023-04/banner-event201.jpg?itok=_u1SyXmG",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Johns Hopkins Center for Health Security",
+                            "twitter:url": "https://centerforhealthsecurity.org/our-work/tabletop-exercises/event-201-pandemic-tabletop-exercise",
+                            "twitter:image:height": "628",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "The Johns Hopkins Center for Health Security in partnership with the World Economic Forum and the Bill and Melinda Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019, in New York, NY.",
+                            "twitter:image": "https://centerforhealthsecurity.org/sites/default/files/styles/social_image/public/2023-04/banner-event201.jpg?itok=_u1SyXmG",
+                            "twitter:image:alt": "Image from Event 201, a pandemic tabletop exercise",
+                            "twitter:site": "@JohnsHopkinsSPH",
+                            "twitter:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "Image from Event 201, a pandemic tabletop exercise",
+                            "twitter:title": "Event 201 | Johns Hopkins Center for Health Security",
+                            "handheldfriendly": "true",
+                            "og:title": "Event 201 | Johns Hopkins Center for Health Security",
+                            "og:image:height": "628",
+                            "facebook-domain-verification": "8bfvbvpql9k32ygyo1bvy7ttqjn7m8",
+                            "fb:app_id": "833238036762815",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The Johns Hopkins Center for Health Security in partnership with the World Economic Forum and the Bill and Melinda Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019, in New York, NY.",
+                            "mobileoptimized": "width",
+                            "og:locale": "en_US",
+                            "og:url": "https://centerforhealthsecurity.org/our-work/tabletop-exercises/event-201-pandemic-tabletop-exercise"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://centerforhealthsecurity.org/sites/default/files/styles/social_image/public/2023-04/banner-event201.jpg?itok=_u1SyXmG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n            *   \n        *   \n            *   \n            *   \n            *   \n            *   \n            *   \n    *   \n        *   \n        *   \n        *   \n        *   \n*   \n*   \n*   \n    *   \n        *   \n        *   \n        *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n*   \n    *   \n*   \nBreadcrumb\n----------\n1.  \n2.  \n3.  \n4.  Event 201\nTabletop Exercise\nEvent 201\n=============\nThis training tabletop exercise is based on a fictional scenario. The inputs experts used for modeling the potential impact were fictional. It is a teaching and training resource for public health and government officials.\nThe Johns Hopkins Center for Health Security in partnership with the World Economic Forum and the Bill and Melinda Gates Foundation hosted Event 201, a high-level pandemic exercise on October 18, 2019, in New York, NY. The exercise illustrated areas where public/private partnerships will be necessary during the response to a severe pandemic in order to diminish large-scale economic and societal consequences.\n> \nIn recent years, the world has seen a growing number of epidemic events, amounting to approximately 200 events annually. These events are increasing, and they are disruptive to health, economies, and society. Managing these events already strains global capacity, even absent a pandemic threat. Experts agree that it is only a matter of time before one of these epidemics becomes global—a pandemic with potentially catastrophic consequences. A severe pandemic, which becomes “Event 201,” would require reliable cooperation among several industries, national governments, and key international institutions.\nAbout the Event 201 exercise\n----------------------------\nEvent 201 was a 3.5-hour pandemic tabletop exercise that simulated a series of dramatic, scenario-based facilitated discussions, confronting difficult, true-to-life dilemmas associated with response to a hypothetical, but scientifically plausible, pandemic. 15 global business, government, and public health leaders were  in the simulation exercise that highlighted unresolved real-world policy and economic issues that could be solved with sufficient political will, financial investment, and attention now and in the future.\nThe exercise consisted of pre-recorded news broadcasts, live “staff” briefings, and moderated discussions on specific topics. These issues were carefully designed in a compelling narrative that educated the participants...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Active Measures: The Secret History of Disinformation and Political ...",
+                "htmlTitle": "Active Measures: The Secret <b>History</b> of <b>Disinformation</b> and Political ...",
+                "link": "https://www.amazon.com/Active-Measures-History-Disinformation-Political/dp/0374287260",
+                "displayLink": "www.amazon.com",
+                "snippet": "Book overview · This revelatory and dramatic history of disinformation traces the rise of secret organized deception operations from the interwar period to ...",
+                "htmlSnippet": "Book overview &middot; This revelatory and dramatic <b>history</b> of <b>disinformation</b> traces the rise of secret organized deception <b>operations</b> from the interwar period to&nbsp;...",
+                "formattedUrl": "https://www.amazon.com/Active-Measures...Disinformation.../0374287260",
+                "htmlFormattedUrl": "https://www.amazon.com/Active-Measures...<b>Disinformation</b>.../0374287260",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUuOGRo3ddzlErQthKaMlw1pI4oTdfEv8RsEUca3w5DprnQUKAJjSA7ZMG&s",
+                            "width": "183",
+                            "height": "275"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://m.media-amazon.com/images/I/41pLgburiUL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA553%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg",
+                            "theme-color": "#131921",
+                            "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+                            "og:title": "Active Measures: The Secret History of Disinformation and Political Warfare",
+                            "og:url": "https://www.amazon.com/dp/0374287260/ref=tsm_1_fb_lk",
+                            "title": "Active Measures: The Secret History of Disinformation and Political Warfare: Rid, Thomas: 9780374287269: Amazon.com: Books",
+                            "og:description": "Active Measures: The Secret History of Disinformation and Political Warfare [Rid, Thomas] on Amazon.com. *FREE* shipping on qualifying offers. Active Measures: The Secret History of Disinformation and Political Warfare",
+                            "encrypted-slate-token": "AnYxpI2vBMuC9pK5U3p1iEcwIUR9DpMXgtM32pZsuoo02vMbDGFmM/wAEft4ySjEnY2pSrrH2/ktzc3iMb3nXevJIDy0m+Rc67BXAG02DL2vhQrKuTZnNg7c2L4nJx1cjvDTAoViR2RBw+0TEUjIP8Vu3Cmqj3NnuTdd040HRjfZQbLMxOOpRJk7aUV10QqVeb5Y5HLAv1tGz3lGuL7zWZRe+DsQP+Tf3RkYgyz1JrtJQn7ZvBftaO6/EHxPK8HUgb/N2hWF4jqVh9kY8I8pDI1Y"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://m.media-amazon.com/images/I/917N4jF9eSL._AC_UF1000,1000_QL80_.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Free returns are available for the shipping address you chose. You can return the item for any reason in new and unused condition: no return shipping charges.\nFree returns are available for the shipping address you chose. You can return the item for any reason in new and unused condition: no return shipping charges.\nDownload the free Kindle app and start reading Kindle books instantly on your smartphone, tablet, or computer - no Kindle device required.\nRead instantly on your browser with Kindle for Web.\nUsing your mobile phone camera - scan the code below and download the Kindle app.\n  \nOK\nThis revelatory and dramatic history of disinformation traces the rise of secret organized deception operations from the interwar period to contemporary internet troll farmsWe live in the age of disinformation―of organized deception. Spy agencies pour vast resources into hacking, leaking, and forging data, often with the goal of weakening the very foundation of liberal democracy: trust in facts. Thomas Rid, a renowned expert on technology and national security, was one of the first to sound the alarm. More than four months before the 2016 election, he warned that Russian military intelligence was “carefully planning and timing a high-stakes political campaign\" to disrupt the democratic process. But as crafty as such so-called active measures have become, they are not new. The story of modern disinformation begins with the post-Russian Revolution clash between communism and capitalism, which would come to define the Cold War. In Active Measures, Rid reveals startling intelligence and security secrets from materials written in more than ten languages across several nations, and from interviews with current and former operatives. He exposes the disturbing yet colorful history of professional, organized lying, revealing for the first time some of the century’s most significant operations―many of them nearly beyond belief. A White Russian ploy backfires and brings down a New York police commissioner; a KGB-engineered, anti-Semitic hate campaign creeps back across the Iron Curtain; the CIA backs a fake publishing empire, run by a former...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Reality Check: Falsehoods in US Perceptions of China",
+                "htmlTitle": "Reality Check: Falsehoods in US Perceptions of China",
+                "link": "https://www.mfa.gov.cn/eng/wjbxw/202206/t20220619_10706059.html",
+                "displayLink": "www.mfa.gov.cn",
+                "snippet": "Jun 19, 2022 ... The Cuba blockade is the longest and cruelest systemic trade embargo, economic blockade and financial sanctions in modern history. The blockade ...",
+                "htmlSnippet": "Jun 19, 2022 <b>...</b> The Cuba blockade is the longest and cruelest systemic trade embargo, economic blockade and financial sanctions in modern <b>history</b>. The blockade&nbsp;...",
+                "formattedUrl": "https://www.mfa.gov.cn/eng/wjbxw/202206/t20220619_10706059.html",
+                "htmlFormattedUrl": "https://www.mfa.gov.cn/eng/wjbxw/202206/t20220619_10706059.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "articletitle": "Reality Check: Falsehoods in US Perceptions of China",
+                            "columndescription": "MFA News",
+                            "siteidcode": "bm02000004",
+                            "columnkeywords": "MFA News",
+                            "sitename": "Ministry of Foreign Affairs of the People's Republic of China",
+                            "sitedomain": "www.fmprc.gov.cn",
+                            "columnname": "MFA News",
+                            "url": "https://www.fmprc.gov.cn/mfa_eng/wjbxw/202206/t20220619_10706059.html",
+                            "columntype": "MFA News",
+                            "pubdate": "2022-06-19"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n您访问的页面不存在或已删除\n中华人民共和国外交部　版权所有\n     联系我们　地址：北京市朝阳区朝阳门南大街2号　邮编：100701　电话：+86-10-65961114\n      网站标识码：bm02000004　京ICP备06038296号　京公网安备11040102700114 \n\n您即将离开外交部门户网站，跳转到其他网站， 是否继续访问？\n继续访问放弃",
+                    "content_tokens": 146
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "World War, Cold War, 1939-1953 — FBI",
+                "htmlTitle": "World War, Cold War, 1939-1953 — FBI",
+                "link": "https://www.fbi.gov/history/brief-history/world-war-cold-war",
+                "displayLink": "www.fbi.gov",
+                "snippet": "A history of the FBI from 1939 through the early-1950s, defined by important cases and national and international events, including World War II and the ...",
+                "htmlSnippet": "A <b>history</b> of the FBI from 1939 through the early-1950s, defined by important cases and national and international events, including World War II and the&nbsp;...",
+                "formattedUrl": "https://www.fbi.gov/history/brief-history/world-war-cold-war",
+                "htmlFormattedUrl": "https://www.fbi.gov/history/brief-history/world-war-cold-war",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTej-ssgy7qFyH4KvxEPlDi4BkPBeU4GVh7w9HD7nei0tH_P5cWn2fRItzy&s",
+                            "width": "220",
+                            "height": "229"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fbi.gov/history/brief-history/world-war-cold-war/@@images/image",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Federal Bureau of Investigation",
+                            "twitter:url": "https://www.fbi.gov/history/brief-history/world-war-cold-war",
+                            "dc.format": "text/plain",
+                            "og:image:type": "image/jpeg",
+                            "distribution": "Global",
+                            "og:description": "A history of the FBI from 1939 through the early-1950s, defined by important cases and national and international events, including World War II and the Cold War.",
+                            "twitter:image": "https://www.fbi.gov/history/brief-history/world-war-cold-war/@@images/image",
+                            "twitter:site": "@FBI",
+                            "dc.type": "Folder",
+                            "twitter:title": "World War, Cold War, 1939-1953 | Federal Bureau of Investigation",
+                            "og:type": "website",
+                            "dc.description": "A history of the FBI from 1939 through the early-1950s, defined by important cases and national and international events, including World War II and the Cold War.",
+                            "og:title": "World War, Cold War, 1939-1953 | Federal Bureau of Investigation",
+                            "dc.date.created": "2016-05-03T19:03:38+00:00",
+                            "og:article:publisher": "https://www.facebook.com/FBI",
+                            "modificationdate": "2020-07-06T21:36:00+00:00",
+                            "expirationdate": "2499-12-31T00:00:00+00:00",
+                            "publicationdate": "2016-05-03T14:03:00+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "A history of the FBI from 1939 through the early-1950s, defined by important cases and national and international events, including World War II and the Cold War.",
+                            "dc.date.valid_range": "2016/05/03 -",
+                            "dc.date.modified": "2020-07-06T21:36:00+00:00",
+                            "dc.subject": "Brief History",
+                            "og:url": "https://www.fbi.gov/history/brief-history/world-war-cold-war",
+                            "dc.language": "en-us"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fbi.gov/image-repository/reichsparteitag_1935.jpg/@@images/image/high"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]..., lab doing work for the Manhattan Project, America’s secret atomic bomb program. The FBI passed what it learned about Zubilin’s spying to the War Department, which had primary investigative jurisdiction on the project. After the war ended, agents would investigate other, more serious attempts to steal U.S. A-bomb secrets, but that’s another story.\nIn the meantime, the Bureau had a predicate to take a closer look at Soviet espionage. Agents launched a major investigation to discover the potential interrelationships of Soviet diplomats, the Communist Party of the United States, and the Communist International party, or Comintern.\nThrough the case—called COMRAP, for “Comintern Apparatus”—the FBI learned that Soviet spying was a significant threat, which helped the Bureau prepare for the Cold War to come.\nThe Bureau’s domestic counterintelligence work continued full force as well, with plenty of successes. The FBI employed a variety of double agents to disrupt enemy espionage, set up radio networks to gather intelligence and spread disinformation, and used its growing scientific capabilities to track down spies like Velvalee Dickinson.\nAll of these new responsibilities required an influx of manpower—and Congress readily delivered the resources. The FBI’s rolls swelled from just 2,400 agents and support employees in 1940 to a war-time peak of more than 13,000 in 1944. Because of its National Academy training regimen for law enforcement executives, the Bureau had a ready pool of experienced graduates that it could tap into for new special agents. The FBI also brought on board huge numbers of professionals for its fingerprinting, scientific, and records management operations; its Identification Division grew so large that it had to be moved to a federal armory larger than a football field.\n!\n###### The FBI’s fingerprinting work grew so massive during the war that it had to be moved to a federal armory larger than a football field.\nThe nation breathed a sigh of relief when the Axis powers finally collapsed. Germany—with most of its troops captured and Berlin surrounded by advancing American and Soviet forces—was the first to raise the white flag, in May 1945. After being soundly defeated in the field and experiencing the horror of two A-bombs, Japan surrendered in August.\nWar was over. At least for the moment.\nA more insidious, protracted conflict, it turns out, would soon be underway. The ambitious Soviets had snapped up several Eastern European countries as war prizes, and its “Iron Curtain” would soon descend, physically and symbolically dividing east and west, communism and democracy. The U.S. and Soviet Union—the two primary superpowers on the block...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "DISINFORMATION - CIA",
+                "htmlTitle": "<b>DISINFORMATION</b> - <b>CIA</b>",
+                "link": "https://www.cia.gov/readingroom/document/cia-rdp90-00965r000807550012-7",
+                "displayLink": "www.cia.gov",
+                "snippet": "Although past administration denials had successfully thwarted disclo- sure of other disinformation capers, in this case there was a smoking gun: a memo ...",
+                "htmlSnippet": "Although <b>past</b> administration denials had successfully thwarted disclo- sure of other <b>disinformation</b> capers, in this case there was a smoking gun: a memo&nbsp;...",
+                "formattedUrl": "https://www.cia.gov/readingroom/.../cia-rdp90-00965r000807550012-7",
+                "htmlFormattedUrl": "https://www.<b>cia</b>.gov/readingroom/.../<b>cia</b>-rdp90-00965r000807550012-7",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53I2Uw4L15EWZLbljbpaot2SUKwdDDtLDRnhlwXwwQw4jh9Da0QjJjw&s",
+                            "width": "125",
+                            "height": "125"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "date": "2016-12-22T00:00:00-05:00",
+                            "label": "CREST",
+                            "title": "DISINFORMATION - AN EXAMINATION OF SIX YEARS OF INCREDIBLE LYING",
+                            "encoded": "STAT Declassified in Part - Sanitized Copy Approved for Release 2012/01/17: CIA-RDP90-00965R000807550012-7 Y ., ARTICLE APPEARED CN PACE _1A.- LOS ANGELES WEEKLY (CA) 13 March 1987 DISINFORMATION..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cia.gov/readingroom/sites/all/themes/foia_theme/images/bt/Glyph-FOIA.svg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Document Number (FOIA) /ESDN (CREST):\nCIA-RDP90-00965R000807550012-7\nBody:\nSTAT Declassified in Part - Sanitized Copy Approved for Release 2012/01/17: CIA-RDP90-00965R000807550012-7 Y ., ARTICLE APPEARED CN PACE \\_1A.- LOS ANGELES WEEKLY (CA) 13 March 1987 DISINFORMATION AN EXAMINATION OF SIX YEARS OF INCREDIBLE LYING The term \"disinformation\" probably enjoyed its greatest-ever public aware- ness last fall - indeed, for many Ameri- cans it was the first time they'd heard the word - when the press revealed that over the summer the administration had initi- ated a campaign of deliberate lies about the supposed \"terrorist\" intentions of Libya's Colonel Muammar Qadhafi - thus to arouse U.S. and world opinion in support of possible further U.S. military or diplomatic action against the Libyan leader. Although past administration denials had successfully thwarted disclo- sure of other disinformation capers, in this case there was a smoking gun: a memo written by then-National Security Council chief Admiral John Poindexter outlining the Libyan campaign, first re- vealed in the Washington Post by Water- gate hero Bob Woodwa d\\_ The mass media, especially the television networks, seized on the memo and briefly made it a cause celebre. The subsequent Iran/con- tra scandals, themselves originally ob- scured by intensive disinformation campaigns, shortly subsumed the flap over the Poindexter memo. But taken together, the memo and the two larger scandals have had one impor- tant beneficial effect on the public - it is now possible for the press to report the \"dark side\" of the United States govern- ment and be taken seriously. This is no small achievement, as during the 40 Cold War years the public has persistently given the benefit of the doubt to its politi- cal leaders. The consequences of this have been two unnecessary wars fought on the Asian mainland; an avoidable massive nuclear-weapons race, and the crushing of progressive social move- ments - a great number of...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Countering Disinformation Effectively: An Evidence-Based Policy ...",
+                "htmlTitle": "Countering <b>Disinformation</b> Effectively: An Evidence-Based Policy ...",
+                "link": "https://carnegieendowment.org/2024/01/31/countering-disinformation-effectively-evidence-based-policy-guide-pub-91476",
+                "displayLink": "carnegieendowment.org",
+                "snippet": "Jan 31, 2024 ... Policymakers should set realistic expectations. Disinformation is a chronic historical phenomenon with deep roots in complex social, political, ...",
+                "htmlSnippet": "Jan 31, 2024 <b>...</b> Policymakers should set realistic expectations. <b>Disinformation</b> is a chronic <b>historical</b> phenomenon with deep roots in complex social, political,&nbsp;...",
+                "formattedUrl": "https://carnegieendowment.org/.../countering-disinformation-effectively-evi...",
+                "htmlFormattedUrl": "https://carnegieendowment.org/.../countering-<b>disinformation</b>-effectively-evi...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivHK9Z2sREARyrexek7wTE7FGovMAAyub1ZmL_TFFNtMwhTL8m5PahFx4&s",
+                            "width": "305",
+                            "height": "165"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/disinformation-abstract-iStock-1350668422_95728a2b-340d-4e53-8bce-a9e49b536047-2.jpg",
+                            "twitter:title": "Countering Disinformation Effectively: An Evidence-Based Policy Guide",
+                            "twitter:card": "summary_large_image",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "A high-level, evidence-informed guide to some of the major proposals for how democratic governments, platforms, and others can counter disinformation.",
+                            "og:title": "Countering Disinformation Effectively: An Evidence-Based Policy Guide",
+                            "google": "notranslate",
+                            "og:description": "A high-level, evidence-informed guide to some of the major proposals for how democratic governments, platforms, and others can counter disinformation.",
+                            "twitter:image": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/disinformation-abstract-iStock-1350668422_95728a2b-340d-4e53-8bce-a9e49b536047-2.jpg"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://carnegie-production-assets.s3.amazonaws.com/static/media/images/disinformation-abstract-iStock-1350668422_95728a2b-340d-4e53-8bce-a9e49b536047-2.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... See “Final Report: Commission on Information Disorder,” Aspen Institute, November 2021, https://www.aspeninstitute.org/wp-content/uploads/2021/11/Aspen-Institute_Commission-on-Information-Disorder_Final-Report.pdf; Daniel Arnaudo et al., “Combating Information Manipulation: A Playbook for Elections and Beyond,” National Democratic Institute, International Republican Institute, and Stanford Internet Observatory, September 2021, https://www.ndi.org/sites/default/files/InfoManip%20Playbook%20updated%20FINAL.pdf; “Center of Excellence on Democracy, Human Rights, and Governance: Disinformation Primer,” U.S. Agency for International Development, February 2021, https://cnxus.org/wp-content/uploads/2021/11/usaid-disinformation-primer.pdf; and Laura Courchesne, Julia Ilhardt, and Jacob N. Shapiro, “Review of Social Science Research on the Impact of Countermeasures Against Influence Operations,” Harvard Kennedy School Misinformation Review 2, no. 5 (September 2021): https://misinforeview.hks.harvard.edu/article/review-of-social-science-research-on-the-impact-of-countermeasures-against-influence-operations/.\n2 This list was drawn from multiple sources, including Kamya Yadav, “Countering Influence Operations: A Review of Policy Proposals Since 2016,” Carnegie Endowment for International Peace, November 30, 2020, https://carnegieendowment.org/2020/11/30/countering-influence-operations-review-of-policy-proposals-since-2016-pub-83333; a more detailed, unpublished database of policy proposals compiled by Vishnu Kannan in 2022; Courchesne, Ilhardt, and Shapiro, “Review of Social Science Research”; and “The 2022 Code of Practice on Disinformation,” European Commission, accessed January 27, 2023, https://digital-strategy.ec.europa.eu/en/policies/code-practice-disinformation. These sources were supplemented by further literature review and expert feedback.\nBefore seeking to counter disinformation, policymakers should carefully consider what this idea means. “Disinformation,” usually defined as information known by the speaker to be false, is a notoriously tricky concept that comes with numerous limitations, contradictions, and risks.1\nIdentifying disinformation presents several puzzles. For one thing, labeling any claim as false requires invoking an authoritative truth. Yet the institutions and professions most capable of discerning the truth—such as science, journalism, and courts—are...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "COVERT ACTION: SPECIAL: NAZIS, THE VATICAN, AND CIA | CIA ...",
+                "htmlTitle": "COVERT ACTION: SPECIAL: NAZIS, THE VATICAN, AND <b>CIA</b> | <b>CIA</b> ...",
+                "link": "https://www.cia.gov/readingroom/document/cia-rdp90-00845r000100170004-5",
+                "displayLink": "www.cia.gov",
+                "snippet": "... virus, to produce a live vaccine. Others were injected with infectious epidemic jaundice. ? Sterilizing male prisoners by surgery, X-ray, and drugs ...",
+                "htmlSnippet": "... <b>virus</b>, to produce a live vaccine. Others were injected with <b>infectious epidemic</b> jaundice. ? Sterilizing male prisoners by surgery, X-ray, and drugs&nbsp;...",
+                "formattedUrl": "https://www.cia.gov/readingroom/.../cia-rdp90-00845r000100170004-5",
+                "htmlFormattedUrl": "https://www.<b>cia</b>.gov/readingroom/.../<b>cia</b>-rdp90-00845r000100170004-5",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53I2Uw4L15EWZLbljbpaot2SUKwdDDtLDRnhlwXwwQw4jh9Da0QjJjw&s",
+                            "width": "125",
+                            "height": "125"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "date": "2016-12-22T00:00:00-05:00",
+                            "label": "CREST",
+                            "title": "COVERT ACTION:  SPECIAL:  NAZIS, THE VATICAN, AND CIA",
+                            "encoded": "Approved For Release 2010/06/03: CIA-RDP90-00845R000100170004-5 INFORMATION BU] Number 25 $3.00 Special: Nazis, the Vatican, and CIA Approved For Release 2010/06/03: CIA-RDP90-00845R000100170004-5..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.cia.gov/readingroom/sites/all/themes/foia_theme/images/bt/Glyph-FOIA.svg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... 114-121. 59. Bradley F. Smith and Elena Agarossi, Operation Sunrise (New York: Basic Books, 1979), pp. 101-146; Gabriel Kolko, The Politics of War (New York: Random House, 1968), pp. 375-385. 60. R. Harris Smith, op. cit., n. 10, pp. 117, 119. tit . Jerry Meldon, The Jewish Advocate, September 20, 1984, citing John Lof- tus, Boston Globe, May 28, 1984. It should be noted that Rauff himself proba- bly left Genoa by 1949, more than a year before Barbie arrived in March 1951 . Loftus's charge of Dulles's amnesty and its consequences is remarkably at odds with Bradley Smith's contention that \"German and Italian Fascist prison- ers of war . . . received no special benefits from Sunrise'' (p. 185). Rauff was subsequently allowed to \"escape\" and reestablish himself with Vatican assist- ance, which would seem to corroborate Loftus rather than Smith. In his intro- duction, Smith notes how CIA officials were \"more than willing\" to release to him \"the only group of OSS field intelligence dispatches which has ever been declassified by the CIA\" (p. 4). This willingness may have been self-serving; as we shall see, Dulles was actively falsifying the reports of his unauthorized contacts. 62. Loftus, Boston Globe, May 28, 1984. R. Harris Smith (op. cit., n. 10, p. 119) notes Daddario's visit to Rauff in Gestapo headquarters but does not ex- plain its purpose. 12 CovertAction Loftus's remarkable charges against Dulles are corroborated by scraps of the public record. In his semi-authorized history of the OSS, R. Harris Smith notes that the leading Italian go-be- tween in the negotiations, the industrialist, baron, and Papal Chamberlain Luigi i'arrelli, was in 1948 63. Ibid. The reference is to a meeting of March 3. 1945 which in Allen Dul- les's memoir was with two SS representatives, Eugen Dollmann and Guido Zimmer. Loftus concludes \"that Dulles lied in his memoirs on one point: The SS colonel was Walter Rauff, not 'Dollmanlnl.' \" Dollmann's own autobiog- raphy is significantly unhelpful in resolving the issue. The hook ends...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

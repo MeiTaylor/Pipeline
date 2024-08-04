@@ -1,0 +1,662 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - Are helicopters starting wildfires in Canada 2023?",
+                "totalResults": "914000",
+                "searchTerms": "Are helicopters starting wildfires in Canada 2023?",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - Are helicopters starting wildfires in Canada 2023?",
+                "totalResults": "914000",
+                "searchTerms": "Are helicopters starting wildfires in Canada 2023?",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.422622,
+        "formattedSearchTime": "0.42",
+        "totalResults": "914000",
+        "formattedTotalResults": "914,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Canadian helicopter operators, battling early start to wildfires ...",
+                "htmlTitle": "<b>Canadian helicopter</b> operators, battling early <b>start</b> to <b>wildfires</b> ...",
+                "link": "https://verticalmag.com/news/canadian-helicopter-operators-battling-early-start-to-wildfires-receive-some-regulatory-clarification/",
+                "displayLink": "verticalmag.com",
+                "snippet": "Canadian helicopter operators, battling early start to wildfires, receive some regulatory clarification. By Lisa Gordon. June 5, 2023. On May 30, helicopter ...",
+                "htmlSnippet": "<b>Canadian helicopter</b> operators, battling early <b>start</b> to <b>wildfires</b>, receive some regulatory clarification. By Lisa Gordon. June 5, <b>2023</b>. On May 30, <b>helicopter</b>&nbsp;...",
+                "formattedUrl": "https://verticalmag.com/.../canadian-helicopter-operators-battling-early-start...",
+                "htmlFormattedUrl": "https://verticalmag.com/.../canadian-helicopter-operators-battling-early-start...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs85Wo50mksWJ85AuJhCFzg_DlUCz-dGdDnrg3u9k9ZJmBsYNAAvzmBVg&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.verticalmag.com/wp-content/uploads/2018/02/GTL_0367-smaller.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1500",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Vertical Mag",
+                            "og:title": "Canadian helicopter operators, battling early start to wildfires, receive some regulatory clarification",
+                            "og:image:height": "998",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://assets.verticalmag.com/wp-content/uploads/2016/07/cropped-favicon-lg-270x270.png",
+                            "og:description": "For much of Canada, the wildfire season started early and is building relentlessly.",
+                            "fb:pages": "51515866660",
+                            "article:publisher": "https://www.facebook.com/verticalmag/",
+                            "twitter:site": "@verticalmag",
+                            "article:modified_time": "2023-06-09T14:45:07+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://verticalmag.com/news/canadian-helicopter-operators-battling-early-start-to-wildfires-receive-some-regulatory-clarification/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.verticalmag.com/wp-content/uploads/2018/02/GTL_0367-smaller.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "On May 30, helicopter pilot Paul Spring was waiting to assist with the evacuation of Fort Chipewyan, Alberta, a settlement of about 1,000 people located 430 miles (700 kilometers) northeast of Edmonton. Out-of-control wildfires were burning within six miles (10 kilometers) of the community, which is accessible only by air, or boat in the summertime.\n!\nPhoenix Heli-Flight is among the operators helping to battles blazes in Western Canada. Phoenix Heli-Flight Photo\nFor Spring, who is president of Fort McMurray-based Phoenix Heli-Flight, it was one more urgent mission in a wildfire season that started early and has been building relentlessly.\n“It’s spooky because it’s about the same timing as seven years ago, when Fort McMurray burned,” he told _Vertical_. “In the first week of May, we were already seeing 34 C \\ and very dry conditions. We have a pond on our property and in the springtime, it usually has quite a bit of water and there is an overflow system. This year, it was down two feet from the level last fall. We are in a severe drought here.”\nOn top of that, Spring pointed to wildfires already burning in Nova Scotia and British Columbia. As of May 31, the Canadian Interagency Forest Fire Centre (CIFFC) was at preparedness Level 5, denoting the highest level of wildland fire...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Canada wildfires: Why are firefighting helicopters shooting flames at ...",
+                "htmlTitle": "<b>Canada wildfires</b>: Why are firefighting <b>helicopters</b> shooting flames at ...",
+                "link": "https://www.euronews.com/2023/08/22/canada-wildfires-why-are-firefighting-helicopters-shooting-flames-at-burning-forests",
+                "displayLink": "www.euronews.com",
+                "snippet": "Aug 22, 2023 ... The next shot shows a large area of the land on fire. \"Canada used drones with flame throwers attached to them and helicopters to start fires ...",
+                "htmlSnippet": "Aug 22, 2023 <b>...</b> The next shot shows a large area of the land on <b>fire</b>. &quot;<b>Canada</b> used drones with flame throwers attached to them and <b>helicopters</b> to <b>start fires</b>&nbsp;...",
+                "formattedUrl": "https://www.euronews.com/2023/.../canada-wildfires-why-are-firefighting-...",
+                "htmlFormattedUrl": "https://www.euronews.com/<b>2023</b>/.../<b>canada</b>-<b>wildfires</b>-why-are-firefighting-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHIiowoXXNn2VTlCUDk_LJFO4gR46_0msAWlU3PVKyC5LbFgNI1YskX4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://static.euronews.com/articles/stories/07/83/69/10/1200x675_cmsv2_b43a0ce1-50b6-5020-a544-ad1cc0c024c3-7836910.jpg",
+                            "msapplication-config": "browserconfig.xml",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "adv:branded": "no",
+                            "og:site_name": "euronews",
+                            "msapplication-tooltip": "Euronews.com",
+                            "apple-mobile-web-app-title": "Euronews.com",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Numerous social media users are misleadingly claiming firefighters are actually escalating the more than 400 wildfires raging in British Columbia, after sharing a viral video of a helicopter spraying flammable liquid.",
+                            "twitter:image": "https://static.euronews.com/articles/stories/07/83/69/10/1200x675_cmsv2_b43a0ce1-50b6-5020-a544-ad1cc0c024c3-7836910.jpg",
+                            "twitter:image:alt": "Canada wildfires: Why are firefighting helicopters shooting flames at burning forests?",
+                            "twitter:site": "@euronews",
+                            "news_keywords": "Video,Canada,TheCube,Fire,Forest fires,disinformation",
+                            "article:theme": "news",
+                            "application-name": "Euronews.com",
+                            "msapplication-tilecolor": "#0172F0",
+                            "msapplication-starturl": "./",
+                            "og:type": "article",
+                            "og:image:alt": "Canada wildfires: Why are firefighting helicopters shooting flames at burning forests?",
+                            "twitter:title": "Why are helicopters shooting flames at burning forests in Canada?",
+                            "msapplication-window": "width=1280;height=1024",
+                            "article:vertical": "news",
+                            "og:title": "Why are helicopters shooting flames at burning forests in Canada?",
+                            "og:image:height": "675",
+                            "sponsored": "no",
+                            "date.updated": "2023-08-22 06:01:24",
+                            "fb:pages": "101402598109",
+                            "msapplication-navbutton-color": "#0172F0",
+                            "program.url": "world",
+                            "wire": "no",
+                            "og:locale:alternate": "en-GB",
+                            "twitter:description": "Numerous social media users are misleadingly claiming firefighters are actually escalating the more than 400 wildfires raging in British Columbia, after sharing a viral video of a helicopter spraying flammable liquid.",
+                            "apple-mobile-web-app-capable": "no",
+                            "og:locale:alternate:url": "https://www.euronews.com/2023/08/22/canada-wildfires-why-are-firefighting-helicopters-shooting-flames-at-burning-forests",
+                            "adv:featured": "no",
+                            "og:locale": "en-GB",
+                            "mobile-web-app-capable": "no",
+                            "date.available": "2023-08-22 06:00:39 +02:00",
+                            "adv:premium": "yes",
+                            "og:url": "https://www.euronews.com/2023/08/22/canada-wildfires-why-are-firefighting-helicopters-shooting-flames-at-burning-forests",
+                            "date.modified": "2023-08-22 06:01:24 +02:00",
+                            "date.created": "2023-08-22 06:00:39"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.euronews.com/articles/stories/07/83/69/10/1200x675_cmsv2_b43a0ce1-50b6-5020-a544-ad1cc0c024c3-7836910.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... burning forests?\n======================================================================================\n!\n_This handout photo shows the town of Fort Smith, Canada during the wildfires, on August 13, 2023. \\- Copyright AFP PHOTO / DANA FERGUSSON_\nCopyright AFP PHOTO / DANA FERGUSSON\nBy  with **AP**\nPublished on 22/08/2023 - 6:00 GMT+2\nShare this article\nShare this article!\nFacebook!]Twitter!]Flipboard!]Send!]Reddit!]Messenger!]Linkedin!]VK!]\nCopy/paste the article video embed link below:!Copied\nNumerous social media users are misleadingly claiming firefighters are actually escalating the more than 400 wildfires raging in British Columbia, after sharing a viral video of a helicopter spraying flammable liquid.\n!ADVERTISEMENT\nA series of devastating wildfires have engulfed vast areas of forest in British Columbia and the Northwest Territories in Canada, forcing thousands to evacuate their homes.\nThe country is having its worst wildfire season on record, with at least 1,000 fires burning across the country, according to the \n!\nExperts say climate change increases the risk of hot and dry weather that is likely to fuel the optimal conditions that lead to wildfires.\nBut  a number of social media users and sparked conspiracy theories these Canadian forest fires have nothing to do with climate change but have rather been purposefully started by firefighting helicopters.\nThe clip shows a helicopter flying above a forest filled with smoke, as a torch suspended from the chopper emits flames. The next shot shows a large area of the land on fire.\n\"Canada used drones with flame throwers attached to them and helicopters to start fires all across the country, \\ Trudeau called it climate change,\" tweeted one user.\n\"I live in Canada. They started the fires with drones and helicopters dropping fireballs,\" claimed another X account, formerly known as Twitter.\nBy doing a reverse image search, The Cube found this clip is indeed real and was not doctored.\nHowever, the footage does not show the current wildfires in Canada. It dates back to June 2023 and was first posted on Youtube by British Columbia’s Wildfire Service.\nAccording to the description of the video, the clip shows a planned ignition on the Donnie Creek wildfire with a flame-throwing helicopter called a Heli-torch.\nBut, this doesn't mean the helicopters are intentionally escalating forest fires.\nAs counterintuitive as it may seem, it’s actually possible to fight fire with fire -- it's called \nDue to the fact,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Video of helicopter conducting a planned burn doesn't show ...",
+                "htmlTitle": "Video of <b>helicopter</b> conducting a planned burn doesn&#39;t show ...",
+                "link": "https://apnews.com/article/fact-check-helicopter-flame-planned-burn-wildfire-canada-122773961874",
+                "displayLink": "apnews.com",
+                "snippet": "Jun 8, 2023 ... CLAIM: A video of a helicopter dropping flames on treetops in Canada shows wildfires in the country are “a set up.” AP'S ASSESSMENT: False.",
+                "htmlSnippet": "Jun 8, 2023 <b>...</b> CLAIM: A video of a <b>helicopter</b> dropping flames on treetops in <b>Canada</b> shows <b>wildfires</b> in the country are “a set up.” AP&#39;S ASSESSMENT: False.",
+                "formattedUrl": "https://apnews.com/.../fact-check-helicopter-flame-planned-burn-wildfire-c...",
+                "htmlFormattedUrl": "https://apnews.com/.../fact-check-helicopter-flame-planned-burn-wildfire-<b>c</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC5o31l_AXYoqY3KeP90HTkUftAi8YQB650BRnzKql9OrowEPwjEF7x4I&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "thumbnail": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg",
+                            "og:image:width": "1440",
+                            "article:published_time": "2023-06-08T23:03:31.011",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "AP News",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "As more than 400 blazes burned across Canada on Thursday, social media users misrepresented footage of containment efforts to baselessly claim it shows that the fires were deliberately lit.",
+                            "twitter:image": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg",
+                            "twitter:site": "@AP",
+                            "article:modified_time": "2023-08-24T19:19:09.621",
+                            "brightspot.contentid": "00000188-ba49-dcf6-a7bb-faed05800000",
+                            "thumbnail": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg",
+                            "og:type": "article",
+                            "article:section": "AP Fact Check",
+                            "twitter:title": "Video of helicopter conducting a planned burn doesn’t show Canada wildfires are a ‘set up’",
+                            "og:image:url": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg",
+                            "ga-datalayer": "{\n  \"dimension1\" : \"122773961874\",\n  \"dimension15\" : \"Fact-checking,AP Fact Check,AP Fact Check\",\n  \"dimension9\" : \"2023-06-08 19:03:31\",\n  \"dimension10\" : \"By KARENA PHAN\"\n}",
+                            "ntv-kv": "Fact-checking,APFactCheck",
+                            "og:title": "Video of helicopter conducting a planned burn doesn’t show Canada wildfires are a ‘set up’",
+                            "og:image:height": "810",
+                            "permutive-datalayer": "{\n  \"category\" : \"AP Fact Check\",\n  \"dfp_kv\" : {\n    \"page_type\" : \"Article\"\n  },\n  \"tags\" : [ \"AP Fact Check\", \"Fact-checking\" ],\n  \"page_type\" : \"Article\",\n  \"publication_date\" : \"2023-06-08T19:03:31.000Z\",\n  \"item_id\" : \"122773961874\",\n  \"headline\" : \"Video of helicopter conducting a planned burn doesn’t show Canada wildfires are a ‘set up’\",\n  \"authors\" : [ ]\n}",
+                            "article:tag": "Fact-checking",
+                            "fb:app_id": "870613919693099",
+                            "viewport": "width=device-width, initial-scale=1, minimum-scale=1",
+                            "twitter:description": "As more than 400 blazes burned across Canada on Thursday, social media users misrepresented footage of containment efforts to baselessly claim it shows that the fires were deliberately lit.",
+                            "og:url": "https://apnews.com/article/fact-check-helicopter-flame-planned-burn-wildfire-canada-122773961874",
+                            "gtm-datalayer": "{\n  \"event\" : \"Article Visited\",\n  \"Item_Id\" : \"122773961874\",\n  \"Tag_CMS\" : \"Fact-checking,AP Fact Check,AP Fact Check\",\n  \"item_ID\" : \"122773961874\",\n  \"tag_array\" : \"Fact-checking,AP Fact Check,AP Fact Check\",\n  \"headline\" : \"Video of helicopter conducting a planned burn doesn’t show Canada wildfires are a ‘set up’\",\n  \"publication_date\" : \"2023-06-08 19:03:31\",\n  \"author\" : \"By KARENA PHAN\",\n  \"linked_video\" : \"NO\",\n  \"pr_content\" : \"NO\",\n  \"featured\" : \"NO\",\n  \"lead_media\" : \"Photo\",\n  \"page_type\" : \"Article\",\n  \"is_infobox_present\" : \"NO\",\n  \"is_inline_link_present\" : \"YES\",\n  \"character_count\" : 2533,\n  \"primary_section\" : \"AP Fact Check\",\n  \"secondary_sections\" : \"AP Fact Check\",\n  \"seo_title_updated\" : \"\",\n  \"seo_description_updated\" : \"\"\n}"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://dims.apnews.com/dims4/default/d473a21/2147483647/strip/true/crop/822x462+0+19/resize/1440x810!/quality/90/?url=https%3A%2F%2Fstorage.googleapis.com%2Fafs-prod%2Fmedia%2Fafs%3AMedium%3A397395186772%2F822.jpeg"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "claimReviewed": "A video of a helicopter dropping flames on",
+                            "url": "https://apnews.com/article/fact-check-helicopter-flame-planned-burn-wildfire-canada-122773961874"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n*   \n*   \n*   \n*   \n*   \n*   \n*     !\n    The Associated Press is an independent global news organization dedicated to factual reporting. Founded in 1846, AP today remains the most trusted source of fast, accurate, unbiased news in all formats and the essential provider of the technology and services vital to the news business. More than half the world’s population sees AP journalism every day.\n*   *   \n    *   \n    *   \n*   The Associated Press\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   Cookie Settings\n    *   \n    *   \n    *   \n*   More From AP News\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   Copyright 2024 The Associated Press. All Rights Reserved.\nVideo of helicopter conducting a planned burn doesn’t show Canada wildfires are a ‘set up’\n==========================================================================================\n             !\nBy  KARENA PHAN\nShare\nShare\n*   Copy\n    Link copied\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   (javascript:window.print\\(\\))\nCLAIM: A video of a helicopter dropping flames on treetops in Canada shows wildfires in the country are “a set up.”\nAP’S ASSESSMENT: False.  shows firefighters conducting a planned burn last weekend on the  in northeastern British Columbia. The ignition was being used to help contain the fire by taking away fuel, not to spread it.\nTHE FACTS: As more than  across Canada on Thursday, social media users misrepresented footage of containment efforts to baselessly claim it shows that the fires were deliberately lit.\nA video shared on Instagram, TikTok and Twitter shows a yellow helicopter flying above a forest filled with smoke, as a helitorch suspended from the chopper emits flames. The next shot shows a forest ablaze. Text overlaid on the footage reads: “it was a set up.”\nHowever, the footage was taken from  shared by the British Columbia Wildfire service on June 4 on YouTube. In the video, members of the fire service explain how they are using “planned ignitions” to fight the Donnie Creek blaze.\nIn the video, Mike Morrow, an ignition specialist with the service, says firefighters are stopping the conflagration from spreading by using planned burns to rob the fire of fuel. “We’re taking the fuels out on our terms rather than letting Mother Nature guide the project,” he says.\nRELATED COVERAGE\n      ]\n      ]\n      ]\n...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "How helicopter operators are battling Canada's wildfires - Vertical Mag",
+                "htmlTitle": "How <b>helicopter</b> operators are battling <b>Canada&#39;s wildfires</b> - Vertical Mag",
+                "link": "https://verticalmag.com/features/how-helicopter-operators-are-battling-canadas-wildfires/",
+                "displayLink": "verticalmag.com",
+                "snippet": "Aug 3, 2023 ... Everyone knows that Canadian forests are burning. Whether they've seen it in the news or smelled it in the air, the fallout from the 2023 ...",
+                "htmlSnippet": "Aug 3, 2023 <b>...</b> Everyone knows that <b>Canadian</b> forests are burning. Whether they&#39;ve seen it in the news or smelled it in the air, the fallout from the <b>2023</b>&nbsp;...",
+                "formattedUrl": "https://verticalmag.com/.../how-helicopter-operators-are-battling-canadas-w...",
+                "htmlFormattedUrl": "https://verticalmag.com/.../how-helicopter-operators-are-battling-<b>canada</b>s-<b>w</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlmxAoOnT64voVs567l3-TVkQwrJuM3chyLQfs8_rY_fwhmwQS1YXPkz1T&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://assets.verticalmag.com/wp-content/uploads/2023/08/shutterstock_1781549531.jpg",
+                            "og:type": "article",
+                            "og:image:width": "1400",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Vertical Mag",
+                            "og:title": "How helicopter operators are battling Canada's wildfires",
+                            "og:image:height": "933",
+                            "og:image:type": "image/jpeg",
+                            "msapplication-tileimage": "https://assets.verticalmag.com/wp-content/uploads/2016/07/cropped-favicon-lg-270x270.png",
+                            "og:description": "Wildfires are burning coast to coast in a season like no other in recent memory. We check in with some of the air operators battling these stubborn and smoky Canadian blazes.",
+                            "fb:pages": "51515866660",
+                            "article:publisher": "https://www.facebook.com/verticalmag/",
+                            "twitter:site": "@verticalmag",
+                            "article:modified_time": "2023-08-03T12:31:44+00:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "og:locale": "en_US",
+                            "og:url": "https://verticalmag.com/features/how-helicopter-operators-are-battling-canadas-wildfires/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://assets.verticalmag.com/wp-content/uploads/2023/08/shutterstock_1781549531.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Published on: August 3, 2023  \nEstimated reading time 23 minutes, 28 seconds.\nEveryone knows that Canadian forests are burning. Whether they’ve seen it in the news or smelled it in the air, the fallout from the 2023 wildfire season is significant and scary.\nOn June 28, Toronto’s air quality was among the worst in the world, thanks to forest fires burning in Quebec and northeastern Ontario. Just a day later, more than one million Americans were under air-quality alerts as wildfire smoke drifted south of the border, causing hazy skies in big U.S. cities like New York City, Chicago and Philadelphia. NASA reported that smoke from weeks-long fires in Quebec had reached southwestern Europe by June 26.\n!\nWhile last year’s Canadian wildfire season was relatively slow, this year it has started with a bang. Elkins Eye Visuals Photo\nCompared to a relatively slow fire season in 2022, this year started with a bang in Western Canada. Crews were called out about two weeks earlier than normal in mid-April, foiling the usual staggered start that allows aerial firefighters and ground crews to ramp up at a measured pace.\nMoving into July, the Canadian Interagency Forest Fire Centre (CIFFC) reported 618 active fires across the country on July 3, with year-to-date blazes responsible for burning a total of 8.5 million hectares (21 million acres).\nAt VIH Helicopters in Victoria, B.C., the main...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Clips show fire-fighting helicopters, not Canadian wildfires being ...",
+                "htmlTitle": "Clips show <b>fire</b>-fighting <b>helicopters</b>, not <b>Canadian wildfires</b> being ...",
+                "link": "https://www.reuters.com/article/factcheck-fires-helicopters/fact-check-clips-show-fire-fighting-helicopters-not-canadian-wildfires-being-intentionally-started-idUSL1N3851VO/",
+                "displayLink": "www.reuters.com",
+                "snippet": "Jun 2, 2023 ... One of the clips widely circulating shows a recording of a newscast depicting a yellow helicopter. “That's how they started the fire,” one ...",
+                "htmlSnippet": "Jun 2, 2023 <b>...</b> One of the clips widely circulating shows a recording of a newscast depicting a yellow <b>helicopter</b>. “That&#39;s how they <b>started</b> the <b>fire</b>,” one&nbsp;...",
+                "formattedUrl": "https://www.reuters.com/...helicopters/fact-check-clips-show-fire-fighting-h...",
+                "htmlFormattedUrl": "https://www.reuters.com/...<b>helicopters</b>/fact-check-clips-show-fire-fighting-<b>h</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQULOd4UaI2NRMEYgbkeiFOygqQAUuOPuwHNAkBG1Tz9IZx2Th3d8D4bn-V&s",
+                            "width": "311",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=602660809, app-argument=https://www.reuters.com/article/fact-check/clips-show-fire-fighting-helicopters-not-canadian-wildfires-being-intentionally-idUSL1N3851VO/?id=L1N3851VO",
+                            "og:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "analytics:page_layout": "regular-article",
+                            "article:published_time": "2023-06-13T17:47:46.000Z",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "Reuters",
+                            "ccbot": "nofollow",
+                            "analytics:ad_layout": "leaderboard, right rail, sponsored",
+                            "analyticsattributes.topicchannel": "Fact Check",
+                            "title": "Clips show fire-fighting helicopters, not Canadian wildfires being intentionally started | Reuters",
+                            "og:description": "Footage of helicopters using flame-throwing torches to light fires has been misrepresented online, with social media posts claiming the clips show that the 2023 Canadian wildfires are being lit deliberately.",
+                            "twitter:creator": "@Reuters",
+                            "twitter:image": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "twitter:image:alt": "Reuters logo",
+                            "twitter:site": "@Reuters",
+                            "article:modified_time": "2023-06-13T17:47:46.000Z",
+                            "render_timestamp": "2024-08-01T00:10:28.706Z",
+                            "fb:admins": "988502044532272",
+                            "article:content_tier": "free",
+                            "og:type": "article",
+                            "article:section": "Fact Check",
+                            "og:image:alt": "Reuters logo",
+                            "twitter:title": "Clips show fire-fighting helicopters, not Canadian wildfires being intentionally started",
+                            "ad:template": "article",
+                            "og:image:url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206",
+                            "dcsext.dartzone": "/4735792/reuters.com/fact-check/article",
+                            "og:title": "Clips show fire-fighting helicopters, not Canadian wildfires being intentionally started",
+                            "dcsext.channellist": "Fact Check;",
+                            "og:image:height": "628",
+                            "og:article:published_time": "2023-06-13T17:47:46.000Z",
+                            "fb:pages": "114050161948682",
+                            "article:author": "Reuters Fact Check",
+                            "fb:app_id": "988502044532272",
+                            "og:locale:alternate": "en_US",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Footage of helicopters using flame-throwing torches to light fires has been misrepresented online, with social media posts claiming the clips show that the 2023 Canadian wildfires are being lit deliberately.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.reuters.com/article/fact-check/clips-show-fire-fighting-helicopters-not-canadian-wildfires-being-intentionally-idUSL1N3851VO/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=206"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://www.reuters.com/article/factcheck-fires-helicopters/fact-check-clips-show-fire-fighting-helicopters-not-canadian-wildfires-being-intentionally-started-idUSL1N3851VO/: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://www.reuters.com/article/factcheck-fires-helicopters/fact-check-clips-show-fire-fighting-helicopters-not-canadian-wildfires-being-intentionally-started-idUSL1N3851VO/",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Planned burn used to mitigate, not start, wildfire | Fact check",
+                "htmlTitle": "Planned burn used to mitigate, not <b>start</b>, <b>wildfire</b> | Fact check",
+                "link": "https://www.usatoday.com/story/news/factcheck/2023/06/08/canadian-wildfires-not-caused-by-helicopter-dropping-fire-fact-check/70299291007/",
+                "displayLink": "www.usatoday.com",
+                "snippet": "Jun 8, 2023 ... One clip shows a helicopter dropping fire on part of the forest that is not burning. \"That's how they started the fire,\" says one person ...",
+                "htmlSnippet": "Jun 8, 2023 <b>...</b> One clip shows a <b>helicopter</b> dropping <b>fire</b> on part of the forest that is not burning. &quot;That&#39;s how they <b>started</b> the <b>fire</b>,&quot; says one person&nbsp;...",
+                "formattedUrl": "https://www.usatoday.com/story/.../2023/06/...wildfires.../70299291007/",
+                "htmlFormattedUrl": "https://www.usatoday.com/story/.../<b>2023</b>/06/...<b>wildfires</b>.../70299291007/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLhfCuKtxdz9UGYS5VbWGkhygvDksQEuLDJRnM2zcq9Q_A0ZkUArla1M&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/3e5902b9-61de-4914-9c00-7a975d540c1c-GTY_1258514923.jpg?crop=4999,2812,x0,y254&width=3200&height=1801&format=pjpg&auto=webp",
+                            "apple-itunes-app": "app-id=504631398,app-argument=https://app.adjust.com/ivqo5xe",
+                            "theme-color": "#0098FE",
+                            "og:image:width": "3200",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Viral helicopter video shows planned ignition to mitigate wildfire in Canada | Fact check",
+                            "og:site_name": "USA TODAY",
+                            "og:title": "Viral helicopter video shows planned ignition to mitigate wildfire in Canada | Fact check",
+                            "og:image:height": "1801",
+                            "google": "notranslate",
+                            "og:description": "The post does not prove the Canadian wildfires were a setup. The video shows a planned ignition, a common technique for fighting wildfires.",
+                            "fb:pages": "13652355666,48958576760,156345381090801,110471702456365,6566864515,137698179626815,315942225236045,927427260614748,183850168300771,1443524575938047,251228454889939,158095147555989,115535341805950,236655713446291,1621466394844549,250325640686,177037772444433,1972936962947967,2047091012096533,535551216797440",
+                            "twitter:creator": "@usatoday",
+                            "article:author": "Eleanor McCrary",
+                            "twitter:image": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/3e5902b9-61de-4914-9c00-7a975d540c1c-GTY_1258514923.jpg?crop=4999,2812,x0,y254&width=1600&height=800&format=pjpg&auto=webp",
+                            "fb:app_id": "215046668549694",
+                            "twitter:site": "@usatoday",
+                            "viewport": "width=device-width,initial-scale=1,minimum-scale=1",
+                            "twitter:description": "The post does not prove the Canadian wildfires were a setup. The video shows a planned ignition, a common technique for fighting wildfires.",
+                            "article:content_tier": "free",
+                            "og:url": "https://www.usatoday.com/story/news/factcheck/2023/06/08/canadian-wildfires-not-caused-by-helicopter-dropping-fire-fact-check/70299291007/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.usatoday.com/gcdn/presto/2023/06/08/USAT/3e5902b9-61de-4914-9c00-7a975d540c1c-GTY_1258514923.jpg?crop=4999,2812,x0,y254&width=3200&height=1801&format=pjpg&auto=webp"
+                        }
+                    ],
+                    "ClaimReview": [
+                        {
+                            "datePublished": "2023-06-08T21:47:55Z",
+                            "claimReviewed": "Video proves the Canadian wildfire was intentionall",
+                            "url": "https://www.usatoday.com/story/news/factcheck/2023/06/08/canadian-wildfires-not-caused-by-helicopter-dropping-fire-fact-check/70299291007/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "The claim: Video proves the Canadian wildfire was intentionally set\n-------------------------------------------------------------------\nA June 6 Instagram post (, ) shows several people watching clips of a wildfire burning through a forest on TV. One clip shows a helicopter dropping fire on part of the forest that is not burning.\n\"That's how they started the fire,\" says one person watching the TV. \"They set it up\"\n\"It was a set up,\" reads on-screen text included in the Instagram post. The post's caption includes the hashtag \"#canadafire.\"\nThe post was liked over 14,000 times in one day.\n**Follow us on Facebook!** \nOur rating: False\n-----------------\nThis video does not prove the Canadian wildfires were intentionally set. It shows a planned ignition conducted by the British Columbia Wildfire Service to mitigate the effects of an ongoing wildfire.\nVideo shows planned ignition to cultivate safety, not destruction\n-----------------------------------------------------------------\nHundreds of wildfires spreading across Canada have burned more than 9 million acres as of June 8, according to . But the footage of the helicopter dropping fire onto trees below is not evidence that these wildfires were intentionally set.\nRather, the video shows a  performed in early June at Donnie Creek in . It was captured by the , said Jean Strong, an information officer with the service.\nPlanned ignitions are an \"essential and effective\" technique used by firefighters to slow down and limit the spread of large wildfires, Strong said.\n“When the decision is made to conduct such a burn operation, the wildfire is usually beyond...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "A Canada climate conspiracy theorist pleads guilty to starting 14 ...",
+                "htmlTitle": "A <b>Canada</b> climate conspiracy theorist pleads guilty to <b>starting</b> 14 ...",
+                "link": "https://www.cnn.com/2024/01/17/climate/canada-conspiracy-theorist-arson-wildfires-intl/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jan 17, 2024 ... A Canadian man who posted conspiracy theories claiming the government was deliberately starting wildfires has pleaded guilty to starting ...",
+                "htmlSnippet": "Jan 17, 2024 <b>...</b> A <b>Canadian</b> man who posted conspiracy theories claiming the government was deliberately <b>starting wildfires</b> has pleaded guilty to <b>starting</b>&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2024/01/17/climate/canada...wildfires.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2024/01/17/climate/<b>canada</b>...<b>wildfires</b>.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7ikLICDcqdJkL46PRETM6s-bGxYs7WGWRukhJnektMPFbytKt7fKy6FvM&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/240117131622-01-mistissini-wildfire-june-2023.jpg?c=16x9&q=w_800,c_fill",
+                            "twitter:title": "A climate conspiracy theorist said the government deliberately lit wildfires. He just pleaded guilty to starting 14 himself | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2024-01-17T19:58:05.863Z",
+                            "og:site_name": "CNN",
+                            "author": "Laura Paddison, Paula Newton",
+                            "og:title": "A climate conspiracy theorist said the government deliberately lit wildfires. He just pleaded guilty to starting 14 himself | CNN",
+                            "meta-section": "world",
+                            "type": "article",
+                            "og:description": "A Canadian man who posted conspiracy theories claiming the government was deliberately starting wildfires has pleaded guilty to starting more than a dozen blazes, forcing hundreds of people from their homes.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/240117131622-01-mistissini-wildfire-june-2023.jpg?c=16x9&q=w_800,c_fill",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2024-01-17T19:58:05.863Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "A Canadian man who posted conspiracy theories claiming the government was deliberately starting wildfires has pleaded guilty to starting more than a dozen blazes, forcing hundreds of people from their homes.",
+                            "template_type": "article_leaf",
+                            "theme": "world",
+                            "og:url": "https://www.cnn.com/2024/01/17/climate/canada-conspiracy-theorist-arson-wildfires-intl/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/240117131622-01-mistissini-wildfire-june-2023.jpg?c=16x9&q=w_800,c_fill"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\n            A Canadian man who posted conspiracy theories on social media claiming the government was deliberately starting wildfires has pleaded guilty to starting 14 blazes that forced hundreds of people from their homes.\n    \n\n            Brian Paré, appearing in a Quebec court Monday, admitted to 13 counts of arson, and one count of arson with a disregard for human life, relating to events between May and September last year.\n    \n\n            Prosecutor Marie-Philippe Charron said one of the fires Paré set forced the evacuation of around 400 people in the town of Chapais, Quebec. The largest fire Paré admitted to starting destroyed more than 870 hectares.\n    \n\n            “Mr. Pare does not remember all of the fires he could have started, so we have currently 14 fires, we have 14 counts,” Charron told CNN. “It’s possible there are more but we do not have evidence of that,” she added.\n    \n\n            Charron said police and first responders grew suspicious when a number of fires happened over a short period of time without a discernible cause.\n    \n\n            Police officers became interested in Paré after he was spotted in the areas of several fires. They also found multiple social media posts by Paré accusing the Canadian government of purposefully igniting fires to persuade people to believe in climate change.\n    \n\n            “According to police evidence, the accused posted a lot of conspiracy theories about the fires...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Fact Check: Did helicopters start the Canada wildfire? Viral video ...",
+                "htmlTitle": "Fact Check: Did <b>helicopters start</b> the <b>Canada wildfire</b>? Viral video ...",
+                "link": "https://www.sportskeeda.com/pop-culture/fact-check-did-helicopters-start-canada-wildfire-viral-video-debunked",
+                "displayLink": "www.sportskeeda.com",
+                "snippet": "Jun 10, 2023 ... The BBC Wildfire Service YouTube channel posted a video on June 4, 2023, that detailed how planned ignitions help control fires. The video is ...",
+                "htmlSnippet": "Jun 10, 2023 <b>...</b> The BBC <b>Wildfire</b> Service YouTube channel posted a video on June 4, <b>2023</b>, that detailed how planned ignitions help control <b>fires</b>. The video is&nbsp;...",
+                "formattedUrl": "https://www.sportskeeda.com/.../fact-check-did-helicopters-start-canada-wil...",
+                "htmlFormattedUrl": "https://www.sportskeeda.com/.../fact-check-did-<b>helicopters</b>-start-<b>canada</b>-wil...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7c0JZ3xxiq4Pp9K_QkwQW5YT_HKWO94rlXn5oDGgZHiennAt4vnTsBcqP&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://staticg.sportskeeda.com/editor/2023/06/0b499-16863893495592-1920.jpg",
+                            "theme-color": "#FFFFFF",
+                            "og:type": "article",
+                            "twitter:title": "Fact Check: Did helicopters start the Canada wildfire? Viral video debunked",
+                            "article:published_time": "2023-06-10T10:37:16+00:00",
+                            "author": "Aaron Antony",
+                            "og:title": "Fact Check: Did helicopters start the Canada wildfire? Viral video debunked",
+                            "google": "notranslate",
+                            "fb:pages": "116151972998",
+                            "og:description": "A viral Instagram video, making rounds of the internet shows people claiming that the Canadian Wildfire was a set-up.",
+                            "twitter:image": "https://staticg.sportskeeda.com/editor/2023/06/0b499-16863893495592-1920.jpg",
+                            "fb:app_id": "394687130715834",
+                            "article:modified_time": "2023-06-10T10:37:16+00:00",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes",
+                            "twitter:description": "A viral Instagram video, making rounds of the internet shows people claiming that the Canadian Wildfire was a set-up.",
+                            "fb:admins": "603431824",
+                            "og:url": "https://www.sportskeeda.com/pop-culture/fact-check-did-helicopters-start-canada-wildfire-viral-video-debunked"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://staticg.sportskeeda.com/editor/2023/06/0b499-16863893495592-1920.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... completely false.** The video doesn't showcase the set-up of a wildfire but shows authorities attempting to control the fire. The helicopter is not setting up wildfires but is trying to limit the spread of the existing wildfire through controlled burns.\n@dashcam\\_newyork has over 98,600 followers on Instagram, and the account's owner, @chipeoshaw is a New York blogger with an Instagram following of over 117,000.\nIn the video, that was shared on the account, a man films the TV screen, where the video of the helicopter dropping flames is playing. The man says that this was how they started the fire and called it a setup. The voice of a woman can also be heard in the background saying that it was fake news.\nThe woman continues to state multiple times that it was fake news and that it was done to clean out . Meanwhile, the man says:\n> \"So you're going to clean out dead trees by setting more fire?\"\n* * *\nDonnie Creek ignition specialist, Mike Morrow, on how ignitions help control the wildfire\n-----------------------------------------------------------------------------------------\nThe original clip, playing the helicopters  was taken from a Youtube video posted on the Bloomberg Television Youtube channel on June 7, 2023. The Bloomberg video sourced planned ignition updates videos from the British Columbia Wildfire Service.\n!\nThe BBC Wildfire Service YouTube channel posted a video on June 4, 2023, that detailed how planned ignitions help . The video is titled \"Donnie Creek Wildlife - planned ignitions update June 4, 2023.\"\nIt sees Donnie Creek complex ignition and fire behavior specialist, Mike Morrow explaining how wind shifts might cause the aggressive fires to move toward communities. Morrow explains that because they were concerned about the fire moving towards areas of concern, they decided to control the  and take it out.\nHe said:\n> \"What we're doing is we're taking the fuels out on our terms rather than letting mother nature guide the project.\"\n!\nMorgan Bogeen explains that prior to the active ignition, they make a mission plan to ensure that the burn is successful. Bogeen, an Ignition and Fire Behaviour Specialist trainee, added:\n> \"We're looking at what resources will be required to hold the ignition lines, what resources will be required to light the fire, whether it be hand crews or aerial ignition or In this case we use a Heli-torch.\"\nAccording to Mike Morrow, a Heli-torch is a 45-gallon drum gelled gasoline, that the pilot suspends under the helicopter. Once the command is...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "The Flame-Throwing Helicopter That Fights Wildfires | WIRED",
+                "htmlTitle": "The Flame-Throwing <b>Helicopter</b> That Fights <b>Wildfires</b> | WIRED",
+                "link": "https://www.wired.com/2015/08/flame-throwing-helicopter-fights-wildfires/",
+                "displayLink": "www.wired.com",
+                "snippet": "Aug 6, 2015 ... ... fire starter—much like napalm. The idea is to start a continuous line of fire over hundreds or thousands of feet, even in rugged and ...",
+                "htmlSnippet": "Aug 6, 2015 <b>...</b> ... <b>fire</b> starter—much like napalm. The idea is to <b>start</b> a continuous line of <b>fire</b> over hundreds or thousands of feet, even in rugged and&nbsp;...",
+                "formattedUrl": "https://www.wired.com/2015/08/flame-throwing-helicopter-fights-wildfires/",
+                "htmlFormattedUrl": "https://www.wired.com/2015/08/flame-throwing-helicopter-fights-<b>wildfires</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsLg58De5IV-Jg-MICjZfVdyYnF0zEdnz0nIjssu-oCb_HvpTuATIUwHtT&s",
+                            "width": "310",
+                            "height": "162"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.wired.com/photos/595491698e8cc150fa8ec45f/191:100/w_1280,c_limit/flames.jpg",
+                            "copyright": "Copyright (c) Condé Nast 2024",
+                            "article:published_time": "2015-08-06T19:45:07.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "WIRED",
+                            "parsely-metadata": "{\"description\":\"Crews fighting the massive Rocky Fire in northern California have dusted off the helitorch.\",\"image-16-9\":\"https://media.wired.com/photos/595491698e8cc150fa8ec45f/16:9/w_1000,c_limit/flames.jpg\",\"image-1-1\":\"https://media.wired.com/photos/595491698e8cc150fa8ec45f/1:1/w_1000,c_limit/flames.jpg\"}",
+                            "og:description": "Crews fighting the massive Rocky Fire in northern California have dusted off the helitorch.",
+                            "twitter:creator": "@wired",
+                            "twitter:image": "https://media.wired.com/photos/595491698e8cc150fa8ec45f/191:100/w_1280,c_limit/flames.jpg?mbid=social_retweet",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@wired",
+                            "article:modified_time": "2015-08-06T19:45:07.000Z",
+                            "news_keywords": "aviation,cool sh*t,helicopter,wildfires",
+                            "content-type": "article",
+                            "article:content_tier": "free",
+                            "id": "5954916abe605811a2fdd6b8",
+                            "og:type": "article",
+                            "article:section": "tags",
+                            "twitter:title": "The Flame-Throwing Helicopter That Fights Wildfires",
+                            "parsely-post-id": "5954916abe605811a2fdd6b8",
+                            "twitter:domain": "https://www.wired.com",
+                            "pinterest:image": "https://media.wired.com/photos/595491698e8cc150fa8ec45f/2:3/w_1000,h_1500,c_limit/flames.jpg",
+                            "author": "Condé Nast",
+                            "og:title": "The Flame-Throwing Helicopter That Fights Wildfires",
+                            "fb:pages": "19440638720",
+                            "article:author": "Jordan Golson",
+                            "fb:app_id": "719405864858490",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Crews fighting the massive Rocky Fire in northern California have dusted off the helitorch.",
+                            "og:url": "https://www.wired.com/2015/08/flame-throwing-helicopter-fights-wildfires/",
+                            "google-signin-client_id": "904266558061-dqllerrg1949kl0dfu2k64nhvhtqoee0.apps.googleusercontent.com",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.wired.com/photos/595491698e8cc150fa8ec45f/191:100/w_1280,c_limit/flames.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... a somewhat more extraordinary piece of equipment: the helitorch. Yes: It's a flame-spitting helicopter.\nThere more mundane ways to set controlled burns, like a fusee (basically a handheld flare), flare guns (great for lighting a hillside on fire), or a driptorch filled with a mixture of gasoline and diesel that literally pours fire out of a spigot.\nBut all of these solutions require men on the ground, near the fire. That can be tough in rugged terrain, and requires a ton of manpower to light large areas. That's why we have the helitorch.\nThere are a couple different types of helitorch, but they all work largely the same way: combine aviation gasoline (which doesn't evaporate as quickly as standard gas) and a gelling agent (CAL FIRE uses something called ), light it on fire, and shoot it out of a giant contraption hanging a few dozen feet below a helicopter.\nThe gelling agent thickens the fuel, keeping it burning longer and improving its effectiveness as a fire starter—much like napalm. The idea is to start a continuous line of fire over hundreds or thousands of feet, even in rugged and inaccessible terrain. It also ignites the treetops, which is difficult for ground-based operations.\nAnd, like so many things related to wildfires, it looks freaking awesome.\nMost Popular\n*   \n    Gear\n    By Parker Hall\n*   \n    Gear\n    By Aarian Marshall\n*   \n    Gear\n    By Justin Pot\n*   \n    Gear\n    By Adrienne So\n]\n is a technology and automotive reporter based in Durango, Colorado. Email: jlgolson@gmail.com Twitter: @jlgolson\nReporter\n*   \nTopics\nRead More\nThe latest attempt at an AI-powered wearable is an always-listening pendant. But it doesn’t help you be more productive, it just keeps you company.\nBoone Ashworth\nSeemingly every holiday brings mattress sales—now including Amazon’s big day. Here are the best Prime Day mattress deals we’ve found on beds we’ve tested.\nMartin Cizmar\nThe middle of summer is the best time to buy a bike. Here are our top picks for Amazon Prime Day electric bike and escooter deals.\nAdrienne So\nApple has officially released the public beta for macOS 15 Sequoia. We break down how to install it, all the new features to look forward to, and tell you whether your current Mac will support the new operating system.\nBrenda Stolyar\nNew technology and a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Truth behind the viral video showing a helicopter \"starting fires\" in ...",
+                "htmlTitle": "Truth behind the viral video showing a <b>helicopter</b> &quot;<b>starting fires&quot; in</b> ...",
+                "link": "https://dailyhive.com/canada/canada-helicopter-starting-wildfire-video",
+                "displayLink": "dailyhive.com",
+                "snippet": "Jun 13, 2023 ... A video making rounds on the internet showing a helicopter \"starting a fire\" in a forest in Canada is nothing to panic about.",
+                "htmlSnippet": "Jun 13, 2023 <b>...</b> A video making rounds on the internet showing a <b>helicopter</b> &quot;<b>starting</b> a <b>fire</b>&quot; in a forest in <b>Canada</b> is nothing to panic about.",
+                "formattedUrl": "https://dailyhive.com/canada/canada-helicopter-starting-wildfire-video",
+                "htmlFormattedUrl": "https://dailyhive.com/<b>canada</b>/<b>canada</b>-helicopter-<b>starting</b>-wildfire-video",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://images.dailyhive.com/20230613130258/ink-e1686688017351-500x281.png",
+                            "twitter:title": "Truth behind the viral video showing a helicopter \"starting fires\" in Canada | Canada",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1200",
+                            "theme-color": "#031831",
+                            "og:title": "Truth behind the viral video showing a helicopter \"starting fires\" in Canada | Canada",
+                            "og:image:height": "630",
+                            "og:description": "A video making rounds on the internet showing a helicopter \"starting a fire\" in a forest in Canada is nothing to panic about.",
+                            "twitter:image": "https://images.dailyhive.com/20230613130258/ink-e1686688017351-500x281.png",
+                            "article:tag": "Social Issues",
+                            "next-head-count": "37",
+                            "fb:app_id": "628988490846386",
+                            "twitter:site": "https://dailyhive.com/canada/canada-helicopter-starting-wildfire-video",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=5",
+                            "twitter:description": "A video making rounds on the internet showing a helicopter \"starting a fire\" in a forest in Canada is nothing to panic about.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://dailyhive.com/canada/canada-helicopter-starting-wildfire-video",
+                            "article:opinion": "false"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Truth behind the viral video showing a helicopter \"starting fires\" in Canada | Canada\n===============\n!\nDaily Hive uses cookies to enhance your experience. Continue browsing to accept the use of all cookies. .\n]\n]\nThe truth behind the viral video showing a helicopter \"starting fires\" in Canada\n================================================================================\n!\n|\nJun 13 2023, 8:27 pm\n]\n* * *\n!\n* * *\n* * *\n]\n* * *\n!\n!\nBC Fire Service\n!\n* * *\n]\n* * *\nA video making rounds on the internet showing a helicopter “starting a fire” in a forest in Canada is nothing to panic about.\nIn the clip, a barrel hangs from a helicopter, shooting flames into the wild greenery.\nThe footage has been posted across social media platforms with captions accusing those aboard the helicopter of deliberately starting forest fires. But it’s not exactly worth a conspiracy theory if you know about firefighting.\n>    \nThe BC Wildfire Service initially posted the video on its YouTube channel. It documents the exact opposite of what many have assumed out of context. Planned ignition, also known as back burning, backfiring, or controlled prescribed burn-back, is an actual firefighting technique.\n“Planned ignitions are an essential wildfire management tool to remove forest fuels and bring the fire’s edge to established control lines with less intensity than free burning fire, thus reducing the ability for further spread,” reads the video’s description.\nAccording to the , a backburn is deliberately initiated in front of an active firefront — this can be a forest fire, grass fire, or another kind of wildfire. This doesn’t only happen aerially — it can also be done using hand-held torches.\nIt’s fighting fire with fire — literally.\n!A firefighter using a hand-held torch (BC Fire Service)\nMike Morrow, an ignition specialist working on the Donnie Creek fires with BC Wildfire Service, explains how the process works in the original video.\n“Extreme fire behaviour is occurring naturally on the north end,” Morrow says. “If we had a wind shift, \\ would be coming back to the communities and structures. What we’re doing is we’re taking the fuels out on our terms rather than letting Mother Nature guide the project.”\nHe adds that the device hanging from the helicopter in the video is called a “heli-torch.”\n!A view from the heli-torch (BC Fire Services)\n“A hel...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

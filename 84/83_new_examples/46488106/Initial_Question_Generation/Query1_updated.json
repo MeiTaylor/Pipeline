@@ -1,0 +1,873 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - The Simpsons episode predict submarine Titanic incident",
+                "totalResults": "69100",
+                "searchTerms": "The Simpsons episode predict submarine Titanic incident",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - The Simpsons episode predict submarine Titanic incident",
+                "totalResults": "69100",
+                "searchTerms": "The Simpsons episode predict submarine Titanic incident",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.220331,
+        "formattedSearchTime": "0.22",
+        "totalResults": "69100",
+        "formattedTotalResults": "69,100"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "The Simpsons predicted the titanic submarine incident. : r/titanic",
+                "htmlTitle": "<b>The Simpsons predicted</b> the <b>titanic submarine incident</b>. : r/<b>titanic</b>",
+                "link": "https://www.reddit.com/r/titanic/comments/14f7eo1/the_simpsons_predicted_the_titanic_submarine/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 21, 2023 ... r/titanic - \"Titanic\" from the One Step Beyond episode \"Night of. upvotes \u00b7 comments\u00a0...",
+                "htmlSnippet": "Jun 21, 2023 <b>...</b> r/<b>titanic</b> - &quot;<b>Titanic</b>&quot; from the One Step Beyond <b>episode</b> &quot;Night of. upvotes \u00b7 comments&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../titanic/.../the_simpsons_predicted_the_titanic_su...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../<b>titanic</b>/.../<b>the_simpsons</b>_<b>predict</b>ed_the_<b>titanic</b>_<b>su</b>...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD46KYYWDWlG9GG-6ClkZdtn4A1wsm5jEGt7AypNrHu7MNSWQbYAMecFs&s",
+                            "width": "263",
+                            "height": "192"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://preview.redd.it/the-simpsons-predicted-the-titanic-submarine-incident-v0-jsigzo18fd7b1.jpg?width=1080&crop=smart&auto=webp&s=bc96c54e6882fffe4b0f19880ef7176fc9734f60",
+                            "theme-color": "#000000",
+                            "og:image:width": "1080",
+                            "og:type": "website",
+                            "og:image:alt": "PORTRION WORKVEST WORK VEST \u0627\u0646 FOUR FINGER DISCOUNT",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/titanic on Reddit: The Simpsons predicted the titanic submarine incident.",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/titanic on Reddit: The Simpsons predicted the titanic submarine incident.",
+                            "og:image:height": "787",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/realchrisgunter - No votes and 22 comments",
+                            "twitter:image": "https://preview.redd.it/the-simpsons-predicted-the-titanic-submarine-incident-v0-jsigzo18fd7b1.jpg?width=1080&crop=smart&auto=webp&s=bc96c54e6882fffe4b0f19880ef7176fc9734f60",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/titanic/comments/14f7eo1/the_simpsons_predicted_the_titanic_submarine/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://preview.redd.it/the-simpsons-predicted-the-titanic-submarine-incident-v0-jsigzo18fd7b1.jpg?width=1080&crop=smart&auto=webp&s=bc96c54e6882fffe4b0f19880ef7176fc9734f60"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a platform that allows user-generated content and discussions. While it can host valuable information, the reliability varies widely depending on the specific subreddit and the credibility of the users posting. There is no formal fact-checking process on the site, which can lead to the spread of misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The evidence references a post on Reddit discussing 'The Simpsons' prediction regarding the Titanic, but it lacks concrete details about the specific episode or storyline. It doesn't provide strong support for determining the truthfulness of the claim."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "'The Simpsons' allegedly predicted Titanic submarine ...",
+                "htmlTitle": "&#39;<b>The Simpsons</b>&#39; allegedly <b>predicted Titanic submarine</b> ...",
+                "link": "https://nypost.com/2023/06/22/the-simpsons-allegedly-predicted-titanic-submarine-disappearance-17-years-ago/",
+                "displayLink": "nypost.com",
+                "snippet": "Jun 22, 2023 ... Originally airing in 2006, Season 17's 10th episode, titled \u201cHomer's ... predict the #Titanic Submarine incident,\u201d tweeted a second person.",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Originally airing in 2006, <b>Season</b> 17&#39;s 10th <b>episode</b>, titled \u201cHomer&#39;s ... <b>predict</b> the #<b>Titanic Submarine incident</b>,\u201d tweeted a second person.",
+                "formattedUrl": "https://nypost.com/.../the-simpsons-allegedly-predicted-titanic-submarine-di...",
+                "htmlFormattedUrl": "https://nypost.com/.../<b>the-simpsons</b>-allegedly-<b>predict</b>ed-<b>titanic</b>-<b>submarine</b>-di...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7tg-BU0lpSdIUDQglqOCSePSwHXWGnepDMIIPMtq2Nw2cKPiZhxNKkvh&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "apple-itunes-app": "app-id=410094240, app-argument=nypost://nypost.com/2023/06/22/the-simpsons-allegedly-predicted-titanic-submarine-disappearance-17-years-ago/?id=27590115",
+                            "og:image": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043670.jpg?quality=75&strip=all&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2023-06-22T13:57:36+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "sailthru.tags": ",exploration,missing titanic sub,submarines,the simpsons,titanic,X (formerly Twitter),TV",
+                            "og:site_name": "New York Post",
+                            "bingbot": "noarchive",
+                            "parsely-metadata": "{\"post_id\":\"nypost-27590115\"}",
+                            "og:description": "It seems that once again \u201cThe Simpsons\u201d has predicted the future.",
+                            "twitter:creator": "@Hobbenaro",
+                            "twitter:image": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043670.jpg?quality=75&strip=all&w=1024",
+                            "og:image:secure_url": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043670.jpg?quality=75&strip=all&w=1024",
+                            "article:publisher": "https://www.facebook.com/nypost",
+                            "twitter:text:title": "'The Simpsons' fans say show predicted Titanic submarine...",
+                            "twitter:site": "@nypost",
+                            "article:modified_time": "2023-06-22T16:33:50+00:00",
+                            "sailthru.title": "\u2018The Simpsons\u2019 fans say show predicted Titanic submarine disappearance 17 years ago",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2023-06-22 09:57:36",
+                            "nypost-section": "Entertainment",
+                            "og:type": "article",
+                            "twitter:title": "'The Simpsons' fans say show predicted Titanic submarine...",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "\u2018The Simpsons\u2019 fans say show predicted Titanic submarine disappearance 17 years ago",
+                            "og:image:height": "682",
+                            "twitter:image:src": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043670.jpg?quality=75&strip=all&w=1024",
+                            "sailthru.description": "It seems that once again \"The Simpsons\" has predicted the future.",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "It seems that once again \"The Simpsons\" has predicted the future.",
+                            "og:locale": "en_US",
+                            "og:url": "https://nypost.com/2023/06/22/the-simpsons-allegedly-predicted-titanic-submarine-disappearance-17-years-ago/",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043670.jpg?quality=75&strip=all&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... * *\n*   \n*   \n*   \n*   \n*   \n* * *\nWhat\u2019s next?\n------------\n\u201cWe\u2019re doing everything we can do to locate the submersible and rescue those on board,\u201d . \u201cIn terms of the hours, we understood that was 96 hours of emergency capability from the operator.\nCoast Guard officials said they are currently focusing all their efforts on locating the sub first before deploying any vessel capable of reaching as far below as 12,500 feet where the Titanic wreck is located.\nMauger, first district commander and leader of the search-and-rescue mission, said the US was coordinating with Canada on the operation.\nThe debris recovered from the US Coast Guard\u2019s Titan submersible search site early Thursday included \u201ca landing frame and a rear cover from the submersible.\u201d\nAfter search efforts to recover the stranded passengers proved futile, and  from the submersible were found, it was decided that the sub imploded, which correlated with  in the same area.\nThe Coast Guard later reported that all 5 passengers , and rescue efforts were halted.\n****\nThe recently resurfaced clip has been causing waves of shock and awe on Twitter.\n\u201cCount on The Simpson to always predict some s \u2013 \u2013 t,\u201d  one social media user.\n\u201cBefore I do anything dangerous ima make sure \u2018The Simpsons\u2019 haven\u2019t made an episode of it yet cos how the f \u2013 \u2013 k did they predict the #Titanic Submarine incident,\u201d  a second person.\n]\nAfter exploring for a bit, the duo comes across the remains of a massive ship filled to the brim with treasure. Fox\n]\nStarting to panic, Simpson attempts to wrench himself free only for the sub\u2019s \u201clow oxygen\u201d light to begin flashing before he descends into a coma. Fox\n\u201cThe Simpson writers should be investigated because this is insane,\u201d  a third person.\n\u201cI do not know what surprises them of the lost submarine in the Atlantic that went down to see the remains of the Titanic, the Simpsons had already warned us,\u201d  a fourth person.\nThe small submersible, owned by OceanGate Expeditions and only carrying about four days\u2019 worth of oxygen,\u00a0\u00a0about an hour and 45 minutes into the trip on Sunday.\nSince then, rescue teams have been working around the clock in an\u00a0\u00a0the five passengers onboard.\nAs of Thursday, it was reported that the small underwater vehicle has officially .\nThis is also not the first time an OceanGate sub has gotten lost.\nIn 2022, the $250,000 experience\u00a0\u00a0after it lost the signal from the ship that...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The New York Post is a well-known tabloid publication that often blends sensational news with serious reporting. While it has a reputable history, it also has a tendency towards sensationalism and sensational headlines."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence clearly identifies the specific episode of 'The Simpsons' (Season 17, Episode 10, titled 'Homer's Paternity Coot') and describes the plot that parallels the missing submarine incident. It directly addresses the question and supports the claim about the show's prediction effectively."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Did 'The Simpsons' Predict Titanic Sub Disaster? - Newsweek",
+                "htmlTitle": "Did &#39;<b>The Simpsons</b>&#39; <b>Predict Titanic Sub Disaster</b>? - Newsweek",
+                "link": "https://www.newsweek.com/simpson-submersible-titanic-oceangate-predict-1808340",
+                "displayLink": "www.newsweek.com",
+                "snippet": "Jun 22, 2023 ... \"The Simpsons'\" may have once again predicted a real life event, this time in an episode that first aired in 2006.",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> &quot;<b>The Simpsons</b>&#39;&quot; may have once again <b>predicted</b> a real life <b>event</b>, this time in an <b>episode</b> that first aired in 2006.",
+                "formattedUrl": "https://www.newsweek.com/simpson-submersible-titanic-oceangate-predict-...",
+                "htmlFormattedUrl": "https://www.newsweek.com/simpson-submersible-<b>titanic</b>-oceangate-<b>predict</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtYEuR9JaIc-87OO3gPuy-D_mBMiwomjM18bgV2t8YWZdVsmaTPMAOHyQv&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://d.newsweek.com/en/full/2249516/did-simpsons-predict-titanic-sub-missing.jpg",
+                            "msapplication-config": "https://g.newsweek.com/themes/newsweek/favicons/browserconfig.xml",
+                            "og:image:width": "2400",
+                            "article:published_time": "2023-06-22T03:28:19-04:00",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ff0500",
+                            "og:site_name": "Newsweek",
+                            "twitter:url": "https://www.newsweek.com/simpson-submersible-titanic-oceangate-predict-1808340",
+                            "og:description": "\"The Simpsons'\" may have once again predicted a real life event, this time in an episode that first aired in 2006.",
+                            "article:publisher": "https://www.facebook.com/Newsweek",
+                            "twitter:image": "https://d.newsweek.com/en/full/2249516/did-simpsons-predict-titanic-sub-missing.webp?w=1600&h=900&q=88&f=8886844c1c74b6388dbcbb7ed4fa324d",
+                            "twitter:site": "@newsweek",
+                            "article:modified_time": "2023-06-22T10:12:36-04:00",
+                            "msapplication-tilecolor": "#ff0500",
+                            "og:type": "article",
+                            "og:image:alt": "Did The Simpsons predict Titanic sub missing",
+                            "article:section": "Entertainment",
+                            "twitter:title": "Did 'The Simpsons' predict Titanic sub disaster?",
+                            "og:title": "Did 'The Simpsons' predict Titanic sub disaster?",
+                            "og:image:height": "1600",
+                            "fb:pages": "18343191100",
+                            "article:tag": "The Simpsons",
+                            "fb:app_id": "245537789135954",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "\"The Simpsons'\" may have once again predicted a real life event, this time in an episode that first aired in 2006.",
+                            "og:url": "https://www.newsweek.com/simpson-submersible-titanic-oceangate-predict-1808340"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://d.newsweek.com/en/full/2249516/did-simpsons-predict-titanic-sub-missing.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... the RMS Titanic in the Atlantic Ocean and they were about 900 miles east of Cape Cod.\n!\nHomer Simpson Sits on The Simpson's Couch Homer Simpson Sits on The Simpson's Couch Matt Groening\nSome _Simpsons_ fans have recalled an eerily similar storyline from the 17th season of the Fox cartoon, which aired in 2006.\nIn the 10th episode of that season, family patriarch Homer Simpson is led on an adventure by a man who he believes to be his biological father, Mason Fairbanks. He takes him out on his ship and tells him about the lost emerald treasure of the sunken ship, the \"Piso Mojado.\"\nMason and Homer eventually decided to head into the depths of the ocean in individual submersibles to try and find the treasure. But chaos ensues when the pair get separated.\nHomer gets stuck in some coral and he begins to lose consciousness as the oxygen runs low in his vessel. The _Simpsons_ dad eventually wakes up three days later in a hospital and survives the ordeal.\n!\nHomer became trapped in a submersible in the 2006 episode \"Homer's Paternity Coot.\" Homer became trapped in a submersible in the 2006 episode \"Homer's Paternity Coot.\" The Simpsons/Disney\nWhile not an exact prediction of what is happening with the Titan submersible, some fans believe the storyline is close enough to real life.\n\"No way the simpsons predicted the titanic Submarine situation \ud83d\ude2d\ud83d\ude2d,\"  one person.\nAnother person posted clips of the episode to TikTok, showing the uncanny similarities between art and reality.\n\"The Simpsons predicted it,\" the TikToker captioned the \n> The Simpsons Predicted It      \n> \n> \nThe popular animated series has often been mentioned for predicting real-life events years before they happen.\nThe Oceangate rescue mission hits especially close to home for one former writer on _The Simpsons._ Mike Reiss boarded the submersible last year and explained to  Breakfast how small the craft is and how things can go wrong\u2014adding that communication was lost during all three of his dives, including on expeditions to the Titanic.\nSome of the real-world events predicted by Matt Groening's cartoon, include 's presidency, the  and  merger,  and \"murder hornets.\"\nWhat happened to the Titan sub? All the theories explained\nRead more\nCalled northern giant hornets or Asian giant hornets, they first appeared in Washington in ...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Newsweek is a recognized international news magazine with a relatively strong history of journalistic integrity. They have demonstrated efforts in covering important issues accurately."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence discusses the same episode as evidence1 and provides a summary of the storyline, reinforcing its similarities to the OceanGate incident. It is relevant and bolsters the claim about the predictive nature of the episode regarding the Titanic submersible."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Exclusive | 'Simpsons' 'prediction' of Titanic sub had movie inspiration",
+                "htmlTitle": "Exclusive | &#39;<b>Simpsons</b>&#39; &#39;<b>prediction</b>&#39; of <b>Titanic sub</b> had movie inspiration",
+                "link": "https://nypost.com/2023/06/22/simpsons-prediction-of-titanic-sub-had-movie-inspiration/",
+                "displayLink": "nypost.com",
+                "snippet": "Jun 22, 2023 ... Fans of \u201cThe Simpsons\u201d suspect the show foretold the future yet again \u2014 but the animated classic's submersible episode was actually inspired\u00a0...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Fans of \u201c<b>The Simpsons</b>\u201d suspect the show foretold the future yet again \u2014 but the animated classic&#39;s <b>submersible episode</b> was actually inspired&nbsp;...",
+                "formattedUrl": "https://nypost.com/.../simpsons-prediction-of-titanic-sub-had-movie-inspirat...",
+                "htmlFormattedUrl": "https://nypost.com/.../<b>simpsons</b>-<b>predict</b>ion-of-<b>titanic</b>-sub-had-movie-inspirat...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwBiCsfI-HogUzeMm5yTpnz7w0DuQGLKmfD5tsk_E-nvlrGo4Jy-tilIC&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "p:domain_verify": "44b526edc36ffbcc163412ee9fe42833",
+                            "apple-itunes-app": "app-id=410094240, app-argument=nypost://nypost.com/2023/06/22/simpsons-prediction-of-titanic-sub-had-movie-inspiration/?id=27594265",
+                            "og:image": "https://nypost.com/wp-content/uploads/sites/2/2023/06/simpsons-sub.jpeg?quality=75&strip=all&w=1024",
+                            "copyright": "Copyright 2024 NYP Holdings. All rights reserved.",
+                            "article:published_time": "2023-06-22T18:37:05+00:00",
+                            "og:image:width": "1024",
+                            "twitter:card": "summary_large_image",
+                            "sailthru.tags": ",homer simpson,missing titanic sub,submarines,the simpsons,US News",
+                            "og:site_name": "New York Post",
+                            "bingbot": "noarchive",
+                            "og:image:type": "image/jpeg",
+                            "parsely-metadata": "{\"post_id\":\"nypost-27594265\"}",
+                            "og:description": "Mike Reiss \u2014\u00a0who traveled in the Titan submersible in 2022 \u2014\u00a0oversaw the team of \u201cSimpsons\u201d writers that penned the \u201cCrimson Tide\u201d-inspired episode.",
+                            "twitter:creator": "@joshuarhett",
+                            "twitter:image": "https://nypost.com/wp-content/uploads/sites/2/2023/06/simpsons-sub.jpeg?quality=75&strip=all&w=1024",
+                            "og:image:secure_url": "https://nypost.com/wp-content/uploads/sites/2/2023/06/simpsons-sub.jpeg?quality=75&strip=all&w=1024",
+                            "article:publisher": "https://www.facebook.com/nypost",
+                            "twitter:text:title": "Exclusive | 'Simpsons' episode that 'predicted' Titanic sub was written by future...",
+                            "twitter:site": "@nypost",
+                            "article:modified_time": "2023-06-23T16:05:23+00:00",
+                            "sailthru.title": "\u2018Simpsons\u2019 episode that \u2018predicted\u2019 Titanic sub was written by future passenger",
+                            "article:content_tier": "free",
+                            "sailthru.date": "2023-06-22 14:37:05",
+                            "nypost-section": "US News",
+                            "og:type": "article",
+                            "twitter:title": "Exclusive | 'Simpsons' episode that 'predicted' Titanic sub was written by future...",
+                            "msvalidate.01": "8188997BC82071CE07AB711B5675CE54",
+                            "og:title": "Exclusive | \u2018Simpsons\u2019 episode that \u2018predicted\u2019 Titanic sub was written by future passenger",
+                            "og:image:height": "682",
+                            "sailthru.image.thumb": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043669-1.jpg?quality=75&strip=all&w=50",
+                            "twitter:image:src": "https://nypost.com/wp-content/uploads/sites/2/2023/06/simpsons-sub.jpeg?quality=75&strip=all&w=1024",
+                            "sailthru.description": "Mike Reiss \u2014\u00a0who traveled in the Titan submersible in 2022 \u2014\u00a0oversaw the team of \"Simpsons\" writers that penned the \"Crimson Tide\"-inspired episode.",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Mike Reiss \u2014\u00a0who traveled in the Titan submersible in 2022 \u2014\u00a0oversaw the team of \"Simpsons\" writers that penned the \"Crimson Tide\"-inspired episode.",
+                            "og:locale": "en_US",
+                            "og:url": "https://nypost.com/2023/06/22/simpsons-prediction-of-titanic-sub-had-movie-inspiration/",
+                            "sailthru.image.full": "https://nypost.com/wp-content/uploads/sites/2/2023/06/NYPICHPDPICT000013043669-1.jpg?quality=75&strip=all",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://nypost.com/wp-content/uploads/sites/2/2023/06/simpsons-sub.jpeg?quality=75&strip=all&w=1024"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...'s cheerleader girlfriend's connection to a kinky...]\n ##### Florida deputy killed and 2 officers wounded in ambush shooting,...]\n ##### Trump agrees to debate Kamala Harris on Fox News after claiming...]\n ##### Kamala Harris adds brother-in-law who represented 'American...]\nexclusive\n\u2018Simpsons\u2019 episode that \u2018predicted\u2019 Titanic sub was written by future passenger\n===============================================================================\nBy\nSocial Links for Joshua Rhett Miller\n*   \n*   \n*   \n*   \nContact The Author\n------------------\nName (required) \nEmail (required) \nComment (required)\n     Submit\nThis site is protected by reCAPTCHA and the Google  and  apply.\nThanks for contacting us. We've received your submission.\nThere was an error submitting your message\nThanks for contacting us. We've received your submission.\nPublished June 22, 2023, 2:37 p.m. ET\nExplore More\n------------\n*   ### \n*   ### \n*   ### \nFans of \u201cThe Simpsons\u201d suspect the show foretold the future yet again \u2014 but the animated classic\u2019s submersible episode was actually inspired by the movie \u201cCrimson Tide,\u201d The Post has learned.\nSpeculation that the TV series\u00a0 in its 1998 \u201cSimpson Tide\u201d episode was debunked Thursday by veteran show writer-producer Mike Reiss \u2014\u00a0who himself \u00a0in the vessel to see the wreckage of the Titanic last July.\n\u201cThat\u2019s my show,\u201d Reiss, 63, told The Post. \u201cEven I forgot about that.\u201d\nThe\u00a0\u00a0said he led a small team of writers to create the March 1998 episode featuring Homer \u2014 recently fired as a nuclear safety inspector after putting a donut in a reactor \u2014 in the US Navy Reserve.\nHomer enlists in the Naval Academy and soon finds himself aboard a nuclear-powered submarine he foolishly navigates into Russian waters, earning him a quick dishonorable discharge.\n  5]\nMike Reiss, 63, a \u201cSimpsons\u201d writer who traveled to the Titanic wreckage last July inside OceanGate\u2019s Titan, saw the sunken ship through a porthole about the size of a washing machine. Courtesy of Mike Reiss\nYears later, in 2006, \u201cThe Simpsons\u201d kept the deep-sea exploration gag going with \u201cHomer\u2019s Paternity Coot,\u201d depicting Homer meeting his long-lost biological father \u2013 a treasure hunter named Mason Fairbanks, and the pair get into two deep-sea submersibles.\nsee also\n--------\n]\nmissing titanic sub\n\u201cThe Simpsons ahead of the curve \u2014 as usual \u2014 25 yrs ago,\u201d one Thursday\u00a0 read.\nBut \u201cThe Simpsons\u201d didn\u2019t have the missing OceanGate submersible on its radars in 1998, Reiss said.\n\u201cWe did that episode because...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "The New York Post is a well-known tabloid publication that often blends sensational news with serious reporting. While it has a reputable history, it also has a tendency towards sensationalism and sensational headlines."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence mentions 'The Simpsons' episode while also referencing a different episode related to submarines. However, it does not directly explain the specific episode associated with the Titanic incident clearly enough, thus making its connection less direct."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "simpsons: 'The Simpsons' has done it again; Mysterious clip from ...",
+                "htmlTitle": "<b>simpsons</b>: &#39;<b>The Simpsons</b>&#39; has done it again; Mysterious clip from ...",
+                "link": "https://m.economictimes.com/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance/articleshow/101213444.cms",
+                "displayLink": "m.economictimes.com",
+                "snippet": "Jun 23, 2023 ... 'The Simpsons' has done it again; Mysterious clip from popular sitcom predicts Titanic submarine's disappearance \u00b7 Synopsis \u00b7 Read more news on.",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> &#39;<b>The Simpsons</b>&#39; has done it again; Mysterious clip from popular sitcom <b>predicts Titanic submarine&#39;s</b> disappearance &middot; Synopsis &middot; Read more news on.",
+                "formattedUrl": "https://m.economictimes.com/.../the-simpsons...predicts-titanic-submarines...",
+                "htmlFormattedUrl": "https://m.economictimes.com/.../<b>the-simpsons</b>...<b>predict</b>s-<b>titanic</b>-<b>submarine</b>s...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuXde0YC3UsocXwULJ3qiOzcyKuU5TbLVXzTalEu1Ch-1VpXD5tGUh6Pg&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36004,resizemode-75,msid-101213444/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance.jpg",
+                            "theme-color": "#e9383e",
+                            "og:type": "article",
+                            "og:site_name": "The Economic Times",
+                            "al:android:com": "com.et.reader.activities",
+                            "og:title": "'The Simpsons' has done it again;  Mysterious clip from popular sitcom predicts Titanic submarine's disappearance",
+                            "og:description": "The enigmatic video boldly suggests that 'The Simpsons' had somehow foreseen the unforeseeable, drawing an eerie parallel to the recent disappearance of the Titan submersible. This ill-fated vessel vanished without a trace, taking with it five individuals who embarked on a daring expedition to witness the haunting remnants of the Titanic, the colossal shipwreck that sank in 1912.",
+                            "props": "yes",
+                            "al:android:url": "https://m.economictimes.com/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance/articleshow/101213444.cms?utm_source=test&cid=",
+                            "news_keywords": "simpsons,titanic,oceangate,homer simpson,The Simpsons,titan",
+                            "viewport": "width=device-width, height=device-height,initial-scale=1.0,user-scalable=yes,maximum-scale=5",
+                            "apple-mobile-web-app-capable": "yes",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://economictimes.indiatimes.com/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance/articleshow/101213444.cms",
+                            "al:android:app_name": "The Economic Times",
+                            "apple-touch-fullscreen": "yes"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-36004,resizemode-75,msid-101213444/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance.jpg"
+                        }
+                    ],
+                    "sitenavigationelement": [
+                        {
+                            "name": "Home",
+                            "url": "https://m.economictimes.com/"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Error fetching https://m.economictimes.com/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance/articleshow/101213444.cms: 451 Client Error: Unavailable For Legal Reasons for url: https://r.jina.ai/https://m.economictimes.com/news/new-updates/the-simpsons-has-done-it-again-mysterious-clip-from-popular-sitcom-predicts-titanic-submarines-disappearance/articleshow/101213444.cms",
+                    "content_tokens": 0
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "The Economic Times primarily focuses on business news, finance, and the economy. Its reporting is generally factual and well-researched, but its focus may limit the extent of its context or breadth."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "While it mentions a prediction by 'The Simpsons,' it does not provide specific details about the episode that allegedly predicted the submersible incident. It lacks the necessary context to be strongly relevant."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral ...",
+                "htmlTitle": "Did &#39;<b>The Simpsons</b>&#39; <b>Predict</b> Disappearance Of <b>Titanic Sub</b>? See Viral ...",
+                "link": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666",
+                "displayLink": "www.ndtv.com",
+                "snippet": "Jun 22, 2023 ... In one of the episodes of 'The Simpsons', Homer is seen going on an underwater expedition to find lost treasure of a sunken ship.",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> In one of the <b>episodes</b> of &#39;<b>The Simpsons</b>&#39;, Homer is seen going on an <b>underwater</b> expedition to find lost treasure of a sunken <b>ship</b>.",
+                "formattedUrl": "https://www.ndtv.com/.../did-the-simpsons-predict-disappearance-of-titanic-...",
+                "htmlFormattedUrl": "https://www.ndtv.com/.../did-<b>the-simpsons</b>-<b>predict</b>-disappearance-of-<b>titanic</b>-...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTy-QKTwIoiKa2LyTSkDe_QhGiP5LnAznuzThVE_tw4a1jlafEUbmAxvgX&s",
+                            "width": "286",
+                            "height": "176"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "100",
+                            "url": "https://cdn.ndtv.com/static/mobile/images/ndtv-logo.png",
+                            "height": "30"
+                        },
+                        {
+                            "width": "1230",
+                            "url": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg?im=Resize=(1230,900)",
+                            "height": "900"
+                        }
+                    ],
+                    "person": [
+                        {
+                            "name": "Amit Chaturvedi",
+                            "url": "https://www.ndtv.com/topic/amit-chaturvedi"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "name": "NDTV",
+                            "url": "https://www.ndtv.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg",
+                            "twitter:app:url:iphone": "ndtv://news/ndtv.com/news/view/ndtv/4143666/site=classic/",
+                            "apple-itunes-app": "app-id=377869410 , app-argument=ndtv://news/ndtv.com/news/view/ndtv/4143666/site=classic/",
+                            "theme-color": "#e3eef9",
+                            "og:image:width": "630",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NDTV.com",
+                            "twitter:url": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666",
+                            "al:android:package": "com.july.ndtv",
+                            "al:ipad:app_store_id": "390847563",
+                            "section": "world",
+                            "al:ios:url": "ndtv://news/ndtv.com/news/view/ndtv/4143666/site=classic/",
+                            "og:description": "In one of the episodes of 'The Simpsons', Homer is seen going on an underwater expedition to find lost treasure of a sunken ship.",
+                            "og:image:secure_url": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg",
+                            "al:ios:app_store_id": "377869410",
+                            "twitter:image": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg?ver-20240615.100",
+                            "publish-date": "2023-06-22T17:47:36+05:30",
+                            "snapchat:sticker": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg",
+                            "taboola-category": "news",
+                            "msapplication-tap-highlight": "no",
+                            "twitter:site": "@ndtv",
+                            "news_keywords": "Missing Titanic sub,the simpsons,The Simpsons predictions,the simpsons records,Homer Simpson",
+                            "og:type": "article",
+                            "twitter:title": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet",
+                            "al:ios:app_name": "NDTV",
+                            "og:title": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet",
+                            "og:image:height": "473",
+                            "url": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666",
+                            "al:android:url": "ndtvSocial://com.july.ndtv/ndtv/ndtv.android/type=news/id=4143666/category=world-news",
+                            "fb:app_id": "213741912058651",
+                            "twitter:app:url:googleplay": "ndtvnews://www.ndtv.com/type=news/id=4143666/category=world-news",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "al:ipad:url": "ndtvhd://news/ndtv.com/news/view/ndtv/4143666/site=classic/",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "In one of the episodes of 'The Simpsons', Homer is seen going on an underwater expedition to find lost treasure of a sunken ship.",
+                            "al:ipad:app_name": "NDTV HD",
+                            "og:url": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666",
+                            "al:android:app_name": "NDTV"
+                        }
+                    ],
+                    "language": [
+                        {
+                            "name": "English"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://c.ndtvimg.com/2023-06/0m289nio_titanic-sub_625x300_20_June_23.jpg"
+                        }
+                    ],
+                    "newsarticle": [
+                        {
+                            "articlebody": "As rescuers anxiously search for Titanic submersible that went missing on Sunday, a video showing The Simpsons may have predicted the real life event is going viral on social media. The theory...",
+                            "keywords": "Missing Titanic sub,the simpsons,The Simpsons predictions,the simpsons records,Homer Simpson",
+                            "datemodified": "2023-06-22T17:47:36+05:30",
+                            "articlesection": "world",
+                            "description": "In one of the episodes of 'The Simpsons', Homer is seen going on an underwater expedition to find lost treasure of a sunken ship.",
+                            "headline": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet",
+                            "url": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666",
+                            "datepublished": "2023-06-22T17:47:36+05:30",
+                            "mainentityofpage": "https://www.ndtv.com/world-news/did-the-simpsons-predict-disappearance-of-titanic-sub-see-viral-tweet-4143666"
+                        }
+                    ],
+                    "listitem": [
+                        {
+                            "item": "News",
+                            "name": "News",
+                            "position": "1"
+                        },
+                        {
+                            "item": "World News",
+                            "name": "World News",
+                            "position": "2"
+                        },
+                        {
+                            "item": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet",
+                            "name": "Did '<i>The Simpsons</i>' Predict Disappearance Of Titanic Sub? See Viral Tweet",
+                            "position": "3"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Did 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet\n===============\n!  \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nDid 'The Simpsons' Predict Disappearance Of Titanic Sub? See Viral Tweet\n(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)\n(javascript:void\\(0\\);)\nThis Article is From Jun 22, 2023\nDid '_The Simpsons_' Predict Disappearance Of Titanic Sub? See Viral Tweet\n==========================================================================\nIn one of the episodes of 'The Simpsons', Homer is seen going on an underwater expedition to find lost treasure of a sunken ship.\n---------------------------------------------------------------------------------------------------------------------------------\nEdited by Updated: June 22, 2023 5:47 pm IST\n!\nTime is running out for five people on board the missing Titanic submersible.\n(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)(javascript:void\\(0\\);)\nAs rescuers anxiously search for Titanic submersible that went missing on Sunday, a video showing _The Simpsons_ may have predicted the real life event is going viral on social media. The theory started gaining traction after a _Simpsons_ fan posted a video on Twitter, pointing out the unexpected connection between the show and the submersible called Titan. The submersible disappeared with five people on board and rescue workers from around the world are trying to save them. Their oxygen is likely to run out on Thursday.\n, operated by OceanGate, was taking the tourists to see the wreckage of the Titanic, the biggest ship of its time that sank in 1912.\nA similar thing happened in the 17th season of _The Simpsons_ cartoon, which aired in 2006.\nIn the 10th episode of that season, titled Simpsons Tids, Homer goes on an expedition along with a man who he believes to be his biological father.\n> The Simpsons really predicted the titanic submarine situation .. and that they would completely run out of oxygen (watch till the end) this is actually scary. \n> \n> \u2014 Q...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a platform that allows user-generated content and discussions. While it can host valuable information, the reliability varies widely depending on the specific subreddit and the credibility of the users posting. There is no formal fact-checking process on the site, which can lead to the spread of misinformation."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 8,
+                    "Relevance Justification": "This evidence describes an episode of 'The Simpsons' that involves Homer going on an underwater expedition, which aligns with the claim of predicting a disaster related to the Titanic. It provides enough context about the episode to be valuable."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Missing Titan sub has uncanny resemblance to this Simpsons ...",
+                "htmlTitle": "Missing Titan <b>sub</b> has uncanny resemblance to this <b>Simpsons</b> ...",
+                "link": "https://www.hindustantimes.com/world-news/missing-titanic-sub-has-an-uncanny-resemblance-to-this-simpsons-episode-fans-shocked-101687427171504.html",
+                "displayLink": "www.hindustantimes.com",
+                "snippet": "Jun 22, 2023 ... Fans are stunned as an old episode of The Simpsons resurfaces, strikingly resembling the missing Titanic submarine incident,\u00a0...",
+                "htmlSnippet": "Jun 22, 2023 <b>...</b> Fans are stunned as an old <b>episode</b> of <b>The Simpsons</b> resurfaces, strikingly resembling the missing <b>Titanic submarine incident</b>,&nbsp;...",
+                "formattedUrl": "https://www.hindustantimes.com/.../missing-titanic-sub-has-an-uncanny-res...",
+                "htmlFormattedUrl": "https://www.hindustantimes.com/.../missing-<b>titanic</b>-sub-has-an-uncanny-res...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpqS5FVmVXG5Q3e07zJsCeHJj0PIHzag_AL6gcrEICLo4Ntz10_kdxz3E&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/_30631cfc-b827-11ea-9350-67a6fbf842e0_1687428655107.jpg",
+                            "theme-color": "#ffffff",
+                            "og:image:width": "1600",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2023-06-22T16:01:32+05:30",
+                            "og:site_name": "Hindustan Times",
+                            "twitter:url": "https://www.hindustantimes.com/world-news/missing-titanic-sub-has-an-uncanny-resemblance-to-this-simpsons-episode-fans-shocked-101687427171504.html",
+                            "og:description": "Fans are stunned as an old episode of The Simpsons resurfaces, strikingly resembling the missing Titanic submarine incident, fueling the 'predictions' theory.",
+                            "twitter:creator": "@httweets",
+                            "twitter:image": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/_30631cfc-b827-11ea-9350-67a6fbf842e0_1687428655107.jpg",
+                            "twitter:image:alt": "2006 Simpsons episode resurfaces online, featuring a plot similar to the missing Titanic submarine incident. Fans claim another eerie prediction by the show.",
+                            "twitter:site": "@httweets",
+                            "article:modified_time": "2023-06-22T16:01:32+05:30",
+                            "news_keywords": "missing Titanic submarine,the simpsons missing titanic submarine prediction,the simpsons future prediction,oceangate's missing submersible,missing titanic submarine updates",
+                            "fb:admins": "100006810078735",
+                            "og:type": "article",
+                            "og:image:alt": "2006 Simpsons episode resurfaces online, featuring a plot similar to the missing Titanic submarine incident. Fans claim another eerie prediction by the show.",
+                            "twitter:title": "Missing Titanic sub has an uncanny resemblance to this Simpsons episode, fans shocked",
+                            "og:title": "Missing Titanic sub has an uncanny resemblance to this Simpsons episode, fans shocked",
+                            "og:image:height": "900",
+                            "tweetmeme-title": "Missing Titanic sub has an uncanny resemblance to this Simpsons episode, fans shocked",
+                            "fb:pages": "111445058579",
+                            "referrer": "no-referrer-when-downgrade",
+                            "fb:app_id": "387606842082586",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0, user-scalable=yes",
+                            "twitter:description": "Fans are stunned as an old episode of The Simpsons resurfaces, strikingly resembling the missing Titanic submarine incident, fueling the 'predictions' theory.",
+                            "og:locale": "en_us",
+                            "og:url": "https://www.hindustantimes.com/world-news/missing-titanic-sub-has-an-uncanny-resemblance-to-this-simpsons-episode-fans-shocked-101687427171504.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.hindustantimes.com/ht-img/img/2023/06/22/1600x900/_30631cfc-b827-11ea-9350-67a6fbf842e0_1687428655107.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...*   \n*    ] \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n  !\n](javascript:void\\(0\\);)\n  !\n](javascript:void\\(0\\);)\nMissing Titanic sub has an uncanny resemblance to this Simpsons episode, fans shocked\n=====================================================================================\nBy\nJun 22, 2023 04:01 PM IST\n(javascript:void\\(0\\); \"bookmark\")(javascript:void\\(0\\) \"what's app\")\nShare Via\nCopy Link\nFans are stunned as an old episode of The Simpsons resurfaces, strikingly resembling the missing Titanic submarine incident, fueling the 'predictions' theory.\n--------------------------------------------------------------------------------------------------------------------------------------------------------------\nOver the years, The Simpsons has captivated audiences with its clever humor and uncanny ability to predict real-life events. From Donald Trump's shocking presidency to the tragic events of 9/11, the animated series has often been hailed as a modern-day Nostradamus. However, its latest prediction has left fans in a state of disbelief.\n !\n2006 Simpsons episode resurfaces online, featuring a plot similar to the missing Titanic submarine incident. Fans claim another eerie prediction by the show.\nIn recent days, headlines have been dominated by the mysterious disappearance of a tourist submarine during a dive into the sunken Titanic shipwreck. The situation has escalated to a critical point, leaving five passengers on board the tourist submarine in a terrifying predicament of oxygen depletion looming over them.\nAn extensive search and rescue mission is in progress in the mid-Atlantic region, desperately seeking to find the missing submarine before it reaches a point of no return. Concerns are growing that the submersible, called Titan, might be entangled within the haunting remains of the tragic Titanic.\nHowever, what adds a spine-chilling twist to this already mysterious situation is the astounding claim made by devoted fans of The Simpsons. They insist that the animated series had actually predicted this exact scenario all the way back in 2006. The episode in question was produced by Mike Reiss, who himself embarked on a trip aboard a similar submarine called Oceangate.\nIn the episode, Homer Simpson's long-lost father, Mason Fairbanks, who specializes in salvaging lost treasures from the sea,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "Hindustan Times is another reputable Indian newspaper that covers a wide array of topics. They maintain generally high standards of journalistic integrity and strive for accuracy in their reporting."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-22"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This evidence discusses the resurfacing of the episode that resembles the Titanic incident and details its plot. It sufficiently connects the event to the specific episode, though it does not provide a direct comparison as strongly as others."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "Why 'Simpsons' Fans Think the Show Predicted OceanGate Titanic ...",
+                "htmlTitle": "Why &#39;<b>Simpsons</b>&#39; Fans Think the Show <b>Predicted</b> OceanGate <b>Titanic</b> ...",
+                "link": "https://www.etonline.com/why-simpsons-fans-think-the-show-predicted-oceangate-titanic-sub-tragedy-17-years-ago-206890",
+                "displayLink": "www.etonline.com",
+                "snippet": "Jun 23, 2023 ... A resurfaced 'Simpsons' episode from 2006 has striking similarities to the Titanic submersible tragedy.",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> A resurfaced &#39;<b>Simpsons</b>&#39; <b>episode</b> from 2006 has striking similarities to the <b>Titanic submersible tragedy</b>.",
+                "formattedUrl": "https://www.etonline.com/why-simpsons-fans-think-the-show-predicted-oce...",
+                "htmlFormattedUrl": "https://www.etonline.com/why-<b>simpsons</b>-fans-think-the-show-<b>predict</b>ed-oce...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS8rq2UrhBZrW5clTuYeC9ffwcr5mluici5KkurFY3ycfYyRukU8YdoIOD&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-06/MK-The-Simpsons-and-Titanic-tourist-submersible-1280-X-720-HERO-2-SPLIT.jpg?h=84726737",
+                            "og:image:width": "1280",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#fff",
+                            "og:site_name": "Entertainment Tonight",
+                            "twitter:url": "https://www.etonline.com/why-simpsons-fans-think-the-show-predicted-oceangate-titanic-sub-tragedy-17-years-ago-206890",
+                            "twitter:image:height": "720",
+                            "title": "Why 'Simpsons' Fans Think the Show Predicted OceanGate Titanic Sub Tragedy 17 Years Ago | Entertainment Tonight",
+                            "msapplication-tileimage": "/img/favicons/ms-icon-144x144.png",
+                            "og:description": "A resurfaced 'Simpsons' episode from 2006 has striking similarities to the Titanic submersible tragedy.",
+                            "twitter:creator": "@etnow",
+                            "twitter:image": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-06/MK-The-Simpsons-and-Titanic-tourist-submersible-1280-X-720-HERO-2-SPLIT.jpg?h=84726737",
+                            "next-head-count": "38",
+                            "twitter:site": "@etnow",
+                            "twitter:image:width": "1280",
+                            "fb:admins": "3111204",
+                            "msapplication-tilecolor": "#fd005b",
+                            "og:image:alt": "The Simpsons and Titanic tourist submersible",
+                            "og:type": "Article",
+                            "twitter:title": "'Simpsons' Fans Think the Show Predicted OceanGate Titanic Sub Tragedy",
+                            "twitter:site:id": "23603092",
+                            "og:title": "'Simpsons' Fans Think the Show Predicted OceanGate Titanic Sub Tragedy",
+                            "og:image:height": "720",
+                            "fb:pages": "106843036179",
+                            "fb:app_id": "145337045558621",
+                            "viewport": "width=device-width",
+                            "apple-mobile-web-app-capable": "yes",
+                            "twitter:description": "A resurfaced 'Simpsons' episode from 2006 has striking similarities to the Titanic submersible tragedy.",
+                            "og:url": "https://www.etonline.com/why-simpsons-fans-think-the-show-predicted-oceangate-titanic-sub-tragedy-17-years-ago-206890",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2023-06/MK-The-Simpsons-and-Titanic-tourist-submersible-1280-X-720-HERO-2-SPLIT.jpg?h=84726737"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Did\u00a0__ \"predict\" the OceanGate Titanic submersible tragedy?\nThe animated series has been surprisingly prophetic when it comes to past historical events, from the \u00a0and\u00a0\u00a0to the election\u00a0\u00a0\u00a0and\u00a0. It appears the show may have also \"predicted\" the disappearance of the OceanGate submersible, which lost contact Sunday while descending to the site of the Titanic wreckage with five on board.\nAmid news of the OceanGate tragedy, a 2006 episode of _The Simpsons_, titled \"Homer's Paternity Coot,\"\u00a0resurfaced on social media, presenting striking similarities to current events. In the episode, Homer Simpson embarks on a deep-sea expedition to search for long-lost treasure with his biological father in tiny submersibles. After searching for a while, they come across an abandoned ship site that's filled with treasure.\nBut soon, things get hairy for the duo as oxygen levels start to be depleted after Homer accidentally gets his submersible partially stuck on a coral reef after losing his father. Homer begins to panic before he falls into a coma, only to wake up days later surrounded by family members.\nWatch the clip below.\nInterestingly,\u00a0_Simpsons_\u00a0writer Mike Reiss was a passenger in the OceanGate submersible last July...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "Entertainment Tonight Online focuses primarily on entertainment news and celebrity gossip. While it may report on current events within the entertainment sector, it is less reliable for serious news topics."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence describes the specific episode ('Homer's Paternity Coot') in detail, explaining its plot about seaside treasure hunting in submersibles, which strongly resembles the real-life incident. The direct mention of comparisons helps substantiate the claim."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Titanic sub tragedy: The Simpsons fans say show predicted disaster ...",
+                "htmlTitle": "<b>Titanic sub tragedy</b>: <b>The Simpsons</b> fans say show <b>predicted disaster</b> ...",
+                "link": "https://www.news.com.au/entertainment/tv/flashback/fans-insist-the-simpsons-predicted-titanic-sub-disaster-17-years-ago/news-story/74e5c34d2f2114681928d5f2b6f331dc",
+                "displayLink": "www.news.com.au",
+                "snippet": "Jun 23, 2023 ... The Simpsons fans are once again insisting the show has predicted the future, with an episode 17 years ago bearing striking similarities to the\u00a0...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> <b>The Simpsons</b> fans are once again insisting the show has <b>predicted</b> the future, with an <b>episode</b> 17 years ago bearing striking similarities to the&nbsp;...",
+                "formattedUrl": "https://www.news.com.au/...the-simpsons-predicted-titanic.../74e5c34d2f21...",
+                "htmlFormattedUrl": "https://www.news.com.au/...<b>the-simpsons</b>-<b>predict</b>ed-<b>titanic</b>.../74e5c34d2f21...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlj937GRGKh7vHkE9U1yUVtblciKW7gDDwyy60jtM5y2WC65z-nxZPkjva&s",
+                            "width": "299",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "apple-itunes-app": "app-id=1454481155, app-argument=https://apps.apple.com/au/app/news-com-au/id1454481155",
+                            "og:image": "https://content.api.news/v3/images/bin/2b28b7a3fcacacc663bb262bd4a06aa5",
+                            "theme-color": "#ffffff",
+                            "article:published_time": "2023-06-22T22:16:00.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:image:width": "1280",
+                            "og:site_name": "news",
+                            "articleid": "74e5c34d2f2114681928d5f2b6f331dc",
+                            "vr:canonical": "https://www.news.com.au/entertainment/tv/flashback/fans-insist-the-simpsons-predicted-titanic-sub-disaster-17-years-ago/news-story/74e5c34d2f2114681928d5f2b6f331dc",
+                            "title": "Fans insist The Simpsons predicted Titanic sub disaster",
+                            "og:description": "Fans are insisting that once again The Simpsons has predicted the future.",
+                            "article:publisher": "news.com.au \u2014 Australia\u2019s leading news site",
+                            "twitter:image": "https://content.api.news/v3/images/bin/2b28b7a3fcacacc663bb262bd4a06aa5",
+                            "ob:article_type": "NON_PREMIUM",
+                            "twitter:site": "@newscomauHQ",
+                            "article:modified_time": "2023-06-22T22:16:59.000Z",
+                            "og:category": "News",
+                            "application-name": "news",
+                            "article:section": "News",
+                            "twitter:title": "Fans insist The Simpsons predicted Titanic sub disaster",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "og:title": "Fans insist The Simpsons predicted Titanic sub disaster",
+                            "article:publicationdate": "2023-06-22T22:16:00.000Z",
+                            "og:image:height": "720",
+                            "article:author": "Jack Hobbs \u2013 the New York Post",
+                            "referrer": "origin-when-cross-origin",
+                            "fb:app_id": "113758722003364",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=2.0",
+                            "twitter:description": "Fans are insisting that once again The Simpsons has predicted the future.",
+                            "mobileoptimized": "320",
+                            "og:locale": "en_GB",
+                            "og:url": "https://www.news.com.au/entertainment/tv/flashback/fans-insist-the-simpsons-predicted-titanic-sub-disaster-17-years-ago/news-story/74e5c34d2f2114681928d5f2b6f331dc"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://content.api.news/v3/images/bin/2b28b7a3fcacacc663bb262bd4a06aa5"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    *   ### \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n        *   \n    *   ### \n*   \n    *   ### \n    *   ### \n    *   ### \n        *   \n    *   ### \n    *   ### \n        *   \n        *   \n        *   \n    *   ### \n        *   \n        *   \n    *   ### \n        *   \n    *   ### \n    *   ### \n        *   \n        *   \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n        *   \n    *   ### \n        *   \n    *   ### \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n        *   \n    *   ### \n    *   ### \n    *   ### \n*   \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n    *   ### \n*   \n*   \n*   \nFans insist The Simpsons predicted Titanic sub disaster 17 years ago\n====================================================================\nThe Simpsons fans are once again insisting the show has predicted the future, with an episode 17 years ago bearing striking similarities to the sub disaster.\nJack Hobbs \u2013 the New York Post\n3 min read\nJune 23, 2023 - 8:16AM\n!\nHas The Simpsons once again predicted the future?\nMore from Flashback\n]\n#### \n]\n#### \n]\n#### \nFans are insisting that once again The Simpsons has predicted the future.\nIn the past, the animated TV show has seemingly prophesied bizarre historical events which actually came to pass, such as Donald Trump\u2019s 2024 presidential run and the death of Queen Elizabeth II.\nThis time, the show may have predicted the disappearance of the OceanGate submersible that was exploring the ruins of the Titanic, reports the __.\nTragically, authorities  that they have found a \u201cdebris field\u201d near the famous wreckage, which makes it likely the submersible suffered a \u201ccatastrophic implosion\u201d, killing all five people on-board.\nOriginally airing in 2006, Season 17\u2019s 10th episode, titled \u201cHomer\u2019s Paternity Coot,\u201d features Homer Simpson\u2019s long-lost father, Mason Fairbanks, giving a rather chilling speech before going under the sea with his son.\n\u201cToday I am filled with joy...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "News.com.au is an Australian news site that covers a broad array of topics. While it generally provides reliable news, it has been known to publish sensational stories for clicks."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 10,
+                    "Relevance Justification": "This evidence not only identifies the specific episode but also details its chilling themes and similarities to the Titanic submersible incident, effectively supporting the claim and providing context that substantiates the predictive aspect of 'The Simpsons.'"
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "Did The Simpsons predict OceanGate Titanic submersible tragedy ...",
+                "htmlTitle": "Did <b>The Simpsons predict</b> OceanGate <b>Titanic submersible tragedy</b> ...",
+                "link": "https://www.dailyo.in/news/did-the-simpsons-predict-oceangate-titanic-submersible-tragedy-17-years-ago-40259",
+                "displayLink": "www.dailyo.in",
+                "snippet": "Jun 23, 2023 ... In Season 17's episode 10 which aired in 2006 (Homer's Paternity Coot), Homer Simpson begins suspecting that Abe Simpson may not actually be his\u00a0...",
+                "htmlSnippet": "Jun 23, 2023 <b>...</b> In <b>Season</b> 17&#39;s <b>episode</b> 10 which aired in 2006 (Homer&#39;s Paternity Coot), Homer Simpson begins suspecting that Abe Simpson may not actually be his&nbsp;...",
+                "formattedUrl": "https://www.dailyo.in/.../did-the-simpsons-predict-oceangate-titanic-submer...",
+                "htmlFormattedUrl": "https://www.dailyo.in/.../did-<b>the-simpsons</b>-<b>predict</b>-oceangate-<b>titanic</b>-submer...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsh0kkN1muhuMlklEPZpiDBeEx2oSlg8MTH_F2mpKjSH9NuJho1FBZ9M&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "imageobject": [
+                        {
+                            "width": "1200",
+                            "url": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/blob230623105014.png",
+                            "height": "667"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/blob230623105014.png",
+                            "og:type": "website",
+                            "twitter:title": "Did The Simpsons predict OceanGate Titanic submersible tragedy 17 years ago?",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#000000",
+                            "twitter:url": "https://www.dailyo.in/news/did-the-simpsons-predict-oceangate-titanic-submersible-tragedy-17-years-ago-40259",
+                            "og:title": "Did The Simpsons predict OceanGate Titanic submersible tragedy 17 years ago?",
+                            "og:description": "The tragic ending to the tale of the missing OceanGate tourist submersible to the world's most famous shipwreck, Titanic, is filled with irony and some dark humour. While on the one hand, the tour company ultimately delivered THE most Titanic experience ever  - dead at the bottom of the ocean, - on the other hand, maybe The Simpsons had predicted it nearly 17 years ago.",
+                            "fb:pages": "1519590411605754",
+                            "twitter:image": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/blob230623105014.png",
+                            "next-head-count": "20",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "msapplication-tap-highlight": "no",
+                            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0",
+                            "twitter:description": "The tragic ending to the tale of the missing OceanGate tourist submersible to the world's most famous shipwreck, Titanic, is filled with irony and some dark humour. While on the one hand, the tour company ultimately delivered THE most Titanic experience ever  - dead at the bottom of the ocean, - on the other hand, maybe The Simpsons had predicted it nearly 17 years ago.",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:url": "https://www.dailyo.in/news/did-the-simpsons-predict-oceangate-titanic-submersible-tragedy-17-years-ago-40259"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202306/blob230623105014.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\n----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\n### The Simpsons may have predicted the Titanic tourist sub tragedy 17 years ago. Photo: OceanGate, The Simpsons, US NOAA\nThe tragic ending to the tale of the  to the world's most famous shipwreck, Titanic, is filled with irony and some dark humour. While on the one hand, the tour company ultimately delivered THE most Titanic experience ever \u00a0- dead at the bottom of the ocean, - on the other hand, maybe _The Simpsons_ had predicted it nearly 17 years ago.\n**Did The Simpsons do it again?**\n---------------------------------\n*   American satirical animated series _The Simpsons_ is known for its eerie precognition, like predicting the Covid-19 pandemic or the arrest of former US President Donald Trump.\u00a0\n*   So, when the story of the Titan submersible broke, fans of the show started claiming that the series actually predicted something similar.\u00a0\n*   In Season 17's episode 10 which aired in 2006 (_Homer's Paternity Coot_), Homer Simpson begins suspecting that Abe Simpson may not actually be his biological father.\n> The Simpsons really predicted the titanic submarine situation .. and that they would completely run out of oxygen (watch till the end) this is actually scary. \n> \n> \u2014 Qura (@Qurandale) \n*   Homer finds that the wealthy treasure hunter Mason Fairbanks is his biological father and the two set off to find the lost emerald treasure of sunken ship Piso Mojado.\u00a0\n*   And just the OceanGate expedition, Fairbanks and Simpson dive from a ship, each in their little sub (unlike the Titan sub), down to the shipwreck. The metal arms of the sub pick up the treasure and they head back up the water.\u00a0\n*   However, Homer Simpson loses his way and gets stuck in a coral reef.  - sounds familiar?\u00a0\n*   Homer Simpson passes out due to the oxygen running out, but is found by search and rescue and he wakes up from a coma three days later. And spoiler alert, turns out Homer's biological father is Abe Simpson.\u00a0\n*   Anyways when the OceanGate Titan sub went missing - and it was still unknown that the sub had exploded - there was a race against time to...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "DailyO is an Indian news and opinion website that publishes content that often leans toward commentary and opinion pieces rather than strictly news articles."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-06-23"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence succinctly states the plot of 'Homer's Paternity Coot' and details the breakdown of the storyline. It connects the episode\u2019s plotline to the Titanic incident directly, thus validating the claim effectively."
+                }
+            }
+        }
+    ]
+}

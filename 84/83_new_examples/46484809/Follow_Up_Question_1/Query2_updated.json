@@ -1,0 +1,740 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - non-extremist group vests symbols vs neo-Nazi",
+                "totalResults": "436000",
+                "searchTerms": "non-extremist group vests symbols vs neo-Nazi",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - non-extremist group vests symbols vs neo-Nazi",
+                "totalResults": "436000",
+                "searchTerms": "non-extremist group vests symbols vs neo-Nazi",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.633807,
+        "formattedSearchTime": "0.63",
+        "totalResults": "436000",
+        "formattedTotalResults": "436,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right ...",
+                "htmlTitle": "Hidden in Plain Sight: Racism, White Supremacy, <b>and</b> Far-Right ...",
+                "link": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                "displayLink": "www.brennancenter.org",
+                "snippet": "Aug 27, 2020 ... The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on\u00a0...",
+                "htmlSnippet": "Aug 27, 2020 <b>...</b> The harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on&nbsp;...",
+                "formattedUrl": "https://www.brennancenter.org/.../hidden-plain-sight-racism-white-suprema...",
+                "htmlFormattedUrl": "https://www.brennancenter.org/.../hidden-plain-sight-racism-white-suprema...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8KxdN-CrtmWGfnT-Uz1hDq0_7XtU1jPfCnNxXSJ1mPCtBuXkxMAHoHGV6&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_publication_date": "Thu, 08/27/2020 - 16:39",
+                            "og:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "parent": "library",
+                            "msapplication-config": "/themes/custom/paladin/patternlab/public/favicons/browserconfig.xml",
+                            "citation_title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#ffffff",
+                            "og:site_name": "Brennan Center for Justice",
+                            "twitter:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "twitter:image:height": "525",
+                            "nid": "8589",
+                            "type": "research_report",
+                            "title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:description": "The government\u2019s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "twitter:image": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "path": "/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "langcode": "en",
+                            "twitter:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:image:width": "1050",
+                            "summary": "The government\u2019s response to known connections of law enforcement officers to violent racist and militant groups has been strikingly insufficient.",
+                            "msapplication-tilecolor": "#ffffff",
+                            "type_friendly": "Research Report",
+                            "image": "https://www.brennancenter.org/sites/default/files/styles/search_wide/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg.webp?itok=d3xmiw1b",
+                            "og:type": "text",
+                            "og:image:alt": "White Supremacist Infiltration of Law Enforcement",
+                            "twitter:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "og:image:url": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT",
+                            "handheldfriendly": "true",
+                            "author_friendly": "Michael German",
+                            "author": "136",
+                            "og:title": "Hidden in Plain Sight: Racism, White Supremacy, and Far-Right Militancy in Law Enforcement",
+                            "citation_author": "Michael German",
+                            "image_alt": "White Supremacist Infiltration of Law Enforcement",
+                            "sort_date": "2020-08-27T00:00:00-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.brennancenter.org/our-work/research-reports/hidden-plain-sight-racism-white-supremacy-and-far-right-militancy-law",
+                            "publish_date": "2020-08-27T16:39:17-0400"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.brennancenter.org/sites/default/files/styles/1050x525/public/2020-08/200813_T1_GT494328123_RF_1630x932.jpg?itok=qd0um9pT"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... racism in law enforcement takes many forms, from membership or affiliation with violent white supremacist or far-right militant groups, to engaging in racially discriminatory behavior toward the public or law enforcement colleagues, to making racist remarks and sharing them on social media. While it is widely acknowledged that racist officers subsist within police departments around the country, federal, state, and local governments are doing far too little to proactively identify them, report their behavior to prosecutors who might unwittingly rely on their testimony in criminal cases, or protect the diverse communities they are sworn to serve.\nEfforts to address systemic and implicit biases in law enforcement are unlikely to be effective in reducing the racial disparities in the criminal justice system as long as explicit racism in law enforcement continues to endure. There is ample evidence to demonstrate that it does.\nIn 2017, the FBI reported that white supremacists posed a \u201cpersistent threat of lethal violence\u201d that has produced more fatalities than any other category of domestic terrorists since 2000. Federal Bureau of Investigation and Department of Homeland Security, Joint Intelligence Bulletin, _White Supremacist Extremism Poses Persistent Threat of Lethal Violence_, May 10, 2017,  Alarmingly, internal FBI policy documents have also warned agents assigned to domestic terrorism cases that the white supremacist and anti-government militia groups they investigate often have \u201cactive links\u201d to law enforcement officials. Federal Bureau of Investigation, Counterterrorism Division, _Counterterrorism Policy Directive and Policy Guide_, April 1, 2015 (updated November 18, 2015), 89, .\nThe harms that armed law enforcement officers affiliated with violent white supremacist and anti-government militia groups can inflict on American society could hardly be overstated. Yet despite the FBI\u2019s acknowledgement of the links between law enforcement and these suspected terrorist groups, the Justice Department has no national strategy designed to identify white supremacist police officers or to protect the safety and civil rights of the communities they patrol.\nObviously, only a tiny percentage of law enforcement officials are likely to be active members of white supremacist groups. But one doesn\u2019t need access to secretive intelligence gathered in FBI terrorism investigations to find evidence of overt and explicit racism within law enforcement. Since 2000, law enforcement officials with alleged connections to white supremacist groups or far-right militant activities have been exposed in Alabama, California, Connecticut, Florida, Illinois, Louisiana, Michigan, Nebraska, Oklahoma, Oregon, Texas, Virginia, Washington, West Virginia, and elsewhere. Becky Bratu, \u201cTwo Alabama Officers Put on Leave for Alleged Ties to \u2018Hate Group,\u2019\u201d NBC News, June 17, 2015, ; Michael Winter,...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Brennan Center for Justice is a non-partisan law and policy institute that focuses on issues such as voting rights, campaign finance, and freedom of speech. Its research is generally well-regarded and often cited in discussions of voter suppression and extremism. However, as it prepares reports with a specific slant focusing on justice and civil rights, some might perceive potential bias, hence a slightly lower score."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2020-08-27"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This evidence discusses how law enforcement can be affiliated with white supremacist groups but does not provide specific identifiable symbols or logos that would differentiate neo-Nazi militia members from non-extremist groups. While it discusses the context of extremist behavior, it does not directly address the current question regarding specific identifiable symbols."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "HATE SYMBOLS DATABASE",
+                "htmlTitle": "HATE <b>SYMBOLS</b> DATABASE",
+                "link": "https://www.adl.org/sites/default/files/ADL%20Hate%20on%20Display%20Printable_0.pdf",
+                "displayLink": "www.adl.org",
+                "snippet": "For example, the Confederate Flag is a symbol that is frequently used by white supremacists, but which also has been used by people and groups that are not\u00a0...",
+                "htmlSnippet": "For example, the Confederate Flag is a symbol that is frequently used by white supremacists, but which also has been used by people and groups that are not&nbsp;...",
+                "formattedUrl": "https://www.adl.org/.../ADL%20Hate%20on%20Display%20Printable_0.pd...",
+                "htmlFormattedUrl": "https://www.adl.org/.../ADL%20Hate%20on%20Display%20Printable_0.pd...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20210108161938-05'00'",
+                            "creationdate": "D:20191101130535-04'00'",
+                            "creator": "Adobe InDesign 14.0 (Macintosh)",
+                            "producer": "www.ilovepdf.com"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]...gis Rune) \nLOVE YOUR RACE MOON MAN NAZI PARTY FLAG NAZI FLAG NO RACE MIXING NOOSE NORTHWEST AMERICAN REPUBLIC NOT EQUAL (Unequal, Not Equal To) \nOTHALA RUNE \n(Othal Rune, Othila Rune, Odal Rune, Norse Rune) \nPECKERWOOD (Wood, Woodpile, PW) \nPEPE THE FROG (Sad Frog) \nPIT BULL RAHOWA ROA ROCK AGAINST COMMUNISM \nRUNIC WRITING (RACIST) \nSKREWDRIVER \n## General Hate Symbols 53 INDEX OF ENTRIES BY CATEGORY ACAB AKIA AYAK FGRN (For God, Race and Nation) \nGTKRWN (GTK) \nHFFH HSN ITSUB KABARK KIGY KLASP LOTIE OFOF (One Front One Family) \nORION (Our Race Is Our Nation) \nRAHOWA ROA SS BOLTS (Cracker Bolts, SS Lightning Bolts) \nSWP USAS \nWAR (ARKANSAS PRISON GANG) \nWP WPWW ZOG \n## Hate Acronyms/Abbreviations \nSONNENRAD (Sunwheel, Black Sun) \nSOUTH AFRICAN FLAG (APARTHEID ERA) \nSS BOLTS \n(Cracker Bolts, SS Lightning Bolts, Lightning Bolts) \nST. MICHAEL\u2019S CROSS STORMFRONT SWASTIKA THE GOYIM KNOW/SHUT IT DOWN THE ORDER \n(Silent Brotherhood, Br\u00fcder Schweigen) \nTHOR\u2019S HAMMER TRIANGULAR KLAN SYMBOL TRISKELE \nTROLLFACE (RACIST VERSIONS) \nTRISKELION TYR RUNE VALKNOT (Valknut, Valknutr, Hrungnir\u2019s Heart) \nVINLAND FLAG WHITE ARYAN RESISTANCE (WAR, Insurgent) \nWOLFSANGEL (Wolf\u2019s Hook, Dopplehaken) \nWP WPWW ZYKLON B \n## General Hate Symbols 54 INDEX OF ENTRIES BY CATEGORY COORS FAMILY SKINS \n> (Comrades of our Racial Struggle)\nCRAZY WHITE BOY CREATIVITY MOVEMENT \n> (World Church of the Creator, WCOTC, COTC)\nCREW 1488 (Organization 1488) \nDAILY STORMER BOOK CLUB EUROPEAN KINDRED FIRM 22 FREE AMERICA RALLY GEORGIA ARYAN BROT...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Anti-Defamation League (ADL) is a leading organization fighting anti-Semitism and bigotry. It is known for its extensive research on hate groups and has published numerous reports on extremist activities, making it a trustworthy source for evaluating incidents tied to neo-Nazi groups. Its credibility in tracking such incidents lends a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 9,
+                    "Relevance Justification": "This evidence presents a hate symbols database that includes various symbols commonly associated with white supremacist groups, including those used by neo-Nazis. This directly relates to the current question about identifiable symbols or logos on vests, making it highly relevant for distinguishing extremists from non-extremists."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "Tactical Dilemmas in Resisting White Nationalists \u2013 Race, Politics ...",
+                "htmlTitle": "Tactical Dilemmas in Resisting White Nationalists \u2013 Race, Politics ...",
+                "link": "https://www.ssc.wisc.edu/soc/racepoliticsjustice/2017/08/20/tactical-dilemmas-in-resisting-white-nationalists/",
+                "displayLink": "www.ssc.wisc.edu",
+                "snippet": "Aug 20, 2017 ... White nationalists displaying Nazi symbols, brawling, and someone purposely driving a car into a crowd are all upsetting. As a scholar of social\u00a0...",
+                "htmlSnippet": "Aug 20, 2017 <b>...</b> White nationalists displaying <b>Nazi symbols</b>, brawling, and someone purposely driving a car into a crowd are all upsetting. As a scholar of social&nbsp;...",
+                "formattedUrl": "https://www.ssc.wisc.edu/.../tactical-dilemmas-in-resisting-white-nationalists/",
+                "htmlFormattedUrl": "https://www.ssc.wisc.edu/.../tactical-dilemmas-in-resisting-white-nationalists/",
+                "pagemap": {
+                    "hcard": [
+                        {
+                            "fn": "Michael Olneck",
+                            "photo": "https://secure.gravatar.com/avatar/9a77419eb4468ebab7d109b559b2f800?s=56&d=mm&r=g"
+                        },
+                        {
+                            "url_text": "Pamela Oliver",
+                            "fn": "Pamela Oliver",
+                            "photo": "https://secure.gravatar.com/avatar/632e9262dc8fc5420180b219cc82ee8b?s=56&d=mm&r=g",
+                            "url": "http://www.ssc.wisc.edu/~oliver/"
+                        }
+                    ],
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTigsDxBD0K59zndHXgiEOE964WiPnxS-4phQRMjYjKe6oyZEg3i2Z7Tg&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "BreadcrumbList": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "numberofitems": "5",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "follow.it-verification-code-b0t4d3fiy3flb0rjmdu3t1kxwmfxbegvehh6eerjukhrq3ixmnb2zhzavtkxse1yempkrg5lrnerm0w2enbkdxexl0tpts9cuem0dfrtze9hrcsyzfuxmji1vddyb2i5qndhcvpgyu1bmnpcvdb2szdyr3mwr3zdr0hhwssvahn8ejhhzzvouzzoylpdt09omejlum5lrk9yoxjtuu51a3bwsu8yz2jxaguytt0=": "yeS5BVtd0SlEmQcyRwx9",
+                            "itemlistorder": "Ascending",
+                            "position": "1",
+                            "url": "https://www.ssc.wisc.edu/soc/racepoliticsjustice/2017/08/20/tactical-dilemmas-in-resisting-white-nationalists/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.newyorker.com/photos/598f179c6d22ce7bbf39fa35/4:3/w_620,c_limit/White-Nationalist-Rally-Charlottesville.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ],
+                    "listitem": [
+                        {
+                            "item": "Home",
+                            "name": "Home",
+                            "position": "1"
+                        },
+                        {
+                            "item": "2017",
+                            "name": "2017",
+                            "position": "2"
+                        },
+                        {
+                            "item": "August",
+                            "name": "August",
+                            "position": "3"
+                        },
+                        {
+                            "item": "20",
+                            "name": "20",
+                            "position": "4"
+                        },
+                        {
+                            "name": "Tactical Dilemmas in Resisting White Nationalists",
+                            "position": "5"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "As a citizen and human being, I have watched the recent news coming out of Charlottesville with the same horror as many others have felt. White nationalists displaying Nazi symbols, brawling, and someone purposely driving a car into a crowd are all upsetting. As a scholar of social movements and the politics of race, I\u2019ve also noticed some issues worth highlighting that have not been such a major part of the discussions. These include noticing the impact of the specific tactical choices the White Nationalists are making, and the specific tactical dilemmas faced by their opponents.\n!\nCharlottesville White nationalists\nWhat struck me most powerfully about the White Nationalists in Charlotte is their use of Nazi symbolism and their overt Antisemitism. I know from what I\u2019ve read that neo-Nazi groups have been on the rise for some time, but I was struck by the apparent tactical misstep in using overt Nazi symbolism. Evoking the Nazis and attacking Jews, not just Blacks or immigrants, brought them a much wider range of negative response than they would have received even with only KKK imagery, much less more muted \u201cWhite heritage\u201d or White victimization images. There has been much less public outrage over past incidents of White nationalists carrying assault rifles, engaging in armed standoffs with police, and attacking and even killing minorities. White nationalists have bombed buildings and driven cars into crowds before, and even these horrific acts evoked less response. It sure seems it was the Nazi symbols\u2013not just the Swastik...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The University of Wisconsin's Social Science Computing Cooperative is a research center that may provide useful data and analyses. However, since its focus is more academic and less on real-time news reporting or fact-checking, it may not always be the best source for current events or misinformation detection."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2017-08-20"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "Although this evidence relates to symbols used by white nationalists and mentions Nazi symbols, it is more focused on behavior and tactical choices rather than specific identifiable symbols on vests. It provides some context but lacks specific details about logos or symbols."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Hate on Display\u2122 Hate Symbols Database",
+                "htmlTitle": "Hate on Display\u2122 Hate <b>Symbols</b> Database",
+                "link": "https://www.adl.org/resources/hate-symbols/search?page=3",
+                "displayLink": "www.adl.org",
+                "snippet": "Boots and Laces. Hate Symbol. Boots and Laces. Racist skinheads prefer wearing steel-toed workboots, typically with red or white\u00a0...",
+                "htmlSnippet": "Boots and Laces. Hate Symbol. Boots and Laces. Racist skinheads prefer wearing steel-toed workboots, typically with red or white&nbsp;...",
+                "formattedUrl": "https://www.adl.org/resources/hate-symbols/search?page=3",
+                "htmlFormattedUrl": "https://www.adl.org/resources/hate-<b>symbols</b>/search?page=3",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIwLoIOCWVjeFlNIVwde6WiSM3lwHyAeAkmfU0wPM1CxB4sUpwmX8VNMo&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "ADL",
+                            "twitter:site": "@ADL",
+                            "handheldfriendly": "true",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Resources Search",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.adl.org/resources/hate-symbols/search",
+                            "facebook-domain-verification": "slsyr4khx2ifnd3aohibtvmt52ncqm"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.adl.org/sites/default/files/styles/content_card_image_large/public/images/combating-hate/hate-on-display/c/boots-laces-1.jpg.webp?itok=rmxQRXk4"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!\nRacist skinheads prefer wearing steel-toed workboots, typically with red or white shoelaces laced a certain way.\n**ALTERNATE NAMES:** Red Shoelaces, White Shoelaces\n!\nGroup Status: Active Bound for Glory is the name of a longstanding white power music band (dating back to 1989) from Minneapolis. It is popular among white supremacists. The main symbol associated with the band is a Thor's Hammer containing the band's initials. Also common are the band's initials in or superimposed over an Iron Cross. Both images derive from albums released by the group. The phrase \"bound for glory\" is a relatively common phrase that can be used in non-racist contexts,\u2026\n!\nThe \u201cBowlcut\u201d is an image of a bowl-shaped haircut resembling the one sported by white supremacist mass killer Dylan Roof. People who use the \u201cbowlcut\u201d image or other \u201cbowl\u201d references admire Roof and call for others to emulate his racist murders.\n!\nALTERNATE NAMES: Tennessee Aryan BrotherhoodGroup Status: Active Brotherhood Forever is a racist prison gang based in Tennessee that is also known as the Tennessee Aryan Brotherhood, according to prison officials. Its symbol consists of its name above and below SS lighting bolts. Sometimes these may appear within an Iron Cross symbol or shield symbol.\u00a0\u00a0...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The Anti-Defamation League (ADL) is a leading organization fighting anti-Semitism and bigotry. It is known for its extensive research on hate groups and has published numerous reports on extremist activities, making it a trustworthy source for evaluating incidents tied to neo-Nazi groups. Its credibility in tracking such incidents lends a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This evidence indicates some culturally recognizable hate symbols and discusses the context in which they appear. However, it does not specify what symbols might appear on the vests in question, limiting its direct applicability to the inquiry about the specific symbols."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Neo-Nazi groups spew hate outside Disney World and near Orlando ...",
+                "htmlTitle": "<b>Neo</b>-<b>Nazi groups</b> spew hate outside Disney World <b>and</b> near Orlando ...",
+                "link": "https://www.nbcnews.com/news/us-news/neo-nazi-groups-spew-hate-disney-world-orlando-officials-say-rcna103186",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Sep 5, 2023 ... \"We know these groups demonstrate in high profile areas in order to agitate and incite people with antisemitic symbols and slurs,\" the sheriff's\u00a0...",
+                "htmlSnippet": "Sep 5, 2023 <b>...</b> &quot;We know these groups demonstrate in high profile areas in order to agitate and incite people with antisemitic <b>symbols</b> and slurs,&quot; the sheriff&#39;s&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/.../neo-nazi-groups-spew-hate-disney-world-orla...",
+                "htmlFormattedUrl": "https://www.nbcnews.com/.../<b>neo-nazi</b>-<b>group</b>s-spew-hate-disney-world-orla...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgUNb_Klj894E-yUceyfKNCkyVAnCtdW2amUAREuwzNe42XnwHsDrMMus&s",
+                            "width": "310",
+                            "height": "163"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Neo-Nazi groups spew hate outside Disney World and near Orlando, officials say",
+                            "og:image:type": "image/jpeg",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "The group wore clothing and bore flags emblazoned with Nazi insignia outside the entrance to the Disney Springs shopping center, the sheriff\u2019s office said.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg",
+                            "branch:deeplink:description": "The group wore clothing and bore flags emblazoned with Nazi insignia outside the entrance to the Disney Springs shopping center, the sheriff\u2019s office said.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Neo-Nazi groups spew hate outside Disney World and near Orlando, officials say",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg",
+                            "og:title": "Neo-Nazi groups spew hate outside Disney World and near Orlando, officials say",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "The group wore clothing and bore flags emblazoned with Nazi insignia outside the entrance to the Disney Springs shopping center, the sheriff\u2019s office said.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/news/us-news/neo-nazi-groups-spew-hate-disney-world-orlando-officials-say-rcna103186",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230903-neo-nazi-rally-florida-jm-1636-b24c29.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... neo-Nazis and white supremacists spread antisemitic, white supremacist and anti-LGBTQ messages outside Disney World and in the nearby Orlando, Florida, area Saturday in , officials said.\nAbout 15 people wearing clothing and bearing flags emblazoned with Nazi insignia demonstrated outside the entrance to the Disney Springs shopping center, said the Orange County Sheriff's Office, which said deputies were dispatched around 10:40 a.m.\n, a civil rights organization dedicated to countering extremism, participants carried antisemitic, white supremacist and anti-LGBTQ flags and signs. The group consisted of members of the neo-Nazi groups ,  and 14 First, a  group that has been absorbed into  according to the ADL.\nThe extremists dispersed after about two hours, and no one was arrested, the sheriff's office said.\nRepresentatives for Walt Disney World did not respond to requests for comment Sunday afternoon.\nThe theme park has been embroiled in controversies this year: Its governing district drew criticism for  last month, and the theme park is mounting a    and has   in January because of its incorporation of characters from the 1946 film \u201cSong of the South,\u201d which featured racist stereotypes.\nIn a statement, the sheriff's office said that the extremist groups were looking for attention and that it condemned their actions.\n\"We know these groups demonstrate in high profile areas in order to agitate and incite people with antisemitic symbols and slurs,\" the sheriff's office said. \"The Orange County Sheriff\u2019s Office deplores hate speech in any form, but people have the First Amendment right to demonstrate. What these groups do is revolting and condemned in the strongest way by Sheriff \\ Mina and the Sheriff\u2019s Office. They are looking for attention, and specifically media attention.\"\nLater in the day, more than 50 members of two different extremist groups \u2014\u00a0the Goyim Defense League and Blood Tribe \u2014\u00a0gathered in the greater Orlando area and waved swastika flags, saluted Hitler and shouted hateful messages, including \"White power\" and \"Jews will not replace us,\" according to the ADL.\nThe Goyim Defense League is a small network of antisemitic and white supremacist conspiracy theorists that was behind antisemitic stunts that made headlines last year, including the     \u2014\u00a0referring to , the rapper formerly known as Kanye West \u2014\u00a0and  onto a building outside TIAA Bank Field in Jacksonville after a football game between the universities of Georgia and Florida, .\nThe Blood Tribe is a neo-Nazi group that espouses white supremacist and anti-LGBTQ views, .\n...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "NBC News is a reputable news organization known for its investigative journalism and fact-checking. While mainstream news can sometimes have biases based on editorial interests, NBC generally provides well-sourced and accurate reporting. However, there may be occasional errors, which is a consideration for the score."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-09-05"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This evidence describes recent demonstrations by neo-Nazi groups, including the use of antisemitic symbols but lacks detail on specific identifiable symbols or logos that would be seen on vests, thereby limiting its relevance for the current question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Writing on the Wall: Graffiti and Neo-Nazis in Bulgaria | Rachel Susser",
+                "htmlTitle": "Writing on the Wall: Graffiti <b>and Neo</b>-<b>Nazis</b> in Bulgaria | Rachel Susser",
+                "link": "https://rachelsusser.com/2016/05/10",
+                "displayLink": "rachelsusser.com",
+                "snippet": "May 10, 2016 ... ... neo-Nazi, white supremacist, and ultra-nationalist symbols, too. At an international folk festival I encountered a man wearing a Nazi jacket\u00a0...",
+                "htmlSnippet": "May 10, 2016 <b>...</b> ... <b>neo</b>-<b>Nazi</b>, white supremacist, and ultra-nationalist <b>symbols</b>, too. At an international folk festival I encountered a man wearing a Nazi jacket&nbsp;...",
+                "formattedUrl": "https://rachelsusser.com/2016/05/10",
+                "htmlFormattedUrl": "https://rachelsusser.com/2016/05/10",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnG-FUI-fFdBp2qg5y2IPWHAya_4zkdoy3e_tBR9eVh8BxEtVuJWKBXqR8&s",
+                            "width": "259",
+                            "height": "194"
+                        }
+                    ],
+                    "Item": [
+                        {
+                            "num_replies": "3",
+                            "title": "Writing on the Wall: Graffiti and Neo-Nazis in Bulgaria"
+                        }
+                    ],
+                    "Post": [
+                        {
+                            "date": "2016-09-17T08:43:52-04:00",
+                            "created": "2016-09-17T08:43:52-04:00",
+                            "title": "Thank you for your"
+                        },
+                        {
+                            "date": "2017-07-31T08:37:57-04:00",
+                            "created": "2017-07-31T08:37:57-04:00",
+                            "title": "thanks for the overview"
+                        },
+                        {
+                            "date": "2018-06-29T14:08:45-04:00",
+                            "created": "2018-06-29T14:08:45-04:00",
+                            "title": "Although, as you admit your"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "http://rachelsusser.com/sites/default/files/media/images/articles/Blog_Images_2016/Swastikas/2016-01-13_Antifa_Pink.JPG",
+                            "og:type": "article",
+                            "article:published_time": "2016-05-10T07:23:32-04:00",
+                            "og:site_name": "Rachel Susser",
+                            "article:modified_time": "2016-06-13T03:13:58-04:00",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Writing on the Wall: Graffiti and Neo-Nazis in Bulgaria",
+                            "og:image:type": "image/jpeg",
+                            "og:url": "https://rachelsusser.com/2016/05/10",
+                            "og:updated_time": "2016-06-13T03:13:58-04:00",
+                            "og:description": "I started counting the swastikas sometime in December. Most days I would see at least one, but usually there were more. There were two between my apartment and my favorite bakery, and four on the way to my dance class. More than five visible through the bus window on the ride between Sofia and Plovdiv. Eleven in the first two hours of the drive north through the mountain pass toward Veliko Tarnovo. There are other neo-Nazi, white supremacist, and ultra-nationalist symbols, too. At an international folk festival I encountered a man wearing a Nazi jacket with impunity, police presence be damned. In February, I began to take the long way home to avoid the swastika that was freshly painted on my own building. The paint was red like the blood of history."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "http://rachelsusser.com/sites/default/files/media/images/articles/Blog_Images_2016/Swastikas/2016-01-13_Antifa_Pink.JPG"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!  \n**Fig. 1.** _A man wearing a jacket featuring a  \nswastika, eagle, and German cross.  \n(January 2016, Pernik.)_\nI started counting the swastikas sometime in December. Most days I would see at least one, but usually there were more. There were two between my apartment and my favorite bakery, and four on the way to my dance class. More than five visible through the bus window on the ride between Sofia and Plovdiv. Eleven in the first two hours of the drive north through the mountain pass toward Veliko Tarnovo. There are other neo-Nazi, white supremacist, and ultra-nationalist symbols, too. At an international folk festival I encountered a man wearing a Nazi jacket with impunity, police presence be damned (Figure 1)]. In February, I began to take the long way home to avoid the swastika that was freshly painted on my own building. The paint was red like the blood of history.\nWhat do these symbols mean, though? What are the ideas promoted by the people who paint them? What does the all but complete lack of response from political figures, law enforcement, and community members imply about Bulgarian society? Of course, my research into these issues has necessarily been shallow, both because it is outside of the scope of my project and because learning the Bulgarian language has been a great struggle for me, which would impede both textual research and field interviews. But in my free time, the nights and bits of weekends when I am not occupied with my primary studies, these questions have become almost an obsession.\nI think it was November when I saw the first swastika. It was black and painted atop a red heart in the midst of several other graffiti slogans. Retrospectively, it seems a bit incredible that I didn\u2019t notice other swastikas earlier. This...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 5,
+                    "justification": "This website lacks the broad recognition and credibility of more established news organizations and research centers. The lack of transparency regarding authorship, sourcing of information, and research quality contribute to its lower score, making it a less reliable source."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2016-05-10"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "While discussing the presence of neo-Nazi symbols, this evidence does not provide specific examples of symbols or logos on vests in a way that would help differentiate individuals in the video. It\u2019s more general and lacks details applicable to the question at hand."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Capitol Hill insurrection: Decoding the extremist symbols and groups ...",
+                "htmlTitle": "Capitol Hill insurrection: Decoding the <b>extremist symbols and groups</b> ...",
+                "link": "https://www.cnn.com/2021/01/09/us/capitol-hill-insurrection-extremist-flags-soh/index.html",
+                "displayLink": "www.cnn.com",
+                "snippet": "Jan 9, 2021 ... \u201cBecause many adherents to the militia movement strongly support President Trump, in recent years, Three Percenters have not been as active in\u00a0...",
+                "htmlSnippet": "Jan 9, 2021 <b>...</b> \u201cBecause many adherents to the militia movement strongly support President Trump, in recent years, Three Percenters have not been as active in&nbsp;...",
+                "formattedUrl": "https://www.cnn.com/2021/01/09/us/capitol-hill...extremist.../index.html",
+                "htmlFormattedUrl": "https://www.cnn.com/2021/01/09/us/capitol-hill...extremist.../index.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrRAf1vmR7uK6RLQxFpq2bJwsHNnfsCAeKzqYGn4b38Nt2BKOIQPF5x4&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://media.cnn.com/api/v1/images/stellar/prod/210107134539-20-us-capitol-riots-0106.jpg?q=x_2,y_48,h_1123,w_1995,c_crop/w_800",
+                            "twitter:title": "Decoding the extremist symbols and groups at the Capitol Hill insurrection | CNN",
+                            "og:type": "article",
+                            "twitter:card": "summary_large_image",
+                            "article:published_time": "2021-01-09T10:14:16Z",
+                            "og:site_name": "CNN",
+                            "author": "Mallory Simon,Sara Sidner",
+                            "og:title": "Decoding the extremist symbols and groups at the Capitol Hill insurrection | CNN",
+                            "meta-section": "us",
+                            "type": "article",
+                            "og:description": "Flags, signs and symbols of racist, white supremacist and extremist groups were displayed along with Trump 2020 banners and American flags at Wednesday\u2019s riot at the US Capitol. We spoke to an expert to identify the symbols and understand the chilling messages of tyranny, white supremacy, anarchy, racism, anti-Semitism and hatred they portray.",
+                            "twitter:image": "https://media.cnn.com/api/v1/images/stellar/prod/210107134539-20-us-capitol-riots-0106.jpg?q=x_2,y_48,h_1123,w_1995,c_crop/w_800",
+                            "article:publisher": "https://www.facebook.com/CNN",
+                            "article:tag": "anti-defamation league, civil wars, confederate flag and monuments controversy, conservatism, continents and regions, discrimination, donald trump, elections and campaigns, government and public administration, government bodies and offices, government organizations - us, international relations and national security, misc organizations, national security, north america, oath keepers, political figures - us, political ideologies, politics, racism and racial discrimination, right-wing extremism, societal issues, society, terrorism, terrorism and counter-terrorism, the americas, united states, unrest, conflicts and war, us congress, us federal government, white house, white supremacy and neo-nazism, fascism, forms of government, proud boys",
+                            "fb:app_id": "80401312489",
+                            "twitter:site": "@CNN",
+                            "article:modified_time": "2021-01-11T15:07:53Z",
+                            "viewport": "width=device-width,initial-scale=1,shrink-to-fit=no",
+                            "twitter:description": "Flags, signs and symbols of racist, white supremacist and extremist groups were displayed along with Trump 2020 banners and American flags at Wednesday\u2019s riot at the US Capitol. We spoke to an expert to identify the symbols and understand the chilling messages of tyranny, white supremacy, anarchy, racism, anti-Semitism and hatred they portray.",
+                            "template_type": "article_leaf",
+                            "theme": "us",
+                            "og:url": "https://www.cnn.com/2021/01/09/us/capitol-hill-insurrection-extremist-flags-soh/index.html"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media.cnn.com/api/v1/images/stellar/prod/210107134539-20-us-capitol-riots-0106.jpg?q=x_2,y_48,h_1123,w_1995,c_crop/w_800"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... ideas being shared, they say. The initial event, which was heavily promoted and encouraged by President Trump, gave all of these groups something to rally around.\n\u201cThis was an event designed to oppose the results of a free and fair democratic election and the transition of power that would naturally follow,\u201d Mark Pitcavage, a historian and expert in extremism with the Anti-Defamation League said.\nCNN spoke with him to identify the symbols and understand the chilling messages of tyranny, white supremacy, anarchy, racism, anti-Semitism and hatred they portray.\nNoose and gallows\n-----------------\n!\nCNN Illustrations/Andrew Caballero-Reynolds/AFP/Getty Images\nWhile a noose on its own is often used as a form of racial intimidation, Pitcavage says he believes in this context the gallows were to suggest punishment for committing treason. \u201cIt is suggesting that representatives and senators who vote to certify the election results, and possibly Vice President Pence, are committing treason and should be tried and hanged,\u201d he explains.\nThat treason rhetoric was seen on right-wing message boards in days leading up to the event.\nThree Percenters flag\n---------------------\n!\nCNN Illustrations/Joseph Prezioso/AFP/Getty Images\nThe Three Percenters (also known as III%ers, 3%ers or Threepers) are part of the militia movement in the United States and are anti-government extremists, according to the ADL.\nLike others in the militia movement, Three Percenters view themselves as defending the American people against government tyranny.\n\u201cBecause many adherents to the militia movement strongly support President Trump, in recent years, Three Percenters have not been as active in opposing the federal government, directing their ire at other perceived foes, including leftists/antifa, Muslims and immigrants,\u201d \nThe group\u2019s name comes from an inaccurate claim that only three percent of the people in the colonies armed themselves and fought against the British during the Revolutionary War.\nThe flag seen above is their logo on the traditional Betsy Ross flag. Pitcavage says right-wing groups (mainstream or extreme), which think of themselves as patriotic, sometimes co-opt America\u2019s first flag.\n**\u201cRelease the Kraken\u201d flag**\nThe flag references former Trump lawyer Sidney Powell\u2019s comments that she was going to \u201crelease the Kraken.\u201d  that would destroy the idea that Joe Biden won the presidency.\nThe \u201cKraken,\u201d a mammoth sea creature from Scandavian folklore, has turned into a meme in circles that believe the election was stolen. The Kraken, they say, is a cache of evidence that there was widespread fraud. On social media, QAnon conspiracy and fringe sites #ReleaseTheKraken has been widely shared along with false theories of fraud.\nThe Proud Boys and the OK sign\n------------------------------\n!\nCNN Illustrations/Jim Urquhart/Reuters\nThe far right has  as...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "CNN is a well-known news provider with a strong global presence. While it has high standards of journalism, reviews indicate that it experiences bias and sensationalism at times. Its overall accuracy is good, yet readers should be cautious of potential editorial slants."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-01-09"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence focuses primarily on the content of the Capitol Hill insurrection and describes certain symbols seen there. However, it does not elaborate specifically on symbols or logos that might differentiate neo-Nazi militia members, failing to address the current question effectively."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "How (Not) To Interpret Far-Right Symbols - bellingcat",
+                "htmlTitle": "How (<b>Not</b>) To Interpret Far-Right <b>Symbols</b> - bellingcat",
+                "link": "https://www.bellingcat.com/resources/2023/04/04/how-not-to-interpret-far-right-symbols/",
+                "displayLink": "www.bellingcat.com",
+                "snippet": "Apr 4, 2023 ... He's got a swastika tattooed on the back of his head as a Nazi flag flutters in the background. It's the kind of default image we often have of\u00a0...",
+                "htmlSnippet": "Apr 4, 2023 <b>...</b> He&#39;s got a swastika tattooed on the back of his head as a <b>Nazi</b> flag flutters in the background. It&#39;s the kind of default image we often have of&nbsp;...",
+                "formattedUrl": "https://www.bellingcat.com/.../04/.../how-not-to-interpret-far-right-symbols/",
+                "htmlFormattedUrl": "https://www.bellingcat.com/.../04/.../how-not-to-interpret-far-right-<b>symbols</b>/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0H59XIoBrd9oY3GE0EMM1OkOYNHVZIiwEw7P-Xx3FV4aS8togGXFynq-&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.bellingcat.com/app/uploads/2023/04/farrightsofia2022.jpeg",
+                            "article:published_time": "2023-04-04T10:07:12+00:00",
+                            "og:image:width": "1600",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#000",
+                            "og:site_name": "bellingcat",
+                            "apple-mobile-web-app-title": "bellingcat",
+                            "twitter:label1": "Written by",
+                            "twitter:label2": "Est. reading time",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "Far-right actors are increasingly creative and coy with their use of obscure and misleading symbols, presenting new challenges to researchers and journalists.",
+                            "twitter:creator": "@colbornemichael",
+                            "twitter:data1": "Michael Colborne",
+                            "twitter:data2": "11 minutes",
+                            "article:modified_time": "2023-04-04T14:10:32+00:00",
+                            "application-name": "bellingcat",
+                            "og:type": "article",
+                            "author": "Michael Colborne",
+                            "og:title": "How (Not) To Interpret Far-Right Symbols - bellingcat",
+                            "og:image:height": "900",
+                            "apple-mobile-web-app-status-bar-style": "black-translucent",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:locale": "en_US",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bellingcat.com/resources/2023/04/04/how-not-to-interpret-far-right-symbols/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.bellingcat.com/app/uploads/2023/04/farrightsofia2022.jpeg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "There\u2019s a good chance you\u2019ve seen a photo like this before: a man with a shaved head and a black jacket faces away from the camera. He\u2019s got a swastika tattooed on the back of his head as a Nazi flag flutters in the background.\nIt\u2019s the kind of default image we often have of when we think of the far-right \u2014 obvious, identifiable and recognisable. That\u2019s why this exact photo has been the cover image for    about the far-right around the world. No matter that the image itself is from a very specific context, when a handful of  protested outside a Holocaust memorial centre in Illinois, USA back in 2009.\nBut it\u2019s seldom this straightforward to identify symbols the far-right uses, let alone identify members of far-right groups or advocates of such ideologies solely because of the symbols they use.\nFor every culture, symbols of any kind matter. They evoke emotions in us, from the positive to the negative and the simple to the complex.\nOf course, this certainly doesn\u2019t just exist in the context of far-right extremism. Think of the kinds of symbols in your life that you react to and the national, cultural, or subcultural contexts you come from.\nMaybe it\u2019s a symbol you\u2019re quite literally attached to, tattooed on your body. Maybe it\u2019s a symbol that angers you to the point where you feel your identity is threatened. Maybe it\u2019s somewhere in between. You feel a bond, some sense of community with those who...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "Bellingcat is an investigative journalism group that specializes in open-source intelligence and has garnered respect for its rigorous methodology in uncovering stories related to conflict, human rights abuses, and extremist activities. The thoroughness of their research earns it a high score."
+                },
+                "Newness": {
+                    "NewnessScore": 4,
+                    "Date": "2023-04-04"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "This evidence discusses the image of a person with a tattoo representing neo-Nazi affiliation, which is quite vague and does not provide recognizable symbols or logos that would apply to the group in the video. It does not address the specifics of distinguishing vests used by each group."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Contemporary manifestations of violent right-wing extremism in the ...",
+                "htmlTitle": "Contemporary manifestations of violent right-wing <b>extremism</b> in the ...",
+                "link": "https://home-affairs.ec.europa.eu/system/files/2021-04/ran_adhoc_cont_manif_vrwe_eu_overv_pcve_pract_2021_en.pdf",
+                "displayLink": "home-affairs.ec.europa.eu",
+                "snippet": "Right-wing violence is rising across the EU, illustrating the need for adequate measures to prevent and counter the threat. Yet, many existing preventing and\u00a0...",
+                "htmlSnippet": "Right-wing violence is rising across the EU, illustrating the need for adequate measures to prevent and counter the threat. Yet, many existing preventing and&nbsp;...",
+                "formattedUrl": "https://home-affairs.ec.europa.eu/.../ran_adhoc_cont_manif_vrwe_eu_over...",
+                "htmlFormattedUrl": "https://home-affairs.ec.europa.eu/.../ran_adhoc_cont_manif_vrwe_eu_over...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrghcXH5c3krJ5DPot6LuN9nJOdnmp2ogYUYzfIMJTqVcR8OdJvvgDe-o&s",
+                            "width": "269",
+                            "height": "187"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20210421124808+02'00'",
+                            "creator": "Microsoft\u00ae Word for Microsoft 365",
+                            "creationdate": "D:20210421124808+02'00'",
+                            "author": "European Commission",
+                            "producer": "Microsoft\u00ae Word for Microsoft 365"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///307b61277ba95632d22397d9412eb08e17ee115f8519b34f97ca5caba92f5540"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "[Content truncated]... Pauwels , RAN External Expert\n# Contemporary manifestations of \n# violent right -wing extremism in the \n# EU: An overview of P/CVE practices EUROPEAN COMMISSION \n> Radicalisation Awareness Network 202 1\n# Contemporary manifestations of violent \n# right -wing extremism in the EU: An \n# overview of P/CVE practices LEGAL NOTICE \nThis document has been prepared for the European Commission however it reflects the views only of the authors, and the European Commission is \nnot liable for any consequence stemming from the reuse of this publication. More information on the European Union is availab le on the Internet \n. \nLuxembourg: Publications Office of the European Union, 202 1\n\u00a9 European Union, 202 1\nThe reuse policy of European Commission documents is implemented by the Commission Decision 2011/833/EU of 12 December 2011 o n the reuse \nof Commission documents (OJ L 330, 14.12.2011, p. 39). Except otherwise noted, the reuse of this document is authorised under a Creative \nCommons Attribution 4.0 International (CC -BY 4.0) licence  . This means that reuse is allowed provided \nappropriate credit is given and any changes are ind icated. \nFor any use or reproduction of elements that are not owned by the European Union, permission may need to be sought directly f rom the respective \nrightholders. CONTEMPORARY MANIFESTATIONS OF VIOLENT RIGHT -WING EXTREMISM IN THE EU: \n> 4\n# Introduction \nRight -wing violence is rising across the EU, illustrating the need for adequate measures to prevent and \ncounter the threat. Yet, many existing preventing and countering violent extremism (P/CVE) measures hav e\nbeen developed around Islamist extremism or in response to the wave of violent right -wing extremism \n(VRWE) three decades ago. \nThis paper explores whether measures to deal with previous right -wing extremist expressions are fit to \ncounter current manifesta tions of right -wing extremism. It describes the modern (violent) right -wing extremist \nscene and how it has evolved from past manifestations. It also highlights a number of promising practices \nfrom previous programmes targeting right -wing violence. Several core concepts of these approaches remain \nhighly valuable today. However, a more diverse \u201cat -risk\u201d group, increasing internationalisation and online \npresence demand for supplementary measures and a rethink of some aspects. \n# Violent r ight -wing extremism in Eu rope \n# The main ideological currents \nRight -wing extremism is far from forming...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The European Commission\u2019s Home Affairs division provides valuable data and policy reports on matters related to security, migration, and rights. Although it presents a European perspective, its credibility is high for official information but may not always focus on the nuance of U.S. events related to extremism."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "The document discusses rising right-wing violence but does not mention specific symbols or logos relevant to the question about identifiable clothing items. Its relevance is limited as it does not provide concrete examples for differentiation."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "I have a tattoo of the Helm of Awe but now I'm worried if the Helm of ...",
+                "htmlTitle": "I have a tattoo of the Helm of Awe but now I&#39;m worried if the Helm of ...",
+                "link": "https://www.reddit.com/r/Norse/comments/od70lw/i_have_a_tattoo_of_the_helm_of_awe_but_now_im/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jul 3, 2021 ... My own pretend invincibility. Anyway, I saw recently that white supremacists have hijacked quite a few symbols of Norse mythology and I am now\u00a0...",
+                "htmlSnippet": "Jul 3, 2021 <b>...</b> My own pretend invincibility. Anyway, I saw recently that white supremacists have hijacked quite a few <b>symbols</b> of Norse mythology and I am now&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../i_have_a_tattoo_of_the_helm_of_awe_but_now...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../i_have_a_tattoo_of_the_helm_of_awe_but_now...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/od70lw",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/Norse on Reddit: I have a tattoo of the Helm of Awe but now I\u2019m worried if the Helm of Awe symbol was hijacked by white supremacists",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/Norse on Reddit: I have a tattoo of the Helm of Awe but now I\u2019m worried if the Helm of Awe symbol was hijacked by white supremacists",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/UnjustBread - 21 votes and 71 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/od70lw",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/Norse/comments/od70lw/i_have_a_tattoo_of_the_helm_of_awe_but_now_im/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/od70lw"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 6,
+                    "justification": "As a social platform, Reddit features user-generated content and discussions which can vary greatly in reliability and quality. Although it can be a source of real-time information and various viewpoints, it does not have a formal moderation or verification process in place, making it less suitable for determining factual accuracy."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-07-03"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This evidence references the hijacking of Norse symbols by white supremacists but does not focus on specific identifiable symbols on vests as the current question requires. Therefore, it provides minimal value in addressing the needs of the inquiry."
+                }
+            }
+        }
+    ]
+}

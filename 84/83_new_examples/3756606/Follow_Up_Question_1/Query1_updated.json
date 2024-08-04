@@ -1,0 +1,674 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - giant marine species Antarctic waters misidentified sea monster",
+                "totalResults": "1090000",
+                "searchTerms": "giant marine species Antarctic waters misidentified sea monster",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - giant marine species Antarctic waters misidentified sea monster",
+                "totalResults": "1090000",
+                "searchTerms": "giant marine species Antarctic waters misidentified sea monster",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.295276,
+        "formattedSearchTime": "0.30",
+        "totalResults": "1090000",
+        "formattedTotalResults": "1,090,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Can huge undiscovered creatures live in the ocean? : r ...",
+                "htmlTitle": "Can <b>huge</b> undiscovered <b>creatures</b> live in the <b>ocean</b>? : r ...",
+                "link": "https://www.reddit.com/r/oceancreatures/comments/qcnj3n/can_huge_undiscovered_creatures_live_in_the_ocean/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Oct 21, 2021 ... I watched a little documentary that compared sightings of sea monsters through history with creatures we have discovered over the years. They\u00a0...",
+                "htmlSnippet": "Oct 21, 2021 <b>...</b> I watched a little documentary that compared sightings of <b>sea monsters</b> through history with <b>creatures</b> we have discovered over the years. They&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../can_huge_undiscovered_creatures_live_in_the_...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../can_huge_undiscovered_creatures_live_in_the_...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/qcnj3n",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/oceancreatures on Reddit: Can huge undiscovered creatures live in the ocean?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/oceancreatures on Reddit: Can huge undiscovered creatures live in the ocean?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/1711198430497251 - 231 votes and 68 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/qcnj3n",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/oceancreatures/comments/qcnj3n/can_huge_undiscovered_creatures_live_in_the_ocean/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/qcnj3n"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "You've been blocked by network security.\nTo continue, log in to your Reddit account or use your developer token\nIf you think you've been blocked by mistake, file a ticket below and we'll look into it.",
+                    "content_tokens": 44
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a platform for user-generated content and discussions across various topics. While it can be a source of engaging conversations and information sharing, it lacks formal oversight or editorial standards. Due to its open nature, misinformation can spread easily, and claims made on the platform often rely on individual anecdotes rather than scientific evidence."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2021-10-21"
+                },
+                "Relevance": {
+                    "RelevanceScore": 3,
+                    "Relevance Justification": "This Reddit discussion explores the history of sea monster sightings and compares them to known marine creatures, but it lacks specific examples of species that could be misidentified in Antarctic waters. It provides some context but does not directly answer the question."
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Ocean Mysteries: Sea Monsters ~ MarineBio Conservation Society",
+                "htmlTitle": "<b>Ocean</b> Mysteries: <b>Sea Monsters</b> ~ MarineBio Conservation Society",
+                "link": "https://www.marinebio.org/creatures/mysteries/",
+                "displayLink": "www.marinebio.org",
+                "snippet": "The Webster's dictionary defines the word monster as \"an animal of strange or terrifying shape\" and \"one unusually large for its kind.\" By this definition,",
+                "htmlSnippet": "The Webster&#39;s dictionary defines the word <b>monster</b> as &quot;an animal of strange or terrifying shape&quot; and &quot;one unusually <b>large</b> for its kind.&quot; By this definition,",
+                "formattedUrl": "https://www.marinebio.org/creatures/mysteries/",
+                "htmlFormattedUrl": "https://www.<b>marine</b>bio.org/creatures/mysteries/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_5p4x48BvOKFCxeKbV0CHHQYpyZUjnFmgnTHuy7gSOgaVPVNVJuVuic&s",
+                            "width": "231",
+                            "height": "218"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.marinebio.org/wp-content/uploads/2021/05/colossal.jpg",
+                            "og:image:width": "550",
+                            "twitter:card": "summary_large_image",
+                            "theme-color": "#2384c6",
+                            "og:site_name": "MarineBio Conservation Society",
+                            "tec-api-origin": "https://www.marinebio.org",
+                            "twitter:label1": "Time to read",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "The Webster's dictionary defines the word monster as \"an animal of strange or terrifying shape\" and \"one unusually large for its kind.\" By this definition,",
+                            "twitter:creator": "@adminDC",
+                            "article:publisher": "https://www.facebook.com/marinebio.org/",
+                            "og:image:secure_url": "https://www.marinebio.org/wp-content/uploads/2021/05/colossal.jpg",
+                            "twitter:image": "https://www.marinebio.org/wp-content/uploads/2021/05/colossal.jpg",
+                            "twitter:data1": "11 minutes",
+                            "twitter:site": "@@MBSociety",
+                            "tec-api-version": "v1",
+                            "og:type": "article",
+                            "og:image:alt": "colossal squid",
+                            "twitter:title": "Ocean Mysteries: Sea Monsters ~ MarineBio Conservation Society",
+                            "og:title": "Ocean Mysteries: Sea Monsters ~ MarineBio Conservation Society",
+                            "og:image:height": "521",
+                            "og:updated_time": "2023-08-03T07:51:18-05:00",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "The Webster's dictionary defines the word monster as \"an animal of strange or terrifying shape\" and \"one unusually large for its kind.\" By this definition,",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.marinebio.org/creatures/mysteries/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.marinebio.org/wp-content/uploads/2021/05/colossal.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "The Webster\u2019s dictionary defines the word monster as \u201can animal of strange or terrifying shape\u201d and \u201cone unusually large for its kind.\u201d By this definition, the creatures that dwell in the deep ocean are true monsters. Miles beneath the surface, where sunlight can no longer penetrate, exists an eerie world of cold darkness. This is the abyss. It is a world of strange and sometimes grotesque forms. Some of the animals here have evolved the ability to create their own light with a technique known as bioluminescence. They use their lights to attract prey and ward off predators. There are also creatures here of gigantic proportions. There are also animals here that get all of their nutrients from chemicals in the ocean through a process known as chemosynthesis. This is where the elusive giant squid hunts. It is also where the great sperm whale comes to feed on the giant squid. Here, within the waters of our own planet, lies an alien world of wonders.\nOver the centuries, the oceans have given birth to many myths, legends, mysteries and events still not completely explained by mankind. Contrary to popular belief, the sailors of Columbus\u2019s day did not think they would sail right off the edge of the earth. They were, however, apprehensive about what they would find in their travels. Mistakes about marine life have ranged from inaccurate assumptions about the behavior of known species to fanciful...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "MarineBio is a well-respected site dedicated to marine biology education and conservation. It provides scientifically-backed information about marine life, ecosystems, and research initiatives. The website promotes understanding and awareness of marine biology, making it a solid resource for accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 6,
+                    "Relevance Justification": "This source discusses the strange and terrifying forms of deep-sea creatures, which could theoretically be misidentified as monsters. It mentions bioluminescent creatures and giant squid, which can appear monstrous in their natural habitats. It connects underwater mystery to the idea of misidentification, though it lacks specific species examples pertinent to Antarctica."
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "What is the likelihood that there exist huge deep sea creatures that ...",
+                "htmlTitle": "What is the likelihood that there exist <b>huge</b> deep <b>sea creatures</b> that ...",
+                "link": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/",
+                "displayLink": "www.reddit.com",
+                "snippet": "Jun 8, 2012 ... Any gigantic creature at the scale of what you're talking about would probably have been picked up by now. However: the ocean is deep. It's\u00a0...",
+                "htmlSnippet": "Jun 8, 2012 <b>...</b> Any <b>gigantic creature</b> at the scale of what you&#39;re talking about would probably have been picked up by now. However: the <b>ocean</b> is deep. It&#39;s&nbsp;...",
+                "formattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "htmlFormattedUrl": "https://www.reddit.com/.../what_is_the_likelihood_that_there_exist_huge_d...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "og:image": "https://share.redd.it/preview/post/uqm1v",
+                            "theme-color": "#000000",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "og:image:alt": "An image containing a preview of the post",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:site_name": "Reddit",
+                            "og:title": "r/askscience on Reddit: What is the likelihood that there exist huge deep sea creatures that have yet to be discovered?",
+                            "og:image:height": "630",
+                            "msapplication-navbutton-color": "#000000",
+                            "og:description": "Posted by u/TheNr24 - 445 votes and 143 comments",
+                            "twitter:image": "https://share.redd.it/preview/post/uqm1v",
+                            "apple-mobile-web-app-status-bar-style": "black",
+                            "twitter:site": "@reddit",
+                            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                            "apple-mobile-web-app-capable": "yes",
+                            "og:ttl": "600",
+                            "og:url": "https://www.reddit.com/r/askscience/comments/uqm1v/what_is_the_likelihood_that_there_exist_huge_deep/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://share.redd.it/preview/post/uqm1v"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Reddit - Dive into anything\n===============            \nOpen menu Open navigation  Go to Reddit Home\nr/askscience A chip A close button\nGet app Get the Reddit app  Log in to Reddit\nExpand user menu Open settings menu\n*   *   *   \n### Get the Reddit app\nScan this QR code to download the app now\nOr check it out in the app stores\nAsk a science question, get a science answer.\n* * *\nMembers Online\n\u2022\nADMIN MOD\nWhat is the likelihood that there exist huge deep sea creatures that have yet to be discovered?\n===============================================================================================\nI just read a lot about the  that was caught in 2007 in the Arctics. This combined with  got me thinking. Have there been any such sightings? Any interesting read you can give me about developments in this area are very welcome!\nRead more\nArchived post. New comments cannot be posted and votes cannot be cast.\nTop Posts\n---------\n* * *\n*   \n*   \n*   \n*   &nbsp;\n*   &nbsp;\n* * *\n*   TOPICS\n*   Internet Culture (Viral)\n*   *   *   *   *   *   *   *   *   \n*   Games\n*   *   *   *   *   *   *   *   *   *   *   *   \n*   Q&As\n*   *   \n*   Technology\n*   *   *   *   *   *   *   *   *   *   \n*   Pop Culture\n*   *   *   *   *   *   \n*   Movies & TV\n*   *   *   *   *   *   *   *   *   *   *   *   *   *   \n* * *\n*   RESOURCES\n*   *   *   *   *   *   \n* * *\n*   *   *   \n* * *\n*   *   *   ",
+                    "content_tokens": 397
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 4,
+                    "justification": "Reddit is a platform for user-generated content and discussions across various topics. While it can be a source of engaging conversations and information sharing, it lacks formal oversight or editorial standards. Due to its open nature, misinformation can spread easily, and claims made on the platform often rely on individual anecdotes rather than scientific evidence."
+                },
+                "Newness": {
+                    "NewnessScore": 1,
+                    "Date": "2012-06-08"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "This conversation discusses the likelihood of larger deep-sea creatures existing and their detection. It hints at the possibility of misidentifications but does not focus on specific species that could be confused for sea monsters in the Antarctic context."
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Did You Know...? Marine Life / Ocean Facts... ~ MarineBio ...",
+                "htmlTitle": "Did You Know...? <b>Marine Life</b> / <b>Ocean</b> Facts... ~ MarineBio ...",
+                "link": "https://www.marinebio.org/creatures/facts/",
+                "displayLink": "www.marinebio.org",
+                "snippet": "They have a distinctive horse-like face and blue gills, and are thought to account for many sea-serpent sightings. Many fish can change sex during the course of\u00a0...",
+                "htmlSnippet": "They have a distinctive horse-like face and blue gills, and are thought to account for many <b>sea</b>-<b>serpent</b> sightings. Many <b>fish</b> can change sex during the course of&nbsp;...",
+                "formattedUrl": "https://www.marinebio.org/creatures/facts/",
+                "htmlFormattedUrl": "https://www.<b>marine</b>bio.org/creatures/facts/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aHYhkI0uawznI847jIbfLVc7YREh8NbNbk6Dsrv7VO5UWA2hEMYthO0&s",
+                            "width": "348",
+                            "height": "145"
+                        }
+                    ],
+                    "xfn": [
+                        {}
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.marinebio.org/i/J0262747.jpg",
+                            "og:type": "article",
+                            "og:image:alt": "Did you know\u2026? Marine Life / Ocean Facts\u2026",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Did You Know...? Marine Life / Ocean Facts... ~ MarineBio Conservation Society",
+                            "theme-color": "#2384c6",
+                            "og:site_name": "MarineBio Conservation Society",
+                            "tec-api-origin": "https://www.marinebio.org",
+                            "og:title": "Did You Know...? Marine Life / Ocean Facts... ~ MarineBio Conservation Society",
+                            "twitter:label1": "Time to read",
+                            "og:updated_time": "2023-11-28T12:57:59-06:00",
+                            "og:description": "Sharks bite roughly 70 people each year worldwide, with perhaps 5-10 fatalities, according to data compiled in the International Shark Attack File",
+                            "twitter:creator": "@adminDC",
+                            "article:publisher": "https://www.facebook.com/marinebio.org/",
+                            "og:image:secure_url": "https://www.marinebio.org/i/J0262747.jpg",
+                            "twitter:image": "https://www.marinebio.org/i/J0262747.jpg",
+                            "twitter:data1": "16 minutes",
+                            "twitter:site": "@@MBSociety",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "Sharks bite roughly 70 people each year worldwide, with perhaps 5-10 fatalities, according to data compiled in the International Shark Attack File",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.marinebio.org/creatures/facts/",
+                            "tec-api-version": "v1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.marinebio.org/i/J0262747.jpg"
+                        }
+                    ],
+                    "hatomfeed": [
+                        {}
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... each year as a result of leaking automobiles and other non-point sources than the oil spilled in Prince William Sound by the Exxon Valdez or even in the Gulf of Mexico during the Deepwater Horizon/BP oil spill.\nThe record for the deepest free dive is held by Jacques Mayol. He dove to an astounding depth of 86 m without any breathing equipment.\nA mouthful of seawater may contain millions of bacterial cells, hundreds of thousands of phytoplankton and tens of thousands of zooplankton.\nThe Great Barrier Reef, measuring 2,300 km in length covering an area more extensive than Britain, is the largest living structure on Earth and can be seen from space. Its reefs are made up of 400 species of coral, supporting well over 2,000 different fish, 4,000 species of mollusc and countless other invertebrates. It should really be named \u2018Great Barrier of Reefs\u2019, as it is not one long solid structure but made up of nearly 3,000 individual reefs and 1,000 islands. Other huge barrier reefs include the barrier reefs of New Caledonia, the Mesoamerican (Belize) barrier reef, and the large barrier reefs of Fiji. The largest coral atoll complexes occur in the Maldive-Lakshadweep ecoregion of the central Indian Ocean and in Micronesia.\nFish supply the greatest percentage of the world\u2019s protein consumed by humans and most of the world\u2019s major fisheries are being fished at levels above their maximum sustainable yield; some regions are severely overfished.\nMore than 90% of the trade between countries is carried by ships and about half the communications between nations use underwater cables.\nSwordfish and marlin are the fastest fish in the ocean reaching speeds up to 121 kph in quick bursts; bluefin tuna (Thunnus thynnus) may reach sustained speeds up to 90 kph.\n\nBlue whales are the largest animals on our planet ever (exceeding the size of the greatest known dinosaurs) and have hearts the size of small cars.\nOarfish (Regalecus glesne), are the longest bony fish in the world. They have a snakelike body sporting a magnificent red fin and can grow up to 17 m in length! They have a distinctive horse-like face and blue gills, and are thought to account for many sea-serpent sightings.\nMany fish can change sex during the course of their lives. Others, especially rare deep-sea fish, have both male and female sex organs.\nOne study of a deep...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "MarineBio is a well-respected site dedicated to marine biology education and conservation. It provides scientifically-backed information about marine life, ecosystems, and research initiatives. The website promotes understanding and awareness of marine biology, making it a solid resource for accurate information."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "This entry mentions the oarfish, which has been linked to many sea-serpent sightings, including in frigid waters. Although it does not specifically mention Antarctica, it illustrates how marine animals can be perceived in exaggerated forms. It is tangentially related to the claim."
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "Understanding Ocean Acidification | NOAA Fisheries",
+                "htmlTitle": "Understanding <b>Ocean</b> Acidification | NOAA Fisheries",
+                "link": "https://www.fisheries.noaa.gov/insight/understanding-ocean-acidification",
+                "displayLink": "www.fisheries.noaa.gov",
+                "snippet": "This exchange helps regulate the planet's atmospheric carbon dioxide concentrations, but comes at a cost for the oceans and sea life, particularly shellfish\u00a0...",
+                "htmlSnippet": "This exchange helps regulate the planet&#39;s atmospheric carbon dioxide concentrations, but comes at a cost for the <b>oceans</b> and <b>sea life</b>, particularly shellfish&nbsp;...",
+                "formattedUrl": "https://www.fisheries.noaa.gov/insight/understanding-ocean-acidification",
+                "htmlFormattedUrl": "https://www.fisheries.noaa.gov/insight/understanding-ocean-acidification",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgrUDjrah8b5-G8Jr63T4FCD1tJ8qFBDDtDsMbIw1oGoBpnzna2ZxmsAk&s",
+                            "width": "275",
+                            "height": "183"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.fisheries.noaa.gov/s3//dam-migration/sombrero-reef-elkhorn-coral-noaa_and_jessica_levy_750x500.jpg",
+                            "og:type": "Cardstack/Insight",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "Understanding Ocean Acidification",
+                            "og:site_name": "NOAA",
+                            "dcterms.language": "en",
+                            "dcterms.contributor": "Office of Communications",
+                            "handheldfriendly": "true",
+                            "og:title": "Understanding Ocean Acidification",
+                            "dcterms.title": "Understanding Ocean Acidification | NOAA Fisheries",
+                            "dcterms.creator": "NOAA Fisheries",
+                            "dcterms.description": "Learn how our oceans are absorbing increasingly more carbon dioxide from the atmosphere, leading to lower pH and greater acidity. Ocean acidification is fundamentally changing the chemistry of the world\u2019s oceans and threatening our marine resources.",
+                            "dcterms.date": "Tue, 07/25/2023 - 10:10",
+                            "dcterms.subject": "Ecosystems",
+                            "og:description": "Learn how our oceans are absorbing increasingly more carbon dioxide from the atmosphere, leading to lower pH and greater acidity. Ocean acidification is fundamentally changing the chemistry of the world\u2019s oceans and threatening our marine resources.",
+                            "twitter:creator": "@NOAAFisheries",
+                            "twitter:image": "https://www.fisheries.noaa.gov/s3//dam-migration/sombrero-reef-elkhorn-coral-noaa_and_jessica_levy_750x500.jpg",
+                            "facebook-domain-verification": "9ywy0d7q1zwxd9ajs6hh5cinjeg98h",
+                            "twitter:site": "@NOAAFisheries",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "Learn how our oceans are absorbing increasingly more carbon dioxide from the atmosphere, leading to lower pH and grea",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.fisheries.noaa.gov/insight/understanding-ocean-acidification",
+                            "dcterms.coverage": "National"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.fisheries.noaa.gov/s3//dam-migration/sombrero-reef-elkhorn-coral-noaa_and_jessica_levy_750x500.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Protecting Marine Life\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Related Topics*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Environment\n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    Regions\n    *   \n    *   \n    *   \n    *   \n    *   \n    Contact Us*   \n    *   \n*   \n    Resources & Services\n    Rules & Regulations*   \n    *   \n    *   \n    Permits*   \n    *   \n    *   \n    Funding & Financial Services*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n*   \n    About Us\n    NOAA Fisheries*   \n    *   \n    *   \n    *   \n    News & Media*   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    *   \n    Inflation Reduction Act*   \n    *   \n    *   \n    *   \n    *   \n    *   \nUnderstanding Ocean Acidification\n=================================\nLearn how our oceans are absorbing increasingly more carbon dioxide from the atmosphere, leading to lower pH and greater acidity. Ocean acidification is fundamentally changing the chemistry of the world\u2019s oceans and threatening our marine resources.\nTable of Contents\n-----------------\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nWhat is ocean acidification? How does it happen?\n------------------------------------------------\nOcean acidification is a global threat to the world\u2019s oceans, estuaries, and waterways. It is often called \u201cclimate change\u2019s evil twin\u201d and is projected to grow as carbon dioxide continues to be emitted into the...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "NOAA Fisheries is an authoritative government agency focused on the stewardship of the nation's ocean resources and their habitat. It provides scientifically rigorous data and research on marine species and ecosystems, making it a reliable source for factual information about marine life and threats."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "The information about ocean acidification does not relate to species misidentification or sea monsters at all. This evidence is entirely off-topic concerning the current question."
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "Sea Monsters | AMNH",
+                "htmlTitle": "<b>Sea Monsters</b> | AMNH",
+                "link": "https://www.amnh.org/exhibitions/mythic-creatures/water/sea-monsters",
+                "displayLink": "www.amnh.org",
+                "snippet": "The open ocean can be a terrifying place. Miles from shore on storm-tossed seas, with nothing but water in all directions--including straight down--a sailor\u00a0...",
+                "htmlSnippet": "The open <b>ocean</b> can be a terrifying place. Miles from shore on storm-tossed <b>seas</b>, with nothing but <b>water</b> in all directions--including straight down--a sailor&nbsp;...",
+                "formattedUrl": "https://www.amnh.org/exhibitions/mythic-creatures/water/sea-monsters",
+                "htmlFormattedUrl": "https://www.amnh.org/exhibitions/mythic-creatures/water/<b>sea</b>-<b>monster</b>s",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOADRLm5eOwGGGqFv3NNx_SQErWVPHQuQRfQiCJ83THmdPHhpMq0SxRg&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.amnh.org/extension/amnh/design/amnh_redesign/images/global/default_social_image.jpg",
+                            "og:type": "Article",
+                            "twitter:title": "Sea Monsters | AMNH",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "American Museum of Natural History",
+                            "msvalidate.01": "FDB389F4B0A5614160084A046837729F",
+                            "og:title": "Sea Monsters | AMNH",
+                            "og:description": "The open ocean can be a terrifying place. Miles from shore on storm-tossed seas, with nothing but water in all directions--including straight down--a sailor or fisherman cannot help but wonder what...",
+                            "twitter:image": "https://www.amnh.org/extension/amnh/design/amnh_redesign/images/global/default_social_image.jpg",
+                            "fb:app_id": "1409773259334320",
+                            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+                            "twitter:description": "The open ocean can be a terrifying place. Miles from shore on storm-tossed seas, with nothing but water in all directions--including straight down--a sailor or fisherman cannot help but wonder what...",
+                            "fb:admins": "100000082488363",
+                            "og:url": "https://www.amnh.org/exhibitions/mythic-creatures/water/sea-monsters"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.amnh.org/extension/amnh/design/amnh_redesign/images/global/default_social_image.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "!Kraken model  \n\u00a9\u00a0AMNH / D. Finnin\n#### Why do people see sea monsters?\nThe open ocean can be a terrifying place. Miles from shore on storm-tossed seas, with nothing but water in all directions--including straight down--a sailor or fisherman cannot help but wonder what lurks in the depths. When the oceans were still unexplored, these fears often took the form of imaginary monsters.\nMany sea monsters include features from living animals. A large tentacle becomes part of a monstrous sea serpent or many-armed kraken: The eye sees a fragment, the mind fills in the rest. A blend of tall tales, mistaken identity, and resonant cultural symbols, stories of sea monsters often reveal more about the minds of the imaginers than they do about the natural world.\n\"It was a giant squid twenty-five feet long. It was heading toward the Nautilus, swimming backward very fast.... We could clearly make out the 250 suckers lining the inside of its tentacles, some of which fastened onto the glass panel of the lounge. The monster's mouth--a horny beak like that of a parakeet--opened and closed vertically.... What a whim of nature! A bird's beak in a mollusk!\"\n\\--Jules Verne,\u00a0_Twenty Thousand Leagues Under the Sea_, 1870\n#### Many-armed monster\nThe mythical kraken may be the largest sea monster ever imagined. Some stories described it as more than 2.5 kilometers (1.5 miles) around with...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The American Museum of Natural History (AMNH) is a renowned institution known for its scientific research and education in natural history and anthropology. Its commitment to accuracy in scientific information and peer-reviewed research makes it an excellent resource for assessing claims about marine life."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 7,
+                    "Relevance Justification": "This source discusses why sailors have historically reported sea monsters due to misunderstood marine life. It mentions features from living animals contributing to mythical sightings, which can help identify real species that might be confused with monsters in the oceanic environment."
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Tiny Krill: GIants in the Ocean Marine Life Food Chain",
+                "htmlTitle": "Tiny Krill: <b>GIants</b> in the <b>Ocean Marine Life</b> Food Chain",
+                "link": "https://sanctuaries.noaa.gov/news/features/1007_krill.html",
+                "displayLink": "sanctuaries.noaa.gov",
+                "snippet": "Despite its importance to marine ecosystems, some krill populations are exploited by humans, primarily as livestock and farmed salmon feed. Antarctic\u00a0...",
+                "htmlSnippet": "Despite its importance to <b>marine</b> ecosystems, some krill populations are exploited by humans, primarily as livestock and farmed salmon feed. <b>Antarctic</b>&nbsp;...",
+                "formattedUrl": "https://sanctuaries.noaa.gov/news/features/1007_krill.html",
+                "htmlFormattedUrl": "https://sanctuaries.noaa.gov/news/features/1007_krill.html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAAuleXwNtZ1pp9XaBtXTW8lMX8dfkHS2l9sfycUhLAUSuc4Eu8b75Hxk&s",
+                            "width": "358",
+                            "height": "141"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "tiny krill are giants in the ocean marine life food chain": "Tiny krill are giants in the ocean marine life food chain"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://sanctuaries.noaa.gov/news/images/krill_header.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... whale can consume up to four tons of krill each day. And roughly 2,000 blue whales \u2013 perhaps a sixth of the global population \u2013 generally feed here. But in 2005 and 2006, all that changed.\nDuring those years, researchers theorize, atypical weather patterns produced the wrong rhythm of wind and calm needed for upwelling. Consequently, krill were so sparse that seabird chicks, unable to eat large prey, died of starvation; nests were abandoned. Beach Watch coastal surveyors documented the dead seabirds. Blue whales that usually feed off central and northern California hunkered down in lower latitudes where at least some food was available. The outlook was grim, and scientists feared that a third, fourth or even fifth year without krill could have terrible consequences on the entire ecosystem.\nIn 2007, upwelling in the California Current \u2013 albeit late \u2013 has finally set in, and preliminary results indicate these important zooplankton are returning. Scientists are guardedly optimistic that krill will rebound.\n\u201cSanctuaries cannot control natural processes that affect krill, but they can prevent human-caused stresses that compound them, such as oil pollution and other kinds of habitat destruction,\u201d said Maria Brown, Gulf of Farallones, National Marine Sanctuary superintendent. \u201cCumulative stresses could trigger a domino effect, resulting in major ecosystem impacts. With effective regulations and development of a dynamic ocean stewardship ethic, sanctuaries can enhance nature\u2019s inherent resiliency to cope with change. Sanctuaries play an ongoing, critical role in the balance of life within our world ocean.\u201d\nDespite its importance to marine ecosystems, some krill populations are exploited by humans, primarily as livestock and farmed salmon feed. Antarctic populations are heavily harvested. But off North America\u2019s west coast, recognizing its importance in maintaining ecosystem integrity, the Pacific Fisheries Management Council voted in March 2006 to prohibit commercial krill fishing in federal waters off California, Oregon, and Washington.",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "This NOAA website focuses specifically on marine sanctuaries, emphasizing conservation efforts and scientific research in these protected areas. Its content is rooted in credible sources and governmental research, making it a reliable resource for understanding marine environments."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 5,
+                    "Relevance Justification": "While discussing krill's ecological importance, it does not directly address the question of species misidentified as sea monsters. It provides relevant ecological context for potential misunderstood organisms without naming specific species."
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "I discovered new life on the bottom of the Southern Ocean | Antarctica",
+                "htmlTitle": "I discovered new <b>life</b> on the bottom of the Southern <b>Ocean</b> | <b>Antarctica</b>",
+                "link": "https://www.theguardian.com/environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean",
+                "displayLink": "www.theguardian.com",
+                "snippet": "Dec 28, 2023 ... Sometimes, you have these organisms with characteristics that were described 100 years ago, but they can be wrong (Antarctic sea urchin taxonomy\u00a0...",
+                "htmlSnippet": "Dec 28, 2023 <b>...</b> Sometimes, you have these <b>organisms</b> with characteristics that were described 100 years ago, but they can be <b>wrong</b> (<b>Antarctic sea</b> urchin taxonomy&nbsp;...",
+                "formattedUrl": "https://www.theguardian.com/.../i-discovered-new-life-on-the-bottom-of-th...",
+                "htmlFormattedUrl": "https://www.theguardian.com/.../i-discovered-new-life-on-the-bottom-of-th...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsi_vrDKsyIzJHhJ68I6WWOgXTZKGI575bpZZLhuYIZpFFOg59SFh2cGk&s",
+                            "width": "280",
+                            "height": "180"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://i.guim.co.uk/img/media/02a511cde06d52295f046eab5fc843acb901b03d/0_333_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40753175bdbe2dfbbfe7aad2b7dcc6d8",
+                            "twitter:app:id:googleplay": "com.guardian",
+                            "twitter:app:url:iphone": "gnmguardian://environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean?contenttype=Article&source=twitter",
+                            "theme-color": "#052962",
+                            "og:image:width": "1200",
+                            "article:published_time": "2023-12-28T10:00:31.000Z",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "the Guardian",
+                            "twitter:app:url:ipad": "gnmguardian://environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean?contenttype=Article&source=twitter",
+                            "twitter:app:name:googleplay": "The Guardian",
+                            "al:ios:url": "gnmguardian://environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean?contenttype=Article&source=applinks",
+                            "twitter:app:id:iphone": "409128287",
+                            "og:description": "Most tourists probably don\u2019t know anything about the crazy, wacky communities on the sea floor. It\u2019s an explosion of colour, it really looks like an art gallery down there",
+                            "twitter:creator": "@phoeb0",
+                            "article:publisher": "https://www.facebook.com/theguardian",
+                            "al:ios:app_store_id": "409128287",
+                            "twitter:dnt": "on",
+                            "twitter:image": "https://i.guim.co.uk/img/media/02a511cde06d52295f046eab5fc843acb901b03d/0_333_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=d128c967301d7dc2bcaacbfe5021bf44",
+                            "twitter:site": "@guardian",
+                            "article:modified_time": "2024-02-23T10:11:57.000Z",
+                            "og:type": "article",
+                            "article:section": "Environment",
+                            "al:ios:app_name": "The Guardian",
+                            "og:title": "I discovered new life on the bottom of the Southern Ocean",
+                            "og:image:height": "720",
+                            "twitter:app:id:ipad": "409128287",
+                            "article:author": "https://www.theguardian.com/profile/phoebe-weston",
+                            "article:tag": "Antarctica,Marine life,Wildlife,Environment,World news",
+                            "fb:app_id": "180444840287",
+                            "twitter:app:url:googleplay": "guardian://www.theguardian.com/environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean",
+                            "twitter:app:name:ipad": "The Guardian",
+                            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+                            "og:url": "https://www.theguardian.com/environment/2023/dec/28/i-discovered-new-life-on-the-bottom-of-the-southern-ocean",
+                            "twitter:app:name:iphone": "The Guardian"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://static.theguardian.com/commercial/sponsor/22/Feb/2024/009ee915-27fd-4264-ab70-2aa99d385c41-Guardian.orglogos-for%20badge.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]..., it really looks like an art gallery down there.\n!\nA dive in the Bransfield Strait, Antarctica, reveals Stylasterid lace corals, sponge, crinoid and brittle stars. Photograph: Greenpeace\nI have found more than a dozen new species on my trips to Antarctica, including many sea cucumbers, one of which was named after me. There is still so much to be discovered but it\u2019s slow work for the taxonomists, and funding is scarce. On the last expedition with Greenpeace in 2022, we came across a community of tall, fragile barnacle that has yet to be described and may be years before it is actually classified.\nI knew I wanted to be a marine biologist from the age of 15. I\u2019m from Melbourne, and Australia has a long history with the Antarctic. I started volunteering at the local museum and was put to work on Antarctic sea urchins. I was hooked. Sea urchins brood their young in a little pouch near their mouth. They can have dozens of babies around them. On one female, I found 353 babies. It\u2019s pretty cute \u2013 but I know not everyone would think that.\n!\nLockhart has been studying Antarctic marine life for more than three decades. Photograph: Ariana Drehsler/The Guardian\nMy fascination and drive began with the puzzle, and working out what\u2019s what. Sometimes, you have these organisms with characteristics that were described 100 years ago, but they can be wrong (Antarctic sea urchin taxonomy is a mess). Realising as a young person that these old revered scientists could be wrong \u2013 I found that compelling.\nOn my first expeditions in the 2000s, I would join research vessels that were looking at fish stocks \u2013 but that requires trawling. I was there to look at all the bycatch which is, of course, destroyed in the process.\nOne day sticks out for me. We struggled to get the trawl back on the deck because the net contained spectacular sponges that were probably hundreds of years old. These glass sponges were like enormous vases. You could sit in them, they were so big \u2013 at least a good metre across. They\u2019re home to so many other organisms as well, such as snake stars and ice fish that hide within. Once you lose the structure that these organisms provide, you\u2019re messing with the whole ecosystem. But, if you are going to get it protected, you\u2019ve got to know it\u2019s there and in those days that was the only way to do it.\n!\nA glass sponge \u2018like...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 7,
+                    "justification": "The Guardian is a reputable international news organization that generally adheres to journalistic standards and fact-checking processes. However, it may occasionally publish opinion pieces or less rigorously sourced articles, especially in its coverage of sensational claims."
+                },
+                "Newness": {
+                    "NewnessScore": 5,
+                    "Date": "2023-12-28"
+                },
+                "Relevance": {
+                    "RelevanceScore": 4,
+                    "Relevance Justification": "The evidence discusses new discoveries in Antarctic marine life, which implies there is a vast unknown that can potentially contribute to sightings of 'monstrous' creatures. However, it does not specify what those creatures are or how they might be misidentified."
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Ocean Biodiversity Information System",
+                "htmlTitle": "<b>Ocean</b> Biodiversity Information System",
+                "link": "https://obis.org/",
+                "displayLink": "obis.org",
+                "snippet": "OBIS, the Ocean Biodiversity Information System, is a global open-access data and information clearing-house on marine biodiversity for science,\u00a0...",
+                "htmlSnippet": "OBIS, the <b>Ocean</b> Biodiversity Information System, is a global open-access data and information clearing-house on <b>marine</b> biodiversity for science,&nbsp;...",
+                "formattedUrl": "https://obis.org/",
+                "htmlFormattedUrl": "https://obis.org/",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8WkIvykP5fUmmmIuajqHkcmryCy0JUmEpZmJ5AG6UEx7W68gQ2aUdxDGk&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "viewport": "width=device-width, initial-scale=1"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://obis.org/images/thumbnails/co_vacancy_thumb.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "\nJuly 30, 2024\nOBIS Vacancy Consultant\n\nOBIS is seeking an individual consultant to support the OBIS Secretariat by providing administrative and communication support across various activities.\n\nJune 28, 2024\nBiodiversity mobilization OBIS Training\n\nTogether, several organizations and OBIS nodes organized the third edition of the Marine Biodiversity Data Mobilization Workshop, a three day virtual, interactive, learner-led workshop to address challenges around data standardization and facilitate publication to OBIS.\u00a0This year there was a special focus on mobilizing animal telemetry data.\n\nJune 19, 2024\nGovernance OBIS\n\nWe are pleased to announce that the new OBIS Data Policy for data sharing and use in OBIS, which was adopted by the SG-OBIS-12, is available in the OBIS Manual. In addition to the revised data policy, the newly defined OBIS Terms of Reference for various roles within our community are also available in the manual.\n\nJune 13, 2024\nInternship OBIS\n\nUNESCO-IOC is excited to announce the call for applications for the Ocean Training Internships for 2024. For the 2024 cohort, six host institutions will offer placements, each specializing in key priority areas. Two OBIS nodes, OBIS Deep-Sea and OBIS Australia, will host one intern each.\n\nJune  3, 2024\nReport State of the ocean Policy\n\nRecent statistics on marine biodiversity conservation published today in the IOC State of the Ocean Report 2024, reveal interesting statistics on how much do we know about what species, especially those threatened with extinction, occur...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 8,
+                    "justification": "The Ocean Biogeographic Information System (OBIS) is a global database that provides access to data about marine biodiversity supported by various scientific organizations, lending credibility and making it a valuable resource for verifying claims regarding marine life."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 2,
+                    "Relevance Justification": "OBIS provides general information about marine biodiversity but lacks emphasis on species that could be misidentified as sea monsters. It does not tie back to the claim or the Antarctic context."
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "News: Ocean Exploration News: NOAA Ocean Exploration",
+                "htmlTitle": "News: <b>Ocean</b> Exploration News: NOAA <b>Ocean</b> Exploration",
+                "link": "https://oceanexplorer.noaa.gov/news/oceanexplorationnews/welcome.html",
+                "displayLink": "oceanexplorer.noaa.gov",
+                "snippet": "Despite its importance, the deep sea is the least explored area on our planet because it is so big, deep, dark, cold, and salty. Researchers need to use special\u00a0...",
+                "htmlSnippet": "Despite its importance, the deep <b>sea</b> is the least explored area on our planet because it is so <b>big</b>, deep, dark, cold, and salty. Researchers need to use special&nbsp;...",
+                "formattedUrl": "https://oceanexplorer.noaa.gov/news/oceanexplorationnews/welcome.html",
+                "htmlFormattedUrl": "https://oceanexplorer.noaa.gov/news/oceanexplorationnews/welcome.html",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.description": "The items on this page capture big news in ocean exploration, not just at NOAA, but around the field. Check back regularly to stay on top of this ever-changing world that explores the deep.",
+                            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+                            "dc.creator": "US Department of Commerce, National Oceanic and Atmospheric Administration",
+                            "dc.title": "News: Ocean Exploration News: NOAA Office of Ocean Exploration and Research",
+                            "dc.date.created": "2018-02-01",
+                            "dc.date.reviewed": "2024-08-01",
+                            "dc.language": "EN-US"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...    **July 14, 2024**\u00a0\u00a0|\u00a0\u00a0Big Island Now\n    Beachgoers and boaters in the Hawaiian Islands may have spied a large white vessel offshore in recent days. The ship wending its way through the blue waters of the tropical archipelago is Oscar Elton Sette \u2013 a 224-foot research vessel operated by the National Oceanic and Atmospheric Administration, now conducting the first Hawai\u2018i portion of the National Coral Reef Monitoring Program in five years.\n*   ### \u00a0\n    **July 12, 2024**\u00a0\u00a0|\u00a0\u00a0Business Times\n    The legendary oceanographer discusses her lifelong mission to protect the world\u2019s oceans, the growing network of Hope Spots transforming marine ecosystems globally, and why it\u2019s not too late to make a difference.\n*   ### \u00a0\n    **July 9, 2024**\u00a0\u00a0|\u00a0\u00a0Twin States News\n    USF and the Florida Institute of Oceanography crews prepped their new remotely operated vehicle _Taurus_ for its first mission on Monday. The remotely operated vehicle - an ROV - can reach depths of two and a half miles, opening the door for exploration of some of the ocean\u2019s most remote areas.\n*   ### \u00a0\n    **July 5, 2024**\u00a0\u00a0|\u00a0\u00a0Frontiers for Young Minds\n    From 200 to nearly 11,000 m (about 600\u201333,000 feet) below sea level and covering two-thirds of our planet, the deep ocean is Earth\u2019s largest\u2014and most critical\u2014habitat. The deep ocean is very important to people for many reasons. For example, it provides foods that we eat, it balances Earth\u2019s climate, and it is a wild unknown space for people to enjoy and explore. Despite its importance, the deep sea is the least explored area on our planet because it is so big, deep, dark, cold, and salty. Researchers need to use special tools such as ships and deep-sea robots to create maps, make new discoveries, and understand how the ocean works and how it affects people and the planet.\n*   ### \u00a0\n    **June 28, 2024**\u00a0\u00a0|\u00a0\u00a0Sci Tech Daily\n    For the first time, researchers from the University of California, San Diego\u2019s Scripps Institution of Oceanography have led an international team to directly measure the upwelling of cold, deep water through turbulent mixing along the slope of a submarine canyon in the Atlantic Ocean.\n*   ### \u00a0\n    **June 27, 2024**\u00a0\u00a0|\u00a0...[Content truncated]",
+                    "content_tokens": 500
+                },
+                "website_quality_evaluation": {
+                    "website_qualityScore": 9,
+                    "justification": "The NOAA Ocean Exploration program website is dedicated to exploring ocean environments and disseminating scientific findings. Its emphasis on exploration and empirical research, backed by NOAA, grants it high credibility as a source for understanding marine phenomena."
+                },
+                "Newness": {
+                    "NewnessScore": 0,
+                    "Date": "No date found"
+                },
+                "Relevance": {
+                    "RelevanceScore": 1,
+                    "Relevance Justification": "This information on ocean exploration is not directly relevant to the question about misidentification of species as sea monsters. It does not discuss creatures specifically or provide a pathway to understanding the claims made."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,578 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - CIA conspiracy theories origins of HIV AIDS",
+                "totalResults": "294000",
+                "searchTerms": "CIA conspiracy theories origins of HIV AIDS",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - CIA conspiracy theories origins of HIV AIDS",
+                "totalResults": "294000",
+                "searchTerms": "CIA conspiracy theories origins of HIV AIDS",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "73d45d507c0b2430e",
+                "siteSearch": "www.snopes.com, www.factcheck.org, www.politifact.com, www.truthorfiction.com, fullfact.org, www.hoax-slayer.com, leadstories.com, www.opensecrets.org, www.washingtonpost.com/news/fact-checker, www.reuters.com/fact-check, apnews.com/APFactCheck, www.bbc.com/news/reality_check, factcheckni.org, facta.news, checkyourfact.com, africacheck.org, verafiles.org, maldita.es, correctiv.org, teyit.org",
+                "siteSearchFilter": "e"
+            }
+        ]
+    },
+    "context": {
+        "title": "DogeNet Search"
+    },
+    "searchInformation": {
+        "searchTime": 0.220276,
+        "formattedSearchTime": "0.22",
+        "totalResults": "294000",
+        "formattedTotalResults": "294,000"
+    },
+    "items": [
+        {
+            "evidence0": {
+                "kind": "customsearch#result",
+                "title": "Understanding the origins and prevalence of AIDS conspiracy ...",
+                "htmlTitle": "Understanding the <b>origins</b> and prevalence of <b>AIDS conspiracy</b> ...",
+                "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9566.2012.01480.x",
+                "displayLink": "onlinelibrary.wiley.com",
+                "snippet": "Apr 25, 2012 ... Abstract The human immunodeficiency virus (HIV) originated from cross-species transmission of the simian immunodeficiency virus from ...",
+                "htmlSnippet": "Apr 25, 2012 <b>...</b> Abstract The human immunodeficiency virus (<b>HIV</b>) originated from cross-species transmission of the simian immunodeficiency virus from&nbsp;...",
+                "formattedUrl": "https://onlinelibrary.wiley.com/doi/full/10.../j.1467-9566.2012.01480.x",
+                "htmlFormattedUrl": "https://onlinelibrary.wiley.com/doi/full/10.../j.1467-9566.2012.01480.x",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3CUccq0zhxdoywnFZWeK4qp_ALmaAj4UGr_yPnDd6FpWBC4BMuGorOg&s",
+                            "width": "101",
+                            "height": "131"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "citation_keywords": "AIDS conspiracy theory",
+                            "og:image": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642",
+                            "citation_publication_date": "2013/01/01",
+                            "citation_title": "Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa",
+                            "citation_author_institution": "AIDS and Society Research Unit, University of Cape Town, South Africa",
+                            "og:site_name": "Wiley Online Library",
+                            "citation_publisher": "John Wiley & Sons, Ltd",
+                            "citation_journal_title": "Sociology of Health & Illness",
+                            "mathjax-version": "3",
+                            "og:description": "The human immunodeficiency virus (HIV) originated from cross-species transmission of the simian immunodeficiency virus from primates to humans. Yet a significant minority of people in the United Stat...",
+                            "twitter:image": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642",
+                            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+                            "citation_online_date": "2012/04/25",
+                            "citation_issn": "1467-9566",
+                            "citation_language": "en",
+                            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9566.2012.01480.x",
+                            "publication_doi": "10.1111/j.1467-9566.2012.01480.x",
+                            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-9566.2012.01480.x",
+                            "citation_lastpage": "129",
+                            "og:type": "Article",
+                            "pbcontext": ";requestedJournal:journal:14679566;page:string:Article/Chapter View;ctype:string:Journal Content;website:website:pericles;journal:journal:14679566;issue:issue:doi\\:10.1111/shil.2013.35.issue-1;article:article:doi\\:10.1111/j.1467-9566.2012.01480.x;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text",
+                            "og:title": "Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa",
+                            "citation_author": "Nicoli Nattrass",
+                            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9566.2012.01480.x",
+                            "citation_issue": "1",
+                            "citation_firstpage": "113",
+                            "referrer": "origin-when-cross-origin",
+                            "mathjax-enabled": "true",
+                            "viewport": "width=device-width,initial-scale=1",
+                            "citation_doi": "10.1111/j.1467-9566.2012.01480.x",
+                            "mathjax-lazy-load": "true",
+                            "dc.identifier": "10.1111/j.1467-9566.2012.01480.x",
+                            "citation_volume": "35",
+                            "og:url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9566.2012.01480.x",
+                            "article_references": "Nattrass, N. (2013), Understanding the origins and prevalence of AIDS conspiracy beliefs in the United States and South Africa. Sociology of Health & Illness, 35: 113-129. https://doi.org/10.1111/j.1467-9566.2012.01480.x"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://onlinelibrary.wiley.com/cms/asset/f10c8fef-ada4-42b6-af69-d351d6c03699/shil.2013.35.issue-1.cover.gif?trick=1719822908642"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "onlinelibrary.wiley.com\n-----------------------\nVerifying you are human. This may take a few seconds.\n-----------------------------------------------------\nonlinelibrary.wiley.com needs to review the security of your connection before proceeding.",
+                    "content_tokens": 43
+                }
+            }
+        },
+        {
+            "evidence1": {
+                "kind": "customsearch#result",
+                "title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy ...",
+                "htmlTitle": "Rumors and Realities: Making Sense of <b>HIV</b>/<b>AIDS Conspiracy</b> ...",
+                "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "displayLink": "www.ncbi.nlm.nih.gov",
+                "snippet": "There is no evidentiary foundation for the story of the disease as part of a US government or CIA plan to exterminate African Americans. Although HIV/AIDS ...",
+                "htmlSnippet": "There is no evidentiary foundation for the story of the disease as part of a US government or <b>CIA</b> plan to exterminate African Americans. Although <b>HIV</b>/<b>AIDS</b>&nbsp;...",
+                "formattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "htmlFormattedUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "dc.publisher": "American Public Health Association",
+                            "citation_publication_date": "2015/01",
+                            "og:image": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0",
+                            "citation_title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "PubMed Central (PMC)",
+                            "citation_reference": "citation_journal_title=MMWR Morb Mortal Wkly Rep; citation_title=HIV Prevalence Estimates—United States 2006; citation_volume=57; citation_issue=39; citation_publication_date=2008; citation_firstpage=1073; citation_lastpage=1076;",
+                            "citation_journal_title": "American Journal of Public Health",
+                            "ncbi_pdid": "article",
+                            "ncbi_pcid": "/articles/PMC4265931/",
+                            "ncbi_phid": "939B02B78EB0AA3500004C72C208657B.1.m_2",
+                            "og:description": "The social context of the early HIV/AIDS epidemic in the United States provided fertile ground for rumors about transmission. Today, however, rumors about HIV/AIDS persist only within the African American public. Focus group and public discourse data ...",
+                            "ncbi_db": "pmc",
+                            "twitter:site": "@ncbi",
+                            "dc.type": "Text",
+                            "citation_fulltext_html_url": "/pmc/articles/PMC4265931/",
+                            "ncbi_app_version": "0.0",
+                            "ncbi_type": "fulltext",
+                            "citation_pmid": "25393166",
+                            "og:type": "article",
+                            "handheldfriendly": "True",
+                            "ncbi_app": "pmc-frontend",
+                            "og:title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "citation_author": "Jacob Heller",
+                            "citation_abstract_html_url": "/pmc/articles/PMC4265931/?report=abstract",
+                            "dc.date": "2015 January",
+                            "citation_issue": "1",
+                            "dc.contributor": "Jacob Heller",
+                            "citation_firstpage": "e43",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "citation_doi": "10.2105/AJPH.2014.302284",
+                            "mobileoptimized": "320",
+                            "ncbi_op": "retrieved",
+                            "dc.title": "Rumors and Realities: Making Sense of HIV/AIDS Conspiracy Narratives and Contemporary Legends",
+                            "ncbi_domain": "amjph",
+                            "dc.identifier": "10.2105/AJPH.2014.302284",
+                            "citation_volume": "105",
+                            "dc.language": "en",
+                            "og:url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4265931/"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-card-share.jpg?_=0"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... of sustained and effective funding for and attention to the general health of African Americans, the history of health professions’ abuses against African Americans, and the persistence of HIV/AIDS among African Americans (as the focus group data suggest, some African Americans see the very mention of high infection rates among African Americans as “blaming,” which reinforces the sense of distrust). These rumors are simultaneously evidence of a local situation (the level of distrust by one group in the context of one issue) and indicators of the larger social context in which that distrust occurs. The content of rumors about HIV/AIDS is related to the fraught historical relationship between African Americans and mainstream (White) society, and the perceptions of the health professions as agents of White power. Understanding the rumors (and perhaps dispelling them) first requires an understanding of the different roles that collective memory and rumors play in the creation of distrust.\nCollective memory research looks at how groups “know” things and sustain memories of traditions and historical events from generation to generation without formal histories or institutional education. Part of the explanation for distrust of health professions and health initiatives stems from the collective memory of racism and discriminatory abuse in US society, a heritage regularly reaffirmed in everyday experience. Collective memory studies fail, however, when it comes to the question of how alternative stories (such as HIV/AIDS conspiracy accounts) might be conveyed. Rumors are not collective memory; they thrive in the absence of commemorative events, memorials, and rituals. There is no evidentiary foundation for the story of the disease as part of a US government or CIA plan to exterminate African Americans.\nAlthough HIV/AIDS transmission rates continue to fall among many demographic groups, rates of new cases within the African American community remain at tragically high levels. The present study found a similar pattern for rumors—declining rapidly among Whites while stubbornly persisting within the African American public. Just as HIV/AIDS has followed different epidemiological courses within different subpopulations, rumors and stories woven around HIV have also covaried by subpopulation with a correlation across group identity, rumors, and HIV prevalence.\nMETHODS OF DATA COLLECTION\n--------------------------\nThis analysis relies on 2 sources of data. (1) I performed a qualitative review of the public discourse about HIV/AIDS in the “Black Press,” on the Internet, and in other public arenas. (The Black Press, which dates to 1827 in the United States, continues to be a media sector that originates in, caters to, and represents the ideas and issues of the African American community. African Americans invest higher levels of trust and research in the Black Press than in the mainstream...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence2": {
+                "kind": "customsearch#result",
+                "title": "The CIA and AIDS - Conspiracy Theories - TIME",
+                "htmlTitle": "The <b>CIA</b> and <b>AIDS</b> - <b>Conspiracy Theories</b> - TIME",
+                "link": "https://content.time.com/time/specials/packages/article/0,28804,1860871_1860876_1861031,00.html",
+                "displayLink": "content.time.com",
+                "snippet": "Since the Centers for Disease Control and Prevention first reported the HIV/AIDS epidemic in 1981, rumors have persisted that the deadly virus was created ...",
+                "htmlSnippet": "Since the Centers for Disease Control and Prevention first reported the <b>HIV</b>/<b>AIDS</b> epidemic in 1981, rumors have persisted that the deadly virus was created&nbsp;...",
+                "formattedUrl": "https://content.time.com/.../specials/.../0,28804,1860871_1860876_186103...",
+                "htmlFormattedUrl": "https://content.time.com/.../spe<b>cia</b>ls/.../0,28804,1860871_1860876_186103...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQqEEXqeIUwg-gz_EDJgLWsMpDPodNO-jAuft1jAKwYnKQlbirzBkSpFO4&s",
+                            "width": "278",
+                            "height": "181"
+                        }
+                    ],
+                    "organization": [
+                        {
+                            "url": "Time.com"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "date": "Thursday, Nov. 20, 2008",
+                            "path": "/time/specials/packages/article/0,28804,1860871_1860876_1861031,00.html",
+                            "og:image": "https://content.time.com/time/daily/2008/0811/top10_conspiracy_cia.jpg",
+                            "fb:app_id": "53177223193",
+                            "og:type": "article",
+                            "og:site_name": "TIME.com",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "og:title": "Conspiracy Theories - TIME",
+                            "fb:admins": "1124331582,512158401,808970553",
+                            "og:url": "https://content.time.com/time/specials/packages/article/0,28804,1860871_1860876_1861003,00.html",
+                            "og:description": "Since the Centers for Disease Control and Prevention first reported the HIV/AIDS epidemic in 1981, rumors have persisted that the deadly virus was created by the CIA to wipe out homosexuals and..."
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://content.time.com/time/daily/2008/0811/top10_conspiracy_cia.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "On the 40th anniversary of the moon landing — or was it just a sinister hoax? — TIME looks at 10 of the world's most enduring conspiracy theories\n\n9\nof\n10\n\n\n\n\nSince the Centers for Disease Control and Prevention first reported the HIV/AIDS epidemic in 1981, rumors have persisted that the deadly virus was created by the CIA to wipe out homosexuals and African Americans. Even today, the conspiracy theory has a number of high-profile believers. South African President Thabo Mbeki once touted the theory, disputing scientific claims that the virus originated in Africa and accusing the U.S. government of manufacturing the disease in military labs. When she won the Nobel Peace Prize, Kenyan ecologist Wangari Maathai used the international spotlight to support that theory as well. Others insist that the government deliberately injected gay men with the virus during 1978 hepatitis-B experiments in New York, San Francisco and Los Angeles. Still others point to Richard Nixon, who combined the U.S. Army's biowarfare department with the National Cancer Institute  in 1971. Though the co-discoverers of HIV — Dr. Robert Gallo of the National Cancer Institute and Dr. Luc Montagnier of the Pasteur Institute in Paris — don't agree on its origins, most members of the scientific community believe the virus jumped from monkeys to humans some time during the 1930s. \nSince the Centers for Disease Control and Prevention first reported the HIV/AIDS epidemic in 1981, rumors have persisted that the deadly virus was created by the CIA to wipe out homosexuals and African Americans. Even today,...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence3": {
+                "kind": "customsearch#result",
+                "title": "Operation Denver - Wikipedia",
+                "htmlTitle": "Operation Denver - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "displayLink": "en.wikipedia.org",
+                "snippet": "Operation Denver was an active measure disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as ...",
+                "htmlSnippet": "Operation Denver was an active measure disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented <b>HIV</b>/<b>AIDS</b> as&nbsp;...",
+                "formattedUrl": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Operation_Denver",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "referrer": "origin",
+                            "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/RIAN_archive_38725_Director_of_the_USSR_Central_Intelligence_Service_Yevgeny_Primakov.jpg",
+                            "theme-color": "#eaecf0",
+                            "og:image:width": "1200",
+                            "og:type": "website",
+                            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                            "og:title": "Operation Denver - Wikipedia",
+                            "og:image:height": "1773",
+                            "format-detection": "telephone=no"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "Jump to content\nMain menu\nSearch\nAppearance\nCreate account\nLog in\nPersonal tools\nToggle the table of contents\nOperation Denver\n15 languages\nArticle\nTalk\nRead\nEdit\nView history\nTools\nFrom Wikipedia, the free encyclopedia\nOperation Denver\nRussian\tОперация «Инфекция» \nRomanization\tOperatsiya \"Infektsiya\"\nIPA\t\nIn 1992, Director of Russia's Foreign Intelligence Service (SVR) Yevgeny Primakov admitted that the KGB was behind the Soviet newspaper articles claiming that AIDS was created by the U.S. government.\nOperation Denver (sometimes referred to as \"Operation INFEKTION\") was an active measure disinformation campaign run by the KGB in the 1980s to plant the idea that the United States had invented HIV/AIDS as part of a biological weapons research project at Fort Detrick, Maryland. Historian Thomas Boghardt popularized the codename \"INFEKTION\" based on the claims of former East German Ministry for State Security (Stasi) officer Günter Bohnsack , who claimed that the Stasi codename for the campaign was either \"INFEKTION\" or perhaps also \"VORWÄRTS II\" (\"FORWARD II\"). However, historians Christopher Nehring and Douglas Selvage found in the former Stasi and Bulgarian State Security archives materials that prove the actual Stasi codename for the AIDS disinformation campaign was Operation Denver. The operation involved \"an extraordinary amount of effort – funding radio programs, courting journalists, distributing would-be scientific studies\", according to journalist Joshua Yaffa, and even became the subject of a report by Dan Rather on the CBS Evening News.\nThe Soviet Union used the campaign to undermine the United States' credibility, foster anti-Americanism, isolate America abroad, and create tensions between host countries and the U.S. over the presence of American military bases (which were often portrayed as the cause of AIDS outbreaks in local...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence4": {
+                "kind": "customsearch#result",
+                "title": "“The Real Target”: Medical Racism and AIDS Genocide Conspiracy ...",
+                "htmlTitle": "“The Real Target”: Medical Racism and <b>AIDS</b> Genocide <b>Conspiracy</b> ...",
+                "link": "https://scarab.bates.edu/cgi/viewcontent.cgi?article=1403&context=honorstheses",
+                "displayLink": "scarab.bates.edu",
+                "snippet": "May 27, 2021 ... The emergence of acquired immunodeficiency syndrome (AIDS), and the human immunodeficiency virus (HIV) that causes it, left an indelible mark on ...",
+                "htmlSnippet": "May 27, 2021 <b>...</b> The emergence of acquired immunodeficiency syndrome (<b>AIDS</b>), and the human immunodeficiency virus (<b>HIV</b>) that causes it, left an indelible mark on&nbsp;...",
+                "formattedUrl": "https://scarab.bates.edu/cgi/viewcontent.cgi?article=1403&context...",
+                "htmlFormattedUrl": "https://scarab.bates.edu/cgi/viewcontent.cgi?article=1403&amp;context...",
+                "pagemap": {
+                    "metatags": [
+                        {
+                            "moddate": "D:20210527110423-07'00'",
+                            "creationdate": "D:20210527110423-07'00'",
+                            "creator": "Appligent AppendPDF Pro 6.3",
+                            "author": "Madeline Grace Polkinghorn",
+                            "producer": "Prince 12.5 (www.princexml.com)",
+                            "appligent": "AppendPDF Pro 6.3 Linux 64 bit Aug 30 2019 Library 15.0.4",
+                            "title": "“The Real Target”: Medical Racism and AIDS Genocide Conspiracy Theory"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "",
+                    "content_tokens": 0
+                }
+            }
+        },
+        {
+            "evidence5": {
+                "kind": "customsearch#result",
+                "title": "African American people's AIDS conspiracy beliefs best understood ...",
+                "htmlTitle": "African American people&#39;s <b>AIDS conspiracy</b> beliefs best understood ...",
+                "link": "https://www.aidsmap.com/news/jan-2015/african-american-peoples-aids-conspiracy-beliefs-best-understood-terms-social-anxiety",
+                "displayLink": "www.aidsmap.com",
+                "snippet": "Jan 29, 2015 ... Firstly, newspaper articles, blogs, television shows, comedy routines and other media that made reference to HIV/AIDS rumours or conspiracy ...",
+                "htmlSnippet": "Jan 29, 2015 <b>...</b> Firstly, newspaper articles, blogs, television shows, comedy routines and other media that made reference to <b>HIV</b>/<b>AIDS</b> rumours or <b>conspiracy</b>&nbsp;...",
+                "formattedUrl": "https://www.aidsmap.com/.../african-american-peoples-aids-conspiracy-beli...",
+                "htmlFormattedUrl": "https://www.<b>aids</b>map.com/.../african-american-peoples-<b>aids</b>-<b>conspiracy</b>-beli...",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQtV34hGybczI14Ehpn-I00mgDQKRCSUZsNtJ1Haf1hJ1sv9J-uP9unPo&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.aidsmap.com/themes/custom/aidsmap/img/social-card-default.png",
+                            "twitter:card": "summary_large_image",
+                            "twitter:title": "African American people’s AIDS conspiracy beliefs best understood in terms of social anxiety and distrust, not ignorance",
+                            "og:type": "article",
+                            "og:site_name": "aidsmap.com",
+                            "handheldfriendly": "true",
+                            "twitter:url": "https://www.aidsmap.com/news/jan-2015/african-american-peoples-aids-conspiracy-beliefs-best-understood-terms-social-anxiety",
+                            "og:title": "African American people’s AIDS conspiracy beliefs best understood in terms of social anxiety and distrust, not ignorance",
+                            "twitter:creator": "@aidsmap",
+                            "og:description": "The idea that AIDS was created as part of a government-led conspiracy to decimate the African American population remains salient to a significant minority of black people, according to qualitative research published in the January edition of the American Journal of Public Health. The researcher argues that such rumours and narratives are the product of a deep-seated feeling of distrust towards the government, born out of African American people’s history, and are therefore particularly difficult to change.",
+                            "twitter:img": "https://www.aidsmap.com/themes/custom/aidsmap/img/social-card-default.png",
+                            "twitter:site": "@aidsmap",
+                            "viewport": "width=device-width, initial-scale=1.0",
+                            "twitter:description": "The idea that AIDS was created as part of a government-led conspiracy to decimate the African American population remains salient to a significant minority of black people, according to qualitative research published in the January edition of the American Journal of Public Health. The researcher argues that such rumours and narratives are the product of a deep-seated feeling of distrust towards the government, born out of African American people’s history, and are therefore particularly difficult to change.",
+                            "mobileoptimized": "width",
+                            "og:url": "https://www.aidsmap.com/news/jan-2015/african-american-peoples-aids-conspiracy-beliefs-best-understood-terms-social-anxiety"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.aidsmap.com/themes/custom/aidsmap/img/social-card-default.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... health or happiness. Together we have made a difference.\nWith Gift Aid, your generous donation of £10 would be worth £12.50 at no extra cost to you.\nI am a UK taxpayer and I understand that if I pay less Income and /or Capital Gains Tax than the amount of Gift Aid claimed on all my donations in the relevant tax year, it is my responsibility to pay any difference.\nIn our 35th year we’re asking people to donate £35 – that’s just £1 for every year we’ve been providing life-changing information. Any donation you make helps us continue our work towards a world where HIV is no longer a threat to health or happiness.\nThe idea that AIDS was created as part of a government-led conspiracy to decimate the African American population remains salient to a significant minority of black people, according to qualitative research published in the January edition of the American Journal of Public Health. The researcher argues that such rumours and narratives are the product of a deep-seated feeling of distrust towards the government, born out of African American people’s history, and are therefore particularly difficult to change. People holding these beliefs are unlikely to be reassured by factual information from sources they consider to be untrustworthy.\nJacob Heller’s sociological study was based on two sources of data. Firstly, newspaper articles, blogs, television shows, comedy routines and other media that made reference to HIV/AIDS rumours or conspiracy narratives. Secondly, six focus groups conducted at a college in New York state in which all participants were of the same ethnic group – either white, African American or Hispanic. As a research methodology, focus groups can shed light on the shared understandings of people who belong to the same social group as well as the manner in which individuals are influenced by their peers.\nThere were marked differences in the discussions which took place in the different focus groups. Conspiracy theories and rumours rarely came up in the white and Hispanic groups.\nA group of individuals selected and assembled by researchers to discuss and comment on a topic, based on their personal experience. A researcher asks questions and facilitates interaction between the participants.\nA patient’s agreement to take a test or a treatment. In medical ethics, an adult who has mental capacity always has the right to refuse. \n\nA feeling of unease, such as worry or fear, which can be mild or severe. Anxiety disorders are conditions in which anxiety dominates a person’s life or is experienced in particular situations.\nTo eliminate a disease or a condition in an individual, or to fully restore health. A cure for HIV infection is one of the ultimate long-term goals of research today. It refers...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence6": {
+                "kind": "customsearch#result",
+                "title": "Cold War fake news: Why Russia lied over Aids and JFK - BBC News",
+                "htmlTitle": "Cold War fake news: Why Russia lied over <b>Aids</b> and JFK - BBC News",
+                "link": "https://www.bbc.com/news/world-europe-39419560",
+                "displayLink": "www.bbc.com",
+                "snippet": "Apr 1, 2017 ... It was not the only time the KGB successfully pushed a conspiracy theory. Within weeks of the assassination of President Kennedy, it tried ...",
+                "htmlSnippet": "Apr 1, 2017 <b>...</b> It was not the only time the KGB successfully pushed a <b>conspiracy</b> theory. Within weeks of the assassination of President Kennedy, it tried&nbsp;...",
+                "formattedUrl": "https://www.bbc.com/news/world-europe-39419560",
+                "htmlFormattedUrl": "https://www.bbc.com/news/world-europe-39419560",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPmT9nChclL9vzJfC9pjMOJu1YNEWYHIM90YbFNUVjuaYjSEYvT1nRE6Wr&s",
+                            "width": "300",
+                            "height": "168"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg",
+                            "theme-color": "#FFFFFF",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "BBC News",
+                            "msapplication-tileimage": "https://static.files.bbci.co.uk/core/website/assets/static/icons/windows-phone/news/windows-phone-icon-270x270.23502b4459eb7a6ab2ab.png",
+                            "og:description": "KGB political officers in the field had to spend up to a quarter of their time on \"active measures\".",
+                            "twitter:creator": "@BBCWorld",
+                            "twitter:image:alt": "An AIDS awareness ribbon",
+                            "twitter:site": "@BBCWorld",
+                            "fb:admins": "100004154058350",
+                            "msapplication-tilecolor": "#bb1919",
+                            "og:image:alt": "An AIDS awareness ribbon",
+                            "og:type": "article",
+                            "article:section": "Europe",
+                            "twitter:title": "Cold War fake news: Why Russia lied over Aids and JFK",
+                            "og:title": "Cold War fake news: Why Russia lied over Aids and JFK",
+                            "article:author": "https://www.facebook.com/bbcnews",
+                            "twitter:image:src": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg",
+                            "fb:app_id": "1609039196070050",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "twitter:description": "KGB political officers in the field had to spend up to a quarter of their time on \"active measures\".",
+                            "og:locale": "en_GB",
+                            "mobile-web-app-capable": "yes",
+                            "og:url": "https://www.bbc.com/news/world-europe-39419560",
+                            "format-detection": "telephone=no"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://ichef.bbci.co.uk/news/1024/branded_news/12EBA/production/_95389477_976549gettyimages-585174198.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... early 1980s, the Aids virus seemed to emerge from nowhere. \nThere was no cure and its origins were a mystery. But one theory began to surface - that it was the product of secret US military research at the Fort Detrick Laboratory. \nWhat was the source for this piece of fake news? The answer was the KGB, the Soviet intelligence service. \n\"The Aids disinformation campaign was one of the most notorious and one of the most successful Soviet disinformation campaigns during the Cold War,\" argues Thomas Boghardt, a historian at the US Army Center of Military History who has studied the case in detail., external\nKGB political officers in the field were tasked with spending up to a quarter of their time on what were called \"active measures\". \nMr Boghardt believes the KGB station in New York first came up with the idea, which played into distrust in US institutions and rumours of covert biological warfare programmes. \n\"Intelligence meant not only gathering but using - or weaponising - that intelligence for influence operations,\" he explains. \nThe aim of these \"active measures\" was to sow confusion and distrust either within a country or between allies. He says that in 1980, the Soviets spent an astonishing $3bn (£2.4bn) a year on active measures.\nIt was not the only time the KGB successfully pushed a conspiracy theory. \nWithin weeks of the assassination of President Kennedy, it tried to circulate stories of official CIA involvement. \nThe Russians tried to implicate the CIA in the assassination of President Kennedy\nIt even covertly financed a book on the subject published in America within a year of the killing. \nMany attempts at disinformation were amateurish and failed. The main challenge was crafting something plausible. Those that succeeded either blended fact with fiction or worked with the grain of existing conspiracies. \nWhen it came to targeting Britain, Moscow had help in the shape of former MI6 officer and KGB spy, Kim Philby. \n\"He would provide advice on how to do it,\" General Oleg Kalugin - formerly of the KGB and Philby's ex-colleague - told me. \"He said 'this would not work, that sounds too Soviet'.\" \nFormer KGB General Oleg Kalugin says double agent Kim Philby helped make Russian interventions realistic\nTypically this would involve taking genuine documents from Western countries which spies had stolen and then adding in a few fake paragraphs to twist the meaning. \n\"We preferred to work on genuine documents with some additions and changes, and Phil...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence7": {
+                "kind": "customsearch#result",
+                "title": "1970s HIV-1 Genomes Reveal the Early History of HIV/AIDS in the US",
+                "htmlTitle": "1970s HIV-1 Genomes Reveal the Early <b>History of HIV</b>/<b>AIDS</b> in the US",
+                "link": "https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-diseases-training/2017/presentations/worobey-azid-web.pdf",
+                "displayLink": "www.azdhs.gov",
+                "snippet": "Where did HIV come from? • Divine retribution. • Doesn't matter--it doesn't cause AIDS. • Conspiracy theories - e.g. the CIA ...",
+                "htmlSnippet": "Where did <b>HIV</b> come from? • Divine retribution. • Doesn&#39;t matter--it doesn&#39;t cause <b>AIDS</b>. • <b>Conspiracy theories</b> - e.g. the <b>CIA</b>&nbsp;...",
+                "formattedUrl": "https://www.azdhs.gov/documents/...disease.../worobey-azid-web.pdf",
+                "htmlFormattedUrl": "https://www.azdhs.gov/documents/...disease.../worobey-azid-web.pdf",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmOgKw1gUa55TVPwEgkbZxlW_cmFAw9e1Uj3E72CUkqzQ8vjcbNAgqfQ&s",
+                            "width": "258",
+                            "height": "195"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "moddate": "D:20170727140440-07'00'",
+                            "creationdate": "D:20170727140424-07'00'",
+                            "creator": "Acrobat PDFMaker 17 for PowerPoint",
+                            "author": "Michael Worobey",
+                            "producer": "Adobe PDF Library 15.0",
+                            "title": "Questions:"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "x-raw-image:///87e1e61e4c0bc2628265e985ef7629afdc9086a22fbd612151ce52bf72013921"
+                        }
+                    ]
+                },
+                "mime": "application/pdf",
+                "fileFormat": "PDF/Adobe Acrobat",
+                "website_content": {
+                    "content": "# 1970s HIV-1 Genomes Reveal the Early History of HIV/AIDS in the US \nMichael Worobey Department Head, Professor Ecology and Evolutionary Biology University of Arizona Where did AIDS come from? \nAs a national correspondent for the San Francisco Chronicle , Shilts was the first newspaper reporter to cover the AIDS epidemic full time. In his book And the Band Played On—AIDS: The First Five Years (1980-1985) , he took almost everyone to task on how the first years of the epidemic were handled \nRandy Shilts \n• First identified in US gay males in the early 1980s, severe immunosuppression \n• Pneumocystis carinii pneumonia \n• Other rare opportunistic infections, horrendous suffering and death \nHIV/AIDS basics Early history \n• New syndrome recognized by 1981 \n• Retroviral agent isolated in 1983 \n• Sexually transmitted, but also via needles, transfusions, birth \n• Hit these risk groups hard in the US, but also high prevalence in Haiti, Central Africa \n> Françoise Barre-Sinoussi\n> HIV/AIDS basics\n# The origin of HIV Where did HIV come from? \n• Divine retribution \n• Doesn’t matter--it doesn’t cause AIDS \n• Conspiracy theories - e.g. the CIA did it \n• Voodoo rituals \n• Ritualistic use of monkey blood \n• Contamination of vaccines \n• Zoonosis (a disease communicable from animals to humans under natural conditions) \nHow can we discriminate between these hypotheses? \nOrigins of HIV/AIDS • Divine retribution \n• Doesn’t matter--it doesn’t cause AIDS \n• Conspiracy theories - e.g. the CIA did it \n• Ritualistic use of monkey blood \n• Zoonosis (a disease communicable from animals to man under natural conditions) \n• Contamination of vaccines? \n• THE PLAUSIBLE HYPOTHESES ALL HAVE IN COMMON THE INCRIMINATION OF SIMIAN IMMUNODEFICIENCY VIRUSES (SIVcpz) FROM CHIMPANZEES \n• THE KEY DISCOVERY WAS THE FINDING THAT AFRICAN PRIMATES ARE INFECTED WITH SIMILAR VIRUSES… \nOrigins of HIV/AIDS Pan troglodytes \nCercocebus \natys \nCercopithecus \nlhoesti \nCercopithec...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence8": {
+                "kind": "customsearch#result",
+                "title": "Many blacks cite AIDS conspiracy",
+                "htmlTitle": "Many blacks cite <b>AIDS conspiracy</b>",
+                "link": "https://www.nbcnews.com/id/wbna6867177",
+                "displayLink": "www.nbcnews.com",
+                "snippet": "Jan 25, 2005 ... More than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory ...",
+                "htmlSnippet": "Jan 25, 2005 <b>...</b> More than 20 years after the <b>AIDS</b> epidemic arrived in the United States, a significant proportion of African Americans embrace the theory&nbsp;...",
+                "formattedUrl": "https://www.nbcnews.com/id/wbna6867177",
+                "htmlFormattedUrl": "https://www.nbcnews.com/id/wbna6867177",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOF6WcTfkWXcd1WAPGcUI4-Z2ewEo6yZ-ifHnXCEgT24dFNgiAJIOhkrxz&s",
+                            "width": "318",
+                            "height": "159"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "msapplication-config": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-PNG.ico/browserconfig.xml",
+                            "og:image": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png",
+                            "og:image:width": "1200",
+                            "twitter:card": "summary_large_image",
+                            "og:site_name": "NBC News",
+                            "branch:deeplink:title": "Many blacks cite AIDS conspiracy",
+                            "og:image:type": "image/gif",
+                            "twitter:creator": "NBCNews",
+                            "og:description": "More than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory that government scientists created the disease to control or wipe out their communities, according to a study released by Rand Corp. and Oregon State University.",
+                            "og:image:secure_url": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png",
+                            "branch:deeplink:description": "More than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory that government scientists created the disease to control or wipe out their communities, according to a study released by Rand Corp. and Oregon State University.",
+                            "twitter:image": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png",
+                            "twitter:site": "@NBCNews",
+                            "article:content_tier": "free",
+                            "branch:deeplink:type": "article",
+                            "og:type": "article",
+                            "twitter:title": "Many blacks cite AIDS conspiracy",
+                            "branch:deeplink:image": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png",
+                            "og:title": "Many blacks cite AIDS conspiracy",
+                            "og:image:height": "630",
+                            "fb:pages": "155869377766434",
+                            "twitter:image:src": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png",
+                            "fb:app_id": "10150138890205613",
+                            "viewport": "width=device-width, initial-scale=1, user-scalable=yes",
+                            "twitter:description": "More than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory that government scientists created the disease to control or wipe out their communities, according to a study released by Rand Corp. and Oregon State University.",
+                            "og:locale": "en_US",
+                            "og:url": "https://www.nbcnews.com/id/wbna6867177",
+                            "article:opinion": "false"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://media-cldnry.s-nbcnews.com/image/upload/v1696280772/newsgroup-logos/nbcnews/social/primary-white-1680x840.png"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]...—\n*   \n*   \n*   \n*   (sms:?body=Many%20blacks%20cite%20AIDS%20conspiracyvianbcnews-https://www.nbcnews.com/id/wbna6867177)\n!(blob:https://www.nbcnews.com/5fa0298d14f272fb15cfbf37f6a434da)\nCreate your free profile or log in to save this article\nSign Out\nSearch\nProfile\n Sign Out\n Sign InCreate your free profile\nSections\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \ntv\n*   \n*   \n*   \n*   \n*   \nFeatured\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nMore From NBC\n*   \n*   \n*   \n*   \n*   \n*   \n*   \nFollow NBC News\n*   \n*   \n*   \nnews Alerts\n-----------\nThere are no new alerts at this time\nSearch\n*   \n*   \n*   \n*   (sms:?body=Many%20blacks%20cite%20AIDS%20conspiracyvianbcnews-https://www.nbcnews.com/id/wbna6867177)\n*   (javascript:if\\(window.print\\)window.print\\(\\))\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \nMany blacks cite AIDS conspiracy\n================================\nMore than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory that government scientists created the disease to control or wipe out their communities, according to a study released by Rand Corp. and Oregon State University.\n*   \n*   \n*   \n*   \n*   (sms:?&body=ManyblacksciteAIDSconspiracyvianbcnews-https://www.nbcnews.com/id/wbna6867177)\n*   Print\n*   !(blob:https://www.nbcnews.com/5fa0298d14f272fb15cfbf37f6a434da)Save\n    Create your free profile or log in to save this article\nJan. 25, 2005, 8:20 PM UTC / Source: a href=\"http://www.washingtonpost.com/wp-srv/front.htm\" linktype=\"External\" resizable=\"true\" status=\"true\" scrollbars=\"true\"><p>The Washington Post</p></a\nBy By Darryl Fears\nMore than 20 years after the AIDS epidemic arrived in the United States, a significant proportion of African Americans embrace the theory that government scientists created the disease to control or wipe out their communities, according to a...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        },
+        {
+            "evidence9": {
+                "kind": "customsearch#result",
+                "title": "2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED ...",
+                "htmlTitle": "2. <b>AIDS ORIGIN CONSPIRACY THEORIES</b> IN THE UNITED ...",
+                "link": "https://www.degruyter.com/document/doi/10.7312/natt14912-003/html",
+                "displayLink": "www.degruyter.com",
+                "snippet": "... CIA (2002–2003) AIDS is a form of genocide against blacks 15 (2002–2003) ... for AIDS existed, but would only be released when enough people had died ...",
+                "htmlSnippet": "... <b>CIA</b> (2002–2003) <b>AIDS</b> is a form of genocide against blacks 15  (2002–2003) ... for <b>AIDS</b> existed, but would only be released when enough people had died&nbsp;...",
+                "formattedUrl": "https://www.degruyter.com/document/doi/10.7312/natt14912-003/html",
+                "htmlFormattedUrl": "https://www.degruyter.com/document/doi/10.7312/natt14912-003/html",
+                "pagemap": {
+                    "cse_thumbnail": [
+                        {
+                            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj92fxNfOLp7f9sYMMc9U9ZKdlOM4gUdxoMl5EGZyMCsRSarTJI74wUY&s",
+                            "width": "290",
+                            "height": "174"
+                        }
+                    ],
+                    "metatags": [
+                        {
+                            "og:image": "https://www.degruyter.com/document/cover/isbn/9780231520256/product",
+                            "citation_isbn": "9780231520256",
+                            "citation_publication_date": "2012/03/20",
+                            "og:type": "article",
+                            "article:published_time": "2012-03-20",
+                            "article:section": "The AIDS Conspiracy",
+                            "citation_title": "2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA",
+                            "og:site_name": "De Gruyter",
+                            "citation_publisher": "Columbia University Press",
+                            "og:title": "2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA",
+                            "citation_inbook_title": "The AIDS Conspiracy",
+                            "google": "notranslate",
+                            "og:image:type": "image/jpeg",
+                            "og:description": "2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA was published in The AIDS Conspiracy on page 11.",
+                            "dcterms.rightsholder": "Walter de Gruyter GmbH",
+                            "citation_firstpage": "11",
+                            "og:locale:alternate": "de",
+                            "viewport": "width=device-width, initial-scale=1",
+                            "citation_language": "en",
+                            "dcterms.rights": "De Gruyter expressly reserves the right to use all content for commercial text and data mining within the meaning of Section 44b of the German Copyright Act.",
+                            "og:locale": "en",
+                            "og:url": "https://www.degruyter.com/document/doi/10.7312/natt14912-003/html",
+                            "citation_xml_url": "https://www.degruyter.com/document/doi/10.7312/natt14912-003/xml",
+                            "citation_lastpage": "42"
+                        }
+                    ],
+                    "cse_image": [
+                        {
+                            "src": "https://www.degruyter.com/assets/images/966c7a7b7d8c37697e77128b235c1699-degruyter-print-media-logo.jpg"
+                        }
+                    ]
+                },
+                "website_content": {
+                    "content": "[Content truncated]... available to view.\nLicensed Unlicensed Requires Authentication Published by  2012\n2\\. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA\n=========================================================================\nFrom the book \n--------------------------------------------------------------------------------------------------\nCite this Share this\nShowing a limited preview of this publication:\nCite this chapter\n*   \n*   \n*   \n*   \n*   \n\"2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA\". _The AIDS Conspiracy: Science Fights Back_, New York Chichester, West Sussex: Columbia University Press, 2012, pp. 11-42. \n(2012). 2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA. In _The AIDS Conspiracy: Science Fights Back_ (pp. 11-42). New York Chichester, West Sussex: Columbia University Press. \n2012\\. 2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA. _The AIDS Conspiracy: Science Fights Back_. New York Chichester, West Sussex: Columbia University Press, pp. 11-42. \n\"2. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA\" In _The AIDS Conspiracy: Science Fights Back_, 11-42. New York Chichester, West Sussex: Columbia University Press, 2012. \n2\\. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA. In: _The AIDS Conspiracy: Science Fights Back_. New York Chichester, West Sussex: Columbia University Press; 2012. p.11-42. \nCopied to clipboard\nDownload:   \nShare this chapter\n*   \n*   \n*   \n### Supplementary Materials\nPlease login or register with De Gruyter to order this product.\nFrom the book\n]\nChapters in this book (14)\n--------------------------\n2\\. AIDS ORIGIN CONSPIRACY THEORIES IN THE UNITED STATES AND SOUTH AFRICA\nX\n!\nGet 50% off now.\nThe De Gruyter Brill Summer Sale is here\nUse the discount code below at the checkout before the offer ends on  \n31 August 2024.\nDiscount code: DGBSS24\n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*   \n*...[Content truncated]",
+                    "content_tokens": 500
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Claim": "A video authentically shows Oscar-winning actor Emma Stone calling stand-up comedian Jo Koy an \"a--hole\" for making a joke about Taylor Swift.",
+    "Video_information": {
+        "video_date": 20240108.0,
+        "platform": "twitter",
+        "video_headline": "Emma Stone jokes about getting Taylor Swifts support at the #GoldenGlobes",
+        "video_transcript": "An asshole. Am I right? I've known her for for almost 20 years. I was very happy she was there, and she was also nominated tonight, which was wonderful. And, yes. What an asshole.",
+        "Video_descriptor": "The video begins at an elegantly set indoor venue, likely The Beverly Hilton, where a woman in a shimmering dress stands at the center of the stage, speaking into a microphone as she addresses the audience. She is soon joined by a man who also engages with the crowd through the microphone. Following their introduction, the woman begins to sing, and the man accompanies her beautifully on the piano, eliciting cheers and applause from the audience as she concludes her performance. The atmosphere is festive and supportive, highlighted by an excited audience that can be seen clapping and raising hands in appreciation. After the song ends, the video captures the woman posing for pictures with both the audience and the man, creating a moment of celebration and connection with her fans. The scene then transitions as the woman walks up the stairs on the stage while the man speaks into the microphone, fostering a sense of connection and gratitude towards the attendees. The final moments of the video feature the woman once again posing for photographs alongside the man, solidifying a joyful and glamorous experience at what appears to be a prestigious award ceremony, as indicated by the backdrop showcasing 'Golden Globes.' The overall atmosphere radiates warmth and accomplishment, perfectly capturing the celebratory essence of the event."
+    },
+    "Initial_Question_Generation": {
+        "Primary_Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?",
+        "Secondary_Questions": {
+            "Secondary_Question_1": "Is there context around why Emma Stone referred to Jo Koy in this manner?",
+            "Secondary_Question_2": "Is the joke Jo Koy made about Taylor Swift visible in the video content?",
+            "Secondary_Question_3": "What is the relationship between Emma Stone and Taylor Swift referenced in the video?",
+            "Secondary_Question_4": "Is the event shown in the video genuinely the Golden Globes?"
+        },
+        "Question": "Does the video clearly show Emma Stone making the comment about Jo Koy being an 'a--hole'?",
+        "Answer": "Yes, the video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' In the video, Emma Stone describes her long relationship with Taylor Swift and jokingly states, 'But what an a-hole,' in reference to a humorous context that is tied to the awards ceremony. This specific comment aligns with coverage from several reputable sources, confirming that she made the remark during the Golden Globes event. The evidence indicates that Emma Stone's comments were made while she was speaking affectionately about Taylor Swift, amidst the backdrop of Jo Koy's attempted jokes that did not resonate well with the audience. Additionally, reports note that Stone's joke was perceived as lighthearted banter, implying there was no actual animosity in her comment, but it reflects humor tied to the event's context. Jo Koy's jokes during the ceremony received backlash, further contextualizing Stone's comment and showcasing how her remark was part of a comedic exchange rather than a serious insult.",
+        "Confidence": "90%"
+    },
+    "CVResult": {
+        "Judgment": "Yes",
+        "Confidence": "90%",
+        "Reason": "The existing information is sufficient to determine the truthfulness of the claim. The video transcript explicitly includes Emma Stone stating, 'What an asshole,' which directly references Jo Koy in a manner that aligns with the claim. Furthermore, the context provided indicates that this comment was made during the Golden Globes event, where her remarks were intended as humorous rather than malicious. Reports note that her comments were part of a lighthearted banter related to Jo Koy's jokes, which further substantiates the claim. Thus, the evidence is robust, and the claim is deemed truthful with a high level of confidence."
+    },
+    "Final_Judgement": {
+        "Answer": "True",
+        "Reasons": "The video clearly shows Emma Stone making the comment about Jo Koy being an 'a--hole.' She is speaking about her long relationship with Taylor Swift and jokingly remarks, 'But what an a-hole,' indicating that her comment is within a humorous context. Multiple reputable sources confirm this interpretation of her statement during the Golden Globes ceremony, suggesting it was part of an affectionate and lighthearted exchange rather than an actual insult. Additionally, coverage notes that Jo Koy's jokes during the event received mixed reactions from the audience, and Stone's comment can be seen as a playful jab tied to that context. Therefore, it matches the claim accurately and reflects the jovial atmosphere of the event [Initial_Question_Generation_Query 1_evidence 1].",
+        "Therefore, the Claim authenticity is": "True",
+        "The information type is": "Real"
+    }
+}
